@@ -119,6 +119,9 @@
     out.push(h("h2", null, "최신 인플루언서 발언"));
     out.push(cards(S.posts.filter(function (p) { return p.kind !== "news"; }).slice(0, 30), "아직 글이 없습니다."));
     out.push(h("p", { class: "note" }, NOTE));
+    out.push(h("p", { class: "note links" },
+      h("a", { href: BASE + "docs/terms.html", target: "_blank", rel: "noopener" }, "이용약관"), " · ",
+      h("a", { href: BASE + "docs/privacy.html", target: "_blank", rel: "noopener" }, "개인정보처리방침")));
     return out;
   }
 
