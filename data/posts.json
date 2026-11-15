@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-15T13:10:47.076248+00:00",
+ "updated": "2026-11-15T13:28:59.026865+00:00",
  "posts": [
+  {
+   "id": "7e082e1f0a3d3cf7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "'Massive shoes to fill': Wall Street sours on Nvidia stock after Jensen Huang's exit",
+   "excerpt": "As the market digested the unfolding drama at Nvidia, at least 10 analysts downgraded their Buy rating on the stock to Hold.",
+   "url": "https://finance.yahoo.com/markets/article/massive-shoes-to-fill-wall-street-weighs-nvidia-stock-amid-ceo-fallout-131854664.html?.tsrc=rss",
+   "published": "2026-11-15T13:18:54+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
   {
    "id": "f1d0b7441e6ef044",
    "kind": "reddit",
@@ -43,6 +58,36 @@
    "published": "2026-11-15T13:07:32+00:00",
    "tickers": [
     "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "f748efbb8e285d92",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Meta (META) Faces $880 Million Italy Fine Over User Photo Access",
+   "excerpt": "Meta Platforms (NasdaqGS:META) faces a proposed €880 million fine in Italy over alleged misuse of users' photos and metadata. Italy's data protection authority targets Facebook's Gallery Suggestions feature for accessing and processing images without explicit, informed consent. Meta has stated it plans to appeal the Italian regulator's decision through available legal channels. The Italian fine over Gallery Suggestions arrives as regulators intensify scrutiny of how Meta handles user data...",
+   "url": "https://finance.yahoo.com/technology/articles/meta-meta-faces-880-million-130640061.html?.tsrc=rss",
+   "published": "2026-11-15T13:06:40+00:00",
+   "tickers": [
+    "META"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1c5c9b9ae0e0e056",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Does SoFi Technologies (SOFI) Polygon Stablecoin Expansion Mean For Users?",
+   "excerpt": "SoFi Technologies (NasdaqGS: SOFI) expanded its bank issued stablecoin, SoFiUSD, to the Polygon blockchain in mid November 2026. SoFiUSD is issued by a U.S. national bank and is described as being backed 1:1 by U.S. dollars held in reserve. The Polygon launch takes SoFiUSD to a third major network after Ethereum and Solana, widening cross chain payment options for users. The move to Polygon for SoFiUSD, a bank issued stablecoin, is worth weighing alongside the rest of our findings on SoFi...",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/does-sofi-technologies-sofi-polygon-130607240.html?.tsrc=rss",
+   "published": "2026-11-15T13:06:07+00:00",
+   "tickers": [
+    "SOFI"
    ],
    "summary_ko": null,
    "tone": null
@@ -152,8 +197,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 젠슨 황이 지난주 사임했습니다.",
+    "중국 간첩 혐의를 받는 인물과의 연루 의혹이 배경입니다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "cff828898211c856",
@@ -198,6 +246,21 @@
    "tickers": [
     "AMZN",
     "MU"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "976de1c3bdd5a8e7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia had no succession plan when Jensen Huang quit. Former Fortune 500 CEOs call it ‘preposterous’",
+   "excerpt": "Jensen Huang had 60 direct reports and no clear heir. Ex-CEOs weigh in on how that could have been allowed to happen.",
+   "url": "https://finance.yahoo.com/technology/articles/nvidia-had-no-succession-plan-100000756.html?.tsrc=rss",
+   "published": "2026-11-15T10:00:00+00:00",
+   "tickers": [
+    "NVDA"
    ],
    "summary_ko": null,
    "tone": null
@@ -339,8 +402,11 @@
     "AAPL",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 역사적인 매도세와 AI 거래의 향방을 논의했습니다.",
+    "AMD와 애플이 수혜를 보는 이유를 다뤘습니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5d63104b0c00ae0b",
@@ -810,8 +876,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 복귀 가능성이 언급되었습니다.",
+    "일론 머스크는 황 없이는 엔비디아가 중요 계약을 잃을 수 있다고 보았습니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "432e39af0a85817f",
@@ -990,8 +1059,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 관련 스캔들 등 주말 주요 헤드라인을 다뤘습니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "19785f769f5eb04e",
@@ -1022,8 +1093,11 @@
     "AAPL",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 역사적 매도세와 AI 시장의 흐름을 다뤘습니다.",
+    "AMD와 애플의 강세 배경을 함께 논의했습니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "2cd1d1b229533664",
@@ -1052,8 +1126,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "앤스로픽의 IPO가 AI에 대한 투자 열기를 시험할 예정입니다.",
+    "엔비디아와 젠슨 황의 퇴진이 관련 상장에 영향을 미칠 수 있습니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "a3876d58befcb981",
@@ -1067,8 +1144,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO 관련 이슈와 선거 충격 속 빅테크의 향방을 분석했습니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "bf74fd5f3c2a2c69",
@@ -1114,8 +1193,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO의 스캔들 이후 파장과 AI 주가에 미칠 영향을 논의했습니다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "8311352f9b70835f",
@@ -1269,8 +1350,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "트럼프 행정부 내에서 대중국 엔비디아 칩 수출 제한을 둘러싼 마찰이 보도되었습니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3e3ae18ac89c722c",
@@ -1284,8 +1367,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아는 젠슨 황의 갑작스러운 퇴임 이후 후계자 문제를 마주하고 있습니다.",
+    "중국 전략과 AI 영향력을 유지할 수 있을지 주목됩니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3215db0b1b5466bf",
@@ -1298,6 +1384,21 @@
    "published": "2026-11-14T14:00:00+00:00",
    "tickers": [
     "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "854e3fdc42065d5e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cerebras Q3 Results: How Much More Proof Does Wall Street Need?",
+   "excerpt": "Cerebras Systems beat Q3 estimates with 70% core revenue growth and a large backlog, driven by hyperscaler demand, including a newly revealed Microsoft partnership, though analysts flag execution risks.",
+   "url": "https://www.marketbeat.com/articles/cerebras-q3-results-how-much-more-proof-does-wall-street-need/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+   "published": "2026-11-14T13:15:00+00:00",
+   "tickers": [
+    "MSFT"
    ],
    "summary_ko": null,
    "tone": null
@@ -1347,8 +1448,11 @@
     "AMD",
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "최근 반도체 주가가 크게 하락한 가운데 마이클 버리가 관련 주식을 공매도한 것으로 나타났다.",
+    "그는 여러 인기 주식을 하락에 베팅하는 동시에 특정 종목은 대량 매수하고 있다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1497a6f42ca906c3",
@@ -1748,8 +1852,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "테슬라는 2만 9990달러의 사이버캡 주문을 받기 시작했으며 월 299달러의 자율주행 구독이 필수적이다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ae45fa021a5603d4",
@@ -1763,8 +1869,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "박스 CEO 에런 레비는 엔비디아의 지배력이 끝났다고 단정하기는 이르다고 밝혔다.",
+    "다만 혁신 주기를 놓치면 칩 회사가 경쟁에서 영원히 밀려날 수 있다고 경고했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1c2196cece67683b",
@@ -1973,8 +2082,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일론 머스크는 젠슨 황을 엔비디아 CEO로 복귀시키자는 청원에 서명하겠다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7ad4c67c259b648c",
@@ -2034,8 +2145,10 @@
    "tickers": [
     "AAPL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "인공지능 관련 주식 매도세 속에서 안전자산을 선호하는 투자자들로 인해 애플 주가가 사상 최고치를 기록했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0fa317b83aa6c885",
@@ -2064,8 +2177,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 최대 고객사들이 자체 칩을 설계 및 구매하는 가운데, 고객들의 대안 모색 움직임이 나타나고 있다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "a2663f7a20ad9481",
@@ -2140,8 +2255,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "시장 마감 결과 증시는 혼조세를 보였으며, 엔비디아는 논란 속에 한 주 동안 12% 하락했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "1182e94e7317dc60",
@@ -2217,8 +2334,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황과 하워드 루트닉은 2026년 말까지 의회에 출석하여 증언하기로 합의했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "104a1e8ce8a135b5",
@@ -2384,8 +2503,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "빌 조지는 젠슨 황의 사임 이후 엔비디아의 이사회 구성이 기술 기업에 적합하지 않다고 지적했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "203dc3724ae36e8d",
@@ -2432,8 +2553,11 @@
     "GOOGL",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황은 엔비디아로부터 연간 8억 달러가 넘는 배당금을 받는 것으로 전해졌다.",
+    "전문가들은 테크 기업에 적합하지 않은 이사회 구성 등에 대해 우려를 제기했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "78b1cb6440f1e92d",
@@ -2449,8 +2573,11 @@
     "AAPL",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "팟캐스트에서 엔비디아의 역사적인 매도세와 AI 투자 흐름을 논의했습니다.",
+    "AMD와 애플의 강세 및 시장의 이면을 함께 다뤘습니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "dc560f6de6a69650",
@@ -2726,8 +2853,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO 젠슨 황의 사임 소식을 다루고 있습니다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "935aca517160c7a6",
@@ -2880,8 +3009,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 퇴임과 주가 급락 속에서 투자자들의 대응을 다룹니다.",
+    "임시 CEO와 경영진이 연속성을 제공할 수 있다고 언급합니다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "d56d846c4d251489",
@@ -3124,8 +3256,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아와 관련해 예상치 못한 상황에 대한 긴급 업데이트 방송입니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e4585394d843e7e8",
@@ -3338,8 +3472,11 @@
     "AAPL",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "방송에서 엔비디아의 급락과 AI 관련 주의 흐름을 분석했습니다.",
+    "애플과 AMD의 성과 및 시장 상황을 함께 다뤘습니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "bdb63df5479a3012",
@@ -3458,8 +3595,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO와 관련된 법률 대리인 선임 및 해임 소식을 다룹니다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "37895a76ed88951e",
@@ -3594,8 +3733,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO의 스캔들과 이사회의 교체 검토 소식을 전하고 있습니다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "ac6a178b2679afd6",
@@ -3642,8 +3783,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황이 엔비디아 CEO와 이사직에서 즉시 사임했습니다.",
+    "콜레트 크레스 CFO가 임시 CEO를 맡게 되었습니다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "77df3d90284d66ae",
@@ -3672,8 +3816,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "미국 의회가 엔비디아 CEO를 비공개 회의에 소환했습니다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5bb568f35b74a215",
@@ -3687,8 +3833,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 이사회가 CEO에 대한 조사를 시작했으며 주가가 하락했습니다.",
+    "최근 최고가 대비 주가가 크게 하락한 상태입니다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "4cc6486069a09c12",
@@ -3733,7 +3882,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "ea7ffea04d71ba6a",
@@ -3748,7 +3898,8 @@
     "AMD"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "d3bbd3f5baecb983",
@@ -3763,7 +3914,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "9ee75ee1a39c77cc",
@@ -3778,7 +3930,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "209ed0ff81908955",
@@ -3793,7 +3946,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "161b0a9f5947724c",
@@ -3823,7 +3977,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "c9747c5977a3f715",
@@ -3838,7 +3993,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "b411b3655ada183a",
@@ -3853,7 +4009,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "bd8c04fca2f61cca",
@@ -3868,7 +4025,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "14dc024b1637f8a2",
@@ -3883,7 +4041,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "32977bc822a52dc5",
