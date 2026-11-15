@@ -1,7 +1,8 @@
 /* 스톡피드 앱: GitHub에 30분마다 저장되는 수집 결과(data/*.json)를 읽어 화면에 보여줍니다. */
 (function () {
   "use strict";
-  var onPages = /github\.io$/.test(location.hostname) || location.hostname === "localhost" || location.hostname === "127.0.0.1";
+  // 웹(GitHub Pages)에서는 같은 주소의 데이터를, 안드로이드 앱 안에서는 웹에 게시된 데이터를 읽습니다.
+  var onPages = !window.Capacitor && (/github\.io$/.test(location.hostname) || location.hostname === "localhost" || location.hostname === "127.0.0.1");
   var BASE = onPages ? "" : "https://jspark5938.github.io/stockfeed/";
   var KIND = { youtube: "YouTube", reddit: "Reddit", news: "뉴스" };
   var TONE = { pos: "▲ 긍정", neu: "■ 중립", neg: "▼ 부정" };
