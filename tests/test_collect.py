@@ -28,17 +28,29 @@ class T(unittest.TestCase):
         self.assertEqual(c.tag_tickers("I spy a coin, AMDOCS, Intelligent", TICKERS), [])
 
     def test_collect_end_to_end(self):
-        sources = {"youtube": [{"name": "ch", "channel_id": "UCx"}],
+        import urllib.error
+        sources = {"youtube": [{"name": "ch", "handle": "@ch"}, {"name": "nochannel", "handle": "@none"}],
                    "reddit": [{"name": "r/stocks", "url": "reddit"}, {"name": "bad", "url": "broken"}],
                    "news_per_ticker": {"name": "Yahoo", "url_template": "yahoo-{ticker}"}}
+        calls = {"reddit": 0}
         def fake(url):
-            if "youtube" in url: return (FX / "youtube.xml").read_bytes()
-            if url == "reddit": return (FX / "reddit.xml").read_bytes()
-            if url == "yahoo-NVDA": return (FX / "yahoo.xml").read_bytes()
+            if url.endswith("/@ch"): return b'<link rel="alternate" href="https://www.youtube.com/feeds/videos.xml?channel_id=UCabcdefghijklmnopqrstuv">'
+            if url.endswith("/@none"): return b"<html>consent</html>"
+            if "channel_id=UCabcdefghijklmnopqrstuv" in url: return (FX / "youtube.xml").read_bytes()
+            if url == "reddit":
+                calls["reddit"] += 1
+                if calls["reddit"] == 1: raise urllib.error.HTTPError(url, 429, "Too Many Requests", None, None)
+                return (FX / "reddit.xml").read_bytes()
+            if url.startswith("yahoo-"): return (FX / "yahoo.xml").read_bytes()
             raise OSError("network down")
-        posts, ok, total = c.collect(sources, {k: TICKERS[k] for k in ("NVDA", "AMD", "TSLA")}, fake, log=lambda m: None)
-        self.assertEqual((ok, total), (3, 6))
-        self.assertEqual(sorted(p["tickers"][0] for p in posts), ["NVDA", "NVDA", "TSLA"])  # 무관한 영상은 제외
+        waits, channels = [], {}
+        posts, ok, total = c.collect(sources, {k: TICKERS[k] for k in ("NVDA", "AMD", "TSLA")}, fake,
+                                     log=lambda m: None, channels=channels, wait=waits.append)
+        self.assertEqual((ok, total), (5, 7))  # @none 과 bad 만 실패
+        self.assertEqual(channels, {"@ch": "UCabcdefghijklmnopqrstuv"})
+        self.assertEqual(waits, [3, 20, 3])  # 429 뒤 한 번 재시도
+        # 종목 언급 없는 영상·뉴스("Chip stocks rally")는 제외
+        self.assertEqual(sorted((p["kind"], tuple(p["tickers"])) for p in posts), [("reddit", ("TSLA",)), ("youtube", ("NVDA", "AMD"))])
 
     def test_merge_and_trends(self):
         now = datetime(2026, 11, 15, 12, tzinfo=timezone.utc)

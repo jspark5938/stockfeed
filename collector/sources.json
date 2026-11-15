@@ -1,10 +1,84 @@
 {
-  "_설명": "수집할 무료 소스 목록입니다. youtube에는 추적할 인플루언서 채널을 추가하세요. channel_id는 채널 주소의 UC로 시작하는 값입니다.",
-  "youtube": [],
+  "_설명": "수집할 무료 소스 목록입니다. youtube에는 채널 이름과 핸들(@로 시작하는 주소)을 적으면 됩니다.",
+  "youtube": [
+    {
+      "name": "Meet Kevin",
+      "handle": "@MeetKevin"
+    },
+    {
+      "name": "Tom Nash",
+      "handle": "@TomNashTV"
+    },
+    {
+      "name": "Joseph Carlson",
+      "handle": "@JosephCarlsonShow"
+    },
+    {
+      "name": "Everything Money",
+      "handle": "@EverythingMoney"
+    },
+    {
+      "name": "Ticker Symbol: YOU",
+      "handle": "@TickerSymbolYOU"
+    },
+    {
+      "name": "Amit Kukreja",
+      "handle": "@amitinvesting"
+    },
+    {
+      "name": "Financial Education",
+      "handle": "@FinancialEducation"
+    },
+    {
+      "name": "Chip Stock Investor",
+      "handle": "@ChipStockInvestor"
+    },
+    {
+      "name": "Dave Lee on Investing",
+      "handle": "@DaveLeeonInvesting"
+    },
+    {
+      "name": "The Compound",
+      "handle": "@TheCompoundNews"
+    },
+    {
+      "name": "ARK Invest",
+      "handle": "@ARKInvest"
+    },
+    {
+      "name": "Aswath Damodaran",
+      "handle": "@AswathDamodaranonValuation"
+    },
+    {
+      "name": "Patrick Boyle",
+      "handle": "@PBoyle"
+    },
+    {
+      "name": "CNBC Television",
+      "handle": "@CNBCtelevision"
+    },
+    {
+      "name": "Bloomberg Television",
+      "handle": "@markets"
+    },
+    {
+      "name": "Yahoo Finance",
+      "handle": "@YahooFinance"
+    }
+  ],
   "reddit": [
-    {"name": "r/stocks", "url": "https://www.reddit.com/r/stocks/new/.rss"},
-    {"name": "r/wallstreetbets", "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"},
-    {"name": "r/investing", "url": "https://www.reddit.com/r/investing/new/.rss"}
+    {
+      "name": "r/stocks",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "name": "r/wallstreetbets",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    },
+    {
+      "name": "r/investing",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    }
   ],
   "news_per_ticker": {
     "name": "Yahoo Finance",

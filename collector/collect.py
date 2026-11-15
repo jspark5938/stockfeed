@@ -4,7 +4,7 @@
 결과:  data/posts.json (최근 7일 글), data/trends.json (언급 급증 순위)
 외부 라이브러리 없이 파이썬 기본 기능만 사용합니다.
 """
-import hashlib, html, json, re, sys, urllib.request
+import hashlib, html, json, re, sys, time, urllib.error, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -19,6 +19,28 @@ def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=20) as r:
         return r.read()
+
+
+def resolve_channel_id(handle, fetcher=fetch):
+    """@핸들로 채널 페이지를 열어 UC로 시작하는 채널 ID를 찾습니다."""
+    page = fetcher("https://www.youtube.com/" + handle).decode("utf-8", "replace")
+    for pat in (r"feeds/videos\.xml\?channel_id=(UC[\w-]{22})", r"youtube\.com/channel/(UC[\w-]{22})"):
+        m = re.search(pat, page)
+        if m:
+            return m.group(1)
+    raise ValueError("채널 ID를 찾지 못했습니다")
+
+
+def fetch_reddit(url, fetcher=fetch, wait=time.sleep):
+    """Reddit은 요청이 잦으면 429로 거부하므로 간격을 두고, 거부되면 한 번 더 시도합니다."""
+    wait(3)
+    try:
+        return fetcher(url)
+    except urllib.error.HTTPError as e:
+        if e.code != 429:
+            raise
+        wait(20)
+        return fetcher(url)
 
 
 def clean(text, limit=500):
@@ -113,31 +135,37 @@ def merge(old, new, now):
     return kept
 
 
-def collect(sources, tickers, fetcher=fetch, log=print):
+def collect(sources, tickers, fetcher=fetch, log=print, channels=None, wait=time.sleep):
+    channels = {} if channels is None else channels  # 핸들 → 채널 ID 기억
     jobs = []
     for ch in sources.get("youtube", []):
-        jobs.append(("youtube", ch["name"],
-                     "https://www.youtube.com/feeds/videos.xml?channel_id=" + ch["channel_id"], None))
+        jobs.append(("youtube", ch["name"], ch))
     for r in sources.get("reddit", []):
-        jobs.append(("reddit", r["name"], r["url"], None))
+        jobs.append(("reddit", r["name"], r["url"]))
     news = sources.get("news_per_ticker")
     if news:
         for sym in tickers:
-            jobs.append(("news", news["name"], news["url_template"].format(ticker=sym), sym))
+            jobs.append(("news", news["name"], news["url_template"].format(ticker=sym)))
     posts, ok = [], 0
-    for kind, name, url, forced in jobs:
+    for kind, name, target in jobs:
         try:
-            items = parse_feed(fetcher(url), kind, name)
+            if kind == "youtube":
+                cid = target.get("channel_id") or channels.get(target["handle"])
+                if not cid:
+                    cid = channels[target["handle"]] = resolve_channel_id(target["handle"], fetcher)
+                raw = fetcher("https://www.youtube.com/feeds/videos.xml?channel_id=" + cid)
+            elif kind == "reddit":
+                raw = fetch_reddit(target, fetcher, wait)
+            else:
+                raw = fetcher(target)
+            items = parse_feed(raw, kind, name)
         except Exception as e:  # 한 소스가 실패해도 나머지는 계속 수집
             log(f"[실패] {name}: {e}")
             continue
         ok += 1
         for p in items:
-            found = tag_tickers(p["title"] + " " + p["excerpt"], tickers)
-            if forced and forced not in found:
-                found.insert(0, forced)
-            p["tickers"] = found
-            if found:  # 종목과 무관한 글은 버립니다
+            p["tickers"] = tag_tickers(p["title"] + " " + p["excerpt"], tickers)
+            if p["tickers"]:  # 제목·본문에 종목이 실제로 언급된 글만 남깁니다
                 posts.append(p)
     return posts, ok, len(jobs)
 
@@ -146,11 +174,17 @@ def main():
     sources = json.loads((ROOT / "collector/sources.json").read_text(encoding="utf-8"))
     tickers = json.loads((ROOT / "collector/tickers.json").read_text(encoding="utf-8"))
     now = datetime.now(timezone.utc)
-    new, ok, total = collect(sources, tickers)
+    ch_file = ROOT / "data/channels.json"
+    channels = json.loads(ch_file.read_text(encoding="utf-8")) if ch_file.exists() else {}
+    new, ok, total = collect(sources, tickers, channels=channels)
     out = ROOT / "data/posts.json"
     old = json.loads(out.read_text(encoding="utf-8"))["posts"] if out.exists() else []
+    for p in old:  # 예전 글도 현재 기준으로 다시 분류
+        p["tickers"] = tag_tickers(p["title"] + " " + p["excerpt"], tickers)
+    old = [p for p in old if p["tickers"]]
     posts = merge(old, new, now)
     out.parent.mkdir(exist_ok=True)
+    ch_file.write_text(json.dumps(channels, ensure_ascii=False, indent=1), encoding="utf-8")
     out.write_text(json.dumps({"updated": now.isoformat(), "posts": posts}, ensure_ascii=False, indent=1), encoding="utf-8")
     (ROOT / "data/trends.json").write_text(json.dumps(
         {"updated": now.isoformat(), "trends": compute_trends(posts, tickers, now)}, ensure_ascii=False, indent=1), encoding="utf-8")
