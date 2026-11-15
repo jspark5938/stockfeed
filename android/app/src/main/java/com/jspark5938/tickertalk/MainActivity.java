@@ -1,4 +1,4 @@
-package com.jspark5938.stockfeed;
+package com.jspark5938.tickertalk;
 
 import com.getcapacitor.BridgeActivity;
 

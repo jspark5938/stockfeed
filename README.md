@@ -1,6 +1,6 @@
-# stockfeed
+# 티커톡 (stockfeed)
 
-미국주식 인플루언서 발언 앱의 데이터 수집기입니다.
+미국주식 인플루언서 발언 앱 "티커톡"의 데이터 수집기와 앱입니다.
 
 - `collector/collect.py` — YouTube·Reddit·뉴스 RSS를 모아 종목별로 분류
 - `collector/sources.json` — 수집할 소스 목록 (YouTube 채널은 여기에 추가)

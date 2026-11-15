@@ -1,6 +1,8 @@
 {
-  "appId": "com.jspark5938.stockfeed",
-  "appName": "스톡피드",
+  "appId": "com.jspark5938.tickertalk",
+  "appName": "티커톡",
   "webDir": "www",
-  "server": { "androidScheme": "https" }
+  "server": {
+    "androidScheme": "https"
+  }
 }

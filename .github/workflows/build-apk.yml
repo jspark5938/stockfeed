@@ -28,6 +28,6 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          cp android/app/build/outputs/apk/debug/app-debug.apk stockfeed-test.apk
+          cp android/app/build/outputs/apk/debug/app-debug.apk tickertalk-test.apk
           gh release delete test-build --yes --cleanup-tag || true
-          gh release create test-build stockfeed-test.apk --prerelease --title "테스트 빌드" --notes "시험용 앱입니다. 스토어 출시용이 아닙니다."
+          gh release create test-build tickertalk-test.apk --prerelease --title "테스트 빌드" --notes "시험용 앱입니다. 스토어 출시용이 아닙니다."

@@ -1,4 +1,4 @@
-/* 스톡피드 앱: GitHub에 30분마다 저장되는 수집 결과(data/*.json)를 읽어 화면에 보여줍니다. */
+/* 티커톡 앱: GitHub에 30분마다 저장되는 수집 결과(data/*.json)를 읽어 화면에 보여줍니다. */
 (function () {
   "use strict";
   // 웹(GitHub Pages)에서는 같은 주소의 데이터를, 안드로이드 앱 안에서는 웹에 게시된 데이터를 읽습니다.
@@ -52,7 +52,7 @@
   function home() {
     var q = S.query.trim().toLowerCase(), w = watch();
     var out = [
-      h("div", { class: "top" }, h("div", { class: "brand" }, "스톡피드"),
+      h("div", { class: "top" }, h("div", { class: "brand" }, "티커톡"),
         h("div", { class: "muted" }, S.updated ? ago(S.updated) + " 갱신" : "")),
       h("label", { for: "q", class: "muted", style: "position:absolute;left:-9999px" }, "종목 검색"),
       h("input", { id: "q", class: "search", type: "search", placeholder: "종목명 또는 티커 검색 (예: NVDA, 엔비디아)", value: S.query,
