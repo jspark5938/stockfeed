@@ -4,11 +4,14 @@
 결과:  data/posts.json (최근 7일 글), data/trends.json (언급 급증 순위)
 외부 라이브러리 없이 파이썬 기본 기능만 사용합니다.
 """
-import hashlib, html, json, re, sys, time, urllib.error, urllib.request
+import hashlib, html, json, os, re, sys, time, urllib.error, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from summarize import summarize_posts
 
 ROOT = Path(__file__).resolve().parent.parent
 KEEP_DAYS = 7
@@ -183,6 +186,8 @@ def main():
         p["tickers"] = tag_tickers(p["title"] + " " + p["excerpt"], tickers)
     old = [p for p in old if p["tickers"]]
     posts = merge(old, new, now)
+    ai_cfg = json.loads((ROOT / "collector/ai.json").read_text(encoding="utf-8"))
+    summarize_posts(posts, ai_cfg, os.environ.get("GEMINI_API_KEY"))
     out.parent.mkdir(exist_ok=True)
     ch_file.write_text(json.dumps(channels, ensure_ascii=False, indent=1), encoding="utf-8")
     out.write_text(json.dumps({"updated": now.isoformat(), "posts": posts}, ensure_ascii=False, indent=1), encoding="utf-8")

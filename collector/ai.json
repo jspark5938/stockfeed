@@ -1,0 +1,8 @@
+{
+  "_설명": "한글 요약에 쓰는 AI 설정입니다. model 값만 바꾸면 다른 모델로 교체됩니다.",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "batch_size": 10,
+  "max_posts_per_run": 40,
+  "max_tries": 3
+}
