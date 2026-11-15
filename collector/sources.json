@@ -1,0 +1,13 @@
+{
+  "_설명": "수집할 무료 소스 목록입니다. youtube에는 추적할 인플루언서 채널을 추가하세요. channel_id는 채널 주소의 UC로 시작하는 값입니다.",
+  "youtube": [],
+  "reddit": [
+    {"name": "r/stocks", "url": "https://www.reddit.com/r/stocks/new/.rss"},
+    {"name": "r/wallstreetbets", "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"},
+    {"name": "r/investing", "url": "https://www.reddit.com/r/investing/new/.rss"}
+  ],
+  "news_per_ticker": {
+    "name": "Yahoo Finance",
+    "url_template": "https://feeds.finance.yahoo.com/rss/2.0/headline?s={ticker}&region=US&lang=en-US"
+  }
+}
