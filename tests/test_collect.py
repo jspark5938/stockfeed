@@ -17,6 +17,7 @@ class T(unittest.TestCase):
         self.assertIn("$AMD", yt[0]["excerpt"])
         rd = c.parse_feed((FX / "reddit.xml").read_bytes(), "reddit", "r/stocks")
         self.assertEqual(rd[0]["url"], "https://www.reddit.com/r/stocks/comments/1/x/")
+        self.assertEqual(rd[0]["source"], "r/stocks")
         self.assertNotIn("<", rd[0]["excerpt"])
         yh = c.parse_feed((FX / "yahoo.xml").read_bytes(), "news", "Yahoo")
         self.assertEqual(yh[0]["published"], "2026-11-14T21:00:00+00:00")
@@ -26,6 +27,8 @@ class T(unittest.TestCase):
         self.assertEqual(c.tag_tickers("Thinking about TSLA after the Metaverse news. Meta is big", TICKERS), ["TSLA"])
         self.assertEqual(c.tag_tickers("$META and $COIN", TICKERS), ["META", "COIN"])
         self.assertEqual(c.tag_tickers("I spy a coin, AMDOCS, Intelligent", TICKERS), [])
+        self.assertEqual(c.tag_tickers("Listen on Apple Podcasts. Good market intel, an apple a day, shop the net at cost. Amazon affiliate links", TICKERS), [])
+        self.assertEqual(c.tag_tickers("NVIDIA and TESLA soar; Costco, Arm Holdings and Disney too", TICKERS), ["NVDA", "TSLA", "ARM", "DIS", "COST"])
 
     def test_collect_end_to_end(self):
         import urllib.error

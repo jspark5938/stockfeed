@@ -56,20 +56,124 @@
     {
       "name": "Yahoo Finance",
       "handle": "@YahooFinance"
+    },
+    {
+      "name": "Dave Lee on Investing",
+      "handle": "@heydave7"
+    },
+    {
+      "name": "ARK Invest",
+      "handle": "@ARKInvest2015"
+    },
+    {
+      "name": "Graham Stephan",
+      "handle": "@GrahamStephan"
+    },
+    {
+      "name": "Andrei Jikh",
+      "handle": "@AndreiJikh"
+    },
+    {
+      "name": "New Money",
+      "handle": "@NewMoneyYouTube"
+    },
+    {
+      "name": "The Plain Bagel",
+      "handle": "@ThePlainBagel"
+    },
+    {
+      "name": "Ben Felix",
+      "handle": "@BenFelixCSI"
+    },
+    {
+      "name": "Solving The Money Problem",
+      "handle": "@SolvingTheMoneyProblem"
+    },
+    {
+      "name": "Brighter with Herbert",
+      "handle": "@BrighterwithHerbert"
+    },
+    {
+      "name": "Farzad",
+      "handle": "@farzadmesbahi"
+    },
+    {
+      "name": "Tesla Daily",
+      "handle": "@TeslaDaily"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "handle": "@wsj"
+    },
+    {
+      "name": "Fox Business",
+      "handle": "@FoxBusiness"
+    },
+    {
+      "name": "The Motley Fool",
+      "handle": "@MotleyFool"
+    },
+    {
+      "name": "Morningstar",
+      "handle": "@MorningstarInc"
+    },
+    {
+      "name": "Schwab Network",
+      "handle": "@SchwabNetwork"
+    },
+    {
+      "name": "Real Vision",
+      "handle": "@RealVisionFinance"
+    },
+    {
+      "name": "Wealthion",
+      "handle": "@Wealthion"
+    },
+    {
+      "name": "Felix & Friends",
+      "handle": "@FelixFriends"
+    },
+    {
+      "name": "Stock Moe",
+      "handle": "@StockMoe"
+    },
+    {
+      "name": "Jerry Romine Stocks",
+      "handle": "@JerryRomineStocks"
+    },
+    {
+      "name": "Joseph Hogue",
+      "handle": "@josephhogue"
+    },
+    {
+      "name": "Parkev Tatevosian",
+      "handle": "@ParkevTatevosianCFA"
+    },
+    {
+      "name": "Sven Carlin",
+      "handle": "@Value-Investing"
+    },
+    {
+      "name": "Learn to Invest",
+      "handle": "@LearntoInvest"
+    },
+    {
+      "name": "Investing Simplified - Professor G",
+      "handle": "@NolanGouveia"
+    },
+    {
+      "name": "Minority Mindset",
+      "handle": "@MinorityMindset"
+    },
+    {
+      "name": "Humphrey Yang",
+      "handle": "@humphrey"
     }
   ],
   "reddit": [
     {
-      "name": "r/stocks",
-      "url": "https://www.reddit.com/r/stocks/new/.rss"
-    },
-    {
-      "name": "r/wallstreetbets",
-      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
-    },
-    {
-      "name": "r/investing",
-      "url": "https://www.reddit.com/r/investing/new/.rss"
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/stocks+wallstreetbets+investing+StockMarket/new/.rss?limit=100"
     }
   ],
   "news_per_ticker": {

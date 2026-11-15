@@ -85,10 +85,12 @@ def parse_feed(xml_bytes, kind, source):
             continue
         body = (it.findtext("group/description") or it.findtext("description")
                 or it.findtext("content") or it.findtext("summary") or "")
+        cat = it.find("category")
+        board = (cat.get("label") or "").strip() if kind == "reddit" and cat is not None else ""
         posts.append({
             "id": hashlib.sha1(link.encode()).hexdigest()[:16],
             "kind": kind,
-            "source": source,
+            "source": board or source,
             "author": clean(it.findtext("author/name"), 80) or source,
             "title": title,
             "excerpt": clean(body),
@@ -101,14 +103,20 @@ def parse_feed(xml_bytes, kind, source):
     return posts
 
 
+# 종목과 무관하게 설명란에 흔히 붙는 문구 (예: "Apple Podcasts에서 듣기")
+BOILERPLATE = re.compile(r"Apple (?:Podcasts?|Music|TV\+?|Books)|Amazon (?:Music|Prime|[Aa]ffiliate\w*|[Aa]ssociate\w*|[Ss]tore\w*|[Ll]inks?)"
+                         r"|Google (?:Play|Podcasts?|News|Search|Docs|Sheets|Finance)|App Store|Disney\+")
+
+
 def tag_tickers(text, tickers):
+    text = BOILERPLATE.sub(" ", text)
     found = []
     for sym, info in tickers.items():
         pats = [r"\$" + re.escape(sym) + r"\b"]
         if info.get("bare", True):
             pats.append(r"(?<![A-Za-z$])" + re.escape(sym) + r"(?![A-Za-z])")
         hit = any(re.search(p, text) for p in pats) or any(
-            re.search(r"\b" + re.escape(a) + r"\b", text, re.I) for a in info.get("aliases", []))
+            re.search(r"\b(?:" + re.escape(a) + "|" + re.escape(a.upper()) + r")\b", text) for a in info.get("aliases", []))
         if hit:
             found.append(sym)
     return found
@@ -168,6 +176,8 @@ def collect(sources, tickers, fetcher=fetch, log=print, channels=None, wait=time
             else:
                 raw = fetcher(target)
             items = parse_feed(raw, kind, name)
+            if kind == "youtube" and items and items[0]["author"].lower() != name.lower():
+                log(f"[확인] {name} ({target.get('handle')}) → 실제 채널명: {items[0]['author']}")
         except Exception as e:  # 한 소스가 실패해도 나머지는 계속 수집
             log(f"[실패] {name}: {e}")
             continue

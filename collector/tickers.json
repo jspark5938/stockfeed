@@ -1,22 +1,387 @@
 {
-  "NVDA": {"ko": "엔비디아", "aliases": ["Nvidia"]},
-  "TSLA": {"ko": "테슬라", "aliases": ["Tesla"]},
-  "AAPL": {"ko": "애플", "aliases": ["Apple"]},
-  "MSFT": {"ko": "마이크로소프트", "aliases": ["Microsoft"]},
-  "GOOGL": {"ko": "알파벳(구글)", "aliases": ["Alphabet", "Google", "GOOG"]},
-  "AMZN": {"ko": "아마존", "aliases": ["Amazon"]},
-  "META": {"ko": "메타", "aliases": ["Meta Platforms"], "bare": false},
-  "PLTR": {"ko": "팔란티어", "aliases": ["Palantir"]},
-  "AMD": {"ko": "AMD", "aliases": ["Advanced Micro Devices"]},
-  "AVGO": {"ko": "브로드컴", "aliases": ["Broadcom"]},
-  "TSM": {"ko": "TSMC", "aliases": ["TSMC", "Taiwan Semiconductor"]},
-  "NFLX": {"ko": "넷플릭스", "aliases": ["Netflix"]},
-  "COIN": {"ko": "코인베이스", "aliases": ["Coinbase"], "bare": false},
-  "MSTR": {"ko": "스트래티지", "aliases": ["MicroStrategy"]},
-  "INTC": {"ko": "인텔", "aliases": ["Intel"]},
-  "MU": {"ko": "마이크론", "aliases": ["Micron"], "bare": false},
-  "SOFI": {"ko": "소파이", "aliases": ["SoFi"]},
-  "IONQ": {"ko": "아이온큐", "aliases": ["IonQ"]},
-  "QQQ": {"ko": "나스닥100 ETF", "aliases": []},
-  "SPY": {"ko": "S&P500 ETF", "aliases": [], "bare": false}
+ "NVDA": {
+  "ko": "엔비디아",
+  "aliases": [
+   "Nvidia"
+  ]
+ },
+ "TSLA": {
+  "ko": "테슬라",
+  "aliases": [
+   "Tesla"
+  ]
+ },
+ "AAPL": {
+  "ko": "애플",
+  "aliases": [
+   "Apple"
+  ]
+ },
+ "MSFT": {
+  "ko": "마이크로소프트",
+  "aliases": [
+   "Microsoft"
+  ]
+ },
+ "GOOGL": {
+  "ko": "알파벳(구글)",
+  "aliases": [
+   "Alphabet",
+   "Google",
+   "GOOG"
+  ]
+ },
+ "AMZN": {
+  "ko": "아마존",
+  "aliases": [
+   "Amazon"
+  ]
+ },
+ "META": {
+  "ko": "메타",
+  "aliases": [
+   "Meta Platforms"
+  ],
+  "bare": false
+ },
+ "PLTR": {
+  "ko": "팔란티어",
+  "aliases": [
+   "Palantir"
+  ]
+ },
+ "AMD": {
+  "ko": "AMD",
+  "aliases": [
+   "Advanced Micro Devices"
+  ]
+ },
+ "AVGO": {
+  "ko": "브로드컴",
+  "aliases": [
+   "Broadcom"
+  ]
+ },
+ "TSM": {
+  "ko": "TSMC",
+  "aliases": [
+   "TSMC",
+   "Taiwan Semiconductor"
+  ]
+ },
+ "NFLX": {
+  "ko": "넷플릭스",
+  "aliases": [
+   "Netflix"
+  ]
+ },
+ "COIN": {
+  "ko": "코인베이스",
+  "aliases": [
+   "Coinbase"
+  ],
+  "bare": false
+ },
+ "MSTR": {
+  "ko": "스트래티지",
+  "aliases": [
+   "MicroStrategy"
+  ]
+ },
+ "INTC": {
+  "ko": "인텔",
+  "aliases": [
+   "Intel"
+  ]
+ },
+ "MU": {
+  "ko": "마이크론",
+  "aliases": [
+   "Micron"
+  ],
+  "bare": false
+ },
+ "SOFI": {
+  "ko": "소파이",
+  "aliases": [
+   "SoFi"
+  ]
+ },
+ "IONQ": {
+  "ko": "아이온큐",
+  "aliases": [
+   "IonQ"
+  ]
+ },
+ "QQQ": {
+  "ko": "나스닥100 ETF",
+  "aliases": []
+ },
+ "SPY": {
+  "ko": "S&P500 ETF",
+  "aliases": [],
+  "bare": false
+ },
+ "ORCL": {
+  "ko": "오라클",
+  "aliases": [
+   "Oracle"
+  ]
+ },
+ "CRM": {
+  "ko": "세일즈포스",
+  "aliases": [
+   "Salesforce"
+  ]
+ },
+ "ADBE": {
+  "ko": "어도비",
+  "aliases": [
+   "Adobe"
+  ]
+ },
+ "QCOM": {
+  "ko": "퀄컴",
+  "aliases": [
+   "Qualcomm"
+  ]
+ },
+ "ARM": {
+  "ko": "ARM",
+  "aliases": [
+   "Arm Holdings"
+  ],
+  "bare": false
+ },
+ "ASML": {
+  "ko": "ASML",
+  "aliases": []
+ },
+ "SMCI": {
+  "ko": "슈퍼마이크로",
+  "aliases": [
+   "Super Micro",
+   "Supermicro"
+  ]
+ },
+ "DELL": {
+  "ko": "델",
+  "aliases": [
+   "Dell"
+  ]
+ },
+ "UBER": {
+  "ko": "우버",
+  "aliases": [
+   "Uber"
+  ]
+ },
+ "ABNB": {
+  "ko": "에어비앤비",
+  "aliases": [
+   "Airbnb"
+  ]
+ },
+ "SHOP": {
+  "ko": "쇼피파이",
+  "aliases": [
+   "Shopify"
+  ],
+  "bare": false
+ },
+ "SNOW": {
+  "ko": "스노우플레이크",
+  "aliases": [
+   "Snowflake"
+  ],
+  "bare": false
+ },
+ "CRWD": {
+  "ko": "크라우드스트라이크",
+  "aliases": [
+   "CrowdStrike"
+  ]
+ },
+ "PANW": {
+  "ko": "팔로알토",
+  "aliases": [
+   "Palo Alto Networks"
+  ]
+ },
+ "NET": {
+  "ko": "클라우드플레어",
+  "aliases": [
+   "Cloudflare"
+  ],
+  "bare": false
+ },
+ "RKLB": {
+  "ko": "로켓랩",
+  "aliases": [
+   "Rocket Lab"
+  ]
+ },
+ "HOOD": {
+  "ko": "로빈후드",
+  "aliases": [
+   "Robinhood"
+  ],
+  "bare": false
+ },
+ "RIVN": {
+  "ko": "리비안",
+  "aliases": [
+   "Rivian"
+  ]
+ },
+ "LCID": {
+  "ko": "루시드",
+  "aliases": [
+   "Lucid Motors",
+   "Lucid Group"
+  ]
+ },
+ "NIO": {
+  "ko": "니오",
+  "aliases": []
+ },
+ "BABA": {
+  "ko": "알리바바",
+  "aliases": [
+   "Alibaba"
+  ]
+ },
+ "DIS": {
+  "ko": "디즈니",
+  "aliases": [
+   "Disney"
+  ],
+  "bare": false
+ },
+ "NKE": {
+  "ko": "나이키",
+  "aliases": [
+   "Nike"
+  ]
+ },
+ "SBUX": {
+  "ko": "스타벅스",
+  "aliases": [
+   "Starbucks"
+  ]
+ },
+ "COST": {
+  "ko": "코스트코",
+  "aliases": [
+   "Costco"
+  ],
+  "bare": false
+ },
+ "WMT": {
+  "ko": "월마트",
+  "aliases": [
+   "Walmart"
+  ]
+ },
+ "JPM": {
+  "ko": "JP모건",
+  "aliases": [
+   "JPMorgan",
+   "JP Morgan"
+  ]
+ },
+ "BAC": {
+  "ko": "뱅크오브아메리카",
+  "aliases": [
+   "Bank of America"
+  ]
+ },
+ "LLY": {
+  "ko": "일라이릴리",
+  "aliases": [
+   "Eli Lilly"
+  ]
+ },
+ "NVO": {
+  "ko": "노보노디스크",
+  "aliases": [
+   "Novo Nordisk"
+  ]
+ },
+ "UNH": {
+  "ko": "유나이티드헬스",
+  "aliases": [
+   "UnitedHealth"
+  ]
+ },
+ "PFE": {
+  "ko": "화이자",
+  "aliases": [
+   "Pfizer"
+  ]
+ },
+ "BA": {
+  "ko": "보잉",
+  "aliases": [
+   "Boeing"
+  ],
+  "bare": false
+ },
+ "XOM": {
+  "ko": "엑슨모빌",
+  "aliases": [
+   "Exxon"
+  ]
+ },
+ "RDDT": {
+  "ko": "레딧",
+  "aliases": []
+ },
+ "APP": {
+  "ko": "앱러빈",
+  "aliases": [
+   "AppLovin"
+  ],
+  "bare": false
+ },
+ "OKLO": {
+  "ko": "오클로",
+  "aliases": [
+   "Oklo"
+  ]
+ },
+ "RGTI": {
+  "ko": "리게티",
+  "aliases": [
+   "Rigetti"
+  ]
+ },
+ "QBTS": {
+  "ko": "디웨이브",
+  "aliases": [
+   "D-Wave"
+  ]
+ },
+ "JOBY": {
+  "ko": "조비",
+  "aliases": [
+   "Joby Aviation"
+  ]
+ },
+ "TQQQ": {
+  "ko": "나스닥100 3배 ETF",
+  "aliases": []
+ },
+ "SOXL": {
+  "ko": "반도체 3배 ETF",
+  "aliases": []
+ },
+ "SCHD": {
+  "ko": "배당 ETF(SCHD)",
+  "aliases": []
+ },
+ "IBIT": {
+  "ko": "비트코인 현물 ETF",
+  "aliases": []
+ }
 }
