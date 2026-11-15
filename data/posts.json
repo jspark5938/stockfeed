@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:28:59.026865+00:00",
+ "updated": "2026-11-15T13:31:23.752872+00:00",
  "posts": [
   {
    "id": "7e082e1f0a3d3cf7",
@@ -15,6 +15,23 @@
    ],
    "summary_ko": null,
    "tone": null
+  },
+  {
+   "id": "0767e99f4156da08",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Anthropic IPO Arrives at a Pivotal AI Moment",
+   "excerpt": "Bloomberg News senior equities reporter Bailey Lipschultz and Bloomberg Intelligence’s Mandeep Singh are on Bloomberg This Weekend to examine Anthropic’s potentially record-setting IPO and how Nvidia’s upheaval following Jensen Huang’s departure is changing the outlook for AI investment and computing capacity. Speaking with hosts David Gura and Christina Ruffini, they discuss Anthropic’s roughly $1.4 trillion targeted valuation, investor demand and compute costs, as well as what its market debut could signal for OpenAI and the broader AI trade. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profile",
+   "url": "https://www.youtube.com/watch?v=Rj-Yu4DhqZQ",
+   "published": "2026-11-15T13:15:45+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "블룸버그 리포터들은 앤스로픽의 대규모 IPO와 엔비디아 젠슨 황 사임 이후 변화하는 AI 투자 환경을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f1d0b7441e6ef044",
@@ -108,6 +125,21 @@
    "tone": null
   },
   {
+   "id": "808d09f1046d8011",
+   "kind": "reddit",
+   "source": "r/stocks",
+   "author": "/u/rdh2dmd",
+   "title": "[Financial Times] Samsung conquered AI chips. Now it wants to build data centres",
+   "excerpt": "After dominating the AI memory chip market, Samsung Group is attempting to leverage its sprawling conglomerate structure to become a one-stop, end-to-end provider of AI data centre infrastructure, though analysts remain skeptical about its ability to coordinate its disparate subsidiaries and win over external clients. Strategic Moves & Partnerships: To diversify beyond the highly cyclical semiconductor industry, Samsung has made several major plays over the past year: Acquisitions & Investments: Invested $1 billion in Helix Digital Infrastructure (backed by KKR and Nvidia) and acquired European cooling systems maker FläktGroup. OpenAI Partnership: Signed a deal supporting OpenAI’s \"Stargate\" initiative, extending beyond memory chips to include data centre design, operation, and potential f",
+   "url": "https://www.reddit.com/r/stocks/comments/1xwus0v/financial_times_samsung_conquered_ai_chips_now_it/",
+   "published": "2026-11-15T12:53:46+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "8fa3159ec0308262",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -191,14 +223,16 @@
    "source": "Patrick Boyle",
    "author": "Patrick Boyle",
    "title": "The Downfall of Jensen Huang",
-   "excerpt": "Note Pro：https://bit.ly/4c9s3bC NotePin S：https://bit.ly/46IANlt 22% discount code: PBOYLE Plaud AMZ: https://amzn.to/4xFP79Q 22% discount code: PBOYLE22 Jensen Huang, the only boss Nvidia has ever had, resigned last week after reports that US intelligence suspected Alice Huang, a Chinese businesswoman he had grown close to, of working for China’s main spy agency. In this video, Patrick Boyle looks at what the Nvidia scandal means for investors: the Megaspeed chip smuggling allegations and the 5",
+   "excerpt": "Note Pro： NotePin S： 22% discount code: PBOYLE Plaud AMZ: 22% discount code: PBOYLE22 Jensen Huang, the only boss Nvidia has ever had, resigned last week after reports that US intelligence suspected Alice Huang, a Chinese businesswoman he had grown close to, of working for China’s main spy agency. In this video, Patrick Boyle looks at what the Nvidia scandal means for investors: the Megaspeed chip smuggling allegations and the 50,000 chips Nvidia’s own audit couldn’t find, a board that had 33 years to prepare a succession plan and didn’t, and why losing the man who acted as the central bank of the AI boom could matter far more to the stock market than one CEO’s private life. Along the way, I draft a few of the risk factors that Nvidia seems to have left out of its filings. Business Inquiri",
    "url": "https://www.youtube.com/watch?v=6dOFQHTVzEg",
    "published": "2026-11-15T11:23:26+00:00",
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "패트릭 보일은 젠슨 황의 사임 배경과 칩 밀수 의혹 등이 엔비디아 투자자들에게 미칠 영향을 분석했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "cff828898211c856",
@@ -283,7 +317,7 @@
    "source": "r/stocks",
    "author": "/u/newtonian-global",
    "title": "Nvidia reports Tuesday... first time in 33 years without Jensen on the call. What actually are you watching on this call?",
-   "excerpt": "So Nvidia reports on Tuesday and for the first time in 33 years Jensen won’t be on the call... kinda wild Stock fell 25%+ just this month... with sixth red week in a row, longest streak since 2012... But the part I find interesting... S&P was up 2.5% the same week, and AMD and Broadcom both went up ~18%. So the market it esentially dumping Nvidia... Sort of know thing but I feel it is not that bad also... The quarter they’re reporting ended Oct 25, so it’s mostly before all this drama. Numbers w",
+   "excerpt": "So Nvidia reports on Tuesday and for the first time in 33 years Jensen won’t be on the call... kinda wild Stock fell 25%+ just this month... with sixth red week in a row, longest streak since 2012... But the part I find interesting... S&P was up 2.5% the same week, and AMD and Broadcom both went up ~18%. So the market it esentially dumping Nvidia... Sort of know thing but I feel it is not that bad also... The quarter they’re reporting ended Oct 25, so it’s mostly before all this drama. Numbers will probably be fine, street is at ~$108B odd revenue. What now matters is the guidance and whether any big customer sounds even a little less committed. And Kress is now CEO and CFO both, so she’s definitely getting the succession question Big question for me... is this fall already pricing in Nvid",
    "url": "https://www.reddit.com/r/stocks/comments/1xwr97u/nvidia_reports_tuesday_first_time_in_33_years/",
    "published": "2026-11-15T09:25:17+00:00",
    "tickers": [
@@ -305,6 +339,21 @@
    "published": "2026-11-15T08:36:00+00:00",
    "tickers": [
     "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "c422182d5e4ef40d",
+   "kind": "reddit",
+   "source": "r/investing",
+   "author": "/u/pdp1145",
+   "title": "Maybe it was time for Jensen to move on, anyway?",
+   "excerpt": "Has there been much consideration of the fact that Jensen is now in his 60's, and by some reportage hasn't been involved in engineering meetings much in the last 10 years, and could actually be a little bit \"over the hill\" as far as the vision needed now in AI/ML hardware / software / application development. He was never actually a machine learning guy, but he understood the potential widespread advantage of parallel processing in a range of scientific and other high tech applications. He then hired the guy who was head of Stanford's CS dept, and supported those already within Nvidia in their quest for high performance parallel computing using their GPU's. Having worked in ML since the late 70's (started out in speech recognition), I can tell you that this field can move dizzyingly fast, ",
+   "url": "https://www.reddit.com/r/investing/comments/1xwq04j/maybe_it_was_time_for_jensen_to_move_on_anyway/",
+   "published": "2026-11-15T08:05:13+00:00",
+   "tickers": [
+    "NVDA"
    ],
    "summary_ko": null,
    "tone": null
@@ -391,7 +440,7 @@
    "source": "The Compound",
    "author": "The Compound",
    "title": "Why This Might Be the Most Exciting Market Ever",
-   "excerpt": "On episode 268 of The Compound and Friends, ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Downtown Josh Brown⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks b",
+   "excerpt": "On episode 268 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks breaking out, global markets hitting new highs, magazine covers as contrarian indicators, and whether the collapse in gold and silver could be setting up a major opportunity in precious metals. 👕 Check out The Compound shop: 🎙️Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: The Compound Newsletter: Linkedin: Instagram: Twitter: Tik Tok: Investing involves the risk of loss. This podcast is for ",
    "url": "https://www.youtube.com/shorts/L6WZLACEZDU",
    "published": "2026-11-15T02:54:56+00:00",
    "tickers": [
@@ -399,8 +448,10 @@
     "AAPL",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "팟캐스트 출연진은 엔비디아의 역사적인 매도세와 AMD 및 애플의 강세 배경을 토론했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5d63104b0c00ae0b",
@@ -759,7 +810,7 @@
    "source": "r/stocks",
    "author": "/u/GeorgeThe40",
    "title": "Could $ACHR and $PLTR be big winners from the FAA modernization push? What other stocks are you watching?",
-   "excerpt": "After hearing Transportation Secretary Sean Duffy explain what went wrong with the recent FAA ground stops and push for more funding to modernize our aging air traffic control system, it got me thinking. Could this finally be the catalyst for a major overhaul of U.S. airspace infrastructure? Two stocks that come to mind are $PLTR and $ACHR. $PLTR seems like a potential player on the software, data integration, and AI side of modernizing air traffic management. Meanwhile, $ACHR could benefit long",
+   "excerpt": "After hearing Transportation Secretary Sean Duffy explain what went wrong with the recent FAA ground stops and push for more funding to modernize our aging air traffic control system, it got me thinking. Could this finally be the catalyst for a major overhaul of U.S. airspace infrastructure? Two stocks that come to mind are $PLTR and $ACHR. $PLTR seems like a potential player on the software, data integration, and AI side of modernizing air traffic management. Meanwhile, $ACHR could benefit longer term if the government accelerates infrastructure upgrades to support advanced air mobility and eVTOL operations. But here’s what I’m wondering: Are these two companies actually positioned to benefit from FAA modernization spending, or are we connecting dots that aren’t really there? If billions ",
    "url": "https://www.reddit.com/r/stocks/comments/1xwbxev/could_achr_and_pltr_be_big_winners_from_the_faa/",
    "published": "2026-11-14T20:06:25+00:00",
    "tickers": [
@@ -864,14 +915,16 @@
    "source": "Meet Kevin",
    "author": "Meet Kevin",
    "title": "The Return of Nvidia's CEO Jensen Huang.",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at https://ReinvestOne.com LIFETIME ACCESS. 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! https://meetkevin.com/predict - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: https://meetkevin.com/digest The Return of Nvidia's CEO Jensen Huang. Elon Musk says Nvidia will lose critical deals without Jensen Huang, because many were a handshake, not a contract. A Stand With Jensen petition now has 95,000+ names, including 5,000 s",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: The Return of Nvidia's CEO Jensen Huang. Elon Musk says Nvidia will lose critical deals without Jensen Huang, because many were a handshake, not a contract. A Stand With Jensen petition now has 95,000+ names, including 5,000 self-reported Nvidia employees. Can he actually come back? We go through the board math, his 3.58% stake, and the Wachtell Lipton investigation run by former federal prosecutor Joon Kim. Plus the WSJ report that Jensen called CFO Colette Kress a deer in the headlights over billions in customer backstops. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly",
    "url": "https://www.youtube.com/watch?v=axiCoySOyBY",
    "published": "2026-11-14T19:02:29+00:00",
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일론 머스크는 젠슨 황이 없으면 엔비디아가 중요 계약을 잃을 것이라고 주장했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "432e39af0a85817f",
@@ -1044,14 +1097,16 @@
    "source": "Bloomberg Television",
    "author": "Bloomberg Television",
    "title": "Nvidia Spy Scandal, Nationwide Ground Stop Lifted, Starship’s Longest Test Flight",
-   "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former UK Prime Minister and “Ending Alzheimer’s” Podcast Host David Cameron, Space Network Co-Founder Ross Hamilton, Axios Tech Policy Reporter Maria Curi, The Jamestown Foundation President and “Chinese Communist Espionage” Author and Former CIA Counterintelligence Analyst Peter Mattis, Poppi Co-",
+   "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former UK Prime Minister and “Ending Alzheimer’s” Podcast Host David Cameron, Space Network Co-Founder Ross Hamilton, Axios Tech Policy Reporter Maria Curi, The Jamestown Foundation President and “Chinese Communist Espionage” Author and Former CIA Counterintelligence Analyst Peter Mattis, Poppi Co-Founder and Chief Brand Officer Allison Ellsworth and Poppi Co-Founder and Chief Product Officer Stephen Ellsworth. 1)Chapters: 00:00:00 - Bloomberg This Weekend Begins 00:01:56 - News Now with Lisa Mateo 00:04:55 - Air Travel Chaos Strands Passengers Across US 00:10:26 - Nvidia Names Interim CEO Af",
    "url": "https://www.youtube.com/watch?v=zIZ53YV7ToY",
    "published": "2026-11-14T16:42:31+00:00",
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "방송에서는 엔비디아의 임시 CEO 임명 소식과 함께 주말 주요 뉴스들을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "19785f769f5eb04e",
@@ -1074,7 +1129,7 @@
    "source": "The Compound",
    "author": "The Compound",
    "title": "The Great Bowling Bubble",
-   "excerpt": "On episode 268 of The Compound and Friends, ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Downtown Josh Brown⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks b",
+   "excerpt": "On episode 268 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks breaking out, global markets hitting new highs, magazine covers as contrarian indicators, and whether the collapse in gold and silver could be setting up a major opportunity in precious metals. 👕 Check out The Compound shop: 🎙️Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: The Compound Newsletter: Linkedin: Instagram: Twitter: Tik Tok: Investing involves the risk of loss. This podcast is for ",
    "url": "https://www.youtube.com/shorts/LmjfVNuyNsw",
    "published": "2026-11-14T16:21:15+00:00",
    "tickers": [
@@ -1082,8 +1137,10 @@
     "AAPL",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "출연진은 엔비디아의 매도세와 AI 테마의 흐름, AMD와 애플의 성과에 대해 논의했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "2cd1d1b229533664",
@@ -1106,14 +1163,16 @@
    "source": "Bloomberg Television",
    "author": "Bloomberg Television",
    "title": "Anthropic IPO Tests Investor Appetite for AI",
-   "excerpt": "Bloomberg Technology co-host Ed Ludlow tells Bloomberg This Weekend why Anthropic’s upcoming IPO could be a major test of investor appetite for AI, with the offering heavily oversubscribed and poised to follow SpaceX’s blockbuster debut. Speaking with hosts David Gura and Christina Ruffini, Ludlow also explains how Nvidia and Jensen Huang’s departure loom over the offering, given Nvidia’s planned investment in Anthropic and Huang’s central role connecting the companies powering the AI boom. ----",
+   "excerpt": "Bloomberg Technology co-host Ed Ludlow tells Bloomberg This Weekend why Anthropic’s upcoming IPO could be a major test of investor appetite for AI, with the offering heavily oversubscribed and poised to follow SpaceX’s blockbuster debut. Speaking with hosts David Gura and Christina Ruffini, Ludlow also explains how Nvidia and Jensen Huang’s departure loom over the offering, given Nvidia’s planned investment in Anthropic and Huang’s central role connecting the companies powering the AI boom. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Fa",
    "url": "https://www.youtube.com/watch?v=b5oQu_60ZdU",
    "published": "2026-11-14T15:53:09+00:00",
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "블룸버그 기자는 앤스로픽의 IPO가 AI 투자 수요를 가늠할 시험대가 될 것이라고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "a3876d58befcb981",
@@ -1127,8 +1186,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "전문가들은 엔비디아 최고경영자 관련 이슈 등 새로운 헤드라인 리스크 속에서도 빅테크 전망을 논의했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "bf74fd5f3c2a2c69",
@@ -1174,8 +1235,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "전문가들은 젠슨 황의 스캔들 이후 리더십 공백과 수출 통제가 AI 주식에 미칠 영향을 토론했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "8311352f9b70835f",
@@ -1323,14 +1386,16 @@
    "source": "Bloomberg Television",
    "author": "Bloomberg Television",
    "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
-   "excerpt": "Axios AI policy reporter Maria Curi tells Bloomberg This Weekend about tensions inside the Trump administration over efforts to restrict the flow of advanced Nvidia chips to China and scrutiny of Commerce Secretary Howard Lutnick’s handling of Megaspeed. Speaking with hosts David Gura and Christina Ruffini, Curi explains the reported disagreements between Lutnick and other senior officials, including Scott Bessent, and the national security questions surrounding US technology exports to China. -",
+   "excerpt": "Axios AI policy reporter Maria Curi tells Bloomberg This Weekend about tensions inside the Trump administration over efforts to restrict the flow of advanced Nvidia chips to China and scrutiny of Commerce Secretary Howard Lutnick’s handling of Megaspeed. Speaking with hosts David Gura and Christina Ruffini, Curi explains the reported disagreements between Lutnick and other senior officials, including Scott Bessent, and the national security questions surrounding US technology exports to China. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X:",
    "url": "https://www.youtube.com/watch?v=5_pqpGYXd7s",
    "published": "2026-11-14T14:29:33+00:00",
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "보도는 트럼프 행정부 내에서 엔비디아의 대중국 칩 수출 제한을 둘러싼 마찰이 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3e3ae18ac89c722c",
@@ -1338,14 +1403,17 @@
    "source": "Bloomberg Television",
    "author": "Bloomberg Television",
    "title": "Nvidia Looks for a New Era After Huang",
-   "excerpt": "Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Chang examines who could succeed Huang, the questions surrounding Nvidia’s China strategy and whether the AI giant can preserve the influence and relationships Huang built over more than three decades. -------- More on Bloomberg Television and Markets Like this ",
+   "excerpt": "Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Chang examines who could succeed Huang, the questions surrounding Nvidia’s China strategy and whether the AI giant can preserve the influence and relationships Huang built over more than three decades. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X",
    "url": "https://www.youtube.com/watch?v=SJkjzmtGGPc",
    "published": "2026-11-14T14:23:18+00:00",
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "블룸버그의 에밀리 창은 젠슨 황의 갑작스러운 퇴진 이후 엔비디아의 승계 문제와 중국 전략을 다뤘다.",
+    "엔비디아가 젠슨 황이 구축한 영향력과 관계를 유지할 수 있을지 조명했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3215db0b1b5466bf",
@@ -1414,7 +1482,7 @@
    "source": "Everything Money",
    "author": "Everything Money",
    "title": "Every Stock Michael Burry Is Betting Against Right Now (5 Big Shorts)",
-   "excerpt": "This past Thursday, chip stocks got absolutely crushed. Nvidia fell about 9%. AMD and Micron each dropped around 17% — in a single day. And one of the most famous investors alive, the man who predicted the 2008 housing crash, had already placed a big bet against those exact kinds of stocks. His name is Michael Burry. But here’s the twist: while he’s betting against a whole pile of popular stocks, he’s also buying one of them hand over fist. Today we’ll walk through every position — and what it c",
+   "excerpt": "This past Thursday, chip stocks got absolutely crushed. Nvidia fell about 9%. AMD and Micron each dropped around 17% — in a single day. And one of the most famous investors alive, the man who predicted the 2008 housing crash, had already placed a big bet against those exact kinds of stocks. His name is Michael Burry. But here’s the twist: while he’s betting against a whole pile of popular stocks, he’s also buying one of them hand over fist. Today we’ll walk through every position — and what it can teach you. ⬇️ Download your FREE Guide all of Michael Burry's positions from this video: 📊 Want to know what a stock is actually worth before you buy? Try the Everything Money stock analyzer for 7 days: 👉 👕 Dress like a Principle Driven Investor 💵 Fundamentals of Principle-Driven Investing 📈 Fund",
    "url": "https://www.youtube.com/watch?v=su-89QfywrI",
    "published": "2026-11-14T12:30:20+00:00",
    "tickers": [
@@ -1422,8 +1490,11 @@
     "AMD",
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "최근 엔비디아, AMD, 마이크론 등 반도체 주가가 급락한 가운데 마이클 버리가 이들 종목에 거액의 숏 베팅을 했다고 다뤘다.",
+    "그가 여러 인기 주식을 공매도하는 동시에 특정 주식은 대량으로 매수하고 있다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "1497a6f42ca906c3",
@@ -1446,11 +1517,12 @@
    "source": "r/stocks",
    "author": "/u/mastertofu",
    "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
-   "excerpt": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/ Now that NVIDIA’s Jensen Huang is no longer the company CEO , we have some truth behind the exponential rise of semiconductor and memory prices. According to the latest findings, it appears that we were led to believe that there was an organic supply shortage, but in reality, we learn that Jensen was actually leveraging NVIDIA’s own balance sheet to finance AI startups and datacenter buildouts so they could absorb the ",
+   "excerpt": "Now that NVIDIA’s Jensen Huang is no longer the company CEO , we have some truth behind the exponential rise of semiconductor and memory prices. According to the latest findings, it appears that we were led to believe that there was an organic supply shortage, but in reality, we learn that Jensen was actually leveraging NVIDIA’s own balance sheet to finance AI startups and datacenter buildouts so they could absorb the company’s over-ordered semiconductor shipments from TSMC. NVIDIA faced an “avalanche” of excess TSMC silicon and memory, and the only way to curb the oversupply was to fund AI startups The fresh revelations stem from a tense August 2026 confrontation between Huang and NVIDIA’s longtime Chief Financial Officer, Colette Kress, now the interim CEO. Seeing as how the former head ",
    "url": "https://www.reddit.com/r/stocks/comments/1xw124v/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
    "published": "2026-11-14T12:18:08+00:00",
    "tickers": [
-    "NVDA"
+    "NVDA",
+    "TSM"
    ],
    "summary_ko": null,
    "tone": null
@@ -1583,7 +1655,7 @@
    "source": "r/stocks",
    "author": "/u/AutoModerator",
    "title": "/r/Stocks Weekend Discussion Saturday - Nov 14, 2026",
-   "excerpt": "This is the weekend edition of our stickied discussion thread. Discuss your trades / moves from last week and what you're planning on doing for the week ahead. Some helpful links: Finviz for charts, fundamentals, and aggregated news on individual stocks Bloomberg market news StreetInsider news: Market Check - Possibly why the market is doing what it's doing including sudden spikes/dips Reuters aggregated - Global news If you have a basic question, for example \"what is EPS,\" then google \"investop",
+   "excerpt": "This is the weekend edition of our stickied discussion thread. Discuss your trades / moves from last week and what you're planning on doing for the week ahead. Some helpful links: Finviz for charts, fundamentals, and aggregated news on individual stocks Bloomberg market news StreetInsider news: Market Check - Possibly why the market is doing what it's doing including sudden spikes/dips Reuters aggregated - Global news If you have a basic question, for example \"what is EPS,\" then google \"investopedia EPS\" and click the investopedia article on it; do this for everything until you have a more in depth question or just want to share what you learned. Please discuss your portfolios in the Rate My Portfolio sticky. . See our past daily discussions here. Also links for: Technicals Tuesday, Option",
    "url": "https://www.reddit.com/r/stocks/comments/1xvz8md/rstocks_weekend_discussion_saturday_nov_14_2026/",
    "published": "2026-11-14T10:30:05+00:00",
    "tickers": [
@@ -1673,6 +1745,21 @@
    "tone": null
   },
   {
+   "id": "1b9f703815b23c2f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Sandisk Is Up 273% in 2026, but Down 62% From Its June High. Take Profits, or Buy More?",
+   "excerpt": "Key TakeawaysSandisk stock is up 273% in 2026 on a flash shortage and AI data-center demand, but it’s 62% below its June high, and Micron has fallen on the same worries. Sandisk’s revenue kept climbing as the stock fell, to $11.",
+   "url": "https://www.tikr.com/blog/sandisk-is-up-273-in-2026-but-down-62-from-its-june-high-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261115-qc8qvj3f&.tsrc=rss",
+   "published": "2026-11-14T08:37:36+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "0d2ec44ed701be98",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1710,7 +1797,7 @@
    "source": "r/stocks",
    "author": "/u/UniqueMorning4833",
    "title": "advice new roth ira 25 y/o",
-   "excerpt": "hi everyone, im 25 & recently created a roth ira and added $1000. So far I did $500 FXAIX & FTIHX $300. Basically US S&P 500 & international so I have both exposure/diversification. The last $200 I have been torn on what to do with it. I did research and saw QQQM mentioned a lot. But also saw that it may overlap with my already purchased mentioned above. Also, saw that NVIDIA is down too as of recently. Saw people saying when a specific stock drops a lot that it’s best time to buy? What should I",
+   "excerpt": "hi everyone, im 25 & recently created a roth ira and added $1000. So far I did $500 FXAIX & FTIHX $300. Basically US S&P 500 & international so I have both exposure/diversification. The last $200 I have been torn on what to do with it. I did research and saw QQQM mentioned a lot. But also saw that it may overlap with my already purchased mentioned above. Also, saw that NVIDIA is down too as of recently. Saw people saying when a specific stock drops a lot that it’s best time to buy? What should I do? I appreciate all tips+advice thank you in advance! submitted by /u/UniqueMorning4833 [link] [comments]",
    "url": "https://www.reddit.com/r/stocks/comments/1xvuej7/advice_new_roth_ira_25_yo/",
    "published": "2026-11-14T05:34:32+00:00",
    "tickers": [
@@ -1817,14 +1904,17 @@
    "source": "Meet Kevin",
    "author": "Meet Kevin",
    "title": "Elon JUST Started Selling Cybercabs for $299/mo",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at https://ReinvestOne.com LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! https://meetkevin.com/predict - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: https://meetkevin.com/digest Tesla Cybercab: $299 a Month or the Car Does Not Run ✅ Tesla opened personal Cybercab orders 11-13-2026, invite only ➡️ $29,990 car, before taxes ➡️ $299 a month Autonomy Subscription, required ➡️ Aus",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: Tesla Cybercab: $299 a Month or the Car Does Not Run ✅ Tesla opened personal Cybercab orders 11-13-2026, invite only ➡️ $29,990 car, before taxes ➡️ $299 a month Autonomy Subscription, required ➡️ Austin first, deliveries estimated Dec 2026 ➡️ $3,588 a year in subscription fees ➡️ Runs only in supported service areas ➡️ 3x the $99 a month FSD Supervised price ➡️ Musk: most Cybercabs stay Tesla-owned ➡️ NHTSA audit of the design is still open 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investmen",
    "url": "https://www.youtube.com/watch?v=pg1ucywxTh0",
    "published": "2026-11-14T02:10:01+00:00",
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "테슬라가 2만 9,990달러인 사이버캡의 개인 주문을 초대 전용으로 시작했다고 밝혔다.",
+    "필수 자율주행 구독료가 월 299달러이며 오스틴에서 먼저 시작해 2026년 12월 배송 예정이라고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ae45fa021a5603d4",
@@ -1832,14 +1922,17 @@
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
    "title": "Box CEO Aaron Levie on Whether Nvidia’s Dominance Is Ending",
-   "excerpt": "Is this the beginning of the end of Nvidia's dominance? Box CEO Aaron Levie tells Deirdre Bosa it's too early to say, since Nvidia remains at the frontier of chip design, but warns that missing one or two innovation cycles can knock a chip company off the treadmill for good. He explains why a founder's real value is the context they carry, which software companies AI agents help and which they threaten, and why Box wants AI models to keep getting smarter. Levie also makes the case that Democrats",
+   "excerpt": "Is this the beginning of the end of Nvidia's dominance? Box CEO Aaron Levie tells Deirdre Bosa it's too early to say, since Nvidia remains at the frontier of chip design, but warns that missing one or two innovation cycles can knock a chip company off the treadmill for good. He explains why a founder's real value is the context they carry, which software companies AI agents help and which they threaten, and why Box wants AI models to keep getting smarter. Levie also makes the case that Democrats can still back AI after the midterms if both sides tone down the rhetoric. Timestamps 0:00 The beginning of the end for Nvidia? 1:37 The risk after Jensen 2:40 Why founders matter 5:07 AI agents and the software stack 8:56 Who owns the data? 10:49 Can Democrats be pro-AI? 12:50 Toning down the rhet",
    "url": "https://www.youtube.com/watch?v=-c13FfurvKQ",
    "published": "2026-11-14T02:00:20+00:00",
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "박스 CEO 애런 레비는 엔비디아의 지배력이 끝났는지 단정하기 이르다고 진단했다.",
+    "다만 혁신 주기를 몇 번 놓치면 칩 회사가 경쟁에서 영원히 밀려날 수 있다고 경고했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1c2196cece67683b",
@@ -1870,6 +1963,25 @@
    ],
    "summary_ko": null,
    "tone": null
+  },
+  {
+   "id": "d4781f8dbbc9078e",
+   "kind": "youtube",
+   "source": "Financial Education",
+   "author": "Financial Education",
+   "title": "We gotta Move NOW‼️",
+   "excerpt": "✅ Join My Private Stock apply here → ❤️ Support the Channel & See Weekly Buys on Patreon 🔑 Grab Your Free Workshops. Pick the topic most relevant to your investing journey and dive in → __________________ SOCIALS: IG: X: FB: My Jeremy Lefebvre website 1000XStocks Instagram link 1000XStocks X link This is a Jeremy Lefebvre Production | Financial Education with Jeremy Lefebvre | Stock Market Investing | Stocks to Watch | Nasdaq | Tech Stocks | Tesla | Palantir | Nvidia | Jeremy Lefebvre Portfolio | Jeremy Lefebvre Private Stock Group Financial Education, Created by Jeremy Lefebvre",
+   "url": "https://www.youtube.com/watch?v=hJ4jacgJdYU",
+   "published": "2026-11-14T01:03:17+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA",
+    "PLTR"
+   ],
+   "summary_ko": [
+    "테슬라, 엔비디아, 팔란티어 등 주요 기술주와 나스닥 시장을 다루는 금융 교육 콘텐츠를 소개했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ccf5f0975f6b7485",
@@ -1907,7 +2019,7 @@
    "source": "r/stocks",
    "author": "/u/Deep-Force2598",
    "title": "SMCI vs. BABA- which one are would you pick?",
-   "excerpt": "I’m torn between SMCI and Alibaba Baba and wanted to get the sub's take before pulling the trigger. Both are sitting way off their 52-week highs right now ($SMCI hovering around ~$27 after hitting ~$51 earlier this year, and $BABA down in the mid-$90s from ~$181), so both feel like classic \"high upside vs. high headache\" plays. Here is where my head is at on both: Bullet The case for SMCI: Direct AI infrastructure play, massive top-line revenue growth, early mover shipping next-gen Nvidia racks,",
+   "excerpt": "I’m torn between SMCI and Alibaba Baba and wanted to get the sub's take before pulling the trigger. Both are sitting way off their 52-week highs right now ($SMCI hovering around ~$27 after hitting ~$51 earlier this year, and $BABA down in the mid-$90s from ~$181), so both feel like classic \"high upside vs. high headache\" plays. Here is where my head is at on both: Bullet The case for SMCI: Direct AI infrastructure play, massive top-line revenue growth, early mover shipping next-gen Nvidia racks, and trading at a super low P/E (~5–6x). The catch: Thin margins, heavy cash burn / working capital headaches, and brutal volatility. Bullet The case for BABA: Massive e-commerce and AI cloud footprint in China, strong Wall Street price targets ($175–$183 average), and a solid balance sheet with buy",
    "url": "https://www.reddit.com/r/stocks/comments/1xvofd8/smci_vs_baba_which_one_are_would_you_pick/",
    "published": "2026-11-14T00:25:10+00:00",
    "tickers": [
@@ -1930,6 +2042,23 @@
    ],
    "summary_ko": null,
    "tone": null
+  },
+  {
+   "id": "4b4eb73b7b333a7c",
+   "kind": "youtube",
+   "source": "Meet Kevin",
+   "author": "Meet Kevin",
+   "title": "BASES ON ALERT 🚨 FAA Orders ALL Flights STOPPED: Nationwide Ground Stop!",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: Critical CPI Inflation Report & Fed Rate Impact 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course & membership support: staff@meetreinvest.com 🥰 Socials 🥰 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ X: ➡️ TikTok: ➡️ Instagram: 😇 Affiliate Links (Paid) 😇 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 📜 Some links are affiliate links and/or sponsors. I may earn a commission at no extra cost to you. ➡️ Kalshi (Prediction Markets): ➡️ Webull Stocks: My favorite stock app for charting and trades! ➡️ Tesla: ➡️ Life Insur",
+   "url": "https://www.youtube.com/watch?v=jdKEsw98cC4",
+   "published": "2026-11-13T23:41:57+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "미국 연방항공청(FAA)의 전국적인 항공기 운항 중지 명령 소식을 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "62df6c18f2a5d84e",
@@ -2048,8 +2177,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일론 머스크가 엑스를 통해 젠슨 황을 엔비디아 CEO로 복귀시키는 청원에 서명하고 있다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7ad4c67c259b648c",
@@ -2109,8 +2240,11 @@
    "tickers": [
     "AAPL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "투자자들이 인공지능 관련 매도세를 피해 안전자산을 찾으면서 애플 주가가 사상 최고가를 기록했다.",
+    "애플 주가는 금요일에 약 1% 상승해 시가총액 5조 2,000억 달러를 넘어섰다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0fa317b83aa6c885",
@@ -2133,14 +2267,17 @@
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
    "title": "Nvidia’s Biggest Customers Are Building a Way Out | Deirdre Bosa Live",
-   "excerpt": "Everyone is asking who will run Nvidia, but Deirdre Bosa says the bigger question may be who keeps buying from it, as its biggest customers design and buy chips of their own. Box CEO Aaron Levie weighs in on Nvidia after Jensen Huang, why founders matter and whether Democrats can still back AI after the midterms. Nebius chief revenue officer Marc Boroditsky explains why it is testing alternatives but sticking with Nvidia, and how customers are now funding its build-out. Silicon Data CEO Carmen L",
+   "excerpt": "Everyone is asking who will run Nvidia, but Deirdre Bosa says the bigger question may be who keeps buying from it, as its biggest customers design and buy chips of their own. Box CEO Aaron Levie weighs in on Nvidia after Jensen Huang, why founders matter and whether Democrats can still back AI after the midterms. Nebius chief revenue officer Marc Boroditsky explains why it is testing alternatives but sticking with Nvidia, and how customers are now funding its build-out. Silicon Data CEO Carmen Li breaks down GPU futures, and Pentagon CTO Emil Michael talks China, export controls and Washington's fight over Nvidia. Timestamps 00:00 Week one wraps 00:47 Who keeps buying from Nvidia? 01:06 Nvidia's customers build a way out 02:14 Nvidia's margins and valuation 02:36 Cathie Wood on market shar",
    "url": "https://www.youtube.com/watch?v=tN8AKvBg2I0",
    "published": "2026-11-13T22:13:42+00:00",
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 최대 고객사들이 자체 칩을 설계 및 구매하며 탈출구를 찾고 있다고 다뤘다.",
+    "전문가들과 함께 엔비디아의 지속적인 고객 확보 가능성과 밸류에이션 등을 논의했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "a2663f7a20ad9481",
@@ -2209,14 +2346,16 @@
    "source": "CNBC Television",
    "author": "CNBC Television",
    "title": "Market Close: Stocks Mixed, Nvidia Down 12% This Week Amid Controversy, ANT IPO Coming • 11/13/26",
-   "excerpt": "CNBC Business News Update with Jessica Ettinger - Markets & Business News With Expert Analysis From Top Business Names. Visit CNBC.com For More. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/42d859g » Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision » Subscribe to CNBC: https://cnb.cx/SubscribeCNBC » Watch CNBC on the go with CNBC+: https://www.cnbc.com/WatchCNBCPlus Turn to CNBC TV for the latest stock market news and analysis. From market fu",
+   "excerpt": "CNBC Business News Update with Jessica Ettinger - Markets & Business News With Expert Analysis From Top Business Names. Visit CNBC.com For More. For access to live and exclusive video from CNBC subscribe to CNBC PRO: » Subscribe to CNBC TV: » Subscribe to CNBC: » Watch CNBC on the go with CNBC+: Turn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide. Connect with CNBC News Online Get the latest news: Follow CNBC on LinkedIn: Follow CNBC News on Instagram: Follow CNBC News on Facebook: Follow CNBC on Threads: Follow CNBC News on X: Follow CNBC on WhatsApp: #CNBC #CNBCTV",
    "url": "https://www.youtube.com/watch?v=5XVw_oMX3Ng",
    "published": "2026-11-13T21:42:25+00:00",
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "증시가 혼조세를 보인 가운데 엔비디아가 논란 속에 한 주 동안 12% 하락했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "1182e94e7317dc60",
@@ -2293,7 +2432,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "104a1e8ce8a135b5",
@@ -2453,14 +2593,15 @@
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
    "title": "NVIDIA's Biggest Risk Isn't Chips, It's the Boardroom",
-   "excerpt": "Bill George ran Medtronic for a decade and has sat on the boards of Goldman Sachs, ExxonMobil, Novartis and Target. A day after Jensen Huang resigned, he tells Brian Sozzi that Nvidia has the wrong board for a technology company: by his count five venture capitalists and a former Goldman banker, and nobody who understands the business. His sharper point is what comes next. He says a board's first duty is to ensure chief executive leadership, that this one did not investigate until the autumn, an",
+   "excerpt": "Bill George ran Medtronic for a decade and has sat on the boards of Goldman Sachs, ExxonMobil, Novartis and Target. A day after Jensen Huang resigned, he tells Brian Sozzi that Nvidia has the wrong board for a technology company: by his count five venture capitalists and a former Goldman banker, and nobody who understands the business. His sharper point is what comes next. He says a board's first duty is to ensure chief executive leadership, that this one did not investigate until the autumn, and that he is not confident these directors know the right people to call for the search. Full episode: Featuring Bill George, former Chairman and CEO, Medtronic, and Executive Education Fellow, Harvard Business School Timestamps 0:00 Why he calls it the wrong board for a technology company 1:30 The ",
    "url": "https://www.youtube.com/watch?v=Js62o5bEDG0",
    "published": "2026-11-13T20:00:01+00:00",
    "tickers": [
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "203dc3724ae36e8d",
@@ -2473,6 +2614,21 @@
    "published": "2026-11-13T19:54:40+00:00",
    "tickers": [
     "NFLX"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "42988e2feae89043",
+   "kind": "reddit",
+   "source": "r/stocks",
+   "author": "/u/Tallwhitedude123",
+   "title": "I would be wary of another big sell off in AI stocks over the next month and here’s why",
+   "excerpt": "It’s really simple. The US 10yr Treasury yield is now rapidly rising again after dipping to 4.84. Right now it’s back to 5.15%, a 30 basis point move since Monday, just 5 days, which is a dramatic move for US treasuries. You can’t talk about stocks without understanding bonds. If yields keep rising I expect long duration tech stocks to sell off their most recent gains as that money makes its way back into treasuries. It seems this is maybe now the playbook. FYI I’m still in stocks but I’m taking green days as opportunities to reduce risk. Until inflationary forces such as the war in the Middle East is resolved, resulting in lower energy prices, stock gains will likely be limited. A good pick in this good of environment, in my opinion, is GOOGM. GOOGM is Alphabet Inc.’s Series A 6.25% Manda",
+   "url": "https://www.reddit.com/r/stocks/comments/1xvhlhv/i_would_be_wary_of_another_big_sell_off_in_ai/",
+   "published": "2026-11-13T19:42:15+00:00",
+   "tickers": [
+    "GOOGL"
    ],
    "summary_ko": null,
    "tone": null
@@ -2498,7 +2654,7 @@
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
    "title": "Jensen Huang collects over $800 million a year in dividends, and United bans AI bots | Market Hang",
-   "excerpt": "Jensen Huang's quarterly dividend from Nvidia runs to roughly $200 million, which Kevin Kelly works out to more than $800 million a year. Bill George tells the show it is the wrong board for a high tech company, with five venture capitalists and nobody who understands the technology. Jed Ellerbroek of Argent Capital Management calls Anthropic's filing the most impressive business he has ever reviewed, and names Microsoft, Google and Amazon as the reasonably priced way in. Julie Hyman argues Kevi",
+   "excerpt": "Jensen Huang's quarterly dividend from Nvidia runs to roughly $200 million, which Kevin Kelly works out to more than $800 million a year. Bill George tells the show it is the wrong board for a high tech company, with five venture capitalists and nobody who understands the technology. Jed Ellerbroek of Argent Capital Management calls Anthropic's filing the most impressive business he has ever reviewed, and names Microsoft, Google and Amazon as the reasonably priced way in. Julie Hyman argues Kevin Warsh cannot stop the market extrapolating by giving it less guidance. Then United bans AI bots from booking flights. Featuring Kevin Kelly, Founder, CEO and CCO, Kelly Intelligence Julie Hyman, Yahoo Finance Turney Duff, Wall Street veteran and author of \"The Buy Side\" Jed Ellerbroek, Portfolio M",
    "url": "https://www.youtube.com/watch?v=mNCwdKxZFSM",
    "published": "2026-11-13T19:11:41+00:00",
    "tickers": [
@@ -2508,7 +2664,8 @@
     "AMZN"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "78b1cb6440f1e92d",
@@ -2516,7 +2673,7 @@
    "source": "The Compound",
    "author": "The Compound",
    "title": "Is Nvidia Still a Buy Without Jensen Huang?",
-   "excerpt": "On episode 268 of The Compound and Friends, ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Downtown Josh Brown⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks b",
+   "excerpt": "On episode 268 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks breaking out, global markets hitting new highs, magazine covers as contrarian indicators, and whether the collapse in gold and silver could be setting up a major opportunity in precious metals. 👕 Check out The Compound shop: 🎙️Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: The Compound Newsletter: Linkedin: Instagram: Twitter: Tik Tok: Investing involves the risk of loss. This podcast is for ",
    "url": "https://www.youtube.com/shorts/wBOGnV3pvyg",
    "published": "2026-11-13T19:11:25+00:00",
    "tickers": [
@@ -2525,7 +2682,8 @@
     "AMD"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "dc560f6de6a69650",
@@ -2672,7 +2830,7 @@
    "source": "r/stocks",
    "author": "/u/National_World944",
    "title": "Anthropic says its chatbot now beats most AI built for robots. Does that hurt the NVDA robotics story?",
-   "excerpt": "I've been looking at NVDA partly for the robotics angle (GR00T, Jetson), so this caught my eye with earnings coming on Nov 17. In the Fable 5.2 launch, Anthropic says the model beat most AI systems built specifically to control robots. If a chatbot can just do that, I don't see why robots need their own models. And robot-specific models are a big part of what NVDA is pitching there. Then again the robot-specific stuff keeps coming. The same day, Ant-backed Robbyant released its LingBot-Touch mod",
+   "excerpt": "I've been looking at NVDA partly for the robotics angle (GR00T, Jetson), so this caught my eye with earnings coming on Nov 17. In the Fable 5.2 launch, Anthropic says the model beat most AI systems built specifically to control robots. If a chatbot can just do that, I don't see why robots need their own models. And robot-specific models are a big part of what NVDA is pitching there. Then again the robot-specific stuff keeps coming. The same day, Ant-backed Robbyant released its LingBot-Touch model, which is just for touch in robot hands, and I haven't seen a chatbot do that. Am I overthinking this, or is it a real risk to the robotics part of the NVDA story? submitted by /u/National_World944 [link] [comments]",
    "url": "https://www.reddit.com/r/stocks/comments/1xvdu9a/anthropic_says_its_chatbot_now_beats_most_ai/",
    "published": "2026-11-13T17:21:58+00:00",
    "tickers": [
@@ -2775,6 +2933,21 @@
    "tone": null
   },
   {
+   "id": "2e6e2a7a8f7d6c7d",
+   "kind": "reddit",
+   "source": "r/investing",
+   "author": "/u/GumballCowboy",
+   "title": "SOLD ALL NVDA @ 2:30am After Hours.",
+   "excerpt": "I usually don’t buy into the hype on stocks. Do I think NVDA will be worth a lot more than stock price now? YES I wasn’t paying attention yesterday during the day. Then I was researching at night and was watching overnight markets. Closed $168 and was dropping in overnight trading. I have NEVER traded overnight before so I had to use my Think or Swim App. Anyway I just rebought NVDA $175, $180, $202 in the last several weeks. I had $300,000 spread out across (2) IRA’s and a Brokerage. I just had a feeling today was not going to be good and I am hoping it goes down and then I may buy it back. I just didn’t want to watch my money disappear. I bet I lost $20,000 but I would have lost $10,000 more today so I feel good about getting rid of it for now! I sold at $163.50 Not sure WHEN is a good p",
+   "url": "https://www.reddit.com/r/investing/comments/1xvcxkv/sold_all_nvda_230am_after_hours/",
+   "published": "2026-11-13T16:49:13+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "73017120af17acd5",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -2795,14 +2968,15 @@
    "source": "Ticker Symbol: YOU",
    "author": "Ticker Symbol: YOU",
    "title": "What Jensen Huang's Downfall Means for NVIDIA Stock",
-   "excerpt": "Sponsored by Seeking Alpha's Alpha Picks: ● Premium: https://link.seekingalpha.com/5D36J84/4G6SHH/ ● Alpha Picks: https://link.seekingalpha.com/5D36J84/4HKP84/ ● Quant Growth & Income (QG&I): https://link.seekingalpha.com/5D36J84/4Z3MTK/ Bundles: ● Premium + Alpha Picks Bundle: https://link.seekingalpha.com/5D36J84/4JZKZP/ ● QG&I + Alpha Picks Bundle: https://link.seekingalpha.com/5D36J84/51GJL6/ Jensen Huang, the Founder and CEO of #nvidia ( #nvda stock ) has resigned following revelations of a",
+   "excerpt": "Sponsored by Seeking Alpha's Alpha Picks: ● Premium: ● Alpha Picks: ● Quant Growth & Income (QG&I): Bundles: ● Premium + Alpha Picks Bundle: ● QG&I + Alpha Picks Bundle: Jensen Huang, the Founder and CEO of #nvidia ( #nvda stock ) has resigned following revelations of affairs with multiple women, including an alleged spy. NVIDIA skyrocketed to over $5.5 TRILLION in value by powering the generative AI revolution that #openai kicked off when they launched #chatgpt 4 years ago. But without Jensen Huang at the helm, is NVDA stock still one of the best stocks to buy now or is this the end of an era? My name is Alex and I've been an NVIDIA shareholder for over 10 years. Let me show you what's really going on. » My Top 10 Stocks for 2026: » Podcast: » Twitter: Timestamps: 00:00 The Reckoning of N",
    "url": "https://www.youtube.com/watch?v=nvRkMsYj_O8",
    "published": "2026-11-13T16:22:16+00:00",
    "tickers": [
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "935aca517160c7a6",
@@ -2949,14 +3123,15 @@
    "source": "Chip Stock Investor",
    "author": "Chip Stock Investor",
    "title": "Nvidia After Jensen: What Investors Can Do Next",
-   "excerpt": "NVIDIA stock: Jensen Huang is out as CEO and shares have plunged. Do you sell, buy the dip, or wait? In this video: why we’re holding our NVDA position without adding to it, why interim CEO Colette Kress and NVIDIA’s long-tenured leadership team offer more continuity than the headlines suggest, and where we’re putting new money instead. After a rollercoaster week that saw NVIDIA drop more than 10% at Thursday’s open following Jensen Huang’s exit, Nick and Kasey give their unfiltered take on the ",
+   "excerpt": "NVIDIA stock: Jensen Huang is out as CEO and shares have plunged. Do you sell, buy the dip, or wait? In this video: why we’re holding our NVDA position without adding to it, why interim CEO Colette Kress and NVIDIA’s long-tenured leadership team offer more continuity than the headlines suggest, and where we’re putting new money instead. After a rollercoaster week that saw NVIDIA drop more than 10% at Thursday’s open following Jensen Huang’s exit, Nick and Kasey give their unfiltered take on the media frenzy and the market fallout. NVIDIA lost its charismatic leader, but Colette Kress and Jensen’s lieutenants are still in place. We’re waiting for Tuesday’s update before making any move, because the rule still holds: panic early or not at all. In the meantime, we’re buying quality companies ",
    "url": "https://www.youtube.com/watch?v=OYXptL8Z92Y",
    "published": "2026-11-13T15:00:06+00:00",
    "tickers": [
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "d56d846c4d251489",
@@ -3025,7 +3200,7 @@
    "source": "r/stocks",
    "author": "/u/Shivam5483",
    "title": "Long-term thesis on buying the Nvidia dip. What risks am I missing?",
-   "excerpt": "Apologies if this is a beginner question. I’ve researched as much as I can, but past a point, Google and AI answers get buried in technical terms. I’d rather hear how real people think about this. My thesis: AI compute demand will keep growing, and the current crash is mostly the China scandal plus AI spending jitters, not a problem with the product. The biggest long-term risk I see is Google, Amazon, and others building their own chips and eating into Nvidia’s margins. Another risk is key perso",
+   "excerpt": "Apologies if this is a beginner question. I’ve researched as much as I can, but past a point, Google and AI answers get buried in technical terms. I’d rather hear how real people think about this. My thesis: AI compute demand will keep growing, and the current crash is mostly the China scandal plus AI spending jitters, not a problem with the product. The biggest long-term risk I see is Google, Amazon, and others building their own chips and eating into Nvidia’s margins. Another risk is key person risk. Jensen stepping down can lead other long-time leaders to leave with him. My understanding is that Nvidia has likely planned for this, so it’s mainly a short-term risk. The dip could go deeper, but the company isn’t doomed long-term. My plan is to invest a third of my amount now, a third afte",
    "url": "https://www.reddit.com/r/stocks/comments/1xv9kkv/longterm_thesis_on_buying_the_nvidia_dip_what/",
    "published": "2026-11-13T14:39:02+00:00",
    "tickers": [
@@ -3067,6 +3242,22 @@
    "tone": null
   },
   {
+   "id": "802782ef41bfb729",
+   "kind": "youtube",
+   "source": "Meet Kevin",
+   "author": "Meet Kevin",
+   "title": "The Inflation Report is HOT Again...",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: This Inflation Report CONFIRMS the Fed's NEXT Move. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course & membership support: staff@meetreinvest.com 🥰 Socials 🥰 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ X: ➡️ TikTok: ➡️ Instagram: 😇 Affiliate Links (Paid) 😇 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 📜 Some links are affiliate links and/or sponsors. I may earn a commission at no extra cost to you. ➡️ Kalshi (Prediction Markets): ➡️ Webull Stocks: My favorite stock app for charting and trades! ➡️ Tesla: ➡️ Life I",
+   "url": "https://www.youtube.com/watch?v=S7QBYIEfKLs",
+   "published": "2026-11-13T14:23:21+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
    "id": "ca5d4d32bc1f47e1",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -3080,6 +3271,22 @@
    ],
    "summary_ko": null,
    "tone": null
+  },
+  {
+   "id": "411ae804d4685483",
+   "kind": "youtube",
+   "source": "Meet Kevin",
+   "author": "Meet Kevin",
+   "title": "The Fed Just Hit the Panic Button.",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: Why the Federal Reserve is about to F**K Us. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course & membership support: staff@meetreinvest.com 🥰 Socials 🥰 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ X: ➡️ TikTok: ➡️ Instagram: 😇 Affiliate Links (Paid) 😇 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 📜 Some links are affiliate links and/or sponsors. I may earn a commission at no extra cost to you. ➡️ Kalshi (Prediction Markets): ➡️ Webull Stocks: My favorite stock app for charting and trades! ➡️ Tesla: ➡️ Life Insuranc",
+   "url": "https://www.youtube.com/watch?v=JdDKaP_xdh0",
+   "published": "2026-11-13T14:18:17+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "4bcbc99c05433fff",
@@ -3193,14 +3400,15 @@
    "source": "Tom Nash",
    "author": "Tom Nash",
    "title": "The UNTHINKABLE is About to Happen to NVIDIA (Emergency Update)",
-   "excerpt": "Get the Tom Nash Panic Proof Investing Strategy Guide [FREE]: https://join.tomnash.academy/panic-proof-playbook ------------------------------------------ Join ROIC Academy here: https://www.patreon.com/tomnash ------------------------------------------ Try Stock MVP For FREE here: https://www.stock-mvp.com ------------------------------------------ Nothing in this video constitutes tax, legal, financial and/or investment advice, nor does any information in this video constitute an invitation an",
+   "excerpt": "Get the Tom Nash Panic Proof Investing Strategy Guide [FREE]: ------------------------------------------ Join ROIC Academy here: ------------------------------------------ Try Stock MVP For FREE here: ------------------------------------------ Nothing in this video constitutes tax, legal, financial and/or investment advice, nor does any information in this video constitute an invitation and/or solicitation to invest in a particular security. This video merely expresses the author’s opinion and should be viewed as such. Before proceeding with any investments, you should do your own research and seek advice from an independent licensed professional. ---------------------------------------------------------------------------------------------------------------- The author of this video does N",
    "url": "https://www.youtube.com/watch?v=6tjHPjAzlF4",
    "published": "2026-11-13T13:25:50+00:00",
    "tickers": [
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "e4585394d843e7e8",
@@ -3405,7 +3613,7 @@
    "source": "The Compound",
    "author": "The Compound",
    "title": "Damn it, Jensen! | TCAF 268",
-   "excerpt": "On episode 268 of The Compound and Friends, ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Downtown Josh Brown⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and ⁠Michael Batnick⁠ are joined by TCAF all-star J⁠C Parets⁠ to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank st",
+   "excerpt": "On episode 268 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks breaking out, global markets hitting new highs, magazine covers as contrarian indicators, and whether the collapse in gold and silver could be setting up a major opportunity in precious metals. This episode is sponsored by DBMF. To learn more about the world’s largest managed futures ETF visit ►00:00 - Cold Open ►09:44 - JC Parets of TrendLabs Joins ►12:11 - Jensen Huang Resigns: Sell or Hold Nvidia? ►18:27 -",
    "url": "https://www.youtube.com/watch?v=731fH2N2rdI",
    "published": "2026-11-13T11:00:15+00:00",
    "tickers": [
@@ -3414,7 +3622,8 @@
     "AMD"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "bdb63df5479a3012",
@@ -3452,7 +3661,7 @@
    "source": "r/stocks",
    "author": "/u/AncientRaisin4003",
    "title": "Is GOOG not the most obvious buy here?",
-   "excerpt": "First of all, I know Google has been very popular with this sub for a while now. Obviously I'm not breaking new ground with this post, but just wanted to lay out my thoughts. I break down Alphabet into these segments: Core Search Everything else (Android, GMail, Chrome, Maps, etc.) Google Cloud Platform (GCP) The actual Cloud Services TPU Chips Google DeepMind YouTube Waymo (they own like ~80%, effectively a subsidiary) ~12-14% of Anthropic ~6% of SpaceX Google Core has done about $250B of reven",
+   "excerpt": "First of all, I know Google has been very popular with this sub for a while now. Obviously I'm not breaking new ground with this post, but just wanted to lay out my thoughts. I break down Alphabet into these segments: Core Search Everything else (Android, GMail, Chrome, Maps, etc.) Google Cloud Platform (GCP) The actual Cloud Services TPU Chips Google DeepMind YouTube Waymo (they own like ~80%, effectively a subsidiary) ~12-14% of Anthropic ~6% of SpaceX Google Core has done about $250B of revenue over the trailing twelve months at around a 50% operating margin. Google doesn't report \"Core\" margins so it's an estimate but about $125B of operating income. I would put a 12x multiple on this (remember it's operating income not net), due to how AI may affect their search business. I believe th",
    "url": "https://www.reddit.com/r/stocks/comments/1xv2biv/is_goog_not_the_most_obvious_buy_here/",
    "published": "2026-11-13T08:16:01+00:00",
    "tickers": [
@@ -3482,11 +3691,26 @@
    "source": "r/stocks",
    "author": "/u/RainieY",
    "title": "Widespread outage in Microsoft services",
-   "excerpt": "Many microsoft services have been down for almost a full day. The stock has stayed flat during the day and afterhours. Could this be some AI spaghetti code? They don't seem able to fix the issue, and even finding it seems difficult from the articles I've read. If this turns out to be AI-related in any shape, prepare for a massive crush or renewed AI fears. I also thought that there might be a disgruntled employee following the news that Microsoft wants to lay-off a quarter of its workforce. Fina",
+   "excerpt": "Many microsoft services have been down for almost a full day. The stock has stayed flat during the day and afterhours. Could this be some AI spaghetti code? They don't seem able to fix the issue, and even finding it seems difficult from the articles I've read. If this turns out to be AI-related in any shape, prepare for a massive crush or renewed AI fears. I also thought that there might be a disgruntled employee following the news that Microsoft wants to lay-off a quarter of its workforce. Finally, it could be a nothing burger and I'm letting my mind run wild... If it turns out be something simple like the servers being strained due to too much demand, that would be insanely bullish for data centers. submitted by /u/RainieY [link] [comments]",
    "url": "https://www.reddit.com/r/stocks/comments/1xv0agw/widespread_outage_in_microsoft_services/",
    "published": "2026-11-13T06:12:14+00:00",
    "tickers": [
     "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "5e8f084de902a2b0",
+   "kind": "reddit",
+   "source": "r/investing",
+   "author": "/u/TDSucksBalls",
+   "title": "Buy NVDA / Short Hyperscalers",
+   "excerpt": "NVDA Q3 revenue and profit is expected to be $100B and $60B so it is trading at 10x and 16.7x respectively. Hyperscalers are responsible for a large portion of that. A group of them should propose a buyout as a strategic way to ensure supply priority and negatively impact the others. The markets will probably punish the buyers initially because of the debt but then realize the competitive advantage. Am I drinking too much? submitted by /u/TDSucksBalls [link] [comments]",
+   "url": "https://www.reddit.com/r/investing/comments/1xuyvau/buy_nvda_short_hyperscalers/",
+   "published": "2026-11-13T04:54:03+00:00",
+   "tickers": [
+    "NVDA"
    ],
    "summary_ko": null,
    "tone": null
@@ -3522,12 +3746,45 @@
    "tone": null
   },
   {
+   "id": "00cd1dbd29a3c458",
+   "kind": "reddit",
+   "source": "r/investing",
+   "author": "/u/DadiStefanoni",
+   "title": "NVIDIA - Buy the dip or wait?",
+   "excerpt": "We’ve all seen what’s happened with NVIDIA recently. Looking ahead, do you think the current dip presents a good buying opportunity, or is it worth waiting to see if the stock drops further? I’m curious to hear what everyone’s thinking and whether you’re buying, holding off, or staying away for now. submitted by /u/DadiStefanoni [link] [comments]",
+   "url": "https://www.reddit.com/r/investing/comments/1xuxkvf/nvidia_buy_the_dip_or_wait/",
+   "published": "2026-11-13T03:45:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "23ba23d3fc313cc3",
+   "kind": "reddit",
+   "source": "r/investing",
+   "author": "/u/supplykatusa",
+   "title": "this is why i've beening watching RSP vs. SPY lately",
+   "excerpt": "On Oct 29, 406 of the SP500's 503 stocks finished green. The index still closed down 0.3%. Alphabet had a rough day, and because it's such a big part of the index, the drop outweighed alot of those smaller gains. Nov. 12 gave me anohter version of that NVDA dropped 4.3% after Huang got FIRED, while AMD and Broadcom both rose. If I'd only chekd NVDA, I wouldve missed what was happening elsewhere in chips. That's why I started keeping SPY and RSP next to each other on my watchlist. They track the same group of companies, but the biggest ones have more pull in SPY. RSP gave each comapny the same weight at its quarterly rebalance. Comparing the 2 is a quick way for me to get a feel for market breadth and see when it's worth digging into which sectors are actually moving. I'd feel more bullish ",
+   "url": "https://www.reddit.com/r/investing/comments/1xuwwlq/this_is_why_ive_beening_watching_rsp_vs_spy_lately/",
+   "published": "2026-11-13T03:11:08+00:00",
+   "tickers": [
+    "NVDA",
+    "GOOGL",
+    "AMD",
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "8081bdc885922ebf",
    "kind": "youtube",
    "source": "Meet Kevin",
    "author": "Meet Kevin",
    "title": "Nvidia CEO *JUST* Lawyered Up! 3rd Affair & FIRED",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at https://ReinvestOne.com LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! https://meetkevin.com/predict - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: https://meetkevin.com/digest Jensen Huang reportedly hired Paul Weiss, the firm of former US Attorney Melinda Haag and Walter Brown, as probes widen. I break down who these lawyers are, why separate personal counsel matters, the ",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: Jensen Huang reportedly hired Paul Weiss, the firm of former US Attorney Melinda Haag and Walter Brown, as probes widen. I break down who these lawyers are, why separate personal counsel matters, the three DOJ probes around Nvidia, his House testimony before Thanksgiving, the lawsuits he could face, the Lutnick fallout, and what Nvidia earnings on 11-17 could mean for NVDA. Allegations are unproven. Commentary only, not advice. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course & me",
    "url": "https://www.youtube.com/watch?v=fbC79vAIWWM",
    "published": "2026-11-13T03:05:09+00:00",
    "tickers": [
@@ -3613,6 +3870,21 @@
    "tone": null
   },
   {
+   "id": "b98f05013e1055d2",
+   "kind": "reddit",
+   "source": "r/investing",
+   "author": "/u/chrswnd",
+   "title": "Not going to buy NVDA now…",
+   "excerpt": "…here’s my thinking: people love drama and I am convinced that the newspapers and the people involved in investigating Nvidia now will dig up more bad news and eventually the stock is going to suffer even more, hell maybe even Trump wants to shine through this by doing something drastic to Nvidia. Crazy timing with earnings report just around the corner too… Are you going to buy / sell / wait a little? 💭 submitted by /u/chrswnd [link] [comments]",
+   "url": "https://www.reddit.com/r/investing/comments/1xunk5u/not_going_to_buy_nvda_now/",
+   "published": "2026-11-12T20:20:19+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "6f5df5da9858666b",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -3643,6 +3915,21 @@
    "tone": null
   },
   {
+   "id": "c2a16e46648fcd22",
+   "kind": "reddit",
+   "source": "r/investing",
+   "author": "/u/Relevant_Battle3618",
+   "title": "Why would Jensen Huang stepping down as CEO have any significant long-term impact on Nvidia's stock?",
+   "excerpt": "Maybe I'm missing something, but I don't understand why Jensen Huang stepping down as CEO would have such a significant impact on Nvidia's long-term valuation. I understand he's played a massive role in the company's success, but it's not like Nvidia suddenly loses its technology, customers, market share, or competitive advantages if he leaves. I also don't understand why his personal life would have any meaningful impact on the company's fundamentals. Nvidia would still be generating revenue, selling GPUs, and benefiting from AI demand regardless of who's running it. I can understand a short-term selloff driven by uncertainty or investor sentiment, but shouldn't the stock's long-term performance ultimately come down to earnings, growth, and execution rather than one individual? Am I under",
+   "url": "https://www.reddit.com/r/investing/comments/1xujpru/why_would_jensen_huang_stepping_down_as_ceo_have/",
+   "published": "2026-11-12T17:57:55+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "cc2e97ec3c00c415",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -3663,7 +3950,7 @@
    "source": "Amit Kukreja",
    "author": "Amit Kukreja",
    "title": "JENSEN HAS ANOTHER AFFAIR, NVIDIA BOARD THINKS OF REPLACING HIM, NEBIUS EARNINGS | MARKET OPEN",
-   "excerpt": "twitter: https://x.com/amitisinvesting deepdives: https://amitsdeepdives.substack.com/ free news terminal - https://caktusjxck.com/",
+   "excerpt": "twitter: deepdives: free news terminal -",
    "url": "https://www.youtube.com/watch?v=sk6idfIH_LI",
    "published": "2026-11-12T17:34:09+00:00",
    "tickers": [
@@ -3711,7 +3998,7 @@
    "source": "Meet Kevin",
    "author": "Meet Kevin",
    "title": "Nvidia *JUST* FIRED Jensen. Elon Offers Jensen Job!!!!",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at https://ReinvestOne.com LIFETIME ACCESS. 🚨 Expires 10/30 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! https://meetkevin.com/predict - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: https://meetkevin.com/digest Jensen Huang has resigned from Nvidia (NVDA) as President, CEO and board member, effective immediately, after 33 years. CFO Colette Kress is interim CEO and keeps the CFO job. Harvey C. Jones becomes ",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 10/30 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: Jensen Huang has resigned from Nvidia (NVDA) as President, CEO and board member, effective immediately, after 33 years. CFO Colette Kress is interim CEO and keeps the CFO job. Harvey C. Jones becomes Nvidia's first-ever board chair. The board is searching inside and outside for a permanent CEO, with no timeline. No reason was given. CNBC says the stock fell about 10%. Q3 earnings are still set for Tuesday 11-17-2026. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course & membership su",
    "url": "https://www.youtube.com/watch?v=0A9uTZ4Q27M",
    "published": "2026-11-12T15:08:12+00:00",
    "tickers": [
@@ -3741,7 +4028,7 @@
    "source": "Chip Stock Investor",
    "author": "Chip Stock Investor",
    "title": "Congress Just Summoned #jensenhuang #nvidia #investing",
-   "excerpt": "Congress is going to be asking some hard questions from Nvidia CEO Jensen Huang. What details will emerge from this closed door meeting? — LINKS & RESOURCES — Join Semi Insider — $120/year Semi Insider is Chip Stock Investor's paid research service: all research as it happens, the CSI 100 + quarterly outlook, dashboard tools (Compare Companies, Reverse DCF, supply-chain mapping), weekly live Q&A, portfolio moves before execution, and the private Discord. Join: https://chipstockinvestor.com/featu",
+   "excerpt": "Congress is going to be asking some hard questions from Nvidia CEO Jensen Huang. What details will emerge from this closed door meeting? — LINKS & RESOURCES — Join Semi Insider — $120/year Semi Insider is Chip Stock Investor's paid research service: all research as it happens, the CSI 100 + quarterly outlook, dashboard tools (Compare Companies, Reverse DCF, supply-chain mapping), weekly live Q&A, portfolio moves before execution, and the private Discord. Join: Free demo: All our links & socials: Content in this video is for general information or entertainment only and is not specific or individual investment advice. Forecasts and information presented may not develop as predicted and there is no guarantee any strategies presented will be successful. All investing involves risk, and you co",
    "url": "https://www.youtube.com/shorts/_A-48fAESw0",
    "published": "2026-11-12T12:00:31+00:00",
    "tickers": [
@@ -3756,7 +4043,7 @@
    "source": "Everything Money",
    "author": "Everything Money",
    "title": "If You’re an Nvidia Shareholder During the CEO Scandal… Get Ready! $NVDA",
-   "excerpt": "Nvidia’s board just launched an investigation into its own CEO. Jensen Huang, the man who started Nvidia and built it into one of the most valuable companies on Earth, has admitted to an affair. There are reports that the woman involved was working for Chinese intelligence. The stock is now down about 30% from its record high, in just 5 weeks. And almost 17% of that came in the last week alone. And the timing could not be worse. Nvidia reports earnings on November 17th, and the very next day, Co",
+   "excerpt": "Nvidia’s board just launched an investigation into its own CEO. Jensen Huang, the man who started Nvidia and built it into one of the most valuable companies on Earth, has admitted to an affair. There are reports that the woman involved was working for Chinese intelligence. The stock is now down about 30% from its record high, in just 5 weeks. And almost 17% of that came in the last week alone. And the timing could not be worse. Nvidia reports earnings on November 17th, and the very next day, Congress wants Jensen in a closed-door meeting on the 18th. So how far will Nvidia fall? Will Jensen Huang even still be the CEO when this is over? And if the most important company in AI loses the man who built it, what happens to the entire AI industry? We are going to answer all these questions, an",
    "url": "https://www.youtube.com/watch?v=H3v177dw9Xo",
    "published": "2026-11-12T11:55:23+00:00",
    "tickers": [
@@ -3801,7 +4088,7 @@
    "source": "Chip Stock Investor",
    "author": "Chip Stock Investor",
    "title": "Will NVIDIA Lose Market Share? Not So Fast! #nvidia #jensenhuang",
-   "excerpt": "There is plenty of discussion on the future of Nvidia. But there are other questions that need to be asked. — LINKS & RESOURCES — Join Semi Insider — $120/year Semi Insider is Chip Stock Investor's paid research service: all research as it happens, the CSI 100 + quarterly outlook, dashboard tools (Compare Companies, Reverse DCF, supply-chain mapping), weekly live Q&A, portfolio moves before execution, and the private Discord. Join: https://chipstockinvestor.com/features-and-pricing Free demo: ht",
+   "excerpt": "There is plenty of discussion on the future of Nvidia. But there are other questions that need to be asked. — LINKS & RESOURCES — Join Semi Insider — $120/year Semi Insider is Chip Stock Investor's paid research service: all research as it happens, the CSI 100 + quarterly outlook, dashboard tools (Compare Companies, Reverse DCF, supply-chain mapping), weekly live Q&A, portfolio moves before execution, and the private Discord. Join: Free demo: All our links & socials: Content in this video is for general information or entertainment only and is not specific or individual investment advice. Forecasts and information presented may not develop as predicted and there is no guarantee any strategies presented will be successful. All investing involves risk, and you could lose some or all of your ",
    "url": "https://www.youtube.com/shorts/TrME8cFPGnc",
    "published": "2026-11-12T09:55:47+00:00",
    "tickers": [
@@ -3831,7 +4118,7 @@
    "source": "Meet Kevin",
    "author": "Meet Kevin",
    "title": "Jensen Cheats AGAIN | Getting FIRED *Caught on Camera*",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at https://ReinvestOne.com LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! https://meetkevin.com/predict - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: https://meetkevin.com/digest 📰 Nvidia (NVDA) news, 11-11-2026: The New York Times reports a second Jensen Huang affair, naming Kimberly Powell, Nvidia's VP of health care. Nvidia, Huang and Powell have not confirmed it. Minutes l",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: 📰 Nvidia (NVDA) news, 11-11-2026: The New York Times reports a second Jensen Huang affair, naming Kimberly Powell, Nvidia's VP of health care. Nvidia, Huang and Powell have not confirmed it. Minutes later, The Wall Street Journal reported the board is preparing to oust Huang. No decision has been announced. NVDA fell about 8% after hours. Kevin covers the board math (6 of 11 votes), Huang's 3.58% stake and the 11-17 earnings call. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course &",
    "url": "https://www.youtube.com/shorts/cph7oyjypuw",
    "published": "2026-11-12T01:24:58+00:00",
    "tickers": [
@@ -3846,7 +4133,7 @@
    "source": "Meet Kevin",
    "author": "Meet Kevin",
    "title": "*Caught on Camera* JENSEN is getting FIRED | 2nd Affair REVEALED",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at https://ReinvestOne.com LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! https://meetkevin.com/predict - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: https://meetkevin.com/digest 📰 Nvidia (NVDA) news, 11-11-2026: The New York Times reports a second Jensen Huang affair, naming Kimberly Powell, Nvidia's VP of health care. Nvidia, Huang and Powell have not confirmed it. Minutes l",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: 📰 Nvidia (NVDA) news, 11-11-2026: The New York Times reports a second Jensen Huang affair, naming Kimberly Powell, Nvidia's VP of health care. Nvidia, Huang and Powell have not confirmed it. Minutes later, The Wall Street Journal reported the board is preparing to oust Huang. No decision has been announced. NVDA fell about 8% after hours. Kevin covers the board math (6 of 11 votes), Huang's 3.58% stake and the 11-17 earnings call. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course &",
    "url": "https://www.youtube.com/watch?v=2I9KLQSHn_s",
    "published": "2026-11-12T00:34:57+00:00",
    "tickers": [
@@ -3861,7 +4148,7 @@
    "source": "The Compound",
    "author": "The Compound",
    "title": "The Nvidia Story Nobody Can Believe",
-   "excerpt": "On episode 490, ⁠⁠⁠⁠⁠Michael Batnick⁠⁠⁠⁠⁠⁠⁠ and ⁠⁠⁠⁠⁠⁠⁠Ben Carlson⁠⁠⁠⁠⁠⁠⁠ discuss: how price sets the narrative, the blue tsunami, data center backlash, Thursday’s stock market wipeout, why everyone is always wrong about the markets, recency bias in politics, the market’s response to the mid-terms, Jensen Huang’s affair with a Chinese spy, Elon Musk on the pitchforks, hedge funds are blowing up, Ben’s trip to Italy and much more. 👕 Check out The Compound shop: https://www.idontshop.com 🎙️Listen ",
+   "excerpt": "On episode 490, Michael Batnick and Ben Carlson discuss: how price sets the narrative, the blue tsunami, data center backlash, Thursday’s stock market wipeout, why everyone is always wrong about the markets, recency bias in politics, the market’s response to the mid-terms, Jensen Huang’s affair with a Chinese spy, Elon Musk on the pitchforks, hedge funds are blowing up, Ben’s trip to Italy and much more. 👕 Check out The Compound shop: 🎙️Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: The Compound Newsletter: Linkedin: Instagram: Twitter: Tik Tok: Investing involves the risk of loss. This podcast is for informational purposes only and should not be or regarded as personalized investment advice or relied upon for investment decisions. Josh Brown and Michael Batnick are employ",
    "url": "https://www.youtube.com/shorts/F7AWPJoguno",
    "published": "2026-11-11T22:57:16+00:00",
    "tickers": [
@@ -3886,12 +4173,42 @@
    "tone": null
   },
   {
+   "id": "a2a0bc0eb7789da4",
+   "kind": "youtube",
+   "source": "Meet Kevin",
+   "author": "Meet Kevin",
+   "title": "The Fed JUST Released their Great Reset Economic Playbook.",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: The Fed JUST Released their Great Reset Economic Playbook. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course & membership support: staff@meetreinvest.com 🥰 Socials 🥰 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ X: ➡️ TikTok: ➡️ Instagram: 😇 Affiliate Links (Paid) 😇 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 📜 Some links are affiliate links and/or sponsors. I may earn a commission at no extra cost to you. ➡️ Kalshi (Prediction Markets): ➡️ Webull Stocks: My favorite stock app for charting and trades! ➡️ Tesla: ➡️",
+   "url": "https://www.youtube.com/watch?v=v-B79qJ6df0",
+   "published": "2026-11-11T16:37:35+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "ff78053364dfb234",
+   "kind": "youtube",
+   "source": "Meet Kevin",
+   "author": "Meet Kevin",
+   "title": "The Stock Market Recovery or Dead Cat Bounce?",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: The Stock Market Recovery or Dead Cat Bounce? 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course & membership support: staff@meetreinvest.com 🥰 Socials 🥰 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ X: ➡️ TikTok: ➡️ Instagram: 😇 Affiliate Links (Paid) 😇 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 📜 Some links are affiliate links and/or sponsors. I may earn a commission at no extra cost to you. ➡️ Kalshi (Prediction Markets): ➡️ Webull Stocks: My favorite stock app for charting and trades! ➡️ Tesla: ➡️ Life Insuran",
+   "url": "https://www.youtube.com/watch?v=zYBATY2PPPE",
+   "published": "2026-11-11T16:20:48+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "9d840b61f9e09320",
    "kind": "youtube",
    "source": "The Compound",
    "author": "The Compound",
    "title": "Nvidia Is Down 30%. Could It Get Worse?",
-   "excerpt": "Join ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Michael Batnick⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and Chart Kid Matt for another episode of What Are Your Thoughts and see what they have to say about: last week’s brutal market selloff, why tech and semiconductor stocks took the biggest hit, and whether the Magnificent 7 are losing their grip on the market. They discuss the broadening of earnings beyond Big Tech, whether value stocks are making a comeback, and how long it could take the Nasdaq 100 to catch up to the S&P 5",
+   "excerpt": "Join Michael Batnick and Chart Kid Matt for another episode of What Are Your Thoughts and see what they have to say about: last week’s brutal market selloff, why tech and semiconductor stocks took the biggest hit, and whether the Magnificent 7 are losing their grip on the market. They discuss the broadening of earnings beyond Big Tech, whether value stocks are making a comeback, and how long it could take the Nasdaq 100 to catch up to the S&P 500. Plus, the latest CPI report and its impact on Fed rate expectations, why short sellers deserve some credit, Matt makes the bull case for MSCI as an AI winner, and a mystery chart! COMPOUND MERCH: instagram: Twitter: TikTok: Linkedin: Sign up for The Compound newsletter: Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: Talking Wealt",
    "url": "https://www.youtube.com/shorts/su8bKZ7bzcY",
    "published": "2026-11-11T14:22:21+00:00",
    "tickers": [
@@ -3906,11 +4223,12 @@
    "source": "Meet Kevin",
    "author": "Meet Kevin",
    "title": "Lawsuit Filed: Nvidia Stock & Corruption Allegations.",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at https://ReinvestOne.com LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! https://meetkevin.com/predict - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: https://meetkevin.com/digest 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: https://meetkevin.com/update ➡️ Reinvest App: https://meetkevin.com/app ➡️ Software, investment, cours",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course & membership support: staff@meetreinvest.com 🥰 Socials 🥰 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ X: ➡️ TikTok: ➡️ Instagram: 😇 Affiliate Links (Paid) 😇 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 📜 Some links are affiliate links and/or sponsors. I may earn a commission at no extra cost to you. ➡️ Kalshi (Prediction Markets): ➡️ Webull Stocks: My favorite stock app for charting and trades! ➡️ Tesla: ➡️ Life Insurance: Get covered in as little as 5 minutes! ➡️ ",
    "url": "https://www.youtube.com/watch?v=WDosULDZRDI",
    "published": "2026-11-10T17:00:21+00:00",
    "tickers": [
-    "NVDA"
+    "NVDA",
+    "TSLA"
    ],
    "summary_ko": null,
    "tone": null
@@ -3921,7 +4239,7 @@
    "source": "Amit Kukreja",
    "author": "Amit Kukreja",
    "title": "CPI DATA, ANTHROPIC TARGETS A $1T VALUATION, NVIDIA INVESTIGATION CONTINUES | MARKET OPEN",
-   "excerpt": "twitter: https://x.com/amitisinvesting deepdives: https://amitsdeepdives.substack.com/ free news terminal - https://caktusjxck.com/",
+   "excerpt": "twitter: deepdives: free news terminal -",
    "url": "https://www.youtube.com/watch?v=vl5BxTkvId8",
    "published": "2026-11-10T16:45:36+00:00",
    "tickers": [
@@ -3936,11 +4254,43 @@
    "source": "Chip Stock Investor",
    "author": "Chip Stock Investor",
    "title": "AI Trade Crash & Nvidia Scandal: What Comes Next?",
-   "excerpt": "Nvidia stock: Is the Jensen Huang scandal a threat to the investment thesis, or is the real risk regulatory? In this video: what’s on Nvidia’s calendar next week (Q3 earnings on Nov 17 and a closed-door congressional briefing on Nov 18), what the board’s independent investigation says about governance, and which companies could feel the ripple effects. The AI trade selloff got messier over the weekend. House committee chairs asked Jensen Huang to appear at a closed-door briefing about his relati",
+   "excerpt": "Nvidia stock: Is the Jensen Huang scandal a threat to the investment thesis, or is the real risk regulatory? In this video: what’s on Nvidia’s calendar next week (Q3 earnings on Nov 17 and a closed-door congressional briefing on Nov 18), what the board’s independent investigation says about governance, and which companies could feel the ripple effects. The AI trade selloff got messier over the weekend. House committee chairs asked Jensen Huang to appear at a closed-door briefing about his relationship with Alice Huang and Megaspeed, after reports alleging she has ties to Chinese intelligence. Nvidia’s board then launched an independent investigation overseen by outside counsel. We think it’s too early to call a hit to Nvidia’s financials or market share, since data center demand isn’t goin",
    "url": "https://www.youtube.com/watch?v=wECfxtBCg2w",
    "published": "2026-11-10T15:00:00+00:00",
    "tickers": [
     "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "245bae8d3a311ded",
+   "kind": "youtube",
+   "source": "Meet Kevin",
+   "author": "Meet Kevin",
+   "title": "Critical CPI Inflation Report & Fed Rate Impact",
+   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: Critical CPI Inflation Report & Fed Rate Impact 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course & membership support: staff@meetreinvest.com 🥰 Socials 🥰 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ X: ➡️ TikTok: ➡️ Instagram: 😇 Affiliate Links (Paid) 😇 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 📜 Some links are affiliate links and/or sponsors. I may earn a commission at no extra cost to you. ➡️ Kalshi (Prediction Markets): ➡️ Webull Stocks: My favorite stock app for charting and trades! ➡️ Tesla: ➡️ Life Insur",
+   "url": "https://www.youtube.com/watch?v=EVUoGmiVlMc",
+   "published": "2026-11-10T13:48:02+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "e8da906b9074b06b",
+   "kind": "youtube",
+   "source": "Financial Education",
+   "author": "Financial Education",
+   "title": "The #1 Stock to Buy Right Now‼️",
+   "excerpt": "✅ Want in? Join My Private Stock & Wealth Group & Get Access to 1000xStocks. Apply here → ❤️ Support the Channel & See Weekly Buys on Patreon 🔑 Grab Your Free Workshops. Pick the topic most relevant to your investing journey and dive in → __________________ SOCIALS: IG: X: FB: My Jeremy Lefebvre website 1000XStocks Instagram link 1000XStocks X link This is a Jeremy Lefebvre Production | Financial Education with Jeremy Lefebvre | Stock Market Investing | Stocks to Watch | Nasdaq | Tech Stocks | Tesla | Palantir | Nvidia | Jeremy Lefebvre Portfolio | Jeremy Lefebvre Private Stock Group Financial Education, Created by Jeremy Lefebvre",
+   "url": "https://www.youtube.com/watch?v=Q-WF5RdHpgw",
+   "published": "2026-11-10T00:38:18+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA",
+    "PLTR"
    ],
    "summary_ko": null,
    "tone": null
@@ -3951,7 +4301,7 @@
    "source": "Amit Kukreja",
    "author": "Amit Kukreja",
    "title": "JENSEN HAS AN AFFAIR WITH A CHINESE SPY, WHERE DOES NVIDIA GO FROM HERE | MARKET OPEN",
-   "excerpt": "twitter: https://x.com/amitisinvesting deepdives: https://amitsdeepdives.substack.com/ free news terminal - https://caktusjxck.com/",
+   "excerpt": "twitter: deepdives: free news terminal -",
    "url": "https://www.youtube.com/watch?v=8KxPfLKl-Xw",
    "published": "2026-11-09T17:17:50+00:00",
    "tickers": [
@@ -3966,7 +4316,7 @@
    "source": "Chip Stock Investor",
    "author": "Chip Stock Investor",
    "title": "Why is Micron so cheap despite massive profit potential? #Micron #investing",
-   "excerpt": "— LINKS & RESOURCES — Join Semi Insider — $120/year Semi Insider is Chip Stock Investor's paid research service: all research as it happens, the CSI 100 + quarterly outlook, dashboard tools (Compare Companies, Reverse DCF, supply-chain mapping), weekly live Q&A, portfolio moves before execution, and the private Discord. Join: https://chipstockinvestor.com/features-and-pricing Free demo: https://demo.chipstockinvestor.com/ Sponsor — Fiscal.ai This video is sponsored by Fiscal.ai, the financial da",
+   "excerpt": "— LINKS & RESOURCES — Join Semi Insider — $120/year Semi Insider is Chip Stock Investor's paid research service: all research as it happens, the CSI 100 + quarterly outlook, dashboard tools (Compare Companies, Reverse DCF, supply-chain mapping), weekly live Q&A, portfolio moves before execution, and the private Discord. Join: Free demo: Sponsor — Fiscal.ai This video is sponsored by Fiscal.ai, the financial data platform we use at Chip Stock Investor. Get 15% off any paid plan: Disclosure: That is an affiliate link — if you sign up, we may earn a commission at no extra cost to you. It helps support the channel. All our links & socials: Content in this video is for general information or entertainment only and is not specific or individual investment advice. Forecasts and information presen",
    "url": "https://www.youtube.com/shorts/9T7RMuqOZB4",
    "published": "2026-11-09T08:27:44+00:00",
    "tickers": [
