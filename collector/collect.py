@@ -46,8 +46,10 @@ def fetch_reddit(url, fetcher=fetch, wait=time.sleep):
         return fetcher(url)
 
 
-def clean(text, limit=500):
+def clean(text, limit=800):
     text = html.unescape(re.sub(r"<[^>]+>", " ", html.unescape(text or "")))
+    text = re.sub(r"https?://\S+", " ", text)  # 광고·제휴 링크 제거
+    text = re.sub(r"[\u200b-\u200f\u2060-\u2064\ufeff]", "", text)  # 보이지 않는 문자 제거
     return re.sub(r"\s+", " ", text).strip()[:limit]
 
 
@@ -131,7 +133,11 @@ def compute_trends(posts, tickers, now):
 def merge(old, new, now):
     by_id = {p["id"]: p for p in old}
     for p in new:
-        by_id.setdefault(p["id"], p)  # 이미 있는 글(요약 포함)은 그대로 둡니다
+        cur = by_id.get(p["id"])
+        if cur is None or not cur.get("summary_ko"):  # 요약된 글은 그대로 두고, 나머지는 최신 내용으로 교체
+            if cur and cur.get("summary_tries"):
+                p["summary_tries"] = cur["summary_tries"]
+            by_id[p["id"]] = p
     cutoff = now - timedelta(days=KEEP_DAYS)
     kept = [p for p in by_id.values() if datetime.fromisoformat(p["published"]) >= cutoff]
     kept.sort(key=lambda p: p["published"], reverse=True)

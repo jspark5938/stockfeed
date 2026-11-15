@@ -60,6 +60,7 @@ class T(unittest.TestCase):
         merged = c.merge(old, new, now)
         self.assertEqual([m["id"] for m in merged], ["1", "2", "3", "5", "4", "6", "7"])
         self.assertEqual(merged[0]["summary_ko"], "요약")
+        self.assertEqual(c.clean("Buy\u2060 now https://bit.ly/x code: A <b>NVDA</b>"), "Buy now code: A NVDA")
         tr = c.compute_trends(merged, TICKERS, now)
         self.assertEqual([(r["ticker"], r["mentions_24h"], r["ratio"]) for r in tr], [("NVDA", 3, 3.0), ("TSLA", 2, 1.0)])
 
