@@ -54,15 +54,22 @@ def parse_youtube_api(raw, source):
     return posts
 
 
-def fetch_youtube(cid, name, fetcher, yt_key):
+def fetch_youtube(cid, name, fetcher, yt_key, stats=None, log=print):
     """공식 API 키가 있으면 API를 쓰고, 실패하거나 키가 없으면 RSS를 씁니다. (RSS는 가끔 전체가 404로 멈춥니다)"""
     if yt_key:
         try:
             url = ("https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=15"
                    "&playlistId=UU" + cid[2:] + "&key=" + yt_key)
-            return parse_youtube_api(fetcher(url), name)
-        except Exception:
-            pass  # 아래 RSS로 다시 시도
+            items = parse_youtube_api(fetcher(url), name)
+            if stats is not None:
+                stats["api"] = stats.get("api", 0) + 1
+            return items
+        except Exception as e:  # 아래 RSS로 다시 시도 (키가 노출되지 않도록 오류 종류만 기록)
+            if stats is not None and not stats.get("api_error"):
+                stats["api_error"] = True
+                log(f"[YouTube API 실패] {type(e).__name__}: {getattr(e, 'code', '')} {getattr(e, 'reason', '')}".strip())
+    if stats is not None:
+        stats["rss"] = stats.get("rss", 0) + 1
     return parse_feed(fetcher("https://www.youtube.com/feeds/videos.xml?channel_id=" + cid), "youtube", name)
 
 
@@ -195,14 +202,14 @@ def collect(sources, tickers, fetcher=fetch, log=print, channels=None, wait=time
     if news:
         for sym in tickers:
             jobs.append(("news", news["name"], news["url_template"].format(ticker=sym)))
-    posts, ok = [], 0
+    posts, ok, yt = [], 0, {}
     for kind, name, target in jobs:
         try:
             if kind == "youtube":
                 cid = target.get("channel_id") or channels.get(target["handle"])
                 if not cid:
                     cid = channels[target["handle"]] = resolve_channel_id(target["handle"], fetcher)
-                items = fetch_youtube(cid, name, fetcher, yt_key)
+                items = fetch_youtube(cid, name, fetcher, yt_key, yt, log)
             elif kind == "reddit":
                 items = parse_feed(fetch_reddit(target, fetcher, wait), kind, name)
             else:
@@ -217,6 +224,8 @@ def collect(sources, tickers, fetcher=fetch, log=print, channels=None, wait=time
             p["tickers"] = tag_tickers(p["title"] + " " + p["excerpt"], tickers)
             if p["tickers"]:  # 제목·본문에 종목이 실제로 언급된 글만 남깁니다
                 posts.append(p)
+    if yt:
+        log(f"YouTube 수집 경로: 공식 API {yt.get('api', 0)}곳, RSS 시도 {yt.get('rss', 0)}곳")
     return posts, ok, len(jobs)
 
 
