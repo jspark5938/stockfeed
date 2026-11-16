@@ -3,7 +3,7 @@
 API 키(GEMINI_API_KEY)가 없으면 아무것도 하지 않고 넘어갑니다.
 모델은 collector/ai.json 에서 바꿉니다.
 """
-import json, urllib.request
+import json, time, urllib.request
 
 TONES = ("pos", "neu", "neg")
 PRIORITY = {"youtube": 0, "reddit": 1, "news": 2}
@@ -56,7 +56,7 @@ def parse_result(text, wanted_ids):
     return out
 
 
-def summarize_posts(posts, cfg, key, caller=None, log=print):
+def summarize_posts(posts, cfg, key, caller=None, log=print, wait=time.sleep):
     """요약이 없는 글을 YouTube → Reddit → 뉴스, 최신순으로 정해진 개수만큼 처리합니다."""
     if not key:
         log("AI 키가 없어 요약을 건너뜁니다.")
@@ -69,6 +69,8 @@ def summarize_posts(posts, cfg, key, caller=None, log=print):
     done = 0
     for i in range(0, len(todo), cfg["batch_size"]):
         batch = todo[i:i + cfg["batch_size"]]
+        if i and cfg.get("pause_seconds"):
+            wait(cfg["pause_seconds"])  # 무료 등급의 분당 요청 한도를 넘지 않도록 쉬어 갑니다
         payload = [{"id": p["id"], "title": p["title"], "excerpt": p["excerpt"], "tickers": p["tickers"]} for p in batch]
         try:
             result = parse_result(caller(PROMPT + json.dumps(payload, ensure_ascii=False), cfg["model"], key),
