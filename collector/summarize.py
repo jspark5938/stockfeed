@@ -72,9 +72,17 @@ def summarize_posts(posts, cfg, key, caller=None, log=print, wait=time.sleep):
         if i and cfg.get("pause_seconds"):
             wait(cfg["pause_seconds"])  # 무료 등급의 분당 요청 한도를 넘지 않도록 쉬어 갑니다
         payload = [{"id": p["id"], "title": p["title"], "excerpt": p["excerpt"], "tickers": p["tickers"]} for p in batch]
+        prompt = PROMPT + json.dumps(payload, ensure_ascii=False)
         try:
-            result = parse_result(caller(PROMPT + json.dumps(payload, ensure_ascii=False), cfg["model"], key),
-                                  {p["id"] for p in batch})
+            try:
+                text = caller(prompt, cfg["model"], key)
+            except Exception as e:
+                if getattr(e, "code", None) not in (429, 500, 503):
+                    raise
+                log(f"[요약 재시도] {getattr(e, 'code', '')}: 30초 뒤 다시 시도합니다")
+                wait(30)  # 무료 등급은 일시적 과부하(503)가 잦아 한 번 더 시도합니다
+                text = caller(prompt, cfg["model"], key)
+            result = parse_result(text, {p["id"] for p in batch})
         except Exception as e:
             log(f"[요약 실패] {type(e).__name__}: {e}")
             result = {}

@@ -34,12 +34,22 @@ class T(unittest.TestCase):
         self.assertEqual((by["3"]["summary_ko"], by["3"]["summary_tries"]), (None, 1))  # 잘못된 tone 은 거부
         self.assertIsNone(by["1"]["summary_ko"])
 
+    def test_retry_once_on_overload(self):
+        import urllib.error
+        posts = [post(1, "youtube", 1)]; calls, waits = [], []
+        def flaky(prompt, model, key):
+            calls.append(1)
+            if len(calls) == 1: raise urllib.error.HTTPError("u", 503, "Service Unavailable", None, None)
+            return json.dumps([{"id": "1", "summary": ["요약"], "tone": "neu"}])
+        self.assertEqual(s.summarize_posts(posts, CFG, "k", caller=flaky, log=lambda m: None, wait=waits.append), 1)
+        self.assertEqual((len(calls), waits), (2, [30]))
+
     def test_error_stops_run_and_bad_json(self):
         posts = [post(i, "youtube", i) for i in range(1, 5)]
         calls = []
         def boom(*a):
             calls.append(1); raise OSError("429")
-        self.assertEqual(s.summarize_posts(posts, CFG, "k", caller=boom, log=lambda m: None), 0)
+        self.assertEqual(s.summarize_posts(posts, CFG, "k", caller=boom, log=lambda m: None, wait=lambda n: None), 0)
         self.assertEqual(len(calls), 1)
         self.assertEqual(s.parse_result("not json", {"1"}), {})
         self.assertEqual(s.parse_result('{"id":"1"}', {"1"}), {})
