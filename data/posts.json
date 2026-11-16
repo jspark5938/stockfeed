@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-16T01:32:49.488139+00:00",
+ "updated": "2026-11-16T01:35:54.831585+00:00",
  "posts": [
+  {
+   "id": "bc71cc968f781db6",
+   "kind": "reddit",
+   "source": "r/wallstreetbets",
+   "author": "/u/Tim_Apple_938",
+   "title": "GOOG Gemini model launches turn the entire narrative upside down and seems not priced in?",
+   "excerpt": "Google’s new stellar model releases are narrative shattering (regarding ANT OAI vs Chinese OpenWeight) I feel like everyone is taking crazy pills? There’s all this talk about “the labs” (ANT OAI) model economics - business model of having a model 6 months ahead of open weight models from China. And then all these games w Jensen to control it. But Google is now competing at the frontier (aka there’s THREE not two, and Google can lose money for decade and be totally fine) *as well as* dominating the cheap+fast good enough tier, being more cost effective than Kimi etc Is the entire market just delusional or am I the one on crazy pills? Surely someone has to notice at some point submitted by /u/Tim_Apple_938 to r/wallstreetbets [link] [comments]",
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxcqwg/goog_gemini_model_launches_turn_the_entire/",
+   "published": "2026-11-16T01:35:02+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "구글의 새로운 제미나이 모델 출시가 기존 판도를 흔들고 있다고 주장했다.",
+    "구글이 첨단 분야 경쟁과 저렴하고 빠른 티어에서 우위를 점하고 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "4b00c90e6dfe2bb9",
+   "kind": "reddit",
+   "source": "r/stocks",
+   "author": "/u/Tim_Apple_938",
+   "title": "Google’s new stellar model releases are narrative shattering (regarding ANT OAI vs Chinese OpenWeight)",
+   "excerpt": "I feel like everyone is taking crazy pills? There’s all this talk about “the labs” (ANT OAI) model economics - business model of having a model 6 months ahead of open weight models from China. And then all these games w Jensen to control it. But Google is now competing at the frontier (aka there’s THREE not two, and Google can lose money for decade and be totally fine) as well as dominating the cheap+fast good enough tier, being more cost effective than Kimi etc Is the entire market just delusional or am I the one on crazy pills? Surely someone has to notice at some point submitted by /u/Tim_Apple_938 to r/stocks [link] [comments]",
+   "url": "https://www.reddit.com/r/stocks/comments/1xxcp7f/googles_new_stellar_model_releases_are_narrative/",
+   "published": "2026-11-16T01:32:50+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "구글의 새로운 모델 출주가 AI 시장의 기존 내러티브를 뒤집고 있다고 다뤘다.",
+    "구글이 첨단 AI 경쟁에 참여하며 비용 효율성에서도 우위에 있다고 주장했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "281598d7c8147701",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Micron Stock Is a Screaming Buy Before Year-End",
+   "excerpt": "Micron recently announced an expansion to its share buyback program.",
+   "url": "https://www.fool.com/investing/2026/11/15/why-micron-stock-is-a-screaming-buy-before-year-end/?.tsrc=rss",
+   "published": "2026-11-16T01:20:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론이 최근 자사주 매입 프로그램 확대 계획을 발표했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "801127b5b4fd22eb",
    "kind": "reddit",
@@ -1118,8 +1171,10 @@
    "tickers": [
     "AAPL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "채권왕 제프리 건들락이 주식 매수에 관심이 없다는 입장을 밝혔다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "c83442e6f8230c0c",
@@ -1133,8 +1188,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 리더십 변화 이후 AI 인프라 분야의 대형 기술주들에 대한 관심을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "405347207548ded5",
@@ -1149,8 +1206,10 @@
     "NVDA",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일각에서 AMD가 2027년에 엔비디아의 가장 큰 위협이 될 수 있다고 전망했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e1f6a51457cd740b",
@@ -1164,8 +1223,10 @@
    "tickers": [
     "LLY"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일라이 릴리의 체중 감량 복합제가 비만 및 제2형 당뇨병 성인에게 효과를 보였다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "955c7d7eb50e8e03",
@@ -1179,8 +1240,10 @@
    "tickers": [
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "DRAM 메모리 품귀 현상과 이로 인해 마이크론이 수혜를 볼 수 있다는 주장을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b192c4ea641767c8",
@@ -1211,8 +1274,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일론 머스크가 젠슨 황 부재 시 엔비디아가 중요 계약을 잃을 수 있다고 경고했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "63800b44fd38f222",
@@ -1278,8 +1343,10 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리비안의 실적 발표 후 랠리가 둔화되는 가운데 다가오는 이벤트의 영향을 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "47b22915db44ecb8",
@@ -1293,8 +1360,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일부 억만장자가 젠슨 황의 거취와 관련해 엔비디아 매수를 중단했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "d06ca2e649edde8e",
@@ -1309,8 +1378,10 @@
     "NFLX",
     "DIS"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "넷플릭스, HBO, 디즈니 등 스트리밍 업체들의 지속적인 가격 인상을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "dfbdb863a2798dda",
@@ -1343,8 +1414,10 @@
    "tickers": [
     "BABA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "알리바바의 티헤드 스핀오프 및 홍콩 상장과 관련된 투자 정보를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1ebef375448c0216",
@@ -1358,8 +1431,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "2019년 이혼 당시 맥켄지 스콧이 제프 베조스에게 아마존 주식 등을 양도한 내용을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ef9e743976f0dc16",
@@ -1373,8 +1448,10 @@
    "tickers": [
     "RKLB"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "로켓랩이 100회 발사를 달성했으며 중성자 로켓 데뷔가 2027년을 좌우할 수 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "d3e6ccc7e78846a3",
@@ -1406,7 +1483,8 @@
     "ORCL"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "53e81648aef5b868",
@@ -1421,7 +1499,8 @@
     "JOBY"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "991f740eddb7253f",
@@ -1437,7 +1516,8 @@
     "AMZN"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "5a06a0fe7e7ca599",
@@ -1581,7 +1661,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "7b56d57aee383930",
@@ -1649,7 +1730,8 @@
     "NKE"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "31e1588e9694a3a6",
@@ -1700,7 +1782,8 @@
     "AVGO"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "93796ea29d8fa1c2",
@@ -1733,7 +1816,8 @@
     "TSLA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "2a0a8b170ac46e5a",
@@ -1783,7 +1867,8 @@
     "MSFT"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "fdf079a2f979cd3a",
@@ -1798,7 +1883,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "1c5907ee03cbc4c0",
@@ -1813,7 +1899,8 @@
     "AVGO"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "16d80c462d1832ff",
@@ -1828,7 +1915,8 @@
     "WMT"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "d3651b439dd371fb",
@@ -1843,7 +1931,8 @@
     "AMD"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "91be3a00ad9bd634",
@@ -1858,7 +1947,8 @@
     "TSLA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "6987c9bdb96fc223",
@@ -1873,7 +1963,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "7e082e1f0a3d3cf7",
@@ -1888,7 +1979,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "0767e99f4156da08",

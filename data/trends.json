@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:32:49.488139+00:00",
+ "updated": "2026-11-16T01:35:54.831585+00:00",
  "trends": [
   {
    "ticker": "DIS",
@@ -130,15 +130,22 @@
   {
    "ticker": "GOOGL",
    "name_ko": "알파벳(구글)",
-   "mentions_24h": 6,
+   "mentions_24h": 8,
    "mentions_prev_24h": 7,
-   "ratio": 0.86
+   "ratio": 1.14
   },
   {
    "ticker": "AMZN",
    "name_ko": "아마존",
    "mentions_24h": 9,
    "mentions_prev_24h": 12,
+   "ratio": 0.75
+  },
+  {
+   "ticker": "MU",
+   "name_ko": "마이크론",
+   "mentions_24h": 6,
+   "mentions_prev_24h": 8,
    "ratio": 0.75
   },
   {
@@ -161,13 +168,6 @@
    "mentions_24h": 9,
    "mentions_prev_24h": 14,
    "ratio": 0.64
-  },
-  {
-   "ticker": "MU",
-   "name_ko": "마이크론",
-   "mentions_24h": 5,
-   "mentions_prev_24h": 8,
-   "ratio": 0.62
   },
   {
    "ticker": "COST",
