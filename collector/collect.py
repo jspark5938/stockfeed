@@ -34,6 +34,38 @@ def resolve_channel_id(handle, fetcher=fetch):
     raise ValueError("채널 ID를 찾지 못했습니다")
 
 
+def parse_youtube_api(raw, source):
+    """YouTube 공식 API(playlistItems) 응답을 RSS와 같은 공통 형식으로 바꿉니다."""
+    posts = []
+    for it in json.loads(raw).get("items", []):
+        sn = it.get("snippet", {})
+        vid = sn.get("resourceId", {}).get("videoId")
+        when = parse_date(it.get("contentDetails", {}).get("videoPublishedAt") or sn.get("publishedAt"))
+        title = clean(sn.get("title"), 300)
+        if not (vid and title and when):
+            continue
+        link = "https://www.youtube.com/watch?v=" + vid  # RSS와 같은 주소라 같은 글로 인식됩니다
+        posts.append({
+            "id": hashlib.sha1(link.encode()).hexdigest()[:16], "kind": "youtube", "source": source,
+            "author": clean(sn.get("videoOwnerChannelTitle") or sn.get("channelTitle"), 80) or source,
+            "title": title, "excerpt": clean(sn.get("description")), "url": link,
+            "published": when.isoformat(), "tickers": [], "summary_ko": None, "tone": None,
+        })
+    return posts
+
+
+def fetch_youtube(cid, name, fetcher, yt_key):
+    """공식 API 키가 있으면 API를 쓰고, 실패하거나 키가 없으면 RSS를 씁니다. (RSS는 가끔 전체가 404로 멈춥니다)"""
+    if yt_key:
+        try:
+            url = ("https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=15"
+                   "&playlistId=UU" + cid[2:] + "&key=" + yt_key)
+            return parse_youtube_api(fetcher(url), name)
+        except Exception:
+            pass  # 아래 RSS로 다시 시도
+    return parse_feed(fetcher("https://www.youtube.com/feeds/videos.xml?channel_id=" + cid), "youtube", name)
+
+
 def fetch_reddit(url, fetcher=fetch, wait=time.sleep):
     """Reddit은 요청이 잦으면 429로 거부하므로 간격을 두고, 거부되면 한 번 더 시도합니다."""
     wait(3)
@@ -152,7 +184,7 @@ def merge(old, new, now):
     return kept
 
 
-def collect(sources, tickers, fetcher=fetch, log=print, channels=None, wait=time.sleep):
+def collect(sources, tickers, fetcher=fetch, log=print, channels=None, wait=time.sleep, yt_key=None):
     channels = {} if channels is None else channels  # 핸들 → 채널 ID 기억
     jobs = []
     for ch in sources.get("youtube", []):
@@ -170,12 +202,11 @@ def collect(sources, tickers, fetcher=fetch, log=print, channels=None, wait=time
                 cid = target.get("channel_id") or channels.get(target["handle"])
                 if not cid:
                     cid = channels[target["handle"]] = resolve_channel_id(target["handle"], fetcher)
-                raw = fetcher("https://www.youtube.com/feeds/videos.xml?channel_id=" + cid)
+                items = fetch_youtube(cid, name, fetcher, yt_key)
             elif kind == "reddit":
-                raw = fetch_reddit(target, fetcher, wait)
+                items = parse_feed(fetch_reddit(target, fetcher, wait), kind, name)
             else:
-                raw = fetcher(target)
-            items = parse_feed(raw, kind, name)
+                items = parse_feed(fetcher(target), kind, name)
             if kind == "youtube" and items and items[0]["author"].lower() != name.lower():
                 log(f"[확인] {name} ({target.get('handle')}) → 실제 채널명: {items[0]['author']}")
         except Exception as e:  # 한 소스가 실패해도 나머지는 계속 수집
@@ -195,7 +226,7 @@ def main():
     now = datetime.now(timezone.utc)
     ch_file = ROOT / "data/channels.json"
     channels = json.loads(ch_file.read_text(encoding="utf-8")) if ch_file.exists() else {}
-    new, ok, total = collect(sources, tickers, channels=channels)
+    new, ok, total = collect(sources, tickers, channels=channels, yt_key=os.environ.get("YOUTUBE_API_KEY"))
     out = ROOT / "data/posts.json"
     old = json.loads(out.read_text(encoding="utf-8"))["posts"] if out.exists() else []
     for p in old:  # 예전 글도 현재 기준으로 다시 분류

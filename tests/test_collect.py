@@ -55,6 +55,26 @@ class T(unittest.TestCase):
         # 종목 언급 없는 영상·뉴스("Chip stocks rally")는 제외
         self.assertEqual(sorted((p["kind"], tuple(p["tickers"])) for p in posts), [("reddit", ("TSLA",)), ("youtube", ("NVDA", "AMD"))])
 
+    def test_youtube_api_with_rss_fallback(self):
+        api = json.dumps({"items": [
+            {"snippet": {"title": "Nvidia &amp; AMD outlook", "description": "Full text https://x.co/a here", "channelTitle": "Ch",
+                         "publishedAt": "2026-11-16T01:00:00Z", "resourceId": {"videoId": "abc123"}},
+             "contentDetails": {"videoPublishedAt": "2026-11-15T10:00:00Z"}},
+            {"snippet": {"title": "Private video"}}]}).encode()
+        got = c.parse_youtube_api(api, "ch")
+        rss = c.parse_feed((FX / "youtube.xml").read_bytes(), "youtube", "ch")
+        self.assertEqual(len(got), 1)
+        self.assertEqual((got[0]["id"], got[0]["published"]), (rss[0]["id"], "2026-11-15T10:00:00+00:00"))  # RSS와 같은 글로 인식
+        self.assertEqual((got[0]["title"], got[0]["excerpt"]), ("Nvidia & AMD outlook", "Full text here"))
+        calls = []
+        def fake(url):
+            calls.append(url)
+            if "googleapis" in url: raise OSError("quota")
+            return (FX / "youtube.xml").read_bytes()
+        self.assertEqual(len(c.fetch_youtube("UCabcdefghijklmnopqrstuv", "ch", fake, "KEY")), 2)
+        self.assertIn("playlistId=UUabcdefghijklmnopqrstuv&key=KEY", calls[0]); self.assertIn("feeds/videos.xml", calls[1])
+        calls.clear(); c.fetch_youtube("UCabcdefghijklmnopqrstuv", "ch", fake, None); self.assertEqual(len(calls), 1)
+
     def test_merge_and_trends(self):
         now = datetime(2026, 11, 15, 12, tzinfo=timezone.utc)
         def p(i, hours, t): return {"id": str(i), "published": (now - timedelta(hours=hours)).isoformat(), "tickers": t, "summary_ko": None}
