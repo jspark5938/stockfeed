@@ -92,14 +92,22 @@
   var NOTE = "공개된 글을 AI가 요약한 정보이며 투자 권유가 아닙니다.";
 
   // ----- 화면 -----
+  // 검색칸은 한 번만 만들고, 글자를 칠 때는 아래 결과 영역만 바꿉니다.
+  // (입력칸을 새로 만들면 한글 조합이 끊겨 자음·모음이 따로 입력됩니다)
   function home() {
-    var q = S.query.trim().toLowerCase();
-    var out = [
+    var body = h("div", { id: "homebody" }, homeBody());
+    return [
       header("티커톡", h("div", { class: "muted" }, S.updated ? ago(S.updated) + " 갱신" : "")),
       h("label", { for: "q", class: "sr" }, "종목 검색"),
       h("input", { id: "q", class: "search", type: "search", placeholder: "종목명 또는 티커 검색 (예: NVDA, 엔비디아)", value: S.query,
-        on: { input: function (e) { S.query = e.target.value; render(true); } } })
+        autocomplete: "off", on: { input: function (e) { S.query = e.target.value; body.replaceChildren.apply(body, homeBody()); } } }),
+      body
     ];
+  }
+
+  function homeBody() {
+    var q = S.query.trim().toLowerCase();
+    var out = [];
     if (q) {
       var hits = Object.keys(S.tickers).filter(function (s) {
         var t = S.tickers[s];
