@@ -5,11 +5,15 @@
   "description": "미국주식 인플루언서 발언 앱 (웹 + Android)",
   "scripts": {
     "build": "node build.js",
-    "sync": "npm run build && npx cap sync android"
+    "sync": "npm run build && npx cap sync android",
+    "test": "python3 -m unittest discover -s tests && node tests/app_smoke.js"
   },
   "dependencies": {
     "@capacitor/android": "^8.2.0",
     "@capacitor/cli": "^8.2.0",
     "@capacitor/core": "^8.2.0"
+  },
+  "devDependencies": {
+    "jsdom": "^31.0.1"
   }
 }

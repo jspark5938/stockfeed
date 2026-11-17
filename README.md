@@ -6,6 +6,7 @@
 - `collector/sources.json` — 수집할 소스 목록 (YouTube 채널은 여기에 추가)
 - `collector/tickers.json` — 추적 종목과 회사명 별칭
 - `data/posts.json`, `data/trends.json` — 수집 결과 (30분마다 자동 갱신)
-- 테스트: `python3 -m unittest discover -s tests`
+- 테스트: `npm test`
+- 작업 방법과 현재 상태: `CLAUDE.md` 참고
 
 수집 결과는 공개 글의 제목·발췌·원문 링크이며 투자 권유가 아닙니다.
