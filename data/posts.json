@@ -1,6 +1,649 @@
 {
- "updated": "2026-11-17T18:00:40.696652+00:00",
+ "updated": "2026-11-17T18:30:33.153981+00:00",
  "posts": [
+  {
+   "id": "ec82b7ec67fc0d27",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Squawk Pod: DHS Secretary Mullin: We are not under attack 11/17/26 | Audio Only",
+   "excerpt": "After tech disruptions and outages at the FAA, Microsoft, United Airlines, and at major banks like JPMorgan Chase, Department of Homeland Security Secretary Markwayne Mullin has a message of reassurance to the public: the U.S. is not under cyber attack. Former NATO Supreme Allied Forces Commander and retired U.S. Navy Admiral James Stavridis has a different take, suspecting that so many incidents are more than coincidental. Plus, President Trump begins his trip to Asia today, and Wall Street awaits Nvidia’s earnings report this afternoon, the Street’s first opportunity to hear directly from interim CEO Colette Kress. In this episode: Admiral James Stavridis, USN, Ret., @stavridisj Sec. Markwayne Mullin, @SecMullinDHS Becky Quick, @BeckyQuick Joe Kernen, @JoeSquawk Cameron Costa, @CameronCo",
+   "url": "https://www.youtube.com/watch?v=bM0JZboNVAo",
+   "published": "2026-11-17T18:27:33+00:00",
+   "tickers": [
+    "NVDA",
+    "MSFT",
+    "JPM"
+   ],
+   "summary_ko": [
+    "국토안보부 장관은 최근의 기술 장애가 사이버 공격이 아니라고 밝혔다.",
+    "반면 제임스 스타브리디스는 우연으로 보기 어렵다는 의견을 제시했다.",
+    "월가는 엔비디아의 실적 발표를 주시하고 있다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "10943b66cb1ec295",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba Stocks Fall 3.53% as US Closes Offshore AI Chip Access Days Before Earnings",
+   "excerpt": "A new BIS rule requires licenses for data centers selling large blocks of AI computing to China-headquartered firms, ahead of Alibaba's November 19 results.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-stocks-fall-3-53-182617960.html?.tsrc=rss",
+   "published": "2026-11-17T18:26:17+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "미국 상무부의 새로운 AI 칩 규정 여파로 알리바바 주가가 하락했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "d40debbffc99a68a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ASML Stocks Fall 2.72% as New US Rule Tightens the Chip Supply Chain It Serves",
+   "excerpt": "The BIS rule adds licenses for five data center hubs and stricter foundry checks, while China makes up roughly 20% of ASML's 2026 revenue.",
+   "url": "https://finance.yahoo.com/technology/articles/asml-stocks-fall-2-72-182553629.html?.tsrc=rss",
+   "published": "2026-11-17T18:25:53+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "summary_ko": [
+    "미국의 새로운 반도체 공급망 규정 강화로 ASML 주가가 하락했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "cb5260b24069919b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Falls Ahead Of Earnings. Doubts On CEO Return. (Live Coverage)",
+   "excerpt": "Nvidia looks to calm investors with its fiscal third-quarter earnings report out late Tuesday.",
+   "url": "https://finance.yahoo.com/m/ef40b1a2-2bff-390f-b0d5-c281b4d503ef/nvidia-falls-ahead-of.html?.tsrc=rss",
+   "published": "2026-11-17T18:24:22+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아는 3분기 실적 발표를 앞두고 하락세를 보였다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "cbd3b623a9f5043a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike Bets Its Comeback on Performance Sports",
+   "excerpt": "The first sign of progress could be smaller declines.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nike-bets-comeback-performance-sports-182315312.html?.tsrc=rss",
+   "published": "2026-11-17T18:23:15+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키는 성과 중심 스포츠에 집중하여 반전을 노리고 있다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5fde68d747ac0d11",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How much Nvidia stock does interim CEO Colette Kress own?",
+   "excerpt": "Colette Kress began serving as Nvidia’s interim CEO on November 12, 2026, after co-founder Jensen Huang resigned following news of extramarital affairs. Here’s a look at her stake in the tech giant.",
+   "url": "https://www.thestreet.com/personalities/how-much-nvidia-stock-does-colette-kress-own?.tsrc=rss",
+   "published": "2026-11-17T18:23:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 사임 이후 콜레트 크레스가 임시 CEO로 취임했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "3a115c60631dba55",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Qualcomm vs. SK Hynix: Stable Revenue vs. Rapid Acceleration",
+   "excerpt": "SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
+   "url": "https://www.fool.com/coverage/charts/2026/11/17/qualcomm-vs-sk-hynix-stable-revenue-vs-rapid-acceleration/?.tsrc=rss",
+   "published": "2026-11-17T18:20:02+00:00",
+   "tickers": [
+    "QCOM"
+   ],
+   "summary_ko": [
+    "SK하이닉스의 분기 매출이 급증한 반면 퀄컴의 매출은 정체 상태라고 비교했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "87af27db47b3be0b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Where Will Nvidia Stock Be in 3 Years?",
+   "excerpt": "The chipmaker is at a critical crossroads.",
+   "url": "https://www.fool.com/investing/2026/11/17/where-will-nvidia-stock-be-in-3-years/?.tsrc=rss",
+   "published": "2026-11-17T18:17:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 중요한 기로에 서 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "16ce4b84cc459eff",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Steve Eisman: The AI neocloud stocks are in 'big trouble' from Nvidia fallout",
+   "excerpt": "Investor Steve Eisman said the so-called AI neocloud stocks will be the biggest losers from the unfolding Nvidia scandal.",
+   "url": "https://www.youtube.com/watch?v=NubAmIFFBVU",
+   "published": "2026-11-17T18:15:18+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "투자자 스티브 아이스먼은 AI 네오클라우드 주식이 큰 타격을 입을 것이라고 주장했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "f2a0a28c18d8e516",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
+   "excerpt": "Organizations can observe much of the activity around AI models, but they often cannot reconstruct what happened between a request and an outcome, making it difficult to independently verify model behavior. At Microsoft Ignite on Tuesday, Microsoft Chairman and CEO Satya Nadella announced the next phase of Microsoft's commitment to making AI safer: the AI Transparency Initiative, a collaborative effort with customers and partners to establish a common, open approach to security and governance ac",
+   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-organizations-across-industries-launch-181500607.html?.tsrc=rss",
+   "published": "2026-11-17T18:15:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트는 기업의 AI 모델 신뢰를 높이기 위한 AI 투명성 이니셔티브를 발표했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "4f1cdc1ea596c090",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump Demands a “350 Billion Dollar” Military Bill Before Democrats Take Over. Palantir Has a Stake",
+   "excerpt": "Key TakeawaysPalantir Technologies (PLTR) could benefit from President Donald Trump’s push for an additional $350 billion in military spending before Democrats take control of Congress. Senate appropriators proposed nearly $1.",
+   "url": "https://www.tikr.com/blog/trump-demands-a-350-billion-dollar-military-bill-before-democrats-take-over-palantir-has-a-stake?ref=yahoofinance&tlnk=yf-261117-cw4r6qhr&.tsrc=rss",
+   "published": "2026-11-17T18:13:45+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "트럼프 대통령의 군사비 지출 확대 요구가 팔란티어에 호재가 될 수 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "46d4b323db586036",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models",
+   "excerpt": "Microsoft AI CEO Mustafa Suleyman tells Axios the software giant is making significant progress toward building its own frontier general-purpose AI model, even as it introduces six specialized models that it claims rival leading offerings from OpenAI and Anthropic at a fraction of the cost.",
+   "url": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+   "published": "2026-11-17T18:10:07+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "dd84a021813c39e3",
+   "kind": "youtube",
+   "source": "The Motley Fool",
+   "author": "The Motley Fool",
+   "title": "Nvidia's First Earnings Without Jensen: What Investors Need to Know (LIVE)",
+   "excerpt": "Podcast: Nvidia just reported its first quarter since Jensen Huang stepped down as CEO, and the whole AI trade is watching. Motley Fool analysts break down the results live: revenue and data center growth, guidance, margins, and what management said about leadership and the road ahead. We'll cover: • The headline numbers vs. expectations • Data center demand and the AI spending outlook • What the leadership change means for NVDA long term • Whether Nvidia stock is a buy, hold, or pass right now • Your live questions Drop your questions in the chat! ------------------------------------------------------------------------ This video is brought to you by The Motley Fool. The Motley Fool Stock Advisor returns are 927% as of 8/5/2026 and measured against the S&P 500 returns of 211% as of 8/5/20",
+   "url": "https://www.youtube.com/watch?v=L-vFgxcwWE0",
+   "published": "2026-11-17T18:09:22+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 젠슨 황의 퇴임 후 첫 분기 실적을 발표했다.",
+    "분석가들은 실적 결과와 데이터센터 수요 등을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d0fb238a3b0adc55",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Hired a Headhunter and Is Talking to Arm’s CEO, WSJ Reports. Rene Haas Ran One of Nvidia’s Biggest Businesses Until 2013",
+   "excerpt": "Nvidia hired a search firm for its next CEO and is talking to Arm's Rene Haas, the WSJ reported. Who Haas is, what Arm's stock did under him and how traders reacted.",
+   "url": "https://247wallst.com/investing/2026/11/17/nvidia-hired-a-headhunter-and-is-talking-to-arms-ceo-wsj-reports-rene-haas-ran-one-of-nvidias-biggest-businesses-until-2013/?.tsrc=rss",
+   "published": "2026-11-17T18:09:03+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "a1f66bed868324f8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SPCX Stock In Focus: SpaceX To Reportedly Launch $4B Bond Sale This Week",
+   "excerpt": "The bond sale is part of a larger $40 billion financing to buy Nvidia’s Vera Rubin chips.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-in-focus-spacex-to-reportedly-launch-4-b-bond-sale-this-week/cNbOcypR9hI?.tsrc=rss",
+   "published": "2026-11-17T18:07:04+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "c30648e17a49b47c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Stock Is Falling After Parting Blow From Jensen Huang",
+   "excerpt": "The chip maker's shares have slumped more than 50% since the start of October.",
+   "url": "https://finance.yahoo.com/m/88a77f9e-b266-31cb-8d20-56c4fec6786d/intel-stock-is-falling-after.html?.tsrc=rss",
+   "published": "2026-11-17T18:07:00+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "8c7ed27d82adf5dc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SpaceX Extends Its Rocket Lead. Blue Origin Isn’t Catching Up.",
+   "excerpt": "Starship’s historic catch and Vulcan’s failed Amazon mission highlight SpaceX’s advantage—and the shortage of reliable launch alternatives.",
+   "url": "https://finance.yahoo.com/m/3fd926ea-0963-3217-b956-269321016c5d/spacex-extends-its-rocket.html?.tsrc=rss",
+   "published": "2026-11-17T18:07:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "77c24b02d2a99364",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $7.2 Billion Fund Dumps These 3 Stocks",
+   "excerpt": "Key TakeawaysA $7. 2 billion fund, Evergreen Quality Fund, sold all of its Micron, Lumentum and AMD shares in the third quarter, while Alphabet and Amazon became its two largest holdings.",
+   "url": "https://www.tikr.com/blog/a-7-2-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-536g3rmv&.tsrc=rss",
+   "published": "2026-11-17T18:05:53+00:00",
+   "tickers": [
+    "GOOGL",
+    "AMZN",
+    "AMD",
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f3b5fdeb0e735649",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Not Nvidia. Not Alphabet. This Is the AI Stock I’d Buy With the Next Dollar I Invest.",
+   "excerpt": "Cisco Systems just raised its forecast, and the market sold the stock anyway. Here's why it gets my next dollar.",
+   "url": "https://www.fool.com/investing/2026/11/17/not-nvidia-not-alphabet-this-is-the-ai-stock-id-buy-with-the-next-dollar-i-invest/?.tsrc=rss",
+   "published": "2026-11-17T18:05:02+00:00",
+   "tickers": [
+    "NVDA",
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "dd2ada0963ff3498",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike’s 2031 targets offer credible recovery path, says Jefferies",
+   "excerpt": "Nike Inc (NYSE:NKE, XETRA:NKE) has outlined a long-term recovery plan targeting higher revenue, operating margins and earnings by fiscal 2031, with Jefferies describing the framework as credible and saying fiscal 2027 is likely to mark the bottom of its downturn. The sportswear group is...",
+   "url": "https://www.proactiveinvestors.com/companies/news/1101950/nike-s-2031-targets-offer-credible-recovery-path-says-jefferies-1101950.html?.tsrc=rss",
+   "published": "2026-11-17T18:05:00+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "63bcfd3bceb44a57",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Plunges 700 Points as S&P 500 and Nasdaq Fall Ahead of Nvidia Earnings",
+   "excerpt": "Nvidia's Worst Month Since 2022 . Chip Stocks Reel Ahead of Crucial Earnings",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dow-plunges-700-points-p-180432792.html?.tsrc=rss",
+   "published": "2026-11-17T18:04:32+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "ea972e3ce55dcd02",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Could Nvidia’s leadership change fuel a new wave of chip rivals?",
+   "excerpt": "Siebert Financial chief investment officer Mark Malek and his panel of experts weigh in on Nvidia's (NVDA) vulnerability to rivals and the possibility of a new wave of venture-backed chip startups. Today's panel includes Yahoo Finance's Julie Hyman, Solidarity Wealth CEO Jeff McClean, Roundhill Investments ETF strategist Thomas DiFazio, and Alumni Ventures managing partner Laura Rippy.",
+   "url": "https://finance.yahoo.com/video/could-nvidias-leadership-change-fuel-a-new-wave-of-chip-rivals-180416783.html?.tsrc=rss",
+   "published": "2026-11-17T18:04:16+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "15cc6a5995adbe0d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Uber Stocks Fall 2.87% Even as Zoox Robotaxis Go Live on Its Vegas App",
+   "excerpt": "Amazon's Zoox became the first outside robotaxi on Uber in Las Vegas, alongside a multi-year MGM Resorts deal and a 2027 Los Angeles plan.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/uber-stocks-fall-2-87-180251052.html?.tsrc=rss",
+   "published": "2026-11-17T18:02:51+00:00",
+   "tickers": [
+    "AMZN",
+    "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "0fb163c7ad4c48c1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Super Micro Falls 4%, Dell and Hewlett Packard Enterprise Slide 2%: Do New U.S. Export Curbs Deepen Super Micro’s China Problem?",
+   "excerpt": "Washington just tightened the rules on AI chip shipments, and Super Micro already carries a federal diversion probe. Yet its bigger rivals are bleeding too, which raises a sharper question about who really has the thinnest cushion.",
+   "url": "https://247wallst.com/investing/2026/11/17/super-micro-falls-4-dell-and-hewlett-packard-enterprise-slide-2-do-new-u-s-export-curbs-deepen-super-micros-china-problem/?.tsrc=rss",
+   "published": "2026-11-17T18:02:33+00:00",
+   "tickers": [
+    "SMCI",
+    "DELL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "fa068bd2d8f037c0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bill Ackman Cut His Microsoft Stake. Your S&P 500 Fund Can’t.",
+   "excerpt": "A hedge fund can trim Microsoft the moment its view shifts. If you own it through a 401(k), an IRA, and a brokerage account, you may hold far more of the stock than you realize, with no way to step aside.",
+   "url": "https://247wallst.com/investing/etf/2026/11/17/bill-ackman-cut-his-microsoft-stake-your-sp-500-fund-cant/?.tsrc=rss",
+   "published": "2026-11-17T18:02:20+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "e8d4e9dd691c9a82",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Software Stocks Retreat Amid Inflation Worries, IT Outages",
+   "excerpt": "Software stocks sold off on Tuesday amid investor worries over inflation, turmoil at Nvidia and IT system outages.",
+   "url": "https://finance.yahoo.com/m/5119cb03-240a-3334-90c3-3c7e7b562646/software-stocks-retreat-amid.html?.tsrc=rss",
+   "published": "2026-11-17T18:02:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "46603db812bcd307",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "WSC Sports Leads BDO's 2026 Analysis of Sports Content Solution Vendors",
+   "excerpt": "WSC Sports Leads BDO's 2026 Analysis of Sports Content Solution Vendors WSC Sports stands at the top of BDO's positioning map of 30+ vendors, including Adobe, FanDuel and Brightcove, with the widest product range, the most sports covered and the strongest tier-1 customer base. WSC Sports stands at the top of BDO's positioning map of 30+ vendors, including Adobe, FanDuel and Brightcove, with the widest product range, the most sports covered and the strongest tier-1 customer base. New York, Novemb",
+   "url": "https://finance.yahoo.com/media-advertising/articles/wsc-sports-leads-bdos-2026-180200322.html?.tsrc=rss",
+   "published": "2026-11-17T18:02:00+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b0c1c0bc4b8a064e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet’s Google acquires AI scheduling startup Howie to bolster agent lineup",
+   "excerpt": "Alphabet Inc's (NASDAQ:GOOGL) Google has acquired Howie, an artificial intelligence-powered scheduling and calendar management startup, marking the technology giant’s latest effort to capture consumer and enterprise market share through autonomous AI agents. Google’s experimental division, Google Labs, confirmed the transaction in a social media post on X on Monday, though financial terms were not disclosed.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-google-acquires-ai-scheduling-180147675.html?.tsrc=rss",
+   "published": "2026-11-17T18:01:47+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "938488c637ae5b43",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "Huang addresses calls to RETURN to Nvidia in first statement since resignation",
+   "excerpt": "FOX Business correspondent Lauren Simonetti reports on former Nvidia CEO Jensen Huang releasing a public statement since his resignation and addressing calls for his return on 'Varney & Co.' 00:00 Jensen Huang breaks silence after stepping down 00:12 Official statement on returning as Nvidia CEO 00:31 Navigating geopolitical and competitive dynamics 00:48 Nvidia stock price hits lowest level since 2025 01:02 DOJ and Commerce Department Megaspeed investigation Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 20",
+   "url": "https://www.youtube.com/watch?v=eWSIectZK4A",
+   "published": "2026-11-17T18:00:39+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "전 엔비디아 CEO 젠슨 황이 사임 이후 처음으로 공개 성명을 발표했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "75e4b2d3623584b7",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "The Big 3: SHOP, TMUS, S",
+   "excerpt": "Mike Shorr with @ProsperTradingAcademy thinks this market is \"overdone\" and explains why he's still bullish in the face of bearish trading action ahead of Nvidia (NVDA) earnings. Mike wants to take advantage of implied volatility on stocks like Shopify (SHOP), T-Mobile (TMUS), and SentinelOne (S). Rick Ducat breaks down technical trends on stock charts based on Mike's example options trades. ======== Schwab Network ======== Empowering every investor and trader, every market day. Options involve risks and are not suitable for all investors. Before trading, read the Options Disclosure Document. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Foll",
+   "url": "https://www.youtube.com/watch?v=lDKVxGLETkc",
+   "published": "2026-11-17T18:00:27+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN",
+    "SHOP"
+   ],
+   "summary_ko": [
+    "일부 전문가들은 시장이 과열되었다고 진단하면서도 엔비디아 실적을 앞두고 강세 전망을 유지했다.",
+    "또한 숍파이, 티모바일 등의 종목에서 내재 변동성을 활용하려 한다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "dd31687fb86543dd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CloudFit Software Wins Microsoft Global Defense & Intelligence Partner of the Year for Second Consecutive Year",
+   "excerpt": "LYNCHBURG, Va., November 17, 2026--CloudFit Software has been named the 2026 Microsoft Global Defense & Intelligence Partner of the Year, marking the company’s second consecutive global win and third Microsoft Partner of the Year win overall.",
+   "url": "https://finance.yahoo.com/technology/articles/cloudfit-software-wins-microsoft-global-180000634.html?.tsrc=rss",
+   "published": "2026-11-17T18:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "7165de8317a451bd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Software bug freezes Chase: Is it the time for bitcoin?",
+   "excerpt": "Scott Melker discusses an hours-long Chase (JPM) outage and whether decentralized bitcoin (BTC-USD) matters more now than ever. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
+   "url": "https://finance.yahoo.com/video/software-bug-freezes-chase-time-180000372.html?.tsrc=rss",
+   "published": "2026-11-17T18:00:00+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1503c402e2a6c76d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "This Scorching-Hot Tech Stock Has Soared Over 70% Since the Start of November",
+   "excerpt": "AppLovin's stock was crushed earlier in the year amid AI-related fears, but it may have proven those concerns were exaggerated.",
+   "url": "https://www.fool.com/investing/2026/11/17/this-scorching-hot-tech-stock-has-soared-over-70-since-the-start-of-november/?.tsrc=rss",
+   "published": "2026-11-17T17:59:02+00:00",
+   "tickers": [
+    "APP"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "f177f06576b0de29",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Walt Disney Company Q4 2026 Earnings Call Summary",
+   "excerpt": "Moby summary of The Walt Disney Company's Q4 2026 earnings call",
+   "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-the-walt-disney-company-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "published": "2026-11-17T17:58:53+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "032b44b5de474e3d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AMD Stock Rises After Chip Deal Closes",
+   "excerpt": "Cloud customers could get more out of each watt.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/amd-stock-rises-chip-deal-175746205.html?.tsrc=rss",
+   "published": "2026-11-17T17:57:46+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "d7579615f456726f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Strategy Is Down 28% in a Month. Can MSTR Stock Hit Cantor Fitzgerald’s $208 Target by 2030?",
+   "excerpt": "Index funds must dump Strategy shares, the company spent more on preferred stock than on Bitcoin, and two analysts see wildly different futures. What would it take for one of them to be right?",
+   "url": "https://247wallst.com/investing/2026/11/17/strategy-is-down-28-in-a-month-can-mstr-stock-hit-cantor-fitzgeralds-208-target-by-2030/?.tsrc=rss",
+   "published": "2026-11-17T17:56:27+00:00",
+   "tickers": [
+    "MSTR"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "2d16faef9fc5f432",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bank Stocks Slip After Outages Disrupt US Customers",
+   "excerpt": "JPMorgan said there was no evidence the disruption was cyber-related",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bank-stocks-slip-outages-disrupt-175612169.html?.tsrc=rss",
+   "published": "2026-11-17T17:56:12+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "b14da3f56c190589",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Stock Slips as Nvidia Sells a Quarter of Its Stake",
+   "excerpt": "Nvidia still holds 161.1 million Intel shares, worth $19.37 billion at the end of September",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-slips-nvidia-sells-175539227.html?.tsrc=rss",
+   "published": "2026-11-17T17:55:39+00:00",
+   "tickers": [
+    "NVDA",
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "5d5501b449ad9faf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney Profit Beats With Marvel Films Powering Streaming",
+   "excerpt": "Walt Disney reported sales and earnings that exceeded analysts' expectations, with a particularly strong result in its streaming TV unit. Operating income in business that include the Disney+ and Hulu streaming services doubled to $824 million in the fiscal fourth quarter, due to higher subscription and ad revenue. Viewership of Marvel superhero-related programming more than doubled as fans caught up on the company's catalog of Spider-Man and Avengers films, tied in part to theatrical releases from both this year, Disney said in a statement Tuesday. Geetha Ranganathan, Bloomberg Intelligence US Media Analyst said Disney earnings mean show a strong outlook for 2027.",
+   "url": "https://finance.yahoo.com/video/disney-profit-beats-marvel-films-175534904.html?.tsrc=rss",
+   "published": "2026-11-17T17:55:34+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
   {
    "id": "653bf661631c9fa9",
    "kind": "news",
@@ -17,6 +660,21 @@
     "팔란티어가 4억 4천만 달러 규모의 영국 NHS 계약을 유지하게 되었다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "c09ed593d79f165a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan Taps de Best to Succeed CFO Jeremy Barnum",
+   "excerpt": "Bregje de Best will take over after first-quarter 2027 financial reporting",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-taps-best-succeed-cfo-175324417.html?.tsrc=rss",
+   "published": "2026-11-17T17:53:24+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "d1b285be258542c6",
@@ -451,6 +1109,21 @@
    "tone": "neu"
   },
   {
+   "id": "a9b15ae329dff796",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike’s Strategy to Add $5 Billion More in Sales by 2031 Meets Skeptics on Wall Street",
+   "excerpt": "RBC Capital Markets warns that Nike’s ambitious 2031 financial targets leave little room for near-term upside surprises.",
+   "url": "https://finance.yahoo.com/m/20246818-5c59-3040-9f0e-8a98eef07906/nike%E2%80%99s-strategy-to-add-%245.html?.tsrc=rss",
+   "published": "2026-11-17T17:38:00+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "236fdb82c841d3f0",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -466,6 +1139,22 @@
     "나이키는 향후 2년간의 매출 감소를 거쳐 성장에 나설 계획이라고 밝혔다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "2a30a221ea4505c8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Musk Says Owners’ Tesla Robotaxi Trials “May Start” Next Month. That’s a Threat to Uber",
+   "excerpt": "Key TakeawaysElon Musk said on Monday that trials letting Tesla owners add their own cars to the Robotaxi network may start next month, if things go well. Owners’ cars would let Tesla grow its fleet without buying the cars, as it guides to about $20 billion of capital spending this year.",
+   "url": "https://www.tikr.com/blog/musk-says-owners-tesla-robotaxi-trials-may-start-next-month-thats-a-threat-to-uber?ref=yahoofinance&tlnk=yf-261117-pj3j3mgm&.tsrc=rss",
+   "published": "2026-11-17T17:35:53+00:00",
+   "tickers": [
+    "TSLA",
+    "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "b0f47950a83915ec",
@@ -537,6 +1226,21 @@
    "summary_tries": 1
   },
   {
+   "id": "1c0fdd7e19862ff0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Eli Lilly Caught in Vendor Hack as Extortion Group Threatens to Leak Data on 1.2 Million Patients",
+   "excerpt": "Lilly found no unauthorized access to its own systems, a person familiar with the matter said. Extortion group n0n claims to hold patient and prescriber data.",
+   "url": "https://finance.yahoo.com/m/d3fa3df8-06d3-3d41-89a2-23c1584f133a/eli-lilly-caught-in-vendor.html?.tsrc=rss",
+   "published": "2026-11-17T17:30:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "812cd2534f3927b9",
    "kind": "reddit",
    "source": "r/wallstreetbets",
@@ -569,6 +1273,22 @@
     "디즈니는 배당금을 33% 인상하고 시장 예상치를 웃돌았으나, 홈디포는 CEO 교체와 함께 신중한 연말 전망을 내놓았다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "3f7e14603e38a5bf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Amazon and Google Could Own $400 Billion of Anthropic Stock",
+   "excerpt": "In an updated prospectus on Tuesday Anthropic disclosed that Amazon.com and Alphabet’s Google could own up to 37.5% of its outstanding capital stock.",
+   "url": "https://finance.yahoo.com/m/c079c6dc-3303-33b1-9922-5e6afaa91e87/how-amazon-and-google-could.html?.tsrc=rss",
+   "published": "2026-11-17T17:26:00+00:00",
+   "tickers": [
+    "GOOGL",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "e617d9ea63836adf",
@@ -881,6 +1601,21 @@
    "tone": "neg"
   },
   {
+   "id": "94a8cef4e2316ec2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "5 HMO Stocks to Watch Amid Sound Membership Base, Tech Innovation",
+   "excerpt": "Diversified healthcare plans, digital innovation and acquisitions support the performance of the Zacks Medical-HMO industry players. UNH, CI, HUM, CNC and MOH are poised to benefit from favorable industry prospects.",
+   "url": "https://finance.yahoo.com/healthcare/articles/5-hmo-stocks-watch-amid-171100583.html?.tsrc=rss",
+   "published": "2026-11-17T17:11:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "64a8fd7b24c99c3d",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -915,6 +1650,21 @@
    "tone": "neu"
   },
   {
+   "id": "05f37e93ecd4efa2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palantir's 148% U.S. Commercial Revenue Surge Signals AI Momentum",
+   "excerpt": "PLTR's U.S. commercial revenues surge 148% in Q3 2026, fueled by growing enterprise AI adoption. Can robust government demand sustain its growth momentum?",
+   "url": "https://finance.yahoo.com/technology/ai/articles/palantirs-148-u-commercial-revenue-170800611.html?.tsrc=rss",
+   "published": "2026-11-17T17:08:00+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "777403c6ff2b7f50",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -946,6 +1696,21 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 2
+  },
+  {
+   "id": "a596b25eae8dd98a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Meta Platforms is Cheap at 18.78X P/E: Buy, Sell or Hold the Stock?",
+   "excerpt": "META trades at a cheap 18.78X forward P/E, but soaring AI spending, margin pressure and strong ad growth raise questions about the stock's upside.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-cheap-18-78x-170700349.html?.tsrc=rss",
+   "published": "2026-11-17T17:07:00+00:00",
+   "tickers": [
+    "META"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "1f759d407c049fb3",
@@ -1075,6 +1840,21 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 1
+  },
+  {
+   "id": "63767b0a53b2d319",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AppLovin's Q3 Revenues Jump 55%: Can This Growth Momentum Continue?",
+   "excerpt": "APP's Q3 revenues surge 55% on stronger AI-powered advertising demand and monetization. Can its robust outlook sustain growth despite mounting challenges?",
+   "url": "https://finance.yahoo.com/media-advertising/articles/applovins-q3-revenues-jump-55-170200918.html?.tsrc=rss",
+   "published": "2026-11-17T17:02:00+00:00",
+   "tickers": [
+    "APP"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "c1e436788e9e8522",
@@ -1452,21 +2232,6 @@
    "published": "2026-11-17T16:50:02+00:00",
    "tickers": [
     "RKLB"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "cb5260b24069919b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Falls Ahead Of Earnings. CEO Wants To Return. (Live Coverage)",
-   "excerpt": "Nvidia looks to calm investors with its fiscal third-quarter earnings report out late Tuesday.",
-   "url": "https://finance.yahoo.com/m/ef40b1a2-2bff-390f-b0d5-c281b4d503ef/nvidia-falls-ahead-of.html?.tsrc=rss",
-   "published": "2026-11-17T16:48:43+00:00",
-   "tickers": [
-    "NVDA"
    ],
    "summary_ko": null,
    "tone": null
@@ -2062,6 +2827,24 @@
    "tone": null
   },
   {
+   "id": "23b5aaacca0d0e3d",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia's board created a national security committee | The 8:30",
+   "excerpt": "Nvidia's board set up a National Security and Export Control Oversight Committee on Tuesday, five days after Jensen Huang resigned, and gave it oversight of export compliance and global trade risk. Suzanne Nora Johnson chairs it. Jake Conley walks through the Commerce rule that landed beside it, which now demands a licence before advanced chips reach foreign data centers that hand serious computing power to Chinese-headquartered firms. Also: why the banks, the FAA and Microsoft all broke inside one week, and fund managers cutting tech by the most since 2006. Featuring Julie Hyman, Host, Yahoo Finance Jake Conley, Breaking Business News Reporter, Yahoo Finance Pras Subramanian, Senior Autos Reporter, Yahoo Finance Timestamps 0:00 Everything broke while Jake was away 8:54 Nvidia's board crea",
+   "url": "https://www.youtube.com/watch?v=CicPvgqWMq4",
+   "published": "2026-11-17T16:17:55+00:00",
+   "tickers": [
+    "NVDA",
+    "MSFT"
+   ],
+   "summary_ko": [
+    "엔비디아 이사회는 수출 규정 준수와 글로벌 무역 위험을 관리할 위원회를 신설했다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "d072eb7a072be35b",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -2322,21 +3105,6 @@
     "GOOGL",
     "AMD",
     "AVGO"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "1c0fdd7e19862ff0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Eli Lilly Caught in Vendor Hack as Extortion Group Threatens to Leak Data on 1.2 Million Patients",
-   "excerpt": "Lilly found no unauthorized access to its own systems, a person familiar with the matter said. Extortion group n0n claims to hold patient and prescriber data.",
-   "url": "https://finance.yahoo.com/m/d3fa3df8-06d3-3d41-89a2-23c1584f133a/eli-lilly-caught-in-vendor.html?.tsrc=rss",
-   "published": "2026-11-17T16:05:00+00:00",
-   "tickers": [
-    "LLY"
    ],
    "summary_ko": null,
    "tone": null
@@ -3830,21 +4598,6 @@
    "published": "2026-11-17T14:51:59+00:00",
    "tickers": [
     "HOOD"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "c30648e17a49b47c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Intel Stock Is Falling After Parting Blow From Jensen Huang",
-   "excerpt": "The chip maker's shares have slumped more than 50% since the start of October.",
-   "url": "https://finance.yahoo.com/m/88a77f9e-b266-31cb-8d20-56c4fec6786d/intel-stock-is-falling-after.html?.tsrc=rss",
-   "published": "2026-11-17T14:51:00+00:00",
-   "tickers": [
-    "INTC"
    ],
    "summary_ko": null,
    "tone": null
@@ -7484,6 +8237,21 @@
    "published": "2026-11-17T12:15:45+00:00",
    "tickers": [
     "RKLB"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "02d8405aef19c89f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why You Should Buy the Pullback in Palantir Stock Now",
+   "excerpt": "Palantir's outlook remains solid, led by strong demand across its U.S. commercial and government businesses.",
+   "url": "https://www.barchart.com/story/news/8872458/why-you-should-buy-the-pullback-in-palantir-stock-now?.tsrc=rss",
+   "published": "2026-11-17T12:15:21+00:00",
+   "tickers": [
+    "PLTR"
    ],
    "summary_ko": null,
    "tone": null
