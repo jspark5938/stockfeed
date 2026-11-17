@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:54:47.413955+00:00",
+ "updated": "2026-11-17T22:00:39.516946+00:00",
  "trends": [
   {
    "ticker": "UNH",
@@ -116,7 +116,7 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 448,
+   "mentions_24h": 449,
    "mentions_prev_24h": 231,
    "ratio": 1.94
   },
@@ -198,13 +198,6 @@
    "ratio": 1.5
   },
   {
-   "ticker": "AMZN",
-   "name_ko": "아마존",
-   "mentions_24h": 79,
-   "mentions_prev_24h": 55,
-   "ratio": 1.44
-  },
-  {
    "ticker": "CRM",
    "name_ko": "세일즈포스",
    "mentions_24h": 13,
@@ -224,6 +217,13 @@
    "mentions_24h": 21,
    "mentions_prev_24h": 15,
    "ratio": 1.4
+  },
+  {
+   "ticker": "AMZN",
+   "name_ko": "아마존",
+   "mentions_24h": 78,
+   "mentions_prev_24h": 56,
+   "ratio": 1.39
   },
   {
    "ticker": "MU",
@@ -394,18 +394,18 @@
    "ratio": 0.44
   },
   {
-   "ticker": "NVO",
-   "name_ko": "노보노디스크",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 10,
-   "ratio": 0.4
-  },
-  {
    "ticker": "MSTR",
    "name_ko": "스트래티지",
    "mentions_24h": 3,
    "mentions_prev_24h": 9,
    "ratio": 0.33
+  },
+  {
+   "ticker": "NVO",
+   "name_ko": "노보노디스크",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 11,
+   "ratio": 0.27
   }
  ]
 }
