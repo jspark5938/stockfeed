@@ -1,6 +1,959 @@
 {
- "updated": "2026-11-17T14:30:32.268412+00:00",
+ "updated": "2026-11-17T15:00:42.028181+00:00",
  "posts": [
+  {
+   "id": "753f75601b3f7ad1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stocks slip ahead of Nvidia earnings, Home Depot shares slide: AlphaCheck",
+   "excerpt": "Stocks slipped on Tuesday ahead of Nvidia's quarterly results.",
+   "url": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html?.tsrc=rss",
+   "published": "2026-11-17T14:57:55+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "de0b8256702bbe7c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cathie Wood and 9 Other Big Funds Bought Eli Lilly Last Quarter, While 18 Sold. Who’s Right?",
+   "excerpt": "Key TakeawaysOf 456 big funds that have filed 13Fs for the quarter ended Sept. 30, 10 bought Eli Lilly and 18 sold.",
+   "url": "https://www.tikr.com/blog/cathie-wood-and-9-other-big-funds-bought-eli-lilly-last-quarter-while-18-sold-whos-right?ref=yahoofinance&tlnk=yf-261117-rfg89qcm&.tsrc=rss",
+   "published": "2026-11-17T14:53:51+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "0aa214c39c959fd1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Shorted Nvidia Stock. Is He About to Make Another Fortune?",
+   "excerpt": "Burry got famous for successfully shorting the mortgage market ahead of the 2008 mortgage crisis.",
+   "url": "https://www.fool.com/investing/2026/11/17/michael-burry-shorted-nvidia-stock-is-he-about-to-make-another-fortune/?.tsrc=rss",
+   "published": "2026-11-17T14:50:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "7111f019caba92fb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Which retail stocks are best positioned ahead of earnings this week?",
+   "excerpt": "Investing.com -- Six retailers still report this week, per the earnings calendar: Lowe’s (LOW), TJX (TJX) and Target (TGT) on Nov 18 pre-market, then Walmart (WMT) pre-market and PDD Holdings (PDD) on Nov 19. Ross Stores (ROST) reports after the close on Nov 19. Home Depot (HD) already reported this morning, so it is excluded. The calendar was filtered to high- and medium-importance names, so smaller retailers may be missing.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/retail-stocks-best-positioned-ahead-144942706.html?.tsrc=rss",
+   "published": "2026-11-17T14:49:42+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "ec6238d99d5b7bdc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "David Tepper and 33 Other Funds Bought Software Stocks. CoreWeave Is Down 43% Since. Time to Buy?",
+   "excerpt": "Key TakeawaysThe 13Fs of David Tepper’s Appaloosa, Cathie Wood’s ARK and 32 other funds show third-quarter buys in software stocks such as CoreWeave, Oracle, Core Scientific, Akamai and ServiceNow. All five stocks have fallen since Sept.",
+   "url": "https://www.tikr.com/blog/david-tepper-and-33-other-funds-bought-software-stocks-coreweave-is-down-43-since-time-to-buy?ref=yahoofinance&tlnk=yf-261117-r3fmq2wq&.tsrc=rss",
+   "published": "2026-11-17T14:48:19+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "0855a5523eb0512e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "George Soros, Cathie Wood and 18 Other Big Funds Sold Snowflake, While 23 Bought. Who’s Right?",
+   "excerpt": "Key TakeawaysOf the 456 big funds that have filed 13Fs for the quarter ended Sept. 30, 23 bought Snowflake and 20 sold, including George Soros’ fund and Cathie Wood’s ARK Invest.",
+   "url": "https://www.tikr.com/blog/george-soros-cathie-wood-and-18-other-big-funds-sold-snowflake-while-23-bought-whos-right?ref=yahoofinance&tlnk=yf-261117-w3cm883x&.tsrc=rss",
+   "published": "2026-11-17T14:47:47+00:00",
+   "tickers": [
+    "SNOW"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "2d7a5fff09812a18",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Robert Pattinson is the next James Bond: A closer look at Amazon MGM's decision",
+   "excerpt": "Amazon (AMZN) MGM Studios recently announced that Robert Pattinson will star as James Bond in the next film. \"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss the details.",
+   "url": "https://finance.yahoo.com/video/robert-pattinson-is-the-next-james-bond-a-closer-look-at-amazon-mgms-decision-144718415.html?.tsrc=rss",
+   "published": "2026-11-17T14:47:18+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1792c55b64e99146",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Meta Platforms (META) Surges as AI Ranking Models Accelerate U.S. Ad Revenue Growth to 31%",
+   "excerpt": "Baron Capital, an investment management company, released its Q3 2026 investor letter for the “Baron Durable Advantage Fund”. The letter can be downloaded here. In the quarter, the fund returned 2.2%, in line with the S&P 500’s 2.3%. Year to date, the fund is up 5.7%, trailing the index’s 12.8%. Notable developments in the quarter […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-surges-ai-144644684.html?.tsrc=rss",
+   "published": "2026-11-17T14:46:44+00:00",
+   "tickers": [
+    "META"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "01dcd4398e2dfab0",
+   "kind": "reddit",
+   "source": "r/StockMarket",
+   "author": "/u/TorukMaktoM",
+   "title": "Dow slides weighed by Home Depot; Nasdaq is flat ahead of Nvidia earnings",
+   "excerpt": "Stocks were mixed early Tuesday morning, as the Dow Jones Industrial Average struggled following the release of new corporate earnings reports, while chipmakers kept the Nasdaq Composite along the flatline. Investors also awaited Nvidia’s quarterly release. The Dow fell 330 points. The Nasdaq was little changed, while the S&P 500 slipped 0.2%. Semiconductor names rose following a CNBC report that Anthropic would price its IPO above the current range of $70 to $78. Marvell Technology and Arm Holdings traded 2% and 1% higher, respectively. Broadcom also climbed 1%. Home Depot dropped nearly 2% after the retailer announced a new CEO would take over next week, weighing on the Dow. That overshadowed better-than-expected quarterly results. Those moves come as investors brace for Nvidia’s quarter",
+   "url": "https://www.reddit.com/r/StockMarket/comments/1xym80p/dow_slides_weighed_by_home_depot_nasdaq_is_flat/",
+   "published": "2026-11-17T14:44:10+00:00",
+   "tickers": [
+    "NVDA",
+    "AVGO",
+    "ARM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "d83bbf2f8813ce76",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Dow Slides After Surprise Retail Sales; Nvidia Rises With Earnings On Tap (Live Coverage)",
+   "excerpt": "The Dow Jones index dropped Tuesday after surprise retail sales data. Nvidia stock bounced before its earnings report.",
+   "url": "https://finance.yahoo.com/m/0c9330f2-68c3-38ef-9244-7dbdfd0853b7/stock-market-today%3A-dow.html?.tsrc=rss",
+   "published": "2026-11-17T14:43:22+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "bc002f4a4f645f60",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cathie Wood and 16 Other Big Funds Bought Netflix Last Quarter, While 20 Sold. Who’s Right?",
+   "excerpt": "Key TakeawaysOf the 456 big funds that have filed 13Fs for the third quarter, 17 bought Netflix, Cathie Wood’s ARK Invest among them, and 20 sold, including George Soros’ fund. The biggest moves came from less famous firms: Harris Associates added about $556 million of Netflix stock at quarter-end prices, while Sands Capital sold about $184 million.",
+   "url": "https://www.tikr.com/blog/cathie-wood-and-16-other-big-funds-bought-netflix-last-quarter-while-20-sold-whos-right?ref=yahoofinance&tlnk=yf-261117-526cxgv5&.tsrc=rss",
+   "published": "2026-11-17T14:42:31+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "72bda3f16de4cb1c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cathie Wood and 14 Other Big Funds Bought Broadcom. It’s 33% Below Its High. Bargain or Trap?",
+   "excerpt": "Key TakeawaysCathie Wood’s ARK Invest and 14 other big funds bought Broadcom stock in the third quarter, according to their 13F filings. Broadcom trades at 19x forward earnings, well below its five-year average of 24x, while analysts expect its earnings per share to more than quadruple from fiscal 2025 to fiscal 2028.",
+   "url": "https://www.tikr.com/blog/cathie-wood-and-14-other-big-funds-bought-broadcom-its-33-below-its-high-bargain-or-trap?ref=yahoofinance&tlnk=yf-261117-8p27hg4c&.tsrc=rss",
+   "published": "2026-11-17T14:41:59+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "f45aa749482f9077",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Netflix Stock Down 47%: Too Early To Buy?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/nflx/articles/625752/netflix-stock-down-47-too-early-to-buy/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:52+00:00",
+   "tickers": [
+    "NVDA",
+    "NFLX"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "23ea172bdf803e1f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Would Higher Interest Rates Do To CoreWeave Stock?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/crwv/articles/625748/what-would-higher-interest-rates-do-to-coreweave-stock/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:52+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "f7f40364771069b1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Merck Stock's $1.3 Billion China Problem Goes Quiet",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/mrk/articles/625733/merck-stocks-1-3-billion-china-problem-goes-quiet/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:52+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "8f71cf83491fdbc0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Fair Isaac Stock's 72% Mortgage Jump Came From Price",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/fico/articles/625750/fair-isaac-stocks-72-mortgage-jump-came-from-price/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:52+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "b518e7b4992e13c6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Are Apple Investors Betting On?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/aapl/articles/625738/what-are-apple-investors-betting-on/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA",
+    "AAPL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "ba0fbfd3401c7490",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Buy SanDisk Stock After Its 50% Slide?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/sndk/articles/625742/should-you-buy-sandisk-stock-after-its-50-slide/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "43fd54aed5281646",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Uber Now Touts $10 Billion Cash, Not Trip Growth",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/uber/articles/625740/uber-now-touts-10-billion-cash-not-trip-growth/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA",
+    "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "fcc50c71bbed788e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Would A Short Seller Say About Boeing?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/ba/articles/625757/what-would-a-short-seller-say-about-boeing/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA",
+    "BA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "f356451445edc05b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Applied Digital Spending Too Much?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/apld/articles/625763/is-applied-digital-spending-too-much/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "5ebaa886d004c031",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Charter Stock Worth The Wait?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/chtr/articles/625765/is-charter-stock-worth-the-wait/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "478e3961a484ce1f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Does Casey's Stock's Winning Streak Really Prove?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/casy/articles/625769/what-does-caseys-stocks-winning-streak-really-prove/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "efa8850d77cca827",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Rocket Lab Stock Is Down 62% But Not Cheap",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/rklb/articles/625756/rocket-lab-stock-is-down-62-but-not-cheap/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA",
+    "RKLB"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "08d6fd9c16181f8c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Has Buying Fastenal Stock At A High Paid Off?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/fast/articles/625758/has-buying-fastenal-stock-at-a-high-paid-off/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "043eecc0cbbd4a23",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Really Drove Deere Stock's 81% Rise?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/de/articles/625766/what-really-drove-deere-stocks-81-rise/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "dcc75426f807c383",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Gave AT&T Stock Its Edge Over Verizon?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/vz/articles/625764/what-gave-att-stock-its-edge-over-verizon/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "b57ce5faafffa98c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Consulting Holding Back IBM Stock?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/ibm/articles/625770/is-consulting-holding-back-ibm-stock/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "0fd09e5745c58380",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Sent Molina Stock Higher?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/moh/articles/625772/what-sent-molina-stock-higher/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "f5379149a041bc4a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Triggered Dell Stock's 7% Drop?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/dell/articles/625803/why-did-dell-stock-fall-7/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:49+00:00",
+   "tickers": [
+    "NVDA",
+    "DELL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "4d4e4cec5e3037ae",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Roblox Stock Fell Nearly 8%. What Happened?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/rblx/articles/625794/why-did-roblox-stock-fall-nearly-8/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:49+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1170e919f41e4a0f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Is Behind AMD Stock's Nearly 6% Slide?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/amd/articles/625816/why-did-amd-stock-fall-nearly-6/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:49+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "3edbeb2aadc18469",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Is Behind Joby Aviation Stock's 7% Slide?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/joby/articles/625797/why-did-joby-aviation-stock-fall-7/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:49+00:00",
+   "tickers": [
+    "NVDA",
+    "JOBY"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "7ee61a49468befaa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Sent Marvell Stock Down Over 7%?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/mrvl/articles/625792/why-did-marvell-stock-fall-over-7/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:49+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "300974d068ecea4c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Micron Stock Down Nearly 8%?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/mu/articles/625793/why-did-micron-stock-fall-nearly-8/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:49+00:00",
+   "tickers": [
+    "NVDA",
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "8edeb2e867cb4aa6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Lam Research Stock Fell Nearly 7%. What Happened?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/lrcx/articles/625813/why-did-lam-research-stock-fall-nearly-7/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:49+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "eba9d5296c03d9df",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did Intel Stock Lose 7%?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/intc/articles/625805/why-did-intel-stock-fall-7/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:49+00:00",
+   "tickers": [
+    "NVDA",
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "c5e98222ed10be58",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Astera Labs Stock Falling Again?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/alab/articles/625789/why-is-astera-labs-stock-falling-again/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:49+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "da9a5ffad67de920",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did Robinhood Stock Fall Another 7%?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/hood/articles/625796/why-did-robinhood-stock-fall-another-7/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:49+00:00",
+   "tickers": [
+    "NVDA",
+    "HOOD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "6ead3c6bb893b55c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did Take-Two Stock Fall 6% Before GTA VI?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/ttwo/articles/625817/why-did-take-two-stock-fall-6-before-gta-vi/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:48+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "5d19b40e99915c4f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did Arista Networks Stock Lose 5%?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/anet/articles/625838/why-did-arista-networks-stock-fall-5/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:48+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "3780f66818e01fdb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Sent Coinbase Stock Down 6%?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/coin/articles/625810/why-did-coinbase-stock-fall-6-on-monday/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:40:48+00:00",
+   "tickers": [
+    "NVDA",
+    "COIN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "823ffb175d3aadfb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Widespread outages hit consumers, Nvidia fallout continues, Pattinson named new James Bond",
+   "excerpt": "The 8:30 hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss all the top market headlines of the day, including customers at Chase (JPM) and Bank of America (BAC) being unable to access their accounts due to widespread outages, Nvidia (NVDA) forming an expert control board to oversee details of business with China, and actor Robert Pattinson being named the new James Bond in the upcoming Amazon (AMZN) MGM Studios film franchise.",
+   "url": "https://finance.yahoo.com/video/widespread-outages-hit-consumers-nvidia-fallout-continues-pattinson-named-new-james-bond-143945867.html?.tsrc=rss",
+   "published": "2026-11-17T14:39:45+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN",
+    "JPM",
+    "BAC"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "76a11d81036b5a9c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia’s Board Reportedly Isn’t Considering Bringing Jensen Huang Back",
+   "excerpt": "Nvidia has lost roughly $2 trillion in value since its October peak, and a presidential endorsement and a massive petition can't change who decides Huang's fate. Tuesday's earnings call may show whether the damage comes from governance or fundamentals.",
+   "url": "https://247wallst.com/investing/2026/11/17/nvidias-board-reportedly-isnt-considering-bringing-jensen-huang-back/?.tsrc=rss",
+   "published": "2026-11-17T14:38:04+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "0c22f39d7d520392",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Global Student Account Provisioning Market 2026: Size, Trends and 2030 Forecast | Capitalize on 13.8% CAGR through AI and Cloud Security with Microsoft, Google, Okta, and Oracle",
+   "excerpt": "Dublin, Nov. 17, 2026 (GLOBE NEWSWIRE) -- \"Student Account Provisioning Global Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global student account provisioning market is experiencing rapid growth as educational institutions expand digital learning environments, strengthen identity security, and automate access to academic resources. The market is projected to increase from $1.52 billion in 2025 to $1.73 billion in 2026, representing a compound annual growth rate (",
+   "url": "https://finance.yahoo.com/technology/ai/articles/global-student-account-provisioning-market-143800543.html?.tsrc=rss",
+   "published": "2026-11-17T14:38:00+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOGL",
+    "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "b31b1cbfcd2f6d48",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cathie Wood’s ARK Invest Sells $85 Million of Nvidia, Adds Block, Circle and Coinbase",
+   "excerpt": "ARK Invest, the asset manager led by Cathie Wood, sold 543,092 Nvidia (NASDAQ: $NVDA) shares worth about $84.8 mill...",
+   "url": "https://www.cryptoprowl.com/releases/cathie-woods-ark-invest-sells-85-million-of-nvidia-adds-block-circle-and-coinbase-7950?.tsrc=rss",
+   "published": "2026-11-17T14:38:00+00:00",
+   "tickers": [
+    "NVDA",
+    "COIN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "5cf231e985d38684",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike shares rise 4% as company outlines five-year turnaround plan and 2031 targets",
+   "excerpt": "Investing.com -- Nike (NYSE: NKE) shares rose 4% on Tuesday after the company unveiled a new five-year strategy aimed at restoring sustainable, profitable growth, setting a target of $3.00 to $3.50 in adjusted earnings per share by fiscal 2031.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nike-shares-rise-4-company-143741857.html?.tsrc=rss",
+   "published": "2026-11-17T14:37:41+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "fb6817c44fce9935",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Druckenmiller Sold All of His Alphabet, AMD and SanDisk",
+   "excerpt": "Three AI darlings vanished from Duquesne's latest 13F, and all three stocks sank the day it landed. Did Druckenmiller see the slide coming, or does the filing hide a quieter story about where his money went instead?",
+   "url": "https://247wallst.com/investing/2026/11/17/druckenmiller-sold-all-of-his-alphabet-amd-and-sandisk/?.tsrc=rss",
+   "published": "2026-11-17T14:36:59+00:00",
+   "tickers": [
+    "GOOGL",
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "bedbf7fffade85b9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Buy Micron Stock At Under Ten Times Earnings?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/mu/articles/625641/should-you-buy-micron-stock-at-under-ten-times-earnings/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:36:35+00:00",
+   "tickers": [
+    "NVDA",
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "c0ccd9f68d5a0ed5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon to expand fuel and logistics surcharge to more services",
+   "excerpt": "The 3.5% surcharge will apply to transportation fees for bulk storage and replenishment services starting in February as the company faces fuel cost pressures.",
+   "url": "https://www.supplychaindive.com/news/amazon-to-expand-fuel-and-logistics-surcharge-to-more-services/874693/?.tsrc=rss",
+   "published": "2026-11-17T14:36:17+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "a3e33c589f980404",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Snap Promised Specs This Fall. Five Weeks Left and the $2,195 Glasses Still Have No Ship Date",
+   "excerpt": "Key TakeawaysSnap opened Specs preorders at $2,195 in June, but with fall nearly over, the AR glasses still have no confirmed ship date. Meta Platforms plans its own AR glasses for 2027, while Apple priced its Vision Pro at $3,499, so Snap could be first and cheaper.",
+   "url": "https://www.tikr.com/blog/snap-promised-specs-this-fall-five-weeks-left-and-the-2195-glasses-still-have-no-ship-date?ref=yahoofinance&tlnk=yf-261117-hpg4hq83&.tsrc=rss",
+   "published": "2026-11-17T14:35:20+00:00",
+   "tickers": [
+    "AAPL",
+    "META"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "fb6061887b536983",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Anthropic Plans $26 Billion Concurrent Private Placement Following IPO; Alphabet's Google, Nvidia, AMD to Take Part",
+   "excerpt": "Anthropic has planned a $26 billion concurrent private placement for its class N common stock follow",
+   "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-plans-26-billion-concurrent-143354928.html?.tsrc=rss",
+   "published": "2026-11-17T14:33:54+00:00",
+   "tickers": [
+    "NVDA",
+    "GOOGL",
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "893abefd111ef26a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel’s Turnaround Could Have 3 Major Catalysts in 2027",
+   "excerpt": "Intel already pulled off a 198% run this year, then handed back a huge chunk of it. Analysts mostly say Hold, yet three specific developments could decide whether the stock reclaims its triple-digit swagger next year.",
+   "url": "https://247wallst.com/investing/2026/11/17/intels-turnaround-could-have-3-major-catalysts-in-2027/?.tsrc=rss",
+   "published": "2026-11-17T14:33:37+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "fbf97a4d705953ad",
+   "kind": "reddit",
+   "source": "r/investing",
+   "author": "/u/Tricky-External7600",
+   "title": "Nvidia stock is undervalued and headed ⬆️⬆️⬆️",
+   "excerpt": "I just wanted to say this before it happens. The earnings call is later today after the close. If I had money to invest I would but social clout is a form of Currency as well. It’s undervalued. We’re on the other side of the “V” and it’s headed up up up submitted by /u/Tricky-External7600 to r/investing [link] [comments]",
+   "url": "https://www.reddit.com/r/investing/comments/1xylxx5/nvidia_stock_is_undervalued_and_headed/",
+   "published": "2026-11-17T14:32:53+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "5ec1d00621f56ef5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Forget SCHD: 4 Dividend Stocks Retirees Should Own Instead",
+   "excerpt": "SCHD anchors countless retirement portfolios, yet its payout barely budged this past year while living costs kept climbing. Four household-name stocks promise faster raises, but each carries a risk that could undo the plan.",
+   "url": "https://247wallst.com/investing/etf/2026/11/17/forget-schd-4-dividend-stocks-retirees-should-own-instead-2/?.tsrc=rss",
+   "published": "2026-11-17T14:30:53+00:00",
+   "tickers": [
+    "SCHD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1d88d4a42389f7ac",
+   "kind": "youtube",
+   "source": "Brighter with Herbert",
+   "author": "Brighter with Herbert",
+   "title": "Wall Street Can't Keep Up With SpaceX! Here's Why!",
+   "excerpt": "SpaceX AI data centers are going up in about 5 months versus the usual 8 to 12, per SemiAnalysis, and Citi just raised its target again. Jeff Lutz is an ex Supply Chain C-Level Exec at several Fortune 100 companies like Google, Lenovo and Motorola. Currently running his own consulting firm. Follow Jeff Lutz on X: @theJeffLutz 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Own a Tesla? Get a free month of Full Self-Driving (Supervised) when you ",
+   "url": "https://www.youtube.com/watch?v=UMNFZ089-Lw",
+   "published": "2026-11-17T14:30:38+00:00",
+   "tickers": [
+    "TSLA",
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "c6456f4b7970b94e",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "How NVDA Earnings Will Move Wall Street; U.S. Tightens AI Chip Exports",
+   "excerpt": "With Nvidia (NVDA) earnings hitting the tape after Tuesday's opening bell, Kevin Hincks outlines the key movers he's watching not just in the report, but across Wall Street. The earnings come as the Mag 7 stock trades more than 30% under its all-time high and navigates leadership without Jensen Huang. Kevin adds that the company also faces tightening AI chip export restrictions as President Trump and China President Xi Jinping prepare to meet. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #earnings #ch",
+   "url": "https://www.youtube.com/watch?v=64mmxTxM8oE",
+   "published": "2026-11-17T14:30:22+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "36493a8e6da5f7e8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft Corporation (MSFT) Climbs Amid Broad-Based Growth Drivers",
+   "excerpt": "Baron Capital, an investment management company, released its Q3 2026 investor letter for the “Baron Durable Advantage Fund”. The letter can be downloaded here. In the quarter, the fund returned 2.2%, in line with the S&P 500’s 2.3%. Year to date, the fund is up 5.7%, trailing the index’s 12.8%. Notable developments in the quarter […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-climbs-amid-142912051.html?.tsrc=rss",
+   "published": "2026-11-17T14:29:12+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "cc85144e6cddb584",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Nvidia’s 26% Plunge Puts Wall Street on Edge Ahead of Earnings Tonight",
+   "excerpt": "Nvidia reports tonight with its stock sliding, its CEO under a cloud, and Treasury yields squeezing growth names. While Home Depot and Disney post solid results, one question decides whether your index fund survives the week.",
+   "url": "https://247wallst.com/investing/2026/11/17/stock-market-today-nvidias-26-plunge-puts-wall-street-on-edge-ahead-of-earnings-tonight/?.tsrc=rss",
+   "published": "2026-11-17T14:28:02+00:00",
+   "tickers": [
+    "NVDA",
+    "DIS"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "258dab633a8014fb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Omdia: Netflix Beats YouTube in Daily Viewing Time Across Four Latin American Markets",
+   "excerpt": "LONDON, November 17, 2026--Viewers spend significantly more time watching Netflix than YouTube, across four major Latin American markets, according to new Omdia analysis of Digital i data presented at MIP Cancun.",
+   "url": "https://finance.yahoo.com/media-advertising/articles/omdia-netflix-beats-youtube-daily-142800032.html?.tsrc=rss",
+   "published": "2026-11-17T14:28:00+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "e521ce40336d79e7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Global Markdown Risk Scoring Market Report 2026: Forecast to 2030 | Capitalize on 15.3% CAGR as IBM, Oracle, SAP, FICO and Zest AI Accelerate AI, Cloud and Predictive Analytics",
+   "excerpt": "Boost ROI with AI-led pricing, predictive demand models, real-time discount and inventory monitoring, scenario simulations, automated markdowns and promotion analysis.Dublin, Nov. 17, 2026 (GLOBE NEWSWIRE) -- \"Markdown Risk Scoring Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global markdown risk scoring market is experiencing rapid expansion as organizations adopt advanced analytics, automated monitoring and predictive modeling to improve risk management and deci",
+   "url": "https://finance.yahoo.com/technology/ai/articles/global-markdown-risk-scoring-market-142700071.html?.tsrc=rss",
+   "published": "2026-11-17T14:27:00+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
   {
    "id": "5d0100b3a90503a3",
    "kind": "news",
@@ -36,6 +989,54 @@
    "summary_tries": 1
   },
   {
+   "id": "85855adbdf271565",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tech Stocks Are Rising as Markets Await Nvidia Results",
+   "excerpt": "Good morning from London, where the new 007 is all anybody is talking about after Amazon unveiled Robert Pattinson as the next James Bond.",
+   "url": "https://finance.yahoo.com/m/2741e382-6856-3fed-a7aa-a353a7ec1a6d/tech-stocks-are-rising-as.html?.tsrc=rss",
+   "published": "2026-11-17T14:24:13+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "685bf7c9f5886566",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Global Retail Technology Market Report 2026 | Capitalize on AI, Cloud and Omnichannel Demand as Microsoft, Oracle, Salesforce and SAP Drive the Market to $338.55B by 2030",
+   "excerpt": "Boost ROI with AI analytics, cloud omnichannel platforms, automated inventory, digital payments, self-service POS and loyalty tools to improve efficiency and engagement.Dublin, Nov. 17, 2026 (GLOBE NEWSWIRE) -- \"Retail Technology Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global retail technology market is experiencing strong growth as retailers invest in digital payment systems, automation, e-commerce capabilities and personalized customer experiences. The mark",
+   "url": "https://finance.yahoo.com/technology/articles/global-retail-technology-market-report-142400930.html?.tsrc=rss",
+   "published": "2026-11-17T14:24:00+00:00",
+   "tickers": [
+    "MSFT",
+    "ORCL",
+    "CRM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "62d911b50dc2bc19",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Which Tech Stock Is a Better Buy for 2027?",
+   "excerpt": "Applied Materials dominates chip equipment while TSMC rules foundry manufacturing, but their valuations and risk profiles tell very different stories for 2027.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/17/applied-materials-vs-taiwan-semiconductor-manufacturing-which-tech-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-17T14:23:02+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "1eba059837a60feb",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -52,12 +1053,27 @@
    "summary_tries": 1
   },
   {
+   "id": "b3388b6d01f4cae8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Buy Micron Stock Before Dec. 9?",
+   "excerpt": "Micron is allowed to begin buying back stock on Dec. 9.",
+   "url": "https://www.fool.com/investing/2026/11/17/should-you-buy-micron-stock-before-dec-9/?.tsrc=rss",
+   "published": "2026-11-17T14:20:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "428dc7c8db53842a",
    "kind": "news",
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
    "title": "Nio Is Down 45% This Year. What Will It Take to Get NIO Stock Back to $5?",
-   "excerpt": "Chinese electric vehicle (EV) maker Nio (NYSE:NIO) has tightened its operations this year, yet it has received little credit from the market. Nio stock is at $2.82, up 4% in morning trading. That bounce still leaves Nio stock down 45% year to date (YTD), measured from its $5.10 close at the end of 2025. Getting […]",
+   "excerpt": "Nio has stopped burning cash and posted operating gains, yet the market still refuses to reward it. Three numbers in the December 1 earnings report could decide whether the stock finally breaks free of its Chinese EV rivals' shadow.",
    "url": "https://247wallst.com/investing/2026/11/17/nio-is-down-45-this-year-what-will-it-take-to-get-nio-stock-back-to-5/?.tsrc=rss",
    "published": "2026-11-17T14:19:40+00:00",
    "tickers": [
@@ -113,22 +1129,6 @@
    "tickers": [
     "GOOGL",
     "AMZN"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
-  },
-  {
-   "id": "d83bbf2f8813ce76",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Market Today: Dow Slides After Surprise Retail Sales; Nvidia Rises With Earnings On Tap (Live Coverage)",
-   "excerpt": "The Dow Jones index dropped Tuesday after surprise retail sales data. Nvidia stock bounced before its earnings report.",
-   "url": "https://finance.yahoo.com/m/0c9330f2-68c3-38ef-9244-7dbdfd0853b7/stock-market-today%3A-dow.html?.tsrc=rss",
-   "published": "2026-11-17T14:18:37+00:00",
-   "tickers": [
-    "NVDA"
    ],
    "summary_ko": null,
    "tone": null,
@@ -197,6 +1197,408 @@
    "tone": null
   },
   {
+   "id": "29abfa61cdee8de8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Avis Budget Stock Jump 50%?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/car/articles/625728/can-avis-budget-stock-jump-50/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:44+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "ee0767ad321e627e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Has McDonald's Stock Become A Different Bet?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/mcd/articles/625736/has-mcdonalds-stock-become-a-different-bet/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:44+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "73e4d5099ee2a41b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Subscriptions Lift Snap Stock Nearly 50%?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/snap/articles/625731/can-subscriptions-lift-snap-stock-nearly-50/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:44+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "4eb6bc82569c35b3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Qualcomm Stock Jump 40%?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/qcom/articles/625730/can-qualcomm-stock-jump-40/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:44+00:00",
+   "tickers": [
+    "NVDA",
+    "QCOM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "fa006ff954d034d0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Regeneron Stock Hit $1,400?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/regn/articles/625709/can-regeneron-stock-hit-1400/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:44+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "71dad9211eca48ff",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Everybody Paying A Premium For AMD Stock?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/amd/articles/625705/why-is-everybody-paying-a-premium-for-amd-stock/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:43+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "da2484142e8e552e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Buy And Hold Airbnb Stock Now?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/abnb/articles/625708/should-you-buy-and-hold-airbnb-stock-now/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:43+00:00",
+   "tickers": [
+    "NVDA",
+    "ABNB"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "e1f08801ea9d09f5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "One Reason Lululemon Stock Looks Better Than Its Price",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/lulu/articles/625725/one-reason-lululemon-stock-looks-better-than-its-price/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:43+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "8781c7de7e007f27",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet Stock Down Nearly 17%: What Decides It Now?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/googl/articles/625697/alphabet-stock-down-nearly-17-what-decides-it-now/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:42+00:00",
+   "tickers": [
+    "NVDA",
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "46ad16c981113776",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Own Amazon Or Alphabet? You Already Own Some Anthropic",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/amzn/articles/625608/own-amazon-or-alphabet-you-already-own-some-anthropic/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:42+00:00",
+   "tickers": [
+    "NVDA",
+    "GOOGL",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "0ad4576bad87c97b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Occidental's Debt Cut Means For Its Stock",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/oxy/articles/625684/what-occidentals-debt-cut-means-for-its-stock/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "21aefa856938c405",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cloudflare Stock At 38x Sales Faces A Margin Slide",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/net/articles/625676/cloudflare-stock-at-38x-sales-faces-a-margin-slide/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:41+00:00",
+   "tickers": [
+    "NVDA",
+    "NET"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "2ef1ba6dccc4b464",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Trade Desk Stock Double From Here?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/ttd/articles/625662/can-trade-desk-stock-double-from-here/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "d2153dc488b84f61",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should ADP Stock Holders Look At Paychex Instead?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/adp/articles/625646/should-adp-stock-holders-look-at-paychex-instead/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "eeed33cf80eeee36",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ServiceNow's Cash Yield Trails The 10-Year Treasury",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/now/articles/625638/servicenow-s-cash-yield-trails-the-10-year-treasury/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "90eee86b7b34a9ce",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Comcast Stock Up 17%, Still Losing Internet Customers",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/cmcsa/articles/625659/comcast-stock-up-17-still-losing-internet-customers/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "c700f7059802d42b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Does Molina Healthcare Stock's Run Make Any Sense?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/moh/articles/625658/does-molina-healthcare-stocks-run-make-any-sense/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "cdccfaed9ec22ec6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Lockheed Martin Stock Riskier Than It Looks?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/lmt/articles/625675/is-lockheed-martin-stock-riskier-than-it-looks/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "cfd352d798f0ed80",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Pay More For Exxon Mobil Stock Than Chevron?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/xom/articles/625652/why-pay-more-for-exxon-mobil-stock-than-chevron/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:41+00:00",
+   "tickers": [
+    "NVDA",
+    "XOM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "dee2ef87985105e0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Chevron Stock Overpriced Versus Its Oil Rivals?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/cvx/articles/625664/is-chevron-stock-overpriced-versus-its-oil-rivals/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "367fee7c079c86b7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Archer Aviation Stock 2x From Here?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/achr/articles/625677/can-archer-aviation-stock-2x-from-here/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "d745a1cb034f40dc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Own Tesla? You Own A 95% Bet Beyond Cars",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/tsla/articles/625632/own-tesla-you-own-a-95-bet-beyond-cars/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:40+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "c47dcc2b464c4e84",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Palantir Stock Double From Here?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/pltr/articles/625619/can-palantir-stock-double-from-here/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:40+00:00",
+   "tickers": [
+    "NVDA",
+    "PLTR"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "e74f9b827408f5da",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cisco Is Cheaper, Arista Is The Better Business",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/csco/articles/625629/cisco-is-cheaper-arista-is-the-better-business/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:40+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "a75aa0d6caa564ff",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Buy Pfizer Stock For Its Cash?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/pfe/articles/625640/should-you-buy-pfizer-stock-for-its-cash-2/2026-11-17?.tsrc=rss",
+   "published": "2026-11-17T14:13:40+00:00",
+   "tickers": [
+    "NVDA",
+    "PFE"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "df7ca8479ac68b84",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Sold a Quarter of Its Intel Stake",
+   "excerpt": "In the third quarter, Nvidia made some changes to its portfolio of publicly-held equities.",
+   "url": "https://finance.yahoo.com/m/72d9b9ec-3469-3cc9-ac67-6107dee522b2/nvidia-sold-a-quarter-of-its.html?.tsrc=rss",
+   "published": "2026-11-17T14:13:01+00:00",
+   "tickers": [
+    "NVDA",
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "3ed24b3ae7c2934b",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -208,6 +1610,21 @@
    "tickers": [
     "AMZN",
     "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "819c4dd9768bd97d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Launches Committe on Export Controls Amid Scrutiny",
+   "excerpt": "Nvidia said Tuesday it formed a board committee to oversee export controls as the chip maker faces scrutiny over how much of its hardware has reached Chinese customers.",
+   "url": "https://finance.yahoo.com/m/9498d06d-449d-3830-9bb4-905bf68ecbc7/nvidia-launches-committe-on.html?.tsrc=rss",
+   "published": "2026-11-17T14:10:15+00:00",
+   "tickers": [
+    "NVDA"
    ],
    "summary_ko": null,
    "tone": null
@@ -340,6 +1757,23 @@
     "다른 대형 기술주들과 달리 엔비디아가 정치적 영향력이나 정계 진입 측면에서 빠르게 성장했는지에 대한 의문을 제기했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "9c5f94ccb679b73d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia, Intel, SpaceX, Anthropic, Disney, Home Depot, and More That Explains Today’s Market",
+   "excerpt": "Nvidia rises ahead of third-quarter earnings scheduled for after the closing bell Tuesday.",
+   "url": "https://finance.yahoo.com/m/5d4c8ff4-57bc-3350-b217-681441a4f8b3/nvidia%2C-intel%2C-spacex%2C.html?.tsrc=rss",
+   "published": "2026-11-17T14:03:00+00:00",
+   "tickers": [
+    "NVDA",
+    "INTC",
+    "DIS"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "05f5c5ca93094ec0",
@@ -498,6 +1932,22 @@
    "tone": null
   },
   {
+   "id": "b04b5c5c8da48bc2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Secure Code Warrior Research Finds Curated Security Rule Sets Cut Measured Risk in AI-Generated Code by Up to 70%",
+   "excerpt": "SYDNEY & BOSTON & LONDON, November 17, 2026--Secure Code Warrior, a leader in AI software governance and secure coding training, today released the second wave of findings from the SCW AI Trust Index, a living benchmark that measures how often leading AI models generate code with security vulnerabilities. After evaluating more than 30 models from OpenAI, Anthropic, Google, Alibaba, Mistral and others, the research found that AI models have improved in the last 12 months, write markedly less vuln",
+   "url": "https://finance.yahoo.com/technology/ai/articles/secure-code-warrior-research-finds-140000866.html?.tsrc=rss",
+   "published": "2026-11-17T14:00:00+00:00",
+   "tickers": [
+    "GOOGL",
+    "BABA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "61cdc8d634f788b2",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -637,6 +2087,66 @@
    "tone": null
   },
   {
+   "id": "e7a99d056fca0820",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Company News for Nov 17, 2026",
+   "excerpt": "Companies in The News Are; ARMK,TSN,AMD,CRWV",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-nov-17-2026-134700333.html?.tsrc=rss",
+   "published": "2026-11-17T13:47:00+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "a224241715a6c6e8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron Just Lost a Big Hedge Fund Backer. Why That’s a Win for the Stock.",
+   "excerpt": "Micron stock was sold by AI hedge fund Situational Awareness in the third quarter. It could be a boon for the memory-chip company.",
+   "url": "https://finance.yahoo.com/m/8de18bcc-f636-3e12-8e8b-a141738198d9/micron-just-lost-a-big-hedge.html?.tsrc=rss",
+   "published": "2026-11-17T13:47:00+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1bb7a126ccbfa912",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Starbucks' AI-Powered Drive-Thru: Can Technology Improve Efficiency?",
+   "excerpt": "SBUX is testing AI-powered drive-thru technology to improve order accuracy, speed service and boost efficiency as part of its broader modernization strategy.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/starbucks-ai-powered-drive-thru-134600464.html?.tsrc=rss",
+   "published": "2026-11-17T13:46:00+00:00",
+   "tickers": [
+    "SBUX"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "ef5d591776c1ebe5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan Names Bank Insider Bregje de Best as Next Chief Financial Officer",
+   "excerpt": "Jeremy Barnum steps down after six years as the bank’s finance chief.",
+   "url": "https://finance.yahoo.com/m/f0503c00-0292-3544-abde-0fb5e7ae5e9e/jpmorgan-names-bank-insider.html?.tsrc=rss",
+   "published": "2026-11-17T13:46:00+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "ef368cdeb71c0544",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -699,6 +2209,21 @@
    "tone": null
   },
   {
+   "id": "3d8567d7bc0613db",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is UnitedHealth Group (UNH) Stock Outpacing Its Medical Peers This Year?",
+   "excerpt": "Here is how UnitedHealth Group (UNH) and Alto Neuroscience, Inc. (ANRO) have performed compared to their sector so far this year.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-unh-stock-outpacing-134004302.html?.tsrc=rss",
+   "published": "2026-11-17T13:40:04+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "2f68ef3d4e8ce03c",
    "kind": "reddit",
    "source": "r/wallstreetbets",
@@ -732,6 +2257,22 @@
     "엔비디아, 디즈니, 홈디포의 실적 발표와 트럼프 대통령과 시진핑 주석의 회동 소식을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "a752eded805bf204",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Costco Hot Dog or Nvidia GPUs? Midera Earnings Top the Street.",
+   "excerpt": "Midera reported third-quarter Ebitda of $43 million from sales of $229 million. Wall Street was looking for $38 million and $220 million, respectively.",
+   "url": "https://finance.yahoo.com/m/a396bd11-6b53-378b-9d92-7f5ec57e2735/costco-hot-dog-or-nvidia.html?.tsrc=rss",
+   "published": "2026-11-17T13:37:00+00:00",
+   "tickers": [
+    "NVDA",
+    "COST"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "7f5488c9a657b857",
@@ -822,6 +2363,36 @@
    "tone": "neu"
   },
   {
+   "id": "3d9a388204e95c85",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney (DIS) Reports Q4 Earnings: What Key Metrics Have to Say",
+   "excerpt": "The headline numbers for Disney (DIS) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/disney-dis-reports-q4-earnings-133003704.html?.tsrc=rss",
+   "published": "2026-11-17T13:30:03+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "383e9f548e26153e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Wall Street Analysts See Walmart (WMT) as a Buy: Should You Invest?",
+   "excerpt": "Based on the average brokerage recommendation (ABR), Walmart (WMT) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-walmart-133003972.html?.tsrc=rss",
+   "published": "2026-11-17T13:30:03+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "1018cfa93bf0e57d",
    "kind": "youtube",
    "source": "Stock Moe",
@@ -885,6 +2456,36 @@
    "tone": null
   },
   {
+   "id": "c30648e17a49b47c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Stock Is Falling After Parting Blow From Jensen Huang",
+   "excerpt": "The chip maker's shares have slumped more than 50% since the start of October.",
+   "url": "https://finance.yahoo.com/m/88a77f9e-b266-31cb-8d20-56c4fec6786d/intel-stock-is-falling-after.html?.tsrc=rss",
+   "published": "2026-11-17T13:27:00+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "050c23786a6f0d5f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Disney Stock Is Falling After CEO D’Amaro’s Magical Earnings",
+   "excerpt": "The theme park and streaming company beats estimates on fourth-quarter earnings and lays out a plan to cut costs by $3 billion by fiscal 2029.",
+   "url": "https://finance.yahoo.com/m/5038f047-1921-3c36-94c8-6577fa1ad761/why-disney-stock-is-falling.html?.tsrc=rss",
+   "published": "2026-11-17T13:26:00+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "59e1cfca1407b10f",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -910,6 +2511,21 @@
    "published": "2026-11-17T13:25:00+00:00",
    "tickers": [
     "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "a13196739499e5cf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ASML vs. Lam Research: Which Chipmaking Stock is the Better Buy Now?",
+   "excerpt": "ASML and LRCX are riding AI-driven chip demand, but differences in growth prospects, valuation and earnings estimates make one a better investment pick.",
+   "url": "https://finance.yahoo.com/technology/articles/asml-vs-lam-research-chipmaking-132500259.html?.tsrc=rss",
+   "published": "2026-11-17T13:25:00+00:00",
+   "tickers": [
+    "ASML"
    ],
    "summary_ko": null,
    "tone": null
@@ -1738,69 +3354,6 @@
    "tone": null
   },
   {
-   "id": "b518e7b4992e13c6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Are Apple Investors Betting On?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/aapl/articles/625738/what-are-apple-investors-betting-on/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T12:28:38+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "ba0fbfd3401c7490",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Should You Buy SanDisk Stock After Its 50% Slide?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/sndk/articles/625742/should-you-buy-sandisk-stock-after-its-50-slide/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T12:28:38+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "43fd54aed5281646",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Uber Now Touts $10 Billion Cash, Not Trip Growth",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/uber/articles/625740/uber-now-touts-10-billion-cash-not-trip-growth/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T12:28:38+00:00",
-   "tickers": [
-    "NVDA",
-    "UBER"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "fcc50c71bbed788e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Would A Short Seller Say About Boeing?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/ba/articles/625757/what-would-a-short-seller-say-about-boeing/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T12:28:38+00:00",
-   "tickers": [
-    "NVDA",
-    "BA"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
    "id": "d7060b6b004a53d4",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1892,82 +3445,6 @@
    "tickers": [
     "AMZN",
     "BA"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "f45aa749482f9077",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Netflix Stock Down 47%: Too Early To Buy?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/nflx/articles/625752/netflix-stock-down-47-too-early-to-buy/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T12:19:01+00:00",
-   "tickers": [
-    "NVDA",
-    "NFLX"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "23ea172bdf803e1f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Would Higher Interest Rates Do To CoreWeave Stock?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/crwv/articles/625748/what-would-higher-interest-rates-do-to-coreweave-stock/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T12:19:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "29abfa61cdee8de8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Can Avis Budget Stock Jump 50%?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/car/articles/625728/can-avis-budget-stock-jump-50/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T12:19:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "ee0767ad321e627e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Has McDonald's Stock Become A Different Bet?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/mcd/articles/625736/has-mcdonalds-stock-become-a-different-bet/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T12:19:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "f7f40364771069b1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Merck Stock's $1.3 Billion China Problem Goes Quiet",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/mrk/articles/625733/merck-stocks-1-3-billion-china-problem-goes-quiet/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T12:19:01+00:00",
-   "tickers": [
-    "NVDA"
    ],
    "summary_ko": null,
    "tone": null
@@ -2630,21 +4107,6 @@
    "tickers": [
     "NVDA",
     "JOBY"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "21aefa856938c405",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cloudflare Stock At 38x Sales Faces A Margin Slide",
-   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://www.trefis.com/stock/net/articles/625676/cloudflare-stock-at-38x-sales-faces-a-margin-slide/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T11:29:45+00:00",
-   "tickers": [
-    "NET"
    ],
    "summary_ko": null,
    "tone": null
@@ -3575,7 +5037,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "e11a489e76ecdd41",
@@ -3681,7 +5143,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "bb21adf84b17dd4d",
@@ -3802,7 +5264,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "98b3330b6db29bc5",
@@ -3850,7 +5312,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "24eb0dcdeb3089fd",
@@ -4056,7 +5518,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "89fea0a70da8bc8b",
@@ -4291,7 +5753,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "a273d6ac53c55683",
@@ -30502,57 +31964,6 @@
    ],
    "summary_ko": null,
    "tone": null
-  },
-  {
-   "id": "bd8c04fca2f61cca",
-   "kind": "youtube",
-   "source": "Chip Stock Investor",
-   "author": "Chip Stock Investor",
-   "title": "AI Trade Crash & Nvidia Scandal: What Comes Next?",
-   "excerpt": "Nvidia stock: Is the Jensen Huang scandal a threat to the investment thesis, or is the real risk regulatory? In this video: what’s on Nvidia’s calendar next week (Q3 earnings on Nov 17 and a closed-door congressional briefing on Nov 18), what the board’s independent investigation says about governance, and which companies could feel the ripple effects. The AI trade selloff got messier over the weekend. House committee chairs asked Jensen Huang to appear at a closed-door briefing about his relationship with Alice Huang and Megaspeed, after reports alleging she has ties to Chinese intelligence. Nvidia’s board then launched an independent investigation overseen by outside counsel. We think it’s too early to call a hit to Nvidia’s financials or market share, since data center demand isn’t goin",
-   "url": "https://www.youtube.com/watch?v=wECfxtBCg2w",
-   "published": "2026-11-10T15:00:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 젠슨 황 관련 스캔들과 이사회의 독립 조사 착수를 다뤘다.",
-    "다가오는 3분기 실적 발표와 의회 비공개 브리핑 일정을 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "43db76cbcc2e5e2e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AppLovin: 3 Key Takeaways for Long-Term Investors",
-   "excerpt": "AppLovin's architecture overhaul is still in progress, so the payoff from the new AI models remains unproven for long-term holders.",
-   "url": "https://www.fool.com/earnings/takeaways/2026/11/10/applovin-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-   "published": "2026-11-10T14:43:20+00:00",
-   "tickers": [
-    "APP"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "8f763dbf02c3e6fc",
-   "kind": "youtube",
-   "source": "Brighter with Herbert",
-   "author": "Brighter with Herbert",
-   "title": "Could The Texas Freeze Actually Help SpaceX?",
-   "excerpt": "SpaceX data centers: Chamath Palihapitiya argues a proposed Texas freeze could help companies that already own AI compute. Jeff Lutz is an ex Supply Chain C-Level Exec at several Fortune 100 companies like Google, Lenovo and Motorola. Currently running his own consulting firm. Follow Jeff Lutz on X: @theJeffLutz 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Own a Tesla? Get a free month of Full Self-Driving (Supervised) when you use my link. ━",
-   "url": "https://www.youtube.com/watch?v=4JFkot2vIMs",
-   "published": "2026-11-10T14:30:34+00:00",
-   "tickers": [
-    "TSLA",
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "텍사스의 동결 조치가 AI 연산 자산을 보유한 기업에 도움이 될 수 있다고 언급했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
