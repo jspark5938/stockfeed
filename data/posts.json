@@ -1,6 +1,252 @@
 {
- "updated": "2026-11-17T20:30:35.140915+00:00",
+ "updated": "2026-11-17T21:00:39.626545+00:00",
  "posts": [
+  {
+   "id": "1eab39b4ea2b6c8a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney earnings analysis: questions answered and next catalysts",
+   "excerpt": "Investing.com -- Walt Disney Company (DIS) reported FY2026 Q4 today, Nov 17, 2026. It beat on both lines: EPS of $1.77 vs $1.68 expected (+5.36%) and revenue of $25.95B vs $25.21B. The stock was still at $116.82 (-1.58%) as of Nov 17, 3:19 PM EST. That is about 5% below the $122.72 52-week high set today, and the intraday range suggests early buying was sold into.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/disney-earnings-analysis-questions-answered-205138736.html?.tsrc=rss",
+   "published": "2026-11-17T20:51:38+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": [
+    "월트 디즈니가 2026 회계연도 4분기 실적에서 주당순이익(EPS)과 매출 모두 예상치를 상회했다고 발표했다.",
+    "호실적 발표에도 불구하고 주가는 52주 최고가 대비 낮은 수준에서 거래되었다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2f7e7a54a19811fa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Update: US Equity Indexes Slump as Investors Lighten Up Ahead of Nvidia's Fiscal Q3 Results",
+   "excerpt": "(Updates with index/price moves from the first paragraph.) US equity indexes dropped amid a broad",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slump-investors-205101076.html?.tsrc=rss",
+   "published": "2026-11-17T20:51:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 3분기 실적 발표를 앞두고 투자자들이 위험 관리에 나서면서 미국 증시 지수가 하락했다고 보도했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "663e1b45772b6ef2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Worried About Nvidia? 3 Artificial Intelligence (AI) Stocks That May Be Safer Buys Right Now",
+   "excerpt": "These stocks have tremendous growth potential due to AI, modest valuations, and have less risk than Nvidia these days.",
+   "url": "https://www.fool.com/investing/2026/11/17/worried-about-nvidia-3-artificial-intelligence-ai-stocks-that-may-be-safer-buys-right-now/?.tsrc=rss",
+   "published": "2026-11-17T20:50:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아에 대한 우려 속에서 상대적으로 위험이 적고 밸류에이션이 낮으며 AI 성장 잠재력이 있는 3개 종목을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "5939d50456a13a06",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Berkshire Hathaway Slashes This Top 5 Stock; Nvidia Boosts SpaceX",
+   "excerpt": "Berkshire Hathaway detailed Q3 buys and sells in a 13F filing late Monday. SpaceX stock popped.",
+   "url": "https://finance.yahoo.com/m/481d5163-b671-396e-a2dc-5c0e57fb9c0b/berkshire-hathaway-slashes.html?.tsrc=rss",
+   "published": "2026-11-17T20:49:45+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "버크셔 해서웨이가 13F 공시를 통해 3분기 주요 주식 매수 및 매도 내역을 공개했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fd933e9ccc1eedac",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "California AG Rob Bonta Highlights ‘Red Flags’ In His Investigation Into Nvidia And Jensen Huang",
+   "excerpt": "Bonta said in an interview to Bloomberg TV that his office was in the process of determining whether “the law and facts justify” taking action on an ongoing scandal involving Jensen Huang.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/california-ag-rob-bonta-highlights-red-flags-in-his-investigation-into-nvidia-and-jensen-huang/cNbO44MR9hO?.tsrc=rss",
+   "published": "2026-11-17T20:47:04+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캘리포니아주 법무장관이 엔비디아와 젠슨 황 CEO를 둘러싼 스캔들과 관련해 법적 조치 여부를 검토 중이라고 밝혔다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "42e919d15655587e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Muddy Waters shorts Nvidia, raises questions about possible executive connection",
+   "excerpt": "Investing.com -- Nvidia (NASDAQ: NVDA) is facing another layer of scrutiny as short seller Muddy Waters disclosed a short position in the chipmaker, raising questions about a possible connection between former Nvidia executive Ajay K. Puri and former Super Micro Computer (NASDAQ: SMCI) Chief Growth Officer Cenly Chen.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/muddy-waters-shorts-nvidia-raises-204312743.html?.tsrc=rss",
+   "published": "2026-11-17T20:43:12+00:00",
+   "tickers": [
+    "NVDA",
+    "SMCI"
+   ],
+   "summary_ko": [
+    "공매도 업체 머디 워터스가 엔비디아 주식을 공매도했다고 밝혔다.",
+    "엔비디아 전직 임원과 슈퍼마이크로 컴퓨터 전직 고위 임원 간의 연계 가능성에 대해 의문을 제기했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "1e8f70adc7335f95",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms",
+   "excerpt": "CHICAGO, November 17, 2026--At SC26, ASUS unveils a unified AI Factory blueprint that gives enterprises the flexibility to build AI infrastructure around their workloads, performance targets, and deployment needs. Spanning AMD, Intel and NVIDIA platforms — from rack-scale AI systems and enterprise servers to edge computing — ASUS brings architectural choice together with integrated engineering, automated manufacturing, rigorous validation, and lifecycle support. With volume shipments of its late",
+   "url": "https://finance.yahoo.com/technology/ai/articles/asus-showcases-full-stack-ai-204300656.html?.tsrc=rss",
+   "published": "2026-11-17T20:43:00+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD",
+    "INTC"
+   ],
+   "summary_ko": [
+    "아수스가 SC26에서 AMD, 인텔, 엔비디아 플랫폼을 아우르는 AI 인프라 청사진을 공개했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "16471e3b592b12bf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike Sinks 7% as Investor Day Warns Fiscal 2028 Will Be a “Challenging Year Financially”",
+   "excerpt": "Key TakeawaysNike sank 7% today after saying fiscal 2028 adjusted EPS will fall modestly. Nike’s 2031 targets look cheap, but a down year comes first.",
+   "url": "https://www.tikr.com/blog/nike-sinks-7-as-investor-day-warns-fiscal-2028-will-be-a-challenging-year-financially?ref=yahoofinance&tlnk=yf-261117-36795rwc&.tsrc=rss",
+   "published": "2026-11-17T20:42:24+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키가 2028 회계연도가 재정적으로 도전적인 해가 될 것이라고 경고한 뒤 주가가 하락했다고 보도했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "cb1d779b4ca53690",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SpaceX “Off Balance Sheet” Debt for AI Chips Hits the Market This Week. Here’s Where Things Get Interesting",
+   "excerpt": "Key TakeawaysSome of a $40 billion debt package to buy Nvidia chips for SpaceX could go on sale as soon as this week, Bloomberg reported. The debt sits in a separate vehicle off SpaceX’s balance sheet, and critics like Ed Zitron want that kind of deal regulated away.",
+   "url": "https://www.tikr.com/blog/spacex-off-balance-sheet-debt-for-ai-chips-hits-the-market-this-week-heres-where-things-get-interesting?ref=yahoofinance&tlnk=yf-261117-gxghfqfw&.tsrc=rss",
+   "published": "2026-11-17T20:35:43+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "스페이스X가 엔비디아 칩 구매를 위해 장부 외 자금으로 40억 달러 규모의 부채 패키지를 추진 중이라고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2afb253794d97bbd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft's AI pitch at Ignite: Cheaper models as business 'token spend is going through the roof'",
+   "excerpt": "Microsoft rolled out new features to its AI initiative and products during its flagship conference on Tuesday. One theme was keeping enterprise costs down.",
+   "url": "https://finance.yahoo.com/markets/article/microsoft-ignite-focuses-on-ai-models-for-specific-tasks-lowering-costs-for-enterprise-203433266.html?.tsrc=rss",
+   "published": "2026-11-17T20:34:33+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트가 연례 행사에서 기업들의 AI 비용 부담을 낮추기 위한 저렴한 모델 등 새로운 AI 기능을 선보였다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "cc8218872d88d397",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "What to expect from Trump's trip to the APEC meeting in China",
+   "excerpt": "President Donald Trump is headed to Shenzhen, China for the APEC meeting on the heels of Nvidia CEO Jensen Huang’s scandal and a bruising midterm defeat for Republicans. The trip could include discussions on AI policy and trade, plus a historic trilateral meeting between Trump, Chinese President Xi Jinping and Russian President Vladimir Putin. CNBC’s Eunice Yoon breaks down what to watch.",
+   "url": "https://www.youtube.com/watch?v=ywsc1Lyw0rA",
+   "published": "2026-11-17T20:30:27+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프 대통령이 APEC 회의 참석을 위해 중국 선전으로 향할 예정이라고 전했다.",
+    "이번 방문에서는 AI 정책과 무역 논의를 비롯해 미·중·러 정상 간의 삼자 회담 가능성이 다뤄질 것이라고 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fdc4c00c262cfae3",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Trump Seeks $50B for Airspace Fixes",
+   "excerpt": "On the early edition of Balance of Power, Bloomberg Washington Correspondents Joe Mathieu and Kailey Leinz discuss the latest from DC. On today’s show, Rep. Mike Flood (R-NE), Stonecourt Capital Partner Rick Davis, Harvard Kennedy School Ash Center Visiting Democracy Fellow Jeanne Sheehan Zaino and former National Transportation Safety Board Member John Goglia. Chapters: 00:00:00 Radio Balance of Power: Early Edition 00:02:31 Markets Ahead of Nvidia Earnings 00:05:31 Trump Responds to Recent Tech Outages 00:06:21 Trump's Asia Trip & the Quad Alliance 00:07:28 China, AI Chips & Export Restrictions 00:10:04 Congress Faces Government Funding Deadline 00:12:48 FAA Funding & Air Traffic Control Upgrades 00:15:12 Jim Jordan & Republican Leadership 00:19:01 Markets: Nvidia Falls Ahead of Earnings",
+   "url": "https://www.youtube.com/watch?v=84-LigUfoQY",
+   "published": "2026-11-17T20:30:27+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "블룸버그 통신이 워싱턴 소식과 함께 엔비디아 실적 발표를 앞둔 시장 동향을 다뤘다.",
+    "트럼프의 아시아 순방 및 AI 칩 수출 제한 조치 등 다양한 정치·경제 현안이 논의되었다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "47375c8cc791ed48",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Micron Down? GF Securities Warns a “NAND Glut” Could Hit in 2027",
+   "excerpt": "Key TakeawaysMicron fell 3% today after GF Securities forecast NAND prices falling in three of 2027’s four quarters, and Sandisk fell with it. Sandisk is the most exposed, but analysts still expect its revenue to grow through June 2028, when GF expects prices to be falling.",
+   "url": "https://www.tikr.com/blog/why-is-micron-down-gf-securities-warns-a-nand-glut-could-hit-in-2027?ref=yahoofinance&tlnk=yf-261117-7qfq4x2g&.tsrc=rss",
+   "published": "2026-11-17T20:30:21+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "GF증권이 2027년 낸드플래시 공급 과잉을 경고한 후 마이크론 주가가 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "b603b1dc4b1304c6",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Strive CRO on Binance Hack, Quantum Computing Risks, Crypto Pullback",
+   "excerpt": "Jeff Walton with Strive discusses the ongoing decline in the crypto market, largely attributing the pullback to reallocation as the dollar strengthens and equities remain volatile. He also weighs in on the recent Binance hack, which he believes may have rattled investors, and discusses the potential risks posed by quantum computing. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #bitcoin #crypto #blockchain #ethereum #binance #cryptocurrency #cryptotrading #cryptonews #volatility #ai #artificialintelligence #in",
+   "url": "https://www.youtube.com/watch?v=8Gi9ob_uLbc",
+   "published": "2026-11-17T20:30:08+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "스트라이프 관계자가 최근 가상자산 시장의 하락세와 바이낸스 해킹 사건에 대해 언급했다.",
+    "달러 강세와 증시 변동성 속에서 자산 재분배가 하락의 주요 원인일 수 있다고 주장했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "ec0a5dadd41b36b2",
    "kind": "youtube",
@@ -15,6 +261,58 @@
    ],
    "summary_ko": [
     "엔비디아의 실적 발표와 관련된 내용을 다루고 있다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "7d30acbed61130fc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft’s “Next Leg” Is Charging 500 Million Office Users More, Says RBC Analyst",
+   "excerpt": "Key TakeawaysAnthropic is giving away Office-style tools, but RBC analyst Rishi Jaluria says charging Microsoft’s roughly half a billion paying Office users more is the next leg of growth. Microsoft’s September quarter backs him up: Microsoft 365 commercial cloud revenue grew 17% while seats grew 5%.",
+   "url": "https://www.tikr.com/blog/microsofts-next-leg-is-charging-500-million-office-users-more-says-rbc-analyst?ref=yahoofinance&tlnk=yf-261117-3jj9g8fp&.tsrc=rss",
+   "published": "2026-11-17T20:26:03+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "RBC 애널리스트가 수억 명에 달하는 오피스 이용자들에게 추가 요금을 부과하는 것이 마이크로소프트의 다음 성장 동력이 될 것이라고 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7df0c4899dc83640",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Justice Department Is Investigating the Company at the Center of Nvidia’s Jensen Huang Scandal",
+   "excerpt": "The Justice and Commerce departments have confirmed a criminal investigation into Megaspeed.",
+   "url": "https://www.fool.com/investing/2026/11/17/the-justice-department-is-investigating-the-company-at-the-center-of-nvidia-s-jensen-huang-scandal/?.tsrc=rss",
+   "published": "2026-11-17T20:25:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "법무부와 상무부가 엔비디아의 젠슨 황 스캔들의 중심에 있는 기업에 대한 형사 수사를 확인했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "47716cfb7bda12f7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Street Wants “$130 Billion in Revenue” From Nvidia’s Guidance Tonight. Options Price a Nearly 7% Move",
+   "excerpt": "Key TakeawaysNVIDIA reports after the close tonight, and options price a move of nearly 7%, the biggest implied move into a report since February 2025. The Street wants guidance of about $130 billion for the January quarter, roughly $5 billion above what analysts’ full-year estimates already imply.",
+   "url": "https://www.tikr.com/blog/the-street-wants-130-billion-in-revenue-from-nvidias-guidance-tonight-options-price-a-nearly-7-move?ref=yahoofinance&tlnk=yf-261117-cxgpph8g&.tsrc=rss",
+   "published": "2026-11-17T20:25:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "시장은 엔비디아의 실적 발표를 앞두고 1,300억 달러의 가이던스를 원하고 있다고 전했다.",
+    "옵션 시장은 약 7%의 주가 변동을 가격에 반영하고 있다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -88,6 +386,24 @@
     "젠슨 황의 복귀 의사로 엔비디아 시가총액이 단시간에 급등했다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "e33b7e652b691eaa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "MercadoLibre vs. Shopify: Comparing Recent Revenue Scale and Growth Trajectories",
+   "excerpt": "MercadoLibre's quarterly sales have outpaced Shopify's in every period shown, but Shopify's year-end surges raise a question about whether the gap keeps widening.",
+   "url": "https://www.fool.com/coverage/charts/2026/11/17/mercadolibre-vs-shopify-comparing-recent-revenue-scale-and-growth-trajectories/?.tsrc=rss",
+   "published": "2026-11-17T20:20:02+00:00",
+   "tickers": [
+    "SHOP"
+   ],
+   "summary_ko": [
+    "메르카도리브레의 분기 매출이 쇼피지보다 지속적으로 앞섰다고 다뤘다.",
+    "다만 쇼피지의 연말 매출 급증으로 격차가 계속 벌어질지 의문이 제기된다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "6f5138d59a725f19",
@@ -284,6 +600,23 @@
     "이를 통해 성장하는 레이싱 관중과 브랜드를 연결하고자 한다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "6b64806f86fbba0b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Hackers target 178 major websites with crypto-stealing code",
+   "excerpt": "Scott Melker breaks down reports of malicious cryptocurrency-stealing code discovered across 178 major websites, including those associated with HSBC (HSBC), Salesforce (CRM), Zoom (ZM), and Ledger. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
+   "url": "https://finance.yahoo.com/video/hackers-target-178-major-websites-with-crypto-stealing-code-203311636.html?.tsrc=rss",
+   "published": "2026-11-17T20:00:00+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "178개의 주요 웹사이트가 암호화폐 탈취 코드의 표적이 되었다는 보도를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5014445b41a1f6e8",
@@ -2486,6 +2819,24 @@
    "tone": "neu"
   },
   {
+   "id": "52b255d518f86e14",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Fed’s first close look at the AI buildout finds $3 trillion of AI commitments that aren’t on big tech’s balance sheet as debt",
+   "excerpt": "Seven companies’ leases, contracts, and guarantees have grown faster than their debt. Nvidia reports earnings tonight without Jensen Huang.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/fed-first-close-look-ai-180000354.html?.tsrc=rss",
+   "published": "2026-11-17T18:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "연준의 조사 결과 빅테크의 부채로 잡히지 않은 3조 달러 규모의 AI 약정이 확인되었다고 다뤘다.",
+    "이들 7개 기업의 리스, 계약, 보증이 부채보다 더 빠르게 증가했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "1503c402e2a6c76d",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -3101,9 +3452,10 @@
    "tickers": [
     "NKE"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "RBC 캐피털 마켓은 나이키의 2031년 매출 목표가 단기적인 상승 여지를 거의 남겨두지 않는다고 경고했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "236fdb82c841d3f0",
@@ -3135,9 +3487,10 @@
     "TSLA",
     "UBER"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "일론 머스크는 테슬라 소유주의 로보택시 시험 운행이 다음 달에 시작될 수 있다고 언급했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b0f47950a83915ec",
@@ -3204,9 +3557,10 @@
     "GOOGL",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "젠슨 황의 퇴임 이후 경쟁 칩 메이커들이 엔비디아 고객을 잠식하고 있다고 보도했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "e9f563b4a18c6c50",
@@ -3220,9 +3574,10 @@
    "tickers": [
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "마이클 델이 아동 투자 계좌의 90% 이상이 청구되지 않았다고 밝힌 가운데 짐 크레이머가 지원에 나섰다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1c0fdd7e19862ff0",
@@ -3236,9 +3591,11 @@
    "tickers": [
     "LLY"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "일라이 릴리의 자체 시스템에서는 무단 접근이 발견되지 않았다고 전했다.",
+    "다만 갈취 집단은 환자 및 처방자 데이터를 보유하고 있다고 주장했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c2a99f46cd398d23",
@@ -3252,9 +3609,11 @@
    "tickers": [
     "LLY"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "일라이 릴리와 연계된 제삼자 공급업체가 데이터 침해를 당했다고 다뤘다.",
+    "릴리 측은 자체 시스템에 대한 무단 접근은 발견되지 않았다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "812cd2534f3927b9",
@@ -3303,9 +3662,10 @@
     "GOOGL",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "앤스로픽의 수정된 투자설명서에 따르면 아마존과 구글이 발행 주식의 최대 37.5%를 소유할 수 있다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "3c75ea0d32f95530",
@@ -3320,9 +3680,10 @@
     "GOOGL",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "아마존과 구글이 앤스로픽 주식의 상당 부분을 소유할 수 있다고 투자설명서에서 공개되었다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e617d9ea63836adf",
@@ -3336,9 +3697,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "엔비디아 주가가 50% 하락할 수 있는지에 대한 시장의 논점을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "52e2f75c6fa8c88d",
@@ -3352,9 +3714,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "엔비디아의 4분기 가이던스와 관련된 시나리오들을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ad2cd9758ca5bb33",
@@ -3370,7 +3733,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "16cd7e061f1bb0a0",
@@ -3406,7 +3769,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "32568325e3900972",
@@ -3581,7 +3944,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "f0e0fbd8dfe3d85e",
@@ -3597,7 +3960,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "fa7c7ebec64e289e",
@@ -3648,7 +4011,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "64a8fd7b24c99c3d",
@@ -3664,7 +4027,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "ec9932fda2b73ae6",
@@ -3697,7 +4060,8 @@
     "PLTR"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "777403c6ff2b7f50",
@@ -3713,7 +4077,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "9cf543b42d78ebf0",
@@ -3730,7 +4094,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "a596b25eae8dd98a",
@@ -3745,7 +4109,8 @@
     "META"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "1f759d407c049fb3",
@@ -3761,7 +4126,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "0030e23807a326d3",
@@ -3777,7 +4142,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "7633f1739efbddb6",
@@ -3793,7 +4158,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "842d65dfdb3f245a",
@@ -3809,7 +4174,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "4b22301216e46040",
@@ -3842,7 +4207,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "2bb3ce0ef4386e51",
@@ -5825,21 +6190,6 @@
    "tone": null
   },
   {
-   "id": "5939d50456a13a06",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Berkshire Hathaway Slashes This Top 5 Stock; Nvidia Boosts SpaceX",
-   "excerpt": "Berkshire Hathaway detailed Q3 buys and sells in a 13F filing late Monday. SpaceX stock popped.",
-   "url": "https://finance.yahoo.com/m/481d5163-b671-396e-a2dc-5c0e57fb9c0b/berkshire-hathaway-slashes.html?.tsrc=rss",
-   "published": "2026-11-17T15:35:54+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
    "id": "473323b3f60321ad",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -6746,6 +7096,21 @@
    "tone": null
   },
   {
+   "id": "6bc4cbb80a8f2496",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dear Palo Alto Networks Stock Fans, Mark Your Calendars for November 18",
+   "excerpt": "Palo Alto is approaching its Q1 FY2027 earnings day with a slightly bruised backdrop, and much is riding on its next earnings reveal.",
+   "url": "https://www.barchart.com/story/news/8877522/dear-palo-alto-networks-stock-fans-mark-your-calendars-for-november-18?.tsrc=rss",
+   "published": "2026-11-17T14:50:46+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "0aa214c39c959fd1",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -7620,7 +7985,7 @@
    "kind": "youtube",
    "source": "Brighter with Herbert",
    "author": "Brighter with Herbert",
-   "title": "Wall Street Can't Keep Up With SpaceX! Here's Why!",
+   "title": "Every SpaceX Investor Needs To See This",
    "excerpt": "SpaceX AI data centers are going up in about 5 months versus the usual 8 to 12, per SemiAnalysis, and Citi just raised its target again. Jeff Lutz is an ex Supply Chain C-Level Exec at several Fortune 100 companies like Google, Lenovo and Motorola. Currently running his own consulting firm. Follow Jeff Lutz on X: @theJeffLutz 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Own a Tesla? Get a free month of Full Self-Driving (Supervised) when you ",
    "url": "https://www.youtube.com/watch?v=UMNFZ089-Lw",
    "published": "2026-11-17T14:30:38+00:00",
@@ -7691,6 +8056,21 @@
    "published": "2026-11-17T14:28:00+00:00",
    "tickers": [
     "NFLX"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "7feb67f3971c49b6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dear Nike Stock Fans, Mark Your Calendars for November 17",
+   "excerpt": "Circle Nov 17, Nike stock fans! The Swoosh’s first Investor Day in nine years could set the tone for its comeback.",
+   "url": "https://www.barchart.com/story/news/8877059/dear-nike-stock-fans-mark-your-calendars-for-november-17?.tsrc=rss",
+   "published": "2026-11-17T14:27:56+00:00",
+   "tickers": [
+    "NKE"
    ],
    "summary_ko": null,
    "tone": null
@@ -38752,23 +39132,6 @@
    ],
    "summary_ko": null,
    "tone": null
-  },
-  {
-   "id": "bf683ddba121f0d6",
-   "kind": "youtube",
-   "source": "Graham Stephan",
-   "author": "Graham Stephan",
-   "title": "It Started: The BIGGEST Wealth Transfer Of Our Lifetime Has Just Begun!",
-   "excerpt": "Thanks to SoFi for sponsoring the video! Click here to sign-up for SoFi Crypto: | Let's talk about the next economic boom, stock market performance in 2027, and how you could profit - Enjoy! Add me on Instagram: GPStephan FOLLOW MY INVESTMENTS / STOCKS HERE: START BUILDING WEALTH WITH MY FREE NEWSLETTER: ONE OF THE BIGGEST WEALTH BUILDING OPPORTUNITIES? Despite inflation, high interest rates, geopolitical uncertainty, and concerns around AI spending, several factors are lining up that could create a major economic and investing opportunity over the next few years. THE BIGGEST RISKS RIGHT NOW Oil remains one of the biggest wildcards. Higher energy prices feed directly into inflation, which keeps pressure on the Federal Reserve to maintain higher interest rates. At the same time, the United ",
-   "url": "https://www.youtube.com/watch?v=8J_36MGSdVI",
-   "published": "2026-11-10T21:00:13+00:00",
-   "tickers": [
-    "SOFI"
-   ],
-   "summary_ko": [
-    "향후 경제 호황과 2027년 주식시장 전망, 주요 위험 요소를 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
