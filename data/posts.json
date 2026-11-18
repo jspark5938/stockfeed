@@ -1,6 +1,120 @@
 {
- "updated": "2026-11-18T11:30:39.685044+00:00",
+ "updated": "2026-11-18T12:00:40.366936+00:00",
  "posts": [
+  {
+   "id": "7a376f13b4ba243a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures: Techs Jump On Nvidia Earnings; Target Beats, Anthropic IPO Ahead",
+   "excerpt": "Nvidia earnings beat after the major indexes broke below recent lows. Target also topped views, with the Anthropic IPO set to price Wednesday night.",
+   "url": "https://finance.yahoo.com/m/3b22ed8c-00c3-32f8-89f5-91bc21ccb366/dow-jones-futures%3A-techs-jump.html?.tsrc=rss",
+   "published": "2026-11-18T11:57:09+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "6616f34d4ef39b5a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "If You Have $1,000 to Invest in December, These 3 Stocks Are Built to Last a Decade",
+   "excerpt": "Microsoft, ASML, and TSMC each pair a competitive advantage with AI-driven demand. Here's what gives each its staying power, and the risks to watch.",
+   "url": "https://www.fool.com/investing/2026/11/18/if-you-have-1000-to-invest-in-december-these-3-sto/?.tsrc=rss",
+   "published": "2026-11-18T11:50:00+00:00",
+   "tickers": [
+    "MSFT",
+    "TSM",
+    "ASML"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "4e7c65e6770adda0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Q3 revenue rises 103% amid ex-CEO controversy",
+   "excerpt": "The results followed controversy involving ex-CEO Jensen Huang over an alleged affair with a Chinese spy, after his departure earlier this month.",
+   "url": "https://www.verdict.co.uk/nvidia-q3-revenue-rises-103/?.tsrc=rss",
+   "published": "2026-11-18T11:47:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "ef223b6bb7b084fc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Anthropic Is Going Public Into a Shaky Market. Here’s How Past Mega IPOs Fared in Similar Conditions.",
+   "excerpt": "Visa and Facebook went public into chaos and rewarded patient owners, while Alibaba debuted in calm markets and stalled. Before Anthropic's Nasdaq debut, the real test may be which of these paths its unusual structure resembles.",
+   "url": "https://247wallst.com/investing/2026/11/18/anthropic-is-going-public-into-a-shaky-market-heres-how-past-mega-ipos-fared-in-similar-conditions/?.tsrc=rss",
+   "published": "2026-11-18T11:46:49+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "65dd81675efb092a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Pfizer Enters into Exclusive Licensing Agreement with Starna Therapeutics for Autoimmune Diseases",
+   "excerpt": "NEW YORK, November 18, 2026--Pfizer Inc. (NYSE: PFE) today announced that it entered into an exclusive licensing agreement with Starna Therapeutics, a biotechnology company developing RNA medicines designed to enable in vivo therapeutics. Under the agreement, Pfizer obtains exclusive rights outside Greater China to develop, manufacture and commercialize three pre-IND in vivo chimeric antigen receptor T-cell (CAR-T) programs that are focused on treating autoimmune diseases. Pfizer also receives r",
+   "url": "https://finance.yahoo.com/healthcare/articles/pfizer-enters-exclusive-licensing-agreement-114500881.html?.tsrc=rss",
+   "published": "2026-11-18T11:45:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "8b21ef46c351bf62",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AI Chips Update - Unlocking AI Potential Through Supercomputing Partnerships",
+   "excerpt": "The Lux supercomputer, developed through a collaboration between AMD, Oak Ridge National Laboratory (ORNL), and the U.S. Department of Energy (DOE), has been opened to scientific users, marking a significant advancement in AI and high-performance computing. Ranked 14th on the TOP500 list of the world's most powerful supercomputers, Lux supports the DOE's Genesis Mission by providing an AI Factory dedicated to AI-driven scientific research and engineering solutions. This system integrates...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-unlocking-ai-potential-113742094.html?.tsrc=rss",
+   "published": "2026-11-18T11:37:42+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "fbe9a9339dbd7e0b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Elon Musk Makes Major Tesla Production Shift After Cybertruck Sales Collapse",
+   "excerpt": "U.S. Cybertruck sales fell 48% to 20,237 vehicles in 2025, far below Musk's earlier annual target of 250,000.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-makes-major-tesla-112419925.html?.tsrc=rss",
+   "published": "2026-11-18T11:24:19+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "039fb50efb2df72d",
    "kind": "news",
@@ -19,6 +133,22 @@
    "tone": "neu"
   },
   {
+   "id": "902209e2072ed368",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart Earnings Could Deliver a Surprise for 3 Consumer Staples ETFs",
+   "excerpt": "Wall Street expects higher quarterly revenue and earnings as Walmart prepares to report Nov. 19 amid pressure on consumer spending.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-earnings-could-deliver-surprise-112144541.html?.tsrc=rss",
+   "published": "2026-11-18T11:21:44+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
    "id": "662bf3a294009cef",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -34,6 +164,164 @@
     "엔비디아의 3분기 실적이 월스트리트의 개장 전 선물 지수를 지지했다고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "fe7c0cadccd2b233",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Directors Clash Over Jensen Huang Comeback as Two Rival CEOs Emerge",
+   "excerpt": "Nvidia Board Faces Major Leadership Battle as Arm and Marvell CEOs Enter the Picture",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-directors-clash-over-jensen-111908834.html?.tsrc=rss",
+   "published": "2026-11-18T11:19:08+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "065d26284a48cc58",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Former Elon Musk Adviser: 'We've Given Tech CEOs A Free Pass'",
+   "excerpt": "Nvidia's board has shot down Jensen Huang's offer to return to lead the company, as the saga over his affair with an alleged Chinese spy rumbles on. Dex Hunter-Torricke tells Bloomberg Radio \"we have been living for the last couple of decades with this whole mythos that a powerful founder CEO is essential to the success of these companies.\" He's the founder of The Center For Tomorrow and once worked for Elon Musk and Mark Zuckerberg and has been speaking to Bloomberg's Tiwa Adebayo and Ben Boulos about the state of Silicon Valley, and the oversight of tech companies in the AI era.",
+   "url": "https://finance.yahoo.com/video/former-elon-musk-adviser-weve-111838578.html?.tsrc=rss",
+   "published": "2026-11-18T11:18:38+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "c8cb8a1ac6e7ec2c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Salesforce (CRM) Stock Falls 9% as Another Round of Layoffs Surfaces",
+   "excerpt": "Salesforce Cuts Jobs Again As Its Stock Takes A Brutal Hit",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-falls-9-111834279.html?.tsrc=rss",
+   "published": "2026-11-18T11:18:34+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "4542f6b34e25182f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple Reveals Cause of Major Outage That Disrupted iCloud and Apple Pay",
+   "excerpt": "Apple works to restore affected systems after an internal software update triggers widespread service disruptions across the United States.",
+   "url": "https://finance.yahoo.com/technology/articles/apple-reveals-cause-major-outage-111650953.html?.tsrc=rss",
+   "published": "2026-11-18T11:16:50+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "5140e7a0ca88b535",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft Makes Major AI Move With DeepSeek Partnership",
+   "excerpt": "Microsoft partnered with Baseten to bring its AI inference platform to Microsoft Foundry.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-makes-major-ai-move-111622312.html?.tsrc=rss",
+   "published": "2026-11-18T11:16:22+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "07de92036a89dbb1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SpaceX Makes Massive $40 Billion AI Bet as Nvidia Reports Record Earnings",
+   "excerpt": "Goldman Sachs and Apollo are expected to support the financing as SpaceX expands its AI computing infrastructure.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/spacex-makes-massive-40-billion-111603564.html?.tsrc=rss",
+   "published": "2026-11-18T11:16:03+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f1ea617b878ae01c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Raises Fiscal 2028 Growth Forecast to 75% on AI Boom",
+   "excerpt": "Nvidia Lifts Growth Outlook as Rubin Chip Ramp Fuels Massive AI Spending Boom",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-raises-fiscal-2028-growth-111523249.html?.tsrc=rss",
+   "published": "2026-11-18T11:15:23+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "32013fba9f380c77",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Makes Major China Decision After $2.4 Billion in AI Chip Sales",
+   "excerpt": "Nvidia ends shipments of licensed Hopper data center chips to China as U.S. export restrictions reshape its international business.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-makes-major-china-decision-111407194.html?.tsrc=rss",
+   "published": "2026-11-18T11:14:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "7953b5c1aa0b1586",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO",
+   "excerpt": "Software Stocks Get Hit Hard Before the Anthropic IPO. Salesforce Takes the Worst of It",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-servicenow-microsoft-stocks-111155428.html?.tsrc=rss",
+   "published": "2026-11-18T11:11:55+00:00",
+   "tickers": [
+    "MSFT",
+    "CRM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "4d79d02f628be01c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is ASML Holding (NasdaqGS:ASML) Undervalued After Its Recent Pullback?",
+   "excerpt": "ASML Holding (ASML) has drawn fresh attention after recent share price weakness, with the stock down 17% over the past month and 21% in the past 3 months. That decline now shapes how investors evaluate its size and growth profile. The recent slide follows a much stronger stretch for ASML Holding, with the share price still up 18.85% year to date and the 1 year total shareholder return at 38.47%, so short term momentum has cooled even as longer term performance remains positive. See how ASML...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-nasdaqgs-asml-undervalued-111035728.html?.tsrc=rss",
+   "published": "2026-11-18T11:10:35+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "869745ab41c6c9f0",
@@ -702,6 +990,23 @@
    "tone": "neu"
   },
   {
+   "id": "4425055d69911eca",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Zacks Analyst Blog Highlights Meta, Amazon's, Microsoft's and Alphabet's",
+   "excerpt": "Meta, Amazon's, Microsoft's and Alphabet's are included in this Analyst Blog.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-meta-103800669.html?.tsrc=rss",
+   "published": "2026-11-18T10:38:00+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOGL",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "8d71a227ab806d4b",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -768,6 +1073,21 @@
     "월스트리트 애널리스트가 젠슨 황이 엔비디아에 엄청난 가치를 지닌다고 분석했다는 내용을 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "41741b42664ed48e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Zacks Industry Outlook Highlights UnitedHealth, The Cigna, Humana, Centene and Molina",
+   "excerpt": "UnitedHealth, The Cigna, Humana, Centene and Molina have been highlighted in this Industry Outlook article.",
+   "url": "https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-highlights-unitedhealth-102400530.html?.tsrc=rss",
+   "published": "2026-11-18T10:24:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "d46615e6baabb6cd",
