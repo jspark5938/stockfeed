@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-18T08:30:31.563444+00:00",
+ "updated": "2026-11-18T09:00:40.174358+00:00",
  "posts": [
+  {
+   "id": "42b302dff8167d32",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Market Chatter: Korea Regulator Cites Customer Complaints, Orders Apple, Google, Alibaba, OpenAI to Designate Legal Representatives by January",
+   "excerpt": "South Korea's antitrust regulator will require major overseas platforms, including Apple (AAPL), Alp",
+   "url": "https://finance.yahoo.com/technology/articles/market-chatter-korea-regulator-cites-085052188.html?.tsrc=rss",
+   "published": "2026-11-18T08:50:52+00:00",
+   "tickers": [
+    "AAPL",
+    "GOOGL",
+    "BABA"
+   ],
+   "summary_ko": [
+    "한국 규제 당국이 애플, 구글, 알리바바 등에 내년 1월까지 국내 대리인 지정을 요구했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2dcfaa882b6391bb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet Stock Is Down 25% From Its High. History Suggests a $5,000 Investment Now Will Be Worth This Much by 2028.",
+   "excerpt": "Alphabet's stock has sold off due to long-term investments.",
+   "url": "https://www.fool.com/investing/2026/11/18/alphabet-stock-is-down-25-from-its-high-history-suggests-a-usd5-000-investment-now-will-be-worth-this-much-by-2028/?.tsrc=rss",
+   "published": "2026-11-18T08:45:02+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "알파벳 주가가 고점 대비 25% 하락한 배경으로 장기 투자가 꼽혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bdacffa071fd0e13",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "INTC Stock Gains Overnight Amid Fresh Layoffs Buzz",
+   "excerpt": "The move is the latest in a series of cuts over the last two years as CEO Lip-Bu Tan looks to make the chipmaker leaner.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/intc-stock-gains-overnight-amid-fresh-layoffs-buzz/cNbXwbIR9L5?.tsrc=rss",
+   "published": "2026-11-18T08:43:22+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔 주가가 추가 구조조정 소문 속에 시간외 거래에서 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "81144a3f3bec602e",
    "kind": "youtube",
@@ -52,6 +105,23 @@
     "엔비디아의 실적 전망 호조에 따른 초기 상승세가 둔화되면서 글로벌 증시는 의미 있는 반등에 실패했다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "5708e422fea7f228",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Nvidia Maintain Its Washington Influence Without Jensen Huang? Colette Kress Dismisses ‘Blue Wave’ Fears",
+   "excerpt": "Nvidia Corp. (NASDAQ:NVDA) is facing questions about its political influence following Jensen Huang’s departure, but interim CEO Colette Kress remains confident that surging AI demand will extend beyond 2027 despite growing regulatory and infrastructure concerns. Nvidia Sees AI Demand Extending Into 2028 Speaking during Nvidia’s third-quarter earnings call on Tuesday, Kress pushed back against concerns that a Democratic wave in the 2026 midterm elections could slow AI infrastructure spending in",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-maintain-washington-influence-without-073310102.html?.tsrc=rss",
+   "published": "2026-11-18T07:33:10+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 정치적 영향력 우려에 직면한 가운데, AI 수요가 지속될 것이라는 경영진의 발언을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "263c79e2478aac81",
@@ -1252,6 +1322,23 @@
    "tone": "neu"
   },
   {
+   "id": "e565f5214a9d1fde",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba Just Hit a New 52-Week Low After a 16% Week. Is the Selling Overdone Before Earnings?",
+   "excerpt": "Key TakeawaysAlibaba fell 15. 6% in the past week to a new 52-week low as the U.",
+   "url": "https://www.tikr.com/blog/alibaba-just-hit-a-new-52-week-low-after-a-16-week-is-the-selling-overdone-before-earnings?ref=yahoofinance&tlnk=yf-261118-r6c3pj6p&.tsrc=rss",
+   "published": "2026-11-18T02:51:50+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바 주가가 일주일간 하락하며 새로운 52주 신저가를 기록했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "7692465f55b0e308",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1267,6 +1354,24 @@
     "나스닥-100 지수가 2000년과 2018년에 이어 2026년에도 사상 최고점에서 10% 하락하는 흐름을 보였다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "f87c1e24e5573da9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AST SpaceMobile Sinks 18% in a Week to a 52-Week Low. Jim Cramer: “A Very Hard Stock to Own”",
+   "excerpt": "Key TakeawaysAST SpaceMobile fell 18% in a week to a 52-week low after a rocket failure destroyed 40 Amazon satellites. AST lost no satellites, but scarcer launches hurt a buyer like AST more than a seller like Rocket Lab.",
+   "url": "https://www.tikr.com/blog/ast-spacemobile-sinks-18-in-a-week-to-a-52-week-low-jim-cramer-a-very-hard-stock-to-own?ref=yahoofinance&tlnk=yf-261118-gxf52qg9&.tsrc=rss",
+   "published": "2026-11-18T02:50:55+00:00",
+   "tickers": [
+    "AMZN",
+    "RKLB"
+   ],
+   "summary_ko": [
+    "로켓 실패로 아마존 위성들이 파괴되면서 AST 스페이스모바일 주가가 52주 신저가로 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "5cefe24879b44fe8",
