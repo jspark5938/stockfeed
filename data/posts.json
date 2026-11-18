@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-18T07:30:33.626542+00:00",
+ "updated": "2026-11-18T08:00:38.504200+00:00",
  "posts": [
+  {
+   "id": "c6f9b0607d62c73c",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Trump Heads to China for Xi, Putin Summit",
+   "excerpt": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins. Global stocks failed to mount a meaningful rebound as the initial boost from Nvidia’s better-than-expected sales forecast faded, signaling lingering doubts over the artificial intelligence trade. Chinese President Xi Jinping warned against economic barriers and urged closer cooperation among Asia-Pacific nations ahead of talks with US President Donald Trump, as new US restrictions on China’s access to advanced AI chips strain a fragile trade truce. And Anthropic is guiding prospective investors in its ini",
+   "url": "https://www.youtube.com/watch?v=EKrTHfJKJgQ",
+   "published": "2026-11-18T07:47:47+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 실적 전망 호조에 따른 초기 상승세가 둔화되면서 글로벌 증시는 의미 있는 반등에 실패했다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "263c79e2478aac81",
    "kind": "news",
@@ -1619,6 +1636,23 @@
    "tone": "pos"
   },
   {
+   "id": "e00eb67b3555b8af",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Costco Is Up 22% in a Year. Mizuho Sees Another 4%",
+   "excerpt": "Key TakeawaysMizuho raised its Costco price target to $1,150 from $1,100 and kept its Outperform rating, but took the stock off its Top Pick list after its run. Mizuho’s case is about sales: it thinks Costco’s U.",
+   "url": "https://www.tikr.com/blog/costco-is-up-22-in-a-year-mizuho-sees-another-4?ref=yahoofinance&tlnk=yf-261118-3hc7jp9f&.tsrc=rss",
+   "published": "2026-11-18T01:15:18+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "미즈호는 코스트코의 목표주가를 1,150달러로 상향 조정하고 등급을 유지했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "cbdcfbf9c0b62f20",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1702,6 +1736,24 @@
     "엔비디아의 임시 CEO가 고객 기반이 여전히 견고하다고 언급했다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "98689e0c68ff5da2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Shots Fired: Musk Says SpaceX Assumes “Zero Sales to OpenAI.” AMD Can’t Say the Same",
+   "excerpt": "Key TakeawaysElon Musk said SpaceX is assuming “zero sales to OpenAI,” replying to Sam Altman’s warning about chipmakers counting on OpenAI’s demand. That puts the risk of double-counted demand on suppliers like AMD, whose OpenAI deal covers up to 6 gigawatts of GPUs.",
+   "url": "https://www.tikr.com/blog/shots-fired-musk-says-spacex-assumes-zero-sales-to-openai-amd-cant-say-the-same?ref=yahoofinance&tlnk=yf-261118-95q7hr6v&.tsrc=rss",
+   "published": "2026-11-18T01:09:50+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "일론 머스크는 스페이스X가 오픈에이아이와의 거래를 가정하지 않는다고 밝혔다고 언급했다.",
+    "이로 인해 AMD와 같은 공급업체들이 수요 중복 계상 리스크에 노출될 수 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e2bbec6a14a6529f",
