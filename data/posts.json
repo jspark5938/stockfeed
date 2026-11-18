@@ -1,6 +1,639 @@
 {
- "updated": "2026-11-18T15:30:38.310885+00:00",
+ "updated": "2026-11-18T16:00:40.411708+00:00",
  "posts": [
+  {
+   "id": "781ea2d1a7915219",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "There's a 'real risk' for Nvidia if they pick the wrong CEO candidate",
+   "excerpt": "Seaport Research Partners senior analyst Jay Goldberg sits down with Yahoo Finance Executive Editor Brian Sozzi to share his thoughts on Nvidia's (NVDA) hunt for the next CEO, emphasizing what exactly is at stake.",
+   "url": "https://finance.yahoo.com/video/theres-real-risk-nvidia-pick-160000497.html?.tsrc=rss",
+   "published": "2026-11-18T16:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "65c919b4884525cf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Coinbase Says AI Defenses Blocked $4.7M in Elon Musk Deepfake Crypto Scam",
+   "excerpt": "Coinbase (NASDAQ: $COIN) said its artificial intelligence-powered fraud detection system prevented $4.7 million fro...",
+   "url": "https://www.cryptoprowl.com/releases/coinbase-says-ai-defenses-blocked-47m-in-elon-musk-deepfake-crypto-scam-7964?.tsrc=rss",
+   "published": "2026-11-18T15:53:00+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "9ee103fcf5063559",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Google Says Fully Autonomous AI Cyberattacks Are Likely Within 6 Months",
+   "excerpt": "Google is forecasting a wave of machine-run hacking while selling the cure, and Palo Alto reports earnings in the middle of it. Why a stock sliding toward its lows may face its toughest test yet.",
+   "url": "https://247wallst.com/investing/2026/11/18/google-says-fully-autonomous-ai-cyberattacks-are-likely-within-6-months/?.tsrc=rss",
+   "published": "2026-11-18T15:52:48+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "00709b7314cdfc54",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $1.8 Billion Fund Dumps These 3 Stocks",
+   "excerpt": "Key TakeawaysStyrax Capital, a firm that manages $1. 77 billion, sold all of its Alphabet, Keysight and TTM Technologies shares in the third quarter, its 13F filed Nov.",
+   "url": "https://www.tikr.com/blog/a-1-8-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-r84g38vm&.tsrc=rss",
+   "published": "2026-11-18T15:52:08+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "d1b20a5350625755",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia must prove it can win without Jensen Huang",
+   "excerpt": "Yahoo Finance Executive Editor Brian Sozzi shares his takeaways from Nvidia's (NVDA) Q3 earnings call.",
+   "url": "https://finance.yahoo.com/video/nvidia-must-prove-it-can-win-without-jensen-huang-155137968.html?.tsrc=rss",
+   "published": "2026-11-18T15:51:37+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "038cf9ace5139a1b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft vs Amazon as AI plays: why MSFT has the edge today",
+   "excerpt": "Investing.com -- Microsoft has the stronger evidence as a core AI compounder today, while Amazon offers a higher-variance infrastructure rebound story.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-vs-amazon-ai-plays-155052350.html?.tsrc=rss",
+   "published": "2026-11-18T15:50:52+00:00",
+   "tickers": [
+    "MSFT",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "306f0082c9b6729f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia's Solid Growth Outlook Supported by Robust Demand, BofA Says",
+   "excerpt": "Nvidia's (NVDA) confident growth outlook is driven by supply chain alignment and demand outpacing su",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-apos-solid-growth-outlook-154922135.html?.tsrc=rss",
+   "published": "2026-11-18T15:49:22+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "2eb7775230e1c6a8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $7.9 Billion Fund Dumps These 3 Stocks",
+   "excerpt": "Key TakeawaysMontanova Capital, which manages $7. 87 billion, had sold all of its Advanced Micro Devices, Arcus Biosciences and Ferguson Enterprises shares by Sept.",
+   "url": "https://www.tikr.com/blog/a-7-9-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-g94wp9rm&.tsrc=rss",
+   "published": "2026-11-18T15:47:20+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "2ac7cab34081f75a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $12 Billion Fund Dumps These 3 Stocks",
+   "excerpt": "Key TakeawaysPointState Capital, a firm that manages $12 billion, sold all of its DoorDash, Block and Meta Platforms shares in the third quarter, its latest 13F shows. By Sept.",
+   "url": "https://www.tikr.com/blog/a-12-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-x79qh686&.tsrc=rss",
+   "published": "2026-11-18T15:46:47+00:00",
+   "tickers": [
+    "META"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "04831ebaf8976d8a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $2.2 Billion Fund Dumps These 3 Stocks",
+   "excerpt": "Key TakeawaysDiscovery Capital Management, a $2. 2 billion fund, sold all of its Chevron, JPMorgan Chase and Grupo Financiero Galicia shares in the third quarter, according to its latest 13F.",
+   "url": "https://www.tikr.com/blog/a-2-2-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-8pcwqp7q&.tsrc=rss",
+   "published": "2026-11-18T15:46:15+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "5254d8df1d3db399",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Salesforce Shed 20% Over The Last 30 Days: It Will Double From Here According to This Notable Wall Street Team",
+   "excerpt": "Outage scares and AI replacement fears have hammered Salesforce, yet one Wall Street firm sees the stock more than doubling. Behind a cheap multiple sits a swollen debt load, and the real question is which story the next earnings report will confirm.",
+   "url": "https://247wallst.com/investing/2026/11/18/salesforce-shed-20-over-the-last-30-days-it-will-double-from-here-according-to-this-notable-wall-street-team/?.tsrc=rss",
+   "published": "2026-11-18T15:45:55+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "c0e21dcfded9d0e1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Microsoft Could Surprise and Hit $4 Trillion Before NVIDIA Does",
+   "excerpt": "Microsoft and NVIDIA sit about $10 billion apart in market value, yet one sells AI subscriptions while the other sells the chips behind them. A CEO vacuum, a giant backlog, and wildly different volatility will decide which one crosses the finish line first.",
+   "url": "https://247wallst.com/investing/2026/11/18/why-microsoft-could-surprise-and-hit-4-trillion-before-nvidia-does/?.tsrc=rss",
+   "published": "2026-11-18T15:45:47+00:00",
+   "tickers": [
+    "NVDA",
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "b8e5e7da9ea0e5c5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Nvidia doesn't need a 'big splashy hire' to replace Jensen Huang as CEO",
+   "excerpt": "Amazon founder Jeff Bezos and \"Shark Tank\" star Kevin O'Leary make a great point on the Nvidia leadership drama.",
+   "url": "https://finance.yahoo.com/technology/article/why-nvidia-doesnt-need-a-big-splashy-hire-to-replace-jensen-huang-as-ceo-154424603.html?.tsrc=rss",
+   "published": "2026-11-18T15:44:24+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "311f65b7c6f3c0f6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Ken Fisher and 14 Other Big Funds Bought Palo Alto Networks, While 22 Sold. Who’s Right?",
+   "excerpt": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 15 bought Palo Alto Networks and 22 sold it.",
+   "url": "https://www.tikr.com/blog/ken-fisher-and-14-other-big-funds-bought-palo-alto-networks-while-22-sold-whos-right?ref=yahoofinance&tlnk=yf-261118-xp8p3xhq&.tsrc=rss",
+   "published": "2026-11-18T15:41:46+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "2e0c2f76594909a8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The 5 Best Stocks in Bill Ackman’s Portfolio",
+   "excerpt": "Key TakeawaysBill Ackman’s Pershing Square filed its 13F for the third quarter on Nov. 16, and analysts’ average targets put Uber, Netflix, Meta, Brookfield and Amazon 26% to 43% above their last close.",
+   "url": "https://www.tikr.com/blog/the-5-best-stocks-in-bill-ackmans-portfolio?ref=yahoofinance&tlnk=yf-261118-qmxg56h7&.tsrc=rss",
+   "published": "2026-11-18T15:40:41+00:00",
+   "tickers": [
+    "AMZN",
+    "NFLX",
+    "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "3aea48a84296c9b6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "29 Big Funds Bought CrowdStrike Last Quarter, While 7 Sold. Who’s Right?",
+   "excerpt": "Key TakeawaysAfter adjusting for CrowdStrike’s four-for-one stock split in July, 13 big funds bought the stock in the third quarter and at least 12 sold, according to their 13Fs for the quarter ended Sept. 30.",
+   "url": "https://www.tikr.com/blog/29-big-funds-bought-crowdstrike-last-quarter-while-7-sold-whos-right?ref=yahoofinance&tlnk=yf-261118-8vc3h46w&.tsrc=rss",
+   "published": "2026-11-18T15:40:08+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "07dbc5b48e7a3cbc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Starbucks inventory availability at ‘all-time high’ with daily deliveries, CEO says",
+   "excerpt": "The coffeehouse chain has been testing a 24-hour operating model to improve inventory availability and build an overall faster, more reliable supply chain.",
+   "url": "https://www.supplychaindive.com/news/starbucks-inventory-availability-at-all-time-high-with-daily-deliveries/874923/?.tsrc=rss",
+   "published": "2026-11-18T15:38:15+00:00",
+   "tickers": [
+    "SBUX"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "c3ef60f4f1f3f8e1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Here’s Why Technology Spending Over the Next 3 Years Could Make Broadcom (AVGO) a Winner",
+   "excerpt": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years and Broadcom Inc. (NASDAQ:AVGO) took the 6th spot on the list. Blue-chip stocks have traditionally appealed to long-term investors because of their established market positions, financial resources, and ability to withstand economic uncertainty. However, the rapid […]",
+   "url": "https://finance.yahoo.com/technology/articles/why-technology-spending-over-next-153801292.html?.tsrc=rss",
+   "published": "2026-11-18T15:38:01+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "311c4f1c223c94ca",
+   "kind": "youtube",
+   "source": "Jerry Romine Stocks",
+   "author": "Jerry Romine Stocks",
+   "title": "NVIDIA Beat Expectations (BUT DANGER LURKS)",
+   "excerpt": "✅ MY PATREON – My Portfolio, My Trades, Deep Dives, Q&A, Community: 🔥 MY WEALTH ACCELERATION SYSTEM – For serious investors ready to build a real framework: ================ TODAY'S VIDEO ================ Nvidia just delivered the greatest quarter in tech history, printing 103% growth and completely blowing out revenue expectations. The mainstream media is screaming at retail investors to buy the hype, but if you look at the after-hours tape, the stock is completely stalling out. In this nvidia stock analysis 2027, we look right under the hood to expose the brutal truth hiding on their balance sheet. We cover the massive scaling risks of operating with negative net cash, and why the recent CEO drama and SEC probe are acting as a massive \"governance tax\" on the stock price. This isn't just ",
+   "url": "https://www.youtube.com/watch?v=qp8YUgns0sE",
+   "published": "2026-11-18T15:38:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "8470fa159849a201",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AI in Clinical Trials - Global Strategic Business Report 2026: Secure Share of a US$4.1 Billion Market by 2032 with IQVIA, Microsoft, Tempus AI, and Saama",
+   "excerpt": "Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"AI in Clinical Trials - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global artificial intelligence (AI) in clinical trials market was valued at US$1.6 billion in 2025 and is projected to reach US$4.1 billion by 2032, expanding at a compound annual growth rate (CAGR) of 14% during the forecast period. Market growth is being supported by rising drug development costs, increasingly complex clinical protoc",
+   "url": "https://finance.yahoo.com/healthcare/articles/ai-clinical-trials-global-strategic-153700366.html?.tsrc=rss",
+   "published": "2026-11-18T15:37:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "902357c8e0988947",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AI-Based Clinical Trial Solutions for Patient Matching - Global Strategic Business Report 2026: Capitalize on 25% CAGR and $3.4B in Total Revenue by 2032 with Medidata, Microsoft, ConcertAI and Unlearn.ai",
+   "excerpt": "Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"AI-based Clinical Trial Solutions for Patient Matching - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global artificial intelligence-based clinical trial solutions for patient matching market was valued at US$721.6 million in 2025 and is projected to reach US$3.4 billion by 2032, expanding at a compound annual growth rate (CAGR) of 25% during the forecast period. Market growth is being supported by incr",
+   "url": "https://finance.yahoo.com/healthcare/articles/ai-based-clinical-trial-solutions-153600266.html?.tsrc=rss",
+   "published": "2026-11-18T15:36:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "ffc01cb2c4886182",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Here’s Why Palantir Cracked the Best Blue Chip Stocks to Buy and Hold for Three Years List",
+   "excerpt": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years and Palantir Technologies Inc. (NASDAQ:PLTR) took the 7th spot on the list. Blue-chip stocks have traditionally appealed to long-term investors because of their established market positions, financial resources, and ability to withstand economic uncertainty. However, the […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-cracked-best-blue-153553108.html?.tsrc=rss",
+   "published": "2026-11-18T15:35:53+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "07e749f77d2021cb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "David Tepper and 25 Other Big Funds Bought Applied Materials Last Quarter, While 27 Sold. Who’s Right?",
+   "excerpt": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the third quarter, 26 bought Applied Materials, including David Tepper’s Appaloosa, and 27 sold, including Brad Gerstner’s Altimeter. The selling went beyond Applied: Altimeter also sold all of its KLA shares, and 11 of the sellers added Intel in the same quarter.",
+   "url": "https://www.tikr.com/blog/david-tepper-and-25-other-big-funds-bought-applied-materials-last-quarter-while-27-sold-whos-right?ref=yahoofinance&tlnk=yf-261118-85wvrqh2&.tsrc=rss",
+   "published": "2026-11-18T15:35:45+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "4f1926657b116575",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Micron Next to Announce a Stock Split?",
+   "excerpt": "The memory chip maker has not split its shares since 2000.",
+   "url": "https://www.fool.com/investing/2026/11/18/is-micron-next-to-announce-a-stock-split/?.tsrc=rss",
+   "published": "2026-11-18T15:35:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "813bae3e0cb01efe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Retail Digital Transformation - Global Strategic Business Report 2026: Capitalize on the $664.4 Billion Market with Amazon, Alibaba, eBay and Flipkart",
+   "excerpt": "Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"Retail Digital Transformation - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global retail digital transformation market, valued at US$308.9 billion in 2025, is projected to reach US$664.4 billion by 2032. The market is forecast to expand at a compound annual growth rate (CAGR) of 11.6% during the 2025-2032 period, supported by accelerating e-commerce adoption, advances in artificial intelligence, growi",
+   "url": "https://finance.yahoo.com/technology/articles/retail-digital-transformation-global-strategic-153500087.html?.tsrc=rss",
+   "published": "2026-11-18T15:35:00+00:00",
+   "tickers": [
+    "AMZN",
+    "BABA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "24e6adfd6755848c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The 5 Best Stocks in Berkshire Hathaway’s Portfolio",
+   "excerpt": "Key TakeawaysBerkshire Hathaway’s latest 13F shows that, among its positions of 2% or more, analysts see the most upside in Alphabet, Bank of America, Occidental Petroleum and American Express. Analysts’ average targets sit 43% to 44% above Alphabet’s two share classes, 26% above Bank of America and Occidental, and 16% above American Express.",
+   "url": "https://www.tikr.com/blog/the-5-best-stocks-in-berkshire-hathaways-portfolio?ref=yahoofinance&tlnk=yf-261118-wgh3jp85&.tsrc=rss",
+   "published": "2026-11-18T15:34:37+00:00",
+   "tickers": [
+    "GOOGL",
+    "BAC"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "ab87bb6bdf74e7fd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia’s Interim CEO: Its Guarantee “Doesn’t Exist Anymore” if Builds Slip. That Caps a $118 Billion Risk",
+   "excerpt": "Key TakeawaysBy Yahoo Finance’s count, NVIDIA has promised to buy, back or invest nearly $670 billion, and $118 billion of that is guarantees. Interim CEO Colette Kress said NVIDIA’s guarantee “doesn’t exist anymore” if a data center build is delayed.",
+   "url": "https://www.tikr.com/blog/nvidias-interim-ceo-its-guarantee-doesnt-exist-anymore-if-builds-slip-that-caps-a-118-billion-risk?ref=yahoofinance&tlnk=yf-261118-2f9xfq95&.tsrc=rss",
+   "published": "2026-11-18T15:34:04+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "132d41b4618f434f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Is Well Off Its Highs, but Our Model Still Sees 29% Upside",
+   "excerpt": "Nvidia just posted another record quarter, yet its stock sits near a 52-week low after Jensen Huang abruptly stepped down. One valuation gap against AMD and Broadcom explains why our model thinks the market is getting this wrong.",
+   "url": "https://247wallst.com/investing/2026/11/18/nvidia-is-well-off-its-highs-but-our-model-still-sees-29-upside/?.tsrc=rss",
+   "published": "2026-11-18T15:33:48+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD",
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1f476df29c784f1e",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Nvidia Is Still a Buy With or Without Huang, Ives Says",
+   "excerpt": "Dan Ives, senior managing director at Yorkville Ives & Co., says it's still possible Jensen Huang could return to Nvidia as chief executive officer and shareholder activism is playing a big role in this. Ives still says he's bullish on Nvidia, with or without Huang. He speaks on \"Bloomberg Surveillance.\" -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Politics: Blo",
+   "url": "https://www.youtube.com/watch?v=HC4kg3eeTNU",
+   "published": "2026-11-18T15:32:54+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "c90709666a37ed91",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why You Should Buy and Hold Taiwan Semiconductor (TSM) for Three Years",
+   "excerpt": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years and Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) took the 9th spot on the list. Blue-chip stocks have traditionally appealed to long-term investors because of their established market positions, financial resources, and ability to withstand economic uncertainty. […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-buy-hold-taiwan-semiconductor-153219281.html?.tsrc=rss",
+   "published": "2026-11-18T15:32:19+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "89a80c5d72c16ec9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AI, data center demand drive Nvidia revenue to $115.8B in Q3",
+   "excerpt": "Nvidia announced new supply partnerships on an earnings call Wednesday. Former CEO Jensen Huang will not be reinstated after an affair with an alleged Chinese spy, Board Chairman Harvey Jones said.",
+   "url": "https://www.manufacturingdive.com/news/nvidia-revenue-reaches-1158b-q3-more-than-double-year-over-year/874956/?.tsrc=rss",
+   "published": "2026-11-18T15:32:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "70b802d93eb9e459",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Here’s Why Amazon.com Is One of the Best Blue Chip Stocks to Buy and Hold for 3 Years",
+   "excerpt": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years, and Amazon.com, Inc. (NASDAQ:AMZN) took the 10th spot on the list. Blue-chip stocks have traditionally appealed to long-term investors because of their established market positions, financial resources, and ability to withstand economic uncertainty. However, the rapid […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-amazon-com-one-best-153137873.html?.tsrc=rss",
+   "published": "2026-11-18T15:31:37+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "094cbf64f1ab0a74",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Exxon Mobil Stock a Good Fit For Your Portfolio Risk?",
+   "excerpt": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+   "url": "https://www.trefis.com/stock/xom/articles/626210/is-exxon-mobil-stock-a-good-fit-for-your-portfolio-risk/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T15:31:17+00:00",
+   "tickers": [
+    "XOM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "11de0d264eaaf2f4",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Wednesday's First Moves: GTA VI Release Ahead, LOW Earnings, NKE Lower",
+   "excerpt": "Lowe's (LOW) beat on earnings and raised full-year revenue guidance, but the stock is falling on the report. Diane King Hall explains what is keeping investors hesitant on buying the stock. Grand Theft Auto VI selling nearly 16 million units ahead of Thursday's highly anticipated release boosted shares of Take-Two Interactive (TTWO). Nike (NKE) shares are finding footing after management said fiscal 2028 will be a \"financially challenging year.\" ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #gta6 #nike #earnin",
+   "url": "https://www.youtube.com/watch?v=-RepZa3LDV4",
+   "published": "2026-11-18T15:30:38+00:00",
+   "tickers": [
+    "AMZN",
+    "NKE"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f20c1ece6054a0f4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bill Ackman Lays Out How Nvidia Shareholders Could Bring Jensen Huang Back as CEO",
+   "excerpt": "Bill Ackman thinks the threat of a shareholder vote could be enough to get Jensen Huang his old job back at Nvidia Corp. (NASDAQ:NVDA). Huang resigned last week amid a board investigation and reports of multiple extramarital affairs, including one...",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63391467/nvidia-huang-return?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "published": "2026-11-18T15:30:08+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "6fc029cfbec05c1b",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "NVDA Earnings Beat AI Fears; SPX Watch Neoclouds & Fed #shorts",
+   "excerpt": "Jay Woods believes Nvidia (NVDA) earnings demonstrate robust AI growth ahead, telling investors to keep an eye on key movers in neoclouds, the Fed, and the greater S&P 500 (SPX). ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #earnings #volatility #economy #finance #investing #marketnews #stock #stockmarket #trading #live #schwabnetwork #nvda #ai #artificialintelligence #chips #blackwell #verarubin #datacenter #aiinfrastructure #ceo #cfo #jensenhuang #software #neocloud #coreweave #crwv #nebius #nbis #n",
+   "url": "https://www.youtube.com/watch?v=H3cvSDzNhxk",
+   "published": "2026-11-18T15:30:03+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "9e10121f1c2d85c0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cloud Computing Market to Reach USD 5,946.84 Billion by 2035 as AI Workloads Drive Record Growth and Backlogs at AWS, Microsoft, Google and Oracle",
+   "excerpt": "U.S. Accounts for About 57% of a USD 1,106.28 Billion Market, SaaS Leads, PaaS and Hybrid Cloud Grow Fastest and Provider Backlogs Top USD 1.8 Trillion: Precedence Research Segment, Company and Buyer IntelligenceOttawa, Nov. 18, 2026 (GLOBE NEWSWIRE) -- The global cloud computing market is valued at USD 1,106.28 billion in 2026, up from USD 912.77 billion in 2025, and is projected to reach USD 5,946.84 billion by 2035 at a CAGR of 20.61%. The U.S. market is set to grow from USD 523.29 billion in",
+   "url": "https://finance.yahoo.com/technology/articles/cloud-computing-market-reach-usd-153000371.html?.tsrc=rss",
+   "published": "2026-11-18T15:30:00+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOGL",
+    "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "723000cca0b8762c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "25 Big Funds Bought Taiwan Semiconductor Last Quarter. It’s Down 21% Since. Time to Buy?",
+   "excerpt": "Key TakeawaysTwenty-five big funds opened or added to Taiwan Semiconductor positions in the quarter ended Sept. 30, and the stock has fallen 21% since.",
+   "url": "https://www.tikr.com/blog/25-big-funds-bought-taiwan-semiconductor-last-quarter-its-down-21-since-time-to-buy?ref=yahoofinance&tlnk=yf-261118-mcwqjc2h&.tsrc=rss",
+   "published": "2026-11-18T15:29:45+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1a329187d0cd6e06",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "George Soros and 21 Other Big Funds Bought Shopify Last Quarter, While 14 Sold. Who’s Right?",
+   "excerpt": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 22 bought Shopify and 14 sold it.",
+   "url": "https://www.tikr.com/blog/george-soros-and-21-other-big-funds-bought-shopify-last-quarter-while-14-sold-whos-right?ref=yahoofinance&tlnk=yf-261118-qqm6fqr6&.tsrc=rss",
+   "published": "2026-11-18T15:29:15+00:00",
+   "tickers": [
+    "SHOP"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "198578aa414fa877",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike Promises $12 Billion in Dividends as Its Stock Hits $35",
+   "excerpt": "Nike's investor day opened with a rally that vanished within hours, just as management unveiled a five-year payout plan. Why did investors bolt, and what does the balance sheet have to carry before profits return?",
+   "url": "https://247wallst.com/investing/2026/11/18/nike-promises-12-billion-in-dividends-as-its-stock-hits-35/?.tsrc=rss",
+   "published": "2026-11-18T15:28:24+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "db2c72b02ab79523",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NVIDIA (NVDA) Q3 2027 Earnings Call Transcript",
+   "excerpt": "Record $115.8 billion quarter as Vera Rubin ramped and leadership changed.",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/11/18/nvidia-nvda-q3-2027-earnings-call-transcript/?.tsrc=rss",
+   "published": "2026-11-18T15:28:11+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
   {
    "id": "e71ffc8b7982576e",
    "kind": "news",
@@ -33,6 +666,112 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 1
+  },
+  {
+   "id": "1b5d8d5e586e4b88",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Nvidia’s (NVDA) Planned $10 Billion Anthropic Investment Deepens Its AI Ties",
+   "excerpt": "NVIDIA Corporation (NASDAQ:NVDA) holds the eighth spot on our list of 10 Best Stocks to Buy Ahead of Anthropic’s IPO. The company behind Claude has launched its roadshow for a proposed offering of 825 million shares at $70 to $78 apiece and has applied to trade on Nasdaq under ANT. For public-market investors, the attention […]",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-planned-10-billion-152453901.html?.tsrc=rss",
+   "published": "2026-11-18T15:24:53+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "6dbca03ba58286de",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia guided to $130 billion with no China in the number | The 8:30",
+   "excerpt": "Nvidia guided the current quarter to about $130 billion and built that number assuming no data center compute revenue from China at all. John Vinh of KeyBanc Capital Markets walks through what the call actually settled: the board ruling out a return, the decision to stop shipping the China-compliant chip even though nothing forbids it, and the disclosure that Nvidia is backstopping the neoclouds rather than financing them. Also: Target posts its best sales growth in over five years, and GTA VI turns into a cultural event before it ships. Featuring John Vinh, Equity Research Analyst, KeyBanc Capital Markets Julie Hyman, Host, Yahoo Finance Jake Conley, Breaking Business News Reporter, Yahoo Finance Pras Subramanian, Senior Autos Reporter, Yahoo Finance Timestamps 0:00 The chairman rules out",
+   "url": "https://www.youtube.com/watch?v=4nXF62Ia_1U",
+   "published": "2026-11-18T15:24:30+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "37f4afaa3a752f3c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "George Soros and 26 Other Big Funds Sold UnitedHealth Last Quarter, While 12 Bought. Who’s Right?",
+   "excerpt": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 27 sold UnitedHealth, George Soros’ fund among them, while 12 bought.",
+   "url": "https://www.tikr.com/blog/george-soros-and-26-other-big-funds-sold-unitedhealth-last-quarter-while-12-bought-whos-right?ref=yahoofinance&tlnk=yf-261118-gf6wr732&.tsrc=rss",
+   "published": "2026-11-18T15:23:24+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "d854116e051e1a3a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Broadcom’s (AVGO) Anthropic Equipment Leases Link AI Growth to Financing",
+   "excerpt": "Our list of 10 Best Stocks to Buy Ahead of Anthropic’s IPO includes Broadcom Inc. (NASDAQ:AVGO) in ninth place. The company behind Claude has launched its roadshow for a proposed offering of 825 million shares at $70 to $78 apiece and has applied to trade on Nasdaq under ANT. For public-market investors, the attention extends […]",
+   "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-anthropic-equipment-leases-152302941.html?.tsrc=rss",
+   "published": "2026-11-18T15:23:02+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "f1484024e1e780e2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "5 Big Funds Bought Alibaba Last Quarter. Is It a Buy Before Earnings?",
+   "excerpt": "Key TakeawaysFive big funds, led by Viking Global and Hillhouse, bought or added to Alibaba (BABA:NYSE) in the Q3, according to their 13Fs for the quarter ended Sept. 30.",
+   "url": "https://www.tikr.com/blog/alibaba-stock-funds-buying-before-earnings?ref=yahoofinance&tlnk=yf-261118-qjjm7qr6&.tsrc=rss",
+   "published": "2026-11-18T15:22:53+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "2b22ca04810c4db2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Dow Drops On Hawkish Fed Stance; SEC Probe Hits Nvidia (Live Coverage)",
+   "excerpt": "The Dow Jones index falls Wednesday as a Fed official calls for a \"shock\" in rate hikes. Nvidia stock jumps on strong earnings results.",
+   "url": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-drops.html?.tsrc=rss",
+   "published": "2026-11-18T15:19:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "4db7bacba7f81ef1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Does Amazon's Falling Multiple Really Say?",
+   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://www.trefis.com/stock/amzn/articles/626274/what-does-amazons-falling-multiple-really-say/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T15:19:10+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "bc9fb18d39429ffb",
@@ -97,7 +836,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "51200f7ee80ad1c0",
@@ -180,6 +919,21 @@
    "tone": null
   },
   {
+   "id": "5a961d83b2d9a621",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel cuts more jobs as CEO's restructuring continues",
+   "excerpt": "Intel Corp (NASDAQ:INTC, XETRA:INL) has cut jobs in a fresh round of layoffs affecting its global information technology workforce, as chief executive Lip-Bu Tan continues efforts to reduce costs. Employees reported being affected this week, according to a Business Insider report. Intel did...",
+   "url": "https://www.proactiveinvestors.com/companies/news/1102029/intel-cuts-more-jobs-as-ceo-s-restructuring-continues-1102029.html?.tsrc=rss",
+   "published": "2026-11-18T15:10:00+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "b614618bb30d5ded",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -252,6 +1006,22 @@
    "tickers": [
     "AMZN",
     "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "583576e19e466ca1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Constellation CEO: Google and Amazon Deals Equal “a New Large-Scale Nuclear Plant” at $7.3 Billion",
+   "excerpt": "Key TakeawaysConstellation Energy raised its 2026 adjusted operating EPS outlook to $12. 50 to $12.",
+   "url": "https://www.tikr.com/blog/constellation-ceo-google-and-amazon-deals-equal-a-new-large-scale-nuclear-plant-at-7-3-billion?ref=yahoofinance&tlnk=yf-261118-455pgf6h&.tsrc=rss",
+   "published": "2026-11-18T15:05:14+00:00",
+   "tickers": [
+    "GOOGL",
+    "AMZN"
    ],
    "summary_ko": null,
    "tone": null
@@ -331,14 +1101,14 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "c130e4f837d5995e",
    "kind": "news",
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
-   "title": "Analyst Warns of 76% MSTR Stock Drop to $23: Strategy Falls 2%, Riot Climbs 4%, MARA Gains 2%",
+   "title": "Analyst Warns of 76% MSTR Stock Drop to $23: Strategy Falls 4%, Riot Climbs 4%, MARA Gains 2%",
    "excerpt": "Bitcoin miners are rallying while the biggest corporate holder of the token slides, and a chart analyst sees far more pain ahead. What is Strategy doing with its stock that has bears circling?",
    "url": "https://247wallst.com/investing/2026/11/18/strategy-falls-2-as-bitcoin-slides-and-analyst-warns-of-76-drop-to-23-riot-climbs-4-mara-gains-2/?.tsrc=rss",
    "published": "2026-11-18T15:02:55+00:00",
@@ -381,7 +1151,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "e14839919b779d62",
@@ -397,7 +1167,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "8e98d458b7a5c2e3",
@@ -413,7 +1183,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "88a6af80c5fce4f4",
@@ -675,7 +1445,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "e2fe0f17408a174b",
@@ -805,6 +1575,21 @@
    "tone": null
   },
   {
+   "id": "d2cf59aeef74f4b8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oracle Stock Plunges 41% YTD Despite Cloud Strength: Hold or Fold?",
+   "excerpt": "ORCL shares plunge 41% YTD despite surging cloud revenues and a $664B backlog. Can strong AI demand offset cash burn and soaring capital spending?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-plunges-41-ytd-143500551.html?.tsrc=rss",
+   "published": "2026-11-18T14:35:00+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "0d51c900afd03ac4",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -849,7 +1634,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "35abfe2e2acd1751",
@@ -866,7 +1651,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "149c4680f9f4a183",
@@ -879,6 +1664,21 @@
    "published": "2026-11-18T14:30:00+00:00",
    "tickers": [
     "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1e1faed12f858a11",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Qualcomm's Deal With Cirrascale Boost its AI Growth Prospects?",
+   "excerpt": "QCOM is expanding its data center AI presence through a Cirrascale partnership to test its Dragonfly AI200 platform for advanced AI workloads.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/qualcomms-deal-cirrascale-boost-ai-143000776.html?.tsrc=rss",
+   "published": "2026-11-18T14:30:00+00:00",
+   "tickers": [
+    "QCOM"
    ],
    "summary_ko": null,
    "tone": null
@@ -914,6 +1714,21 @@
     "진행자들은 젠슨 황이 참석하지 않은 엔비디아의 3분기 실적 결과와 컨퍼런스 콜의 주요 내용을 정리했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "368c898a6183ca18",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney Q4 Earnings Beat Estimates, Revenues Rise Y/Y",
+   "excerpt": "DIS' Q4 fiscal 2026 earnings beat estimates as revenues rise 16%, fueled by strong Entertainment, Sports and Experiences growth. What's ahead for fiscal 2027?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/disney-q4-earnings-beat-estimates-142800472.html?.tsrc=rss",
+   "published": "2026-11-18T14:28:00+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "0a0ae011882e0164",
@@ -21763,6 +22578,22 @@
     "인기 모멘텀 펀드보다 실적이 좋지만 잘 알려지지 않은 JP모건 ETF를 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "b8cf4ae27cd2818a",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Sozzi Unleashed (9:30–10:00 a.m. ET)",
+   "excerpt": "Sozzi gives Nvidia's chairman a C minus, and Target's comps beat by two points | Sozzi Unleashed Brian Sozzi grades the morning after Nvidia's first earnings call without Jensen Huang. Colette Kress gets an A on the numbers and a C on the optics. New chairman Harvey Jones gets a C minus, and Sozzi says he has no confidence in him leading the search for a permanent chief executive. Jones does confirm on the call that the board does not intend to reinstate Huang. Then the one story that is not about Nvidia. Target's comparable sales rose 5.6% against the 3.8% Wall Street expected, net sales rose 7.1%, and Sozzi says he is straight up surprised. Plus Jeff Bezos on why outside chief executives rarely work. Featuring Jay Goldberg, Senior Analyst, Seaport Research Partners Harvey Jones, Chairman",
+   "url": "https://www.youtube.com/watch?v=JzarRuifPPo",
+   "published": "2026-11-17T12:35:54+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "082c72051ec06f8d",
