@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-18T03:30:30.042567+00:00",
+ "updated": "2026-11-18T03:42:42.203484+00:00",
  "posts": [
+  {
+   "id": "7b24587d2f65e3d9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom vs. Micron Technology: Which Tech Stock Is the Better Buy for 2027?",
+   "excerpt": "Both chipmakers are riding the AI spending boom, but they sell very different things, and the valuation gap between them is wide.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/17/broadcom-vs-micron-technology-which-tech-stock-is-the-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-18T03:30:02+00:00",
+   "tickers": [
+    "AVGO",
+    "MU"
+   ],
+   "summary_ko": [
+    "브로드컴과 마이크론 테크놀로지가 AI 투자 붐 속에서 주목받고 있다고 다뤘다.",
+    "두 반도체 기업은 서로 다른 제품을 판매하며 가치평가 격차가 크다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "61daf89ffc7563a9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism",
+   "excerpt": "Investing.com -- Asian technology shares delivered a mixed response on Wednesday after Nvidia reported stronger-than-expected quarterly results and issued an upbeat revenue forecast, with gains in selected chip and AI infrastructure companies.",
+   "url": "https://finance.yahoo.com/technology/articles/asia-tech-shares-turn-mixed-032547363.html?.tsrc=rss",
+   "published": "2026-11-18T03:25:47+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 호실적 발표 이후 아시아 기술주는 혼조세를 보였다고 전했다.",
+    "중국의 반도체 규제가 낙관론에 부담을 주었다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "52f529a35bdae656",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "“Of Course,” Musk Says When Told Tesla’s $1.6 Trillion Already Prices In Moderate Cybercab Success.",
+   "excerpt": "Key TakeawaysElon Musk replied “Of course” to an X post saying moderate Cybercab success is already priced into Tesla at $1. 6 trillion.",
+   "url": "https://www.tikr.com/blog/of-course-musk-says-when-told-teslas-1-6-trillion-already-prices-in-moderate-cybercab-success?ref=yahoofinance&tlnk=yf-261117-g8r23qw9&.tsrc=rss",
+   "published": "2026-11-18T03:18:57+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라의 시가총액 1조 6천억 달러에 사이버캡의 보통 수준 성공이 이미 반영되어 있다는 X 게시물에 머스크가 동의했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "e39133ae7f68f617",
    "kind": "youtube",
@@ -37,6 +91,42 @@
    "tone": "neg"
   },
   {
+   "id": "7d1235f759437c35",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Stock And 3 AI Semiconductor Picks For The Next Chip Demand Wave",
+   "excerpt": "AI and semiconductor leaders are being pulled in opposite directions right now, with rate hike worries, a strong US dollar and recent tech selling pressure sitting alongside upbeat signals from Nvidia’s Q3 numbers and the Anthropic IPO story. That mix creates wide performance gaps. This article unpacks how those cross currents hit three stocks exposed to the same news, and why the reaction might matter for your next move. The three stocks in focus below are just a starter set, while the full...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-3-ai-semiconductor-031423325.html?.tsrc=rss",
+   "published": "2026-11-18T03:14:23+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "금리 인상 우려와 강달러 등의 요인 속에서 엔비디아와 3개의 AI 반도체 종목을 조명했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "942d70ed070f87e9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Tumble As Customer Shock Clouds AI Outlook",
+   "excerpt": "Taiwan Semiconductor Manufacturing (NYSE:TSM) shares fell sharply after Nvidia CEO Jensen Huang resigned, intensifying concern around a key customer relationship. Fresh U.S. rules tightened remote access to advanced AI chips, adding pressure to TSMC's high end data center demand outlook. TSMC signed a multi year advanced packaging agreement with Xintec that targets CoWoS capacity constraints through 2033. The TSMC sell off after Jensen Huang's exit and new U.S. AI chip controls only tells...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-031120579.html?.tsrc=rss",
+   "published": "2026-11-18T03:11:20+00:00",
+   "tickers": [
+    "NVDA",
+    "TSM"
+   ],
+   "summary_ko": [
+    "엔비디아 CEO의 사임 소식과 미국의 새로운 AI 칩 규제로 TSMC 주가가 하락했다고 다뤘다.",
+    "신규 규제가 데이터센터 수요 전망에 압력을 더했다고 언급했다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "be95d57758702e93",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -52,6 +142,57 @@
     "세일즈포스가 관리자를 포함한 직원들을 대상으로 또 한 차례의 감원에 돌입했다고 전해졌다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "3772478eb01d6e31",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bank of America (BAC) Study Finds 84% Of Small Firms Now Use AI",
+   "excerpt": "Bank of America (NYSE:BAC) reports in its 2026 Business Owner Report that 84% of surveyed firms now use AI in some form. The study finds small and mid-sized businesses continue to fund technology and AI projects despite higher operating costs. Respondents indicate expectations that these AI and tech investments will support revenue growth and better customer experiences. The surge in AI adoption highlighted in Bank of America's 2026 Business Owner Report deserves weighing against the rest of...",
+   "url": "https://finance.yahoo.com/small-business/articles/bank-america-bac-study-finds-031042978.html?.tsrc=rss",
+   "published": "2026-11-18T03:10:42+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카 연구에 따르면 조사 대상 기업의 84%가 AI를 사용하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "045bf6d6820796e8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Charles Schwab (SCHW) Now Has The Largest U.S. Dividend ETF",
+   "excerpt": "The Schwab U.S. Dividend Equity ETF (NYSE:SCHD) has become the largest dividend-focused ETF in the U.S. market. The fund's new status highlights investor interest in Schwab's low-cost, dividend-oriented approach to portfolio income. This positions Charles Schwab's asset management arm as a central player in U.S. dividend ETF product design and distribution. The rise of SCHD to the largest dividend ETF is an important context check alongside the rest of our Charles Schwab work. We have also...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-now-largest-031034095.html?.tsrc=rss",
+   "published": "2026-11-18T03:10:34+00:00",
+   "tickers": [
+    "SCHD"
+   ],
+   "summary_ko": [
+    "찰스 슈왑의 배당 ETF가 미국 내에서 가장 큰 배당 중심 ETF가 되었다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "363d694f72bb6cb0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Does Hewlett Packard Enterprise (HPE) Gaining A Top 14 AI Supercomputer Mean?",
+   "excerpt": "Hewlett Packard Enterprise (NYSE:HPE) and AMD co-designed the new Lux AI supercomputer cluster for the U.S. Department of Energy's Genesis Mission. Lux debuted at No. 14 on the global TOP500 supercomputer list, marking its first appearance for the Genesis Mission facility. The Genesis Mission lab is the first DOE national laboratory to deploy HPE Networking solutions alongside cloud-like access for AI workloads. The Lux AI supercomputer debut at No. 14 on the TOP500 list is important, but it...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/does-hewlett-packard-enterprise-hpe-030945349.html?.tsrc=rss",
+   "published": "2026-11-18T03:09:45+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "휴렛팩커드 엔터프라이즈와 AMD가 공동 설계한 룩스 AI 슈퍼컴퓨터가 세계 톱500 목록에서 14위를 기록했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "96629cc6eb9b624d",
@@ -257,6 +398,23 @@
    "summary_ko": [
     "임시 CEO 콜레트 크레스는 수요가 계속 증가하고 있다고 밝혔다.",
     "엔비디아는 내년 75%의 성장을 예상한다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "1112aff9bb7d9c63",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Uber Riders in Vegas Can Now Get Driverless Zoox Robotaxi",
+   "excerpt": "Uber Technologies Inc. on Monday launched Zoox robotaxi rides through its app in Las Vegas. The company also announced separate partnerships to expand electronics delivery in Canada and accelerate electric vehicle adoption in India. Uber Expands Autonomous Ride-Hailing Services Uber...",
+   "url": "https://finance.yahoo.com/technology/articles/uber-riders-vegas-now-driverless-023011406.html?.tsrc=rss",
+   "published": "2026-11-18T02:30:11+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": [
+    "우버가 라스베이거스에서 앱을 통해 주행 로보택시 서비스를 출시했다고 전했다."
    ],
    "tone": "pos"
   },
@@ -2914,6 +3072,40 @@
    "summary_ko": [
     "디즈니는 낮은 기대치에 부합하는 실적을 거뒀으며 홈디포는 새로운 CEO를 발표했다.",
     "방송에서는 디즈니, 홈디포, L3해리스 등의 실적과 전략 변화를 논의했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "adc8c3a3f10a2b07",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $5 Billion Reason Why Nike Stock Is in Focus Today",
+   "excerpt": "Nike stock extends gains as management introduces Full Strike Ahead strategy. Here’s why that doesn’t warrant buying NKE shares today.",
+   "url": "https://www.barchart.com/story/news/8884315/a-5-billion-reason-why-nike-stock-is-in-focus-today?.tsrc=rss",
+   "published": "2026-11-17T21:22:44+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "경영진이 풀 스트라이크 어헤드 전략을 도입하면서 나이키 주가가 상승세를 보였다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "02f8573cccd6e08d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What It Will Take for Cerebras Stock to Stage a Real Revival After Q3 Earnings Rally",
+   "excerpt": "Management plans to reveal more details about Cerebras' new deal with Microsoft in 2027.",
+   "url": "https://www.barchart.com/story/news/8884311/what-it-will-take-for-cerebras-stock-to-stage-a-real-revival-after-q3-earnings-rally?.tsrc=rss",
+   "published": "2026-11-17T21:22:34+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "경영진이 2027년에 마이크로소프트와의 새로운 계약에 대한 세부 정보를 공개할 계획이라고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -42926,8 +43118,10 @@
    "tickers": [
     "BA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "보잉의 대규모 감원으로 인해 재무적 미래에 대한 우려가 커지고 있다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "d64fbc7d18946774",
@@ -42941,8 +43135,10 @@
    "tickers": [
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "인텔 주식의 주가 변동성과 관련한 연구 내용을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "2d1298ae182111f3",
@@ -42956,8 +43152,10 @@
    "tickers": [
     "QCOM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "퀄컴의 자동차 및 데이터센터 성장이 다각화를 강화하지만 이익 전망치 하락과 마진 압박이 존재한다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c3873f291eaa25aa",
@@ -42972,8 +43170,10 @@
     "AMD",
     "AVGO"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "톰 리는 임원 퇴진이 자신의 낙관적인 기술주 전망을 바꾸지 않는다고 주장했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "cd04e2d017007edc",
@@ -42987,8 +43187,11 @@
    "tickers": [
     "RGTI"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리게티의 3분기 실적과 관련해 양자 컴퓨팅 성과와 매출 성장이 기대감을 준다고 다뤘다.",
+    "반면 확대되는 손실과 높은 밸류에이션이 주가 전망에 의문을 제기하게 만든다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "8e48656019cb7e87",
@@ -43019,8 +43222,10 @@
    "tickers": [
     "ABNB"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "에어비앤비를 둘러싸고 낙관론과 규제 우려 등 엇갈린 시선이 공존해왔음을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "46598052aaad98f3",
@@ -43034,8 +43239,10 @@
    "tickers": [
     "UNH"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "유나이티드헬스 그룹의 주가가 최근 1년간 상승한 가운데, 실적이 이를 뒷받침하는지가 주요 화두라고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ac6a178b2679afd6",
@@ -43053,8 +43260,11 @@
     "IONQ",
     "OKLO"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO의 사임 소식 이후 AMD와 브로드컴 주가가 상승했다고 전했다.",
+    "반면 투자자들이 위험한 AI 베팅을 줄이면서 일부 관련 종목들은 하락했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "66464f1ce97601f1",
@@ -43068,8 +43278,10 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리비안이 월스트리트로부터 매수 등급 상향 조정을 받았다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "3343366b6c224d7c",
@@ -43084,8 +43296,10 @@
     "TSLA",
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "루시드가 자금난 우려 속에 주가가 하락세를 보이고 있음을 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "9901835b52e88d69",
@@ -43100,8 +43314,10 @@
     "BA",
     "JOBY"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "아처 에비에이션 등 에어택시 관련 주식들이 매수세에도 불구하고 동반 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "a63e7c7e0abb5424",
@@ -43115,8 +43331,10 @@
    "tickers": [
     "LLY"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일라이 릴리가 중국에서 경구용 비만 치료제 승인을 먼저 획득했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e5f6f37b30006a4b",
@@ -43130,8 +43348,11 @@
    "tickers": [
     "PLTR"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "팔란티어가 빠른 성장세를 보였음에도 불구하고 주가는 일주일 동안 급락했다고 다뤘다.",
+    "매출 수치에 대한 의문과 높은 밸류에이션이 매도세를 자극했다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "3ccde267711b250e",
@@ -43145,8 +43366,10 @@
    "tickers": [
     "NVO"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일라이 릴리가 헴스앤허스 플랫폼을 통해 제품을 직접 판매하기 시작했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "1e97d30b0ab65835",
@@ -43160,8 +43383,10 @@
    "tickers": [
     "UBER"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "트랙터 서플라이가 우버와 손잡고 당일 배송 서비스를 제공하기로 했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "767bf9ad5bd450dc",
@@ -43176,8 +43401,10 @@
     "LLY",
     "NVO"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일라이 릴리가 중국에서 경구용 비만 치료제 승인을 최초로 획득했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "3e0a86c096b23ec2",
@@ -43191,8 +43418,10 @@
    "tickers": [
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "알파벳 주가의 향방에 대한 연구와 문의 방법을 안내했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1d8d7f162549302e",
@@ -43206,8 +43435,10 @@
    "tickers": [
     "SBUX"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "아메리칸 하이쿠가 모런과 다브를 영입해 크리에이티브 역량을 강화한다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0888b4e89456e291",
@@ -43221,8 +43452,10 @@
    "tickers": [
     "DIS"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "디즈니의 새 CEO가 주가 회복을 이끌고 있는지에 대해 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "4417c2393fc587df",
@@ -43236,8 +43469,10 @@
    "tickers": [
     "PFE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "블랙스톤이 화이자의 비만 치료제 관련 계약에 최대 15억 달러를 지불한다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "eea639e3b5b47882",
@@ -43251,8 +43486,10 @@
    "tickers": [
     "NKE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "나이키 주가가 수요 부진과 중국 시장 약세 등으로 연초 대비 약 40% 하락했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "d241626444929cbe",
@@ -43266,8 +43503,10 @@
    "tickers": [
     "UNH"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "유나이티드헬스가 실적 발표 이후 주가가 1.9% 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "bad91127405b1448",
@@ -43281,8 +43520,10 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리비안 CEO는 로보택시가 자동차 소유를 대체하지 않을 것으로 본다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1c69d1cbe48262ec",
@@ -43296,8 +43537,10 @@
    "tickers": [
     "OKLO"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "오클로는 Groves-1 원자로의 연구 및 테스트 단계 진입을 위한 승인을 받았다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "71f9eb59e50d0bbd",
@@ -43311,8 +43554,10 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "스티펠은 리비안에 대해 매수 의견과 목표주가 22달러를 유지했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ccae7cffb8ee59a7",
@@ -43326,8 +43571,10 @@
    "tickers": [
     "NET"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "클라우드프레임 관련 질문은 이메일로 문의해 달라고 안내했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "34a904b8858b6cf2",
@@ -43341,8 +43588,10 @@
    "tickers": [
     "NKE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "나이키 관련 질문은 지정된 이메일로 문의해 달라고 안내했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "fd9c38abc124d6fd",
@@ -43356,8 +43605,10 @@
    "tickers": [
     "JOBY"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "조비 에비에이션 관련 질문은 이메일로 문의해 달라고 안내했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "94de2dc49d671283",
@@ -43371,8 +43622,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "짐 크레이머는 엔비디아 최고경영자를 둘러싼 논란으로 신뢰가 흔들렸다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "5a37d9782ce9cda8",
@@ -43386,8 +43639,10 @@
    "tickers": [
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "구글의 AI 오버뷰 영향으로 트래픽이 감소하며 레딧 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "0e3b34b1cca72cf2",
@@ -43402,8 +43657,10 @@
     "ADBE",
     "DIS"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "월트 디즈니는 어도비와 다년간의 AI 파트너십을 체결했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7fd4097bf6547776",
@@ -43453,8 +43710,10 @@
    "tickers": [
     "SHOP"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "바론 캐피털은 3분기 투자 서한에서 쇼피파이를 AI 관련 수혜주로 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "270e465494baef59",
@@ -43468,8 +43727,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO 관련 논란 속에서 짐 크레이머가 언급한 종목들을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "b7b1570b9f1eff2a",
@@ -43500,8 +43761,10 @@
    "tickers": [
     "RDDT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "레딧 CEO는 개인화 전환을 위해 로그인을 요구하는 플랫폼이라고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f864ea6f77850238",
@@ -43515,8 +43778,10 @@
    "tickers": [
     "QCOM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "실리콘 모션이 주가 성과와 실적 전망, 밸류에이션에서 퀄컴보다 우수하다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "b8910f66977e233c",
@@ -43530,8 +43795,10 @@
    "tickers": [
     "SHOP"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "차이킨 자금 흐름 지표를 통해 쇼피파이 등에 스마트 매수세가 유입되고 있음을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "78aaeb3aa2a7e329",
@@ -43545,8 +43812,10 @@
    "tickers": [
     "RDDT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "레딧 CEO는 AI가 레딧과 같은 인간 생성 콘텐츠에 의존한다고 주장했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "5863a080f9a2ebf3",
@@ -43560,8 +43829,10 @@
    "tickers": [
     "CRM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "퍼시픽 파이낸셜 그룹이 세일즈포스와 다년 계약을 체결했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "337a142d011fd798",
@@ -43575,8 +43846,10 @@
    "tickers": [
     "ASML"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "ASML이 최근 분기에 기록적인 매출을 기록했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "068dbb50cf36a9d5",
@@ -43590,8 +43863,10 @@
    "tickers": [
     "NET"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "시스코와 클라우드플레어가 사이버 보안 및 AI 인프라 수요로 수혜를 입고 있다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "dec4582449e204d6",
@@ -43624,8 +43899,10 @@
    "tickers": [
     "UNH"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "유나이티드헬스 그룹이 지난 한 해 동안 시장 수익률을 상회했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "77df3d90284d66ae",
@@ -43639,8 +43916,10 @@
    "tickers": [
     "NFLX"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "넷플릭스의 증가하는 콘텐츠 지출이 잉여현금흐름 전망에 영향을 주고 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4b02cd58703485c4",
@@ -43655,8 +43934,10 @@
     "CRWD",
     "NET"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AI 발전 속에서 사이버 보안 기업들의 대응 방안을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "1132f5189e2b9845",
@@ -43670,8 +43951,10 @@
    "tickers": [
     "MSTR"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "클라우드 구독 사업이 성장세를 보이며 매출이 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "af1c09a8a2113ba2",
@@ -43685,8 +43968,10 @@
    "tickers": [
     "DIS"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "디즈니의 2026년 9월 마감 분기 예상 실적과 주요 지표를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1417b19473b65b4a",
@@ -43701,8 +43986,10 @@
     "PANW",
     "NET"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "클라우드플레어가 더 강한 매출 성장 전망으로 주목받고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "994321a8f630be4e",
@@ -43716,8 +44003,10 @@
    "tickers": [
     "BA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "생산 및 인증 마일스톤 달성이 주가 상승을 이끌 수 있다고 전망했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "77065897cee9f75c",
@@ -43731,8 +44020,10 @@
    "tickers": [
     "ABNB"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "에어비앤비가 최근 투자자들의 높은 관심을 받고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "c6127f44028450c3",
@@ -43746,8 +44037,10 @@
    "tickers": [
     "QBTS"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "BMO 캐피털은 실적 부진 속에서도 D-웨이브 퀀텀에 대한 목표주가를 유지했다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4473f9e50477b319",
@@ -43761,8 +44054,11 @@
    "tickers": [
     "OKLO"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "오클로는 오하이오주 오로라 파워하우스 배치를 위해 센트러스 에너지와 다년 계약을 체결했다고 발표했다.",
+    "이번 계약을 통해 고순도 저농축 우라늄(HALEU) 공급을 확보하고 관련 시설 건설을 지원할 예정이다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "61d0695a3d7a3826",
@@ -43776,8 +44072,10 @@
    "tickers": [
     "PLTR"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "팔란티어 주가와 앤스로픽의 기업공개(IPO)를 비교하는 내용을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c52f0f0bfbb988f5",
@@ -43791,8 +44089,10 @@
    "tickers": [
     "CRM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "앤스로픽의 기업공개(IPO)가 세일즈포스와 서비스나우 주가에 악재가 될지 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "29f84bdedf2b9005",
@@ -43806,8 +44106,10 @@
    "tickers": [
     "PANW"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "사이버 보안 기업들의 실적 발표가 이어지는 가운데 팔로알토 네트워کس가 1분기 실적 발표 일정을 공개했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "a7eab8ffda7fef45",
@@ -43855,8 +44157,10 @@
    "tickers": [
     "QBTS"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "디웨이브 퀀텀은 가트너의 양자 컴퓨팅 신흥 시장 사분면에서 시장 형성자로 선정되었다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "5bb568f35b74a215",
@@ -43888,8 +44192,10 @@
    "tickers": [
     "IONQ"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "아이온큐의 향후 5년 동안의 주가 전망을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "fc076d73ed69239c",
@@ -43903,8 +44209,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "테슬라의 FSD가 핀란드의 승인을 받으며 유럽 내 확장에 속도를 내고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6a14dc7d369c47a1",
@@ -43918,8 +44226,10 @@
    "tickers": [
     "IONQ"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "아이온큐와 카라소프트의 파트너십이 연방 정부의 양자 컴퓨팅 도입을 가속화할 수 있을지 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "c12779306548dd3c",
@@ -43933,8 +44243,10 @@
    "tickers": [
     "LLY"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "스테이트 스트리트 헬스케어 SPDR 펀드가 일라이 릴리와 존슨앤드존슨 주식을 매수했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "c35b245f42dcc3aa",
@@ -43982,8 +44294,10 @@
    "tickers": [
     "RGTI"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리게티의 3분기 매출이 예상치를 밑돌았으며, CEO는 양자 컴퓨팅이 고전 컴퓨팅보다 우수함을 입증하기 어렵다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "9758c44fb4dbbe55",
@@ -43997,8 +44311,10 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "크라우드스트라이크가 보안을 위해 아카마이를 선택했음에도 주가가 큰 폭으로 하락한 사안을 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "e1b811643d94da3a",
@@ -44012,8 +44328,10 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "폭스바겐의 리비안 지분 확대와 소프트웨어 합작법인 성과에도 불구하고 연초 대비 주가가 하락한 점을 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "7705c82e6b1aeeb6",
@@ -44027,8 +44345,10 @@
    "tickers": [
     "IBIT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "비트코인 ETF에서 5거래일 동안 자금이 유출되었으며, 주로 블랙록의 IBIT가 이를 주도했다고 밝혔다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "da0c8dcb5791c702",
@@ -44042,8 +44362,10 @@
    "tickers": [
     "ABNB"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "오픈아이가 AI 여행 플랫폼 오데시아를 인수한 것이 에어비앤비에 새로운 경쟁 리스크가 될 수 있다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "6887b35bd38099ce",
@@ -44091,8 +44413,10 @@
    "tickers": [
     "JOBY"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "조비 에비에이션은 3분기 매출 호조와 전망 상향에 힘입어 최근 일주일간 주가가 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "36bf23d3270b3d43",
@@ -44106,8 +44430,11 @@
    "tickers": [
     "RGTI"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리게티 컴퓨팅은 3분기 실적에서 매출 141만 달러와 순손실 314만 달러를 기록했다고 다뤘다.",
+    "실적 발표 이후 주가는 큰 폭으로 하락했다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "3b72e1bafef9840d",
@@ -44121,8 +44448,11 @@
    "tickers": [
     "OKLO"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "오클로는 최근 변동성을 보이며 첨단 원자력 프로젝트로 주목을 받고 있다고 전했다.",
+    "그로브스 원자로 플랫폼과 오로라 배치 진행 상황이 향후 기대치에 영향을 줄 수 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f7e5149b769dd532",
@@ -44154,8 +44484,11 @@
    "tickers": [
     "SHOP"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "쇼피파이는 3분기 매출 37억 4천만 달러와 순손익 결과를 발표하며 밸류에이션이 주목받고 있다고 다뤘다.",
+    "다음 분기 매출 성장률 가이던스를 제시했으며 최근 주가는 혼조세를 보였다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ea7ffea04d71ba6a",
@@ -44238,8 +44571,11 @@
    "tickers": [
     "SHOP"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "쇼피파이는 3분기 매출과 순이익을 공개하고 4분기 매출 성장 가이던스를 제시했다고 다뤘다.",
+    "AI 상거래 도구와 메타와의 파트너십을 통해 상인 솔루션에 집중하고 있음을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "9ee75ee1a39c77cc",
@@ -44270,8 +44606,11 @@
    "tickers": [
     "DIS"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "디즈니는 작년에 배당금을 50% 인상했다고 언급했다.",
+    "올해도 작년과 비슷한 수준의 배당금 인상을 기대하기는 어렵다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "0d9a24e9625bce00",
@@ -44320,8 +44659,10 @@
    "tickers": [
     "ABNB"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "에어비앤비의 마켓플레이스 모델과 메르카도리브레의 라틴아메리카 생태계를 비교했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "8a3c1c643cedb329",
@@ -44335,8 +44676,11 @@
    "tickers": [
     "RGTI"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리게티 컴퓨팅은 3분기 실적 발표 이후 주가 하락과 밸류에이션 부담에 직면했다고 다뤘다.",
+    "지속적인 순손실과 높은 주가순자산비율(P/B)이 압박 요인으로 작용하고 있다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "d2c9d75c274c3a56",
@@ -44350,8 +44694,10 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리비안의 CEO RJ 스카린지는 AI가 인간을 대체하는 존재가 아닌 보완적인 도구라고 주장했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "7db3c852b885820c",
@@ -44365,8 +44711,10 @@
    "tickers": [
     "QQQ"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "매년 12월 나스닥-100 지수가 개편되면서 펀드 보유 종목도 함께 변경된다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "209ed0ff81908955",
@@ -44415,8 +44763,10 @@
     "UBER",
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리비안의 CEO RJ 스카린지는 로보택시가 자동차 소유의 종말을 의미하지는 않는다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "983df31c9bc69fcf",
@@ -44430,8 +44780,11 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리비안 오토모티브는 3분기 매출과 순손실을 기록했으며, 연간 차량 인도량 가이던스를 상향했다고 다뤘다.",
+    "전기차 R2 모델이 올해의 SUV로 선정되는 등 생산 규모 확대를 추진하고 있다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "138d4679cf43a1a1",
@@ -44445,8 +44798,10 @@
    "tickers": [
     "NET"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "클라우드플레어 주가의 향후 하락 가능성에 대한 문의처를 안내했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "32c0697a934f2b23",
@@ -44477,8 +44832,10 @@
    "tickers": [
     "NIO"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "니오의 주가는 최근 거래일에서 전일 대비 하락 마감했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "a26a5fec2e389334",
@@ -44532,8 +44889,10 @@
    "tickers": [
     "SHOP"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "쇼피파이의 매출 증가와 무부채 상황을 어드밴스 오토 파츠의 구조조정 상황과 비교했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "eb6868b4d2009696",
@@ -44547,8 +44906,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AI 관련 기업들의 주가 반등에 힘입어 엔비디아의 주가가 상승했다고 다뤘다.",
+    "일각에서는 엔비디아 CEO의 사임을 요구하는 목소리도 있었다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "540e4f4af3aee07e",
@@ -44562,8 +44924,11 @@
    "tickers": [
     "RGTI"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "Rigetti Computing은 108큐비트 시스템에서 99.5%의 중앙값 게이트 충실도를 기록했다고 밝혔다.",
+    "미국 상무부와 CHIPS법에 따른 1억 달러 규모의 자금 지원 협약을 체결했다고 발표했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "63d5aebdfbf91397",
@@ -44577,8 +44942,11 @@
    "tickers": [
     "APP"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AppLovin은 3분기 실적에서 크게 증가한 매출과 이익을 기록했다고 전했다.",
+    "4분기 가이던스 발표와 함께 대규모 자사주 매입 계획을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "07d1a78a42a5e721",
@@ -44592,8 +44960,10 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리비안의 전기차 R2가 모터트렌드의 올해의 SUV에 선정되었다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "f1ebbc4bba7ae73b",
@@ -44607,8 +44977,10 @@
    "tickers": [
     "NET"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "DZ뱅크가 클라우드플레어를 상향 조정한 이유를 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "161b0a9f5947724c",
@@ -44622,8 +44994,10 @@
    "tickers": [
     "IONQ"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "월스트리트 분석가들의 평균 중개 의견을 바탕으로 아이온큐에 대한 긍정적 시각을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "3e10689926bdb649",
@@ -44637,8 +45011,10 @@
    "tickers": [
     "ABNB"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "월스트리트의 낙관적인 평균 중개 추천 의견을 바탕으로 에어비앤비 투자를 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7e8ea4b056129193",
@@ -44652,8 +45028,10 @@
    "tickers": [
     "NET"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "월스트리트의 낙관적인 평균 중개 추천 의견을 바탕으로 클라우드플레어 투자를 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "29528d15411924dd",
@@ -44667,8 +45045,10 @@
    "tickers": [
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "JP모건은 GTA 6 출시를 앞둔 테이크투 인터랙티브를 중소형주 최우선 종목으로 선정했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2483baff47f3d554",
@@ -44682,8 +45062,10 @@
    "tickers": [
     "ABNB"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "에어비앤비와 소니의 연초 대비 부문별 실적 성과를 비교했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5d74b5642768cbc3",
@@ -44697,8 +45079,10 @@
    "tickers": [
     "NKE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "펩시코, 나이키, 브리스톨마이어스스큅에 분산 투자한 포트폴리오의 배당금 수령 사례를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "0d35d39c9c214e91",
@@ -44712,8 +45096,10 @@
    "tickers": [
     "NKE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "나이키의 신임 CEO가 전임자의 결정을 수정했음에도 S&P 100에서 제외되었다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "75dda8c96ac4f101",
@@ -44744,8 +45130,10 @@
    "tickers": [
     "RGTI"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리짓티의 2028년 중반 300큐비트 목표가 칩렛 확장성의 성능 향상을 시험할 핵심 지표라고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e6b32d4e9b498b14",
@@ -44759,8 +45147,10 @@
    "tickers": [
     "OKLO"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "크레이그 헐럼은 오클로의 3분기 실적 발표 이후 목표 주가를 53달러에서 27달러로 하향 조정했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "c4b7a509a6e8bbee",
@@ -44774,8 +45164,10 @@
    "tickers": [
     "NKE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "나이키 주가가 고점 대비 하락한 상태이며, 다가오는 마진 목표 공개를 주목해야 한다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "05a689094f9ad22a",
@@ -44789,8 +45181,10 @@
    "tickers": [
     "RGTI"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리게티 컴퓨팅은 2026 회계연도 3분기 실적에서 매출이 예상치에 미치지 못했다고 밝혔다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "1a30013fbd9b5644",
@@ -44804,8 +45198,11 @@
    "tickers": [
     "ABNB"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "오픈아이의 오데시아 인수로 인해 인공지능이 유발할 위협에 대한 우려가 커졌다고 다뤘다.",
+    "이로 인해 에어비앤비 등 여행 관련 주가가 하락했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "5ac099646aca39ff",
@@ -44820,8 +45217,11 @@
     "TSLA",
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "핀란드가 테슬라의 운전자 보조 시스템을 승인하면서 주가가 상승했다고 다뤘다.",
+    "반면 루시드는 시티의 하향 조정 등으로 주가가 하락했다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4f81fcca4265f355",
@@ -44835,8 +45235,10 @@
    "tickers": [
     "RGTI"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "제프리스는 리게티의 300큐비트 이상 시스템이 2028년 중반에나 목표로 잡혀 있다고 경고했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "651a9106a934ed87",
@@ -44850,8 +45252,10 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리비안의 전기 SUV가 주요 상을 수상했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b13440e88d00862c",
@@ -44865,8 +45269,10 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "스티펠은 리비안에 대해 매수 의견을 유지하고 목표주가를 제시했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "25af40187c70f53b",
@@ -44880,8 +45286,10 @@
    "tickers": [
     "LCID"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "TD 코웬은 루시드 그룹의 보유 의견을 유지하고 예상보다 많은 현금 소모를 이유로 목표주가를 낮췄다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "fcd2514aa5dacd1a",
@@ -44895,8 +45303,10 @@
    "tickers": [
     "NET"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "바론 캐피털의 3분기 투자자 서한에서 클라우드플레어가 다뤄졌음을 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5ba5f29850b16e60",
@@ -44910,8 +45320,10 @@
    "tickers": [
     "ABNB"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "에어비앤비가 시장 성과를 웃돌 수 있는 탄탄한 성장 속성을 지니고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a2a0bc0eb7789da4",
@@ -44942,8 +45354,10 @@
    "tickers": [
     "NET"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "짐 크레이머는 클라우드플레어를 시장에서 가장 비싼 주식이라고 불렀으나 선호한다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "30a42e71c06625c9",
@@ -44957,8 +45371,10 @@
    "tickers": [
     "OKLO"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "오클로의 현금 보유가 원자력 사업을 뒷받침하지만, 과도한 지출과 손실 확대로 투자 주의가 필요하다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "ff78053364dfb234",
@@ -44989,8 +45405,10 @@
    "tickers": [
     "LCID"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "루시드 그룹이 3분기 실적과 함께 사우디아라비아 펀드의 자금 지원 및 현금 소모 감소 소식을 전했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "96307b9cb9e7a261",
@@ -45004,8 +45422,10 @@
    "tickers": [
     "LCID"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "전기차 및 자율주행 도입에 따라 수혜를 볼 수 있는 전고체 배터리, 라이다, 전기차 관련 종목을 조명했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7ae7c1bf2487cbd3",
@@ -45021,8 +45441,10 @@
     "ADBE",
     "SHOP"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "글로벌 옴니채널 소매 시장 보고서에서 어도비, 아마존웹서비스, 세일즈포스, 쇼피파이 등이 언급되었다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "659e4bf565e56f12",
@@ -45054,8 +45476,10 @@
    "tickers": [
     "UNH"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "유나이티드헬스가 이사회에 어린이 병원 임원을 새로 선임했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "9d840b61f9e09320",
@@ -45103,8 +45527,10 @@
    "tickers": [
     "LCID"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "루시드의 주가 반등에도 불구하고 최근 몇 년간의 하락세로 인해 실제 매출 성과와 시장 가치를 두고 의문이 제기된다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "fad490250700bee1",
