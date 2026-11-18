@@ -1,6 +1,212 @@
 {
- "updated": "2026-11-18T22:00:37.734626+00:00",
+ "updated": "2026-11-18T22:30:38.313658+00:00",
  "posts": [
+  {
+   "id": "53c5d7ca961be2ae",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The 5 Best Stocks in Nvidia’s Portfolio",
+   "excerpt": "Key TakeawaysNvidia’s latest 13F shows $48. 33 billion of US stocks, nearly all of it in SpaceX, Intel, CoreWeave, Coherent and Synopsys.",
+   "url": "https://www.tikr.com/blog/the-5-best-stocks-in-nvidias-portfolio?ref=yahoofinance&tlnk=yf-261118-w3gg2hcj&.tsrc=rss",
+   "published": "2026-11-18T22:23:15+00:00",
+   "tickers": [
+    "NVDA",
+    "INTC"
+   ],
+   "summary_ko": [
+    "엔비디아의 최신 13F 보고서에 나타난 미국 주식 포트폴리오의 주요 종목들을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "45cbce39fda30638",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Popular carmaker taps JPMorgan for agent payments",
+   "excerpt": "Kinexys by JPMorgan facilitates a proof-of-concept involving AI agents testing a payment without direct human intervention.",
+   "url": "https://www.thestreet.com/crypto/innovation/popular-carmaker-taps-jpmorgan-for-agent-payments?.tsrc=rss",
+   "published": "2026-11-18T22:21:25+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "유명 자동차 제조사가 AI 에이전트의 직접 결제 테스트를 위해 JP모간의 키넥시스를 활용했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a9206262d9e4dfe5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Update: US Equity Indexes Mixed as Investors Await Anthropic IPO After Nvidia Hits Risk Sentiment, Fed Minutes Favor Tighter Policy",
+   "excerpt": "(Updates with index/price moves and Fed minutes from the first paragraph.) US equity indexes trad",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-investors-221521655.html?.tsrc=rss",
+   "published": "2026-11-18T22:15:21+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 영향과 연준 의사록 발표를 주시하며 미국 증시가 혼조세를 보였다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a75322f47ce51dda",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia's AI Boom Faces Three Major Tests. Investor Flags Risks Beyond Record Sales.",
+   "excerpt": "Nvidia's record earnings have done little to settle questions about its future. An investment expert tells IBT which financial indicators and leadership risks could shape the chipmaker's next chapter.",
+   "url": "https://www.ibtimes.com/nvidia-growth-margin-ai-spending-leadership-tests-3809942?.tsrc=rss",
+   "published": "2026-11-18T22:13:30+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 AI 호실적에도 불구하고 재무 지표와 리더십 리스크 등 향후 직면할 주요 테스트를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "66fcf2bda5158e35",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today, Nov. 18: Nvidia Slips on Strong Results as Succession and China Business Risks Weigh",
+   "excerpt": "On Nov. 18, 2026, Nvidia shares fell despite upbeat guidance, as investors weighed the CEO transition and tighter chip rules.",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-nvidia-slips-on-strong-results-as-succession-and-china-business-risks-weigh/?.tsrc=rss",
+   "published": "2026-11-18T22:11:35+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 호실적 가이드에도 불구하고 CEO 교체와 중국 사업 리스크로 인해 하락했다고 보도했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "39550b7171fdacb9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Josh Brown Says Netflix Trades at 16 Times Next Year’s Earnings After a 50% Drop. Is It a Buy?",
+   "excerpt": "Josh Brown once called Netflix his biggest mistake of the year, then watched the stock sink even further. Now he sees a bargain hiding in the wreckage, but the bear case has real teeth, and one upcoming report could settle the debate.",
+   "url": "https://247wallst.com/investing/2026/11/18/josh-brown-says-netflix-trades-at-16-times-next-years-earnings-after-a-50-drop-is-it-a-buy/?.tsrc=rss",
+   "published": "2026-11-18T22:07:34+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "넷플릭스가 큰 폭으로 하락한 후 내년 예상 실적 기준으로 저평가 구간에 진입했다고 조슈 브라운이 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bb16d518b1210f53",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today, Nov. 18: CoreWeave Slides as Nvidia's Blowout Earnings Fail to Ease Debt Concerns",
+   "excerpt": "Booming demand for artificial intelligence infrastructure is doing little to alleviate investor concerns about the financial costs of keeping pace with the industry's rapid expansion.",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-coreweave-slides-as-nvidia-s-blowout-earnings-fail-to-ease-debt-concerns/?.tsrc=rss",
+   "published": "2026-11-18T22:05:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 호실적에도 불구하고 AI 인프라 확대에 따른 부채 우려로 코어위브 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "7617e0b9e754e67f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures: Anthropic IPO Prices High, Palo Alto, Everpure Rally; Market Mixed On Nvidia, Target, UnitedHealth, Fed 'Shock'",
+   "excerpt": "The stock market was mixed as UnitedHealth dived and Nvidia fell. The Anthropic IPO priced high. Palo Alto, Everpure leaped.",
+   "url": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures%3A-anthropic.html?.tsrc=rss",
+   "published": "2026-11-18T22:04:40+00:00",
+   "tickers": [
+    "NVDA",
+    "UNH"
+   ],
+   "summary_ko": [
+    "엔비디아와 유나이티드헬스 등의 하락 속에서 증시가 혼조세를 보였다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "85b4ecc955e38acd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Arm CEO Rene Haas Reportedly Approached By Recruitment Agency Hired By Nvidia Board",
+   "excerpt": "Hass appreciated Huang’s leadership at Nvidia during a technology conference in Austin.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/arm-ceo-rene-haas-reportedly-approached-by-recruitment-agency-hired-by-nvidia-board/cNbgiWnR9id?.tsrc=rss",
+   "published": "2026-11-18T22:03:15+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "암의 CEO 르네 하스가 엔비디아 이사회가 고용한 채용 대행사로부터 접촉을 받았다고 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "eddc8d31c4d919c9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Update: Wall Street Mixed Amid Nvidia Sell-Off, Fed Minutes",
+   "excerpt": "(Updates with market moves at the end of the day, and other changes, if any.) US stocks traded mi",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-mixed-amid-nvidia-220050802.html?.tsrc=rss",
+   "published": "2026-11-18T22:00:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 주가 하락과 연준 의사록 공개 속에서 월스트리트 증시가 혼조세를 보였다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "c7632128143711c6",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Wednesday's Final Takeaways: Gold at 52-Week Lows, Housing Market Mixed",
+   "excerpt": "Mixed housing market data continues to shake the foundation of an industry in search of a solid bullish headline. In commodities, gold hits levels not seen since September 2025. Sam Vadas and Marley Kayden take investors through their final takeaways of Wednesday's Wall Street session. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network:",
+   "url": "https://www.youtube.com/watch?v=uLeOH2Vn4QI",
+   "published": "2026-11-18T22:00:39+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "혼조세를 보이는 주택 시장 데이터와 52주 최저치를 기록한 금 가격 등 월스트리트의 마감 동향을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0c5d14b313659755",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Where Will Palantir Stock Be in 1 Year?",
+   "excerpt": "It's down right now, but there's reason to suspect that can change.",
+   "url": "https://www.fool.com/investing/2026/11/18/where-will-palantir-stock-be-in-1-year/?.tsrc=rss",
+   "published": "2026-11-18T21:59:02+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "현재 하락세를 보이는 팔란티어 주가의 1년 뒤 전망에 대해 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "713a49a59a32b60e",
    "kind": "news",
@@ -15,6 +221,23 @@
    ],
    "summary_ko": [
     "마이크론 임원이 AI 메모리 수요가 공급을 계속 앞지르고 있다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "15e9cc10d5520462",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron President on the AI gap: \"China is far behind in high-bandwidth memory\"",
+   "excerpt": "Micron (MU) President and Chief Technology and Products Officer, Scott J. DeBoer, joins Deirdre Bosa on Yahoo Finance's Deirdre Bosa Live to o discuss the memory gap in the global AI chip race and the competitive nature of the memory business.",
+   "url": "https://finance.yahoo.com/video/micron-president-on-the-ai-gap-china-is-far-behind-in-high-bandwidth-memory-220744101.html?.tsrc=rss",
+   "published": "2026-11-18T21:58:17+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론의 스콧 디보어 사장이 AI 칩 경쟁에서 중국이 고대역폭 메모리 분야에서 한참 뒤처져 있다고 밝혔다."
    ],
    "tone": "pos"
   },
@@ -34,6 +257,23 @@
     "마이크론 CTO가 2027년 메모리 공급 제약이 더욱 심화될 것이라고 전망했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "bbe842dfbf59a81a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Correction: Palo Alto Networks Q1 Adjusted Earnings, Revenue Rises; Lifts 2027 Outlook; Announces Applied Compute Acquisition",
+   "excerpt": "(Corrected to add deal value) Palo Alto Networks (PANW) reported fiscal Q1 adjusted earnings late",
+   "url": "https://finance.yahoo.com/technology/articles/correction-palo-alto-networks-q1-215313503.html?.tsrc=rss",
+   "published": "2026-11-18T21:53:13+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스가 1분기 실적 발표와 함께 2027년 전망을 상향 조정했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0e0b2e39152773b9",
@@ -119,6 +359,24 @@
     "금리 인상 경고와 엔비디아 주가 반등 실패 등을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "0e6f1758f833c748",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto to buy Applied Compute for $4.5 billion, while Q1 results beat estimates",
+   "excerpt": "Investing.com -- Palo Alto Networks said on Wednesday it would acquire artificial intelligence infrastructure company Applied Compute for $4.5 billion in an all-stock deal, as the cybersecurity company reported better-than-expected fiscal first-quarter results and raised its full-year revenue and earnings forecasts.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-buy-applied-compute-214334309.html?.tsrc=rss",
+   "published": "2026-11-18T21:43:34+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스가 AI 인프라 기업 어플라이드 컴퓨트를 45억 달러의 주식 교환 방식으로 인수한다고 밝혔다.",
+    "1분기 실적이 예상치를 웃돌았으며, 연간 매출과 순이익 전망치도 상향 조정했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2568cecaa319bd0b",
@@ -219,9 +477,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "트럼프 대통령의 투자 계정들이 백악관 재입성 이후 엔비디아 주식을 다수 거래했다고 CNBC가 보도했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ff18a71196726134",
@@ -5365,6 +5624,24 @@
    "summary_ko": [
     "짐 크레이머가 AST 스페이스모바일을 보유하기 어려운 종목이라고 평가했다.",
     "이후 해당 종목의 주가가 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "04900f91c5f467cc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "As Tesla Plans to Roll Out the Cybercab for Individual Use, TSLA Stock Is a Tough Nut to Crack",
+   "excerpt": "The Cybercab is only to be used for personal purposes and will require a pricey subscription. That combined with its incredibly high valuation, TSLA stock looks to be in a very difficult position.",
+   "url": "https://www.barchart.com/story/news/8899448/as-tesla-plans-to-roll-out-the-cybercab-for-individual-use-tsla-stock-is-a-tough-nut-to-crack?.tsrc=rss",
+   "published": "2026-11-18T15:55:31+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라의 사이버캐브가 개인용으로만 사용되며 비싼 구독료가 필요하다고 언급했다.",
+    "높은 밸류에이션과 맞물려 TSLA 주식이 매우 어려운 입장에 처해 있다고 분석했다."
    ],
    "tone": "neg"
   },
@@ -58285,41 +58562,6 @@
    ],
    "summary_ko": [
     "리비안의 CEO RJ 스카린지는 로보택시가 자동차 소유의 종말을 의미하지는 않는다고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "983df31c9bc69fcf",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Should Award Winning R2 Require Action From Rivian (RIVN) Investors?",
-   "excerpt": "Rivian Automotive reported third quarter 2026 revenue of US$2,155 million with a net loss of US$913 million, raised full year 2026 delivery guidance to a range of 67,000 to 70,000 units, and recently saw its all electric R2 named MotorTrend's 2027 SUV of the Year. The award for the R2, combined with narrowing losses and higher delivery guidance, reflects how Rivian is working to scale production while positioning its midsize SUV for a broader, more price sensitive customer base. We will now...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/award-winning-r2-require-action-220901950.html?.tsrc=rss",
-   "published": "2026-11-11T22:09:01+00:00",
-   "tickers": [
-    "RIVN"
-   ],
-   "summary_ko": [
-    "리비안 오토모티브는 3분기 매출과 순손실을 기록했으며, 연간 차량 인도량 가이던스를 상향했다고 다뤘다.",
-    "전기차 R2 모델이 올해의 SUV로 선정되는 등 생산 규모 확대를 추진하고 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "138d4679cf43a1a1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Big Could Cloudflare Stock's Next Fall Be?",
-   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://www.trefis.com/stock/net/articles/624233/how-big-could-cloudflare-stocks-next-fall-be/2026-11-11?.tsrc=rss",
-   "published": "2026-11-11T22:05:03+00:00",
-   "tickers": [
-    "NET"
-   ],
-   "summary_ko": [
-    "클라우드플레어 주가의 향후 하락 가능성에 대한 문의처를 안내했다."
    ],
    "tone": "neu"
   }
