@@ -1,6 +1,441 @@
 {
- "updated": "2026-11-18T12:30:32.648412+00:00",
+ "updated": "2026-11-18T13:00:39.692082+00:00",
  "posts": [
+  {
+   "id": "fdbf483c3fb8bea0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "China Lost Its ‘Best Friend’ at Nvidia. A Former Intelligence Officer Says the Fallout Is ‘a Catastrophe’ for Beijing",
+   "excerpt": "Jensen Huang’s exit from Nvidia Corp. (NASDAQ:NVDA) cost Beijing one of its strongest advocates for access to American AI chips, a former U.S. intelligence officer told Benzinga. \"Jensen Huang was the best friend they ever had,\" said Nicholas Eftimiades, a former Defense Intelligence Agency officer. Huang had warned that if Nvidia left the Chinese market, rivals such as Huawei would step in. Huang resigned last week after reports that he had an affair with Alice Huang, a former executive at Nvid",
+   "url": "https://finance.yahoo.com/technology/ai/articles/china-lost-best-friend-nvidia-125632223.html?.tsrc=rss",
+   "published": "2026-11-18T12:56:32+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "전직 정보장교는 젠슨 황의 엔비디아 퇴임이 베이징에 재앙이라고 주장했다.",
+    "황이 떠나며 화웨이 같은 경쟁사가 진입할 수 있다는 우려가 제기됐다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "d10010feff1eec5a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia’s Board Has Considered the CEOs of Arm and Marvell to Replace Huang",
+   "excerpt": "Nvidia posted a blowout quarter, yet the boardroom story overshadowed it. Two rival chip CEOs reportedly sit on the shortlist, three directors want Huang back, and one of those executives is deep in a $115 billion merger.",
+   "url": "https://247wallst.com/investing/2026/11/18/nvidias-board-has-considered-the-ceos-of-arm-and-marvell-to-replace-huang/?.tsrc=rss",
+   "published": "2026-11-18T12:52:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 호실적을 거뒀으나 이사회 관련 소식이 주목받았다.",
+    "황을 대체할 후보로 경쟁사 CEO들이 거론되는 것으로 전해졌다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "1742e907c61430b7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures Fall, Techs Rise After Nvidia, Target Earnings, Hawkish Waller Comments; Anthropic IPO Ahead",
+   "excerpt": "Dow Jones futures: Nvidia and Target earnings topped views. Fed Gov. Waller said inflation is \"spreading out.\" The Anthropic IPO looms.",
+   "url": "https://finance.yahoo.com/m/3b22ed8c-00c3-32f8-89f5-91bc21ccb366/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+   "published": "2026-11-18T12:49:52+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아와 타겟의 실적이 예상치를 상회한 것으로 나타났다.",
+    "연준 월러 이사의 발언과 앤스로픽 IPO 임박 소식이 전해졌다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "c47a905e8dd42880",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Netflix Just Hit a 52-Week Low. Where’s the Bottom?",
+   "excerpt": "Netflix has shed nearly half its value from the peak, and ad cuts and a massive Warner Bros. bet are fueling the fear. Yet record buybacks and fat margins tell a different story, so which signal should investors trust?",
+   "url": "https://247wallst.com/investing/2026/11/18/netflix-just-hit-a-52-week-low-wheres-the-bottom/?.tsrc=rss",
+   "published": "2026-11-18T12:47:45+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "넷플릭스 주가가 52주 신저가를 기록한 배경을 다뤘다.",
+    "광고 삭감과 대규모 베팅이 우려를 낳는다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "c48d3c3e996c103b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike Stock Draws Mixed Analyst Views After Investor Day – Morgan Stanley Flags Risks, Barclays Turns More Constructive",
+   "excerpt": "Barclays cut its price target to $42 from $45 and kept an Overweight rating on the shares following the investor day, according to TheFly.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nike-stock-draws-mixed-analyst-views-after-investor-day-morgan-stanley-flags-risks-barclays-turns-more-constructive/cNbgRKVR9L1?.tsrc=rss",
+   "published": "2026-11-18T12:45:24+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키의 인베스터 데이 이후 애널리스트들의 전망이 엇갈렸다.",
+    "바클레이즈는 목표주가를 낮추면서도 비중확대 의견을 유지했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "beac8e3922eaae70",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "New Oracle Primavera Cloud AI Capabilities Help Construction Teams Improve Project Planning and Risk Management",
+   "excerpt": "Oracle today announced new enhancements to Oracle Primavera Cloud (OPC) designed to help engineering and construction teams easily find product guidance, strengthen capital planning, risk management, and more effectively coordinate work around project milestones. With the new AI help assistant embedded in OPC, users can get real-time responses to everyday OPC questions such as \"How do I assign a risk to an activity?\" or \"How do I add a baseline?\" In tandem, new risk library helps teams track and",
+   "url": "https://finance.yahoo.com/technology/ai/articles/oracle-primavera-cloud-ai-capabilities-124500487.html?.tsrc=rss",
+   "published": "2026-11-18T12:45:00+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "오라클이 건설 팀의 프로젝트 계획을 돕는 클라우드 AI 기능을 발표했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2d927549b0506902",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Update: Market Chatter: Nvidia Sales Team Introduced Alibaba to Megaspeed Founder Before US Chip Export Restrictions",
+   "excerpt": "(Updates to include a statement from Nvidia in the fifth paragraph.) Nvidia's (NVDA) sales team c",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-sales-team-124404825.html?.tsrc=rss",
+   "published": "2026-11-18T12:44:04+00:00",
+   "tickers": [
+    "NVDA",
+    "BABA"
+   ],
+   "summary_ko": [
+    "엔비디아 영업팀이 수출 제한 전 알리바바를 소개했다는 보도가 나왔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "68cd96db07381bdf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Fund Managers Are Cutting Tech at the Fastest Pace Since 2006",
+   "excerpt": "Fund managers dumped tech while holding almost no cash and expecting no recession. Why that mix worries strategists more than panic would, and what two signals could tell XLK and QQQ holders the selling is finally over.",
+   "url": "https://247wallst.com/investing/2026/11/18/fund-managers-are-cutting-tech-at-the-fastest-pace-since-2006/?.tsrc=rss",
+   "published": "2026-11-18T12:42:13+00:00",
+   "tickers": [
+    "QQQ"
+   ],
+   "summary_ko": [
+    "펀드매니저들이 2006년 이후 가장 빠른 속도로 기술주를 매도했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "8513af478a081ec6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Chaos Is the Perfect Setup for Anthropic IPO",
+   "excerpt": "How anxiety around much anticipated Nvidia earnings created the perfect sweet spot for Anthropic's IPO.",
+   "url": "https://finance.yahoo.com/m/2e61581d-1dd5-36b6-8a99-93ff5072394d/nvidia-chaos-is-the-perfect.html?.tsrc=rss",
+   "published": "2026-11-18T12:41:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 실적 발표를 앞둔 시장의 불안감이 앤스로픽 IPO에 유리한 환경을 만들었다고 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f9bf2b5b21b24d92",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Export Decision Reportedly Draws Democrats’ Question Of Whether Lutnick Decisions ‘May Have Been Improperly Influenced’",
+   "excerpt": "Representatives Jamie Raskin and Gregory Meeks have asked Cantor Fitzgerald for documents on its Nvidia holdings, according to a Bloomberg report.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-export-decision-draws-democrats-question-of-whether-lutnick-decisions-may-have-been-improperly-influenced/cNbgRQHR9LK?.tsrc=rss",
+   "published": "2026-11-18T12:40:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "민주당 하원의원들이 러트닉의 결정이 부적절한 영향을 받았는지 질의했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f8860d579bd5e4d7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Huang's Exit May Not Sink Nvidia Stock",
+   "excerpt": "Nvidia has lost the only CEO it ever had. Jensen Huang co-founded the company in 1993 and ran it until he resigned. Nvidia announced the change on Thursday, Nov 12, before the market opened. Its chief financial officer, Colette Kress, became interim CEO. On Tuesday, Nov 17, the board's chair said the board does not intend to bring Huang back.",
+   "url": "https://www.trefis.com/stock/nvda/articles/626098/why-huang-s-exit-may-not-sink-nvidia-stock/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T12:38:06+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 창립자 젠슨 황이 사임했다고 발표했다.",
+    "최고재무책임자가 임시 CEO를 맡았고 이사회는 복귀 의사가 없다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "32520a8f9a778b1b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "When Is Anthropic IPO? What Analysts Are Saying About the AI Giant’s Trading Debut.",
+   "excerpt": "The Claude developer’s trading debut is about to become the main story for the market after more than a week of chatter about Nvidia.",
+   "url": "https://finance.yahoo.com/m/5906f483-b5fb-37b6-acbf-63639ba6a982/when-is-anthropic-ipo%3F-what.html?.tsrc=rss",
+   "published": "2026-11-18T12:38:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "앤스로픽의 상장이 엔비디아 관련 소식 이후 시장의 주요 관심사로 부상하고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "542fe0e807c06810",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Salesforce Stock Jump 50%?",
+   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://www.trefis.com/stock/crm/articles/626228/can-salesforce-stock-jump-50/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T12:34:45+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "세일즈포스 주가 상승 가능성에 대한 질문을 다루었다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "7524ed33b71c06dc",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "'DIRTY TRICKS': National security expert EXPOSES China's alleged tactics",
+   "excerpt": "Former Deputy National Security Advisor Victoria Coates analyzes U.S. AI chip export restrictions on China and Beijing's threat of retaliation. She also discusses Nvidia's Jensen Huang testifying before Congress. Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news prog",
+   "url": "https://www.youtube.com/watch?v=jRy1YNeN3bE",
+   "published": "2026-11-18T12:30:30+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "빅토리아 코츠 전 부보좌관이 미국의 대중국 AI 칩 수출 제한과 보복 위협을 분석했다.",
+    "그는 엔비디아의 젠슨 황의 의회 증언 등에 대해서도 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d0231ecb05613284",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia gets Yorkville Ives backing as broker maintains $225 target despite leadership turmoil",
+   "excerpt": "Nvidia Corp (NASDAQ:NVDA, XETRA:NVD) has retained an 'outperform' rating with Yorkville Ives, which outlined a $225 price target following record quarterly earnings and stronger revenue guidance. The target implies approximately 45% upside from the $155.5 share price cited in the broker's...",
+   "url": "https://www.proactiveinvestors.com/companies/news/1102000/nvidia-gets-yorkville-ives-backing-as-broker-maintains-225-target-despite-leadership-turmoil-1102000.html?.tsrc=rss",
+   "published": "2026-11-18T12:30:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 기록적인 실적 발표 후 요크빌 아이브스로부터 매수 의견을 유지받았다.",
+    "경영진 혼란 속에서도 브로커는 목표주가를 제시했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "5c5536296d7f75eb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Deliverect Earns Premier Status in Uber Partner Network",
+   "excerpt": "Deliverect, the global restaurant technology company that connects digital ordering channels with in-store operations and orchestrates delivery across the restaurant ecosystem, has earned Premier Status in the Uber Partner Network. Premier is the highest tier in the network, which rates the technology companies that integrate with Uber’s platform, and Deliverect has earned it for both […]",
+   "url": "https://www.qsrmagazine.com/news/deliverect-earns-premier-status-in-uber-partner-network/?.tsrc=rss",
+   "published": "2026-11-18T12:28:43+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": [
+    "딜리버젝트가 우버 파트너 네트워크에서 최고 등급인 프리미어 등급을 획득했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "70a0e94a805ebf32",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is UnitedHealth Stock Falling?",
+   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://www.trefis.com/stock/unh/articles/626290/why-is-unitedhealth-stock-falling/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T12:28:09+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": [
+    "유나이티드헬스 주가 하락의 이유를 다루고 있다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "c49fec4301f17d1f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Biggest Dow Jones Loser Nike Keeps Sinking After Investor Day. Here's Why.",
+   "excerpt": "Sneaker giant Nike failed to reassure investors about its turnaround strategy after extended earnings slump.",
+   "url": "https://finance.yahoo.com/m/33ec99e1-212c-3b5e-b08e-3b717c966dd8/biggest-dow-jones-loser-nike.html?.tsrc=rss",
+   "published": "2026-11-18T12:26:09+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키가 실적 부진 이후 투자자들의 우려를 해소하지 못해 하락세를 이어가고 있다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "b6dfba8bf8f50ee3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is IREN Stock Surging Today?",
+   "excerpt": "IREN Ltd (NASDAQ:IREN) shares surged 7. 2% in US premarket trading on Wednesday, supported by stronger-than-expected quarterly earnings from Nvidia, renewed confidence in artificial intelligence infrastructure spending and a broader recovery across specialised AI cloud computing companies.",
+   "url": "https://investorshub.advfn.com/market-news/article/40289/why-is-iren-stock-surging-today?.tsrc=rss",
+   "published": "2026-11-18T12:24:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 실적 호조와 AI 인프라 투자 심리 회복 등이 IREN 주가 상승을 지지했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "21faef40c5e2ea23",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Nebius Stock Surging Today?",
+   "excerpt": "Nebius Group NV (NASDAQ:NBIS) shares surged 8. 4% in US premarket trading, supported by stronger-than-expected quarterly results from Nvidia, renewed confidence in artificial intelligence infrastructure investment and a broader recovery across specialised AI cloud computing companies.",
+   "url": "https://investorshub.advfn.com/market-news/article/40287/why-is-nebius-stock-surging-today?.tsrc=rss",
+   "published": "2026-11-18T12:22:36+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 실적 호조와 AI 인프라 투자 신뢰 회복이 네비우스 주가 급등을 이끌었다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "16f8eaceb0030e4c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple Is the Only Magnificent Seven Stock Near a Record",
+   "excerpt": "While the S&P 500 stumbled through a fourth straight loss, one megacap barely flinched and left its six peers far behind. Its premium price, a memory cost squeeze, and a Fed minutes release could test whether this refuge holds.",
+   "url": "https://247wallst.com/investing/2026/11/18/apple-is-the-only-magnificent-seven-stock-near-a-record/?.tsrc=rss",
+   "published": "2026-11-18T12:22:20+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플이 매그니피센트 7 종목 중 유일하게 최고가 근처에 머물러 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "560248cba3377b15",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is CoreWeave Stock Rising Today?",
+   "excerpt": "CoreWeave (NASDAQ:CRWV) shares surged 6. 5% in US premarket trading on Wednesday, supported by stronger-than-expected quarterly earnings from Nvidia, renewed confidence in artificial intelligence infrastructure spending and improving sentiment towards the company’s own growth prospects.",
+   "url": "https://investorshub.advfn.com/market-news/article/40285/why-is-coreweave-stock-rising-today?.tsrc=rss",
+   "published": "2026-11-18T12:21:38+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 실적 호조와 AI 인프라 투자 심리 개선으로 코어위브 주가가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "a5fdf8a498273cba",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did Nike Stock Move?",
+   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://www.trefis.com/stock/nke/articles/626286/why-did-nike-stock-move/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T12:21:23+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키 주가 변동의 배경을 다루고 있다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "8ff2b9adaa0675d6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Hewlett Packard Enterprise Stock Rising Today?",
+   "excerpt": "Hewlett Packard Enterprise (NYSE:HPE) shares climbed 3. 9% in US premarket trading, supported by the company’s response to an ongoing Federal Aviation Administration (FAA) router investigation and a broader recovery in artificial intelligence infrastructure stocks following stronger-than-expected earnings from Nvidia.",
+   "url": "https://investorshub.advfn.com/market-news/article/40283/why-is-hewlett-packard-enterprise-stock-rising-today?.tsrc=rss",
+   "published": "2026-11-18T12:20:24+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "FAA 라우터 조사 대응과 엔비디아 실적 호조에 따른 AI주 회복이 휴렛 팩커드 엔터프라이즈 상승을 지지했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7d94503bea90be14",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Super Micro Computer Stock Rising Today?",
+   "excerpt": "Super Micro Computer (NASDAQ:SMCI) shares climbed 4. 3% in US premarket trading, supported by a broader recovery in artificial intelligence infrastructure stocks following stronger-than-expected quarterly earnings from Nvidia.",
+   "url": "https://investorshub.advfn.com/market-news/article/40281/why-is-super-micro-computer-stock-rising-today?.tsrc=rss",
+   "published": "2026-11-18T12:19:00+00:00",
+   "tickers": [
+    "NVDA",
+    "SMCI"
+   ],
+   "summary_ko": [
+    "엔비디아 실적 호조에 따른 AI 인프라주 회복이 슈퍼마이크로 컴퓨터 주가 상승을 이끌었다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "4353bfc455a9482a",
    "kind": "news",
@@ -19,6 +454,41 @@
    "tone": "neg"
   },
   {
+   "id": "5c98bb4fe49cebf5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Dell Technologies Stock Surging Today?",
+   "excerpt": "Dell Technologies (NYSE:DELL) shares surged 5. 0% in US premarket trading, supported by stronger-than-expected quarterly results from Nvidia, a favourable assessment from Citi and growing expectations for continued demand for artificial intelligence infrastructure.",
+   "url": "https://investorshub.advfn.com/market-news/article/40279/why-is-dell-technologies-stock-surging-today?.tsrc=rss",
+   "published": "2026-11-18T12:17:50+00:00",
+   "tickers": [
+    "NVDA",
+    "DELL"
+   ],
+   "summary_ko": [
+    "엔비디아 실적과 씨티의 평가, AI 인프라 수요 기대감이 델 테크놀로지스 주가 상승을 지지했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2d9adef33b87437e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Broadcom Stock Rising Today?",
+   "excerpt": "Broadcom Inc. (NASDAQ:AVGO) shares climbed 2.",
+   "url": "https://investorshub.advfn.com/market-news/article/40277/why-is-broadcom-stock-rising-today?.tsrc=rss",
+   "published": "2026-11-18T12:16:50+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴 주가 상승 배경을 다루고 있다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "453347ca824a8ba8",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -33,6 +503,24 @@
    "summary_ko": [
     "엔비디아가 수요와 공급에 대해 안심시키면서 주가가 상승했다고 다뤘다.",
     "4분기 약 1,300억 달러의 매출을 예상했다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "99b3071ff9e946a6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Intel Stock Rising Today?",
+   "excerpt": "Intel Corporation (NASDAQ:INTC) shares gained 1. 8% in US premarket trading, supported by a broader recovery in semiconductor stocks following stronger-than-expected quarterly earnings from Nvidia and renewed investor confidence in Intel’s ongoing restructuring programme.",
+   "url": "https://investorshub.advfn.com/market-news/article/40275/why-is-intel-stock-rising-today?.tsrc=rss",
+   "published": "2026-11-18T12:15:51+00:00",
+   "tickers": [
+    "NVDA",
+    "INTC"
+   ],
+   "summary_ko": [
+    "엔비디아 실적 호조와 구조조정 프로그램에 대한 신뢰가 인텔 주가 상승을 도왔다고 전했다."
    ],
    "tone": "pos"
   },
@@ -90,6 +578,42 @@
    "tone": "pos"
   },
   {
+   "id": "adcf24ba0f9c873c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Micron Technology Stock Rising Today?",
+   "excerpt": "Micron Technology (NASDAQ:MU) shares gained 3. 5% in US premarket trading, supported by stronger-than-expected quarterly results from Nvidia and a substantial increase in the AI chipmaker’s long-term memory supply commitments.",
+   "url": "https://investorshub.advfn.com/market-news/article/40273/why-is-micron-technology-stock-rising-today?.tsrc=rss",
+   "published": "2026-11-18T12:14:51+00:00",
+   "tickers": [
+    "NVDA",
+    "MU"
+   ],
+   "summary_ko": [
+    "엔비디아 실적 호조와 장기 메모리 공급 계약 증가가 마이크론 테크놀로지 주가 상승을 지지했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "8c997056aec22cab",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 Catalysts That Will Boost Micron Stock Beyond Strong AI Earnings",
+   "excerpt": "Micron stock was getting a boost from Nvidia earnings but it needs more to fuel a significant rally.",
+   "url": "https://finance.yahoo.com/m/dfd72c7d-a0e5-3183-be07-91983664b076/3-catalysts-that-will-boost.html?.tsrc=rss",
+   "published": "2026-11-18T12:14:00+00:00",
+   "tickers": [
+    "NVDA",
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론이 엔비디아 실적 외에도 랠리를 이끌 추가 촉매제가 필요하다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "897b4ef9f81bc0bd",
    "kind": "youtube",
    "source": "CNBC Television",
@@ -142,6 +666,25 @@
     "바클레이즈는 엔비디아의 리더십 불확실성 속에서도 실적이 호평을 받고 있다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "d5475c27c675e93e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Advanced Micro Devices Stock Rising Today?",
+   "excerpt": "Advanced Micro Devices (NASDAQ:AMD) shares gained 2. 7% in premarket trading, supported by stronger-than-expected earnings from rival Nvidia, the completion of a major artificial intelligence acquisition and continued analyst optimism about AMD’s data centre business.",
+   "url": "https://investorshub.advfn.com/market-news/article/40269/why-is-advanced-micro-devices-stock-rising-today?.tsrc=rss",
+   "published": "2026-11-18T12:12:32+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": [
+    "경쟁사 엔비디아의 실적 호조와 AI 관련 인수 완료로 AMD 주가가 상승했다고 전했다.",
+    "애널리스트들의 데이터 센터 사업에 대한 긍정적 전망도 주가 상승을 뒷받침했다고 설명했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "d3c8baed343e3656",
@@ -487,6 +1030,24 @@
     "사이버트럭 판매량이 급감한 이후 일론 머스크가 테슬라 생산 체제에 큰 변화를 주었다고 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "e03ea5cef37873af",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Boeing's 737 MAX Certifications Accelerate Its Recovery?",
+   "excerpt": "BA clears key 737 MAX certification hurdles, advances production plans and benefits from strong aircraft demand, but delivery execution remains critical.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/boeings-737-max-certifications-accelerate-112400466.html?.tsrc=rss",
+   "published": "2026-11-18T11:24:00+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "summary_ko": [
+    "보잉이 737 MAX 인증 난관을 넘어서며 생산 계획을 진전시키고 있다고 다뤘다.",
+    "항공기 수요는 강하지만 인도 실행력이 회복의 핵심이라고 지적했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "039fb50efb2df72d",
@@ -18381,6 +18942,24 @@
     "인기 모멘텀 펀드보다 실적이 좋지만 잘 알려지지 않은 JP모건 ETF를 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "082c72051ec06f8d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "MongoDB's Biggest Advantage May Be GitLab's Biggest Weakness",
+   "excerpt": "MongoDB's data moat and Atlas growth make it a stronger AI play than GitLab, which faces competitive threats from Microsoft's GitHub and cybersecurity rivals.",
+   "url": "https://www.marketbeat.com/articles/mongodbs-biggest-advantage-may-be-gitlabs-biggest-weakness/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+   "published": "2026-11-17T12:35:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "몽고DB의 데이터 해자와 아틀라스 성장이 깃랩보다 더 나은 AI 관련주라고 평가했다.",
+    "반면 깃랩은 마이크로소프트의 깃허브 등과 경쟁 위협에 직면해 있다고 분석했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f81ec7dabf35fe29",
@@ -48900,40 +49479,6 @@
     "구글 주식에 대한 분석과 투자 관련 교육적 내용을 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "47bbef9041c537ef",
-   "kind": "youtube",
-   "source": "Value Investing with Sven Carlin, Ph.D.",
-   "author": "Value Investing with Sven Carlin, Ph.D.",
-   "title": "Interesting Stocks Possibly Giving 10% or More Ahead! Netflix Stock Example...",
-   "excerpt": "Research Platform Interactive Brokers: New Book is out: The Value Investing Handbook When investing, your capital is at risk. The link in this description to Interactive Brokers is an affiliate link. This means I may earn a commission if you click them, at no cost to you. These links help support me and the channel, but they are not part of any sponsorship. I am only sharing my own experience and the views I express are mine alone - I’m not a financial advisor and do not make investment recommendations or give investment advice. You should always do your own research and due diligence before investing. None of the information contained herein constitutes a recommendation, offer, promotion, or solicitation of an offer to buy, sell or hold any security, financial product or instrument or to ",
-   "url": "https://www.youtube.com/shorts/T-cCXkgD5SM",
-   "published": "2026-11-11T13:00:01+00:00",
-   "tickers": [
-    "NFLX"
-   ],
-   "summary_ko": [
-    "넷플릭스 등 주식 종목과 가치 투자 도서를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "99347f14a5bae826",
-   "kind": "youtube",
-   "source": "Value Investing with Sven Carlin, Ph.D.",
-   "author": "Value Investing with Sven Carlin, Ph.D.",
-   "title": "Interesting Stocks Possibly Giving 10% or More Ahead! Netflix Stock Example...",
-   "excerpt": "Research Platform Interactive Brokers: New Book is out: The Value Investing Handbook When investing, your capital is at risk. The link in this description to Interactive Brokers is an affiliate link. This means I may earn a commission if you click them, at no cost to you. These links help support me and the channel, but they are not part of any sponsorship. I am only sharing my own experience and the views I express are mine alone - I’m not a financial advisor and do not make investment recommendations or give investment advice. You should always do your own research and due diligence before investing. None of the information contained herein constitutes a recommendation, offer, promotion, or solicitation of an offer to buy, sell or hold any security, financial product or instrument or to ",
-   "url": "https://www.youtube.com/watch?v=T-cCXkgD5SM",
-   "published": "2026-11-11T13:00:01+00:00",
-   "tickers": [
-    "NFLX"
-   ],
-   "summary_ko": [
-    "넷플릭스 주가 사례를 들어 10% 이상 상승 가능성이 있는 종목들을 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
