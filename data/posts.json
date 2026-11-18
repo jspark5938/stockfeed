@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-18T12:00:40.366936+00:00",
+ "updated": "2026-11-18T12:16:28.122074+00:00",
  "posts": [
+  {
+   "id": "897b4ef9f81bc0bd",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Nidia's growth outlook survives Jensen Huang succession questions, says BofA's Vivek Arya",
+   "excerpt": "Vivek Arya, Bank of America Securities senior semiconductor analyst, joins 'Squawk Box' to break down Nvidia's quarterly earnings results.",
+   "url": "https://www.youtube.com/watch?v=1sl3CWo9KDM",
+   "published": "2026-11-18T12:13:30+00:00",
+   "tickers": [
+    "NVDA",
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카 분석가 비벡 아리아가 엔비디아의 분기 실적을 분석했다.",
+    "젠슨 황 승계 관련 질문 속에서도 엔비디아의 성장 전망은 유지된다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "62faffe5a8c5cbac",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Nvidia Offers Relief to AI Trade, US Hits Island in Hormuz",
+   "excerpt": "A dayslong selloff in technology stocks came to a halt after a strong outlook from Nvidia Corp. helped soothe investors’ fears over the durability of the artificial intelligence trade. American warplanes hit an Iranian missile launch site on Qeshm Island in the Persian Gulf late on Tuesday, a US military official said, as the two sides intensified tit-for-tat attacks in the ongoing war. The Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Anna Edwards, Guy Johnson and Tom Mackenzie. Chapters: 00:00:00 - Bloomberg's \"The Opening Trade\" Begins; Opening Headlines: Nvidia, Anthropic and Trump’s China Trip 00:01:11 - Th",
+   "url": "https://www.youtube.com/watch?v=uQ4KmD1jOvM",
+   "published": "2026-11-18T12:09:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 양호한 전망에 힘입어 기술주 매도세가 진정되었다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "7a376f13b4ba243a",
    "kind": "news",
@@ -9,13 +45,100 @@
    "title": "Dow Jones Futures: Techs Jump On Nvidia Earnings; Target Beats, Anthropic IPO Ahead",
    "excerpt": "Nvidia earnings beat after the major indexes broke below recent lows. Target also topped views, with the Anthropic IPO set to price Wednesday night.",
    "url": "https://finance.yahoo.com/m/3b22ed8c-00c3-32f8-89f5-91bc21ccb366/dow-jones-futures%3A-techs-jump.html?.tsrc=rss",
-   "published": "2026-11-18T11:57:09+00:00",
+   "published": "2026-11-18T12:05:51+00:00",
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아의 실적 호조에 힘입어 기술주 선물 가격이 상승했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "22a13c68214bce3f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia delivered a monster quarter, then its new leaders stumbled on the earnings call",
+   "excerpt": "Nvidia delivered the numbers, but there was another side to its earnings day.",
+   "url": "https://finance.yahoo.com/markets/article/nvidia-delivered-a-monster-quarter-then-its-new-leaders-stumbled-on-the-earnings-call-120332810.html?.tsrc=rss",
+   "published": "2026-11-18T12:03:32+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 뛰어난 실적을 발표했으나, 실적 발표 컨퍼런스 콜에서는 아쉬운 점도 있었다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "efd4b1c3aa26ebcb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bank of America sees a tech retreat not seen since 2006",
+   "excerpt": "Big investors are questioning the AI boom behind popular retirement funds.",
+   "url": "https://www.thestreet.com/investing/bank-of-america-sees-a-tech-retreat-not-seen-since-2006?.tsrc=rss",
+   "published": "2026-11-18T12:03:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카는 2006년 이후 보기 드문 기술주 후퇴 양상을 언급했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6157ecca1c954d6c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jim Cramer Told Nvidia’s Interim CEO “the Cheapest Stock in the World Is Yours”",
+   "excerpt": "Nvidia's interim CEO took a victory lap on Mad Money after earnings, but when Jim Cramer pressed her on buybacks and risky customer bets, her numbers and the company's own filings told two different stories.",
+   "url": "https://247wallst.com/investing/2026/11/18/jim-cramer-told-nvidias-interim-ceo-the-cheapest-stock-in-the-world-is-yours/?.tsrc=rss",
+   "published": "2026-11-18T12:02:22+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "짐 크레이머가 엔비디아 임시 CEO에게 자사주 매입과 고객 관련 위험에 대해 질문했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "45c9cb5f82996533",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Planes, banks and the NSA all went down in one week",
+   "excerpt": "In six days, Microsoft 365 went down, every U.S. flight was grounded, big banks showed $0 balances and the NSA's classified network went offline. Officials blame faulty servers and aging systems. Host Ejaaz Ahamadeen walks through each one, asks if it's all a coincidence and breaks down what Google and the FBI revealed about AI-run hacking.",
+   "url": "https://finance.yahoo.com/video/planes-banks-nsa-went-down-120000752.html?.tsrc=rss",
+   "published": "2026-11-18T12:00:00+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "마이크로소프트 365 장애와 항공편 결항 등 최근 발생한 주요 시스템 중단 사태들을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "e6948335dff9fab0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Gix Internet: Quantum X Labs Achieves 99.93% Data Recovery in Qatacomb Quantum Cybersecurity Validation Using IonQ’s Quantum Computing Infrastructure",
+   "excerpt": "Quantum cybersecurity technology Qatacomb successfully passes four validation tests under simulated high-noise quantum computing conditions, demonstrating near-perfect authorized data recovery and no measurable advantage for a simulated eavesdropper TEL AVIV, Israel, Nov. 18, 2026 (GLOBE NEWSWIRE) -- Gix Internet Ltd. (Nasdaq: GIXI; TASE: GIX) (“Gix” or the “Company”), a dual-listed technology company, today announced that Quantum X Labs Inc. (Nasdaq: QXL) (“Quantum X Labs” or “QXL”), in which G",
+   "url": "https://finance.yahoo.com/technology/ai/articles/gix-internet-quantum-x-labs-115500123.html?.tsrc=rss",
+   "published": "2026-11-18T11:55:00+00:00",
+   "tickers": [
+    "IONQ"
+   ],
+   "summary_ko": [
+    "퀀텀 엑스 랩스가 아이온큐의 양자 컴퓨팅 인프라를 활용해 데이터 복구 검증에 성공했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6616f34d4ef39b5a",
@@ -31,9 +154,10 @@
     "TSM",
     "ASML"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "마이크로소프트, ASML, TSMC가 AI 수요를 바탕으로 장기적인 경쟁력을 갖추고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "4e7c65e6770adda0",
@@ -47,9 +171,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "전 CEO 관련 논란 속에서도 엔비디아의 3분기 매출이 103% 증가했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ef223b6bb7b084fc",
@@ -63,9 +188,10 @@
    "tickers": [
     "BABA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "앤트로픽이 혼조세를 보이는 시장에서 기업공개(IPO)를 추진한다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "65dd81675efb092a",
@@ -79,9 +205,10 @@
    "tickers": [
     "PFE"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "화이자가 스타나 테라퓨틱스와 자가면역질환 치료를 위한 독점 라이선스 계약을 체결했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "8b21ef46c351bf62",
@@ -95,9 +222,28 @@
    "tickers": [
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "AMD 등이 협력해 개발한 럭스 슈퍼컴퓨터가 과학 연구용으로 개방되었다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "45988fd2a62f3464",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Shares Rise 3% as Revenue Doubles to $115.84 Billion and Company Raises AI Growth Forecast",
+   "excerpt": "Nvidia (NASDAQ:NVDA) shares gained more than 3% in US premarket trading after the semiconductor manufacturer reported stronger-than-expected third-quarter results and raised its revenue outlook, supported by continued demand for artificial intelligence infrastructure. The company reported a 103.",
+   "url": "https://investorshub.advfn.com/market-news/article/40260/nvidia-shares-rise-3-as-revenue-doubles-to-115-84-billion-and-company-raises-ai-growth-forecast?.tsrc=rss",
+   "published": "2026-11-18T11:36:14+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 시장 예상치를 웃도는 3분기 실적을 발표하고 AI 성장 전망을 상향 조정했다고 밝혔다.",
+    "이 소식에 힘입어 엔비디아 주가가 시간외 거래에서 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "fbe9a9339dbd7e0b",
@@ -111,9 +257,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "사이버트럭 판매량이 급감한 이후 일론 머스크가 테슬라 생산 체제에 큰 변화를 주었다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "039fb50efb2df72d",
@@ -146,7 +293,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "662bf3a294009cef",
@@ -179,7 +326,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "065d26284a48cc58",
@@ -195,7 +342,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "c8cb8a1ac6e7ec2c",
@@ -211,7 +358,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "4542f6b34e25182f",
@@ -227,7 +374,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "5140e7a0ca88b535",
@@ -243,7 +390,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "07de92036a89dbb1",
@@ -259,7 +406,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "f1ea617b878ae01c",
@@ -275,7 +422,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "32013fba9f380c77",
@@ -290,7 +437,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "7953b5c1aa0b1586",
@@ -306,7 +454,8 @@
     "CRM"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "4d79d02f628be01c",
@@ -321,7 +470,8 @@
     "ASML"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "869745ab41c6c9f0",
@@ -337,7 +487,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "6d033589afc60321",
@@ -822,7 +972,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "e356b5a1440873d4",
@@ -838,7 +988,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "32bd15a234921c6d",
@@ -854,7 +1004,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "a97a8083b481f048",
