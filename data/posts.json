@@ -1,6 +1,126 @@
 {
- "updated": "2026-11-18T09:00:40.174358+00:00",
+ "updated": "2026-11-18T09:30:30.679889+00:00",
  "posts": [
+  {
+   "id": "6d9e5d792b64fb91",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike outlines ‘Full Stride Ahead’ strategy and fiscal 2031 financial targets",
+   "excerpt": "The company’s long-term financial framework sets a target operating margin of 12% to 14% and adjusted EPS of $3.00 to $3.50 by fiscal 2031, using fiscal 2027 as the baseline.",
+   "url": "https://www.retail-insight-network.com/news/nike-full-stride-ahead-fiscal-2031-financial-targets/?.tsrc=rss",
+   "published": "2026-11-18T09:18:55+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키가 '풀 스트라이드 어헤드' 전략과 2031 회계연도 재무 목표를 공개했다고 다뤘다.",
+    "2027 회계연도를 기준으로 영업이익률 12~14%, 조정 주당순이익 3.00~3.50달러를 목표로 설정했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f06069442dacdf42",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia's Troubles: 1 Crucial Lesson for Investors",
+   "excerpt": "There’s something you can do to protect your portfolio from excessive turbulence.",
+   "url": "https://www.fool.com/investing/2026/11/18/nvidia-troubles-1-crucial-lesson-for-investors/?.tsrc=rss",
+   "published": "2026-11-18T09:15:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 어려움을 통해 투자자가 포트폴리오를 보호하기 위해 취할 수 있는 교훈을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "9e0435db43300a3a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Market Chatter: Nvidia Co-Founder Jensen Huang Retains Right to Nominate Two Directors",
+   "excerpt": "Nvidia (NVDA) co-founder and former Chief Executive Jensen Huang retains the right to nominate up to",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-co-founder-091102982.html?.tsrc=rss",
+   "published": "2026-11-18T09:11:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 공동 창업자인 젠슨 황이 이사 2명을 지명할 권리를 유지하고 있다고 시장 소식을 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "cc34e48737f488c8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Nvidia clears hurdle, Anthropic prepares to price its IPO",
+   "excerpt": "US stock futures steadied after a turbulent start to the week as Nvidia cleared its earnings bar and investors awaited the next big AI catalyst: Anthropic's IPO.",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html?.tsrc=rss",
+   "published": "2026-11-18T09:06:13+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 실적 고비를 넘기고 앤트로픽의 기업공개를 앞두고 미국 주가지수 선물 상승세를 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "62aba1737caefb0b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla Is Now Taking Cybercab Orders. Here's Where I Think the Stock Will Be in 2030.",
+   "excerpt": "The robotaxi finally has a price. But how much profit is the stock already counting on?",
+   "url": "https://www.fool.com/investing/2026/11/18/tesla-is-now-taking-cybercab-orders-here-s-where-i-think-the-stock-will-be-in-2030/?.tsrc=rss",
+   "published": "2026-11-18T09:03:02+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라가 사이버캡 주문을 받기 시작했으며 2030년 주가 전망을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "5a918950de853ee1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Could Jensen Huang Run Nvidia Again? Polymarket Bettors Think It’s Possible",
+   "excerpt": "Nvidia's board rules out a Jensen Huang return, yet Polymarket traders still give it about 34% odds by the end of 2027.",
+   "url": "https://beincrypto.com/nvidia-board-jensen-huang-return-odds/?.tsrc=rss",
+   "published": "2026-11-18T09:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 이사회는 젠슨 황의 복귀를 배제했지만 폴리마켓 베팅 참가자들은 복귀 가능성을 언급했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ca98078fc9957800",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia says no longer shipping 'Hopper' AI chips to China",
+   "excerpt": "Scandal-hit Californian chip giant Nvidia said Tuesday it has stopped shipping artificial intelligence chips from its \"Hopper\" series to China, as scrutiny grows over Beijing's access to powerful US semiconductors.This year, the Trump administration began allowing limited sales of the flagship \"H200\" chip from Nvidia's \"Hopper\" series to China.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-says-no-longer-shipping-085349050.html?.tsrc=rss",
+   "published": "2026-11-18T08:53:49+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 중국으로의 '호퍼' 시리즈 AI 칩 선적을 중단했다고 밝혔다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "42b302dff8167d32",
    "kind": "news",
@@ -331,6 +451,24 @@
     "노보 노디스크의 주가 하락세 속에서 상향된 2026년 전망을 바탕으로 저평가되었을 가능성을 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "5f1e3840a9fd36df",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Kalshi Will Start Offering Stock and ETF Trading. That’s a New Threat to Robinhood",
+   "excerpt": "Key TakeawaysKalshi plans to offer stock and ETF trading within two months, the Wall Street Journal reported, competing with Robinhood’s brokerage and Coinbase’s newer stock trading. Robinhood routes much of its event-contract business, which earned $173 million last quarter, to Kalshi, so a partner is becoming a rival.",
+   "url": "https://www.tikr.com/blog/kalshi-will-start-offering-stock-and-etf-trading-thats-a-new-threat-to-robinhood?ref=yahoofinance&tlnk=yf-261118-5vmg2crp&.tsrc=rss",
+   "published": "2026-11-18T06:14:53+00:00",
+   "tickers": [
+    "COIN",
+    "HOOD"
+   ],
+   "summary_ko": [
+    "칼시가 주식 및 ETF 거래를 제공할 계획이며 로빈후드에 새로운 위협이 될 수 있다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "c5bc673d3c459b04",
@@ -46884,23 +47022,6 @@
     "여러 ETF가 아마존 주식을 대거 매수했다고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "a200e4da50840765",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Will New Tech Leadership Change Hyatt Stock Narrative",
-   "excerpt": "Hyatt Hotels appointed Danny Miles as Chief Digital & Information Officer, placing him in charge of a combined digital and technology organization that covers AI, cybersecurity, engineering and digital products across the global hotel portfolio. Miles’ track record building consumer-facing platforms at Under Armour, Dollar Shave Club and Nike points to a heavier focus on data driven guest engagement and operational efficiency inside Hyatt’s existing fee based model. This article will examine...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tech-leadership-change-hyatt-stock-091419796.html?.tsrc=rss",
-   "published": "2026-11-11T09:14:19+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "하얏트 호텔이 새로운 최고 디지털 및 정보 괸리자를 임명하며 기술 리더십 변화를 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
