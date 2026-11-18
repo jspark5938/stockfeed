@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-18T08:00:38.504200+00:00",
+ "updated": "2026-11-18T08:30:31.563444+00:00",
  "posts": [
+  {
+   "id": "81144a3f3bec602e",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "US Strikes Iran’s Qeshm Island as Bahrain and Kuwait Face Fresh Drone Attacks",
+   "excerpt": "US-Iran clashes intensify as Washington says it struck Iran’s Qeshm Island in self-defense following renewed attacks on Bahrain. Bahrain and Kuwait report further drone interceptions, while vessel strikes around the Strait of Hormuz keep regional security and energy risks elevated. Oil holds near recent gains as traders weigh renewed fighting against recovering supply. Markets are also watching how any disruption through Hormuz could feed into prices, with even small supply losses capable of producing an outsized move in crude. Nvidia raises its outlook as it tries to reassure investors after Jensen Huang’s departure. The company lifts its 2028 revenue growth forecast, while reported commitments climb sharply. Management says it does not intend to reinstate Huang, even as his exit continue",
+   "url": "https://www.youtube.com/watch?v=1vahA4fYMJ0",
+   "published": "2026-11-18T08:24:06+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 젠슨 황의 퇴임 이후 투자자들을 안심시키기 위해 실적 전망을 상향했다고 다뤘다.",
+    "회사는 2028년 매출 성장 전망을 높이고 약속된 물량이 급증했다고 밝혔다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "44b6de496aba2c37",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Putin and Xi Close Ranks Ahead of High-Stakes Trump Summit?",
+   "excerpt": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. Chapters: 00:00:00 - Insight with Haslinda Amin Begins 00:02:29 - Trump makes AI push with Quad leaders as China rivalry grows 00:08:08 - Indian Trade Promotion Organization Chairman Jawed Ashraf on India's expanding ASEAN trade ties 00:14:44 - Jawed Ashraf on the outlook for US-India trade 00:18:15 - Xi warns against ‘rampant’ protectionism before Trump talks 00:27:11 - Nvidia boosts forecast while quashing idea of Huang’s return 00:30:28 - Apollo’s Rowan says insurance will power the $8T AI boom 00:31:37 - Former Deputy T",
+   "url": "https://www.youtube.com/watch?v=mNBJ5cJEdR8",
+   "published": "2026-11-18T08:06:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 황의 복귀 가능성을 일축하면서 실적 전망을 상향했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "c6f9b0607d62c73c",
    "kind": "youtube",
@@ -1234,6 +1269,23 @@
    "tone": "neu"
   },
   {
+   "id": "5cefe24879b44fe8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NuScale Sinks 22% in a Week to a 52-Week Low as Canada’s First SMR Runs Late. Is the Selling Overdone?",
+   "excerpt": "Key TakeawaysNuScale fell 22% in a week to a 52-week low after Canada’s first GE Vernova Hitachi small modular reactor ran late and over budget. Oklo fell too, but NuScale, still without a binding module order, fell about twice as much.",
+   "url": "https://www.tikr.com/blog/nuscale-sinks-22-in-a-week-to-a-52-week-low-as-canadas-first-smr-runs-late-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261118-85vfgjpv&.tsrc=rss",
+   "published": "2026-11-18T02:48:01+00:00",
+   "tickers": [
+    "OKLO"
+   ],
+   "summary_ko": [
+    "캐나다의 소형 모듈 원자로 일정이 지연되면서 뉴스케일 주가가 일주일간 급락해 52주 신저가를 기록했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "e5dcf1440e3a3a10",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1249,6 +1301,25 @@
     "엔비디아는 생태계 지원을 지속하되 규율을 지킬 것이라고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "3c725e234f967f46",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SK hynix Just Hit a New 52-Week Low, Down 38% From Its September High. Still “Ridiculously Cheap”?",
+   "excerpt": "Key TakeawaysSK hynix just hit a new 52-week low, down 38% from its September high, in an AI-hardware selloff that has also hit Micron and Sandisk. Most of the selling followed news from other companies, including the CEO’s resignation at Nvidia, SK hynix’s biggest customer, while SK hynix posted the best quarter in its history.",
+   "url": "https://www.tikr.com/blog/sk-hynix-just-hit-a-new-52-week-low-down-38-from-its-september-high-still-ridiculously-cheap?ref=yahoofinance&tlnk=yf-261118-jh3pvjw5&.tsrc=rss",
+   "published": "2026-11-18T02:46:52+00:00",
+   "tickers": [
+    "NVDA",
+    "MU"
+   ],
+   "summary_ko": [
+    "SK하이닉스가 52주 신저가를 기록하며 9월 고점 대비 하락했다고 다뤘다.",
+    "주요 고객사인 엔비디아 CEO의 사임 소식 등이 매도세를 이끌었다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "317a7e748ba003ff",
@@ -1651,6 +1722,23 @@
     "미즈호는 코스트코의 목표주가를 1,150달러로 상향 조정하고 등급을 유지했다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "e65014f8514f8cb7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Bought Into Anthropic Near $350 Billion. Gerstner Sees It Pricing at $1.4, $1.5 Trillion",
+   "excerpt": "Key TakeawaysBrad Gerstner expects Anthropic’s IPO on Wednesday to price at $1. 4 trillion to $1.",
+   "url": "https://www.tikr.com/blog/nvidia-bought-into-anthropic-near-350-billion-gerstner-sees-it-pricing-at-1-4-1-5-trillion?ref=yahoofinance&tlnk=yf-261118-8vqx9r76&.tsrc=rss",
+   "published": "2026-11-18T01:14:44+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "브래드 거스트너가 앤트로픽의 기업공개 가치 평가를 전망했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "cbdcfbf9c0b62f20",
