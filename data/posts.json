@@ -1,6 +1,126 @@
 {
- "updated": "2026-11-18T20:36:55.075687+00:00",
+ "updated": "2026-11-18T21:00:39.411907+00:00",
  "posts": [
+  {
+   "id": "42d984faf8993dc4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Update: US Equity Indexes Mixed as Nvidia Undermines Risk Sentiment, Fed Minutes Favor Policy Tightening",
+   "excerpt": "(Updates with index/price moves and Fed minutes from the first paragraph.) US equity indexes trad",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-nvidia-205207511.html?.tsrc=rss",
+   "published": "2026-11-18T20:52:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 투자 심리에 영향을 미치면서 미국 증시 지수가 혼조세를 보였다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "e0212c496400d649",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Justifying Anthropic’s Valuation, The Bank of Nvidia",
+   "excerpt": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Goldman Sachs Global Head of Asset & Wealth Management Marc Nachmann Battery Ventures General Partner Dharmesh Thakker, and Citi Executive Vice Chair & Head Banking Vis Raghavan. YouTube Chapters: 00;00;00;00 Bloomberg Deals opens 00;00;44;28 Anthropic IPO Demand 00;01;28;04 Anthropic’s Trading Debut 00;01;57;26 Market Rotation Ahead of Anthropic 00;02;30;17 Nvidia’s AI Deal Strategy 00;03;53;14 Nvidia’s Financing Scrutiny 00;06;23;15 Global M&A Slows 00;08;17;11 Eli Lilly’s Health-Care Deals 00;09;24;28 Lilly’s Strategy Beyond GLP-1s 00;11;46;01 Marc Nachmann, Goldman Sachs Asset & Wealth Management, Acquisition Strategy 00",
+   "url": "https://www.youtube.com/watch?v=Hc2H_xQwm-M",
+   "published": "2026-11-18T20:49:38+00:00",
+   "tickers": [
+    "NVDA",
+    "LLY"
+   ],
+   "summary_ko": [
+    "블룸버그 프로그램에서 앤트로픽 IPO와 엔비디아의 AI 거래 전략 등을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ebad4aa7fe97ee7c",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "U.S. moves to curb China's access to AI chips",
+   "excerpt": "Revelations about former Nvidia CEO Jensen Huang’s relationship with a suspected Chinese spy have reinvigorated a congressional push to restrict China’s access to advanced artificial intelligence technology. CNBC’s Garrett Downs explains.",
+   "url": "https://www.youtube.com/watch?v=MVTkJWk3PRE",
+   "published": "2026-11-18T20:45:14+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미국이 중국의 AI 칩 접근을 제한하는 조치를 추진하고 있다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "bb6a1930f91bdc0d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CoreWeave Stock Forecast: Can Nvidia’s AI Boom Drive More Gains?",
+   "excerpt": "CoreWeave (CRWV) stock is back in focus after Nvidia’s (NVDA) latest results showed strong demand for AI chips and data center systems. Nvidia’s comments on neocloud firms have also drawn attention to companies such as CoreWeave, which rent out high-end chips and computing power to AI firms. How Did Nvidia Perform? Nvidia reported third-quarter fiscal 2027 revenue of $115.8 billion, up 103% year-over-year. Data Center revenue rose 110% to $107.6 billion. The company also gave a fourth-quarter re",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-forecast-nvidia-ai-204347762.html?.tsrc=rss",
+   "published": "2026-11-18T20:43:47+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 호실적과 AI 칩 수요가 코어위브 같은 네오클라우드 기업들에 주목하게 만들었다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ccd1f3695d7f05d6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Micron Undervalued?",
+   "excerpt": "A record year and a 38% slide have left Micron trading at a price usually reserved for shrinking businesses.",
+   "url": "https://www.fool.com/investing/2026/11/18/is-micron-undervalued/?.tsrc=rss",
+   "published": "2026-11-18T20:41:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론이 기록적인 한 해를 보낸 뒤 주가가 큰 폭으로 하락했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "9b734e3c0314bef6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tech giant worth $170B axes hundreds of California jobs as CEO demands ‘the right people’ in ruthless cull",
+   "excerpt": "The largest cuts are in San Diego County, where Qualcomm plans to eliminate 442 positions at its Morehouse Drive headquarters.",
+   "url": "https://nypost.com/2026/11/18/tech/chipmaker-qualcomm-announces-517-layoffs-in-california/?.tsrc=rss",
+   "published": "2026-11-18T20:38:09+00:00",
+   "tickers": [
+    "QCOM"
+   ],
+   "summary_ko": [
+    "퀄컴이 캘리포니아 본사에서 수백 개의 일자리를 감축할 것이라고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "f2e076b940180bfb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Mizuho raises Costco price target but removes stock from Top Picks list",
+   "excerpt": "Investing.com -- Mizuho Securities raised its price target on Costco Wholesale to $1,150 from $1,100, citing accelerating sales growth as consumer anxiety fuels demand for emergency supplies and household essentials.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-costco-price-target-203349126.html?.tsrc=rss",
+   "published": "2026-11-18T20:33:49+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "미즈호가 코스트코의 매출 성장 가속화를 이유로 목표주가를 상향 조정했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "71c459808dace94f",
    "kind": "youtube",
@@ -35,6 +155,23 @@
     "코인베이스의 인공지능 방어 시스템이 일론 머스크 사칭 암호화폐 사기 관련 자금 이체를 차단했다고 언급됐다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "62d0ac1e22c3e4aa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can UnitedHealth Group Stock Crash From Here?",
+   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://www.trefis.com/stock/unh/articles/626177/can-unitedhealth-group-stock-crash-from-here/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T20:29:45+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": [
+    "유나이티드헬스 그룹 주가 하락 가능성에 대한 연구 내용을 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "9c0d11f4de49d3f0",
@@ -103,6 +240,23 @@
     "알파벳이 앤스로픽 주식을 추가로 매입할 계획인 것으로 전해졌다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "a166465ade65e149",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Sell Your Archer Aviation Stock As Boeing Comes Aboard?",
+   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://www.trefis.com/stock/achr/articles/626170/should-you-sell-your-archer-aviation-stock-as-boeing-comes-aboard/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T20:21:42+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "summary_ko": [
+    "보잉의 합류와 관련하여 아처 에비에이션 주식 매도 여부를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e19ec0f9d861a260",
@@ -2483,6 +2637,23 @@
    "tone": "pos"
   },
   {
+   "id": "5c7b3b03e5cb7c13",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alex Karp put Palantir’s early sales team in the Mandarin Oriental instead of a Motel 6—at 10x the price",
+   "excerpt": "Palantir’s 10th employee recalls why Alex Karp booked the Mandarin Oriental over a Motel 6—a perception play.",
+   "url": "https://finance.yahoo.com/small-business/articles/alex-karp-put-palantir-early-173050319.html?.tsrc=rss",
+   "published": "2026-11-18T17:30:50+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "팔란티어의 초기 영업팀 운영 방식에 대한 일화를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "540a84cb0d52b22e",
    "kind": "youtube",
    "source": "CNBC Television",
@@ -3005,6 +3176,24 @@
    "summary_ko": [
     "샌디스크가 주식 분할을 앞두고 NAND 공급 과잉 우려로 하락세를 보였다고 다뤘다.",
     "마이크론 등 다른 메모리 관련 주식도 함께 언급됐다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "a36aac4155043485",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Waymo Ordered Off California Freeways for an “Imminent Hazard to Public Safety.” Tesla Has More at Stake",
+   "excerpt": "Key TakeawaysCalifornia’s DMV ordered Alphabet’s Waymo off the state’s freeways, calling its driverless freeway operations “an imminent hazard to public safety. ”Tesla has far more at stake: it trades at about 178x forward earnings, compared with about 20x for Alphabet.",
+   "url": "https://www.tikr.com/blog/waymo-ordered-off-california-freeways-for-an-imminent-hazard-to-public-safety-tesla-has-more-at-stake?ref=yahoofinance&tlnk=yf-261118-2v3m6mxf&.tsrc=rss",
+   "published": "2026-11-18T16:55:35+00:00",
+   "tickers": [
+    "TSLA",
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "캘리포니아 DMV가 웨이모의 고속도로 운행을 금지했으며 테슬라에 미칠 영향 등을 언급했다."
    ],
    "tone": "neg"
   },
@@ -4100,9 +4289,10 @@
    "tickers": [
     "MSFT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "마이크로소프트가 강력한 애저 성장과 AI 수요에 힘입어 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6b05514fa9312074",
@@ -4116,9 +4306,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월가 분석가들이 아마존에 대해 긍정적인 평가를 내리고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0c16a1fcda0e2249",
@@ -4132,9 +4323,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "아마존 CEO가 데이터 센터 투자를 축소하는 것은 역사적인 실수라고 주장했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "afe33ccef6569639",
@@ -4148,9 +4340,10 @@
    "tickers": [
     "MSFT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "마이크로소프트가 바이트댄스와 대규모 클라우드 계약 체결에 임박했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e0d1ec0a8a80c545",
@@ -4164,9 +4357,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "써밋 인사이츠는 엔비디아의 리더십 변화로 불확실성이 커졌다고 분석했다.",
+    "이에 따라 엔비디아의 투자의견을 매수에서 보유로 하향 조정했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "9407dd44ec932c8e",
@@ -4180,9 +4375,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "아폴로가 지원하는 차량 관련 기관이 엔비디아 칩을 구매할 예정이다.",
+    "이를 바탕으로 자산담보부증권을 발행할 계획이라고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "af5dbf158fc2cd71",
@@ -4197,9 +4394,11 @@
     "NVDA",
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "인텔 주식이 새로운 문제들과 소송으로 압박을 받고 있다고 다뤘다.",
+    "여기에 엔비디아의 행보가 인텔에 추가적인 부담을 더했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "785728f41f8257ba",
@@ -4232,9 +4431,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "씨포트 리서치 파트너스의 애널리스트는 엔비디아의 CEO 교체 과정에 위험이 있다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1b7ef425ee5e4261",
@@ -4248,9 +4448,11 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "휴머노이드 서밋이 산마테오에서 개최될 예정이라고 밝혔다.",
+    "이번 행사는 로봇 기업과 연구자들이 모여 대규모 상용화를 논의한다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7fdaf0356c89363a",
@@ -4264,9 +4466,11 @@
    "tickers": [
     "MSFT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "컴볼트는 마이크로소프트 시큐리티와의 새로운 통합 기능을 발표했다.",
+    "사이버 공격 탐지 정보를 활용해 복구 결정을 돕는다고 설명했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2cfd19523a5147c5",
@@ -4280,9 +4484,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "시포트 리서치 파트너스 애널리스트는 엔비디아의 차기 CEO 선임과 관련해 우려를 표명했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "7ca689cf091d63c7",
@@ -4296,9 +4501,10 @@
    "tickers": [
     "META"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "댄 롭의 서드 포인트는 3분기에 메타 플랫폼스를 최대 미국 주식 보유 종목으로 편입했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2ab44615f19292be",
@@ -4312,9 +4518,11 @@
    "tickers": [
     "RKLB"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "짐 크레이머가 AST 스페이스모바일을 보유하기 어려운 종목이라고 평가했다.",
+    "이후 해당 종목의 주가가 하락했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "43854b2622661bf4",
@@ -4328,9 +4536,11 @@
    "tickers": [
     "PFE"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "화이자는 체내 세포 재프로그래밍을 위한 중국과의 협력을 진행했다.",
+    "이를 통해 자가면역 질환 치료 경쟁에 합류했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a04591bbf4ce0722",
@@ -4344,9 +4554,10 @@
    "tickers": [
     "CRM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "최근 해고 관련 보도가 나온 후 세일즈포스 주가가 하락했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "719d486eb088d44e",
@@ -4360,8 +4571,10 @@
    "tickers": [
     "MSFT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "마이크로소프트가 바이트댄스에 클라우드 서비스를 판매하기 위한 협상을 진행 중이라고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "65c919b4884525cf",
@@ -4375,8 +4588,10 @@
    "tickers": [
     "COIN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "코인베이스는 AI 기반 사기 탐지 시스템을 통해 일론 머스크 딥페이크 사기를 차단했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "9ee103fcf5063559",
@@ -4390,8 +4605,10 @@
    "tickers": [
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "구글은 향후 완전 자율형 AI 사이버 공격이 발생할 가능성이 높다고 전망했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "00709b7314cdfc54",
@@ -4405,8 +4622,10 @@
    "tickers": [
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "18억 달러 규모의 자산을 운용하는 펀드가 알파벳 주식을 전량 매각했다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "d1b20a5350625755",
@@ -4421,7 +4640,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "41d580d5d563e4ab",
@@ -4436,7 +4656,8 @@
     "MSFT"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "038cf9ace5139a1b",
@@ -4452,7 +4673,8 @@
     "AMZN"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "47b656d9ec1c0d2f",
@@ -4467,7 +4689,8 @@
     "BAC"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "ac39f00329d68ba8",
@@ -4482,7 +4705,8 @@
     "JPM"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "306f0082c9b6729f",
@@ -4497,7 +4721,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "b42f72fcd76eb49f",
@@ -4513,7 +4738,8 @@
     "AVGO"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "2eb7775230e1c6a8",
@@ -4528,7 +4754,8 @@
     "AMD"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "2ac7cab34081f75a",
@@ -4543,7 +4770,8 @@
     "META"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "04831ebaf8976d8a",
@@ -4558,7 +4786,8 @@
     "JPM"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "5254d8df1d3db399",
@@ -4573,7 +4802,8 @@
     "CRM"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "c0e21dcfded9d0e1",
@@ -4589,7 +4819,8 @@
     "MSFT"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "b8e5e7da9ea0e5c5",
@@ -4605,7 +4836,8 @@
     "AMZN"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "311f65b7c6f3c0f6",
@@ -4620,7 +4852,8 @@
     "PANW"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "2e0c2f76594909a8",
@@ -4637,7 +4870,8 @@
     "UBER"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "3aea48a84296c9b6",
@@ -57019,40 +57253,6 @@
    "summary_ko": [
     "AppLovin은 3분기 실적에서 크게 증가한 매출과 이익을 기록했다고 전했다.",
     "4분기 가이던스 발표와 함께 대규모 자사주 매입 계획을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "07d1a78a42a5e721",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "MotorTrend’s Ed Loh Reveals the 2027 SUV of the Year with YourUpdateTV",
-   "excerpt": "The All-Electric Rivian R2 Takes Home the Golden Calipers With a Winning Mix of Performance, Value and Versatility The All-Electric Rivian R2 Takes Home the Golden Calipers With a Winning Mix of Performance, Value and Versatility NEW YORK, Nov. 11, 2026 (GLOBE NEWSWIRE) -- SUVs have become the vehicle of choice for American drivers, and today’s shoppers want it all: the latest safety and driver-assist technology, tech-forward interiors and the versatility to handle everything from the daily comm",
-   "url": "https://finance.yahoo.com/technology/articles/motortrend-ed-loh-reveals-2027-205600050.html?.tsrc=rss",
-   "published": "2026-11-11T20:56:00+00:00",
-   "tickers": [
-    "RIVN"
-   ],
-   "summary_ko": [
-    "리비안의 전기차 R2가 모터트렌드의 올해의 SUV에 선정되었다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f1ebbc4bba7ae73b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Here’s Why DZ Bank Upgraded Cloudflare (NET)",
-   "excerpt": "We just published a list of the 10 Stocks Analysts Are Upgrading Right Now and Cloudflare (NYSE:NET) ranked 8th on this list. Wall Street spent the week swinging between relief and worry. A sharp rally on Monday gave way to a pullback on Tuesday, when a hotter-than-expected inflation report landed just as Federal Reserve officials […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/why-dz-bank-upgraded-cloudflare-204102124.html?.tsrc=rss",
-   "published": "2026-11-11T20:41:02+00:00",
-   "tickers": [
-    "NET"
-   ],
-   "summary_ko": [
-    "DZ뱅크가 클라우드플레어를 상향 조정한 이유를 다뤘다."
    ],
    "tone": "pos"
   }
