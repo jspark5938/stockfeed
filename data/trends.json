@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:30:31.627416+00:00",
+ "updated": "2026-11-18T00:00:40.042781+00:00",
  "trends": [
   {
    "ticker": "UNH",
@@ -58,13 +58,6 @@
    "ratio": 2.8
   },
   {
-   "ticker": "GOOGL",
-   "name_ko": "알파벳(구글)",
-   "mentions_24h": 56,
-   "mentions_prev_24h": 23,
-   "ratio": 2.43
-  },
-  {
    "ticker": "NFLX",
    "name_ko": "넷플릭스",
    "mentions_24h": 12,
@@ -79,18 +72,11 @@
    "ratio": 2.33
   },
   {
-   "ticker": "COST",
-   "name_ko": "코스트코",
-   "mentions_24h": 16,
-   "mentions_prev_24h": 8,
-   "ratio": 2.0
-  },
-  {
-   "ticker": "BA",
-   "name_ko": "보잉",
-   "mentions_24h": 10,
-   "mentions_prev_24h": 5,
-   "ratio": 2.0
+   "ticker": "GOOGL",
+   "name_ko": "알파벳(구글)",
+   "mentions_24h": 55,
+   "mentions_prev_24h": 24,
+   "ratio": 2.29
   },
   {
    "ticker": "QCOM",
@@ -116,9 +102,9 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 470,
-   "mentions_prev_24h": 242,
-   "ratio": 1.94
+   "mentions_24h": 476,
+   "mentions_prev_24h": 246,
+   "ratio": 1.93
   },
   {
    "ticker": "JPM",
@@ -128,6 +114,13 @@
    "ratio": 1.9
   },
   {
+   "ticker": "MSFT",
+   "name_ko": "마이크로소프트",
+   "mentions_24h": 56,
+   "mentions_prev_24h": 31,
+   "ratio": 1.81
+  },
+  {
    "ticker": "AVGO",
    "name_ko": "브로드컴",
    "mentions_24h": 27,
@@ -135,11 +128,11 @@
    "ratio": 1.8
   },
   {
-   "ticker": "MSFT",
-   "name_ko": "마이크로소프트",
-   "mentions_24h": 55,
-   "mentions_prev_24h": 31,
-   "ratio": 1.77
+   "ticker": "COST",
+   "name_ko": "코스트코",
+   "mentions_24h": 16,
+   "mentions_prev_24h": 9,
+   "ratio": 1.78
   },
   {
    "ticker": "CRM",
@@ -179,15 +172,29 @@
   {
    "ticker": "AMD",
    "name_ko": "AMD",
-   "mentions_24h": 37,
+   "mentions_24h": 38,
    "mentions_prev_24h": 24,
-   "ratio": 1.54
+   "ratio": 1.58
   },
   {
    "ticker": "TSLA",
    "name_ko": "테슬라",
    "mentions_24h": 36,
    "mentions_prev_24h": 24,
+   "ratio": 1.5
+  },
+  {
+   "ticker": "BA",
+   "name_ko": "보잉",
+   "mentions_24h": 9,
+   "mentions_prev_24h": 6,
+   "ratio": 1.5
+  },
+  {
+   "ticker": "LCID",
+   "name_ko": "루시드",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 2,
    "ratio": 1.5
   },
   {
@@ -229,15 +236,8 @@
    "ticker": "WMT",
    "name_ko": "월마트",
    "mentions_24h": 21,
-   "mentions_prev_24h": 16,
-   "ratio": 1.31
-  },
-  {
-   "ticker": "AMZN",
-   "name_ko": "아마존",
-   "mentions_24h": 75,
-   "mentions_prev_24h": 62,
-   "ratio": 1.21
+   "mentions_prev_24h": 17,
+   "ratio": 1.24
   },
   {
    "ticker": "PANW",
@@ -254,18 +254,25 @@
    "ratio": 1.17
   },
   {
-   "ticker": "BAC",
-   "name_ko": "뱅크오브아메리카",
-   "mentions_24h": 17,
-   "mentions_prev_24h": 17,
-   "ratio": 1.0
+   "ticker": "AMZN",
+   "name_ko": "아마존",
+   "mentions_24h": 73,
+   "mentions_prev_24h": 64,
+   "ratio": 1.14
   },
   {
    "ticker": "PLTR",
    "name_ko": "팔란티어",
-   "mentions_24h": 15,
+   "mentions_24h": 16,
    "mentions_prev_24h": 15,
-   "ratio": 1.0
+   "ratio": 1.07
+  },
+  {
+   "ticker": "BAC",
+   "name_ko": "뱅크오브아메리카",
+   "mentions_24h": 18,
+   "mentions_prev_24h": 17,
+   "ratio": 1.06
   },
   {
    "ticker": "RKLB",
@@ -293,13 +300,6 @@
    "name_ko": "크라우드스트라이크",
    "mentions_24h": 3,
    "mentions_prev_24h": 3,
-   "ratio": 1.0
-  },
-  {
-   "ticker": "LCID",
-   "name_ko": "루시드",
-   "mentions_24h": 2,
-   "mentions_prev_24h": 2,
    "ratio": 1.0
   },
   {
@@ -362,8 +362,8 @@
    "ticker": "LLY",
    "name_ko": "일라이릴리",
    "mentions_24h": 9,
-   "mentions_prev_24h": 14,
-   "ratio": 0.64
+   "mentions_prev_24h": 13,
+   "ratio": 0.69
   },
   {
    "ticker": "QQQ",
@@ -387,18 +387,18 @@
    "ratio": 0.44
   },
   {
-   "ticker": "MSTR",
-   "name_ko": "스트래티지",
-   "mentions_24h": 3,
-   "mentions_prev_24h": 9,
-   "ratio": 0.33
-  },
-  {
    "ticker": "NVO",
    "name_ko": "노보노디스크",
    "mentions_24h": 3,
-   "mentions_prev_24h": 11,
-   "ratio": 0.27
+   "mentions_prev_24h": 10,
+   "ratio": 0.3
+  },
+  {
+   "ticker": "MSTR",
+   "name_ko": "스트래티지",
+   "mentions_24h": 2,
+   "mentions_prev_24h": 10,
+   "ratio": 0.2
   }
  ]
 }
