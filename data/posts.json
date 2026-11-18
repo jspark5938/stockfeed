@@ -1,6 +1,166 @@
 {
- "updated": "2026-11-18T10:00:45.721113+00:00",
+ "updated": "2026-11-18T10:30:30.835249+00:00",
  "posts": [
+  {
+   "id": "c24268d0fd18e398",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Down Over 60% From Its High, Is Intel's Stock a Good Buy Right Now?",
+   "excerpt": "Intel's stock has been in a tailspin since reporting earnings last month.",
+   "url": "https://www.fool.com/investing/2026/11/18/down-over-60-from-its-high-is-intel-s-stock-a-good-buy-right-now/?.tsrc=rss",
+   "published": "2026-11-18T10:20:02+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔 주가는 지난달 실적 발표 이후 큰 폭의 하락세를 보였다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "5a89a64555f6da76",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Futures Climb As Nvidia Earnings Boost AI Trade — BABA, INTC, ASTS, CAPR In Focus",
+   "excerpt": "Oil prices, meanwhile, declined after U.S. crude and fuel inventories increased, amid ongoing U.S.-Iran tensions and disruptions in the Strait of Hormuz.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/futures-climb-as-nvidia-earnings-boost-ai-trade-baba-intc-asts-capr-in-focus/cNbXyNSR9L4?.tsrc=rss",
+   "published": "2026-11-18T10:19:49+00:00",
+   "tickers": [
+    "NVDA",
+    "INTC",
+    "BABA"
+   ],
+   "summary_ko": [
+    "엔비디아의 실적 가이던스 상향에 힘입어 선물 지수가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b355624215c607cc",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "There’s something WRONG with Nvidia’s thinking: Col. Mike Jernigan",
+   "excerpt": "Retired Marine Col. Mike Jernigan discusses allegations surrounding Nvidia’s former CEO, potential ties to Chinese espionage and mounting scrutiny of the chipmaker’s financial disclosures on ‘The Evening Edit.’ #fox #foxbusiness #media #breakingnews #us #usa #new #news #breaking #nvidia #china #chinese #espionage #spying #technology #tech #ai #artificialintelligence #semiconductors #chips #chipmakers #business #finance #financial #stocks #stockmarket #investing #wallstreet #security #nationalsecurity #cybersecurity #intelligence #military #marines #disclosures #transparency #investigation #allegations #scrutiny #trade #global Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time",
+   "url": "https://www.youtube.com/watch?v=oeNE2HzalAk",
+   "published": "2026-11-18T10:15:05+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "마이크 저니건 예비역 해병 중령이 엔비디아를 둘러싼 의혹을 다뤘다.",
+    "전직 CEO 관련 주장과 중국 스파이 연루 가능성, 재무 공시 검증 문제를 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "f6314f902d15bd06",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cipher Digital Is the Real Winner of Blackstone’s $5 Billion AWS Data Center Deal",
+   "excerpt": "Key TakeawaysBlackstone’s new data center REIT is buying 75% of 13 Amazon Web Services buildings in a deal valued at about $5 billion, at a 7% cap rate. AWS is Cipher Digital’s tenant at two Texas campuses, with about $7.",
+   "url": "https://www.tikr.com/blog/cipher-digital-is-the-real-winner-of-blackstones-5-billion-aws-data-center-deal?ref=yahoofinance&tlnk=yf-261118-p74gq29f&.tsrc=rss",
+   "published": "2026-11-18T10:13:07+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "블랙스톤의 50억 달러 규모 AWS 데이터센터 거래에서 사이퍼 디지털이 수혜를 입었다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "781498fd406391fe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Uber Technologies Targets 10,000 Driverless Vehicles by 2028 Amid $10 Billion AV Push",
+   "excerpt": "Uber Technologies (NYSE:UBER) is pursuing growth in its core ride-hailing and delivery businesses while investing in autonomous vehicles, Chief Financial Officer Balaji Krishnamurthy said at a media and telecom conference. Krishnamurthy said Uber is on track to handle nearly 16 billion trips this y",
+   "url": "https://www.marketbeat.com/instant-alerts/event-uber-technologies-targets-10000-driverless-vehicles-by-2028-amid-10-billion-av-push-2026-11-18/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+   "published": "2026-11-18T10:12:34+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": [
+    "우버는 100억 달러 규모의 자율주행차 투자를 진행 중이라고 밝혔다.",
+    "2028년까지 1만 대의 무인 차량 운행을 목표로 하고 있다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f92b4240487b94a6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off",
+   "excerpt": "Optical networking is emerging as the next bottleneck in AI infrastructure, and Ciena is one of the best ways for investors to capitalize on this market's growth.",
+   "url": "https://www.fool.com/investing/2026/11/18/not-micron-not-broadcom-this-artificial-intelligence-ai-stock-will-skyrocket-in-december-after-the-latest-sell-off/?.tsrc=rss",
+   "published": "2026-11-18T10:10:02+00:00",
+   "tickers": [
+    "AVGO",
+    "MU"
+   ],
+   "summary_ko": [
+    "광학 네트워킹이 AI 인프라의 새로운 병목 현상으로 부상하고 있다고 다뤘다.",
+    "시에나가 이 시장 성장의 수혜를 입을 종목 중 하나라고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "9dcb4872bebb411a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft expands MAI portfolio with seven new models",
+   "excerpt": "The new MAI models target enterprise AI workloads, combining lower costs with coding, cybersecurity, speech, and image-editing capabilities.",
+   "url": "https://www.verdict.co.uk/microsoft-expands-mai-portfolio/?.tsrc=rss",
+   "published": "2026-11-18T10:09:15+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트가 기업용 AI 워크로드를 겨냥한 7개의 새로운 MAI 모델을 공개했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "686ddc67cab306de",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Big Take: All Eyes on Anthropic’s IPO",
+   "excerpt": "Anthropic’s IPO this week will be a bellwether for competitors like OpenAI and a signal of the AI industry’s health in the wake of the Nvidia scandal. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Politics: Bloomberg Originals: Watch more on YouTube: Bloomberg Technology: Bloomberg Originals: Bloomberg Quicktake: Bloomberg Espanol: Bloomberg Podcasts:",
+   "url": "https://www.youtube.com/watch?v=bDqX0mTMS5M",
+   "published": "2026-11-18T10:00:25+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "앤스로픽의 이번 주 IPO가 오픈AI 등 경쟁사의 가늠자 역할을 할 것이라고 다뤘다.",
+    "엔비디아 스캔들 이후 AI 산업의 건강 상태를 보여주는 신호가 될 것이라고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "055af546cf472244",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Eviden extends its Bring Your Own Sovereign Encryption (BYOSE) feature to Microsoft Azure",
+   "excerpt": "Press Release Eviden extends its Bring Your Own Sovereign Encryption (BYOSE) feature to Microsoft Azure Eviden KMS now supports Azure Key Vault Managed HSM external key management (EKM), enabling organizations to benefit from cloud performance and scalability while maintaining control over their sensitive cryptographic assets. Paris, France – November 18, 2026 – Eviden, the Atos Group product brand leading in cybersecurity products, mission-critical systems and vision AI today announces new capa",
+   "url": "https://finance.yahoo.com/technology/ai/articles/eviden-extends-bring-own-sovereign-100000413.html?.tsrc=rss",
+   "published": "2026-11-18T10:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "에비덴이 마이크로소프트 애저에 'BYOSE' 기능을 확장한다고 발표했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "240057140c4113f1",
    "kind": "news",
@@ -35,6 +195,79 @@
     "젠슨 황의 사임으로 코어위브가 가장 큰 타격을 입을 수 있다는 주장을 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "a2aab42b6a4f472e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oracle Just Dropped 10% in a Month. Executed Perfectly, It’s “a Multiple of Where It Is Today,” per Gil Luria",
+   "excerpt": "Key TakeawaysOracle stock is down 10% in the past month, mostly in an AI infrastructure selloff that hit CoreWeave and Nvidia harder. Days after capping new capital raises at $20 billion through fiscal 2030, Oracle raised all of it, then reportedly dropped a Tencent deal and lost a Microsoft rental contract.",
+   "url": "https://www.tikr.com/blog/oracle-just-dropped-10-in-a-month-executed-perfectly-its-a-multiple-of-where-it-is-today-per-gil-luria?ref=yahoofinance&tlnk=yf-261118-35j9ph6m&.tsrc=rss",
+   "published": "2026-11-18T09:38:47+00:00",
+   "tickers": [
+    "NVDA",
+    "MSFT",
+    "ORCL"
+   ],
+   "summary_ko": [
+    "오라클 주가가 한 달 동안 10% 하락했다고 다뤘다.",
+    "텐센트 거래 중단과 마이크로소프트 임대 계약 상실 등이 있었다고 언급했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "fa3ed3ca26ca2454",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oracle Is 54% Below Its June High. Wall Street Still Sees $236",
+   "excerpt": "Key TakeawaysOracle stock is 54% below its June high, and the average analyst target has fallen to $236 from $348 a year ago, which is still 105% above the Nov. 17 close.",
+   "url": "https://www.tikr.com/blog/oracle-is-54-below-its-june-high-wall-street-still-sees-236?ref=yahoofinance&tlnk=yf-261118-3pm2r85x&.tsrc=rss",
+   "published": "2026-11-18T09:38:46+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "오라클 주가가 6월 고점 대비 하락한 가운데 월스트리트의 평균 목표주가가 제시되었다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4c13e13c5205e2a9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney Weighs a Free Disney+ Tier. Netflix’s $8.99 Ad Plan Has a Big Problem",
+   "excerpt": "Key TakeawaysDisney beat estimates with $25. 95 billion of fiscal fourth-quarter revenue and said again that it is exploring a free, ad-supported version of Disney+.",
+   "url": "https://www.tikr.com/blog/disney-weighs-a-free-disney-tier-netflixs-8-99-ad-plan-has-a-big-problem?ref=yahoofinance&tlnk=yf-261118-22f8657m&.tsrc=rss",
+   "published": "2026-11-18T09:38:45+00:00",
+   "tickers": [
+    "NFLX",
+    "DIS"
+   ],
+   "summary_ko": [
+    "디즈니가 4분기 호실적을 기록하며 무료 광고 기반 디즈니+ 요금제를 검토 중이라고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "d2810effed03f0ca",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia raises guidance; Anthropic IPO in focus - what’s moving markets",
+   "excerpt": "Investing.com - Futures connected to the main U.S. indices climb, as a guidance raise from Nvidia buoys shares in the embattled chip giant and reinvigorates a faltering artificial intelligence trade. Anthropic’s blockbuster IPO now comes into focus, while oil prices retreat amid signs of improving supplies out of the Middle East.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-raises-guidance-anthropic-ipo-093739087.html?.tsrc=rss",
+   "published": "2026-11-18T09:37:39+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 실적 가이던스 상향 조정으로 미국 주요 지수 선물 지수가 상승했다고 다뤘다.",
+    "앤스로픽의 IPO와 중동 원유 공급 개선 조짐이 시장의 주목을 받고 있다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "bae50469f2eaef7e",
