@@ -1,6 +1,148 @@
 {
- "updated": "2026-11-18T23:00:40.456761+00:00",
+ "updated": "2026-11-18T23:30:33.428494+00:00",
  "posts": [
+  {
+   "id": "9fc6960289b45eb4",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Elon Musk: If we turned off StarLink the entire Ukrainian front would collapse immediately",
+   "excerpt": "Elon Musk, Tesla and SpaceX CEO, joins CNBC's Andrew Ross Sorkin at the New York Times DealBook Summit.",
+   "url": "https://www.youtube.com/watch?v=l3WNJjxc2Wo",
+   "published": "2026-11-18T23:28:15+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크 테슬라 및 스페이스X CEO가 딜북 서밋에 참석했다고 다뤘다.",
+    "스타링크를 차단하면 우크라이나 전선이 즉각 붕괴할 것이라고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4275af06d57660b2",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Elon Musk: I'm not MAGA",
+   "excerpt": "Elon Musk, Tesla and SpaceX CEO, joins CNBC's Andrew Ross Sorkin at the New York Times DealBook Summit.",
+   "url": "https://www.youtube.com/watch?v=utTy8omutS0",
+   "published": "2026-11-18T23:24:18+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크 테슬라 및 스페이스X CEO가 딜북 서밋에 참여했다고 전했다.",
+    "자신은 MAGA가 아니라고 언급한 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "169be11687d992e4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks Q1 2027 Earnings Call: Live Updates of $PANW Earnings, Stock Forecast",
+   "excerpt": "The cybersecurity industry’s latest quarterly performance could offer commentary on high-profile outages and AI-related attacks involving digital infrastructure.",
+   "url": "https://www.thestreet.com/latest-news/palo-alto-networks-panw-q1-2027-earnings-call-stock-updates?.tsrc=rss",
+   "published": "2026-11-18T23:19:16+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로 알토 네트웍스의 2027 회계연도 1분기 실적 발표와 생중계 소식을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "85ed8fba871f32b3",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Rep. Trahan Says Congress Must Keep Pace With AI",
+   "excerpt": "Rep. Lori Trahan, a Massachusetts Democrat and co-author of the bipartisan FRONTIER Act, discusses Anthropic’s IPO, AI safety rules, tighter chip export controls to China and scrutiny surrounding Nvidia. She speaks with Kailey Leinz and Joe Mathieu on Bloomberg’s \"Balance of Power.\" -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Politics: Bloomberg Originals: Watc",
+   "url": "https://www.youtube.com/watch?v=sTYC6G5bv98",
+   "published": "2026-11-18T23:18:35+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "로리 트라한 하원의원이 의회가 AI 속도를 따라잡아야 한다고 주장했다.",
+    "앤스로픽의 IPO와 AI 안전 규제 등을 논의했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "78c5a6a1e00afd5c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures Rise; Anthropic IPO Prices High, Palo Alto And Everpure Rally On Earnings",
+   "excerpt": "The stock market was mixed as UnitedHealth dived and Nvidia fell. The Anthropic IPO priced high. Palo Alto, Everpure leaped.",
+   "url": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures-rise%3B.html?.tsrc=rss",
+   "published": "2026-11-18T23:17:13+00:00",
+   "tickers": [
+    "NVDA",
+    "UNH"
+   ],
+   "summary_ko": [
+    "다우존스 선물 상승 속에서 시장이 혼조세를 보였다고 전했다.",
+    "앤스로픽 IPO 가격이 높게 책정되었고 팔로 알토 등이 실적 발표에 반등했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "b9b2ddb2c813e4a3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Moody’s cuts Nvidia credit outlook to stable after CEO Jensen Huang exits",
+   "excerpt": "Investing.com -- Moody’s Ratings revised its credit outlook for NVIDIA Corporation (NASDAQ:NVDA) to stable from positive on Wednesday, citing governance uncertainty following the abrupt departure of longtime Chief Executive Officer Jensen Huang and the lack of a formal succession plan. While the agency affirmed the chipmaker’s Aa1 senior unsecured and Prime-1 short-term commercial paper ratings, it signaled that a credit upgrade is unlikely over the next 12 to 18 months as the board searches for",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/moody-cuts-nvidia-credit-outlook-231405579.html?.tsrc=rss",
+   "published": "2026-11-18T23:14:05+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "무디스가 젠슨 황 CEO의 갑작스러운 퇴임 이후 엔비디아의 신용 전망을 안정적으로 하향 조정했다.",
+    "공식적인 승계 계획이 부재한 점 등을 이유로 꼽았다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "8d3bf44308c4ecf0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "$1 Million In QQQ Spent 503 Days Underwater",
+   "excerpt": "Tech funds are well off their highs this autumn. QQQ closed at $656.95 on Tuesday, Nov 17. That is 13.5% below its high close on Oct 6. Most of the talk is about whether the AI trade is over. This article asks a different question. What did five years in QQQ actually feel like, in dollars.",
+   "url": "https://www.trefis.com/stock/qqq/articles/626101/1-million-in-qqq-spent-503-days-underwater/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T23:09:51+00:00",
+   "tickers": [
+    "QQQ"
+   ],
+   "summary_ko": [
+    "QQQ가 고점 대비 하락한 가운데 기술주 펀드의 흐름을 조명했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fcfbd7e54b50e7ce",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Two Retirees Each Hold $500,000 in a 401(k) Index Fund as Nvidia’s CFO Takes the Wheel. One Has About $28,950 Riding on a Single Stock. The Other Has About $1,000",
+   "excerpt": "Nvidia's founder just walked out, and two retirees with identical 401(k) balances face wildly different risk. The fix costs nothing in taxes, but one tempting panic move could trigger a cascade of hidden costs on Social Security and Medicare.",
+   "url": "https://247wallst.com/personal-finance/2026/11/18/two-retirees-each-hold-500000-in-a-401k-index-fund-as-nvidias-cfo-takes-the-wheel-one-has-about-28950-riding-on-a-single-stock-the-other-has-about-1000/?.tsrc=rss",
+   "published": "2026-11-18T23:02:24+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 최고재무책임자 관련 내용과 은퇴자들의 포트폴리오 위험을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "f5d1475e05d10872",
    "kind": "youtube",
@@ -20,6 +162,61 @@
    "tone": "pos"
   },
   {
+   "id": "637b59bc22412ab7",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Bitcoin at Critical Support as Stablecoin Supply Contracts, Citi Cuts Price Target",
+   "excerpt": "Stablecoin supply contraction is a key \"risk-off\" signal for crypto traders, according to @CharlesSchwab's Nathan Peterson. He highlights what to watch as liquidity in stablecoin supply shrinks and ways he sees it affecting forward momentum. Nathan turns to his technical analysis in Bitcoin as the cryptocurrency trades below its 200-day moving average — and tests a historically critical support level. He then explains why Citi lowered its price target on Bitcoin below $100,000. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Sc",
+   "url": "https://www.youtube.com/watch?v=lKs3AuSS2zI",
+   "published": "2026-11-18T23:00:05+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "스테이블코인 공급 축소와 비트코인의 주요 지지선 테스트를 다뤘다.",
+    "씨티가 비트코인 목표 주가를 하향 조정한 배경을 설명했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "2fcd209dcbb1163a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jeff Bezos says Nvidia shouldn’t hire an outsider if Jensen Huang doesn’t return — it’s ‘too complicated’",
+   "excerpt": "With Nvidia facing a high-stakes leadership search, Bezos says an internal hire is best suited to steer the trillion-dollar chipmaker — and research backs him up.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-says-nvidia-shouldn-230000767.html?.tsrc=rss",
+   "published": "2026-11-18T23:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "제프 베조스가 젠슨 황이 복귀하지 않는다면 엔비디아가 외부 인사를 영입해서는 안 된다고 밝혔다.",
+    "내부 인사가 칩 제조업체를 이끄는 것이 가장 적합하다고 언급했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "8168490852dc0f73",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "excerpt": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/satya-nadella-predicts-ai-agents-225811295.html?.tsrc=rss",
+   "published": "2026-11-18T22:58:11+00:00",
+   "tickers": [
+    "MSFT",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "사티아 나델라 마이크로소프트 CEO가 AI 에이전트가 웹 경제학을 재편할 것이라고 전망했다.",
+    "광고 기반 비즈니스 모델에 혼란을 줄 수 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "f5554ef1eb8542a9",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -37,6 +234,25 @@
     "마이크론 경영진과의 인터뷰를 통해 칩 주식 매도세와 중국 관련 규제를 논의했다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "aec07b7d89e17009",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The 5 Best Stocks in Brad Gerstner’s Portfolio",
+   "excerpt": "Key TakeawaysBrad Gerstner’s Altimeter Capital filed its third-quarter 13F on Nov. 16, and the five holdings where Wall Street sees the most upside are CoreWeave, a memory chipmaker, Cerebras, NVIDIA and Taiwan Semiconductor.",
+   "url": "https://www.tikr.com/blog/the-5-best-stocks-in-brad-gerstners-portfolio?ref=yahoofinance&tlnk=yf-261118-4869989x&.tsrc=rss",
+   "published": "2026-11-18T22:54:47+00:00",
+   "tickers": [
+    "NVDA",
+    "TSM"
+   ],
+   "summary_ko": [
+    "브래드 거스트너의 알티메터 캐피털이 3분기 13F 보고서를 제출했다고 전했다.",
+    "월스트리트가 상승 여력을 높게 보는 종목으로 엔비디아와 대만반도체 등을 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b654df572dd6ed46",
@@ -107,6 +323,24 @@
    "tone": "neu"
   },
   {
+   "id": "cac8aa4a8c3a8318",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Moody’s Lowers Nvidia’s Ratings Outlook to Stable From Positive",
+   "excerpt": "Moody’s Ratings cut its outlook for Nvidia Corp.’s credit to stable from positive, citing the resignation of longtime Chief Executive Officer Jensen Huang and the company’s “lack of a formal succession plan.”",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/moody-lowers-nvidia-ratings-outlook-222901110.html?.tsrc=rss",
+   "published": "2026-11-18T22:29:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "무디스가 엔비디아의 신용 등급 전망을 긍정적에서 안정적으로 낮췄다고 밝혔다.",
+    "오랫동안 CEO를 맡았던 젠슨 황의 사임과 공식 승계 계획 부재를 이유로 들었다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "b4516ad523b965fb",
    "kind": "youtube",
    "source": "Yahoo Finance",
@@ -175,6 +409,24 @@
     "유명 자동차 제조사가 AI 에이전트의 직접 결제 테스트를 위해 JP모간의 키넥시스를 활용했다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "722e1e8705dab828",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks Stock Jumps on Surging AI Security Demand",
+   "excerpt": "The stock has fallen 20% from its Oct. 6 high, but is still up nearly 80% in 2026 as demand for cybersecurity solutions grows.",
+   "url": "https://finance.yahoo.com/m/46779f87-3d25-32ad-8d52-81b1af7275aa/palo-alto-networks-stock.html?.tsrc=rss",
+   "published": "2026-11-18T22:19:00+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "사이버 보안 솔루션 수요 증가로 팔로 알토 네트웍스 주가가 상승했다고 전했다.",
+    "고점 대비 하락했음에도 보안 수요 덕분에 연초 이후 큰 폭의 상승세를 유지하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a9206262d9e4dfe5",
@@ -361,6 +613,24 @@
    ],
    "summary_ko": [
     "혼조세를 보이는 주택 시장 데이터와 52주 최저치를 기록한 금 가격 등 월스트리트의 마감 동향을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e8399ccc8eefc93e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Here's What Key Metrics Tell Us About Palo Alto (PANW) Q1 Earnings",
+   "excerpt": "Although the revenue and EPS for Palo Alto (PANW) give a sense of how its business performed in the quarter ended October 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-220001510.html?.tsrc=rss",
+   "published": "2026-11-18T22:00:01+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로 알토의 1분기 실적과 관련된 주요 지표들을 다뤘다.",
+    "월스트리트 예상치 및 전년 동기 대비 실적을 비교했다고 전했다."
    ],
    "tone": "neu"
   },
@@ -58754,75 +59024,6 @@
     "코어위브, 레딧, ARM 등 세 종목의 장기적 잠재력과 함께 부채 및 밸류에이션 등 우려 요인을 지적했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "4356507267f5cc09",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Airbnb vs. MercadoLibre: Which Consumer Stock Is a Better Buy for 2027?",
-   "excerpt": "Airbnb's lean marketplace model and MercadoLibre's sprawling Latin American ecosystem pull in very different directions, and the margin gap between them tells a story worth weighing.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/11/airbnb-vs-mercadolibre-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-   "published": "2026-11-11T23:20:02+00:00",
-   "tickers": [
-    "ABNB"
-   ],
-   "summary_ko": [
-    "에어비앤비의 마켓플레이스 모델과 메르카도리브레의 라틴아메리카 생태계를 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "8a3c1c643cedb329",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Rigetti Computing (RGTI) Stock Faces Valuation Strain After Q3 Results",
-   "excerpt": "Rigetti Computing just handed investors a reality check. The stock dropped about 8.5% today to roughly US$11.12, extending a three month slide of more than 40%. Yet the fresh Q3 2026 release shows a different kind of pressure point. The headline is not the loss per share; it is the strain between a premium valuation and a business that remains deeply unprofitable with trailing twelve month net losses of US$40.8 million and a P/B multiple well above semiconductor peers. At this point Rigetti...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/rigetti-computing-rgti-stock-faces-231517881.html?.tsrc=rss",
-   "published": "2026-11-11T23:15:17+00:00",
-   "tickers": [
-    "RGTI"
-   ],
-   "summary_ko": [
-    "리게티 컴퓨팅은 3분기 실적 발표 이후 주가 하락과 밸류에이션 부담에 직면했다고 다뤘다.",
-    "지속적인 순손실과 높은 주가순자산비율(P/B)이 압박 요인으로 작용하고 있다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "d2c9d75c274c3a56",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Rivian CEO: AI is just another tool, not a sentient being",
-   "excerpt": "Rivian (RIVN) founder and CEO RJ Scaringe joins Yahoo Finance Senior Autos Reporter Pras Subramanian at Yahoo Finance's 2026 Invest conference to discuss Rivian's place in the AI landscape, how he sees AI complementing humanity, and more.",
-   "url": "https://finance.yahoo.com/video/rivian-ceo-ai-is-just-another-tool-not-a-sentient-being-230318743.html?.tsrc=rss",
-   "published": "2026-11-11T23:03:18+00:00",
-   "tickers": [
-    "RIVN"
-   ],
-   "summary_ko": [
-    "리비안의 CEO RJ 스카린지는 AI가 인간을 대체하는 존재가 아닌 보완적인 도구라고 주장했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7db3c852b885820c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Every December the Nasdaq-100 Reshuffles. QQQ Holders Feel It Even If They Never Trade",
-   "excerpt": "Every December, the Nasdaq-100 reshuffles. When the index changes its lineup, your fund's holdings change that week whether you do anything or not.",
-   "url": "https://247wallst.com/investing/etf/2026/11/11/every-december-the-nasdaq-100-reshuffles-qqq-holders-feel-it-even-if-they-never-trade/?.tsrc=rss",
-   "published": "2026-11-11T23:03:03+00:00",
-   "tickers": [
-    "QQQ"
-   ],
-   "summary_ko": [
-    "매년 12월 나스닥-100 지수가 개편되면서 펀드 보유 종목도 함께 변경된다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
