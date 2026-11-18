@@ -1,6 +1,259 @@
 {
- "updated": "2026-11-18T16:30:32.252121+00:00",
+ "updated": "2026-11-18T17:00:41.572828+00:00",
  "posts": [
+  {
+   "id": "5eb7c883ec8a2515",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Bloomberg Surveillance 11/18/2026",
+   "excerpt": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" Chapters: 00:00 Nvidia Delivers, AI Trade Revives and Trump Arrives in China 05:578 Nvidia Growth Gets Harder as Competition Builds — Angelo Zino, CFRA 17:14 AI Trade Is ‘Alive and Well’ — Edward Yardeni, Yardeni Research 28:46 Trump-Xi Chip Fight Takes Center Stage in China — Stephen Engle 32:47 New US Chip Curbs Risk China Retaliation, Trade Truce — Wendy Cutler, Fmr. Acting Deputy USTR 40:28 Tech Ecosystem CapEx to Hit $1.7 Trillion — Russ Brownback, BlackRock 51:41 AI Earnings Growth Is Starting to Decelerate — Alicia Levine, BNY Wealth 1:",
+   "url": "https://www.youtube.com/watch?v=s8o2NwdNEao",
+   "published": "2026-11-18T16:50:29+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 실적 발표와 AI 거래 흐름, 트럼프 방중 일정 등이 다뤄졌다.",
+    "경쟁 심화와 규제 리스크 속에서 AI 관련 지출과 성장에 대한 여러 전문가의 전망이 제시됐다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "621330961894cb90",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft and Intel Deepen Collaboration to Deliver Differentiated Azure Infrastructure",
+   "excerpt": "Microsoft (Nasdaq: MSFT) and Intel (Nasdaq: INTC) today announced an expansion of their decades-long collaboration under a long-term agreement to advance select areas of Azure infrastructure for growing cloud and AI demand. Microsoft is the first company to announce use of Intel Foundry's EMIB™ (Embedded Multi-die Interconnect Bridge) advanced packaging technology for Azure first-party silicon. Bringing together Intel silicon and EMIB capabilities with Microsoft's cloud engineering, the agreemen",
+   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-intel-deepen-collaboration-deliver-164700932.html?.tsrc=rss",
+   "published": "2026-11-18T16:47:00+00:00",
+   "tickers": [
+    "MSFT",
+    "INTC"
+   ],
+   "summary_ko": [
+    "마이크로소프트와 인텔이 클라우드 및 AI 수요 대응을 위한 애저 인프라 협력 확대 계약을 발표했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "32be68c6603f3dc9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Google Cloud Grew 103%. Azure Grew 48%. AWS Grew 39%. Only 1 of These Stocks Is a Buy Right Now.",
+   "excerpt": "The cloud computing wars are heating up.",
+   "url": "https://www.fool.com/investing/2026/11/18/google-cloud-grew-103-azure-grew-48-aws-grew-39-only-1-of-these-stocks-is-a-buy-right-now/?.tsrc=rss",
+   "published": "2026-11-18T16:43:02+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "4669dd56905be1b9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Snowflake Set to Deliver Fiscal Q3 Product Revenue Upside, Oppenheimer Says",
+   "excerpt": "Snowflake (SNOW) is expected to accelerate product revenue growth in fiscal Q3, with momentum set to",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-set-deliver-fiscal-q3-163947659.html?.tsrc=rss",
+   "published": "2026-11-18T16:39:47+00:00",
+   "tickers": [
+    "SNOW"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b8cf4ae27cd2818a",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Sozzi Unleashed (9:30–10:00 a.m. ET)",
+   "excerpt": "Sozzi gives Nvidia's chairman a C minus, and Target's comps beat by two points | Sozzi Unleashed Brian Sozzi grades the morning after Nvidia's first earnings call without Jensen Huang. Colette Kress gets an A on the numbers and a C on the optics. New chairman Harvey Jones gets a C minus, and Sozzi says he has no confidence in him leading the search for a permanent chief executive. Jones does confirm on the call that the board does not intend to reinstate Huang. Then the one story that is not about Nvidia. Target's comparable sales rose 5.6% against the 3.8% Wall Street expected, net sales rose 7.1%, and Sozzi says he is straight up surprised. Plus Jeff Bezos on why outside chief executives rarely work. Featuring Jay Goldberg, Senior Analyst, Seaport Research Partners Harvey Jones, Chairman",
+   "url": "https://www.youtube.com/watch?v=JzarRuifPPo",
+   "published": "2026-11-18T16:39:15+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 젠슨 황 없는 첫 실적 발표에 대해 경영진의 성과와 향후 리더십 공백에 대한 평가가 제기됐다.",
+    "타겟의 매출이 시장 예상을 웃도는 호조를 보였다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ebedde5b6a0bc109",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Roamly Announces Insurance for Tesla Cybercab",
+   "excerpt": "The insurance provider protecting the future of mobility launches Autonomous Vehicle (AV) Insurance built for the Tesla Cybercab. Roamly AV Insurance for Cybercab Roamly AV Insurance for Cybercab AUSTIN, Nov. 18, 2026 (GLOBE NEWSWIRE) -- Roamly, the specialty insurance provider of the Ride Platform, now offers Autonomous Vehicle (AV) insurance for the Tesla Cybercab. The expanded coverage lets owners insure a Cybercab, a vehicle that always operates autonomously, alongside their other vehicles u",
+   "url": "https://finance.yahoo.com/healthcare/articles/roamly-announces-insurance-tesla-cybercab-163600608.html?.tsrc=rss",
+   "published": "2026-11-18T16:36:00+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "cc2be7a8de1af075",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Walks Away From China Sales Despite US Approval as Trump Lands to Meet Xi",
+   "excerpt": "Key TakeawaysNVIDIA has stopped shipping the licensed Hopper data center chips Washington approved for China, after selling $2. 4 billion of them in its October quarter.",
+   "url": "https://www.tikr.com/blog/nvidia-walks-away-from-china-sales-despite-us-approval-as-trump-lands-to-meet-xi?ref=yahoofinance&tlnk=yf-261118-xh9m3q8x&.tsrc=rss",
+   "published": "2026-11-18T16:35:52+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "6d3c3716b7ffd27c",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Roundhill Investments CEO Dave Mazza: Don't think investors are worried about AI safety",
+   "excerpt": "Roundhill Investments CEO Dave Mazza joins 'Squawk on the Street' to discuss Nvidia's latest earnings report, artificial intelligence models, and more.",
+   "url": "https://www.youtube.com/watch?v=Adnf6ZZTZNE",
+   "published": "2026-11-18T16:34:09+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "라운드힐 인베스트먼트의 CEO가 엔비디아의 최신 실적과 AI 모델 등에 대해 의견을 나눴다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "efef469c84a3cb5e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $2.8 Billion Fund Dumps These 3 Stocks",
+   "excerpt": "Key TakeawaysArdmore Road Asset Management, a firm that manages $2. 83 billion, held no Taiwan Semiconductor, Microsoft or Lam Research by Sept.",
+   "url": "https://www.tikr.com/blog/a-2-8-billion-fund-dumps-these-3-stocks-2?ref=yahoofinance&tlnk=yf-261118-xfp5v642&.tsrc=rss",
+   "published": "2026-11-18T16:32:26+00:00",
+   "tickers": [
+    "MSFT",
+    "TSM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "50dd6719ba29ffbc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Argues to Wary Investors That It Can Thrive Without Huang",
+   "excerpt": "Nvidia Corp. sought to deliver a clear message during its first earnings update since the departure of longtime leader Jensen Huang: He's not coming back, and the company will be fine without him. Dan Ives, Partner at Yorkville Ives & Co., breaks down Nvidia earnings, Collette Kress' debut, and the future of Nvidia.",
+   "url": "https://finance.yahoo.com/video/nvidia-argues-wary-investors-thrive-163154455.html?.tsrc=rss",
+   "published": "2026-11-18T16:31:54+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "2281c2e72a9f6e3c",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "'BREAKING CHINESE PROTOCOL': Xi does something 'EXTRA' while greeting Trump",
+   "excerpt": "Stuart Varney reports on President Donald Trump visiting China for a historic summit with Xi Jinping and Vladimir Putin. White House correspondent Edward Lawrence and Gatestone Institute senior fellow Gordon Chang analyze trade impacts. #foxbusiness #varney 00:00 Trump arrives in China for high-stakes meeting with Xi Jinping 00:53 Trump announces new trade framework and strengthens Pacific alliances 02:14 Gordon Chang: U.S. holds the leverage over China 03:09 Should Trump confront Xi over Nvidia chips and spying allegations? 03:29 Nvidia halts China chip shipments as Beijing faces pressure Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms tha",
+   "url": "https://www.youtube.com/watch?v=J4LczqxVsSI",
+   "published": "2026-11-18T16:30:12+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프 미국 대통령의 중국 방문과 미·중 무역 현안 및 반도체 규제 영향이 분석됐다.",
+    "엔비디아가 중국향 칩 선적을 중단했다는 소식이 전해졌다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "525121b716481a9e",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Sen. Tim Scott says Huang and Lutnick have agreed to testify before Senate",
+   "excerpt": "Senate Banking Committee Chairman Tim Scott tells CNBC’s “Squawk Box” that former Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick have agreed to testify before the committee.",
+   "url": "https://www.youtube.com/watch?v=-n03JSfaA_E",
+   "published": "2026-11-18T16:30:05+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "상원 은행위원회 위원장이 젠슨 황 전 엔비디아 CEO와 상무장관이 위원회 청문회 출석에 동의했다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "7b8d72cb33f3fac9",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "NVDA Earnings \"Non-Event?\" Scott Bauer Remains Cautious on Stock",
+   "excerpt": "Marley Kayden says sentiment remains bullish on Nvidia (NVDA) despite Wednesday’s selling and slashed price targets from analysts. Nvidia’s board says former CEO Jensen Huang will not be reinstated. @ProsperTradingAcademy's Scott Bauer remains cautious, calling the earnings report a “non-event” without clarity on the company’s future leadership. He turns to an example options trade for Nvidia. ======== Schwab Network ======== Empowering every investor and trader, every market day. Options involve risks and are not suitable for all investors. Before trading, read the Options Disclosure Document. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Fo",
+   "url": "https://www.youtube.com/watch?v=BYHjHDz55ao",
+   "published": "2026-11-18T16:30:04+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "엔비디아의 강력한 시장 심리 속에서도 향후 리더십에 대한 불확실성으로 신중한 시각이 제기됐다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fdee9585fd7f9f4d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Ivanti Unlocks Governed AI Access to Organizations by Providing Trusted Context and Control for Customers' AI Clients of Choice through GitHub Copilot Adoption",
+   "excerpt": "Ivanti, a pioneer in Autonomous Endpoint Management is helping IT and security teams move from reactive endpoint management to proactive, AI-powered operations by bringing together trusted endpoint data, intelligence, automation and governed autonomous action through Microsoft Copilot and GitHub Copilot adoption. Today, Ivanti announced the next advancement in that vision with Model Context Protocol (MCP), providing an open connection between supported AI clients and Ivanti Neurons data – unlock",
+   "url": "https://finance.yahoo.com/technology/ai/articles/ivanti-unlocks-governed-ai-access-163000030.html?.tsrc=rss",
+   "published": "2026-11-18T16:30:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "bf340b6932558032",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alaska Air Group Refreshes Atmos™ Rewards Visa® Business Card with Bank of America, Offering Higher Earn Rates and New Travel Benefits",
+   "excerpt": "Alaska Air Group Inc. (NYSE: ALK) and Bank of America (NYSE: BAC) announced the refreshed Atmos™ Rewards Visa® Business Card. Available to new applicants today, the updated card earns a minimum of 10x redeemable points when companies book flights through Atmos for Business, providing business owners enhanced earning opportunities and new travel benefits, and extends select benefits to employee cardholders.",
+   "url": "https://finance.yahoo.com/small-business/articles/alaska-air-group-refreshes-atmos-163000914.html?.tsrc=rss",
+   "published": "2026-11-18T16:30:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "45108dbb3369912c",
    "kind": "news",
@@ -12,6 +265,54 @@
    "published": "2026-11-18T16:28:12+00:00",
    "tickers": [
     "IBIT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 2
+  },
+  {
+   "id": "db462c3868b2e374",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SCHD Is Having Its Best Year Since 2013. What Happens Next Year?",
+   "excerpt": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+   "url": "https://www.trefis.com/stock/schd/articles/624817/schd-is-having-its-best-year-since-2013-what-happens-next-year/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T16:25:28+00:00",
+   "tickers": [
+    "SCHD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "3c3bfa4a473a7e28",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney Targets $3 Billion in Cost Savings and Weighs a Free Disney+ Tier as Asia Parks Weaken",
+   "excerpt": "Key TakeawaysDisney beat fiscal fourth-quarter estimates, raised its dividend 33% and set a goal of about $3 billion a year in cost savings by fiscal 2029. Its double-digit EPS growth guide for fiscal 2027 leans on cost cuts and buybacks as its Asia parks stay weak through 2027.",
+   "url": "https://www.tikr.com/blog/disney-targets-3-billion-in-cost-savings-and-weighs-a-free-disney-tier-as-asia-parks-weaken?ref=yahoofinance&tlnk=yf-261118-mqxr7975&.tsrc=rss",
+   "published": "2026-11-18T16:25:10+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "a98d13e4d9bdba4f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike Moves on Investor Day; Lowe's Reports Earnings | Stock Movers",
+   "excerpt": "On this episode of Stock Movers: - Lowe's (LOW) is also reporting its earnings this morning, a day after competitor Home Depot reported. Bloomberg Intelligence cites steady demand and data from Placer.ai which points to foot-traffic trends similar to the second quarter. - Nike (NKE) shares are moving following its investor day. The company is projecting a return to market-level expansion in the fiscal year through May 2029, but challenges in its Jordan and Converse brands, as well as its sportswear business, don't have an immediate fix. - Take-Two Interactive (TTWO) shares are jumping in premarket as its major video game Grand Theft Auto VI is an open-world game set in Vice City, a fictionalized version of Miami, with lifelike graphical fidelity.",
+   "url": "https://finance.yahoo.com/video/nike-moves-investor-day-lowes-162353192.html?.tsrc=rss",
+   "published": "2026-11-18T16:23:53+00:00",
+   "tickers": [
+    "NKE"
    ],
    "summary_ko": null,
    "tone": null,
@@ -31,7 +332,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "09bf87092c5d6f5f",
@@ -47,7 +348,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "d50de4783e88312b",
@@ -62,7 +363,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "6baeab28a8c79fb4",
@@ -75,6 +377,21 @@
    "published": "2026-11-18T16:16:39+00:00",
    "tickers": [
     "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "11c957385bcb0b53",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Accenture (ACN) Joins 40 Plus Organizations In AI Transparency Initiative",
+   "excerpt": "Accenture (NYSE:ACN) has joined Microsoft and more than 40 partners in a new AI Transparency Initiative focused on enterprise use. The multi company effort aims to create shared standards for AI security, transparency, and governance in corporate deployments. Accenture is contributing its enterprise consulting and implementation experience to shape practical frameworks for large global clients. The launch of this AI Transparency Initiative is important, but Accenture's broader story runs...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/accenture-acn-joins-40-plus-161416063.html?.tsrc=rss",
+   "published": "2026-11-18T16:14:16+00:00",
+   "tickers": [
+    "MSFT"
    ],
    "summary_ko": null,
    "tone": null
@@ -95,6 +412,21 @@
    "tone": null
   },
   {
+   "id": "3cb96793b2c5ac86",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+   "excerpt": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/openai-ceo-sam-altman-says-161409736.html?.tsrc=rss",
+   "published": "2026-11-18T16:14:09+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "85f00a61c54244ed",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -105,6 +437,38 @@
    "published": "2026-11-18T16:12:13+00:00",
    "tickers": [
     "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "710c8775466f0238",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell Technologies (DELL) Could Be 46% Undervalued Following AI Factory Updates",
+   "excerpt": "Dell Technologies (DELL) put its AI story back in focus with fresh upgrades to the Dell AI Factory with NVIDIA, adding new data tools, liquid cooled storage and large scale infrastructure management. Despite the AI Factory updates, Dell Technologies’ recent share price action has cooled. The 30-day share price return is down 28.54% and the 90-day share price return is down 26.23%, while the year-to-date share price return stands at 152.57% and the 1-year total shareholder return reaches...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-could-46-161212529.html?.tsrc=rss",
+   "published": "2026-11-18T16:12:12+00:00",
+   "tickers": [
+    "NVDA",
+    "DELL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "a2c3e22323ebd656",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Could nVent Electric (NVT) New AI Infrastructure Push Change For Investors?",
+   "excerpt": "nVent Electric (NYSE:NVT) used SC26 to debut new liquid cooling and power distribution solutions for high-density data centers. Management highlighted OCP-compliant liquid-to-air cooling technology aimed at AI workloads, including rack-level solutions for dense server environments. nVent Electric showcased collaboration with AMD on AI infrastructure and pointed to an expanding partner base that includes NVIDIA. The company recently acquired Maverick Power, adding specialized power...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/could-nvent-electric-nvt-ai-161207740.html?.tsrc=rss",
+   "published": "2026-11-18T16:12:07+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
    ],
    "summary_ko": null,
    "tone": null
@@ -211,9 +575,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아의 실적과 리더십 불확실성 속에서 수개월간의 CEO 공백기와 정보 공백이 발생할 것이라는 전망이 제기됐다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "ca8f0aa6b21eb173",
@@ -227,9 +592,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아가 월스트리트 예상치를 웃도는 매출 전망치를 제시하며 젠슨 황의 복귀 가능성을 일축했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "f2ecea1ec5cc268f",
@@ -502,9 +868,11 @@
     "NVDA",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아가 강력한 실적과 가이던스를 내놓았으나 중국 및 전 CEO 관련 문제가 부담으로 작용하고 있다고 언급했다.",
+    "네오클라우드 기업들에 대한 자금 지원 우려도 제기됐다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "781ea2d1a7915219",
@@ -688,6 +1056,21 @@
    "tone": null
   },
   {
+   "id": "41d580d5d563e4ab",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Publicis Groupe Shares AI Insights From Microsoft Partnership",
+   "excerpt": "By pairing Microsoft's new 'IQ' platform and Copilot with Epsilon identity data and Publicis Sapient frameworks, Publicis is replacing manual prompting with automated execution pipelines, using Microsoft's $700 million media account as \"client zero,\" which means the first to test and scale AI-assisted media buying tied directly to commercial results.",
+   "url": "https://www.mediapost.com/publications/article/419521/publicis-groupe-shares-ai-insights-from-microsoft.html?.tsrc=rss",
+   "published": "2026-11-18T15:51:13+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "038cf9ace5139a1b",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -744,6 +1127,22 @@
    "published": "2026-11-18T15:49:22+00:00",
    "tickers": [
     "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "b42f72fcd76eb49f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Vs. Broadcom: Which AI Stock Could Be The Better Investment Through 2028?",
+   "excerpt": "QUICK READ Nvidia and Broadcom are both benefiting from surging AI infrastructure spending, but they approach the market from different angles. Nvidia dominates AI accelerators, while Broadcom has built a major business around custom AI chips and networking technology. Sponsored:...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-broadcom-ai-stock-154749701.html?.tsrc=rss",
+   "published": "2026-11-18T15:47:49+00:00",
+   "tickers": [
+    "NVDA",
+    "AVGO"
    ],
    "summary_ko": null,
    "tone": null
@@ -893,7 +1292,7 @@
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
    "title": "Starbucks inventory availability at ‘all-time high’ with daily deliveries, CEO says",
-   "excerpt": "The coffeehouse chain has been testing a 24-hour operating model to improve inventory availability and build an overall faster, more reliable supply chain.",
+   "excerpt": "The coffeehouse chain has been testing a 24-hour operating model to improve inventory availability and build a faster, more reliable supply chain.",
    "url": "https://www.supplychaindive.com/news/starbucks-inventory-availability-at-all-time-high-with-daily-deliveries/874923/?.tsrc=rss",
    "published": "2026-11-18T15:38:15+00:00",
    "tickers": [
@@ -929,9 +1328,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "엔비디아가 높은 매출 성장을 기록했음에도 불구하고 주가가 주춤하는 모습을 보였다.",
+    "재무제표상의 위험 요소와 최근의 경영진 이슈가 주가에 부담으로 작용하고 있다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "8470fa159849a201",
@@ -1099,9 +1500,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "젠슨 황의 복귀 가능성과 주주 행동주의가 중요한 역할을 하고 있다는 분석이 나왔다.",
+    "황의 복귀 여부와 상관없이 엔비디아에 대해 긍정적인 전망을 유지한다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "c90709666a37ed91",
@@ -1176,9 +1579,11 @@
     "AMZN",
     "NKE"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "로우즈가 시장 예상을 웃도는 실적과 가이던스 상향에도 불구하고 주가가 하락했다고 전했다.",
+    "나이키는 2028 회계연도가 재정적으로 도전적인 해가 될 것이라고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f20c1ece6054a0f4",
@@ -1208,9 +1613,10 @@
     "NVDA",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "엔비디아의 실적이 견고한 AI 성장을 보여준다고 평가하며 네오클라우드 등 주요 동향을 주시할 것을 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "9e10121f1c2d85c0",
@@ -1349,9 +1755,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "엔비디아가 중국 매출을 제외하고도 높은 수준의 분기 가이던스를 제시했다고 전했다.",
+    "이사회는 전 CEO의 복귀를 배제하고 중국향 칩 선적을 중단하기로 했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "37f4afaa3a752f3c",
@@ -23263,22 +23671,6 @@
     "인기 모멘텀 펀드보다 실적이 좋지만 잘 알려지지 않은 JP모건 ETF를 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "b8cf4ae27cd2818a",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Sozzi Unleashed (9:30–10:00 a.m. ET)",
-   "excerpt": "Sozzi gives Nvidia's chairman a C minus, and Target's comps beat by two points | Sozzi Unleashed Brian Sozzi grades the morning after Nvidia's first earnings call without Jensen Huang. Colette Kress gets an A on the numbers and a C on the optics. New chairman Harvey Jones gets a C minus, and Sozzi says he has no confidence in him leading the search for a permanent chief executive. Jones does confirm on the call that the board does not intend to reinstate Huang. Then the one story that is not about Nvidia. Target's comparable sales rose 5.6% against the 3.8% Wall Street expected, net sales rose 7.1%, and Sozzi says he is straight up surprised. Plus Jeff Bezos on why outside chief executives rarely work. Featuring Jay Goldberg, Senior Analyst, Seaport Research Partners Harvey Jones, Chairman",
-   "url": "https://www.youtube.com/watch?v=JzarRuifPPo",
-   "published": "2026-11-17T12:35:54+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
   },
   {
    "id": "082c72051ec06f8d",
@@ -53558,57 +53950,6 @@
     "TD 코웬은 루시드 그룹의 보유 의견을 유지하고 예상보다 많은 현금 소모를 이유로 목표주가를 낮췄다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "fcd2514aa5dacd1a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Cloudflare (NET) Is Building the Rails for AI Agents?",
-   "excerpt": "Baron Capital, an investment management company, released its third-quarter 2026 investor letter for its “Baron Global Opportunity Fund”. The letter can be downloaded here. The fund gained 3.3% (Institutional Shares) in the quarter, outperforming the 1.6% gain for the MSCI ACWI Index (the Index) and the 0.5% decline for the MSCI ACWI Growth Index, the […]",
-   "url": "https://finance.yahoo.com/technology/ai/articles/cloudflare-net-building-rails-ai-165353334.html?.tsrc=rss",
-   "published": "2026-11-11T16:53:53+00:00",
-   "tickers": [
-    "NET"
-   ],
-   "summary_ko": [
-    "바론 캐피털의 3분기 투자자 서한에서 클라우드플레어가 다뤄졌음을 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5ba5f29850b16e60",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Airbnb (ABNB) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
-   "excerpt": "Airbnb (ABNB) possesses solid growth attributes, which could help it handily outperform the market.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-solid-growth-stock-164502179.html?.tsrc=rss",
-   "published": "2026-11-11T16:45:02+00:00",
-   "tickers": [
-    "ABNB"
-   ],
-   "summary_ko": [
-    "에어비앤비가 시장 성과를 웃돌 수 있는 탄탄한 성장 속성을 지니고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a2a0bc0eb7789da4",
-   "kind": "youtube",
-   "source": "Meet Kevin",
-   "author": "Meet Kevin",
-   "title": "The Fed JUST Released their Great Reset Economic Playbook.",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: The Fed JUST Released their Great Reset Economic Playbook. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course & membership support: staff@meetreinvest.com 🥰 Socials 🥰 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ X: ➡️ TikTok: ➡️ Instagram: 😇 Affiliate Links (Paid) 😇 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 📜 Some links are affiliate links and/or sponsors. I may earn a commission at no extra cost to you. ➡️ Kalshi (Prediction Markets): ➡️ Webull Stocks: My favorite stock app for charting and trades! ➡️ Tesla: ➡️",
-   "url": "https://www.youtube.com/watch?v=v-B79qJ6df0",
-   "published": "2026-11-11T16:37:35+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "연준의 경제 관련 플레이북 발표 내용을 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
