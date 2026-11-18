@@ -1,6 +1,660 @@
 {
- "updated": "2026-11-18T14:00:42.219004+00:00",
+ "updated": "2026-11-18T14:30:33.823655+00:00",
  "posts": [
+  {
+   "id": "9e4f8343d8725e0a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia's Colette Kress said it's 'business as usual': Earnings takeaways",
+   "excerpt": "\"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley outline their takeaways from Nvidia's (NVDA) third quarter earnings results and call without Jensen Huang.",
+   "url": "https://finance.yahoo.com/video/nvidias-colette-kress-said-its-business-as-usual-earnings-takeaways-142836879.html?.tsrc=rss",
+   "published": "2026-11-18T14:28:36+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "진행자들은 젠슨 황이 참석하지 않은 엔비디아의 3분기 실적 결과와 컨퍼런스 콜의 주요 내용을 정리했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "71c2c11caf494122",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia's AI Financing Guarantees Hit $118 Billion. Kress Clarifies When They Take Effect.",
+   "excerpt": "Nvidia's AI infrastructure guarantees have climbed to $118 billion. Interim CEO Colette Kress explained the conditions attached to the agreements and said the company would remain selective about future financing.",
+   "url": "https://www.ibtimes.com/nvidia-ai-infrastructure-guarantees-reach-118-billion-3809904?.tsrc=rss",
+   "published": "2026-11-18T14:20:17+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 AI 인프라 보증이 118억 달러로 증가한 가운데, 코렛 크레스는 관련 조건과 향후 신중한 태도를 유지할 것이라고 설명했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "7daf1fa522394895",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tech outages are disrupting everything. Are humans to blame?",
+   "excerpt": "In the Loop host Ejaaz Ahamadeen examines a series of major technology outages affecting Microsoft (MSFT), the Federal Aviation Administration (FAA), the National Security Agency (NSA), JPMorgan Chase (JPM), Charles Schwab (SCHW), and Apple (AAPL). From grounded flights to disrupted financial services, Ahamadeen explores what's behind these critical system failures and whether human error, rather than technology itself, is the real culprit.",
+   "url": "https://finance.yahoo.com/video/tech-outages-are-disrupting-everything-are-humans-to-blame-142016715.html?.tsrc=rss",
+   "published": "2026-11-18T14:20:16+00:00",
+   "tickers": [
+    "AAPL",
+    "MSFT",
+    "JPM"
+   ],
+   "summary_ko": [
+    "마이크로소프트, 연방항공청, JP모건 체이스 등을 강타한 주요 기술 중단 사태와 시스템 실패의 배경을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "68638416995c5dc6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba Got Hit by the Chip Scare. Is PDD a Safer Alternative?",
+   "excerpt": "A chip controversy knocked Alibaba sharply lower just before both Chinese giants report earnings. One stock has a cash cushion and a cheaper price tag, the other has an AI cloud surge and a spending problem. Which fits a retirement portfolio?",
+   "url": "https://247wallst.com/investing/2026/11/18/alibaba-got-hit-by-the-chip-scare-is-pdd-a-safer-alternative/?.tsrc=rss",
+   "published": "2026-11-18T14:19:24+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바가 칩 논란으로 하락한 가운데, 두 중국 기업의 실적 발표를 앞두고 PDD가 더 안전한 대안인지 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fcfd4415cadb7084",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Market Chatter: Microsoft in Advanced Talks to Sell Cloud Services to ByteDance for $500 Million",
+   "excerpt": "Microsoft (MSFT) is in advanced talks to sell roughly $500 million worth of cloud services to ByteDa",
+   "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-advanced-talks-141803886.html?.tsrc=rss",
+   "published": "2026-11-18T14:18:03+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트가 바이트댄스에 약 5억 달러 규모의 클라우드 서비스를 판매하기 위한 고급 협상 단계에 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "d72bccbd0aab1bfe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Josh Brown Says the Nvidia Dip Worth Buying May Not Be in Nvidia at All",
+   "excerpt": "Nvidia posted a blowout quarter, yet a prominent shareholder told CNBC viewers to look elsewhere. His evidence came from an Anthropic filing and a three-day deployment, and the price tags on both chip stocks complicate his argument.",
+   "url": "https://247wallst.com/investing/2026/11/18/josh-brown-says-the-nvidia-dip-worth-buying-may-not-be-in-nvidia-at-all/?.tsrc=rss",
+   "published": "2026-11-18T14:17:16+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 호실적을 기록했음에도 한 주요 주주가 엔비디아 외의 다른 곳을 살펴보라고 조언한 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a84953b82f507e5b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Coinbase Global Expands Crypto Loans",
+   "excerpt": "Coinbase Global (NASDAQ: $COIN) is expanding its cryptocurrency loan program.",
+   "url": "https://www.cryptoprowl.com/releases/coinbase-global-expands-crypto-loans-7956?.tsrc=rss",
+   "published": "2026-11-18T14:17:00+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스 글로벌이 암호화폐 대출 프로그램을 확장하고 있다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "8121bad65c28464c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Nvidia Earnings Are Driving the Market, but Uncertainty Still Reigns",
+   "excerpt": "One chipmaker is lifting the Nasdaq while the Dow and small caps barely budge. Behind the rally, a hidden catch in Lowe's beat and a still-elevated fear gauge hint at how fragile this bounce could be.",
+   "url": "https://247wallst.com/investing/2026/11/18/stock-market-today-nvidia-earnings-are-driving-the-market-but-uncertainty-still-reigns/?.tsrc=rss",
+   "published": "2026-11-18T14:15:44+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 실적이 시장을 견인하고 있으나 여전히 불확실성이 존재한다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4164d38bd548c590",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "‘SUPER CONCERNING’: Hacking expert warns of ‘VULNERABLE’ US infrastructure",
+   "excerpt": "Tech outages hitting Microsoft, airlines, and banks raise cybersecurity questions. TrustedSec CEO David Kennedy discusses the impact of these system vulnerabilities on 'Big Money in the Morning.' Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news programming, with eac",
+   "url": "https://www.youtube.com/watch?v=H8xe0Sb0Uks",
+   "published": "2026-11-18T14:15:15+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "해킹 전문가는 마이크로소프트, 항공사, 은행 등을 강타한 기술 중단 사태가 미국 인프라의 취약성을 보여준다고 경고했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "7872162af3f1bdbe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TD SYNNEX Brings Destination AI™ for SMBs to Microsoft Partners to Help Turn AI Opportunities into Scalable Practices",
+   "excerpt": "FREMONT, Calif. & CLEARWATER, Fla., November 18, 2026--TD SYNNEX (NYSE: SNX) today announced how its Destination AI™ for SMBs framework helps Microsoft partners identify AI opportunities, demonstrate value and grow their AI practices. Building on the SMB-focused capabilities TD SYNNEX introduced in October, the offering brings TD SYNNEX resources together with Microsoft technologies, including Microsoft Copilot, Microsoft Fabric and the broader Microsoft Cloud, so partners can apply AI to the ap",
+   "url": "https://finance.yahoo.com/technology/ai/articles/td-synnex-brings-destination-ai-141500875.html?.tsrc=rss",
+   "published": "2026-11-18T14:15:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "TD 시넥스는 마이크로소프트 파트너들이 AI 기회를 확장할 수 있도록 돕는 프레임워크를 발표했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ab8f1e65cd0a288a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Analyst Warns Strategy’s Stock Could Fall More Than 75%",
+   "excerpt": "A leading chart analyst is warning that Strategy’s (NASDAQ: $MSTR) stock could fall more than 75% from its cu...",
+   "url": "https://www.cryptoprowl.com/releases/analyst-warns-strategys-stock-could-fall-more-than-75-7955?.tsrc=rss",
+   "published": "2026-11-18T14:14:00+00:00",
+   "tickers": [
+    "MSTR"
+   ],
+   "summary_ko": [
+    "한 주요 차트 분석가는 스트래티지의 주가가 현재 수준에서 75% 이상 하락할 수 있다고 경고했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "4c87927e12d8f3c4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "6 Big Funds Sold Walmart Last Quarter. Should You Follow Them Before Earnings?",
+   "excerpt": "Key TakeawaysSix big funds sold out of Walmart (WMT:NASDAQ) or cut their stakes deeply in the Q3, according to their 13Fs for the quarter ended Sept. 30, days before Walmart’s Nov.",
+   "url": "https://www.tikr.com/blog/walmart-stock-funds-selling-before-earnings?ref=yahoofinance&tlnk=yf-261118-mp8cx49x&.tsrc=rss",
+   "published": "2026-11-18T14:13:18+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트의 3분기 실적 발표를 앞두고 여러 대형 펀드가 월마트 지분을 매각하거나 대폭 축소했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "58023c8911fb358d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TeraWulf Rises 6%, Cipher Digital Gains 5% After NVIDIA’s Record Quarter; IREN Climbs 4%",
+   "excerpt": "NVIDIA's blowout forecast lit up the former bitcoin miners now leasing AI data centers, but a quiet warning about chip financing could shake the rally. Three stocks share one thesis, and they are not equally exposed.",
+   "url": "https://247wallst.com/investing/2026/11/18/terawulf-rises-6-cipher-digital-gains-5-after-nvidias-record-quarter-iren-climbs-4/?.tsrc=rss",
+   "published": "2026-11-18T14:11:56+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 호실적 발표 이후 AI 데이터센터를 임대하는 전직 비트코인 채굴 기업들의 주가가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "738d275eca35ad16",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
+   "excerpt": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.4% and the actively trad",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-140832688.html?.tsrc=rss",
+   "published": "2026-11-18T14:08:32+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 실적 발표와 연준 회의록 공개를 앞두고 광범위한 시장 ETF가 상승세를 보였다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "52e42a4a71723d85",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NiCE Unites AI and Human Agents with Microsoft on One Connected Customer Service Stack",
+   "excerpt": "HOBOKEN, N.J., November 18, 2026--NiCE (Nasdaq: NICE) today announced a significant strengthening of its collaboration with Microsoft, launching two new market-leading solutions that enable AI and human agents to collaborate as one workforce to deliver exceptional experiences across the entire customer lifecycle.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nice-unites-ai-human-agents-140700300.html?.tsrc=rss",
+   "published": "2026-11-18T14:07:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "a3dc942ca7652e66",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NVIDIA Rises 3% After Record Quarter as Wells Fargo Sees $250 and Barclays Backs Board on Huang; Taiwan Semiconductor Climbs 3%, Broadcom Gains 2%",
+   "excerpt": "NVIDIA just posted its biggest quarter ever, yet the board says Jensen Huang is not coming back. Analysts are backing the stock, but one unresolved question could decide whether the rally lasts.",
+   "url": "https://247wallst.com/investing/2026/11/18/nvidia-rises-3-after-record-quarter-as-wells-fargo-sees-250-and-barclays-backs-board-on-huang-taiwan-semiconductor-climbs-3-broadcom-gains-2/?.tsrc=rss",
+   "published": "2026-11-18T14:06:50+00:00",
+   "tickers": [
+    "NVDA",
+    "AVGO",
+    "TSM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "045e008e94c8e0c1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Nvidia’s post earnings rally a green light to buy the correction?",
+   "excerpt": "Investing.com -- The fundamentals confirmed the thesis. The price chart hasn’t yet. NVIDIA (NVDA) closed at $155.46 on Nov 17 (3:59 PM EST). Pre-market is $159.95 (+2.89%) as of Nov 18, 8:29 AM EST. That is a bounce attempt, not a rally that has held. A beat doesn’t make an entry signal. It only means one input has improved.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-post-earnings-rally-green-140645707.html?.tsrc=rss",
+   "published": "2026-11-18T14:06:45+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "199569b9ae86f9fa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Dow Wavers As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage)",
+   "excerpt": "The Dow Jones index wavers Wednesday as a Fed official calls for a \"shock\" in rate hikes. Nvidia stock jumps on strong earnings results.",
+   "url": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow.html?.tsrc=rss",
+   "published": "2026-11-18T14:05:47+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "8474c8df9273b02b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Moved Salesforce Stock?",
+   "excerpt": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+   "url": "https://www.trefis.com/stock/crm/articles/626280/what-moved-salesforce-stock/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T14:05:44+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "51c990478eaae57c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Airbnb vs. Shopify: Which Consumer Stock Is a Better Buy for 2027?",
+   "excerpt": "Airbnb's cash generation is substantial, but Shopify's growth rate and valuation gap raise a tougher question about what a dollar of future earnings is worth.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/18/airbnb-vs-shopify-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-18T14:05:01+00:00",
+   "tickers": [
+    "ABNB",
+    "SHOP"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b887dfbcc4c7c659",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Conga Brings Its Commerce Suite to Microsoft Marketplace, Integrated with Dynamics 365 and Copilot",
+   "excerpt": "SAN FRANCISCO, November 18, 2026--IGNITE--Conga, the company lining up commerce, today announced a strategic partnership with Microsoft to help enterprises connect their commerce chain across pricing, quoting, contracting and eSignature. The announcement aligns with Microsoft Ignite in San Francisco, where Conga will showcase its full commerce suite that is now integrated with Microsoft Dynamics 365, Copilot and available through Microsoft Marketplace, so customers can discover, buy and deploy u",
+   "url": "https://finance.yahoo.com/technology/articles/conga-brings-commerce-suite-microsoft-140500017.html?.tsrc=rss",
+   "published": "2026-11-18T14:05:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "de8f553c65ca6c03",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Supermicro Ships First All-Flash Storage Servers, Delivering PCIe Gen 6 Performance and Broad Software-Defined Storage Support for AI Training and Inference",
+   "excerpt": "Supercomputing Conference - Supermicro, Inc. (NASDAQ: SMCI), an AI, Enterprise, Storage, and 5G/Edge Total IT Solution Provider featuring Data Center Building Block Solutions® (DCBBS), today announced new extensions to the broad portfolio of AMD EPYC based all-flash storage servers. The first systems, now shipping, include the Petascale system powered by the 6th Gen AMD EPYC 9006 Series processors (formerly codenamed \"Venice\"), with more products to follow as AMD launches new SP8 CPU versions. T",
+   "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-ships-first-flash-storage-140500239.html?.tsrc=rss",
+   "published": "2026-11-18T14:05:00+00:00",
+   "tickers": [
+    "AMD",
+    "SMCI"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "50df2733aceba384",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Costco Wholesale Opens New Location in NE Edmonton",
+   "excerpt": "OVER 80 JOBS CREATED, LATEST PRODUCTS AND SERVICES FEATURED AT NEW WAREHOUSE Costco Opening - NE Edmonton Big crowd gathered for opening of Costco NE Edmonton - November 18 EDMONTON, Alberta, Nov. 18, 2026 (GLOBE NEWSWIRE) -- Costco Wholesale opened a new location in NE Edmonton today – located at 285 Ebbers Blvd NW. The new warehouse is a relocation of the 50th Street location - located at 13650 50 St NW - which served its members for almost 35 years. This warehouse relocation has created over",
+   "url": "https://finance.yahoo.com/small-business/articles/costco-wholesale-opens-location-ne-140500156.html?.tsrc=rss",
+   "published": "2026-11-18T14:05:00+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b7d3cd51fd69b298",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The 3 Best AI Stocks to Buy Now (Yes, Nvidia Is One of Them)",
+   "excerpt": "Nvidia may be going through a tumultuous period, but the business is still strong.",
+   "url": "https://www.fool.com/investing/2026/11/18/the-3-best-ai-stocks-to-buy-now-yes-nvidia-is-one-of-them/?.tsrc=rss",
+   "published": "2026-11-18T14:04:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "c335e5a4fb223a1a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Syndigo Helps Brands and Retailers Get Products to Market Faster with Microsoft Copilot",
+   "excerpt": "New Syndigo Model Context Protocol (MCP) server capabilities enable commerce teams to take a product from creation to retail-ready by asking Microsoft Copilot to do the workSAN FRANCISCO, Nov. 18, 2026 (GLOBE NEWSWIRE) -- Syndigo today announced expanded Syndigo MCP capabilities to help brands and retailers get products to market more efficiently and effectively through a connection to Microsoft Copilot or other AI assistants. The release moves beyond read-only access: teams can create, update,",
+   "url": "https://finance.yahoo.com/technology/ai/articles/syndigo-helps-brands-retailers-products-140100392.html?.tsrc=rss",
+   "published": "2026-11-18T14:01:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f5b738aa2c8c5b71",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Jay Woods Weighs if NVDA Stock Price is \"Opportunity of a Lifetime\"",
+   "excerpt": "Interim CEO Colette Kress was \"put under the microscope\" during the Nvidia (NVDA) post-earnings conference call, according to Jay Woods. He says Kress managed to fend off investor fears. \"As long as the stock remains above $150, I think we will see a relief rally,\" says Jay. However, he points to caution around former CEO Jensen Huang and his upcoming testimony to Congress. Jay also points to neoclouds like CoreWeave (CRWV) and Nebius (NBIS), and other AI infrastructure stocks like Astera Labs (ALAB), for tentative relief rallies. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Fo",
+   "url": "https://www.youtube.com/watch?v=ThxOXUhpG-s",
+   "published": "2026-11-18T14:00:35+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "제이 우즈는 엔비디아의 임시 CEO 코렛 크레스가 실적발표에서 투자자들의 우려를 잘 방어했다고 언급했다.",
+    "주가가 150달러를 유지하면 안도 랠리를 볼 수 있을 것으로 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "db79b30f5f7cfdd8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bad News For Tesla, As Waymo Gets Pulled Off The Road",
+   "excerpt": "California just pulled Waymo off its highways after robotaxis rolled into construction zones, and federal investigators are now asking about school buses. Elon Musk's promise of robotaxis everywhere by year's end suddenly faces a harder question.",
+   "url": "https://247wallst.com/investing/2026/11/18/bad-news-for-tesla-as-waymo-gets-pulled-off-the-road/?.tsrc=rss",
+   "published": "2026-11-18T14:00:02+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f2cc92497d74f2ae",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Introducing Cognizant® Patient Hub Operations: AI-enabled patient access offering designed to shorten the path from prescription to therapy",
+   "excerpt": "Cognizant (Nasdaq: CTSH) today introduced Cognizant® Patient Hub Operations, an offering built on NVIDIA accelerated computing that pairs AI agents with healthcare-experienced specialists to support patients and help drive better access to therapy. Patient support teams spend much of their time on routine steps that stand between a prescription and therapy.",
+   "url": "https://finance.yahoo.com/healthcare/articles/introducing-cognizant-patient-hub-operations-140000249.html?.tsrc=rss",
+   "published": "2026-11-18T14:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "78dd00f1dad4c05a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Sezzle Anywhere Launches in Canada, Bringing BNPL Everywhere Visa Is Accepted",
+   "excerpt": "The new offering dramatically expands Canada's most popular Buy Now, Pay Later option online or in-store.Toronto, Canada, Nov. 18, 2026 (GLOBE NEWSWIRE) -- Sezzle, the most popular Buy Now, Pay Later (BNPL) solution in Canada, today announced the Canadian launch of Sezzle Anywhere‡, a monthly subscription that gives shoppers a multi-use Sezzle Virtual Card that can be used anywhere Visa is accepted, online or in-store, including tap to pay with Apple Pay and Google Pay. Sezzle Anywhere is the fi",
+   "url": "https://finance.yahoo.com/small-business/articles/sezzle-anywhere-launches-canada-bringing-140000922.html?.tsrc=rss",
+   "published": "2026-11-18T14:00:00+00:00",
+   "tickers": [
+    "AAPL",
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "8fa116f57d31e5a6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Straive Deepens Microsoft Partnership, Showcases 700+ AI Solution Accelerators at Microsoft Ignite 2026",
+   "excerpt": "NEW YORK, November 18, 2026--Straive is deepening its partnership with Microsoft to help enterprises accelerate the adoption and deployment of AI.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/straive-deepens-microsoft-partnership-showcases-140000658.html?.tsrc=rss",
+   "published": "2026-11-18T14:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "1ddbd435b8484794",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "IBM and Red Hat Bring Lightwell Network to Microsoft Marketplace",
+   "excerpt": "RALEIGH, N.C., November 18, 2026--IBM and Red Hat today announced expanded enterprise access to Lightwell Network through availability in the Microsoft Marketplace. Red Hat customers can now purchase Lightwell Network through Microsoft Marketplace, the unified online destination for customers to buy cloud solutions, AI apps and agents to support their business needs.",
+   "url": "https://finance.yahoo.com/technology/articles/ibm-red-hat-bring-lightwell-140000208.html?.tsrc=rss",
+   "published": "2026-11-18T14:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "447ec3947c38adee",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "BCG and Microsoft Expand Collaboration with New Model for AI-Powered Business Reimagination",
+   "excerpt": "BCG and Microsoft Frontier Company are collaborating to help companies become frontier firms, reimagine how they operate in the age of AI, and realize measurable business impact at unprecedented speed. The collaboration advances BCG and Microsoft's longstanding partnership and establishes BCG as a key partner to Frontier Company, backed by joint investment from both organizations.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/bcg-microsoft-expand-collaboration-model-140000600.html?.tsrc=rss",
+   "published": "2026-11-18T14:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "d8c8d09c20638a66",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Check Point Scales Its SASE Platform on Microsoft Azure for Global Enterprise Deployment",
+   "excerpt": "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a pioneer and global leader in cyber security solutions, today announced an expansion of its collaboration with Microsoft to deploy Check Point SASE on Microsoft Azure. The collaboration will enable enterprises to scale secure access across global environments with greater performance, resilience, and centralized control, while advancing Zero Trust, AI adoption, and identity-driven security.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/check-point-scales-sase-platform-140000411.html?.tsrc=rss",
+   "published": "2026-11-18T14:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "a6f0c09444b61973",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Rubrik Launches Configuration Resilience for Microsoft 365",
+   "excerpt": "SAN FRANCISCO, November 18, 2026--MICROSOFT IGNITE -- Rubrik (NYSE: RBRK), the Security and AI Operations Company, today announced Configuration Resilience for Microsoft 365. The new offering provides protection and rolls back changes with a single action for the critical settings that govern Microsoft applications including Microsoft 365, Purview, and Defender. By continuously safeguarding Microsoft 365 configurations, Rubrik equips organizations with a one-click undo button to reverse unauthor",
+   "url": "https://finance.yahoo.com/technology/ai/articles/rubrik-launches-configuration-resilience-microsoft-140000891.html?.tsrc=rss",
+   "published": "2026-11-18T14:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "d52a21c47cd1b1f5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Citrix DaaS to Double Virtual Desktops per Microsoft Azure Subscription and Add Private AI Data Protection",
+   "excerpt": "FORT LAUDERDALE, Fla., November 18, 2026--Citrix, a Cloud Software Group company, today highlighted seven Citrix® DaaS capabilities at Microsoft Ignite 2026—featuring a newly released offering alongside previews of six planned platform updates designed to help organizations scale cloud deployments, strengthen business continuity, and protect sensitive data.",
+   "url": "https://finance.yahoo.com/technology/articles/citrix-daas-double-virtual-desktops-140000896.html?.tsrc=rss",
+   "published": "2026-11-18T14:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "f645cd7499472ee3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Devicie Extends Microsoft Edge for Business Security Reporting across Platforms",
+   "excerpt": "Devicie, a continuous operating layer for Microsoft Intune, today announced that its Microsoft Edge for Business Reporting Connector now brings in security events from Edge for Business on Windows, macOS, iOS and Android. Announced at Microsoft Ignite 2026, the update lets IT and security teams see browser risk across their whole fleet, laptops and phones included, in the same place they already manage device health and compliance.",
+   "url": "https://finance.yahoo.com/technology/articles/devicie-extends-microsoft-edge-business-140000233.html?.tsrc=rss",
+   "published": "2026-11-18T14:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "07c6266ec577df4d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Rimini Street and American Digital Expand Partnership to Give SAP Licensees Greater Control Over Cloud Modernization",
+   "excerpt": "LAS VEGAS, November 18, 2026--Rimini Street, Inc. (Nasdaq: RMNI), the Software Support and Agentic AI ERP Company™ and the leading third-party support provider for Oracle, SAP and VMware software, today announced an expanded strategic partnership with American Digital Corporation to give SAP licensees a lower-risk, more flexible path to cloud modernization.",
+   "url": "https://finance.yahoo.com/technology/articles/rimini-street-american-digital-expand-140000747.html?.tsrc=rss",
+   "published": "2026-11-18T14:00:00+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "fcde0fe6df573fb5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is AI Costing Alphabet Holders Their Buybacks?",
+   "excerpt": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+   "url": "https://www.trefis.com/stock/googl/articles/626186/is-ai-costing-alphabet-holders-their-buybacks/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T13:58:57+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "f0693bf6474492d9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia says it will stop selling some data center chips to China",
+   "excerpt": "Nvidia's sales to China are facing heightened scrutiny after revelations that former CEO Jensen Huang had a relationship with a suspected Chinese spy.",
+   "url": "https://www.cbsnews.com/news/nvidia-stops-shipping-hopper-chips-china/?.tsrc=rss",
+   "published": "2026-11-18T13:58:12+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "e639368caef40ecd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Akamai Extends Its Enterprise Security Controls to Microsoft Edge for Business Browser on Mobile",
+   "excerpt": "Collaboration brings Akamai Workforce Protector (formerly LayerX) extension capabilities to Edge for Business on iOS and Android, helping organizations address mobile security challenges without disrupting workflowsCAMBRIDGE, Mass., Nov. 18, 2026 (GLOBE NEWSWIRE) -- Today, Akamai (Nasdaq: AKAM) announced a collaboration with Microsoft to bring advanced enterprise browser security to Microsoft Edge for Business on mobile devices. Through this collaboration, organizations can now deploy the Akamai",
+   "url": "https://finance.yahoo.com/technology/ai/articles/akamai-extends-enterprise-security-controls-135800383.html?.tsrc=rss",
+   "published": "2026-11-18T13:58:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
   {
    "id": "52d3a654586b469d",
    "kind": "news",
@@ -584,6 +1238,21 @@
    "tone": "neu"
   },
   {
+   "id": "08d82b5dd1a420c7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "GB News launches British-only rival to Amazon",
+   "excerpt": "GB News has launched an Amazon rival that will only sell products from British businesses.",
+   "url": "https://www.telegraph.co.uk/business/2026/11/18/gb-news-launches-british-only-rival-to-amazon/?.tsrc=rss",
+   "published": "2026-11-18T13:07:11+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "ca695f1160a958f8",
    "kind": "youtube",
    "source": "Learn to Invest - Investors Grow",
@@ -633,6 +1302,52 @@
     "글로벌 서비스 중단 여파로 마이크로소프트 주가가 50일 이동평균선 아래로 하락했다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "2373db5167fe77b4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Elon Musk Steps in After Jensen Huang Loses X Verification Following Nvidia Exit: ‘Blue Check Coming Back for Free on the House’",
+   "excerpt": "Tesla Inc. CEO Elon Musk offered to restore former Nvidia Corp. CEO Jensen Huang’s blue checkmark on X free of charge after users noticed that Huang’s profile had lost its verification and Nvidia affiliation badges following his resignation. Musk Offers...",
+   "url": "https://finance.yahoo.com/media-advertising/articles/elon-musk-steps-jensen-huang-130007871.html?.tsrc=rss",
+   "published": "2026-11-18T13:00:07+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "6966a7a6c7e91b72",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ASML Holding N.V. (ASML) is Attracting Investor Attention: Here is What You Should Know",
+   "excerpt": "Zacks.com users have recently been watching ASML (ASML) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-130005912.html?.tsrc=rss",
+   "published": "2026-11-18T13:00:05+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "54b33449a321413a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Investors Heavily Search Dell Technologies Inc. (DELL): Here is What You Need to Know",
+   "excerpt": "Dell Technologies (DELL) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-dell-technologies-130005908.html?.tsrc=rss",
+   "published": "2026-11-18T13:00:05+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "3be90273fd854634",
@@ -4146,6 +4861,21 @@
     "애플워치의 상시 청취 AI 기능이 실제로는 가치 있는 도움을 주지 못한다는 의견을 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "bec97fbea320285e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Just Dropped 39% in a Month. Can “Extraordinary Demand” for Its Server Chips Bring It Back?",
+   "excerpt": "Key TakeawaysIntel stock is down 39% in the past month, mostly on a fourth-quarter revenue guide about $1. 6 billion below consensus.",
+   "url": "https://www.tikr.com/blog/intel-just-dropped-39-in-a-month-can-extraordinary-demand-for-its-server-chips-bring-it-back?ref=yahoofinance&tlnk=yf-261118-gq495wf7&.tsrc=rss",
+   "published": "2026-11-18T04:56:49+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "5c966a47fbc0a7e1",
@@ -50298,92 +51028,6 @@
     "글로벌 옴니채널 소매 시장 보고서에서 어도비, 아마존웹서비스, 세일즈포스, 쇼피파이 등이 언급되었다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "659e4bf565e56f12",
-   "kind": "youtube",
-   "source": "Brighter with Herbert",
-   "author": "Brighter with Herbert",
-   "title": "Google Owns $74 Billion of SpaceX. So Why Leave?",
-   "excerpt": "Ready to be seen? Check that appointment off your to-do list with Zocdoc! ✅: #sponsored SpaceX board: Google's Don Harrison stepped down after 11 years, and Elon says there are simply too many conflicts of interest with Alphabet. 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Own a Tesla? Get a free month of Full Self-Driving (Supervised) when you use my link. ━━━━━━━━━━━━━━ Get better sleep with my Juxi amber blue-light blocker eye-glass clip-",
-   "url": "https://www.youtube.com/watch?v=L7ztC0RMAtc",
-   "published": "2026-11-11T14:30:18+00:00",
-   "tickers": [
-    "TSLA",
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "구글의 이사가 스페이스X 이사회에서 사임한 이유가 이해충돌 때문이라고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4f85734c5c045800",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "UnitedHealth adds children’s hospital executive to board",
-   "excerpt": "It’s the healthcare behemoth’s second board appointment since launching a financial and operational turnaround under CEO Stephen Hemsley. Madeline Bell’s experience adds an “important perspective,” Hemsley said.",
-   "url": "https://www.healthcaredive.com/news/unitedhealth-board-adds-childrens-hospital-ceo-madeline-bell/874367/?.tsrc=rss",
-   "published": "2026-11-11T14:24:11+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "summary_ko": [
-    "유나이티드헬스가 이사회에 어린이 병원 임원을 새로 선임했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9d840b61f9e09320",
-   "kind": "youtube",
-   "source": "The Compound",
-   "author": "The Compound",
-   "title": "Nvidia Is Down 30%. Could It Get Worse?",
-   "excerpt": "Join Michael Batnick and Chart Kid Matt for another episode of What Are Your Thoughts and see what they have to say about: last week’s brutal market selloff, why tech and semiconductor stocks took the biggest hit, and whether the Magnificent 7 are losing their grip on the market. They discuss the broadening of earnings beyond Big Tech, whether value stocks are making a comeback, and how long it could take the Nasdaq 100 to catch up to the S&P 500. Plus, the latest CPI report and its impact on Fed rate expectations, why short sellers deserve some credit, Matt makes the bull case for MSCI as an AI winner, and a mystery chart! COMPOUND MERCH: instagram: Twitter: TikTok: Linkedin: Sign up for The Compound newsletter: Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: Talking Wealt",
-   "url": "https://www.youtube.com/shorts/su8bKZ7bzcY",
-   "published": "2026-11-11T14:22:21+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "최근 시장 매도세 속에서 기술주와 반도체 주가가 큰 타격을 입은 원인을 논의했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "96212ceaa869abaf",
-   "kind": "youtube",
-   "source": "The Compound",
-   "author": "The Compound",
-   "title": "Nvidia Is Down 30%. Could It Get Worse?",
-   "excerpt": "Join Michael Batnick and Chart Kid Matt for another episode of What Are Your Thoughts and see what they have to say about: last week’s brutal market selloff, why tech and semiconductor stocks took the biggest hit, and whether the Magnificent 7 are losing their grip on the market. They discuss the broadening of earnings beyond Big Tech, whether value stocks are making a comeback, and how long it could take the Nasdaq 100 to catch up to the S&P 500. Plus, the latest CPI report and its impact on Fed rate expectations, why short sellers deserve some credit, Matt makes the bull case for MSCI as an AI winner, and a mystery chart! COMPOUND MERCH: instagram: Twitter: TikTok: Linkedin: Sign up for The Compound newsletter: Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: Talking Wealt",
-   "url": "https://www.youtube.com/watch?v=su8bKZ7bzcY",
-   "published": "2026-11-11T14:22:21+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "최근 기술주 매도세와 엔비디아의 주가 하락 배경을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "01f1e3078dff05e6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Lucid (LCID) Stock Looks Overvalued Even With More Funding Runway",
-   "excerpt": "Lucid Group has seen its share price hit US$3.77, with a long slide over recent years and a shorter bounce in the past month putting fresh focus on what investors are really paying for. The central question now is whether that market value lines up with the electric vehicle maker's actual sales performance. Over the past 5 years the stock has fallen about 99.3%, which puts Lucid's entire equity story under pressure to be justified by the revenue it produces today and what it might...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-stock-looks-overvalued-140847214.html?.tsrc=rss",
-   "published": "2026-11-11T14:08:47+00:00",
-   "tickers": [
-    "LCID"
-   ],
-   "summary_ko": [
-    "루시드의 주가 반등에도 불구하고 최근 몇 년간의 하락세로 인해 실제 매출 성과와 시장 가치를 두고 의문이 제기된다고 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
