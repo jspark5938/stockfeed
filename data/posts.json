@@ -1,6 +1,62 @@
 {
- "updated": "2026-11-18T06:00:36.552205+00:00",
+ "updated": "2026-11-18T06:30:32.315997+00:00",
  "posts": [
+  {
+   "id": "27b8ec81b1ce0e7b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Anthropic’s IPO Burn NVDA Stock Bears? Jim Cramer Thinks So — Jeff Bezos Weighs In On Jensen Huang’s Successor",
+   "excerpt": "SemiAnalysis favors an outsider, given scrutiny of China chip shipments and named Broadcom’s Charlie Kawwas and Apple’s Johny Srouji as its picks.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/can-anthropic-ipo-burn-nvda-bears-jim-cramer-jeff-bezos-weighs-jensen-huang-successor/cNbXs4oR9hv?.tsrc=rss",
+   "published": "2026-11-18T06:19:08+00:00",
+   "tickers": [
+    "NVDA",
+    "AAPL",
+    "AVGO"
+   ],
+   "summary_ko": [
+    "짐 크레이머는 앤스로픽의 IPO가 엔비디아 주가 하락론자들에게 타격을 줄 수 있다고 언급했다.",
+    "세미애널리시스는 중국 칩 선적 규제 등을 이유로 젠슨 황의 후임으로 외부 인사를 거론했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "c5bc673d3c459b04",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nextpower (NXT) Just Got Hammered — These 2 Firms Hold The Reason",
+   "excerpt": "Nextpower Inc. (NASDAQ:NXT) is one of the 10 Stocks Investors Are Fleeing. Nextpower saw its share prices fall by 12.13 percent on Tuesday to finish at $78.48 apiece, as investors took path from two investment firms’ lower price targets for its stock. In separate market notes on the same day, JPMorgan and BMO Capital both […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-just-got-hammered-060420135.html?.tsrc=rss",
+   "published": "2026-11-18T06:04:20+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "넥스파워 주가는 JP모건과 BMO캐피털의 목표주가 하향 조정 여파로 12% 이상 하락했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "301cde2e2130ff6b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "BABA Nosedive Continues: Report Says Nvidia Introduced Suspected Chinese Spy To Alibaba, Helping Secure Major Client",
+   "excerpt": "Already facing weakness, Alibaba came under pressure this week after the U.S. tightened restrictions on AI chips and compute for Chinese end-users.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/baba-nosedive-continues-report-says-nvidia-introduced-suspected-chinese-spy-to-alibaba-helping-secure-major-client/cNbXAKiR9hH?.tsrc=rss",
+   "published": "2026-11-18T05:53:21+00:00",
+   "tickers": [
+    "NVDA",
+    "BABA"
+   ],
+   "summary_ko": [
+    "미국의 대중국 AI 칩 규제 강화 속에서 알리바바가 압박을 받고 있다는 소식을 다뤘다.",
+    "엔비디아가 알리바바에 중국인 스파이로 의심되는 인물을 소개했다는 보도 내용이 나왔다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "3acf16fe7f763157",
    "kind": "news",
@@ -68,6 +124,40 @@
     "모건 스탠리가 디즈니의 목표주가를 133달러로 상향 조정했다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "578a29e09913f6d8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jim Cramer Asked Nvidia’s Interim CEO the Uncomfortable Question",
+   "excerpt": "Nvidia interim CEO Colette Kress tells Jim Cramer that hyperscalers are staying and rejects neocloud concerns.",
+   "url": "https://beincrypto.com/nvidia-kress-cramer-hyperscalers-staying/?.tsrc=rss",
+   "published": "2026-11-18T05:40:23+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 임시 CEO콜레트 크레스는 대형 클라우드 기업들이 계속 잔류할 것이라고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "de3b60a5813141ce",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike’s China weakness: What does it mean for local rivals?",
+   "excerpt": "Investing.com -- Nike’s China problem looks like a share-loss story more than a market collapse-- a scenario that favors local brands poised to gain more market share.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nike-china-weakness-does-mean-053437555.html?.tsrc=rss",
+   "published": "2026-11-18T05:34:37+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키의 중국 부진은 시장 전체의 붕괴라기보다는 점유율 상실에 가까운 것으로 분석했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "564f9f158b08cdf5",
@@ -1901,6 +1991,23 @@
     "디즈니는 자본 규율을 통해 신규 테마파크 프로젝트의 진행 여부를 결정할 것이라고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "e06a2af5bd57441a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon Is Building a Massive Shopping Data Repository to Compete With AI Agents. Shareholders Should Welcome the Move.",
+   "excerpt": "Amazon is considering the World Product Graph to keep customers on its platform as AI agents shape more buying decisions.",
+   "url": "https://www.barchart.com/story/news/8886969/amazon-is-building-a-massive-shopping-data-repository-to-compete-with-ai-agents-shareholders-should-welcome-the-move?.tsrc=rss",
+   "published": "2026-11-17T23:57:05+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존이 AI 에이전트 시대에 대응하기 위해 방대한 쇼핑 데이터 저장소를 구축하고 있다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6be945c7f6c61bce",
