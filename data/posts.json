@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-18T06:30:32.315997+00:00",
+ "updated": "2026-11-18T07:00:38.922506+00:00",
  "posts": [
+  {
+   "id": "05d06f91e6f38646",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Samsung Electro-Mechanics shares jump on expanded Nvidia supply deal",
+   "excerpt": "Investing.com-- Samsung Electro-Mechanics (KS:009150) shares surged on Wednesday after the company announced an expanded partnership with Nvidia (NASDAQ:NVDA) to supply advanced semiconductor package substrates and multilayer ceramic capacitors (MLCCs).",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-electro-mechanics-shares-jump-065747188.html?.tsrc=rss",
+   "published": "2026-11-18T06:57:47+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "삼성전기와의 첨단 반도체 부품 공급 파트너십 확대 소식으로 주가가 급등했다고 보도했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f26a2bf0f83aa06c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "excerpt": "U.S. stock futures are trending modestly higher early Wednesday as Wall Street digests a massive earnings beat from Nvidia Corp. (NASDAQ:NVDA) alongside ongoing geopolitical tensions in the Middle East. The Polymarket traders, a Polygon (CRYPTO: POL) based prediction platform, are...",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63376257/stock-market-will-sp-500-open-up-or-down-today-80?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "published": "2026-11-18T06:37:13+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 깜짝 실적과 중동 지정학적 긴장 속에서 미국 주가지수 선물이 소폭 상승세를 보였다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "215f5255cc086ebb",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Xi Jinping Speaks at APEC as Nvidia Posts Solid First Post-Huang Earnings",
+   "excerpt": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Avril Hong give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. Chapters: 00:00:00 - The China Show opens 00:06:16 - Mirae Asset Global Investments' Edward Chan on Nvidia's outlook after first post-Huang earnings 00:16:53 - Trump makes AI push with Quad leaders 00:17:28 - ASEAN seeks role in shaping AI development 00:26:53 - Asian investors digest Nvidia earnings, look ahead to Tencent 3Q report 00:30:07 - Goldman Sachs' Si Fu on China H-shares and A-shares 00:38:01 - UBS Asset Management's Kevin Zhao on upside from bond market volatility 00:51:47 - Breaking: Xi speaks ",
+   "url": "https://www.youtube.com/watch?v=oYIXQ82duFY",
+   "published": "2026-11-18T06:35:21+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "블룸버그 방송에서 엔비디아의 실적 발표 이후 전망과 아시아 투자자들의 반응을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a6825ad1747305b8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Joby Aviation (JOBY) Stock May Be Overvalued Despite Air Force Contract News",
+   "excerpt": "Joby Aviation has had a rough stretch on the market, and the slide is pushing investors to ask whether the current share price lines up with what its sales can realistically support. With the stock trading in speculative territory and the business still working toward commercial air taxi operations, the link between revenue potential and valuation is front and center. Year to date, Joby Aviation has fallen about 69.5%, which puts sharper focus on whether the remaining valuation is still out...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-joby-stock-may-062014498.html?.tsrc=rss",
+   "published": "2026-11-18T06:20:14+00:00",
+   "tickers": [
+    "JOBY"
+   ],
+   "summary_ko": [
+    "조비 에비에이션의 주가 하락과 함께 현재 주가가 매출 실적에 비해 고평가되었는지 의문이 제기된다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "27b8ec81b1ce0e7b",
    "kind": "news",
@@ -20,6 +88,23 @@
     "세미애널리시스는 중국 칩 선적 규제 등을 이유로 젠슨 황의 후임으로 외부 인사를 거론했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "b2eef8b8924992a1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Novo Nordisk (NVO) Stock May Be Undervalued On Raised 2026 Outlook",
+   "excerpt": "Novo Nordisk has seen its share price fall 57.9% over the past three years, even as its weight loss franchise remains central to the investment story. That slump now puts a sharper focus on whether the current price around US$40.70 can still be explained by the earnings power investors are paying for. The 57.9% decline over three years raises the question of how much of Novo Nordisk's earlier optimism has been stripped out of the valuation. Recent updates around Wegovy and the potential...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-stock-may-061727245.html?.tsrc=rss",
+   "published": "2026-11-18T06:17:27+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "summary_ko": [
+    "노보 노디스크의 주가 하락세 속에서 상향된 2026년 전망을 바탕으로 저평가되었을 가능성을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "c5bc673d3c459b04",
@@ -139,6 +224,24 @@
    ],
    "summary_ko": [
     "엔비디아 임시 CEO콜레트 크레스는 대형 클라우드 기업들이 계속 잔류할 것이라고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2b38f98d1e049c95",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘The Noise Will Work Itself Out in Time’: AMD CEO Lisa Su Says Nvidia a ‘Phenomenal Company’ After Jensen Huang Exits",
+   "excerpt": "Advanced Micro Devices Inc. (NASDAQ:AMD) CEO Lisa Su weighed in on former NVIDIA Corp. (NASDAQ:NVDA) CEO and co-founder Jensen Huang‘s exit from the chipmaker following his relationship with an alleged Chinese intelligence asset, as well as an executive at Nvidia. The Noise Will Quiet Down, Says Lisa Su During an appearance on the TomorrowX summit on Monday, the AMD CEO was asked about Huang’s exit from competitor Nvidia. “Nvidia is a phenomenal company. Jensen has been a tremendous leader for t",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/noise-itself-time-amd-ceo-053912304.html?.tsrc=rss",
+   "published": "2026-11-18T05:39:12+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": [
+    "AMD CEO 리사 수가 엔비디아와 젠슨 황을 훌륭한 기업이자 리더라고 언급했다고 밝혔다."
    ],
    "tone": "pos"
   },
