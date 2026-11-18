@@ -1,6 +1,75 @@
 {
- "updated": "2026-11-18T03:42:42.203484+00:00",
+ "updated": "2026-11-18T04:00:41.002683+00:00",
  "posts": [
+  {
+   "id": "01664329f646c84b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nasdaq Futures Lead Wall Street Rebound After Nvidia’s Blowout Forecast, Anthropic IPO Looms: SLS, NKE, MU In Focus",
+   "excerpt": "Nvidia reported its third-quarter results after market hours on Tuesday, injecting optimism back into the AI trade after a strong print.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-lead-wall-street-rebound-after-nvidia-s-blowout-forecast-anthropic-ipo-looms-sls-nke-mu-in-focus/cNbX828R9hF?.tsrc=rss",
+   "published": "2026-11-18T03:46:27+00:00",
+   "tickers": [
+    "NVDA",
+    "NKE"
+   ],
+   "summary_ko": [
+    "엔비디아의 호실적 발표로 시장의 낙관론이 되살아나며 나스닥 선물 지수가 반등을 주도했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ea84f8f9bec8e22a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang agrees to testify before Senate, Politico reports",
+   "excerpt": "Investing.com-- Former NVIDIA Corporation (NASDAQ:NVDA) CEO Jensen Huang has agreed to testify before the Senate Banking Committee, Politico reported on Tuesday evening, citing a spokesperson for Chair Tim Scott.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-agrees-testify-senate-034305878.html?.tsrc=rss",
+   "published": "2026-11-18T03:43:05+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 젠슨 황이 상원 은행위원회 청문회에 증언하기로 합의했다고 폴리티코가 보도했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2e7ed815aaa792d3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia China access restrictions: these stocks are most exposed",
+   "excerpt": "Investing.com -- On Nov 16, 2026, the Commerce Department outlined rules blocking remote access to advanced Nvidia chips. Chips shipped to Singapore, Malaysia, Thailand, Indonesia and Brazil now need export licences. Overseas data centers serving significant compute to China-headquartered firms have 90 days, to roughly mid-February, to get licences. Until then it is a cost-and-access squeeze, not a hard cut-off. Read more (Nov 17, 2026)",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-china-access-restrictions-stocks-033856534.html?.tsrc=rss",
+   "published": "2026-11-18T03:38:56+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미 상무부가 엔비디아의 첨단 칩에 대한 원격 접근을 차단하는 수출 규정 규칙을 설명했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "58833d1f318f2ddb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Charlie Munger Said He’d ‘Never Sell a Share’ of Costco. $10,000 From 1997 Is Now Worth $833,000 and Gets a $22,535 Check on Dec. 4",
+   "excerpt": "Costco's $30 special dividend goes to holders of record Nov. 24. For a couple who bought $10,000 of Costco the month Charlie Munger joined its board, that is a $22,535 check on top of shares worth $833,863, and selling would cost about $149,640 in federal tax.",
+   "url": "https://247wallst.com/investing/2026/11/17/charlie-munger-said-hed-never-sell-a-share-of-costco-10000-from-1997-is-now-worth-833000-and-gets-a-22535-check-on-dec-4/?.tsrc=rss",
+   "published": "2026-11-18T03:33:00+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "코스트코가 특별 배당을 지급하며 찰리 멍거의 과거 투자 일화와 주가 성과를 조명했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "7b24587d2f65e3d9",
    "kind": "news",
@@ -2932,6 +3001,23 @@
    "summary_ko": [
     "엔비디아의 3분기 매출이 전년 동기 대비 103% 증가한 1,158억 달러를 기록했다고 밝혔다.",
     "다음 분기 매출은 130억 달러 규모로 전망했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "6c1abe476cd1055b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $3 Billion Reason Why Disney Stock Is in Focus Today",
+   "excerpt": "Disney stock gains as management announces a sizeable cost-cutting initiative. Strong Q3 earnings also warrant buying DIS shares today.",
+   "url": "https://www.barchart.com/story/news/8884630/a-3-billion-reason-why-disney-stock-is-in-focus-today?.tsrc=rss",
+   "published": "2026-11-17T21:37:03+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": [
+    "디즈니 경영진이 대규모 비용 절감 계획을 발표하면서 주가가 주목을 받고 있다고 다뤘다."
    ],
    "tone": "pos"
   },
@@ -45595,8 +45681,10 @@
    "tickers": [
     "ABNB"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "에어비앤비가 플랫폼 내외를 예약할 수 있는 자체 AI 여행 에이전트를 개발 중이라고 공동 창업자가 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "95c5823e7061f239",
@@ -45611,8 +45699,10 @@
     "AAPL",
     "TQQQ"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "레버리지 ETF가 애플 주식을 추가로 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e58f3c4ff7b497f2",
@@ -45626,8 +45716,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "여러 ETF가 아마존 주식을 대거 매수했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a200e4da50840765",
@@ -45641,8 +45733,10 @@
    "tickers": [
     "NKE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "하얏트 호텔이 새로운 최고 디지털 및 정보 괸리자를 임명하며 기술 리더십 변화를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "50ad68e9879a218b",
