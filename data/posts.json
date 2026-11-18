@@ -1,6 +1,380 @@
 {
- "updated": "2026-11-18T13:00:39.692082+00:00",
+ "updated": "2026-11-18T13:30:39.260107+00:00",
  "posts": [
+  {
+   "id": "6823aa1f52643d7f",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Stocks Rise After Nvidia Earnings; Xi Welcomes Trump",
+   "excerpt": "US equity futures rally after Nvidia's outlook boost helped ease investors' concerns over the durability of the AI trade and the chipmaker's confidence to thrive without Jensen Huang. President Donald Trump meets President Xi Jinping in Shenzhen, China, ahead of a trilateral meeting with President Putin. Frank Lee of HSBC joins \"Bloomberg Brief\" for a closer look in to Nvidia's earnings and guidance. Bill Brundage of Ferguson discusses how rising costs is impacting the plumbing, heating and cooling product distribution business. Chapters: 00:00:00 - Bloomberg Brief 00:05:11 - Nvidia Outlook After Jensen Huang 00:08:16 - Trump Arrives in China 00:10:42 - US Iran Tensions Escalate 00:13:03 - Markets and Commodities 00:14:26 - Frank Lee, HSBC Technology Analyst, on Nvidia 00:20:57 - AI Stocks",
+   "url": "https://www.youtube.com/watch?v=DdBwiSLRzpU",
+   "published": "2026-11-18T13:23:29+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 실적 전망 호조로 AI 투자 우려가 완화되면서 미국 주가지수 선물은 상승세를 보였다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "38289f6eb19eec8c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nasdaq Futures Rise as Nvidia Earnings Calm AI Fears, Attention Turns to Anthropic",
+   "excerpt": "Tech stocks rallied across the globe after Nvidia’s market-beating earnings steadied sentiment around the artificial-intelligence trade.",
+   "url": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?.tsrc=rss",
+   "published": "2026-11-18T13:22:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 예상치를 웃도는 실적에 힘입어 인공지능 관련주 투자 심리가 안정되며 기술주가 반등했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "37357e34c384a51d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Dow Falls As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage)",
+   "excerpt": "The Dow Jones index fell Wednesday as a Fed official called for a \"shock\" in rate hikes. Nvidia stock jumps on strong earnings results.",
+   "url": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+   "published": "2026-11-18T13:18:16+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "연방준비제도 인사의 금리 인상 촉구 발언으로 다우지수는 하락한 반면 엔비디아는 호실적으로 상승했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "95cd4a0910e34e8c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom Stock Has Another Growth Driver. Here’s Where I See It Going in 2027",
+   "excerpt": "Broadcom's business is booming, yet its shares are lagging this year. A new software engine inside enterprise data centers could change that, and the earnings math behind a bold 2027 target may surprise skeptics.",
+   "url": "https://247wallst.com/investing/2026/11/18/broadcom-stock-has-another-growth-driver-heres-where-i-see-it-going-in-2027/?.tsrc=rss",
+   "published": "2026-11-18T13:17:52+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴의 사업 성장 동력과 기업용 데이터 센터 내 새로운 소프트웨어 엔진의 가능성을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7dc29b31de8062a2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Buy Coinbase Stock Now Or Wait?",
+   "excerpt": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+   "url": "https://www.trefis.com/stock/coin/articles/626249/should-you-buy-coinbase-stock-now-or-wait/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T13:11:54+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "앤스로픽의 IPO 밸류에이션 평가와 관련된 이야기를 다루었다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "32389c9ad586940f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet (GOOGL) Spinout Raised $5 Billion For AI Drug Discovery",
+   "excerpt": "Alphabet (NasdaqGS: GOOGL) spin out Isomorphic Labs has secured a $5b Series C round to expand AI driven drug discovery. The financing will fund the push to move Isomorphic Labs' AI designed drug candidates toward human clinical trials. Alphabet retains exposure to Isomorphic Labs' progress through its ownership stake and role as founding shareholder. The $5b Isomorphic Labs raise sits alongside other shifts in Alphabet's risk profile that recent research has surfaced. Our analysis turns up...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-spinout-raised-5-131110047.html?.tsrc=rss",
+   "published": "2026-11-18T13:11:10+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "알파벳의 스핀오프 기업인 아이소모픽 랩스가 인공지능 신약 개발 확대를 위해 50억 달러 규모의 투자를 유치했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b9a823c09158dba8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Deliverect Earns Premier Status in the Uber Partner Network",
+   "excerpt": "Deliverect, the global restaurant technology company that connects digital ordering channels with in-store operations and orchestrates delivery across the restaurant ecosystem, has earned Premier Status in the Uber Partner Network. Premier is the highest tier in the network, which rates the technology companies that integrate with Uber's platform, and Deliverect has earned it for both Uber Eats and Uber Direct.",
+   "url": "https://finance.yahoo.com/technology/articles/deliverect-earns-premier-status-uber-131100524.html?.tsrc=rss",
+   "published": "2026-11-18T13:11:00+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": [
+    "딜리버ect가 우버 파트너 네트워크에서 최고 등급인 프리미어 등급을 획득했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f12afd328b9d4b47",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "US Equity Futures Mostly Higher Pre-Bell as Nvidia Posts Higher-Than-Expected Financial Results",
+   "excerpt": "US equity futures were mostly higher pre-bell Wednesday as traders assessed Nvidia's (NVDA) higher-t",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mostly-higher-131047125.html?.tsrc=rss",
+   "published": "2026-11-18T13:10:47+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 예상보다 우수한 실적 발표에 힘입어 미국 주가지수 선물이 대체로 상승세를 보였다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b00cbe429ca0552b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 ETFs For Tesla As Its Germany Expansion Changes The Mix",
+   "excerpt": "You can own Tesla directly and let every twist in its story hit your portfolio on its own, or you can hold it through a fund alongside many other businesses. Direct ownership leaves you carrying company specific issues such as profit margins slipping from 5.3% to 3.1% and shareholders being diluted, both highlighted by Simply Wall St, without anything else in the mix to blunt those swings. An ETF still leaves you tied to Tesla, just with other holdings around it that also trim the upside. The...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-etfs-tesla-germany-expansion-131023445.html?.tsrc=rss",
+   "published": "2026-11-18T13:10:23+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라를 직접 보유하거나 ETF를 통해 보유하는 방식의 특징과 이점을 비교하는 내용을 다루었다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "485e0d1a445a9e82",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Is More Than One Person, CoreWeave Says",
+   "excerpt": "\"One thing about Nvidia is that it's not one person,\" CoreWeave's Ben Richardson says during a conversation about the chipmaker's ousted CEO Jensen Huang at Bloomberg's Global Credit Forum in London. \"I was actually sitting here thinking about the number of touchpoints that I personally have with Nvidia,\" he adds.",
+   "url": "https://finance.yahoo.com/video/nvidia-more-one-person-coreweave-131003666.html?.tsrc=rss",
+   "published": "2026-11-18T13:10:03+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "코어위브 측은 엔비디아가 특정 한 사람에게만 의존하는 기업이 아니라는 점을 언급했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f49e7e5c76e833e5",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Paris Hilton on AI’s Creative Power—and her Battle to Shut Down Deepfakes",
+   "excerpt": "CNBC's Julia Boorstin speaks with 11:11 Media CEO Paris Hilton to discuss how AI fuels her creativity, helps organize ideas and supports her work building products. She shares how her Google partnership is introducing young women to AI, why women must help shape the technology, and her advocacy against AI-generated deepfakes. Hilton also reflects on ADHD, leadership, motherhood and keeping human connection at the center of her work.",
+   "url": "https://www.youtube.com/watch?v=6mjmZslxgwo",
+   "published": "2026-11-18T13:07:25+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "파리스 힐튼이 인공지능이 창의력에 미치는 영향과 딥페이크 차단 활동에 대해 언급했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "411dd414d7e1813e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "GB News launches British-only rival to Amazon",
+   "excerpt": "GB News has launched an Amazon rival that will only sell products from British businesses.",
+   "url": "https://uk.finance.yahoo.com/news/gb-news-launches-british-only-130711257.html?.tsrc=rss",
+   "published": "2026-11-18T13:07:11+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "GB 뉴스가 영국 기업 제품만을 판매하는 아마존의 경쟁 서비스를 출시했다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ca695f1160a958f8",
+   "kind": "youtube",
+   "source": "Learn to Invest - Investors Grow",
+   "author": "Learn to Invest - Investors Grow",
+   "title": "NVDA Stock Analysis: Don't Buy Until You Watch This",
+   "excerpt": "Anthropic's IPO Video: NEW! Access our Investing Website & Private Community: 8 Steps to Analyze a Stock Video: ★☆★ Subscribe: ★☆★ Investing Basics Playlist Investing Books I like: The Intelligent Investor - Common Stocks & Uncommon Profits - Understanding Options - Little Book of Common Sense Investing - How to Value Exchange-Traded Funds - Dale Carnegie - Equipment I Use: Microphone - Video Editing Software - Thumbnail Editing Software - Laptop - DISCLAIMER: I am not a financial advisor. These videos are for educational purposes only. Investing of any kind involves risk. Your investments are solely your responsibility and we do not provide personalized investment advice. It is crucial that you conduct your own research. I am merely sharing my opinion with no guarantee of gains or losses ",
+   "url": "https://www.youtube.com/watch?v=Pyt13MHfN7E",
+   "published": "2026-11-18T13:05:09+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 주식 분석과 관련된 내용을 다루었으며 교육 목적의 콘텐츠라고 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f6c17c62875c0ee1",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "AI Trade Is ‘Alive and Well,’ Says Edward Yardeni",
+   "excerpt": "Edward Yardeni, president at Yardeni Research, discusses the health of the AI trade, which he views as “in transition,” with the market moving from Nvidia’s earnings and CEO search to the Anthropic IPO. He also addresses the interest rate environment and the strength of the US economy on “Bloomberg Surveillance.” -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Poli",
+   "url": "https://www.youtube.com/watch?v=n_zFP9OIcYM",
+   "published": "2026-11-18T13:03:30+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "전문가는 AI 관련 시장이 엔비디아 실적을 거쳐 앤스로픽 IPO 등으로 전환되는 과도기에 있다고 진단했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "c5235a5c0e731701",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft Stock Loses Key Level Amid Global Outage; Is Microsoft A Buy Now?",
+   "excerpt": "Microsoft falls further below its 50-day moving average after a global outage affected users of Teams and Outlook.",
+   "url": "https://finance.yahoo.com/m/efe593c1-a803-3c2b-91d2-d5b38ca68a4c/microsoft-stock-loses-key.html?.tsrc=rss",
+   "published": "2026-11-18T13:00:38+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "글로벌 서비스 중단 여파로 마이크로소프트 주가가 50일 이동평균선 아래로 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "3be90273fd854634",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+   "excerpt": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-clarifies-won-t-keep-130000174.html?.tsrc=rss",
+   "published": "2026-11-18T13:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 데이터센터 대출을 지원할 때의 조건에 대해 설명했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ce0cba382519134a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
+   "excerpt": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+   "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?.tsrc=rss",
+   "published": "2026-11-18T13:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 관련 혼란으로 인해 주식 매도를 고민하는 반응을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "8db899c29c84fa15",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Arrow Electronics announces new ArrowSphere sales portal to help channel partners accelerate cloud growth",
+   "excerpt": "CENTENNIAL, Colo., November 18, 2026--Arrow Electronics (NYSE: ARW) today announced the limited release of a new sales portal for the ArrowSphere Cloud platform, designed to help channel partners more easily identify, manage and pursue sales opportunities across their Microsoft and AWS cloud businesses.",
+   "url": "https://finance.yahoo.com/technology/articles/arrow-electronics-announces-arrowsphere-sales-130000525.html?.tsrc=rss",
+   "published": "2026-11-18T13:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "애로우 일렉트로닉스가 파트너의 클라우드 성장을 돕는 판매 포털을 공개했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f4d86b88e57743c0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oracle Life Sciences AI Agents Bring AI-Assisted Operational Intelligence and Coordination to Clinical Trials",
+   "excerpt": "Oracle today introduced Oracle Life Sciences AI Agents, a new agentic experience designed to help life sciences organizations apply intelligence and AI-assisted coordination to enhance clinical trial operations. By bringing together insights from Oracle Life Sciences applications and supported third-party data sources, the agents are designed to help clinical trial teams identify operational issues, recommend appropriate actions for review and approval, and coordinate responses across clinical d",
+   "url": "https://finance.yahoo.com/healthcare/articles/oracle-life-sciences-ai-agents-130000118.html?.tsrc=rss",
+   "published": "2026-11-18T13:00:00+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "오라클이 임상시험 운영을 지원하는 새로운 AI 에이전트를 도입했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2a61f161e7adf80c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "MineSense Recognized with 2026 Oracle Global Leaders Champions Award",
+   "excerpt": "MineSense, a leading provider of sensing and digital mining solutions, has been recognized with the 2026 Oracle Global Leaders Champions Award. The award is presented to organizations demonstrating excellence in the strategic use of Oracle technologies to drive business innovation and results.",
+   "url": "https://finance.yahoo.com/technology/articles/minesense-recognized-2026-oracle-global-130000156.html?.tsrc=rss",
+   "published": "2026-11-18T13:00:00+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "마인센스가 오라클 기술을 활용한 혁신 성과로 글로벌 리더 상을 수상했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f4b7efc958695224",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Banks Enhance Digital Debit Card Management, Money Movement and Accessibility for Online Banking",
+   "excerpt": "Keynova Group, the principal competitive intelligence source for digital financial services firms, today announced the results of its semi-annual Online Banker Scorecard for Q4 2026. For the second consecutive scorecard, Bank of America and U.S. Bank tie for the No. 1 ranking in Keynova Group's competitive evaluation of the digital experiences offered by 17 leading U.S. retail banks.",
+   "url": "https://finance.yahoo.com/markets/currencies/articles/banks-enhance-digital-debit-card-130000633.html?.tsrc=rss",
+   "published": "2026-11-18T13:00:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카와 US뱅크가 디지털 금융 서비스 평가에서 공동 1위를 차지했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "597aed24fd4e9f38",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Equities Set to Rebound as Investors Parse Nvidia Results, Await Fed Minutes",
+   "excerpt": "US equity futures were mostly higher pre-bell Wednesday as traders digested technology bellwether Nv",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/equities-set-rebound-investors-parse-125931611.html?.tsrc=rss",
+   "published": "2026-11-18T12:59:31+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "투자자들이 엔비디아 실적을 소화하며 주식 시장이 반등할 준비를 하고 있다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "fdbf483c3fb8bea0",
    "kind": "news",
@@ -739,6 +1113,23 @@
    "tone": "pos"
   },
   {
+   "id": "fc1bda6ab3b38bac",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "IonQ's SkyWater Acquisition Boosts Q3 Revenues and Expands RPO",
+   "excerpt": "IONQ's SkyWater acquisition adds $83.5 million in revenues, accelerates quantum chip production and lifts combined RPO to $1.2 billion.",
+   "url": "https://finance.yahoo.com/technology/articles/ionqs-skywater-acquisition-boosts-q3-121100332.html?.tsrc=rss",
+   "published": "2026-11-18T12:11:00+00:00",
+   "tickers": [
+    "IONQ"
+   ],
+   "summary_ko": [
+    "아이온큐가 스카이워터 인수를 통해 매출이 증가하고 계약 잔고가 확대되었다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "62faffe5a8c5cbac",
    "kind": "youtube",
    "source": "Bloomberg Television",
@@ -771,6 +1162,23 @@
     "마이크로소프트에 투자할 때 단일 종목 외에 ETF를 활용하는 방안을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "eeda9b58b3d8deb1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Rising Cyber Threats Accelerate Cloudflare's Security Growth?",
+   "excerpt": "NET's security business is gaining momentum as rising cyber threats, AI-driven vulnerabilities and SASE contract wins fuel demand for Zero Trust solutions.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/rising-cyber-threats-accelerate-cloudflares-120800328.html?.tsrc=rss",
+   "published": "2026-11-18T12:08:00+00:00",
+   "tickers": [
+    "NET"
+   ],
+   "summary_ko": [
+    "사이버 위협 증가가 클라우드플레어의 보안 솔루션 수요를 견인하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7a376f13b4ba243a",
@@ -854,6 +1262,24 @@
    ],
    "summary_ko": [
     "짐 크레이머가 엔비디아 임시 CEO에게 자사주 매입과 고객 관련 위험에 대해 질문했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0b385fb0464e1c01",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Billionaire David Tepper Slashes Alphabet Stake by 46% and Initiates $172M Bet on Oracle",
+   "excerpt": "Billionaire investor David Tepper just cut nearly half of his long-standing Alphabet Inc position while opening a $172 million stake in Oracle Corp. The shift comes as Oracle faces growing concerns over its AI spending and debt, but its rapidly...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-slashes-alphabet-120039000.html?.tsrc=rss",
+   "published": "2026-11-18T12:00:39+00:00",
+   "tickers": [
+    "GOOGL",
+    "ORCL"
+   ],
+   "summary_ko": [
+    "억만장자 투자자 데이비드 테퍼가 알파벳 지분을 줄이고 오라클에 신규 투자했다고 전했다."
    ],
    "tone": "neu"
   },
@@ -1896,6 +2322,24 @@
    "tone": "pos"
   },
   {
+   "id": "da08d2d3bd2e046a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple’s Haven Status Makes It One of Priciest Stocks in Market",
+   "excerpt": "It’s been a wild few weeks for Big Tech, as the midterm elections and stunning ouster of Jensen Huang at Nvidia Corp. continue to rock Wall Street.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/apple-haven-status-makes-one-105728059.html?.tsrc=rss",
+   "published": "2026-11-18T10:57:28+00:00",
+   "tickers": [
+    "NVDA",
+    "AAPL"
+   ],
+   "summary_ko": [
+    "엔비디아의 변화 등 빅테크 시장의 변동성 속에서 애플의 지위가 주목받고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "9f08fe29a8163efb",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -2751,6 +3195,23 @@
    "tone": "pos"
   },
   {
+   "id": "d19c225c31d72244",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "MARKETS LIVE: Nasdaq futures climb on Nvidia results as Dow futures slip",
+   "excerpt": "Dow Jones futures down 116 points at 50,699 Nasdaq 100 futures up 133.75 points at 27,209.25 S&P 500 futures up 8.25 points at 7,367.25 FTSE 100 down 62.32 points at 10,627.55 8.00 EST: Nvidia’s $130 billion sales forecast lifts chip and cloud stocks Dow Jones futures fell 116...",
+   "url": "https://www.proactiveinvestors.com/companies/news/1101978/markets-live-nasdaq-futures-climb-on-nvidia-results-as-dow-futures-slip-1101978.html?.tsrc=rss",
+   "published": "2026-11-18T07:20:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 실적과 전망에 힘입어 나스닥 선물 등 기술주가 상승세를 보였다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "e723348a775cab25",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -3582,6 +4043,23 @@
     "젠슨 황이 클라우드 임원들에게 일론 머스크에게 용량을 줄 수 있다고 언급했다는 보도를 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "f34b69e3c6192f7f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "US futures point higher led by rebound for Nvidia",
+   "excerpt": "HONG KONG (AP) — Tech stocks are leading U. futures higher Wednesday after Nvidia easily exceeded Wall Street expectations as it deals with the abrupt departure of CEO Jensen Huang.",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-mostly-decline-wall-034546063.html?.tsrc=rss",
+   "published": "2026-11-18T03:45:46+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 예상을 웃도는 실적을 기록하며 미국 선물 시장의 상승을 이끌었다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ea84f8f9bec8e22a",
@@ -5067,6 +5545,23 @@
     "엔비디아 임시 CEO는 시장 성장에 따라 향후 투자와 약속을 엄격하게 평가할 것이라고 밝혔다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "5eb1ac4d377c42d3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba’s Qwen4-Max “Won’t Be Open-Weights.” That Turns Its Best Model Into Cloud Revenue",
+   "excerpt": "Key TakeawaysAlibaba launched Qwen4-Max this week and sells it through a paid API, while only its smaller Qwen4 models will get open weights. Keeping its best model closed gives Alibaba Cloud something to sell on the computing capacity it’s spending heavily to build.",
+   "url": "https://www.tikr.com/blog/alibabas-qwen4-max-wont-be-open-weights-that-turns-its-best-model-into-cloud-revenue?ref=yahoofinance&tlnk=yf-261118-w6vr9h7m&.tsrc=rss",
+   "published": "2026-11-18T00:06:11+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바가 최고 성능의 모델을 유료 API로만 제공하여 클라우드 수익화에 나섰다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a4657daf6bb10d2f",
@@ -18285,6 +18780,23 @@
     "AI 서버 관련 소식과 기록적인 수주 잔고가 이러한 성과를 이끌었다고 언급했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "913fa4703537f1c9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft's Outage Barely Moved Its Stock, But a Bigger Risk May Be Building",
+   "excerpt": "A two-day Outlook and Teams outage left MSFT stock largely unscathed, but it could pressure Microsoft's enterprise pricing power and Copilot adoption ahead of its Ignite conference.",
+   "url": "https://www.marketbeat.com/articles/microsofts-outage-barely-moved-its-stock-but-a-bigger-risk-may-be-building/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+   "published": "2026-11-17T13:10:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트의 서비스 장애가 주가에 큰 영향을 주지 않았으나 향후 리스크가 될 수 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f02262b8d0a96266",
@@ -49462,23 +49974,6 @@
     "루시드의 주가 반등에도 불구하고 최근 몇 년간의 하락세로 인해 실제 매출 성과와 시장 가치를 두고 의문이 제기된다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "fad490250700bee1",
-   "kind": "youtube",
-   "source": "Learn to Invest - Investors Grow",
-   "author": "Learn to Invest - Investors Grow",
-   "title": "Google Stock Analysis: Is It Time to Buy or Sell?",
-   "excerpt": "NEW! Access our Investing Website & Private Community: 8 Steps to Analyze a Stock Video: ★☆★ Subscribe: ★☆★ Investing Basics Playlist Investing Books I like: The Intelligent Investor - Common Stocks & Uncommon Profits - Understanding Options - Little Book of Common Sense Investing - How to Value Exchange-Traded Funds - Dale Carnegie - Equipment I Use: Microphone - Video Editing Software - Thumbnail Editing Software - Laptop - DISCLAIMER: I am not a financial advisor. These videos are for educational purposes only. Investing of any kind involves risk. Your investments are solely your responsibility and we do not provide personalized investment advice. It is crucial that you conduct your own research. I am merely sharing my opinion with no guarantee of gains or losses on investments. Please ",
-   "url": "https://www.youtube.com/watch?v=AJG11X8zaa0",
-   "published": "2026-11-11T13:05:06+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "구글 주식에 대한 분석과 투자 관련 교육적 내용을 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
