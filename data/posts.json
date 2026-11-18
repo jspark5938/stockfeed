@@ -1,6 +1,160 @@
 {
- "updated": "2026-11-18T10:30:30.835249+00:00",
+ "updated": "2026-11-18T11:00:42.025540+00:00",
  "posts": [
+  {
+   "id": "57afc48cec500f98",
+   "kind": "youtube",
+   "source": "The Compound",
+   "author": "The Compound",
+   "title": "The Biggest Losers of the Year | Animal Spirits 490",
+   "excerpt": "On episode 491 of Animal Spirits, Michael Batnick and Ben Carlson discuss: Jensen’s resignation, what this means for Nvidia, why the stock market isn’t down more, hubris is a risk, the end of the AI bubble, semiconductor valuations, hedge fund herding is getting worse, how to bring inflation down, the crypto crash, we need to build more small houses, Bogleheads in Vegas, why action movies were better in the 1990s and more. This episode is sponsored by YCharts. Join Josh Brown and YCharts to break down what mattered for investors in 2026 and what to watch in 2027. Reserve your spot: ► 00:00 - YCharts Ad ► 00:48 - Intro ► 04:24 - 10 Biggest Losers of the Year ► 07:34 - The Big Winner is the S&P 500 Investor ► 10:14 - Jensen Huang and the Future of Nvidia ► 27:47 - Stock Market ► 36:26 - Econ",
+   "url": "https://www.youtube.com/watch?v=HZt1UsoIohE",
+   "published": "2026-11-18T11:00:29+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "팟캐스트 방송에서 엔비디아의 젠슨 황 사임과 향후 전망 등을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f9409e08d89ed3f5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 numbers explains why Nvidia stock is rising despite no Jensen Huang on the earnings call",
+   "excerpt": "Nvidia delivered several bullish numbers on its earning day,",
+   "url": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explains-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-105004324.html?.tsrc=rss",
+   "published": "2026-11-18T10:50:04+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 실적 발표에서 여러 호조세를 보였다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "52bbef0b02e44b90",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Market Chatter: Nvidia Sales Team Introduced Alibaba to Megaspeed Founder Before US Chip Export Restrictions",
+   "excerpt": "Nvidia's (NVDA) sales team connected Alibaba (BABA) with Alice Huang, the alleged Chinese spy with w",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-sales-team-104122362.html?.tsrc=rss",
+   "published": "2026-11-18T10:41:22+00:00",
+   "tickers": [
+    "NVDA",
+    "BABA"
+   ],
+   "summary_ko": [
+    "엔비디아 영업팀이 미국 칩 수출 제한 전에 알리바바와 중국 스파이 연루자를 연결했다고 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "8d71a227ab806d4b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Vanguard S&P 500 ETF vs. Schwab U.S. Dividend ETF: How Much You’d Need to Collect $1,000 a Month From Each.",
+   "excerpt": "While VOO and SCHD both pay dividends, one produces three times as much income per dollar invested.",
+   "url": "https://www.fool.com/investing/2026/11/18/vanguard-s-and-p-500-etf-vs-schwab-u-s-dividend-etf-how-much-you-d-need-to-collect-usd1-000-a-month-from-each/?.tsrc=rss",
+   "published": "2026-11-18T10:35:02+00:00",
+   "tickers": [
+    "SCHD"
+   ],
+   "summary_ko": [
+    "VOO와 SCHD의 배당 수익률 차이에 대해 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "dce48c9ef2397d9d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "nference and Novo partner to advance understanding of cardiometabolic disease and healthy ageing",
+   "excerpt": "nference today announced a strategic collaboration with Novo Nordisk (Novo) to advance research in cardiometabolic disease, including conditions such as obesity, diabetes, and cardiovascular disease.",
+   "url": "https://finance.yahoo.com/healthcare/articles/nference-novo-partner-advance-understanding-103000900.html?.tsrc=rss",
+   "published": "2026-11-18T10:30:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "summary_ko": [
+    "인퍼런스와 노보 노디스크가 심장대사질환 연구를 위한 협력을 발표했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "3ac4eee3aa03b350",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Google signs PPA to buy 50MW geothermal power from Quaise Energy",
+   "excerpt": "Superhot geothermal power will supply round-the-clock clean electricity to Google’s Oregon data centre starting in 2030.",
+   "url": "https://www.energymonitor.ai/news/google-signs-ppa-50mw-quaise-energy/?.tsrc=rss",
+   "published": "2026-11-18T10:27:59+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "구글이 오리건주 데이터센터에 청정 지열 에너지를 공급받는 계약을 체결했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b8851cac2a5efcde",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Much Was Jensen Huang Worth to Nvidia? More Than $6.7 Trillion, According to One Wall Street Analyst.",
+   "excerpt": "A flurry of price target cuts shows just how foundational Jensen Huang was to Nvidia.",
+   "url": "https://www.fool.com/investing/2026/11/18/how-much-jensen-huang-worth-to-nvidia-more-than-6-trillion-wall-street-analyst/?.tsrc=rss",
+   "published": "2026-11-18T10:26:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "월스트리트 애널리스트가 젠슨 황이 엔비디아에 엄청난 가치를 지닌다고 분석했다는 내용을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "d46615e6baabb6cd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Market Chatter: Google Wins Court Approval for $10 Million Spirit Airlines Data Acquisition",
+   "excerpt": "Alphabet's (GOOG, GOOGL) Google has secured court approval for its $10 million acquisition of de-ide",
+   "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-google-wins-court-102108633.html?.tsrc=rss",
+   "published": "2026-11-18T10:21:08+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "구글이 스피릿 항공 데이터 인수에 대해 법원 승인을 받았다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ccbea37de23b90f9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "US Stock Futures Rise as Nvidia Raises Revenue Forecast and Anthropic IPO Draws Investor Attention: Dow Jones, S&P, Nasdaq, Wall Street",
+   "excerpt": "US stock futures advanced on Wednesday as stronger-than-expected results and an improved revenue outlook from Nvidia (NASDAQ:NVDA) supported technology shares, while investors awaited the pricing of Anthropic’s (NASDAQ:ANT) initial public offering. Markets were also assessing expectations for further Federal Reserve interest rate increases, declining gold prices and lower crude oil futures amid indications of improving global supplies.",
+   "url": "https://investorshub.advfn.com/market-news/article/40250/us-stock-futures-rise-as-nvidia-raises-revenue-forecast-and-anthropic-ipo-draws-investor-attention-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+   "published": "2026-11-18T10:20:27+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 매출 전망 상향과 호실적이 기술주 상승을 지지했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "c24268d0fd18e398",
    "kind": "news",
@@ -54,6 +208,23 @@
     "전직 CEO 관련 주장과 중국 스파이 연루 가능성, 재무 공시 검증 문제를 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "1bd7a335df5667a7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Rocket Lab (RKLB) Fully Priced Following Its 100th Electron Mission?",
+   "excerpt": "Rocket Lab (RKLB) just hit a symbolic milestone with the 100th Electron mission, “The Mountain God Rises”, sending an Earth imaging satellite to orbit and putting fresh attention on the stock’s risk reward trade off. Rocket Lab’s latest Electron success lands in a choppy trading stretch, with the share price down 4.0% over the past day and 16.8% over the past week, yet still showing a 7.2% 1 month share price gain as investors weigh record Neutron contracts, wider quarterly losses and sector...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-fully-priced-101425430.html?.tsrc=rss",
+   "published": "2026-11-18T10:14:25+00:00",
+   "tickers": [
+    "RKLB"
+   ],
+   "summary_ko": [
+    "로켓랩이 100번째 일론 미션을 성공하며 위성 발사 성과를 거뒀다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f6314f902d15bd06",
@@ -162,6 +333,23 @@
    "tone": "pos"
   },
   {
+   "id": "0f7de9f67a6b3acf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Investor Stanley Druckenmiller Is in “Capital Preservation” Mode. What Did He Sell?",
+   "excerpt": "Druckenmiller's 13F shows a 94% TSMC cut and a bigger Seagate stake, yet he says he is not long equities.",
+   "url": "https://beincrypto.com/druckenmiller-13f-tsmc-seagate-ai-storage/?.tsrc=rss",
+   "published": "2026-11-18T10:00:00+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": [
+    "투자자 스탠리 드러켄밀러가 자본 보존 모드에 들어가며 TSMC 지분을 대거 축소했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "240057140c4113f1",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -176,6 +364,23 @@
    "summary_ko": [
     "엔비디아의 실적 호조가 투자 심리를 끌어올리며 암호화폐 관련 주가 반등했다고 다뤘다.",
     "비트코인은 6만 4,600달러 부근을 유지했으며, 일부 분석가는 반등을 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "6a3ea1dcb38d796a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Zacks.com featured highlights include Super Micro Computer, General Dynamics and Consolidated Edison",
+   "excerpt": "Super Micro Computer, General Dynamics and Consolidated Edison have been highlighted in this Screen of The Week article.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-super-094700918.html?.tsrc=rss",
+   "published": "2026-11-18T09:47:00+00:00",
+   "tickers": [
+    "SMCI"
+   ],
+   "summary_ko": [
+    "슈퍼마이크로컴퓨터, 제너럴 다이내믹스 등이 추천 종목으로 소개되었다고 다뤘다."
    ],
    "tone": "pos"
   },
@@ -23603,6 +23808,24 @@
    "tone": "neu"
   },
   {
+   "id": "724b2e9c78200699",
+   "kind": "youtube",
+   "source": "Andrei Jikh",
+   "author": "Andrei Jikh",
+   "title": "Trump Knew About The Chinese Spy",
+   "excerpt": "Trump reportedly knew about Alice Huang a year ago. So why did the story only come out now? Jensen Huang kept his close ties to the White House, and Nvidia kept selling chips well into 2026. Then, right when he was winning the fight over China's AI, the story went public. Whether the spy story is true might not even be the real question. Find the full story in my video: What If China Wins The AI Race?",
+   "url": "https://www.youtube.com/shorts/kESKFSbcq1w",
+   "published": "2026-11-16T19:00:05+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프가 중국 스파이 관련 내용을 미리 알고 있었다는 의혹을 다뤘다.",
+    "엔비디아가 2026년까지 칩 판매를 지속했다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "1830fed048951d63",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -25408,6 +25631,24 @@
     "하원 정보위원회 위원장이 엔비디아를 상대로 국가 안보 검토 및 답변을 요구하고 나섰다고 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "d0303b822aca4c4c",
+   "kind": "youtube",
+   "source": "Andrei Jikh",
+   "author": "Andrei Jikh",
+   "title": "New AI Laws Will Benefit China",
+   "excerpt": "The people trying to stop China from winning the AI race might hand it an easy win. And it starts with rules that sound like a good idea. Jensen Huang is out at Nvidia, and Congress is already preparing new AI rules after the midterms. They sound like they'll rein in the big AI companies, but only one kind of company can actually afford to follow them. If that happens, the world won't stop using free AI. It'll just stop using America's. Find the full story in my video: What If China Wins The AI Race?",
+   "url": "https://www.youtube.com/shorts/2MntiX70yyk",
+   "published": "2026-11-16T17:00:29+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "새로운 AI 규제가 오히려 중국에 유리하게 작용할 수 있다고 주장했다.",
+    "대형 AI 규제 비용을 감당할 수 있는 기업만 살아남을 것이라고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5bb16e1c3eb96a56",
