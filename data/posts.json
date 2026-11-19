@@ -1,6 +1,93 @@
 {
- "updated": "2026-11-19T09:00:40.866056+00:00",
+ "updated": "2026-11-19T09:30:35.264065+00:00",
  "posts": [
+  {
+   "id": "1ad989da651a691e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "2 Words From Nvidia’s Colette Kress That Should Reassure Investors",
+   "excerpt": "Kress was named interim CEO last week after Jensen Huang resigned.",
+   "url": "https://www.fool.com/investing/2026/11/19/2-words-from-nvidia-s-colette-kress-that-should-reassure-investors/?.tsrc=rss",
+   "published": "2026-11-19T09:15:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 콜레트 크레스가 지난주 임시 CEO로 임명되었다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "9ba543cf9083e76b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon (AMZN) Stock Trades Below Fair Value As Its 82% Run Continues",
+   "excerpt": "Amazon.com has ridden a powerful three year upswing and sits in the middle of heavy debate about AI spending, logistics build out and new ventures. The key issue now is whether that share price can be explained by the cash the business is expected to generate over time. The stock has returned 82.5% over the past three years, which puts real pressure on the underlying cash flows to justify how far sentiment has already moved. Fresh scrutiny from the Federal Reserve and European Central Bank...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-trades-below-090928160.html?.tsrc=rss",
+   "published": "2026-11-19T09:09:28+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존 주가가 적정 가치 아래에서 거래되고 있다는 점을 다뤘다.",
+    "주가 상승 이후 현금 흐름과 규제에 대한 관심이 이어진다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "cf2596f25c06a600",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Democrats Just Won Congress. Here's Why Alphabet Could Be a Surprise Winner.",
+   "excerpt": "A Democrat-controlled government could impose AI limits that ultimately help the Google parent.",
+   "url": "https://www.fool.com/investing/2026/11/19/democrats-just-won-congress-heres-why-alphabet-cou/?.tsrc=rss",
+   "published": "2026-11-19T09:05:00+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "민주당의 의회 승리가 알파벳에게 의외의 수혜가 될 수 있다고 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "37c3920a2d022fde",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "BABA Stock Dips Further After Hitting 22-Month Low — US AI Curbs Weigh Ahead Of Earnings, But Retail Bulls Aren’t Budging",
+   "excerpt": "Alibaba faces weakness as investors worry that AI spending, e-commerce price wars in China, and the country’s weak outlook are squeezing the business.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/baba-stock-dips-further-after-hitting-22-month-low-us-ai-curbs-weigh-ahead-of-earnings-but-retail-bulls-aren-t-budging/cNbiclUR9iY?.tsrc=rss",
+   "published": "2026-11-19T08:58:53+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바 주가가 22개월 만에 최저치를 기록하며 하락했다고 다뤘다.",
+    "AI 규제와 중국 내 경쟁 및 약세 전망이 부담으로 작용하고 있다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "7defbb8e360bc7ea",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Black Friday Is Nov. 27. Here's What Shopify Stock Did the Week After in Each of the Last 11 Years.",
+   "excerpt": "The holiday weekend's sales tally usually arrives a few days later. Has the stock cared?",
+   "url": "https://www.fool.com/investing/2026/11/19/black-friday-is-nov-27-here-s-what-shopify-stock-did-the-week-after-in-each-of-the-last-11-years/?.tsrc=rss",
+   "published": "2026-11-19T08:57:02+00:00",
+   "tickers": [
+    "SHOP"
+   ],
+   "summary_ko": [
+    "블랙프라이데이 이후 쇼피파이 주가의 과거 11년간 추이를 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "7369ab0d601fc400",
    "kind": "news",
@@ -233,6 +320,24 @@
    "summary_ko": [
     "블룸버그 방송에서 트럼프와 시진핑의 APEC 정상회담 개최 소식을 다뤘다.",
     "텐센트의 3분기 실적 부진이 중국 기술주 거래에 부담을 주었다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "48f84202dd34cb1c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The “Bank of Nvidia” Is Pulling Back. SpaceX’s CFO Says Cash Flow Funds Most of Its 10GW Build",
+   "excerpt": "Key TakeawaysSpaceX’s CFO said “a large portion” of its compute build will be funded by the business itself. SpaceX is leasing about $47 billion of Nvidia chips as Nvidia is expected to rein in customer financing.",
+   "url": "https://www.tikr.com/blog/the-bank-of-nvidia-is-pulling-back-spacexs-cfo-says-cash-flow-funds-most-of-its-10gw-build?ref=yahoofinance&tlnk=yf-261119-pcg3qpw9&.tsrc=rss",
+   "published": "2026-11-19T06:49:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "스페이스X는 자체 현금 흐름으로 연산 인프라 구축 자금을 조달할 것이라고 밝혔다.",
+    "엔비디아의 고객 자금 지원 축소 예상 속에 스페이스X는 칩을 대여하고 있다고 전했다."
    ],
    "tone": "neu"
   },
