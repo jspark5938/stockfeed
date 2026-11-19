@@ -1,6 +1,161 @@
 {
- "updated": "2026-11-19T23:00:39.077386+00:00",
+ "updated": "2026-11-19T23:30:33.457010+00:00",
  "posts": [
+  {
+   "id": "2387cdcbb96797f8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "California AG subpoenas Nvidia over China leak risks and investor disclosures",
+   "excerpt": "Investing.com -- California Attorney General Rob Bonta served an investigative subpoena on NVIDIA Corporation (NASDAQ:NVDA) on Thursday, escalating regulatory scrutiny into whether the chipmaker misled investors regarding potential leaks of advanced technology and confidential information to China. The California Department of Justice inquiry stems from revelations surrounding former Chief Executive Officer Jensen Huang’s alleged affair with an individual suspected of acting as a Chinese intelli",
+   "url": "https://finance.yahoo.com/news/california-ag-subpoenas-nvidia-over-232352666.html?.tsrc=rss",
+   "published": "2026-11-19T23:23:52+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캘리포니아 법무장관이 엔비디아를 상대로 중국 기술 유출 및 투자자 공시 관련 소환장을 발부했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "e301765c4f2bb417",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures: Ugly Market Reversal To New Lows As Anthropic IPO Debuts, AMD Dives",
+   "excerpt": "The stock market suffered an ugly reversal as AMD dived and the Anthropic IPO debuted. The S&P 500 and Nasdaq hit new lows.",
+   "url": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-ugly.html?.tsrc=rss",
+   "published": "2026-11-19T23:19:33+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "앤스로픽 IPO 데뷔와 AMD 주가 하락 속에서 증시가 새로운 저점으로 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "f745721ac749e779",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Google Quietly Winning the AI Model Race Again?",
+   "excerpt": "Anthropic is now a public company after the largest IPO on record, so who can still compete at the frontier of AI? Ejaaz joins Deirdre Bosa to break down the debut against a falling Nasdaq, then makes the case that Google is back after a string of new Gemini releases. He explains why Microsoft could still catch up thanks to its OpenAI rights and enterprise reach, and why he expects every frontier lab to design its own chips. Timestamps 0:00 Reading Anthropic's debut 1:11 An IPO in a rocky AI market 3:13 Is Google back on top? 5:58 Can Microsoft build a frontier model? 7:55 Why AI labs want their own chips #AI #Google #Anthropic == AlphaSpace by Yahoo Finance: A Professional-Grade Investment Platform Built for Everyday Investors. 👉",
+   "url": "https://www.youtube.com/watch?v=-XMvIvfGGBE",
+   "published": "2026-11-19T23:12:13+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "제미니 신제품을 근거로 구글이 AI 경쟁에서 다시 우위를 차지했다고 주장했다.",
+    "마이크로소프트는 오픈아이엔아이 협력과 기업용 시장을 통해 추격할 수 있다고 보았다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "514bca817b554aa3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jeff Bezos says 2 policies drive up housing costs, and it's 'not hard to figure out'",
+   "excerpt": "The Amazon founder says the causes of sky-high home prices are simpler than politicians make them sound.",
+   "url": "https://www.thestreet.com/real-estate/jeff-bezos-says-2-policies-drive-up-housing-costs-subsidize-demand-constrain-supply?.tsrc=rss",
+   "published": "2026-11-19T23:07:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존 창업자가 주택 비용 상승을 유발하는 2가지 정책에 대해 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d0d14bf5af3b47e9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake",
+   "excerpt": "Strong corporate earnings and a landmark IPO are providing pockets of optimism, but mounting interest rate and valuation concerns continue to undermine investor confidence.",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/?.tsrc=rss",
+   "published": "2026-11-19T23:05:02+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "앤스로픽의 나스닥 상장으로 구글 지분 가치가 부각된 가운데 알파벳 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a3351f0c42c0245d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence — ANT, META, AAPL, GME In Focus",
+   "excerpt": "Anthropic closed its debut trading session 17% higher from its listing price of $83 a share.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-lower-as-anthropic-trading-debut-fails-to-provide-adequate-confidence/cNbio2mR90v?.tsrc=rss",
+   "published": "2026-11-19T23:01:05+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "앤스로픽의 거래 데뷔에도 불구하고 S&P500과 나스닥 등 주요 지수가 하락 마감했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a4ffd232d1ecaaae",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "McKay: GTA VI Lives Up to Hype, Lifts TTWO Bottom Line",
+   "excerpt": "Entertainment analyst Nick McKay with Freedom Capital Markets highlights Grand Theft Auto VI’s near perfect Metacritic score, saying he’s not surprised given Take-Two Interactive (TTWO) track record of high-quality releases. McKay expects GTA VI to live up to the hype and believes the release could benefit the company’s bottom line while complementing its other intellectual properties. He maintains a buy rating on Take-Two. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #gta6 #rockstargames #taketwointeractive ",
+   "url": "https://www.youtube.com/watch?v=gjG6HyqVyxI",
+   "published": "2026-11-19T23:00:21+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "전문가는 GTA 6가 높은 기대치에 부응하며 테이크투 인터랙티브의 실적을 견인할 것으로 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "70a67b408d58a9b7",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Anthropic’s Historic IPO Debuts",
+   "excerpt": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Class V Group Founder Lise Buyer, Menlo Ventures Partner Matt Murphy, GIC Head of Technology Investment Group Chris Emanuel, Goldman Sachs Chief Credit Strategist Amanda Lynam, Robinhood Markets CIO Stephanie Guild, Warrington College of Business Administration IPO Initiative Director Jay Ritter, Center for a New American Security Senior Fellow & Director Emily Kilcrease, Sony Interactive Entertainment America Former President & CEO Shawn Layden, & Propagate Co-CEO & Chairman Ben Silverman. Chapters: 00:00:00 Bloomberg The Close 00:03:11 Anthropic IPO, Valuation & What It Means for OpenAI 00:10:36 Menlo Ventures’ Matt Murphy on H",
+   "url": "https://www.youtube.com/watch?v=eBeXNLoskHk",
+   "published": "2026-11-19T23:00:10+00:00",
+   "tickers": [
+    "HOOD"
+   ],
+   "summary_ko": [
+    "앤스로픽의 사상 최대 규모 IPO 데뷔와 오픈아이엔아이와의 연관성을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "80f36e70dbd62f4c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Grand Theft Auto VI outplays Nvidia and SpaceX",
+   "excerpt": "Rockstar’s long-awaited blockbuster sends a tokenized stock past Wall Street’s favorite chipmaker, and the game itself is drawing near-perfect reviews.",
+   "url": "https://www.thestreet.com/crypto/markets/grand-theft-auto-vi-outplays-nvidia-and-spacex?.tsrc=rss",
+   "published": "2026-11-19T23:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "GTA 6가 호평을 받으며 토큰화된 주식 거래에서 주목받았다는 소식을 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "d8beb4248201c699",
    "kind": "news",
@@ -334,6 +489,23 @@
    ],
    "summary_ko": [
     "앤스로픽의 첫 거래일과 AI 투자 열기 등을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f5ccd7a631e3d6c1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NYC Lawmakers Weigh Overhaul of Amazon Delivery Worker Bill",
+   "excerpt": "New York City lawmakers are in discussions to modify a mandate that would require Amazon.com Inc. to directly hire thousands of delivery workers under a bill that has pitted the company against Mayor Zohran Mamdani.",
+   "url": "https://finance.yahoo.com/small-business/articles/nyc-lawmakers-weigh-overhaul-amazon-220406127.html?.tsrc=rss",
+   "published": "2026-11-19T22:04:06+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "뉴욕시 의원들이 아마존의 배달 노동자 직접 고용 의무화 법안 수정을 논의 중이라고 전했다."
    ],
    "tone": "neu"
   },
@@ -1386,6 +1558,23 @@
    ],
    "summary_ko": [
     "브래드 거스트너의 알티메터 카피탈이 3분기에 테슬라 지분을 신규 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "d36654dd6719d3b5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Starbucks apparently sold a lot of holiday drinks on Tuesday",
+   "excerpt": "The coffee shop giant generated record sales on Nov. 5 with the launch of its new holiday menu, the latest in a string of strong seasonal menu debuts.",
+   "url": "https://www.nrn.com/quick-service/starbucks-apparently-sold-a-lot-of-holiday-drinks-on-tuesday?.tsrc=rss",
+   "published": "2026-11-19T20:02:57+00:00",
+   "tickers": [
+    "SBUX"
+   ],
+   "summary_ko": [
+    "스타벅스가 새로운 홀리데이 메뉴를 출시하며 기록적인 매출을 올렸다고 전했다."
    ],
    "tone": "pos"
   },
@@ -4435,6 +4624,23 @@
     "월마트는 매출 증가와 실적 호조에도 불구하고 높은 밸류에이션 부담으로 주가가 하락했다고 밝혔다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "6f95db334f4b79ee",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "George Soros’s Fund Doubled Down on Micron Stock in Q3. The Bull Case Is Hard to Ignore.",
+   "excerpt": "George Soros' fund lifted its Micron stake by 59% in Q3 as the AI memory chipmaker posts record sales. Here is what the filing shows and what could come next.",
+   "url": "https://www.barchart.com/story/news/8921079/george-soross-fund-doubled-down-on-micron-stock-in-q3-the-bull-case-is-hard-to-ignore?.tsrc=rss",
+   "published": "2026-11-19T17:04:36+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "조지 소로스의 펀드가 3분기 마이크론 지분을 대폭 늘렸다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "42e173070db98f20",
@@ -71284,57 +71490,6 @@
     "엔비디아 CEO의 사임에 따른 리더십 위기와 주가 전망을 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "020356542b86ff52",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Procter & Gamble vs. Starbucks: Which Stock Is a Better Buy for 2027?",
-   "excerpt": "Procter & Gamble's steady cash machine goes head-to-head with Starbucks' bid for a brand-led comeback, and the valuation gap may tip the scales.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/12/procter-and-gamble-vs-starbucks-which-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-   "published": "2026-11-12T23:21:39+00:00",
-   "tickers": [
-    "SBUX"
-   ],
-   "summary_ko": [
-    "프록터앤드갬블과 스타벅스의 가치 평가 차이와 현금 창출력을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "93ac541cd6eb9263",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "RBC’s Paul Treiber Held Firm on Shopify (SHOP) After a Slight Miss. Here’s the AI Pitch",
-   "excerpt": "We just published a list of the 10 Best Growth Stocks for the Next 5 Years and Shopify (NASDAQ:SHOP) ranked 9th on this list. Technology stocks went from celebration to rout within two sessions this month. On Wednesday, November 4, equities rallied after Democrats swept Congress in the midterm elections. By Thursday, the S&P 500 […]",
-   "url": "https://finance.yahoo.com/technology/ai/articles/rbc-paul-treiber-held-firm-231241818.html?.tsrc=rss",
-   "published": "2026-11-12T23:12:41+00:00",
-   "tickers": [
-    "SHOP"
-   ],
-   "summary_ko": [
-    "쇼피파이가 성장주 순위에 포함된 가운데 RBC 애널리스트가 실적 미달 이후에도 입장을 유지했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d5c662baa1c69a10",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bank of America Sees Up to 95% Upside in 2 Stocks",
-   "excerpt": "Two very different growth stories are attracting institutional optimism.",
-   "url": "https://finance.yahoo.com/healthcare/articles/bank-america-sees-95-upside-230641865.html?.tsrc=rss",
-   "published": "2026-11-12T23:06:41+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "summary_ko": [
-    "뱅크오브아메리카가 두 종목의 높은 상승 여력을 바라보고 있다고 전했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
