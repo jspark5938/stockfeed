@@ -1,6 +1,77 @@
 {
- "updated": "2026-11-19T10:30:32.281546+00:00",
+ "updated": "2026-11-19T11:00:47.368408+00:00",
  "posts": [
+  {
+   "id": "db1cf9da07093dee",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Tristan Thompson backed Anthropic early and is still bullish",
+   "excerpt": "Former NBA player and early Anthropic investor Tristan Thompson sits down with Yahoo Finance Executive Editor Brian Sozzi to explain why he compares backing Anthropic to buying Google in the dot-com era. He also breaks down the secret behind his famous family's brand empire and why LeBron James will almost certainly own an NBA team.",
+   "url": "https://finance.yahoo.com/video/why-tristan-thompson-backed-anthropic-110000852.html?.tsrc=rss",
+   "published": "2026-11-19T11:00:00+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "전직 농구 선수이자 초기 투자자인 트리스탄 톰슨이 앤스로픽에 대한 투자 이유를 밝혔다.",
+    "그는 앤스로픽 투자를 닷컴 시대의 구글 매수에 비유하며 여전히 긍정적인 전망을 유지했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "3be26a1674874159",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures Rise, Techs Jump: Anthropic IPO To Debut After Pricing High; Palo Alto, Everpure Rally On Earnings",
+   "excerpt": "The stock market was mixed as UnitedHealth dived and Nvidia fell. The Anthropic IPO priced high. Palo Alto, Everpure leaped.",
+   "url": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
+   "published": "2026-11-19T10:53:34+00:00",
+   "tickers": [
+    "NVDA",
+    "UNH"
+   ],
+   "summary_ko": [
+    "유나이티드헬스와 엔비디아가 하락한 가운데 다우존스 선물은 상승하고 기술주가 반등했다고 다뤘다.",
+    "앤스로픽의 IPO가 높은 가격으로 책정되었으며 팔로알토 등이 실적 발표에 힘입어 급등했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "22e9f0a5e8f08fde",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Update: Palo Alto Networks Surges Pre-Bell as FY27 Guidance Raised Amid Stronger-Than-Expected Q1 Adjusted Earnings, Sales",
+   "excerpt": "(Updates with the stock move in the headline and the first paragraph.) Palo Alto Networks (PANW)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-surges-pre-104224101.html?.tsrc=rss",
+   "published": "2026-11-19T10:42:24+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스가 예상보다 양호한 1분기 실적과 함께 2027 회계연도 가이던스를 상향 조정했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ecea00d45c56aece",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Market Chatter: Meta Platforms Suspends Plan to Issue Non-Voting Shares",
+   "excerpt": "Meta Platforms (META) has suspended its plan to issue a new class of non-voting shares as it faces o",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-suspends-103305579.html?.tsrc=rss",
+   "published": "2026-11-19T10:33:05+00:00",
+   "tickers": [
+    "META"
+   ],
+   "summary_ko": [
+    "메타 플랫폼스가 의결권 없는 신주 발행 계획을 중단했다고 시장 소식을 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "3b8113784de5044c",
    "kind": "news",
@@ -37,6 +108,23 @@
    "tone": "pos"
   },
   {
+   "id": "a9f0f611480a6f33",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AlumiFuel Power And 2 More Hydrogen Fuel Cell Stocks To Watch",
+   "excerpt": "Google’s deal to buy superhot geothermal power for energy hungry data centers has put long term clean electricity contracts back in the spotlight. That focus on reliable low carbon power makes hydrogen fuel cell technology harder to ignore for anyone watching energy transition themes. This article walks through three hydrogen fuel cell stocks from the US market that could help you build targeted exposure to this corner of clean power. The three hydrogen fuel cell stocks below are just a...",
+   "url": "https://finance.yahoo.com/energy/articles/alumifuel-power-2-more-hydrogen-101627261.html?.tsrc=rss",
+   "published": "2026-11-19T10:16:27+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "구글의 지열 에너지 구매 계약으로 청정 전력과 수소 연료 전지 관련 주식들이 주목받고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "e0c1b5f90c575e89",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -67,6 +155,24 @@
    ],
    "summary_ko": [
     "알리바바가 API 비용을 낮춘 새로운 AI 모델 큐웬4 맥스를 공개했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7387961563ef0f82",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba’s Revenue Beats Estimates During China’s AI Boom",
+   "excerpt": "Alibaba Group Holding Ltd. posted a stronger-than-projected 10% rise in revenue, reflecting the company’s pivotal role in providing computing and services to propel China’s AI development boom.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-revenue-beats-estimates-during-101314383.html?.tsrc=rss",
+   "published": "2026-11-19T10:13:14+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바의 매출이 예상치를 상회하며 10% 증가했다고 전했다.",
+    "이는 중국의 AI 개발 붐 속에서 컴퓨팅과 서비스 제공 역할을 반영한 결과라고 다뤘다."
    ],
    "tone": "pos"
   },
