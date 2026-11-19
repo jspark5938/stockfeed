@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-19T06:30:32.047268+00:00",
+ "updated": "2026-11-19T07:00:42.971413+00:00",
  "posts": [
+  {
+   "id": "cb61b34a44cbd594",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Xi Hosts Trump at APEC Summit in Shenzhen",
+   "excerpt": "\"Bloomberg: The China Show\" is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. Chapters: 00:01:38 - Anthropic IPO set to top SpaceX's record debut 00:04:49 - Trump, Xi set to meet for bilateral talks at APEC 00:15:23 - Tencent's 3Q earnings miss weighs on China tech trade 00:18:16 - Morningstar's Lorraine Tan on Tencent and Alibaba 00:26:59 - Morningstar's Lorraine Tan on China AI stocks 00:34:05 - Exclusive: OKX's Gracie Lin on crypto regulation 00:43:04 - Breaking: Tencent drops in heavy volume in Hong Kong 00:45:49 - Breaking: Xi speaks at APEC Economic Leaders' Meeting 00:52:53 ",
+   "url": "https://www.youtube.com/watch?v=etl_8fvPxls",
+   "published": "2026-11-19T06:49:33+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "블룸버그 방송에서 트럼프와 시진핑의 APEC 정상회담 개최 소식을 다뤘다.",
+    "텐센트의 3분기 실적 부진이 중국 기술주 거래에 부담을 주었다고 언급했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "6af1c6f20ad13deb",
    "kind": "news",
@@ -72,6 +90,23 @@
     "블룸버그에 따르면 앤스로픽의 기업공개(IPO)가 약 7배 초과 청약되었다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "5a0609dbc82b262a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Elon Musk Doubles Down On Autonomy: Tesla Plans Wheel-Less, Pedal-Less Model Y To Sit Alongside Two-Seat Cybercab",
+   "excerpt": "Tesla Inc. (NASDAQ:TSLA) CEO Elon Musk doubled down on his vision for autonomous vehicles on Wednesday, saying the automaker will release the Model Y without a steering wheel and pedals in the future. Model Y Without Traditional Vehicle Controls? During his appearance at the Dealbook Summit, Musk was asked about whether Tesla’s business model will focus solely on autonomy going forward. “It’s going to make sense for us to make cars that can seat different amounts of people,” he said, adding that",
+   "url": "https://finance.yahoo.com/technology/articles/elon-musk-doubles-down-autonomy-053905404.html?.tsrc=rss",
+   "published": "2026-11-19T05:39:05+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크는 테슬라가 핸들과 페달이 없는 모델 Y를 출시할 계획이라고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e2d6a439bf924d74",
