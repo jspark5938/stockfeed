@@ -1,6 +1,129 @@
 {
- "updated": "2026-11-19T04:00:36.849068+00:00",
+ "updated": "2026-11-19T04:30:30.397791+00:00",
  "posts": [
+  {
+   "id": "62f3b6a0eb10a0b0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Gold Just Sank to a One-Year Low. Costco Members Who Bought Bars in September Are Down About $700 Each, and Launch Buyers Are Still Up 88%",
+   "excerpt": "Gold fell to its lowest in more than a year on Wednesday. Costco has sold one-ounce gold bars to members since 2023, non-refundable and with no buyback, and a member who bought at every wave is up $6,002.16 on eight bars overall and down $1,469.46 on the two bought in September. Here is each lot at today's price, the premium, the rebate, the 28% collectibles tax, and what a member should know when gold drops.",
+   "url": "https://247wallst.com/investing/2026/11/18/gold-just-sank-to-a-one-year-low-costco-members-who-bought-bars-in-september-are-down-about-700-each-and-launch-buyers-are-still-up-88/?.tsrc=rss",
+   "published": "2026-11-19T04:17:09+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "금 가격이 1년 만에 최저치로 하락했다고 다뤘다.",
+    "코스트코에서 골드바를 산 회원들의 손익 현황을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a309b3dfa874954b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nasdaq, Dow, S&P 500 Futures Climb Ahead Of Anthropic’s Record Debut: SLS, GLD, TTWO, UNH In Focus",
+   "excerpt": "Anthropic priced its initial public offering at $83 a share, above the expected range.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-dow-s-and-p-500-futures-climb-ahead-of-anthropic-s-record-debut-sls-gld-ttwo-unh-in-focus/cNbLDbCR9iW?.tsrc=rss",
+   "published": "2026-11-19T04:15:26+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": [
+    "앤스로픽이 예상 범위를 웃도는 주당 83달러로 공모가를 책정했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "07412fe3239c228d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Anthropic, Nvidia And The Next AI Trade: Michael Burry Explains What Could Break The Bull Case",
+   "excerpt": "Burry held $140 Nvidia puts and flagged slower collections. The wait for payment rose from 60 to 64 days, with $81 billion owed.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-nvidia-next-ai-trade-michael-burry-what-could-break-bull-case/cNbLwugR9ig?.tsrc=rss",
+   "published": "2026-11-19T04:07:45+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "마이클 버리가 앤스로픽과 엔비디아 등 AI 투자 관련 논점을 다뤘다고 언급했다.",
+    "엔비디아 풋옵션 보유 사실과 대금 회수 지연 문제를 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "23f7508f28225afe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "4 Things the Headlines Missed in Nvidia's First Post-Jensen Earnings Report",
+   "excerpt": "Nvidia easily beat third-quarter expectations, yet the real story is hiding in the fine print. Interim CEO Colette Kress just dialed back the sales swagger and put customer financing on a tighter leash.",
+   "url": "https://www.fool.com/investing/2026/11/18/4-things-the-headlines-missed-in-nvidia-s-first-post-jensen-earnings-report/?.tsrc=rss",
+   "published": "2026-11-19T04:07:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 3분기 실적 예상을 웃돌았다고 다뤘다.",
+    "임시 CEO가 고객 금융을 더 엄격하게 관리하기 시작했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "326e6e7c5d962429",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures Rise: Anthropic IPO To Debut After Pricing High; Palo Alto And Everpure Rally On Earnings",
+   "excerpt": "The stock market was mixed as UnitedHealth dived and Nvidia fell. The Anthropic IPO priced high. Palo Alto, Everpure leaped.",
+   "url": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures-rise%3A.html?.tsrc=rss",
+   "published": "2026-11-19T04:02:55+00:00",
+   "tickers": [
+    "NVDA",
+    "UNH"
+   ],
+   "summary_ko": [
+    "앤스로픽의 IPO 공모가 고가 책정과 주식 시장 동향을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "850fc8da97099a36",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Okta (OKTA) Is Turning Heads. Here’s What’s Happening",
+   "excerpt": "Okta Inc. (NASDAQ:OKTA) is one of the 10 Stocks Investors Are Rushing to Buy. Okta bounced back 12.07 percent on Wednesday to finish at $195.61 apiece, as investors gobbled up shares in cybersecurity stocks, helped by Palo Alto Networks’ strong earnings performance. The stock rallied alongside its counterparts after Palo Alto Networks said that it […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-turning-heads-happening-035406782.html?.tsrc=rss",
+   "published": "2026-11-19T03:54:06+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스의 실적 호조에 힘입어 옥타 등 사이버보안 주식이 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "52343cb61a39a7c1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Peter Thiel’s $85 Million Nvidia Exit Was a Bet the Stock Had Run Far Enough. After Nvidia’s Beat, It Closed Below Every Price He Could Have Sold At",
+   "excerpt": "Peter Thiel's fund sold all 537,742 of its Nvidia shares in the third quarter of 2025, a stake worth $85 million that June. The stock ran 28% past his selling range to a $239.24 record, then fell 35% and closed Tuesday at $155.46, back inside the range. After Nvidia's beat and raised forecast, his only Nvidia exposure is about $8 million through a chip ETF.",
+   "url": "https://247wallst.com/investing/2026/11/18/peter-thiels-85-million-nvidia-exit-was-a-bet-the-stock-had-run-far-enough-after-nvidias-beat-it-closed-below-every-price-he-could-have-sold-at/?.tsrc=rss",
+   "published": "2026-11-19T03:51:09+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "피터 틸의 펀드가 3분기에 엔비디아 지분 전량을 매각했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "9212f3f0ec6345de",
    "kind": "news",
@@ -120,6 +243,23 @@
     "초기 우려에도 불구하고 클라우드플레어가 올해 들어 높은 수익률을 기록했다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "37ab999295c362f1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Lisa Su Sells 70,000 Shares for $35.5 Million as AMD Stock Pops 147% in 2026: Her Direct Holdings Fall 2.32%",
+   "excerpt": "Advanced Micro Devices Inc. (NASDAQ:AMD) CEO Lisa Su sold 70,000 shares of the chipmaker’s stock for about $35.49 million, according to a filing disclosed on Wednesday. Sale Came at Prices Above $500 Su sold the stock Monday at weighted-average prices of $502.06 to $525.94, according to a Form 4 filing with the U.S. Securities and Exchange Commission. The sale brought in about $35.49 million and was made under a Rule 10b5-1 plan adopted in June. Her direct holdings fell by 2.32%, from 3.02 milli",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/lisa-su-sells-70-000-031823131.html?.tsrc=rss",
+   "published": "2026-11-19T03:18:23+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "AMD CEO 리사 수가 3,550만 달러 규모의 주식을 매각했다고 공시 내용을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e40c519ce31265c2",
@@ -1932,6 +2072,23 @@
    ],
    "summary_ko": [
     "암의 CEO 르네 하스가 엔비디아 이사회가 고용한 채용 대행사로부터 접촉을 받았다고 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0cf2ae5c4c57120c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CRM Stock Layoffs: What to Know as Salesforce Reportedly Begins More Job Cuts",
+   "excerpt": "Salesforce has reportedly started a fresh round of layoffs. Here’s what the news really means for CRM shares.",
+   "url": "https://www.barchart.com/story/news/8905443/crm-stock-layoffs-what-to-know-as-salesforce-reportedly-begins-more-job-cuts?.tsrc=rss",
+   "published": "2026-11-18T22:01:29+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "세일즈포스가 추가적인 감원에 돌입했다고 다뤘다."
    ],
    "tone": "neu"
   },
