@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-19T07:00:42.971413+00:00",
+ "updated": "2026-11-19T07:30:30.833594+00:00",
  "posts": [
+  {
+   "id": "13d307f9a5ccb239",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Does AI Workflow Launch Change The Bull Case For Box (BOX)?",
+   "excerpt": "Box announced new AI driven products including Box Architect for autonomous agent workflows, Box Context Retrieval using NVIDIA Nemotron models, and Box for Industries solutions targeting banking, public sector, and media and entertainment, all built on existing Box security and governance controls. The expanded NVIDIA collaboration and industry specific Box bundles indicate a push toward higher value, AI centric workflows on existing content. This development could affect demand for Box’s...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/does-ai-workflow-launch-change-071235295.html?.tsrc=rss",
+   "published": "2026-11-19T07:12:35+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "박스는 엔비디아 모델을 활용한 AI 워크플로우 제품 등을 발표했다고 다뤘다.",
+    "이번 협력 확대로 고부가가치 AI 중심 워크플로우를 추진할 것이라고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7022fc8e3ccc7383",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Taiwan stocks plunge 4.6% as AI rout deepens; chip and PCB shares hit limit-down",
+   "excerpt": "Investing.com -- Taiwan stocks tumbled on Thursday, with the benchmark TAIEX falling to a two-week low as a broad selloff in semiconductor and artificial-intelligence supply-chain shares intensified, despite Nvidia delivering stronger-than-expected quarterly results.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-stocks-plunge-4-6-070831391.html?.tsrc=rss",
+   "published": "2026-11-19T07:08:31+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 호실적 발표에도 대만 증시는 AI 관련주 매도세로 급락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "a626ab6e93eb03c9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "RKLB Stock Rises Overnight: Jim Cramer Likes SpaceX But Calls Rocket Lab ‘Too Cheap’ — Electron Tops Falcon 9 In 100 Launches",
+   "excerpt": "Electron reached 100 launches in about nine and a half years, around a year faster than SpaceX’s Falcon 9.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/rklb-stock-jim-cramer-likes-spacex-rocketlab-cheap-electron-falcon-9-100-launches/cNbiGliR9iN?.tsrc=rss",
+   "published": "2026-11-19T07:04:47+00:00",
+   "tickers": [
+    "RKLB"
+   ],
+   "summary_ko": [
+    "짐 크레이머는 로켓랩 주식이 너무 저렴하다고 평가했다고 전했다.",
+    "일렉트론은 팰컨9보다 빠른 속도로 100회 발사를 달성했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "cb61b34a44cbd594",
    "kind": "youtube",
@@ -20,6 +73,24 @@
    "tone": "neu"
   },
   {
+   "id": "131b2b383369ddca",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Summit Insights Wrong to Give Up on NVIDIA? Wall Street Still Sees $251",
+   "excerpt": "Key TakeawaysSummit Insights Group cut NVIDIA to Hold on Nov. 18, a day after third-quarter revenue rose 103% and NVIDIA raised its outlook for next year.",
+   "url": "https://www.tikr.com/blog/is-summit-insights-wrong-to-give-up-on-nvidia-wall-street-still-sees-251?ref=yahoofinance&tlnk=yf-261119-26g4w6wq&.tsrc=rss",
+   "published": "2026-11-19T06:33:56+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "써밋 인사이츠가 엔비디아의 투자의견을 하향 조정한 점을 다뤘다.",
+    "월스트리트는 여전히 긍정적인 전망을 유지하고 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "6af1c6f20ad13deb",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -35,6 +106,40 @@
     "팔로알토 네트웍스 주가가 시간 외 거래에서 8% 급등했다고 다뤘다.",
     "CEO는 오픈웨이트 AI 모델 보안 분야에서 거대한 기회가 있다고 언급했다.",
     "2030 회계연도까지 100메가와트 이상의 컴퓨팅 용량을 구축할 계획이라고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "1b9a24a00fed0768",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Kevin O’Leary Sees No Way Back for Jensen Huang at Nvidia: ‘Forget About the Affairs...There’s Another Problem’",
+   "excerpt": "Investor Kevin O’Leary sees little chance of Jensen Huang returning to Nvidia Corp (NASDAQ:NVDA), arguing that ongoing China-related investigations and political opposition could keep the former CEO from reclaiming the helm. China Investigation Could Complicate Huang’s Comeback On Wednesday, O’Leary warned that investigations into developments involving China could become a major overhang for Nvidia, pointing to Dec. 10 as the date when he expects scrutiny of the past two weeks to intensify. \"Th",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/kevin-o-leary-sees-no-062559128.html?.tsrc=rss",
+   "published": "2026-11-19T06:25:59+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "케빈 오리어리는 중국 관련 조사와 정치적 반대로 인해 젠슨 황의 복귀가 어려울 수 있다고 주장했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "f07e6bc82c996836",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘Unprecedented Results’: AMD Packs a Year of Chip Progress Into 5 Months Using OpenAI, Greg Brockman Says",
+   "excerpt": "OpenAI President Greg Brockman said the company’s artificial intelligence models helped Advanced Micro Devices Inc. (NASDAQ:AMD) achieve \"roughly an additional year of progress\" in chip development in less than five months, with improvements already incorporated into a manufacturing-ready design. Brockman Hails Unprecedented AMD Chip Breakthrough Brockman wrote in an X post on Wednesday that OpenAI’s models achieved \"roughly an additional year of progress on @AMD’s chip achieved in less than 5 m",
+   "url": "https://finance.yahoo.com/technology/ai/articles/unprecedented-results-amd-packs-chip-061204255.html?.tsrc=rss",
+   "published": "2026-11-19T06:12:04+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "오픈AI의 모델 덕분에 AMD가 칩 개발에서 큰 진전을 이뤘다고 전했다."
    ],
    "tone": "pos"
   },
@@ -60642,23 +60747,6 @@
    ],
    "summary_ko": [
     "리게티의 3분기 매출이 예상치를 밑돌았으며, CEO는 양자 컴퓨팅이 고전 컴퓨팅보다 우수함을 입증하기 어렵다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "9758c44fb4dbbe55",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "CrowdStrike chose Akamai for security, yet the stock plunged 46%",
-   "excerpt": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-chose-akamai-security-yet-071210787.html?.tsrc=rss",
-   "published": "2026-11-12T07:12:10+00:00",
-   "tickers": [
-    "CRWD"
-   ],
-   "summary_ko": [
-    "크라우드스트라이크가 보안을 위해 아카마이를 선택했음에도 주가가 큰 폭으로 하락한 사안을 다뤘다."
    ],
    "tone": "neg"
   }

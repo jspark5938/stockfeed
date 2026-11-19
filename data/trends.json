@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:00:42.971413+00:00",
+ "updated": "2026-11-19T07:30:30.833594+00:00",
  "trends": [
   {
    "ticker": "PANW",
@@ -54,8 +54,15 @@
    "ticker": "TSM",
    "name_ko": "TSMC",
    "mentions_24h": 17,
-   "mentions_prev_24h": 10,
-   "ratio": 1.7
+   "mentions_prev_24h": 9,
+   "ratio": 1.89
+  },
+  {
+   "ticker": "COIN",
+   "name_ko": "코인베이스",
+   "mentions_24h": 9,
+   "mentions_prev_24h": 5,
+   "ratio": 1.8
   },
   {
    "ticker": "BABA",
@@ -74,16 +81,9 @@
   {
    "ticker": "UNH",
    "name_ko": "유나이티드헬스",
-   "mentions_24h": 16,
-   "mentions_prev_24h": 10,
-   "ratio": 1.6
-  },
-  {
-   "ticker": "COIN",
-   "name_ko": "코인베이스",
-   "mentions_24h": 9,
-   "mentions_prev_24h": 6,
-   "ratio": 1.5
+   "mentions_24h": 15,
+   "mentions_prev_24h": 11,
+   "ratio": 1.36
   },
   {
    "ticker": "QCOM",
@@ -205,18 +205,18 @@
    "ratio": 0.81
   },
   {
-   "ticker": "NVDA",
-   "name_ko": "엔비디아",
-   "mentions_24h": 354,
-   "mentions_prev_24h": 515,
-   "ratio": 0.69
-  },
-  {
    "ticker": "AVGO",
    "name_ko": "브로드컴",
    "mentions_24h": 18,
    "mentions_prev_24h": 26,
    "ratio": 0.69
+  },
+  {
+   "ticker": "NVDA",
+   "name_ko": "엔비디아",
+   "mentions_24h": 354,
+   "mentions_prev_24h": 517,
+   "ratio": 0.68
   },
   {
    "ticker": "PLTR",
@@ -240,6 +240,13 @@
    "ratio": 0.65
   },
   {
+   "ticker": "AMD",
+   "name_ko": "AMD",
+   "mentions_24h": 21,
+   "mentions_prev_24h": 35,
+   "ratio": 0.6
+  },
+  {
    "ticker": "NKE",
    "name_ko": "나이키",
    "mentions_24h": 19,
@@ -252,13 +259,6 @@
    "mentions_24h": 10,
    "mentions_prev_24h": 17,
    "ratio": 0.59
-  },
-  {
-   "ticker": "AMD",
-   "name_ko": "AMD",
-   "mentions_24h": 20,
-   "mentions_prev_24h": 35,
-   "ratio": 0.57
   },
   {
    "ticker": "META",
@@ -331,18 +331,18 @@
    "ratio": 0.46
   },
   {
+   "ticker": "RKLB",
+   "name_ko": "로켓랩",
+   "mentions_24h": 5,
+   "mentions_prev_24h": 11,
+   "ratio": 0.45
+  },
+  {
    "ticker": "ADBE",
    "name_ko": "어도비",
    "mentions_24h": 3,
    "mentions_prev_24h": 8,
    "ratio": 0.38
-  },
-  {
-   "ticker": "RKLB",
-   "name_ko": "로켓랩",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 11,
-   "ratio": 0.36
   },
   {
    "ticker": "DIS",
