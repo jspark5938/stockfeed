@@ -1,6 +1,81 @@
 {
- "updated": "2026-11-19T00:00:40.016526+00:00",
+ "updated": "2026-11-19T00:30:43.358334+00:00",
  "posts": [
+  {
+   "id": "cbcc74c49fd98d27",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla Wins Manitoba Court Order On EV Rebate Ban As Canadian PM Carney Notes Brand’s Fading Cachet",
+   "excerpt": "Tesla once dominated Canada’s EV market before U.S.-Canada trade tensions and other factors led to a dip in registrations.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/tesla-wins-manitoba-court-order-on-ev-rebate-ban-as-canadian-pm-carney-notes-brand-s-fading-cachet/cNbLpgeR9i4?.tsrc=rss",
+   "published": "2026-11-19T00:05:59+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라는 캐나다 전기차 보조금 중단과 관련해 법원 명령에서 승소했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5a544f7f710d7097",
+   "kind": "youtube",
+   "source": "Aswath Damodaran",
+   "author": "Aswath Damodaran",
+   "title": "From Aggregate Equity Value to Per Share Value: An Anthropic IPO update!",
+   "excerpt": "I valued Anthropic on November 2, 2026, ahead of its IPO, using its preliminary prospectus. In the two weeks since that valuation, much has changed. The US midterm elections have put in place legislators who are more likely to put restrictions on data centers (compute power) and AI in general (a greater drag on profitability). In just the last week, Nvidia, a significant cog in the AI wheel, has developed a CEO problem, which is likely to play out across the sector. Finally, Anthropic has released an updated prospectus with third quarter numbers, and more critically, share counts on shares, RSUs and options. I revalue Anthropic, but I spend the bulk of this session talking about share count, a number that we take for granted in investing and trading, and examine the different measures of s",
+   "url": "https://www.youtube.com/watch?v=JpfTrtSE1j8",
+   "published": "2026-11-19T00:02:48+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미국 중간선거로 데이터센터 규제 가능성이 제기되었다.",
+    "엔비디아의 CEO 관련 문제가 섹터 전반에 영향을 미칠 것이라고 언급했다.",
+    "앤스로픽의 기업공개(IPO)를 앞두고 주식 수 변화 등을 재평가했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2e4162e1f2bdc01a",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A first $1 trillion holiday, and a panel that cannot agree the consumer is fine | Market Hang",
+   "excerpt": "The National Retail Federation expects Americans to spend over $1 trillion in November and December, up 4.2% and a first for the season. Christine Short of TMX Wall Street Horizon brings it to the panel and nobody quite believes it. Christian Magoon of Amplify ETFs says retailers and banks keep telling him everything is fine, and he keeps turning out to be wrong. Jim Thorne of Wellington-Altus argues the opposite: productivity now lets the economy run hot. Then the question nobody answers: if the consumer is healthy, why are Walmart and Costco winning? Watch the full episode: Market Hang is live weekdays 12:30-1:30pm ET on Yahoo Finance. Featuring Mark Malek, Chief Investment Officer, Siebert Financial Christine Short, Head of Corporate Event Research, TMX Wall Street Horizon Vance Howard,",
+   "url": "https://www.youtube.com/watch?v=u4e24x3dwgQ",
+   "published": "2026-11-19T00:00:34+00:00",
+   "tickers": [
+    "COST",
+    "WMT"
+   ],
+   "summary_ko": [
+    "전미소매연맹은 연말 쇼핑 시즌 소비액이 처음으로 1조 달러를 넘을 것으로 전망했다.",
+    "패널들은 소비자의 건전성과 월마트 등의 실적을 두고 서로 다른 의견을 보였다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "74a501d7a462bcd4",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Stock Market Today: NVDA Retreats on Earnings, TGT & TJX Rally, Healthcare Sells #shorts",
+   "excerpt": "Nvidia (NVDA) returned all the gains and then some following its post-earning rally. Retail got a boost from earnings in Target (TGT) and TJX Companies (TJX). Healthcare stocks like UnitedHealth (UNH) and Humana (HUM) cratered as a new rule targeting oversight of Federal health insurers surfaced. Marley Kayden carries investors through her top stories of the trading day. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #earnings #unitedhealth #economy #finance #investing #marketnews #stock #stockmarket #t",
+   "url": "https://www.youtube.com/watch?v=e4AuQ3ekbZM",
+   "published": "2026-11-19T00:00:29+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN",
+    "UNH"
+   ],
+   "summary_ko": [
+    "엔비디아는 실적 발표 이후의 상승분을 반납했다고 전했다.",
+    "타겟과 TJX는 실적 호조로 상승세를 보였다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "fabad559362d4331",
    "kind": "youtube",
@@ -36,6 +111,23 @@
     "또한 AI 거품의 종말 및 반도체 밸류에이션 등에 대해 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "055181bfde09a41d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Alphabet Stock a Buy Right Now?",
+   "excerpt": "The stock's upside far outweighs its potential downside.",
+   "url": "https://www.fool.com/investing/2026/11/18/is-alphabet-stock-a-buy-right-now/?.tsrc=rss",
+   "published": "2026-11-18T23:57:02+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "알파벳 주식의 상승 여력이 하락 위험보다 훨씬 크다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "67174a592e358ee6",
@@ -109,6 +201,23 @@
    "tone": "pos"
   },
   {
+   "id": "edee853a4a796989",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Explains Natera Stock's Nearly 10% Drop?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/ntra/articles/625786/what-explains-natera-stocks-nearly-10-drop/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T23:48:38+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "나테라 주가의 10폭 하락 배경과 함께 엔비디아 주가 하락 가능성을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "ed4dbfac9771a56e",
    "kind": "youtube",
    "source": "CNBC Television",
@@ -141,6 +250,23 @@
     "모건 스탠리의 AI 인프라 지출 전망 보고서에서 오라클이 주요 기업 중 하나로 선정된 이유를 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "f7292ff3693be8c8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Blackstone Digital Infrastructure: 3 Key Takeaways for Long-Term Investors",
+   "excerpt": "Amazon keeps a 25% stake in the joint venture, a structure that ties the tenant's fortunes to the portfolio's performance.",
+   "url": "https://www.fool.com/earnings/takeaways/2026/11/18/blackstone-digital-infrastructure-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+   "published": "2026-11-18T23:46:55+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존이 합작 법인의 지분 25%를 유지하고 있다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f331b6b308794052",
@@ -210,6 +336,23 @@
     "일론 머스크는 테슬라와 스페이스X가 합병할 경우의 보상 문제에 대해 언급했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "4954ad552abdb9f2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Moved Coupang Stock Over 5% Lower?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/cpng/articles/625841/what-moved-coupang-stock-over-5-lower/2026-11-18?.tsrc=rss",
+   "published": "2026-11-18T23:42:56+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "쿠팡 주가가 5% 이상 하락한 원인과 함께 엔비디아 주가 전망을 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "0ff0273f84edda21",
@@ -493,6 +636,24 @@
     "앤스로픽의 IPO와 AI 안전 규제 등을 논의했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "feb4e6d36896d491",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "excerpt": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+   "url": "https://finance.yahoo.com/technology/articles/microsoft-ceo-satya-nadella-remains-231728146.html?.tsrc=rss",
+   "published": "2026-11-18T23:17:28+00:00",
+   "tickers": [
+    "NVDA",
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트 CEO는 임시 CEO 체제에 들어간 엔비디아에 대한 신뢰를 표명했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "78c5a6a1e00afd5c",
@@ -59410,41 +59571,6 @@
     "뉴욕타임스와 월스트리트저널 보도를 인용해 젠슨 황 관련 스캔들과 이사회의 해임 움직임을 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "17babff2d16d0fcd",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Disney Raised Its Dividend by 50% Last Year. Don’t Expect a Similar Bonanza This Time.",
-   "excerpt": "Disney raised its dividend by 50% last year, but don't expect a similar increase this year.",
-   "url": "https://www.barchart.com/story/news/8790639/disney-raised-its-dividend-by-50-last-year-dont-expect-a-similar-bonanza-this-time?.tsrc=rss",
-   "published": "2026-11-12T00:30:03+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "summary_ko": [
-    "디즈니는 작년에 배당금을 50% 인상했다고 언급했다.",
-    "올해도 작년과 비슷한 수준의 배당금 인상을 기대하기는 어렵다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0d9a24e9625bce00",
-   "kind": "youtube",
-   "source": "Stock Moe",
-   "author": "Stock Moe",
-   "title": "CRITICAL UPDATE 🚨 DONE ‼️ NVDA",
-   "excerpt": "1️⃣ *🚨 Trade $25 Get $50!* ➡ 2️⃣ *🚨 Save 40% code MOE is back!* ➡ 3️⃣ *🎁 FREE month of Earner Plus + 12 free fractional shares worth up to $3,600 from Webull* ➡ 4️⃣ *🚨Stock Moe's Free Sunday Edition Newsletter* 4️⃣ *🚨 Stock Moe's 4 Step Framework Learning Webinar* ➡ Webull Stock Moe Promotion Terms and Conditions: WHAT IS YOUR XRP TARGET? Put it in the comments. I read them. For those who stay on after the trial, code MOE saves you 40 percent. 📬 FREE SUNDAY NEWSLETTER, COSTS NOTHING 📈 WEBULL, WHERE I PLACE MY TRADES The only real bank target on XRP Standard Chartered, Geoff Kendrick, Global Head of Digital Assets Research, note dated February 16, 2026. End of 2026: $2.80, which is 88 percent above today. End of 2027: $7.00, which is 370 percent above today. 2028: $12.60. 2030: $28.00. Be f",
-   "url": "https://www.youtube.com/watch?v=D45vo-Ky7kg",
-   "published": "2026-11-12T00:14:29+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "스탠다드차타드의 디지털 자산 리서치 노트를 인용해 XRP의 향후 가격 목표를 언급했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
