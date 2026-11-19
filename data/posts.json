@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-19T08:30:33.478428+00:00",
+ "updated": "2026-11-19T09:00:40.866056+00:00",
  "posts": [
+  {
+   "id": "7369ab0d601fc400",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reach China Within 2-3 Years",
+   "excerpt": "Blackwell is Nvidia’s previous-generation AI GPU platform. Its successor, Vera Rubin, is now in production and beginning to ship.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nvda-intc-stocks-ease-post-5-day-rout-after-meeting-xi-jinping-trump-says-nvidia-blackwell-chips-could-reach-china-within-2-3-years/cNbiTxFR9io?.tsrc=rss",
+   "published": "2026-11-19T08:33:56+00:00",
+   "tickers": [
+    "NVDA",
+    "INTC"
+   ],
+   "summary_ko": [
+    "엔비디아와 인텔 주식이 5일간의 하락세 이후 진정되는 모습을 보였다.",
+    "트럼프는 시진핑 주석과의 회동 후 엔비디아의 블랙웰 칩이 2~3년 내에 중국에 도달할 수 있다고 언급했다.",
+    "블랙웰은 엔비디아의 이전 세대 AI GPU 플랫폼이며 후속작인 베라 루빈은 생산 및 출하가 시작되었다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "61f63a7b9bbf81a9",
    "kind": "news",
@@ -92,6 +112,24 @@
    "tone": "neu"
   },
   {
+   "id": "0f773a4f02511e49",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "John Moolenaar Calls Out Microsoft for ‘Playing Both Sides’ of US-China AI Race",
+   "excerpt": "On Wednesday, House Select Committee on China chairman John Moolenaar (R-Mich.) demanded answers from Microsoft Corp. (NASDAQ:MSFT) over a reported $500 million deal. This deal could give TikTok owner ByteDance access to OpenAI’s artificial intelligence models through Azure cloud platform. Microsoft-ByteDance AI Deal Draws Congressional Scrutiny Microsoft was nearing an agreement to provide ByteDance access to OpenAI models through Azure, potentially allowing the Chinese company to use technolog",
+   "url": "https://finance.yahoo.com/technology/ai/articles/john-moolenaar-calls-microsoft-playing-073740994.html?.tsrc=rss",
+   "published": "2026-11-19T07:37:40+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "미국 하원 미중경쟁 특별위원회 위원장이 마이크로소프트에 5억 달러 규모의 거래에 대해 해명을 요구했다.",
+    "해당 거래는 틱톡 모회사 바이트댄스가 애저 클라우드를 통해 오픈AI의 AI 모델에 접근할 수 있도록 하는 내용을 담고 있다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "65948c7b2109d108",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -108,6 +146,24 @@
     "미국 반도체 규정, 인공지능 현금 소모, 자사주 매입 축소가 하락 이유라고 설명했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "314b9e3a64063ef4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "David Ellison Calls Elon Musk’s $1 Billion Investment ‘an Honor and a Privilege,’ Open to Future Starlink Collaboration",
+   "excerpt": "Skydance Corp. (NYSE:SKYD) CEO David Ellison confirmed that Elon Musk invested in the media conglomerate formed by Paramount’s takeover of Warner Bros. Discovery, calling the Tesla Inc. (NASDAQ:TSLA) and Space Exploration Technologies Corp. (NASDAQ:SPCX) chief \"the greatest entrepreneur of our time.\" Ellison Praises Musk As Rare Entrepreneur Speaking to Andrew Ross Sorkin at The New York Times DealBook Summit in New York on Wednesday, Ellison said, \"I have so much admiration and respect for Elon",
+   "url": "https://finance.yahoo.com/media-advertising/articles/david-ellison-calls-elon-musk-073251041.html?.tsrc=rss",
+   "published": "2026-11-19T07:32:51+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "스카이댄스 CEO 데이비드 엘리슨은 일론 머스크의 10억 달러 투자를 영광스럽고 특권이라고 밝혔다.",
+    "엘리슨은 머스크를 시대의 가장 위대한 기업가라고 칭송하며 향후 스타링크와의 협업 가능성도 열어두었다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "13d307f9a5ccb239",

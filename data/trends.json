@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:30:33.478428+00:00",
+ "updated": "2026-11-19T09:00:40.866056+00:00",
  "trends": [
   {
    "ticker": "PANW",
@@ -65,13 +65,6 @@
    "ratio": 1.8
   },
   {
-   "ticker": "BABA",
-   "name_ko": "알리바바",
-   "mentions_24h": 16,
-   "mentions_prev_24h": 9,
-   "ratio": 1.78
-  },
-  {
    "ticker": "QQQ",
    "name_ko": "나스닥100 ETF",
    "mentions_24h": 5,
@@ -84,6 +77,13 @@
    "mentions_24h": 5,
    "mentions_prev_24h": 3,
    "ratio": 1.67
+  },
+  {
+   "ticker": "BABA",
+   "name_ko": "알리바바",
+   "mentions_24h": 15,
+   "mentions_prev_24h": 10,
+   "ratio": 1.5
   },
   {
    "ticker": "QCOM",
@@ -109,9 +109,9 @@
   {
    "ticker": "MSFT",
    "name_ko": "마이크로소프트",
-   "mentions_24h": 77,
+   "mentions_24h": 78,
    "mentions_prev_24h": 62,
-   "ratio": 1.24
+   "ratio": 1.26
   },
   {
    "ticker": "COST",
@@ -137,9 +137,9 @@
   {
    "ticker": "TSLA",
    "name_ko": "테슬라",
-   "mentions_24h": 36,
+   "mentions_24h": 37,
    "mentions_prev_24h": 36,
-   "ratio": 1.0
+   "ratio": 1.03
   },
   {
    "ticker": "IONQ",
@@ -186,9 +186,9 @@
   {
    "ticker": "AAPL",
    "name_ko": "애플",
-   "mentions_24h": 30,
-   "mentions_prev_24h": 32,
-   "ratio": 0.94
+   "mentions_24h": 29,
+   "mentions_prev_24h": 33,
+   "ratio": 0.88
   },
   {
    "ticker": "AMZN",
@@ -200,9 +200,9 @@
   {
    "ticker": "GOOGL",
    "name_ko": "알파벳(구글)",
-   "mentions_24h": 44,
-   "mentions_prev_24h": 54,
-   "ratio": 0.81
+   "mentions_24h": 42,
+   "mentions_prev_24h": 56,
+   "ratio": 0.75
   },
   {
    "ticker": "PLTR",
@@ -221,15 +221,8 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 351,
-   "mentions_prev_24h": 519,
-   "ratio": 0.68
-  },
-  {
-   "ticker": "INTC",
-   "name_ko": "인텔",
-   "mentions_24h": 20,
-   "mentions_prev_24h": 30,
+   "mentions_24h": 349,
+   "mentions_prev_24h": 518,
    "ratio": 0.67
   },
   {
@@ -238,6 +231,13 @@
    "mentions_24h": 2,
    "mentions_prev_24h": 3,
    "ratio": 0.67
+  },
+  {
+   "ticker": "INTC",
+   "name_ko": "인텔",
+   "mentions_24h": 20,
+   "mentions_prev_24h": 31,
+   "ratio": 0.65
   },
   {
    "ticker": "AMD",
