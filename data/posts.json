@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-19T22:30:32.888556+00:00",
+ "updated": "2026-11-19T23:00:39.077386+00:00",
  "posts": [
+  {
+   "id": "d8beb4248201c699",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "This Beaten-Down Semiconductor Stock Could Soar in 2027",
+   "excerpt": "Broadcom’s custom AI chip business is booming, but the market is pricing the stock as if it isn’t.",
+   "url": "https://www.fool.com/investing/2026/11/19/this-beaten-down-semiconductor-stock-could-soar-in-2027/?.tsrc=rss",
+   "published": "2026-11-19T22:45:02+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴의 맞춤형 AI 칩 사업이 호황을 누리고 있다고 다뤘다.",
+    "시장이 주가를 실제 가치보다 낮게 평가하고 있다고 주장했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "c23246af32da1c7d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jefferies Has Wall Street’s Highest Target on Eli Lilly (LLY). Why?",
+   "excerpt": "We just published a list of the Morgan Stanley’s Vintage Values 2027: 10 Stocks Analysts See Climbing Further and Eli Lilly (NYSE:LLY) ranked 10th on this list. Bloomberg reported on November 13, 2026, that one bank’s strategists expect the S&P 500 to reach 8,700 within 12 months. They also see earnings growth slowing to 11% […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-wall-street-highest-target-223346007.html?.tsrc=rss",
+   "published": "2026-11-19T22:33:46+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": [
+    "제프리스가 일라이 릴리에 대해 월스트리트 최고 수준의 목표가를 제시했다고 다뤘다.",
+    "일라이 릴리는 분석가들이 꼽은 상승 기대 종목 10위에 올랐다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b37ccd5f91501778",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NIKE, Inc. Declares $0.41 Quarterly Dividend",
+   "excerpt": "BEAVERTON, Ore., November 19, 2026--NIKE, Inc. (NYSE: NKE) announced today that its Board of Directors has declared a quarterly cash dividend of $0.41 per share on the Company’s outstanding Class A and Class B Common Stock payable on January 4, 2027, to shareholders of record at the close of business on December 1, 2026.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nike-inc-declares-0-41-223000438.html?.tsrc=rss",
+   "published": "2026-11-19T22:30:00+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키 이사회에서 보통주당 0.41달러의 분기 현금 배당을 결의했다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "da54aff883fb24d5",
    "kind": "news",
@@ -53,6 +106,24 @@
     "엔비디아와 인텔의 최근 실적 발표와 주가 움직임을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "4c9bf1bb689055a9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today, Nov. 19: Nvidia Slides as Investors Weigh CEO Transition Fallout Despite Strong Q3 Results",
+   "excerpt": "Today, Nov. 19, 2026, Nvidia shares fell despite a strong quarter and an early boost from Anthropic's IPO, as traders continue to weigh the leadership change and what comes next for AI spending.",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-nvidia-slides-as-investors-weigh-ceo-transition-fallout-despite-strong-q3-results/?.tsrc=rss",
+   "published": "2026-11-19T22:20:25+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 탄탄한 3분기 실적에도 불구하고 하락세를 보였다고 다뤘다.",
+    "투자자들이 CEO 교체 여파와 AI 지출의 향방을 저울질하고 있다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "af1ad0ab21d066b9",
@@ -123,6 +194,24 @@
     "개인 투자자들이 앤스로픽 IPO에 대거 참여할 것으로 예상된다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "7803defae7588c3b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Investors Are Reacting To Reddit (RDDT) Search Traffic Warning",
+   "excerpt": "Reddit's latest quarter showed solid revenue and advertising growth, alongside management warnings that search referral traffic is declining faster, which could affect future user activity and the monetization mix. The company is pushing AI powered ads, shopping tools, and tighter control over third party AI access as it tries to offset weaker search driven traffic with more direct engagement and on platform commerce. We will examine how Reddit's investment narrative holds up as management...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-reddit-rddt-search-221419948.html?.tsrc=rss",
+   "published": "2026-11-19T22:14:19+00:00",
+   "tickers": [
+    "RDDT"
+   ],
+   "summary_ko": [
+    "레딧의 검색 유입 트래픽이 빠르게 감소하고 있다는 경영진의 경고를 다뤘다.",
+    "회사는 AI 광고와 쇼핑 툴 등을 통해 이에 대응하고 있다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "58530e3118970b81",
@@ -382,6 +471,57 @@
    ],
    "summary_ko": [
     "블루 아울 캐피털은 아마존이 임차할 데이터센터 자금을 조달하기 위해 부채 시장을 활용하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a2d00cb57829c1d7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron (MU) Dips More Than Broader Market: What You Should Know",
+   "excerpt": "In the most recent trading session, Micron (MU) closed at $690.44, indicating a -2.1% shift from the previous trading day.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-dips-more-broader-214503318.html?.tsrc=rss",
+   "published": "2026-11-19T21:45:03+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론 주가가 전거래일 대비 2.1% 하락 마감했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "00e209927898cff0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today",
+   "excerpt": "In the closing of the recent trading day, Broadcom Inc. (AVGO) stood at $346.52, denoting a -2.13% move from the preceding trading day.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-inc-avgo-dipped-214502356.html?.tsrc=rss",
+   "published": "2026-11-19T21:45:02+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴 주가가 직전 거래일 대비 2.13% 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "85e54f5a81fe8b89",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Adobe Systems (ADBE) Stock Moves -2.00%: What You Should Know",
+   "excerpt": "The latest trading day saw Adobe Systems (ADBE) settling at $221.68, representing a -2% change from its previous close.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-stock-moves-214502521.html?.tsrc=rss",
+   "published": "2026-11-19T21:45:02+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "summary_ko": [
+    "어도비 시스템즈 주가가 전장 대비 2% 변동을 기록했다고 전했다."
    ],
    "tone": "neu"
   },
@@ -71195,23 +71335,6 @@
     "뱅크오브아메리카가 두 종목의 높은 상승 여력을 바라보고 있다고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "a3886bc4f94cb6d0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Jensen Huang’s Exit Is Bad News for Alibaba and China",
-   "excerpt": "Revelations about Jensen Huang have provoked closer scrutiny of how Chinese companies relationship to U.S. technologies. Are there buying opportunities in Chinese stocks?",
-   "url": "https://finance.yahoo.com/m/d70a213b-683f-3361-9d79-e62def5ed0ca/why-jensen-huang%E2%80%99s-exit-is.html?.tsrc=rss",
-   "published": "2026-11-12T22:58:00+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 퇴진과 관련해 알리바바와 중국 기업들이 미국 기술과의 관계에서 더 큰 검증을 마주하고 있다고 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
