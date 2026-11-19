@@ -1,6 +1,217 @@
 {
- "updated": "2026-11-19T19:09:55.386418+00:00",
+ "updated": "2026-11-19T19:30:35.561610+00:00",
  "posts": [
+  {
+   "id": "aefdb5ee8805d2b0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump Discloses Up to $380,000 in Nvidia Buys, Calls Huang’s Exit ‘Such a Tragedy’",
+   "excerpt": "President Donald Trump’s portfolio bought between $152,004 and $380,000 in Nvidia Corp. (NASDAQ:NVDA) stock in September, according to an ethics disclosure released Thursday. It sold up to $15,000 on Sept. 24. That evening, Nvidia’s then-CEO Jensen Huang sat at the...",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63452585/trump-nvidia-stock?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "published": "2026-11-19T19:22:08+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "도널드 트럼프 대통령의 포트폴리오가 9월에 엔비디아 주식을 매수했다고 윤리 보고서가 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "97e8ceeb2dc01ef7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart, Costco see some panic-buying after tech outages",
+   "excerpt": "Outages at Apple, Chase, Microsoft, and US airlines could mean good news for Walmart.",
+   "url": "https://finance.yahoo.com/markets/article/walmart-costco-see-some-panic-buying-after-tech-outages-191922568.html?.tsrc=rss",
+   "published": "2026-11-19T19:19:22+00:00",
+   "tickers": [
+    "AAPL",
+    "MSFT",
+    "COST",
+    "WMT"
+   ],
+   "summary_ko": [
+    "일부 기술 기업의 서비스 중단 이후 월마트와 코스트코에서 사재기 현상이 나타났다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f2bfe8127b864088",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Fixing Netflix's Growing Subscriber Satisfaction Problem",
+   "excerpt": "The likelihood of users recommending Netflix or Net Promoter Score is now +51 vs. +53 a year ago, according to Worldpanel by Numerator, a consumer and shopper behavior researcher.",
+   "url": "https://www.mediapost.com/publications/article/419525/fixing-netflixs-growing-subscriber-satisfaction-p.html?.tsrc=rss",
+   "published": "2026-11-19T19:17:13+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "넷플릭스의 추천 지수가 전년 대비 소폭 하락했다고 소비자 행동 연구 기관이 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "444947195544f9e2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Missed the Anthropic IPO? These 3 Stocks Give You Immediate Exposure.",
+   "excerpt": "Nvidia, Amazon, and Alphabet are all benefiting from Anthropic's success.",
+   "url": "https://www.fool.com/investing/2026/11/19/missed-the-anthropic-ipo-these-3-stocks-give-you-immediate-exposure/?.tsrc=rss",
+   "published": "2026-11-19T19:17:02+00:00",
+   "tickers": [
+    "NVDA",
+    "GOOGL",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "엔비디아, 아마존, 알파벳이 앤스로픽의 성공으로 혜택을 받고 있다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "43fd3518f5188bd0",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Amodei siblings on 'long and productive partnership' with Nvidia",
+   "excerpt": "Dario Amodei said Anthropic has had “a long and productive partnership” with Nvidia, but he and Daniela declined to comment on whether Jensen Huang should return as the company’s CEO.",
+   "url": "https://www.youtube.com/watch?v=JD8fpk8jH3Y",
+   "published": "2026-11-19T19:15:17+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "앤스로픽의 다리오 아모데이는 엔비디아와 오랜 협력 관계를 유지해 왔다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "209931b45ef7c0ed",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What's Happening To Intel's Factory Cash?",
+   "excerpt": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://www.trefis.com/stock/intc/articles/626665/what-s-happening-to-intel-s-factory-cash/2026-11-19?.tsrc=rss",
+   "published": "2026-11-19T19:14:07+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔의 공장 현금 흐름과 관련된 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "55381068c105dc6f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bath & Body Works: 3 Key Takeaways for Long-Term Investors",
+   "excerpt": "Partnerships with Amazon and Ulta reach new shoppers without pulling sales from Bath & Body Works' own stores, a tension investors will want to watch.",
+   "url": "https://www.fool.com/earnings/takeaways/2026/11/19/bath-body-works-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+   "published": "2026-11-19T19:13:23+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존 및 울타와의 제휴가 배스앤바디웍스의 매장 판매를 잠식하지 않고 신규 고객에게 닿고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "09bfab1428973178",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Does Palantir Technologies (PLTR) FedStart Milestone Change Its Federal AI Case?",
+   "excerpt": "Palantir Technologies (NasdaqGS:PLTR) supported OLIGO Security in achieving FedRAMP Class D (High) certification through its FedStart program. The FedRAMP Class D (High) authorization represents the highest federal cloud security standard for handling sensitive U.S. government data. OLIGO Security's certified platform can now be used for more security critical workloads by U.S. federal government customers. The OLIGO Security FedRAMP Class D certification through FedStart is only one part of...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/does-palantir-technologies-pltr-fedstart-191135783.html?.tsrc=rss",
+   "published": "2026-11-19T19:11:35+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "팔란티어는 올리고 시큐리티가 팹스타트 프로그램을 통해 최고 수준의 연방 클라우드 보안 인증을 획득하도록 지원했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "924e15cd22a344ce",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Salesforce (CRM) Lands Commerce Backing For Global Trusted AI Export Push",
+   "excerpt": "Salesforce (NYSE:CRM) has been selected by the U.S. Department of Commerce to lead an American Super Intelligence export consortium. The Commerce-designated group will promote priority global export of U.S. Super Intelligence technologies focused on trusted AI capabilities. The consortium role positions Salesforce at the center of government backed efforts to shape international AI and data governance standards. Salesforce's new leadership role in the American Super Intelligence export...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-lands-commerce-backing-191004635.html?.tsrc=rss",
+   "published": "2026-11-19T19:10:04+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "세일즈포스는 미 상무부가 주도하는 미국 슈퍼 인텔리전스 수출 컨소시엄을 이끌도록 선정되었다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "3e7964822f985663",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel (INTC) Stock Could Be 33% Undervalued On Chip Breakthrough News",
+   "excerpt": "Intel has delivered a 55.7% gain over the past year, even after a sharp recent pullback, which puts fresh focus on whether that share price is properly backed by the cash it can generate over time. With headlines swinging between chip breakthroughs, big cloud partnerships and restructuring moves, the key issue for you is how those stories translate into long term cash flows that support the current valuation. The 55.7% rise over the last 12 months means a lot of future cash flow is now...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-could-33-190844780.html?.tsrc=rss",
+   "published": "2026-11-19T19:08:44+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔은 지난 1년간 주가가 상승했으며, 칩 혁신과 클라우드 제휴 등이 장기 현금 흐름으로 어떻게 이어질지가 핵심이라고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "01af0842122f4056",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Analysts Are Bullish on This Blue Chip Stock: Should You Buy?",
+   "excerpt": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years and Intel Corporation (INTC) took the 8th spot on the list. Blue-chip stocks have traditionally appealed to long-term investors because of their established market positions, financial resources, and ability to withstand economic uncertainty. However, the rapid […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-bullish-blue-chip-stock-190838054.html?.tsrc=rss",
+   "published": "2026-11-19T19:08:38+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔이 3년 동안 보유하기 좋은 우량주 목록에 포함되었다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "dae5e086f7c30b28",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump's New Filing Reveals Nvidia, SpaceX And Tesla Purchases. White House Says He Didn't Direct Trades.",
+   "excerpt": "Trump disclosed 751 securities transactions from September, including Nvidia, SpaceX, Tesla and Palantir purchases. The White House says independent managers control his investments.",
+   "url": "https://www.ibtimes.com/trump-financial-disclosure-nvidia-spacex-tesla-purchases-3809977?.tsrc=rss",
+   "published": "2026-11-19T19:03:57+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA",
+    "PLTR"
+   ],
+   "summary_ko": [
+    "트럼프의 새로운 자산 공개에서 엔비디아, 테슬라, 팔란티어 등의 거래 내역이 나타났다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "be594e4eee11d4f1",
    "kind": "news",
@@ -17,6 +228,23 @@
     "JP모건, 비자, 마스터카드가 협력업체 사이버 공격으로 고객 데이터가 노출됐다고 밝혔다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "903381f59fa8b88f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Morgan Stanley tweaks Nvidia price target after blowout earnings",
+   "excerpt": "Higher earnings estimates didn’t stop a cut.",
+   "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-nvidia-price-target-cut?.tsrc=rss",
+   "published": "2026-11-19T19:03:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "모건 스탠리는 호실적 발표 이후 엔비디아의 목표 주가를 조정했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "2d724c0d710fa022",
@@ -108,6 +336,23 @@
    "tone": "neg"
   },
   {
+   "id": "4657545b28c23fbe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is AI Spending Eating Alibaba's Cash?",
+   "excerpt": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://www.trefis.com/stock/baba/articles/626669/is-ai-spending-eating-alibaba-s-cash/2026-11-19?.tsrc=rss",
+   "published": "2026-11-19T18:59:14+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "AI 지출이 알리바바의 현금에 영향을 미치는지에 대해 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "1cec446f03b28c7e",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -140,6 +385,23 @@
     "애플의 카메라 및 사진 소프트웨어를 담당하던 부사장이 은퇴했다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "0b89a58904f9784f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "MongoDB faces lower expectations ahead of earnings as Bank of America cuts price target",
+   "excerpt": "MongoDB Inc (NASDAQ:MDB) faces a lower bar for growth when it reports third-quarter financial year 2027 results on December 1, with Bank of America (BofA) warning that concerns about execution have reduced expectations for its Atlas cloud database business. The brokerage reiterated its 'buy'...",
+   "url": "https://www.proactiveinvestors.com/companies/news/1102144/mongodb-faces-lower-expectations-ahead-of-earnings-as-bank-of-america-cuts-price-target-1102144.html?.tsrc=rss",
+   "published": "2026-11-19T18:55:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카는 실행력 우려를 이유로 몽고DB의 목표 주가를 내렸다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "9855cd4246846d94",
@@ -2789,9 +3051,10 @@
     "AMZN",
     "LLY"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "제너럴 메디신이 릴리다이렉트를 통해 GLP-1 체중 관리 케어 서비스를 제공한다고 발표했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "8a415c30ece66414",
@@ -2806,9 +3069,10 @@
     "GOOGL",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "아마존과 구글이 앤스로픽 IPO 이후 지분의 약 30%를 보유하게 된다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a8b0ae2f0381fb0d",
@@ -2822,9 +3086,10 @@
    "tickers": [
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "인텔 CEO가 18A 공정에 대한 첫 번째 고객과 계약을 체결했다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "38e7258a0c0a061a",
@@ -2838,9 +3103,10 @@
    "tickers": [
     "LLY"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "3분기 동안 섹터 순환매의 영향으로 일라이 릴리가 하락했다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "1f7b9b1e6842f87e",
@@ -2854,9 +3120,10 @@
    "tickers": [
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "치솟는 디젤 가격으로 인해 월마트가 타격을 입었다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "c7c96fbb64dcd83c",
@@ -2870,9 +3137,10 @@
    "tickers": [
     "UNH"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "관리 의료와 약제급여 관리 규모가 유나이티드헬스 그룹의 매력적인 밸류에이션을 유지한다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "f61754f75b2d1cb5",
@@ -2920,9 +3188,10 @@
    "tickers": [
     "TSM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "리버파크 어드바이저스의 서한에서 3분기 동안 TSMC에 영향을 미친 요인들을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e4fb7d9240ddfb2e",
@@ -2953,9 +3222,10 @@
    "tickers": [
     "RKLB"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "짐 크레이머는 로켓랩이 최근 하락세로 인해 저렴해졌다고 주장했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0ca566070cdf2870",
@@ -2969,9 +3239,10 @@
    "tickers": [
     "RKLB"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "로켓랩이 매출 예상을 계속 상회하고 있으며 두 가지 큰 기회를 앞두고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "bb31cd505e9427bf",
@@ -2985,9 +3256,10 @@
    "tickers": [
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "조지 소로스의 포트폴리오에서 3분기 동안 인텔 지분을 대폭 늘려 최대 미국 주식 보유 종목으로 삼았다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0fda002f98c5cb1a",
@@ -3001,9 +3273,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "미국이 중국의 엔비디아 우회로를 차단하는 새로운 규제를 추진하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "945d1cfa4a26a8d7",
@@ -3017,9 +3290,10 @@
    "tickers": [
     "META"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "폴렌 캐피털의 13F Filing에 따르면 지난 분기 메타 플랫폼스 등을 새로 매수하거나 추가했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b235d1a05fe6acf6",
@@ -3033,9 +3307,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "일론 머스크는 스페이스X와의 합병만으로 테슬라 보수 주식을 받아서는 안 된다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "04b4e1c6b67191a6",
@@ -3049,9 +3324,10 @@
    "tickers": [
     "SHOP"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "메타의 뮤즈 AI 에이전트에 샵페이가 포함된 것이 쇼피의 AI 성장 논거를 강화한다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "f5560e953c0e8a9d",
@@ -3065,9 +3341,10 @@
    "tickers": [
     "AAPL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "영국 정부가 애플에 사용자 데이터 백도어 생성을 요구했던 사실이 드러났다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "74eaecd75ef22c0d",
@@ -3081,8 +3358,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "한 220억 달러 규모의 헤지펀드가 3분기에 아마존, 다나허, 메타의 신규 포지션을 매수했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "72a85a1d814b2fa8",
@@ -3114,8 +3393,10 @@
    "tickers": [
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "헌터브룩은 AMD가 미국의 제재를 받은 중국 서버 제조사에 펌웨어 업데이트를 제공했다고 보도했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "501a6e0291d6f008",
@@ -3129,8 +3410,10 @@
    "tickers": [
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "웰스파고의 운영 위원회에 전직 JP모건 체이스 임원들이 다수 포진해 있다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ab6936e6bbd41e79",
@@ -3144,8 +3427,10 @@
    "tickers": [
     "MSFT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "빌 애크먼은 마이크로소프트 주식 매각이 실제로는 옵션으로의 스왑이었다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "716494fcb85c4a22",
@@ -3160,8 +3445,10 @@
     "TSLA",
     "TSM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "782억 달러 규모의 헤지펀드가 3분기 대만반도체, MSCI, 테슬라 지분을 추가 매수했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6951b65427e07300",
@@ -3175,8 +3462,10 @@
    "tickers": [
     "MSFT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리버파크 어드바이저스는 3분기 투자자 서한에서 마이크로소프트에 대한 내용을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a3d6032a8b3aff4f",
@@ -3190,8 +3479,10 @@
    "tickers": [
     "NKE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "윌리엄스 트레이딩은 딕스 스포팅 굿즈의 투자의견을 하향하고 풋 로커 사업에 대한 우려를 표명했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "61a90fb56ca9a01a",
@@ -3205,8 +3496,10 @@
    "tickers": [
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "JP모건 체이스는 서비스 협력 업체들이 사이버 공격을 받아 일부 고객 정보가 노출될 수 있다고 밝혔다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "4c17f69ee51915a9",
@@ -3237,8 +3530,10 @@
    "tickers": [
     "AAPL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리버파크 어드바이저스는 애플의 서비스 프랜차이즈가 지속적인 실적 성장의 기반이라고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "5dd4fe1cfc6263c6",
@@ -3252,8 +3547,10 @@
    "tickers": [
     "META"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리버파크 어드바이저스는 3분기 서한에서 메타 플랫폼스의 52주 최고가 경신 과정을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "423a3dcdb9ec84bf",
@@ -3267,9 +3564,10 @@
    "tickers": [
     "COIN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "코인베이스와 누의 밸류에이션 및 직면한 리스크를 비교하는 내용을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1231cc5f726ae20b",
@@ -3283,8 +3581,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "빌 애크먼은 엔비디아 이사회 운영 방식을 비판하며 전직 CEO의 복귀를 독려했다고 주장했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "776227000cbc2c18",
@@ -3314,8 +3614,10 @@
    "tickers": [
     "BAC"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "26억 달러 규모의 펀드가 3분기에 뱅크오브아메리카 등의 지분을 전량 매도했다고 밝혔다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "a60269e79043872a",
@@ -3329,9 +3631,10 @@
    "tickers": [
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월마트는 3분기 실적이 예상을 웃돌며 연간 매출 및 이익 전망치를 상향 조정했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "be9990bb5f1eca34",
@@ -3345,9 +3648,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "리버파크 어드바이저스는 엔비디아가 AI 인프라 구축의 중심에 있다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "8274440a313c8fc9",
@@ -3362,7 +3666,8 @@
     "MSFT"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "c5e2427d8278c413",
@@ -3377,7 +3682,8 @@
     "DIS"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "18e9e8f800cd91b5",
@@ -3392,7 +3698,8 @@
     "AAPL"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "8cecb02c241daeb5",
@@ -3408,7 +3715,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "382bc18cc86a7e50",
@@ -3423,7 +3730,8 @@
     "PANW"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "6d32edf97bded65f",
@@ -3438,7 +3746,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "25956241e4f45ad4",
@@ -3454,7 +3763,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "ea602fd09578d15c",
@@ -3470,7 +3779,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "fe170943f6a675c9",
@@ -3485,7 +3794,8 @@
     "AMD"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "9c92623b881c8243",
@@ -3500,7 +3810,8 @@
     "DELL"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "f515012e0f983f1e",
@@ -3516,7 +3827,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "05f4fbeaa1245714",
@@ -3532,7 +3843,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "135a36bce4505d87",
@@ -3548,7 +3859,8 @@
     "INTC"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "b492438f89662ac4",
@@ -3563,7 +3875,8 @@
     "WMT"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "626d665bed9b5aa2",
@@ -3578,7 +3891,8 @@
     "WMT"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "63651b5f49f1f372",
@@ -69124,24 +69438,6 @@
     "엔비디아 칩 규제 우려로 알리바바 주가가 하락했다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "e55c99419f7e94a3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "HubSpot names new CEO, CFO in company ‘re-founding’",
-   "excerpt": "The SaaS company brought back its former CEO of 16 years and named an Adobe finance leader to its CFO chair as it navigates ongoing AI pressures.",
-   "url": "https://www.cfodive.com/news/hubspot-names-new-ceo-cfo-company-re-founding/874544/?.tsrc=rss",
-   "published": "2026-11-12T19:28:19+00:00",
-   "tickers": [
-    "ADBE"
-   ],
-   "summary_ko": [
-    "허브스팟이 새로운 CEO와 CFO를 선임하며 재창업에 나섰다고 다뤘다.",
-    "AI 압박 속에서 전임 CEO를 복귀시키고 어도비 출신 재무 리더를 영입했다고 언급했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
