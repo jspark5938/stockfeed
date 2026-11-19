@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-19T05:00:37.983589+00:00",
+ "updated": "2026-11-19T05:30:35.684649+00:00",
  "posts": [
+  {
+   "id": "3abfb917e218c79d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks Inc (PANW) Q1 2027 Earnings Call Highlights: Revenue Surges 39% as AI ...",
+   "excerpt": "Palo Alto Networks Inc (PANW) beat guidance across every metric with NGS ARR up 66%, while unveiling a $4.5 billion Applied Compute acquisition to lead the secure AI market.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-inc-panw-050050394.html?.tsrc=rss",
+   "published": "2026-11-19T05:00:50+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스가 모든 지표에서 가이던스를 상회했다고 전했다.",
+    "매출이 39% 급증했으며 45억 달러 규모의 인수 계획도 공개했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f9c32c7d2d8ab53d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did Cathie Wood Sell Nvidia Before Earnings and Buy Crypto Stocks?",
+   "excerpt": "Cathie Wood's ARK sold $84.8M of Nvidia before earnings and bought crypto stocks. Three explanations fit the trade data.",
+   "url": "https://beincrypto.com/why-cathie-wood-sold-nvidia-crypto/?.tsrc=rss",
+   "published": "2026-11-19T05:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캐시 우드의 ARK가 실적 발표 전 엔비디아 주식을 매각했다고 다뤘다.",
+    "대신 암호화폐 관련 주식을 매수한 배경을 설명하는 세 가지 분석을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "ae4ad3e05c2e48f4",
    "kind": "news",
@@ -51,6 +87,24 @@
     "JP모건과 골드만삭스가 아이치이의 목표주가를 내린 후 주가 적정 가치도 하향 조정되었다고 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "f15766a1aa65a95b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Fallout from former Nvidia CEO’s downfall hangs over US-China relations",
+   "excerpt": "Jensen Huang helped transform Nvidia into America’s second-most valuable company before reports of multiple affairs, including with a suspected Chinese intelligence asset, brought his leadership to an abrupt end. CNN’s Will Ripley examines the revelations that rocked one of AI’s most visible players and how the scandal is impacting US-China relations.",
+   "url": "https://www.cnn.com/2026/11/18/business/video/timeline-jensen-huang-nvidia-revelations-hnk-digvid?cid=external-feeds_iluminar_yahoo&.tsrc=rss",
+   "published": "2026-11-19T04:17:21+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "전 엔비디아 CEO 관련 스캔들이 미·중 관계에 미치는 영향을 보도했다.",
+    "해당 사건으로 그의 리더십이 갑작스럽게 끝났다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "62f3b6a0eb10a0b0",
@@ -140,6 +194,24 @@
     "앤스로픽의 IPO 공모가 고가 책정과 주식 시장 동향을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "f10fe8fd2adfe6c2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CoinShares CEO Blames AI for Bitcoin’s Slide, but AI Stocks Are Falling Too",
+   "excerpt": "CoinShares CEO Jean-Marie Mognetti says AI is draining crypto, yet Nvidia and the S&P 500 are also sliding this week.",
+   "url": "https://beincrypto.com/coinshares-ceo-ai-bitcoin-slide/?.tsrc=rss",
+   "published": "2026-11-19T04:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "코인셰어스 CEO가 인공지능이 암호화폐 하락을 유발한다고 주장했다.",
+    "동시에 엔비디아와 S&P 500 지수도 하락세를 보였다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "850fc8da97099a36",
@@ -438,6 +510,24 @@
    "tone": "neg"
   },
   {
+   "id": "12c44fa601d32ae0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dan Ives Stays Bullish on Nvidia Despite Slide: Is the Chip Bigger Than Huang?",
+   "excerpt": "Dan Ives stays bullish on Nvidia after its post-Huang slide, even as activists weigh a push to bring the founder back.",
+   "url": "https://beincrypto.com/dan-ives-bullish-nvidia-without-jensen-huang/?.tsrc=rss",
+   "published": "2026-11-19T03:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "댄 아이브스가 엔비디아 하락세에도 불구하고 긍정적 전망을 유지했다고 전했다.",
+    "창업자 복귀를 위한 행동주의 움직임이 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "68cbf0ab543c26d4",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -575,6 +665,24 @@
     "시장 약세의 원인이 엔비디아가 아닌 연준의 인플레이션 우려 때문이라고 주장했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "b75aeea583d103bd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is MicroStrategy’s 12% Dividend Safe? Its $100 Stock Just Broke Again",
+   "excerpt": "MicroStrategy's 12% dividend stock STRC broke below $100 as Bitcoin dipped under $63,000. Here is where the payout stands.",
+   "url": "https://beincrypto.com/is-microstrategy-12-dividend-safe/?.tsrc=rss",
+   "published": "2026-11-19T02:10:00+00:00",
+   "tickers": [
+    "MSTR"
+   ],
+   "summary_ko": [
+    "비트코인 하락과 함께 마이크로스트래티지의 배당 주식이 100달러 아래로 떨어졌다고 다뤘다.",
+    "해당 배당의 안전성 문제를 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "dcfc3d3b0441c3f5",
@@ -60409,57 +60517,6 @@
    ],
    "summary_ko": [
     "비트코인 ETF에서 5거래일 동안 자금이 유출되었으며, 주로 블랙록의 IBIT가 이를 주도했다고 밝혔다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "da0c8dcb5791c702",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Airbnb (ABNB) And The AI Travel Deal That Could Rewire Trip Booking",
-   "excerpt": "Airbnb (NasdaqGS:ABNB) faces a new competitive risk after OpenAI acquired Odessia, an AI travel planning platform, in 2026. Odessia’s system is designed to handle end to end trip planning, from discovery to booking, through AI powered recommendations. OpenAI’s move positions AI driven trip planning as a potential front door for travelers, which could redirect traffic away from Airbnb’s existing booking funnel. OpenAI’s purchase of Odessia could reshape how guests find stays, but Airbnb’s...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/airbnb-abnb-ai-travel-deal-051841667.html?.tsrc=rss",
-   "published": "2026-11-12T05:18:41+00:00",
-   "tickers": [
-    "ABNB"
-   ],
-   "summary_ko": [
-    "오픈아이가 AI 여행 플랫폼 오데시아를 인수한 것이 에어비앤비에 새로운 경쟁 리스크가 될 수 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "6887b35bd38099ce",
-   "kind": "youtube",
-   "source": "The Wall Street Journal",
-   "author": "The Wall Street Journal",
-   "title": "What’s Next for the AI Trade Amid Nvidia’s CEO Scandal?",
-   "excerpt": "WSJ's Telis Demos explains what's at stake for Nvidia and the entire AI industry as the company's board weighs the future of its founder and longtime CEO, Jensen Huang.",
-   "url": "https://www.youtube.com/shorts/0hLmXa--tPg",
-   "published": "2026-11-12T05:05:26+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "NVIDIA 이사회가 창립자이자 CEO인 젠슨 황의 거취를 고심함에 따라 AI 관련 투자에 미치는 영향을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "0b3de2bdd879038d",
-   "kind": "youtube",
-   "source": "The Wall Street Journal",
-   "author": "The Wall Street Journal",
-   "title": "What’s Next for the AI Trade Amid Nvidia’s CEO Scandal?",
-   "excerpt": "WSJ's Telis Demos explains what's at stake for Nvidia and the entire AI industry as the company's board weighs the future of its founder and longtime CEO, Jensen Huang.",
-   "url": "https://www.youtube.com/watch?v=0hLmXa--tPg",
-   "published": "2026-11-12T05:05:26+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO를 둘러싼 스캔들 속에서 AI 관련 산업이 직면한 과제를 다뤘다."
    ],
    "tone": "neg"
   }
