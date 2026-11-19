@@ -1,6 +1,304 @@
 {
- "updated": "2026-11-19T22:00:39.087425+00:00",
+ "updated": "2026-11-19T22:30:32.888556+00:00",
  "posts": [
+  {
+   "id": "da54aff883fb24d5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Vendor attack exposes JPMorgan Reserve cardholder emails",
+   "excerpt": "About 16,700 Reserve card member records, with emails and ZIP codes but no names, sit in the JPMorgan files. No company has named any vendor.",
+   "url": "https://www.americanbanker.com/news/vendor-attack-exposes-jpmorgan-reserve-cardholder-emails?.tsrc=rss",
+   "published": "2026-11-19T22:22:13+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "벤더 공격으로 인해 JP모건 카드 회원 일부의 이메일 정보가 노출되었다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "ec0cb718bed07b8f",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Elon Musk highlights from the NYT DealBook Summit",
+   "excerpt": "SpaceX and Tesla CEO Elon Musk joined Andrew Ross Sorkin at The New York Times’ DealBook Summit on Wednesday to discuss Nvidia's ousted CEO Jensen Huang, the results of the midterm elections, why a Tesla-SpaceX merger would make sense for both companies and more.",
+   "url": "https://www.youtube.com/watch?v=doU4I20ewsc",
+   "published": "2026-11-19T22:20:50+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크는 딜북 서밋에서 엔비디아와 테슬라 등에 대해 논의했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ec647f58d4149b5c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia vs. Intel: One AI Stock Is Worth the Drama, the Other Isn’t Worth the Wait, Says Investor",
+   "excerpt": "For a while, the only thing Nvidia (NASDAQ:NVDA) and Intel (NASDAQ:INTC) had in common was that they both made chips. Nvidia rode the AI boom to become one of the world’s most valuable companies, while Intel spent years trying to repair its business. Now they share a problem: shareholders who aren’t sure what comes next. Nvidia released its third-quarter earnings report on Tuesday, its first since Jensen Huang resigned as CEO, and the stock still fell the next day. Intel’s slide deepened after i",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-intel-one-ai-222036270.html?.tsrc=rss",
+   "published": "2026-11-19T22:20:36+00:00",
+   "tickers": [
+    "NVDA",
+    "INTC"
+   ],
+   "summary_ko": [
+    "엔비디아와 인텔의 최근 실적 발표와 주가 움직임을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "af1ad0ab21d066b9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake",
+   "excerpt": "Today, Nov. 19, 2026, Alphabet's slide came as investors weighed its private AI holdings and a heavy trading session.",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-googles-stake/?.tsrc=rss",
+   "published": "2026-11-19T22:18:30+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "앤스로픽의 나스닥 상장 여파로 알파벳 주가가 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "7347b62eab59e0a4",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Claude Users Excited to Invest in Anthropic, Says Ann Berry",
+   "excerpt": "Ann Berry, founder and managing partner of Threadneedle, said that the ability to turn user behavior into an investment opportunity creates a 'different kind of buzz' for Anthropic. Berry said that she sees the AI company and its Claude model continuing to grab share from tech companies like Microsoft and shift users from traditional search engines. -------- Watch Bloomberg Radio LIVE on YouTube Weekdays 7am-6pm ET Saturday & Sunday 7am-10am ET WATCH HERE: Follow us on X: Subscribe to our Podcasts: Bloomberg Daybreak: Bloomberg Surveillance: Bloomberg Intelligence: Balance of Power: Bloomberg Businessweek: Listen on Apple CarPlay and Android Auto with the Bloomberg Business app: Apple CarPlay: Android Auto: Visit our YouTube channels: Bloomberg Podcasts: Bloomberg Television: Bloomberg Ori",
+   "url": "https://www.youtube.com/watch?v=p_wqtcrb2P4",
+   "published": "2026-11-19T22:17:20+00:00",
+   "tickers": [
+    "AAPL",
+    "MSFT"
+   ],
+   "summary_ko": [
+    "앤 베리는 앤스로픽 사용자들이 투자 기회에 큰 관심을 보인다고 전했다.",
+    "앤스로픽이 마이크로소프트 등의 점유율을 가져갈 것으로 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2906b6d7ff04f8c9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft reveals 80% server failure behind global outage",
+   "excerpt": "A months-old software flaw disrupted email and work for millions.",
+   "url": "https://www.thestreet.com/investing/microsoft-reveals-80-server-failure-behind-global-outage?.tsrc=rss",
+   "published": "2026-11-19T22:17:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트는 글로벌 중단을 일으킨 원인이 서버 오류였다고 밝혔다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "b96cbeabb43401a3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A 27-year-old emptied his Roth IRA and moved $12,000 to Robinhood for a shot at Anthropic's record IPO",
+   "excerpt": "Retail investors are expected to pour $250 million into Anthropic stock on day one, double the SpaceX debut.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/27-old-emptied-roth-ira-221500468.html?.tsrc=rss",
+   "published": "2026-11-19T22:15:00+00:00",
+   "tickers": [
+    "HOOD"
+   ],
+   "summary_ko": [
+    "개인 투자자들이 앤스로픽 IPO에 대거 참여할 것으로 예상된다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "58530e3118970b81",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Anthropic Just Finished Its First Day as a Public Company. Five of the Six Biggest Tech IPOs Since Facebook Were Underwater Six Months After Theirs, and Elon Musk’s SpaceX Is Following the Script",
+   "excerpt": "Warren Buffett told CNBC in 2019 that Berkshire had never bought a new issue in 54 years. Anthropic sold 980 million shares at $83, above its marketed range of $70 to $78, raising $81.3 billion, and closed its first day on the Nasdaq as ANT at $97.17, up 17% from the offer price. From their first-day closes, five of the six biggest tech IPOs since Facebook (Facebook, Alibaba, Uber, Snowflake, Rivian; only Arm rose) were underwater six months later and behind the S&P 500; three lost more than hal",
+   "url": "https://247wallst.com/investing/2026/11/19/anthropic-just-finished-its-first-day-as-a-public-company-five-of-the-six-biggest-tech-ipos-since-facebook-were-underwater-six-months-after-theirs-and-elon-musks-spacex-is-following-the-script/?.tsrc=rss",
+   "published": "2026-11-19T22:13:02+00:00",
+   "tickers": [
+    "UBER",
+    "SNOW",
+    "RIVN",
+    "BABA"
+   ],
+   "summary_ko": [
+    "앤스로픽이 공모가를 웃도는 가격으로 첫 거래일을 마쳤다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "b281e68767e155a7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart Inc. Q3 2027 Earnings Call Summary",
+   "excerpt": "Moby summary of Walmart Inc.'s Q3 2027 earnings call",
+   "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-walmart-inc-q3-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+   "published": "2026-11-19T22:12:23+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트의 3분기 실적발표 내용을 요약했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "023fa737f4c24186",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks (PANW) CEO Warns AI Cyberattacks Are Causing Widespread Outages",
+   "excerpt": "Palo Alto Networks (NasdaqGS:PANW) CEO warned this week that AI-driven cyberattacks are triggering widespread network outages across multiple sectors. Management highlighted rising operational strain on enterprises as AI tools automate intrusion attempts and amplify the scale of disruptions. The firm pointed to its own AI-focused security upgrades as a key part of how customers are trying to contain these attacks. The CEO's warning on AI-fuelled cyberattacks and outages is an important...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ceo-220919739.html?.tsrc=rss",
+   "published": "2026-11-19T22:09:19+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로 알토 네트웍스 CEO는 AI 사이버 공격이 네트워크 중단을 유발한다고 경고했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "c6b5e748432f4aa9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oklo (OKLO) Wins DOE Clearance On A Narrative That Still Points To Higher Fair Value",
+   "excerpt": "Oklo (OKLO) just received U.S. Department of Energy clearance for unrestricted operations at its Groves Isotope Test Reactor, moving the facility into a research and training phase that could influence investor views. Oklo’s latest Department of Energy clearance lands after a tough stretch for the shares, with the 30-day share price return down 20% and the year-to-date share price return down 72%, even though the 3-year total shareholder return is up more than 2x. Scan beyond Oklo and explore...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-wins-doe-clearance-220914556.html?.tsrc=rss",
+   "published": "2026-11-19T22:09:14+00:00",
+   "tickers": [
+    "OKLO"
+   ],
+   "summary_ko": [
+    "오클로는 미 에너지부로부터 시설 운영 승인을 받았다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "1784f023aaee3516",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Siteimprove.ai Accessibility Agent Now Available for AI Agents Through Agentic Commerce on AWS Marketplace",
+   "excerpt": "Siteimprove, the agentic content intelligence platform, announced today that it is a launch partner for Agentic Commerce on AWS Marketplace, making the Siteimprove.ai Accessibility Agent available for AI agents to pay for per request through Amazon Bedrock AgentCore payments, with charges in US dollars on the buyer's existing AWS bill.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/siteimprove-ai-accessibility-agent-now-220600704.html?.tsrc=rss",
+   "published": "2026-11-19T22:06:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "사이트익스루브는 AWS 마켓플레이스에서 접근성 에이전트를 제공한다고 발표했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "5b8a173f1a7d7de8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Mimic Virtual Patching Enables Fast, Safe Mitigation of AI-Discovered Vulnerabilities",
+   "excerpt": "In just the past week, personal and corporate email, banking, air travel, and government networks have all been severely disrupted; by attempts to patch serious new vulnerabilities discovered using frontier AI models. Palo Alto Networks (PANW) CEO Nikesh Arora, speaking on the company's earnings call on 18 November 2026, attributed these disruptions to failures of patching processes in the face of a mounting wave of AI-discovered vulnerabilities: \"We're seeing critical and severe vulnerabilities",
+   "url": "https://finance.yahoo.com/technology/ai/articles/mimic-virtual-patching-enables-fast-220500376.html?.tsrc=rss",
+   "published": "2026-11-19T22:05:00+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스 CEO는 AI가 발견한 취약점 패치 과정의 실패가 최근 네트워크 장애를 유발했다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4fa2d2275e99442a",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What the Biggest IPO in History Means for AI | Deirdre Bosa Live",
+   "excerpt": "Anthropic finished its first day of trading after the largest IPO on record, and Deirdre Bosa talks with investors who backed it early. Bessemer Venture Partners' Byron Deeter says the AI build-out has no historical comparison, and Anjney Midha of AMP recalls pitching Anthropic in 2021, when almost every VC said no. Ejaaz breaks down the debut against a falling Nasdaq. Jim Prosser of Tamalpais Strategies runs the math on whether Nvidia shareholders could bring back Jensen Huang. Plus, GTA 6 becomes the best-reviewed game ever, and Wedbush's Michael Pachter weighs whether it can pay off. Bessemer and AMP are Anthropic investors. Timestamps 0:00 Anthropic's first day of trading 6:29 Is Google back in the model race? 9:05 Can Microsoft build a frontier model? 10:42 Will AI labs build their ow",
+   "url": "https://www.youtube.com/watch?v=_rEGIdZOXEQ",
+   "published": "2026-11-19T22:04:56+00:00",
+   "tickers": [
+    "NVDA",
+    "MSFT",
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "앤스로픽의 첫 거래일과 AI 투자 열기 등을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0db5f07e1ef2af86",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Thursday's Final Takeaways: Healthcare Sell-Off Continues, 2030 World Cup TV Bidding",
+   "excerpt": "While Anthropic (ANT) and its IPO dominated Wall Street headlines, the steepening healthcare sell-off has investors in that sector on edge. Meanwhile, a bidding war for television rights in the 2030 World Cup has entertainment companies aiming for a big win. Marley Kayden takes investors through her biggest unsung takeaways of Thursday's session. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network:",
+   "url": "https://www.youtube.com/watch?v=ltRZrMf8rtg",
+   "published": "2026-11-19T22:00:24+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "앤스로픽의 IPO와 헬스케어 부문 매도세 등을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "06277491a261e5dc",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Now that Anthropic is public, is Dario Amodei out as CEO? | Market Hang",
+   "excerpt": "Anthropic listed, and Market Hang put the question straight to the panel: is there going to be a leadership change at the top? Five people answered and all five said no. Dario Amodei, chief executive of Anthropic, should stay, and the argument moved somewhere better. One guest wants financial discipline alongside the founder rather than instead of him, pointing at Eric Schmidt arriving at Google as the adult in the room. Another says four billion in cash last quarter proves he is the right manager. And one turns it round: should Sam Altman be running OpenAI? Watch the full episode: Market Hang is live weekdays 12:30-1:30pm ET on Yahoo Finance. Timestamps 0:00 A startup and a public company are different jobs 1:11 Founder leaders can succeed for a long time 2:50 Not calling for him not to b",
+   "url": "https://www.youtube.com/watch?v=ELIak2hnqts",
+   "published": "2026-11-19T22:00:03+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "패널들은 앤스로픽 상장 후 다리오 아모데이가 CEO로 남아야 한다고 주장했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "9addefaa30bc8f83",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "John Forsyth, Cirrus Logic President and CEO, Elected Chair of Semiconductor Industry Association",
+   "excerpt": "The Semiconductor Industry Association (SIA) today announced that Cirrus Logic (NASDAQ: CRUS) President and CEO John Forsyth has been elected Chair of the SIA Board of Directors. Tom Caulfield, Executive Chairman of GlobalFoundries (NASDAQ: GFS), was elected Vice Chair. AMD (NASDAQ: AMD) Chair and CEO Lisa Su, who served as 2026 Chair, will continue to serve on the Board and the Leadership Committee. SIA, the voice of the semiconductor industry, represents 99% of the U.S. semiconductor industry",
+   "url": "https://finance.yahoo.com/technology/articles/john-forsyth-cirrus-logic-president-220000273.html?.tsrc=rss",
+   "published": "2026-11-19T22:00:00+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "반도체산업협회는 시러스 로직 CEO를 이사회 의장으로 선출했다고 발표했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "c220dcd12266f50e",
    "kind": "youtube",
@@ -19,6 +317,24 @@
    "tone": "pos"
   },
   {
+   "id": "7c727e4c731e8116",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Consumers stock doomsday pantries as tech outages cause jitters",
+   "excerpt": "Companies such as Costco and Walmart are seeing a surge in sales for generators, canned goods and other disaster-preparedness staples.",
+   "url": "https://www.cbsnews.com/news/doomsday-prepping-scenarios-walmart-costco-technology-outages/?.tsrc=rss",
+   "published": "2026-11-19T21:54:18+00:00",
+   "tickers": [
+    "COST",
+    "WMT"
+   ],
+   "summary_ko": [
+    "기술적 장애에 대한 불안으로 소비자들이 비상식량과 발전기를 비축하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "83d0931b387288c3",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -34,6 +350,23 @@
     "증시가 하락 반전하고 S&P 500과 나스닥이 신저점을 기록했다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "4dc8fb5ca2600f14",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cybersecurity Stocks Rise as Investors Bet on AI-Era Defense Spending",
+   "excerpt": "Market Updates News Commentary - Cybersecurity stocks moved higher on Thursday. Palo Alto Networks reported fiscal first-quarter results after Wednesday's close and raised its annual forecast, and Reuters reported that the outlook lifted cybersecurity stocks as investors bet companies will spend big on defending against sophisticated AI-enabled digital attacks. The move came in a session where the major U.S. indexes spent the afternoon sharply lower as Anthropic PBC made its Nasdaq debut. With t",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rise-investors-bet-215200509.html?.tsrc=rss",
+   "published": "2026-11-19T21:52:00+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스의 호실적과 연간 전망 상향에 사이버보안 관련주가 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "4bc478d87789d599",
@@ -4049,6 +4382,25 @@
    "tone": "neu"
   },
   {
+   "id": "f4efeb59f90f8b34",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The market could fall 10-12% — stocks to buy and sell now",
+   "excerpt": "Carter Worth, CEO, Worth Charting warns that overcrowded defensive trades have left the S&P 500 vulnerable to a 10% to 12% year-end drop—and shares why he’s taking profits on consumer staples like Coca-Cola and Costco while buying oversold bounces in Nvidia and Caterpillar alongside strong charts like John Deere and Amazon.",
+   "url": "https://cdn.jwplayer.com/previews/oaxSrVPe?.tsrc=rss",
+   "published": "2026-11-19T17:03:23+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN",
+    "COST"
+   ],
+   "summary_ko": [
+    "시장이 연말에 10~12% 하락할 수 있다는 경고와 함께 특정 종목에 대한 매매 의견을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "a61282a2dfe50c71",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -5431,6 +5783,23 @@
    "tone": "pos"
   },
   {
+   "id": "2587c3f4cfe639f2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Could Poach Arm's CEO to Replace Jensen Huang. Here's What That Might Mean for ARM Stock.",
+   "excerpt": "Nvidia's CEO search reaches Arm's Rene Haas. Here's what ARM investors need to know.",
+   "url": "https://www.barchart.com/story/news/8919766/nvidia-could-poach-arm-s-ceo-to-replace-jensen-huang-here-s-what-that-might-mean-for-arm-stock?.tsrc=rss",
+   "published": "2026-11-19T16:00:59+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 ARM의 CEO를 영입할 가능성을 다루며 ARM 투자자들이 알아야 할 내용을 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "2bd540b734418863",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -5674,6 +6043,23 @@
     "대형 펀드가 3분기 동안 대만반도체 등의 주식을 전량 매도했다고 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "acbca345fba3b500",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Anthropic’s IPO Tests Waters for the AI Trade. Adobe Stock Investors Should Keep an Eye Out Too.",
+   "excerpt": "Anthropic's mega public listing would test the waters for AI trade that has looked on a shaky ground of late. Investors in software names like Adobe should also keep an eye on the stock's price movement.",
+   "url": "https://www.barchart.com/story/news/8919524/anthropics-ipo-tests-waters-for-the-ai-trade-adobe-stock-investors-should-keep-an-eye-out-too?.tsrc=rss",
+   "published": "2026-11-19T15:51:10+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "summary_ko": [
+    "앤스로픽의 기업공개가 AI 관련주의 분위기를 시험할 것이라고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4e4245b2e1cbca24",
@@ -34449,6 +34835,23 @@
    ],
    "summary_ko": [
     "마이크로소프트가 기업의 AI 신뢰도를 높이기 위한 AI 투명성 이니셔티브를 발표했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b448e4e9375edc30",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
+   "excerpt": "Organizations can observe much of the activity around AI models, but they often cannot reconstruct what happened between a request and an outcome, making it difficult to independently verify model behavior. At Microsoft Ignite on Tuesday, Microsoft Chairman and CEO Satya Nadella announced the next phase of Microsoft's commitment to making AI safer: the AI Transparency Initiative, a collaborative effort with customers and partners to establish a common, open approach to security and governance ac",
+   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-organizations-across-industries-launch-181500528.html?.tsrc=rss",
+   "published": "2026-11-17T18:15:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트는 기업의 AI 신뢰도 강화를 위해 AI 투명성 이니셔티브를 발표했다고 전했다."
    ],
    "tone": "pos"
   },
@@ -70809,40 +71212,6 @@
     "젠슨 황의 퇴진과 관련해 알리바바와 중국 기업들이 미국 기술과의 관계에서 더 큰 검증을 마주하고 있다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "73c3872da5e476e0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Nvidia's stock decline might impact your 401(k) and portfolio",
-   "excerpt": "Kelly Intelligence founder, CEO, and CCO Kevin Kelly joins Yahoo Finance Senior Reporter Brooke DiPalma at Yahoo Finance's 2026 Invest conference to offer some insight for investors who might be worried about how Nvidia (NVDA) stock is impacting their portfolios and retirement accounts.",
-   "url": "https://finance.yahoo.com/video/how-nvidias-stock-decline-might-impact-your-401k-and-portfolio-221925275.html?.tsrc=rss",
-   "published": "2026-11-12T22:19:25+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 주가 하락이 포트폴리오와 은퇴 계좌에 미치는 영향에 대한 통찰을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "79567d271d5b8649",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is D Wave Quantum (QBTS) Priced Too Richly For Its Book Value?",
-   "excerpt": "D-Wave Quantum has been through a wild stretch in the market, and with quantum computing headlines swinging between strong bookings and legal setbacks, investors are increasingly asking whether the current share price lines up with what the company’s balance sheet actually supports through its book value. With that lens in mind, the recent surge and pullbacks in D-Wave Quantum stock bring the focus squarely onto what shareholders are really paying for in terms of underlying net assets. Over...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/d-wave-quantum-qbts-priced-221007016.html?.tsrc=rss",
-   "published": "2026-11-12T22:10:07+00:00",
-   "tickers": [
-    "QBTS"
-   ],
-   "summary_ko": [
-    "디웨이브 퀀텀의 주가 변동 속에서 순자산 대비 현재 주가 수준에 대한 의문이 제기되고 있다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
