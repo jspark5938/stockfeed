@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-19T02:30:30.911309+00:00",
+ "updated": "2026-11-19T03:00:39.162922+00:00",
  "posts": [
+  {
+   "id": "a5e0ee054f939335",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Coatue Builds $1.8 Billion Salesforce Stake, Its Biggest New Bet, as the Stock Sinks 17%",
+   "excerpt": "Coatue's 13F shows a new 8,032,477-share Salesforce stake worth $1.84 billion on September 30, the largest new position in its $54.50 billion portfolio. The stock has fallen 17% since, including a 9.5% drop on November 17, its worst day since May 2024, as software stocks sold off before Anthropic's IPO.",
+   "url": "https://247wallst.com/investing/2026/11/18/coatue-builds-1-8-billion-salesforce-stake-its-biggest-new-bet-as-the-stock-sinks-17/?.tsrc=rss",
+   "published": "2026-11-19T02:47:06+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "Coatue는 13F 공시를 통해 18억 4천만 달러 규모의 세일즈포스 지분을 새로 취득했다고 밝혔다.",
+    "소프트웨어주 매도세 속에서 세일즈포스 주가는 이후 17% 하락했다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "512aab95a2516440",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Smart Glasses Launch Could Change The Case For Warby Parker Stock",
+   "excerpt": "Warby Parker has launched its Intelligent Eyewear collection, featuring three nylon frame styles with integrated camera, audio hardware, and up to nine hours of battery life, priced from US$395 and available in multiple prescriptions and lens options. The partnership with Google and Samsung places Warby Parker directly in AI-enabled wearable eyewear, connecting its core prescription and sun-lens offering to a higher priced, technology-rich product line. We will examine how Warby Parker's...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/smart-glasses-launch-could-change-022225929.html?.tsrc=rss",
+   "published": "2026-11-19T02:22:25+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "와비 파커는 카메라와 오디오 등이 탑재된 지능형 아이웨어 컬렉션을 출시했다고 다뤘다.",
+    "구글 및 삼성과의 파트너십을 통해 AI 기반 웨어러블 시장에 진입했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b79ed2bb1473aae7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What NICE (TASE:NICE)'s Microsoft AI Tie Up Means For Shareholders",
+   "excerpt": "In November 2026, NiCE announced a deeper collaboration with Microsoft, bringing NiCE Cognigy AI Agents into Microsoft Teams Phone, Azure, and Dynamics 365 Customer Service so AI and human staff can manage customer interactions as a single blended workforce. The new NiCE Cognigy release focuses on reusable AI skills, integrated speech and language models, and full decision tracing, which together target real operational pain points such as call routing accuracy, handling time, and governance...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nice-tase-nice-microsoft-ai-021948606.html?.tsrc=rss",
+   "published": "2026-11-19T02:19:48+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "나이스는 마이크로소프트와의 협력을 확대해 AI 에이전트를 주요 플랫폼에 도입한다고 발표했다.",
+    "이번 협력은 콜 라우팅 정확도와 처리 시간 등 운영상의 과제를 해결하는 데 초점을 맞췄다고 설명했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "6ba0bfea80000bda",
    "kind": "news",
@@ -174,6 +228,25 @@
    "tone": "neu"
   },
   {
+   "id": "f534fabae8cb0fe0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Elon Musk Says Nvidia Made a ‘Mistake’ by Parting Ways With Jensen Huang: Calls Ex-CEO ‘Michael Jordan Perhaps at His Peak Level’",
+   "excerpt": "Elon Musk compared former Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang to legendary NBA player Michael Jordan and said the company made a mistake parting ways with him. Musk Says Huang Isn’t ‘Disloyal’ Speaking with Andrew Ross Sorkin at The New York Times DealBook Summit on Wednesday, the CEO of Tesla Inc. (NASDAQ:TSLA) and Space Exploration Technologies Corp. (NASDAQ:SPCX) called Huang “an old friend of mine,” and added that he was like “Michael Jordan perhaps at his peak level” to a team. Musk",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-nvidia-made-014213735.html?.tsrc=rss",
+   "published": "2026-11-19T01:42:13+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크는 엔비디아가 젠슨 황과의 관계를 정리한 것은 실수라고 언급했다.",
+    "그는 젠슨 황을 정점의 마이클 조던에 비유하며 높이 평가했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "2952fb53a46327f1",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -189,6 +262,24 @@
     "미국이 향후 최첨단 제품이 아닐 경우 블랙웰 칩의 대중국 판매를 허용할 수 있다고 시사했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "31b007012a1b3528",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney's Winning Formula: Blockbusters, Packed Parks and Football",
+   "excerpt": "Walt Disney Co. stock fell nearly 2% in Tuesday’s premarket trading despite better-than-expected fiscal fourth-quarter 2026 earnings and revenue. Higher streaming subscription and advertising revenue, record Experiences segment results and strong demand for live sports fueled Disney’s growth. Subscription video-on-demand...",
+   "url": "https://finance.yahoo.com/media-advertising/articles/disneys-winning-formula-blockbusters-packed-013007150.html?.tsrc=rss",
+   "published": "2026-11-19T01:30:07+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": [
+    "디즈니는 예상을 웃도는 2026 회계연도 4분기 실적을 기록했다고 밝혔다.",
+    "스트리밍 수익 증가와 테마파크 실적, 라이브 스포츠 수요가 성장을 견인했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "de56c182dee91f8b",
@@ -59935,24 +60026,6 @@
    "summary_ko": [
     "오클로는 최근 변동성을 보이며 첨단 원자력 프로젝트로 주목을 받고 있다고 전했다.",
     "그로브스 원자로 플랫폼과 오로라 배치 진행 상황이 향후 기대치에 영향을 줄 수 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f7e5149b769dd532",
-   "kind": "youtube",
-   "source": "Solving The Money Problem",
-   "author": "Solving The Money Problem",
-   "title": "Elon To Hire NVIDIA CEO? WHAT THE FFFFF",
-   "excerpt": "► AG1 (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) ► My 20-year Tesla & SpaceX Valuation: ► Browse NEW Merch! ► Join Patreon: ► Subscribe on X (early access): ► UNLOCK 350+ Exclusive Videos: Want More Content? Early Access? My 20-year Tesla & SpaceX Valuation Model? Check the pinned comment! AFFILIATE DISCLOSURE: I earn a commission on every purchase made through my links. 🚀 SUPPORT THE CHANNEL ON PATREON ◆ Patreon BECOME A MEMBER OF THE CHANNEL ◆ Join CHANNEL MERCH ◆ Merch Store ◆ Don’t Bet Against Elon Mug ◆ Don’t Bet Against Elon Hat ◆ Don’t Bet Against Elon Tee AFFILIATES - Health/Wellness/Peak Performance ◆ AG1 (Comprehensive and Convenient Daily Nutrition) FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel Packs AFFILIATE DISCLOSURE: I earn a commission on every purchase mad",
-   "url": "https://www.youtube.com/watch?v=xY2IFpY4wRk",
-   "published": "2026-11-12T02:30:39+00:00",
-   "tickers": [
-    "NVDA",
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라 및 스페이스X 밸류에이션 모델과 관련 제품 후원을 다뤘다."
    ],
    "tone": "neu"
   }
