@@ -1,6 +1,77 @@
 {
- "updated": "2026-11-19T01:00:46.493970+00:00",
+ "updated": "2026-11-19T01:30:37.730391+00:00",
  "posts": [
+  {
+   "id": "de56c182dee91f8b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks Q1 Earnings Call Highlights",
+   "excerpt": "Palo Alto Networks (NASDAQ:PANW) reported fiscal first-quarter revenue growth of 39% and raised its full-year outlook, as demand for its security platforms accelerated and customers increased spending on AI-related defenses. The cybersecurity company also announced plans to acquire Applied Compute",
+   "url": "https://www.marketbeat.com/instant-alerts/transcript-palo-alto-networks-q1-earnings-call-highlights-2026-11-18/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+   "published": "2026-11-19T01:13:13+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스는 1분기 매출이 39% 성장했다고 발표했다.",
+    "보안 플랫폼 수요 증가에 힘입어 연간 전망을 상향 조정했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "4d9189a8f89f9d71",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock-Split Watch: Is Micron Next?",
+   "excerpt": "Micron looks poised for a stock split, especially after Sandisk's recent announcement.",
+   "url": "https://www.fool.com/investing/2026/11/18/stock-split-watch-is-micron-next/?.tsrc=rss",
+   "published": "2026-11-19T01:03:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론이 최근 발표된 샌디스크의 사례에 이어 주식 분할 가능성이 있음을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a6b5184ab0d34b21",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Corning CEO on working with Steve Jobs to make screens for the first iPhone",
+   "excerpt": "“Steve has a unique combination of being challenging but still convincing you you can do a thing.” At the F500 Innovation Forum, Corning CEO Wendell Weeks reflected on working with Apple cofounder Steve Jobs.",
+   "url": "https://finance.yahoo.com/video/corning-ceo-working-steve-jobs-010013740.html?.tsrc=rss",
+   "published": "2026-11-19T01:00:13+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "코닝의 CEO가 포럼에서 애플 창업자 스티브 잡스와 함께 첫 아이폰 화면을 만들었던 일화를 회상했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "58fea83ceda19f8a",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "NVDA Backlog Supports AI Demand Outlook Despite Margin Pressure",
+   "excerpt": "Sean Emory and Zeus Kerravala reflect on Nvidia’s (NVDA) earnings, with Sean highlighting revenue diversification and concerns about the company’s viability amid a potential leadership change. Following Wednesday’s pullback, Zeus argues that “AI made Jensen [Huang] as much as Jensen made AI,” and sees demand holding up with or without Jensen. Both acknowledge narrower profit margins but remain confident in Nvidia’s product backlog. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #jensenhuang #earnings #e",
+   "url": "https://www.youtube.com/watch?v=BfcZdOkJt_o",
+   "published": "2026-11-19T01:00:04+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "전문가들은 엔비디아의 실적을 다루며 매출 다변화와 마진 압박 우려를 언급했다.",
+    "또한 제품 백로그를 바탕으로 AI 수요는 계속 유지될 것이라고 전망했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "aa2f46b01970a1b3",
    "kind": "news",
@@ -673,6 +744,24 @@
     "자신은 MAGA가 아니라고 언급한 내용을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "0e7333073c42261d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Anthropic Will Be the U.S. Market's First Pure-Play AI Lab",
+   "excerpt": "Meta Platforms, Alphabet, SpaceX, and plenty of other public companies are developing artificial-intelligence models, but Anthropic will become the first where AI development is its entire business.",
+   "url": "https://finance.yahoo.com/m/e4f24587-3cc7-3aa8-a026-81369bf78d2d/anthropic-will-be-the-u.s..html?.tsrc=rss",
+   "published": "2026-11-18T23:23:58+00:00",
+   "tickers": [
+    "GOOGL",
+    "META"
+   ],
+   "summary_ko": [
+    "앤스로픽이 AI 개발을 전담하는 미국 시장 최초의 순수 AI 기업이 될 것이라고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "3ccff3cd7667dcaa",
@@ -3459,6 +3548,24 @@
    ],
    "summary_ko": [
     "엔비디아, 마이크론, TSMC를 향한 대규모 하락 베팅이 나타났다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "943eb9d96bf934d3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How to Play NKE Stock as Nike Risks Becoming a Forever Turnaround Story",
+   "excerpt": "Nike announced a new long-term turnaround roadmap during Investor Day. The announcements, however, failed to impress the market, with the stock dropping 6% on Nov. 17.",
+   "url": "https://www.barchart.com/story/news/8902787/how-to-play-nke-stock-as-nike-risks-becoming-a-forever-turnaround-story?.tsrc=rss",
+   "published": "2026-11-18T19:09:58+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키는 투자자의 날에 새로운 장기 턴어라운드 로드맵을 발표했다.",
+    "그러나 시장은 이에 반응하지 못했고 주가는 하락했다고 전했다."
    ],
    "tone": "neg"
   },
@@ -59626,59 +59733,6 @@
     "AMD와 관련된 충격적인 소식이 있다는 내용을 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "d3bbd3f5baecb983",
-   "kind": "youtube",
-   "source": "Meet Kevin",
-   "author": "Meet Kevin",
-   "title": "Jensen Cheats AGAIN | Getting FIRED *Caught on Camera*",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: 📰 Nvidia (NVDA) news, 11-11-2026: The New York Times reports a second Jensen Huang affair, naming Kimberly Powell, Nvidia's VP of health care. Nvidia, Huang and Powell have not confirmed it. Minutes later, The Wall Street Journal reported the board is preparing to oust Huang. No decision has been announced. NVDA fell about 8% after hours. Kevin covers the board math (6 of 11 votes), Huang's 3.58% stake and the 11-17 earnings call. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course &",
-   "url": "https://www.youtube.com/shorts/cph7oyjypuw",
-   "published": "2026-11-12T01:24:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "뉴욕타임스와 월스트리트저널 보도를 인용해 젠슨 황 관련 스캔들과 이사회의 해임 추진설을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "d57c2104b7c4346e",
-   "kind": "youtube",
-   "source": "Meet Kevin",
-   "author": "Meet Kevin",
-   "title": "Jensen Cheats AGAIN | Getting FIRED *Caught on Camera*",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: 📰 Nvidia (NVDA) news, 11-11-2026: The New York Times reports a second Jensen Huang affair, naming Kimberly Powell, Nvidia's VP of health care. Nvidia, Huang and Powell have not confirmed it. Minutes later, The Wall Street Journal reported the board is preparing to oust Huang. No decision has been announced. NVDA fell about 8% after hours. Kevin covers the board math (6 of 11 votes), Huang's 3.58% stake and the 11-17 earnings call. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course &",
-   "url": "https://www.youtube.com/watch?v=cph7oyjypuw",
-   "published": "2026-11-12T01:24:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황 CEO를 둘러싼 스캔들 의혹과 언론 보도 내용을 다뤘다.",
-    "이사회 움직임과 시간외 거래에서의 주가 하락 반응을 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "8e69b5fc09e89e16",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Investors May Respond To Shopify (SHOP) Mixed Earnings And AI Push",
-   "excerpt": "Shopify reported third quarter 2026 revenue of US$3.74b and net income of US$462m, issued guidance for low 30% revenue growth in the fourth quarter, and filed an omnibus shelf registration covering equity, debt, warrants and units. The quarter highlighted Shopify’s heavier tilt toward merchant solutions and AI driven commerce tools, including a partnership with Meta’s Muse agent that ties Shop Pay more directly to transaction volume on major social platforms. We will look at how Shopify's...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-shopify-shop-011010918.html?.tsrc=rss",
-   "published": "2026-11-12T01:10:10+00:00",
-   "tickers": [
-    "SHOP"
-   ],
-   "summary_ko": [
-    "쇼피파이는 3분기 매출과 순이익을 공개하고 4분기 매출 성장 가이던스를 제시했다고 다뤘다.",
-    "AI 상거래 도구와 메타와의 파트너십을 통해 상인 솔루션에 집중하고 있음을 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
