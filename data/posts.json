@@ -1,6 +1,740 @@
 {
- "updated": "2026-11-19T11:00:47.368408+00:00",
+ "updated": "2026-11-19T11:30:34.054818+00:00",
  "posts": [
+  {
+   "id": "ec83abcfab5def7c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Google’s No. 1 Move Against Anthropic Is Free AI, per Bill Gurley. Alphabet Will Own 14% of Anthropic",
+   "excerpt": "Key TakeawaysBill Gurley calls free AI Google’s No. 1 move against Anthropic, and Gemini Tasks just went free.",
+   "url": "https://www.tikr.com/blog/googles-no-1-move-against-anthropic-is-free-ai-per-bill-gurley-alphabet-will-own-14-of-anthropic?ref=yahoofinance&tlnk=yf-261119-2jq65vqq&.tsrc=rss",
+   "published": "2026-11-19T11:16:18+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "빌 걸리는 무료 AI 제공이 앤트로픽에 대응하는 구글의 주요 전략이라고 언급했다.",
+    "알파벳은 앤트로픽 지분 14%를 보유할 예정이며 제미나이 태스크가 무료로 전환되었다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "347974045d8c0df2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Your Nvidia Weight Sets How Much A Fall Hurts",
+   "excerpt": "Nvidia closed at $150.96 on Wednesday, Nov 18. That is 36.9% below its record close of $239.24 on Oct 6. Wednesday's 2.9% drop came the day after Nvidia's third-quarter report. Revenue rose 103% from a year earlier, to $115.8 billion.",
+   "url": "https://www.trefis.com/stock/nvda/articles/626647/your-nvidia-weight-sets-how-much-a-fall-hurts/2026-11-19?.tsrc=rss",
+   "published": "2026-11-19T11:13:05+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 수요일에 2.9% 하락 마감했다고 전했다.",
+    "이는 3분기 실적 발표 다음 날 발생했으며 전년 동기 대비 매출이 103% 증가했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "53d6fcdbbe48f34d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Alphabet Stock Down 30%?",
+   "excerpt": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://www.trefis.com/stock/googl/articles/626522/why-is-alphabet-stock-down-30/2026-11-19?.tsrc=rss",
+   "published": "2026-11-19T11:13:05+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "알파벳 주가가 30% 하락한 이유와 앤트로픽 주가 하락 가능성을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "a515edb260863389",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba (BABA) Stock Looks Like A Discounted Earnings Play",
+   "excerpt": "Alibaba Group Holding shares have dropped sharply over the past year, which puts the spotlight back on a simple question for you as an investor: Is the current price still aligned with what Alibaba earns today and what those earnings might support in the future? The stock is down 46.4% over the past year, so the market has already repriced Alibaba in a big way and that raises fresh questions about how its earnings should be valued. New AI offerings such as the Qwen4-Max model and ongoing...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-baba-stock-looks-discounted-111048779.html?.tsrc=rss",
+   "published": "2026-11-19T11:10:48+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바 주가가 작년 대비 큰 폭으로 하락하면서 현재 가격과 수익의 적절성에 대한 의문이 제기되었다고 다뤘다.",
+    "신규 AI 모델인 Qwen4-Max 등 새로운 서비스가 주목받고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "9ab6a812b0274960",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "iShares U.S. Transportation (IYT) Sells Union Pacific and Uber on Nov. 17",
+   "excerpt": "The $2.05 billion fund sold $119.3 million of stock, cutting all 44 positions and adding none.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-u-transportation-iyt-sells-110651714.html?.tsrc=rss",
+   "published": "2026-11-19T11:06:51+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": [
+    "iShares U.S. Transportation 펀드가 11월 17일에 유니온 파이시픽과 우버를 매도했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0b5ff2ecf188a4af",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "iShares Russell 3000 ETF (IWV) Buys $10.5 Million More Apple on Nov. 17",
+   "excerpt": "The $19.94 billion fund added $144.3 million in new exposure on Tuesday, increasing 2,470 positions and trimming none.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-3000-etf-iwv-110634387.html?.tsrc=rss",
+   "published": "2026-11-19T11:06:34+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "iShares Russell 3000 ETF가 11월 17일에 애플 주식을 추가 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "24f99fcf0ad94bfe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "First Trust NASDAQ-100 Tech (QTEC) Sells AppLovin and Texas Instruments on Tuesday",
+   "excerpt": "The fund sold $146.3 million of stock, with no buys and 42 positions reduced.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/first-trust-nasdaq-100-tech-110626243.html?.tsrc=rss",
+   "published": "2026-11-19T11:06:26+00:00",
+   "tickers": [
+    "APP"
+   ],
+   "summary_ko": [
+    "First Trust NASDAQ-100 Tech 펀드가 화요일에 앱러빈과 텍사스 인스트루먼트를 매도했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "11ae968cebab7585",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan Nasdaq Equity Premium Income (JEPQ) Adds Apple and Microsoft on Nov. 17",
+   "excerpt": "The fund bought $166.8 million of stocks, lifting all 82 positions and selling nothing.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-nasdaq-equity-premium-income-110557529.html?.tsrc=rss",
+   "published": "2026-11-19T11:05:57+00:00",
+   "tickers": [
+    "AAPL",
+    "MSFT",
+    "JPM"
+   ],
+   "summary_ko": [
+    "JPMorgan Nasdaq Equity Premium Income 펀드가 11월 17일에 애플과 마이크로소프트를 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b160b56403efb1d4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "iShares Expanded Tech-Software (IGV) Sells $17.3 Million More Microsoft on Nov. 17",
+   "excerpt": "The fund sold $186.2 million of stock and bought nothing, cutting 103 positions while adding no new ones.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-expanded-tech-software-igv-110546407.html?.tsrc=rss",
+   "published": "2026-11-19T11:05:46+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "iShares Expanded Tech-Software 펀드가 11월 17일에 마이크로소프트 주식을 추가 매도했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "05d2d83466e2e60b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Invesco S&P 500 Equal Weight (RSP) Buys $0.6 Million More AppLovin on Nov. 17",
+   "excerpt": "The fund added $212.6 million across all 503 holdings, with AppLovin, Viatris and Fiserv each drawing about $0.6 million.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-equal-weight-110538799.html?.tsrc=rss",
+   "published": "2026-11-19T11:05:38+00:00",
+   "tickers": [
+    "APP"
+   ],
+   "summary_ko": [
+    "Invesco S&P 500 Equal Weight 펀드가 11월 17일에 앱러빈 등을 추가 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ee70b9501072c888",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What State Street Consumer Discretionary SPDR (XLY) Sold: Amazon Leads on Nov. 17",
+   "excerpt": "The fund sold $216.7 million of stock on Tuesday, Nov. 17, cutting all 47 of its positions and buying nothing.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-discretionary-spdr-110530754.html?.tsrc=rss",
+   "published": "2026-11-19T11:05:30+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "State Street Consumer Discretionary SPDR 펀드가 11월 17일에 아마존을 중심으로 포지션을 매도했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "c2f638822eda2bcc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "iShares Russell 1000 Growth (IWF) Buys $26.7 Million More NVIDIA on Nov. 17",
+   "excerpt": "The fund added $220.9 million in new exposure across 359 positions, with NVIDIA, Apple and Microsoft leading the buys.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-1000-growth-iwf-110519538.html?.tsrc=rss",
+   "published": "2026-11-19T11:05:19+00:00",
+   "tickers": [
+    "NVDA",
+    "AAPL",
+    "MSFT"
+   ],
+   "summary_ko": [
+    "iShares Russell 1000 Growth 펀드가 11월 17일에 엔비디아를 추가 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ae7e6aa53fd07bf8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Proshares Trust (TQQQ) Bought: Apple Leads on Nov. 17",
+   "excerpt": "The leveraged ETF added $221.4 million in gross buys across all 101 positions, with Apple's $19.5 million purchase the largest.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-bought-apple-110512618.html?.tsrc=rss",
+   "published": "2026-11-19T11:05:12+00:00",
+   "tickers": [
+    "AAPL",
+    "TQQQ"
+   ],
+   "summary_ko": [
+    "Proshares Trust 레버리지 ETF가 11월 17일에 애플을 비롯한 종목들을 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "6bec0037a714bfc2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Nov. 17",
+   "excerpt": "The fund cut all 60 of its positions, selling $250.1 million of stock, led by Eli Lilly at $42.3 million.",
+   "url": "https://finance.yahoo.com/healthcare/articles/state-street-health-care-spdr-110508688.html?.tsrc=rss",
+   "published": "2026-11-19T11:05:08+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": [
+    "State Street Health Care SPDR 펀드가 11월 17일에 일라이 릴리를 중심으로 포지션을 매도했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "4c225d15abb8e70f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Rivian Is Growing Nearly Twice as Fast as Ferrari, but Does That Make It a Better Stock to Buy for 2027?",
+   "excerpt": "Two vastly different approaches to the automotive business reveal why investors may need to look beyond revenue growth when choosing between these stocks.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/19/rivian-is-growing-nearly-twice-as-fast-as-ferrari-but-does-that-make-it-a-better-stock-to-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-19T11:05:02+00:00",
+   "tickers": [
+    "RIVN"
+   ],
+   "summary_ko": [
+    "리비안의 성장 속도가 페라리보다 빠르다는 점을 언급하며 자동차 사업의 서로 다른 접근 방식을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "15b856adcfab3101",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "iShares PHLX SOX Semiconductor (SOXX) Sells $24.6 Million More AMD on Tuesday",
+   "excerpt": "The fund sold $252.7 million of stock and bought nothing, cutting all 30 of its positions.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110501423.html?.tsrc=rss",
+   "published": "2026-11-19T11:05:01+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "SOXX 펀드가 화요일에 AMD 주식 2,460만 달러어치를 매도했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "be987225bd00531b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "iShares A.I. Innovation and Tech Active ETF (BAI) Adds AMD and Broadcom on Nov. 17",
+   "excerpt": "The fund bought $298.8 million of stock and sold nothing, lifting 39 positions.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-innovation-tech-active-etf-110450107.html?.tsrc=rss",
+   "published": "2026-11-19T11:04:50+00:00",
+   "tickers": [
+    "AMD",
+    "AVGO"
+   ],
+   "summary_ko": [
+    "BAI 펀드가 11월 17일에 AMD와 브로드컴 주식을 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "8f9f5e720cc6f858",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What State Street Technology SPDR (XLK) Sold: Apple Leads on Nov. 17",
+   "excerpt": "The fund shed $302.0 million in positions on Tuesday, with Apple, Nvidia and Microsoft accounting for the largest sales.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-technology-spdr-xlk-110445792.html?.tsrc=rss",
+   "published": "2026-11-19T11:04:45+00:00",
+   "tickers": [
+    "NVDA",
+    "AAPL",
+    "MSFT"
+   ],
+   "summary_ko": [
+    "XLK 펀드가 애플, 엔비디아, 마이크로소프트 등의 포지션을 매도했다고 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4c4aaf6c3fdd9ff5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why ASML Holding (ASML)’s Monopoly in EUV Technology Gives It a Powerful Competitive Advantage",
+   "excerpt": "We just published our list, Ken Fisher Portfolio Review: 10 Highest-Conviction Technology Stocks for Long-Term Growth, and Cisco Systems, Inc. ranked 6th on this list. Ken Fisher, founder and former CEO of Fisher Asset Management, has historically maintained a constructive, growth-oriented view of technology stocks. His investment philosophy centers around companies with strong long-term growth […]",
+   "url": "https://finance.yahoo.com/technology/articles/why-asml-holding-asml-monopoly-110444090.html?.tsrc=rss",
+   "published": "2026-11-19T11:04:44+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "summary_ko": [
+    "ASML의 EUV 기술 독점이 강력한 경쟁 우위를 제공한다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2b164290bb5fb5f5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Direxion Daily Tech Bull 3X (TECL) Sells $56.5 Million of Apple on Nov. 17",
+   "excerpt": "The 3x leveraged tech ETF sold $329.0 million of stock and bought nothing, cutting all 76 of its positions on Tuesday, Nov. 17.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-tech-bull-3x-110441100.html?.tsrc=rss",
+   "published": "2026-11-19T11:04:41+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "TECL 펀드가 11월 17일에 애플 주식 5,650만 달러어치를 매도했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "113096ec1f2a94be",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Buy UnitedHealth Group Stock For Its Cash?",
+   "excerpt": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://www.trefis.com/stock/unh/articles/626756/should-you-buy-unitedhealth-group-stock-for-its-cash/2026-11-19?.tsrc=rss",
+   "published": "2026-11-19T11:04:38+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": [
+    "유나이티드헬스 그룹 주식의 현금 관련 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "64cdf1f9b9543116",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "State Street Consumer Staples SPDR (XLP) Sells $48.7 Million of Walmart on Nov. 17",
+   "excerpt": "The $14.79 billion fund sold $429.9 million across all 33 of its positions and bought nothing.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110437927.html?.tsrc=rss",
+   "published": "2026-11-19T11:04:37+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "XLP 펀드가 11월 17일에 월마트 주식 4,870만 달러어치를 매도했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "b430222147585bfc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What iShares Core S&P 500 ETF (IVV) Bought: Apple Leads on Nov. 17",
+   "excerpt": "The fund added $549.3 million in net buys on Tuesday, increasing 498 positions and trimming none.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-500-etf-110421328.html?.tsrc=rss",
+   "published": "2026-11-19T11:04:21+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "IVV 펀드가 11월 17일에 애플 주식을 중심으로 순매수했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "94661bcfef00fe87",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SPDR S&P 500 ETF (SPY) Adds Apple and Nvidia on Nov. 17",
+   "excerpt": "The fund bought $1.35 billion of stock and sold nothing, lifting all 503 of its positions.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110414065.html?.tsrc=rss",
+   "published": "2026-11-19T11:04:14+00:00",
+   "tickers": [
+    "NVDA",
+    "AAPL"
+   ],
+   "summary_ko": [
+    "SPY 펀드가 11월 17일에 애플과 엔비디아 주식을 매수했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ba3ec16ff950ba26",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Invesco QQQ (QQQ) Sells Apple and Microsoft on Nov. 17",
+   "excerpt": "The $457.88 billion fund sold $1.64 billion of stock and bought nothing, cutting all 101 positions.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-sells-apple-110410162.html?.tsrc=rss",
+   "published": "2026-11-19T11:04:10+00:00",
+   "tickers": [
+    "AAPL",
+    "MSFT",
+    "QQQ"
+   ],
+   "summary_ko": [
+    "QQQ 펀드가 11월 17일에 애플과 마이크로소프트 주식을 매도했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6547a61ca523de74",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Are Net Sellers of Micron Technology (MU) on Nov. 17",
+   "excerpt": "ETFs sold $35.4 million of Micron stock, with 57 funds buying and 20 selling.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-micron-technology-110344675.html?.tsrc=rss",
+   "published": "2026-11-19T11:03:44+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "11월 17일 ETF들이 마이크론 테크놀로지의 순매도세를 보였다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "36d7af75d2a88757",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Are Net Sellers of Advanced Micro Devices (AMD) on Nov. 17",
+   "excerpt": "ETFs sold a net $38.7 million of AMD shares, with 42 funds buying and 18 selling.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-advanced-micro-110328940.html?.tsrc=rss",
+   "published": "2026-11-19T11:03:28+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "11월 17일 ETF들이 AMD 주식을 순매도했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "0078f5c4ff2f194b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Are Net Sellers of Costco (COST) on Tuesday",
+   "excerpt": "Costco (COST) drew $45.7 million in net ETF selling in Tuesday's session.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-costco-cost-110318722.html?.tsrc=rss",
+   "published": "2026-11-19T11:03:18+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "코스트코가 화요일 ETF 거래에서 순매도세를 기록했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6cd63358c1f79eaa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba AI cloud revenue jumps 53% but earnings fall short of estimates",
+   "excerpt": "Investing.com -- Alibaba Group said revenue from its AI cloud and compute services jumped 53% in the September quarter, but adjusted earnings fell short of analyst estimates. Higher cloud infrastructure spending also widened its free cash outflow.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-cloud-revenue-jumps-110314481.html?.tsrc=rss",
+   "published": "2026-11-19T11:03:14+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바의 AI 클라우드 매출이 53% 증가했으나 조정 이익은 예상치를 밑돌았다고 밝혔다.",
+    "클라우드 인프라 지출 증가로 자유 현금 유출이 확대되었다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fbc05d584c0d59af",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Are Net Sellers of Palantir (PLTR) on Nov. 17",
+   "excerpt": "ETFs sold a net $50.2 million of Palantir (PLTR) on Nov. 17, with 39 buyers and 19 sellers.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-palantir-pltr-110311541.html?.tsrc=rss",
+   "published": "2026-11-19T11:03:11+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "11월 17일 ETF들이 팔란티어 주식을 순매도했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "886ad07e9973b359",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Are Net Sellers of Walmart (WMT) on Nov. 17",
+   "excerpt": "ETFs sold a net $51.2 million of Walmart stock on Tuesday, Nov. 17.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-walmart-wmt-110305093.html?.tsrc=rss",
+   "published": "2026-11-19T11:03:05+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "0faf331ccf9c11bf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Are Net Sellers of Intel (INTC) on Tuesday",
+   "excerpt": "Intel ETFs saw a net $51.7 million outflow on Tuesday, with 21 funds selling versus 40 buying.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-intel-intc-110259136.html?.tsrc=rss",
+   "published": "2026-11-19T11:02:59+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "aa94b721520d06f0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Are Net Sellers of Uber (UBER) on Nov. 17",
+   "excerpt": "ETFs sold a net $54.6 million of Uber (UBER) on Tuesday, Nov. 17.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-uber-uber-110248897.html?.tsrc=rss",
+   "published": "2026-11-19T11:02:48+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "49c51ec8ed1720c5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Are Net Sellers of Salesforce (CRM) on Nov. 17",
+   "excerpt": "ETFs sold a net $141.9 million of Salesforce (CRM) on Tuesday, with 16 funds cutting stakes against 33 adding.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-salesforce-crm-110234609.html?.tsrc=rss",
+   "published": "2026-11-19T11:02:34+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "3749a51a8193d256",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 17",
+   "excerpt": "ETFs sold $151.5 million in Taiwan Semiconductor (TSM) shares on Tuesday.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-taiwan-semiconductor-110227646.html?.tsrc=rss",
+   "published": "2026-11-19T11:02:27+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "cbb1a7d3fee11504",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Are Buying Bank of America (BAC) on Tuesday",
+   "excerpt": "ETFs bought $32.2 million of Bank of America stock on Tuesday, Nov. 17.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-bank-america-bac-110214667.html?.tsrc=rss",
+   "published": "2026-11-19T11:02:14+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "eee95c9a2128bab5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon (AMZN) Sees $36.7 Million in Net ETF Buying on Nov. 17",
+   "excerpt": "Fifty-one ETFs bought Amazon shares versus 15 that sold on Tuesday.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-sees-36-7-110205191.html?.tsrc=rss",
+   "published": "2026-11-19T11:02:05+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f9948c83a860f432",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Futures Climb Ahead Of Anthropic's Nasdaq Debut — NVDA, BABA, TTWO, SLS Stocks In Focus",
+   "excerpt": "Oil futures edged higher as traders weighed supply glut concerns against rising tensions in the Strait of Hormuz.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/stock-futures-climb-ahead-of-anthropic-s-nasdaq-debut-nvda-baba-ttwo-sls-stocks-in-focus/cNbiED8R9iw?.tsrc=rss",
+   "published": "2026-11-19T11:02:03+00:00",
+   "tickers": [
+    "NVDA",
+    "BABA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "ab48faab280588fa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Are Buying ExxonMobil (XOM) on Nov. 17",
+   "excerpt": "ETFs bought $41.8 million of ExxonMobil stock on Tuesday.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-exxonmobil-xom-nov-110201088.html?.tsrc=rss",
+   "published": "2026-11-19T11:02:01+00:00",
+   "tickers": [
+    "XOM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "4392e07083c3067a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "41 ETFs Add to UnitedHealth (UNH) Holdings on Nov. 17",
+   "excerpt": "ETFs bought a net $42.3 million of UnitedHealth stock, with 41 buyers against 15 sellers.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/41-etfs-add-unitedhealth-unh-110155115.html?.tsrc=rss",
+   "published": "2026-11-19T11:01:55+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "d8c2ad50e9b90abc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet (GOOG) Sees $52 Million in Net ETF Buying on Tuesday",
+   "excerpt": "ETFs added $52 million of Alphabet (GOOG) shares, with 46 funds buying and 13 selling.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-sees-52-million-110136028.html?.tsrc=rss",
+   "published": "2026-11-19T11:01:36+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "bbb838982e6ac246",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETFs Bought $82.9 Million of Broadcom (AVGO) on Nov. 17",
+   "excerpt": "Broadcom shares saw net ETF buying of $82.9 million on Tuesday.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-82-9-million-110119740.html?.tsrc=rss",
+   "published": "2026-11-19T11:01:19+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "d3dcbd195a74fd7d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ETF Activity: QQQ Outflows Lead Fund Moves on Nov. 17",
+   "excerpt": "Large-cap tech funds led a mixed day as broad-market inflows offset sector-level selling.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/etf-activity-qqq-outflows-lead-110012726.html?.tsrc=rss",
+   "published": "2026-11-19T11:00:12+00:00",
+   "tickers": [
+    "QQQ"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "db1cf9da07093dee",
    "kind": "news",
@@ -18,6 +752,38 @@
     "그는 앤스로픽 투자를 닷컴 시대의 구글 매수에 비유하며 여전히 긍정적인 전망을 유지했다고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "7af3927f9a491de8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Elon Musk Reportedly Says Tesla Will Continue To Increase Production In China – TSLA Stock Rises Premarket",
+   "excerpt": "Musk met with Ren Hongbin, chairman of the China Council for the Promotion of International Trade, and pledged higher output from its biggest production hub, according to a Reuters report citing Chinese state media.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-reportedly-says-tesla-will-continue-to-increase-production-in-china-tsla-stock-rises/cNbi3sVR9iv?.tsrc=rss",
+   "published": "2026-11-19T10:59:22+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "7488e458534135ec",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto’s AI Ambitions Come With A Catch — Why Morningstar Calls PANW’s $4.5B Deal 'Risky'",
+   "excerpt": "Morningstar kept its $300 fair value estimate for Palo Alto and sees the company as a cybersecurity leader with a “wide economic moat.”",
+   "url": "https://stocktwits.com/news-articles/markets/equity/palo-alto-s-ai-ambitions-come-with-a-catch-why-morningstar-calls-panw-s-4-5-b-deal-risky/cNbi3p9R9iH?.tsrc=rss",
+   "published": "2026-11-19T10:56:53+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "3be26a1674874159",
@@ -61314,57 +62080,6 @@
     "아이온큐의 향후 5년 동안의 주가 전망을 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "fc076d73ed69239c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla FSD Gains Ground in Europe: Is EU-Wide Approval Near?",
-   "excerpt": "TSLA's FSD expansion gains momentum with Finland's approval. But can it gain EU-wide approval and unlock a bigger software revenue opportunity?",
-   "url": "https://finance.yahoo.com/technology/ai/articles/tesla-fsd-gains-ground-europe-112700383.html?.tsrc=rss",
-   "published": "2026-11-12T11:27:00+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라의 FSD가 핀란드의 승인을 받으며 유럽 내 확장에 속도를 내고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "6a14dc7d369c47a1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Can IonQ's Latest Carahsoft Deal Accelerate Federal Quantum Adoption?",
-   "excerpt": "IONQ's Carahsoft partnership aims to expand federal access to quantum computing, networking, sensing and security as government commitment to quantum innovation grows.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/ionqs-latest-carahsoft-deal-accelerate-111100359.html?.tsrc=rss",
-   "published": "2026-11-12T11:11:00+00:00",
-   "tickers": [
-    "IONQ"
-   ],
-   "summary_ko": [
-    "아이온큐와 카라소프트의 파트너십이 연방 정부의 양자 컴퓨팅 도입을 가속화할 수 있을지 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c12779306548dd3c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "State Street Health Care SPDR (XLV) Adds Eli Lilly and Johnson & Johnson on Nov. 10",
-   "excerpt": "The fund bought $132.2 million of stock, increasing all 60 of its positions and selling nothing.",
-   "url": "https://finance.yahoo.com/healthcare/articles/state-street-health-care-spdr-110554537.html?.tsrc=rss",
-   "published": "2026-11-12T11:05:54+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "summary_ko": [
-    "스테이트 스트리트 헬스케어 SPDR 펀드가 일라이 릴리와 존슨앤드존슨 주식을 매수했다고 전했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
