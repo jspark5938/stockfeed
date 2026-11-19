@@ -1,6 +1,112 @@
 {
- "updated": "2026-11-19T03:00:39.162922+00:00",
+ "updated": "2026-11-19T03:30:30.593314+00:00",
  "posts": [
+  {
+   "id": "e40c519ce31265c2",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "Nvidia's BIG test: Can AI stocks rebound?",
+   "excerpt": "RIA Advisors chief investment strategist Lance Roberts joins ‘Making Money’ to examine Nvidia's stock performance, elevated valuations in consumer staples and trading strategies amid market volatility. #makingmoneywithcharlespayne #nvidia #nvda Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network cont",
+   "url": "https://www.youtube.com/watch?v=po76BRI8c_8",
+   "published": "2026-11-19T03:15:15+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "전문가가 출연해 엔비디아의 주가 흐름과 시장 변동성 속 거래 전략을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "aaaba1cc24c192d6",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm",
+   "excerpt": "Bloomberg's Ian King said that despite the Nvidia board's claims they have not begun the recruitment process for a new CEO, the firm hired to oversee the process has reached out to ARM Holdings CEO Renee Haas as a potential replacement for Jensen Huang. King said that after Nvidia earnings came in above estimates, investors still have questions about the future Nvidia that can't be answered until a new CEO is named. -------- Watch Bloomberg Radio LIVE on YouTube Weekdays 7am-6pm ET Saturday & Sunday 7am-10am ET WATCH HERE: Follow us on X: Subscribe to our Podcasts: Bloomberg Daybreak: Bloomberg Surveillance: Bloomberg Intelligence: Balance of Power: Bloomberg Businessweek: Listen on Apple CarPlay and Android Auto with the Bloomberg Business app: Apple CarPlay: Android Auto: Visit our YouTu",
+   "url": "https://www.youtube.com/watch?v=71tIg_ieOHc",
+   "published": "2026-11-19T03:06:25+00:00",
+   "tickers": [
+    "NVDA",
+    "AAPL"
+   ],
+   "summary_ko": [
+    "엔비디아 이사회 채용 대행사가 암(ARM) CEO에게 접촉했다고 보도됐다.",
+    "투자자들은 향후 새로운 CEO 선임 문제에 관심을 기울이고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "de321db18e1092aa",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Anthropic Is Said to Price IPO at $83 Per Share",
+   "excerpt": "Anthropic PBC has priced its IPO at $83 per share, according to people familiar with the matter. The size of the offering has increased, the people said, asking not to be identified as the information isn’t public. The IPO is expected to price Wednesday and trade Thursday on the Nasdaq under the symbol ANT. Ed Ludlow, Bloomberg Tech host, reports ahead of trading tomorrow. -------- Watch Bloomberg Radio LIVE on YouTube Weekdays 7am-6pm ET Saturday & Sunday 7am-10am ET WATCH HERE: Follow us on X: Subscribe to our Podcasts: Bloomberg Daybreak: Bloomberg Surveillance: Bloomberg Intelligence: Balance of Power: Bloomberg Businessweek: Listen on Apple CarPlay and Android Auto with the Bloomberg Business app: Apple CarPlay: Android Auto: Visit our YouTube channels: Bloomberg Podcasts: Bloomberg T",
+   "url": "https://www.youtube.com/watch?v=ubbOYYDMcAM",
+   "published": "2026-11-19T03:06:12+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "앤스로픽이 기업공개(IPO) 공모가를 주당 83달러로 책정했다고 보도됐다.",
+    "이번 공모 규모는 확대되었으며 나스닥에서 거래될 예정이다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "490ba0a623d99c1b",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Jane Fraser on IPO Pipeline, AI, & Interest Rate Outlook",
+   "excerpt": "Jane Fraser, Citi's Chair and CEO, says NVIDIA’s better-than-expected earnings and increased guidance were not the only issues investors were weighing; they were also focused on whether AI-related financing would continue and who would lead the company next. She speaks with Lisa Abramowicz at Bloomberg Newsmakers. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Pol",
+   "url": "https://www.youtube.com/watch?v=icmcCU7kqn4",
+   "published": "2026-11-19T03:06:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "씨티 CEO는 엔비디아 실적 외에도 AI 자금 조달 지속성과 차기 리더십에 주목했다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "6e558123b32593fc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon and Google face a 10-year AI supply chain problem",
+   "excerpt": "A proposed equipment ban could complicate the technology behind everyday services.",
+   "url": "https://www.thestreet.com/technology/amazon-and-google-face-a-10-year-ai-supply-chain-problem?.tsrc=rss",
+   "published": "2026-11-19T03:03:00+00:00",
+   "tickers": [
+    "GOOGL",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존과 구글이 10년에 걸친 AI 공급망 문제에 직면했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "68cbf0ab543c26d4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Asian stocks drop as Anthropic's record IPO fails to reassure",
+   "excerpt": "Asian stocks mostly fell Thursday as a record IPO from Claude-creator Anthropic failed to settle nerves on trading floors as they deal with the fallout from the crisis engulfing AI titan Nvidia.The mood on trading floors was also dimmed by minutes from the Fed's last meeting in October showing \"almost all\" policymakers expected further hikes to be necessary.",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-drop-anthropics-record-025108034.html?.tsrc=rss",
+   "published": "2026-11-19T02:51:08+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "앤스로픽의 IPO에도 불구하고 엔비디아 관련 여파로 아시아 증시가 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "a5e0ee054f939335",
    "kind": "news",
@@ -2379,6 +2485,23 @@
    ],
    "summary_ko": [
     "젠슨 황 사임 후 첫 실적 발표에서 엔비디아가 오픈 모델의 성장을 조명했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f923f7a18b411084",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "INTC Stock Layoffs: What to Know as Intel Reportedly Conducts Another Round of Job Cuts",
+   "excerpt": "Intel has reportedly started a fresh wave of layoffs. Does that warrant buying or selling INTC shares? Let’s find out!",
+   "url": "https://www.barchart.com/story/news/8904649/intc-stock-layoffs-what-to-know-as-intel-reportedly-conducts-another-round-of-job-cuts?.tsrc=rss",
+   "published": "2026-11-18T21:18:23+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔이 추가적인 감원을 진행 중이라는 소식이 전해졌다."
    ],
    "tone": "neu"
   },
@@ -59992,42 +60115,6 @@
     "조비 에비에이션은 3분기 매출 호조와 전망 상향에 힘입어 최근 일주일간 주가가 상승했다고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "36bf23d3270b3d43",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Rigetti Computing (RGTI) Following Q3 Results Is The Stock Fully Valued",
-   "excerpt": "Rigetti Computing (RGTI) just posted third quarter 2026 results that paired softer sales of US$1.41 million with a sharply smaller net loss of US$3.14 million, immediately putting profitability trends and cash usage in focus for investors. Rigetti Computing’s share price reaction has been harsh, with the stock falling 8.56% on the day of the release and down 16.15% over the past month. This extends a year to date share price decline of 52.92%, even though the three year total shareholder...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/rigetti-computing-rgti-following-q3-031807865.html?.tsrc=rss",
-   "published": "2026-11-12T03:18:07+00:00",
-   "tickers": [
-    "RGTI"
-   ],
-   "summary_ko": [
-    "리게티 컴퓨팅은 3분기 실적에서 매출 141만 달러와 순손실 314만 달러를 기록했다고 다뤘다.",
-    "실적 발표 이후 주가는 큰 폭으로 하락했다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "3b72e1bafef9840d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Can Oklo (OKLO) Be Below Fair Value After Groves Progress?",
-   "excerpt": "Oklo has been volatile, with big gains over the past few years and fresh attention on its advanced nuclear projects. The obvious question now is whether the current share price lines up with what its balance sheet is actually worth. Over the past 5 years the stock has returned about 161.5%, which puts a lot of weight on whether the underlying book value can support that kind of repricing. Recent progress on the Groves reactor platform and Aurora deployments can shape expectations for future...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-below-fair-value-031445412.html?.tsrc=rss",
-   "published": "2026-11-12T03:14:45+00:00",
-   "tickers": [
-    "OKLO"
-   ],
-   "summary_ko": [
-    "오클로는 최근 변동성을 보이며 첨단 원자력 프로젝트로 주목을 받고 있다고 전했다.",
-    "그로브스 원자로 플랫폼과 오로라 배치 진행 상황이 향후 기대치에 영향을 줄 수 있다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
