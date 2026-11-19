@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-19T01:30:37.730391+00:00",
+ "updated": "2026-11-19T01:59:51.288387+00:00",
  "posts": [
+  {
+   "id": "4f381b876690b5dd",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Microsoft CEO Satya Nadella: Cyber defenses and infrastructure upgrades are all at a premium now",
+   "excerpt": "Microsoft CEO and Chairman Satya Nadella joins 'Mad Money' host Jim Cramer to talk the tech giant's AI ambitions, copilot usage, the Nvidia situation, the state of the global economy, and much more.",
+   "url": "https://www.youtube.com/watch?v=HkRemVx8UuM",
+   "published": "2026-11-19T01:45:36+00:00",
+   "tickers": [
+    "NVDA",
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트 CEO 사티아 나델라가 매드 머니에 출연해 AI 야망과 코파일럿 사용 등을 다뤘다.",
+    "현재 사이버 방어와 인프라 업그레이드가 모두 프리미엄 상태라고 강조했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "de56c182dee91f8b",
    "kind": "news",
@@ -106,6 +125,23 @@
    "summary_ko": [
     "전문가는 기술주 비중을 낮게 유지하는 전략에서 엔비디아와 ASML이 여전히 적합하다고 분석했다.",
     "대규모 기술주 투자보다는 신중한 AI 노출과 다변화를 선호한다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e1e3b53c0946ab1c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "excerpt": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-satya-nadella-explains-004256847.html?.tsrc=rss",
+   "published": "2026-11-19T00:42:56+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "사티아 나델라 CEO가 6만 명의 직원에게 자발적 퇴사를 권유한 이유를 설명했다."
    ],
    "tone": "neu"
   },
@@ -3404,6 +3440,23 @@
    ],
    "summary_ko": [
     "트럼프와 시진핑 주석이 APEC 정상회의에서 무역과 칩 수출 통제 등을 논의할 것으로 예상된다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "340224e72cd1718e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Ahead of Walmart Earnings, Here's What Barchart Data Says Comes Next for WMT Stock",
+   "excerpt": "Walmart is set to report its fiscal Q3 earnings on Thursday. Here’s how data suggests you should play WMT shares heading into the quarterly release.",
+   "url": "https://www.barchart.com/story/news/8902987/ahead-of-walmart-earnings-here-s-what-barchart-data-says-comes-next-for-wmt-stock?.tsrc=rss",
+   "published": "2026-11-18T19:24:47+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트의 3분기 실적 발표를 앞두고 바차트 데이터를 바탕으로 향후 주가 흐름을 다뤘다."
    ],
    "tone": "neu"
   },
@@ -59697,40 +59750,6 @@
    "summary_ko": [
     "쇼피파이는 3분기 매출 37억 4천만 달러와 순손익 결과를 발표하며 밸류에이션이 주목받고 있다고 다뤘다.",
     "다음 분기 매출 성장률 가이던스를 제시했으며 최근 주가는 혼조세를 보였다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ea7ffea04d71ba6a",
-   "kind": "youtube",
-   "source": "Financial Education",
-   "author": "Financial Education",
-   "title": "AMD Investors‼️Shocking Development",
-   "excerpt": "",
-   "url": "https://www.youtube.com/shorts/ou1JECedovg",
-   "published": "2026-11-12T01:39:36+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "AMD 투자자들을 위한 내용이 예고되었다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7ec3f3248fab3c46",
-   "kind": "youtube",
-   "source": "Financial Education",
-   "author": "Financial Education",
-   "title": "AMD Investors‼️Shocking Development",
-   "excerpt": "",
-   "url": "https://www.youtube.com/watch?v=ou1JECedovg",
-   "published": "2026-11-12T01:39:36+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "AMD와 관련된 충격적인 소식이 있다는 내용을 다뤘다."
    ],
    "tone": "neu"
   }
