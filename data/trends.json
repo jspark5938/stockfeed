@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:30:30.833594+00:00",
+ "updated": "2026-11-19T08:00:37.731365+00:00",
  "trends": [
   {
    "ticker": "PANW",
@@ -44,18 +44,18 @@
    "ratio": 2.25
   },
   {
+   "ticker": "TSM",
+   "name_ko": "TSMC",
+   "mentions_24h": 17,
+   "mentions_prev_24h": 8,
+   "ratio": 2.12
+  },
+  {
    "ticker": "ORCL",
    "name_ko": "오라클",
    "mentions_24h": 23,
    "mentions_prev_24h": 12,
    "ratio": 1.92
-  },
-  {
-   "ticker": "TSM",
-   "name_ko": "TSMC",
-   "mentions_24h": 17,
-   "mentions_prev_24h": 9,
-   "ratio": 1.89
   },
   {
    "ticker": "COIN",
@@ -67,9 +67,9 @@
   {
    "ticker": "BABA",
    "name_ko": "알리바바",
-   "mentions_24h": 15,
+   "mentions_24h": 16,
    "mentions_prev_24h": 9,
-   "ratio": 1.67
+   "ratio": 1.78
   },
   {
    "ticker": "SBUX",
@@ -93,6 +93,13 @@
    "ratio": 1.33
   },
   {
+   "ticker": "SMCI",
+   "name_ko": "슈퍼마이크로",
+   "mentions_24h": 9,
+   "mentions_prev_24h": 7,
+   "ratio": 1.29
+  },
+  {
    "ticker": "QQQ",
    "name_ko": "나스닥100 ETF",
    "mentions_24h": 5,
@@ -107,11 +114,11 @@
    "ratio": 1.24
   },
   {
-   "ticker": "SMCI",
-   "name_ko": "슈퍼마이크로",
-   "mentions_24h": 9,
-   "mentions_prev_24h": 8,
-   "ratio": 1.12
+   "ticker": "COST",
+   "name_ko": "코스트코",
+   "mentions_24h": 17,
+   "mentions_prev_24h": 15,
+   "ratio": 1.13
   },
   {
    "ticker": "DELL",
@@ -121,17 +128,17 @@
    "ratio": 1.08
   },
   {
-   "ticker": "COST",
-   "name_ko": "코스트코",
-   "mentions_24h": 17,
-   "mentions_prev_24h": 16,
-   "ratio": 1.06
-  },
-  {
    "ticker": "WMT",
    "name_ko": "월마트",
    "mentions_24h": 20,
-   "mentions_prev_24h": 20,
+   "mentions_prev_24h": 19,
+   "ratio": 1.05
+  },
+  {
+   "ticker": "TSLA",
+   "name_ko": "테슬라",
+   "mentions_24h": 36,
+   "mentions_prev_24h": 36,
    "ratio": 1.0
   },
   {
@@ -163,11 +170,11 @@
    "ratio": 1.0
   },
   {
-   "ticker": "TSLA",
-   "name_ko": "테슬라",
-   "mentions_24h": 35,
-   "mentions_prev_24h": 37,
-   "ratio": 0.95
+   "ticker": "MU",
+   "name_ko": "마이크론",
+   "mentions_24h": 26,
+   "mentions_prev_24h": 27,
+   "ratio": 0.96
   },
   {
    "ticker": "CRM",
@@ -184,18 +191,11 @@
    "ratio": 0.94
   },
   {
-   "ticker": "MU",
-   "name_ko": "마이크론",
-   "mentions_24h": 26,
-   "mentions_prev_24h": 28,
-   "ratio": 0.93
-  },
-  {
    "ticker": "AMZN",
    "name_ko": "아마존",
    "mentions_24h": 66,
-   "mentions_prev_24h": 80,
-   "ratio": 0.82
+   "mentions_prev_24h": 79,
+   "ratio": 0.84
   },
   {
    "ticker": "GOOGL",
@@ -203,6 +203,13 @@
    "mentions_24h": 44,
    "mentions_prev_24h": 54,
    "ratio": 0.81
+  },
+  {
+   "ticker": "PLTR",
+   "name_ko": "팔란티어",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 14,
+   "ratio": 0.71
   },
   {
    "ticker": "AVGO",
@@ -214,16 +221,9 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 354,
-   "mentions_prev_24h": 517,
+   "mentions_24h": 353,
+   "mentions_prev_24h": 519,
    "ratio": 0.68
-  },
-  {
-   "ticker": "PLTR",
-   "name_ko": "팔란티어",
-   "mentions_24h": 10,
-   "mentions_prev_24h": 15,
-   "ratio": 0.67
   },
   {
    "ticker": "ABNB",
@@ -243,7 +243,14 @@
    "ticker": "AMD",
    "name_ko": "AMD",
    "mentions_24h": 21,
-   "mentions_prev_24h": 35,
+   "mentions_prev_24h": 34,
+   "ratio": 0.62
+  },
+  {
+   "ticker": "RIVN",
+   "name_ko": "리비안",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 5,
    "ratio": 0.6
   },
   {
@@ -296,15 +303,15 @@
    "ratio": 0.5
   },
   {
-   "ticker": "PFE",
-   "name_ko": "화이자",
-   "mentions_24h": 3,
-   "mentions_prev_24h": 6,
+   "ticker": "RKLB",
+   "name_ko": "로켓랩",
+   "mentions_24h": 5,
+   "mentions_prev_24h": 10,
    "ratio": 0.5
   },
   {
-   "ticker": "RIVN",
-   "name_ko": "리비안",
+   "ticker": "PFE",
+   "name_ko": "화이자",
    "mentions_24h": 3,
    "mentions_prev_24h": 6,
    "ratio": 0.5
@@ -329,13 +336,6 @@
    "mentions_24h": 16,
    "mentions_prev_24h": 35,
    "ratio": 0.46
-  },
-  {
-   "ticker": "RKLB",
-   "name_ko": "로켓랩",
-   "mentions_24h": 5,
-   "mentions_prev_24h": 11,
-   "ratio": 0.45
   },
   {
    "ticker": "ADBE",

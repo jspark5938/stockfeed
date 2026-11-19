@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-19T07:30:30.833594+00:00",
+ "updated": "2026-11-19T08:00:37.731365+00:00",
  "posts": [
+  {
+   "id": "1eeb3837c6bd1e8f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla to continue increasing China production, state media reports",
+   "excerpt": "Investing.com-- Tesla plans to continue increasing production in China, CCTV-affiliated Yuyuan Tantian reported on Thursday, citing CEO Elon Musk’s meeting with officials in Shenzhen.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-continue-increasing-china-production-074413868.html?.tsrc=rss",
+   "published": "2026-11-19T07:44:13+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "국영 매체 보도에 따르면 테슬라가 중국 내 생산을 계속 늘릴 계획이라고 전했다.",
+    "이는 일론 머스크 CEO가 선전시 관료들과 만난 자리에서 나온 내용이라고 설명했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "88f80075bc726eef",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘Near Zero Chance’: Gary Black Explains Why Nvidia Board Won’t Reconsider Jensen Huang, Crypto Bettors See This Outcome",
+   "excerpt": "Investor Gary Black dismissed speculation on Wednesday that the NVIDIA Corp. (NASDAQ: NVDA) board would reinstate ousted CEO Jensen Huang and cryptocurrency punters seem to agree. ‘The Board Would Look Like Clowns’ Black responded to X user Farzad, who finds...",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63418572/gary-black-nvidia-jensen-huang-ceo-polymarket?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "published": "2026-11-19T07:38:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "개리 블랙은 엔비디아 이사회가 젠슨 황을 교체할 가능성이 거의 없다고 주장했다.",
+    "일각의 추측에 대해 이사회가 어리석어 보일 것이라며 이를 일축했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "65948c7b2109d108",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Alibaba Stock Crashing Before Earnings?",
+   "excerpt": "Alibaba stock hit a 22-month low before earnings. A US chip rule, AI cash burn, and a shrinking buyback explain the drop.",
+   "url": "https://beincrypto.com/why-is-alibaba-stock-crashing/?.tsrc=rss",
+   "published": "2026-11-19T07:37:37+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "실적 발표를 앞두고 알리바바 주가가 22개월 만의 최저치로 하락했다고 다뤘다.",
+    "미국 반도체 규정, 인공지능 현금 소모, 자사주 매입 축소가 하락 이유라고 설명했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "13d307f9a5ccb239",
    "kind": "news",
