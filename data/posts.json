@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-19T04:30:30.397791+00:00",
+ "updated": "2026-11-19T05:00:37.983589+00:00",
  "posts": [
+  {
+   "id": "ae4ad3e05c2e48f4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Wall St’s $500 bln pledge to Nvidia yet to be mobilized, WSJ reports",
+   "excerpt": "Investing.com-- Wall Street’s biggest banks and asset managers had pledged up to $500 billion to help Nvidia customers finance chip purchases earlier this year, but no capital has been deployed to date, the Wall Street Journal reported on Wednesday.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-500-bln-pledge-044504722.html?.tsrc=rss",
+   "published": "2026-11-19T04:45:04+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "월스트리트가 엔비디아 고객의 칩 구매를 위해 약속한 자금이 아직 집행되지 않았다고 WSJ가 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "99a6ee8b0ebf6e13",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron (MU) Stock May Be 16% Undervalued Following Fresh AI Supply News",
+   "excerpt": "Micron Technology has swung from a sharp sector sell off in recent weeks to the center of the AI supply build out story. This puts a spotlight on a simple question for you as a shareholder or potential buyer: Is a price around US$705 per share adequately backed by the cash flows the memory producer can realistically generate over time, once the current excitement and anxiety around AI subsides? Over the past 3 years, Micron stock has delivered a return of a little more than 8x, which raises...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-may-16-043421943.html?.tsrc=rss",
+   "published": "2026-11-19T04:34:21+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론이 AI 공급망 구축 이야기의 중심에 서면서 주가 저평가 가능성을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "35f1298c718a8d16",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "iQIYI (IQ) Stock Sees Fair Value Cut After Analysts Lower Targets",
+   "excerpt": "iQIYI is back in focus after JPMorgan cut its price target from US$2.20 to US$1.20 and Goldman Sachs shifted from US$1.60 to US$1.40. With both firms now clustered in the US$1.20 to US$1.40 range and maintaining Neutral views, the tone around iQIYI has turned more measured, with risk and reward seen as more finely balanced at current levels. As you read on, you will see how these target moves fit into the wider story and what to watch as the iQIYI narrative evolves. Analyst Price Targets...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/iqiyi-iq-stock-sees-fair-043337461.html?.tsrc=rss",
+   "published": "2026-11-19T04:33:37+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "JP모건과 골드만삭스가 아이치이의 목표주가를 내린 후 주가 적정 가치도 하향 조정되었다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "62f3b6a0eb10a0b0",
    "kind": "news",
@@ -125,6 +176,23 @@
    "tone": "neu"
   },
   {
+   "id": "34c2b60fdbe3ddf6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Grant Cardone Called Jensen Huang 'Shameful' — 4 Days Later He Told Nvidia Employees 'You Know Better Than the Board' After a $600 Billion Wipeout",
+   "excerpt": "On the internet, four days is plenty of time to change your mind. One celebrity investor needed exactly that long to go from scolding Nvidia Corp.‘s (NASDAQ:NVDA) former CEO to leading the cheers for his return.Real estate investor and Cardone Capital CEO Grant Cardone is now urging Nvidia employees to push their own board to bring back co-founder Jensen Huang.“Nvidia bring Jensen back… employees stand up and have your voices heard!” Cardone wrote on X on Saturday. “You know better than the boar",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/grant-cardone-called-jensen-huang-034515675.html?.tsrc=rss",
+   "published": "2026-11-19T03:45:15+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "그랜트 카돈이 엔비디아 전 CEO와 관련된 발언 이후 직원들에게 이사회에 목소리를 내라고 촉구했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "9212f3f0ec6345de",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -209,6 +277,25 @@
     "스트래티지 주가가 시간 외 거래에서 회복세를 보였으나, 한 애널리스트는 비트코인 프리미엄 압박을 이유로 투자의견을 하향 조정했다고 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "d3a235e91817c67b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "EXCLUSIVE: Tesla Still Rules Leveraged ETFs, but Anthropic IPO and Micron’s Rise Signal What’s Next",
+   "excerpt": "The artificial intelligence trade is expanding beyond Nvidia Corp., with memory stocks emerging as another major focus for leveraged ETF traders. Micron Technology’s strong performance and growing interest in its leveraged products underscore how investors are targeting different layers of...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-tesla-still-rules-leveraged-033004009.html?.tsrc=rss",
+   "published": "2026-11-19T03:30:04+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA",
+    "MU"
+   ],
+   "summary_ko": [
+    "테슬라가 여전히 레버리지 ETF를 주도하는 가운데 마이크론의 상승 등이 다음 흐름을 시사한다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "aaf466c6181a3c6f",
@@ -60375,23 +60462,6 @@
     "엔비디아 CEO를 둘러싼 스캔들 속에서 AI 관련 산업이 직면한 과제를 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "13cbe1fb61df9dde",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Joby Aviation Just Gained 16% in a Week: Take Profits, or Buy More?",
-   "excerpt": "Key TakeawaysJoby Aviation stock is up 16% in the past week after third-quarter revenue beat estimates and Joby raised its 2026 revenue outlook 15%. Blade’s helicopters drove the beat, and most of the gain came as speculative stocks rallied, Archer Aviation included.",
-   "url": "https://www.tikr.com/blog/joby-aviation-just-gained-16-in-a-week-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261112-2pxwhf3h&.tsrc=rss",
-   "published": "2026-11-12T04:53:03+00:00",
-   "tickers": [
-    "JOBY"
-   ],
-   "summary_ko": [
-    "조비 에비에이션은 3분기 매출 호조와 전망 상향에 힘입어 최근 일주일간 주가가 상승했다고 전했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
