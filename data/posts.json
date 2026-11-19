@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-19T10:00:39.406212+00:00",
+ "updated": "2026-11-19T10:17:57.025400+00:00",
  "posts": [
+  {
+   "id": "f87857d7ac2918b3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies",
+   "excerpt": "Cybersecurity giant keeps real on the alarming number of network outages.",
+   "url": "https://finance.yahoo.com/technology/article/palo-alto-networks-ceo-just-dropped-a-truth-bomb-on-the-network-outages-sweeping-through-major-companies-101129581.html?.tsrc=rss",
+   "published": "2026-11-19T10:11:29+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트워크의 CEO가 최근 기업들의 대규모 네트워크 장애 사태에 대해 언급했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "cd6a8d75884f1b4c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Pfizer Will Pay Its 352nd Straight Quarterly Dividend on Dec. 7. Here's What It Would Take to Break the Streak.",
+   "excerpt": "Pfizer's dividend streak spans 88 years, and it would take a perfect storm to end it.",
+   "url": "https://www.fool.com/investing/2026/11/19/pfizer-will-pay-its-352nd-straight-quarterly-divid/?.tsrc=rss",
+   "published": "2026-11-19T10:04:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "summary_ko": [
+    "화이자가 352번째 분기 배당을 지급할 예정이며, 오랜 배당 기록을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "7a078ec17c6f67de",
    "kind": "news",
@@ -17,6 +51,24 @@
     "테슬라의 최고경영자 일론 머스크는 중국 공장의 생산량을 계속 늘릴 계획이라고 밝혔다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "2c5342feff7d7fcd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A philandering chief is not Nvidia’s worst problem. It’s the legal chip smuggling mess that comes next.",
+   "excerpt": "Nvidia faces scrutiny over suspected AI chip diversions to China, raising concerns about US export controls and restricted chip access.",
+   "url": "https://www.digitaltrends.com/computing/a-philandering-chief-is-not-nvidias-worst-problem-its-the-legal-chip-smuggling-mess-that-comes-next/?.tsrc=rss",
+   "published": "2026-11-19T09:37:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 중국으로의 AI 칩 우회 수출 의혹과 관련해 조사를 받고 있다고 다뤘다.",
+    "이로 인해 미국의 수출 통제와 칩 접근 제한에 대한 우려가 제기되고 있다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "688276628fb34e4a",
