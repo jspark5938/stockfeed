@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:30:43.358334+00:00",
+ "updated": "2026-11-19T01:00:46.493970+00:00",
  "trends": [
   {
    "ticker": "XOM",
@@ -30,18 +30,18 @@
    "ratio": 2.5
   },
   {
+   "ticker": "ASML",
+   "name_ko": "ASML",
+   "mentions_24h": 9,
+   "mentions_prev_24h": 4,
+   "ratio": 2.25
+  },
+  {
    "ticker": "BABA",
    "name_ko": "알리바바",
    "mentions_24h": 17,
    "mentions_prev_24h": 8,
    "ratio": 2.12
-  },
-  {
-   "ticker": "ASML",
-   "name_ko": "ASML",
-   "mentions_24h": 8,
-   "mentions_prev_24h": 4,
-   "ratio": 2.0
   },
   {
    "ticker": "QQQ",
@@ -65,6 +65,13 @@
    "ratio": 1.92
   },
   {
+   "ticker": "TSM",
+   "name_ko": "TSMC",
+   "mentions_24h": 18,
+   "mentions_prev_24h": 10,
+   "ratio": 1.8
+  },
+  {
    "ticker": "UNH",
    "name_ko": "유나이티드헬스",
    "mentions_24h": 15,
@@ -72,25 +79,11 @@
    "ratio": 1.67
   },
   {
-   "ticker": "TSM",
-   "name_ko": "TSMC",
-   "mentions_24h": 18,
-   "mentions_prev_24h": 11,
-   "ratio": 1.64
-  },
-  {
    "ticker": "MSTR",
    "name_ko": "스트래티지",
    "mentions_24h": 3,
    "mentions_prev_24h": 2,
    "ratio": 1.5
-  },
-  {
-   "ticker": "UBER",
-   "name_ko": "우버",
-   "mentions_24h": 12,
-   "mentions_prev_24h": 9,
-   "ratio": 1.33
   },
   {
    "ticker": "QCOM",
@@ -102,9 +95,9 @@
   {
    "ticker": "MSFT",
    "name_ko": "마이크로소프트",
-   "mentions_24h": 77,
-   "mentions_prev_24h": 59,
-   "ratio": 1.31
+   "mentions_24h": 76,
+   "mentions_prev_24h": 60,
+   "ratio": 1.27
   },
   {
    "ticker": "DELL",
@@ -133,6 +126,13 @@
    "mentions_24h": 9,
    "mentions_prev_24h": 8,
    "ratio": 1.12
+  },
+  {
+   "ticker": "UBER",
+   "name_ko": "우버",
+   "mentions_24h": 11,
+   "mentions_prev_24h": 10,
+   "ratio": 1.1
   },
   {
    "ticker": "AAPL",
@@ -187,15 +187,15 @@
    "ticker": "TSLA",
    "name_ko": "테슬라",
    "mentions_24h": 34,
-   "mentions_prev_24h": 37,
-   "ratio": 0.92
+   "mentions_prev_24h": 36,
+   "ratio": 0.94
   },
   {
    "ticker": "AMZN",
    "name_ko": "아마존",
-   "mentions_24h": 68,
+   "mentions_24h": 67,
    "mentions_prev_24h": 75,
-   "ratio": 0.91
+   "ratio": 0.89
   },
   {
    "ticker": "WMT",
@@ -228,8 +228,8 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 383,
-   "mentions_prev_24h": 483,
+   "mentions_24h": 382,
+   "mentions_prev_24h": 486,
    "ratio": 0.79
   },
   {
@@ -247,6 +247,13 @@
    "ratio": 0.75
   },
   {
+   "ticker": "GOOGL",
+   "name_ko": "알파벳(구글)",
+   "mentions_24h": 40,
+   "mentions_prev_24h": 54,
+   "ratio": 0.74
+  },
+  {
    "ticker": "NFLX",
    "name_ko": "넷플릭스",
    "mentions_24h": 8,
@@ -254,18 +261,25 @@
    "ratio": 0.73
   },
   {
-   "ticker": "GOOGL",
-   "name_ko": "알파벳(구글)",
-   "mentions_24h": 39,
-   "mentions_prev_24h": 54,
-   "ratio": 0.72
-  },
-  {
    "ticker": "NKE",
    "name_ko": "나이키",
    "mentions_24h": 21,
    "mentions_prev_24h": 29,
    "ratio": 0.72
+  },
+  {
+   "ticker": "ABNB",
+   "name_ko": "에어비앤비",
+   "mentions_24h": 2,
+   "mentions_prev_24h": 3,
+   "ratio": 0.67
+  },
+  {
+   "ticker": "PLTR",
+   "name_ko": "팔란티어",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 16,
+   "ratio": 0.62
   },
   {
    "ticker": "INTC",
@@ -282,18 +296,18 @@
    "ratio": 0.61
   },
   {
-   "ticker": "BA",
-   "name_ko": "보잉",
+   "ticker": "ADBE",
+   "name_ko": "어도비",
    "mentions_24h": 4,
    "mentions_prev_24h": 7,
    "ratio": 0.57
   },
   {
-   "ticker": "PLTR",
-   "name_ko": "팔란티어",
-   "mentions_24h": 9,
-   "mentions_prev_24h": 16,
-   "ratio": 0.56
+   "ticker": "BA",
+   "name_ko": "보잉",
+   "mentions_24h": 4,
+   "mentions_prev_24h": 7,
+   "ratio": 0.57
   },
   {
    "ticker": "LLY",
@@ -317,25 +331,11 @@
    "ratio": 0.5
   },
   {
-   "ticker": "ABNB",
-   "name_ko": "에어비앤비",
-   "mentions_24h": 2,
-   "mentions_prev_24h": 4,
-   "ratio": 0.5
-  },
-  {
    "ticker": "RKLB",
    "name_ko": "로켓랩",
    "mentions_24h": 5,
    "mentions_prev_24h": 11,
    "ratio": 0.45
-  },
-  {
-   "ticker": "ADBE",
-   "name_ko": "어도비",
-   "mentions_24h": 3,
-   "mentions_prev_24h": 7,
-   "ratio": 0.43
   },
   {
    "ticker": "PFE",

@@ -1,6 +1,95 @@
 {
- "updated": "2026-11-19T00:30:43.358334+00:00",
+ "updated": "2026-11-19T01:00:46.493970+00:00",
  "posts": [
+  {
+   "id": "aa2f46b01970a1b3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "UiPath vs. Palantir Technologies: Comparing Modest Revenue Growth vs. Rapid Expansion",
+   "excerpt": "Palantir's quarterly revenue has more than doubled over the past eight quarters, while UiPath's has stayed largely flat with recurring seasonal swings.",
+   "url": "https://www.fool.com/coverage/charts/2026/11/18/uipath-vs-palantir-technologies-comparing-modest-revenue-growth-vs-rapid-expansion/?.tsrc=rss",
+   "published": "2026-11-19T00:45:18+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "팔란티어의 분기 매출은 최근 8분기 동안 두 배 이상 증가했다고 다뤘다.",
+    "반면 유아이패스의 매출은 계절적 변동을 보이며 정체 상태를 유지했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "6b60abb080c05c68",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Nvidia and ASML still fit an underweight tech strategy",
+   "excerpt": "Crossmark Global Investments’ Victoria Fernandez sees room for a broader bull market, but she favors measured AI exposure, sector diversification, and intermediate-term bonds over an outsized technology bet.",
+   "url": "https://www.thestreet.com/investing/why-nvidia-and-asml-still-fit-an-underweight-tech-strategy?.tsrc=rss",
+   "published": "2026-11-19T00:44:54+00:00",
+   "tickers": [
+    "NVDA",
+    "ASML"
+   ],
+   "summary_ko": [
+    "전문가는 기술주 비중을 낮게 유지하는 전략에서 엔비디아와 ASML이 여전히 적합하다고 분석했다.",
+    "대규모 기술주 투자보다는 신중한 AI 노출과 다변화를 선호한다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0450f1872ce3dc1a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "GE Vernova Down 24%: What Would Its CEO Say?",
+   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+   "url": "https://www.trefis.com/stock/gev/articles/625753/ge-vernova-down-24-what-would-its-ceo-say/2026-11-18?.tsrc=rss",
+   "published": "2026-11-19T00:36:26+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "GE 베르노바의 주가 하락과 함께 엔비디아 주가 하락 가능성을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "525fcaa697c6ad69",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "After Nvidia’s Earnings, Here’s My Prediction for the Stock Price by the End of the Year",
+   "excerpt": "Nvidia stock has dropped more than 30% in just a few weeks.",
+   "url": "https://www.fool.com/investing/2026/11/18/after-nvidia-s-earnings-here-s-my-prediction-for-the-stock-price-by-the-end-of-the-year/?.tsrc=rss",
+   "published": "2026-11-19T00:25:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 실적 발표 이후 연말 주가에 대한 전망을 다뤘다.",
+    "엔비디아 주가가 몇 주 만에 30% 이상 하락했다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4a48ee83a20e5ba3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Elon Musk Says Nvidia Ousting Jensen Huang Is Like Kicking Michael Jordan Off A Winning Team",
+   "excerpt": "“I don’t think he’s disloyal to the United States,” Musk said about the former Nvidia CEO who was ousted after reports of romantic relations with a Chinese intelligence asset.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-says-nvidia-ousting-jensen-huang-is-like-kicking-michael-jordan-off-a-winning-team/cNbLpuMR9ie?.tsrc=rss",
+   "published": "2026-11-19T00:23:32+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "일론 머스크는 엔비디아 CEO의 퇴출을 우승팀에서 마이클 조던을 쫓아내는 것에 비유했다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "cbcc74c49fd98d27",
    "kind": "news",
@@ -75,6 +164,24 @@
     "타겟과 TJX는 실적 호조로 상승세를 보였다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "73778651248d5eed",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Google Signs Landmark Superhot Geothermal Deal",
+   "excerpt": "Google has signed a landmark 50-MW geothermal power deal with Quaise Energy, targeting electricity from superhot rocks in Oregon for its data centers starting in the early 2030s.",
+   "url": "https://finance.yahoo.com/energy/articles/google-signs-landmark-superhot-geothermal-000000944.html?.tsrc=rss",
+   "published": "2026-11-19T00:00:00+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "구글이 데이터 센터를 위해 퀘이스 에너지와 50MW 규모의 지열 발전 계약을 체결했다고 다뤘다.",
+    "2030년대 초부터 오리건주의 초고온 암석에서 전력을 공급받는 것을 목표로 한다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "fabad559362d4331",
@@ -3721,6 +3828,24 @@
    ],
    "summary_ko": [
     "AMD가 AI 추론 칩 관련 탈라스 인수 건을 마친 후 프리마켓에서 주가가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "392b135a7f827674",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Is Doubling Down on Adobe Stock. Here's Why.",
+   "excerpt": "Michael Burry says he’s recently loaded up on Adobe shares. Here’s why the famed investor remains bullish on ADBE stock.",
+   "url": "https://www.barchart.com/story/news/8902524/michael-burry-is-doubling-down-on-adobe-stock-here-s-why?.tsrc=rss",
+   "published": "2026-11-18T18:48:50+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "summary_ko": [
+    "마이클 버리가 어도비 주식을 추가 매수했다고 밝혔다.",
+    "해당 투자자가 어도비 주식에 대해 낙관적인 입장을 유지하고 있다고 전했다."
    ],
    "tone": "pos"
   },
@@ -59554,23 +59679,6 @@
     "AI 상거래 도구와 메타와의 파트너십을 통해 상인 솔루션에 집중하고 있음을 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "9ee75ee1a39c77cc",
-   "kind": "youtube",
-   "source": "Meet Kevin",
-   "author": "Meet Kevin",
-   "title": "*Caught on Camera* JENSEN is getting FIRED | 2nd Affair REVEALED",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: 📰 Nvidia (NVDA) news, 11-11-2026: The New York Times reports a second Jensen Huang affair, naming Kimberly Powell, Nvidia's VP of health care. Nvidia, Huang and Powell have not confirmed it. Minutes later, The Wall Street Journal reported the board is preparing to oust Huang. No decision has been announced. NVDA fell about 8% after hours. Kevin covers the board math (6 of 11 votes), Huang's 3.58% stake and the 11-17 earnings call. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course &",
-   "url": "https://www.youtube.com/watch?v=2I9KLQSHn_s",
-   "published": "2026-11-12T00:34:57+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "뉴욕타임스와 월스트리트저널 보도를 인용해 젠슨 황 관련 스캔들과 이사회의 해임 움직임을 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
