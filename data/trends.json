@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:30:35.684649+00:00",
+ "updated": "2026-11-19T06:00:38.481123+00:00",
  "trends": [
   {
    "ticker": "PANW",
@@ -44,6 +44,13 @@
    "ratio": 2.25
   },
   {
+   "ticker": "COIN",
+   "name_ko": "코인베이스",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 5,
+   "ratio": 2.0
+  },
+  {
    "ticker": "ORCL",
    "name_ko": "오라클",
    "mentions_24h": 23,
@@ -51,25 +58,11 @@
    "ratio": 1.92
   },
   {
-   "ticker": "COIN",
-   "name_ko": "코인베이스",
-   "mentions_24h": 9,
-   "mentions_prev_24h": 5,
-   "ratio": 1.8
-  },
-  {
    "ticker": "TSM",
    "name_ko": "TSMC",
    "mentions_24h": 17,
    "mentions_prev_24h": 10,
    "ratio": 1.7
-  },
-  {
-   "ticker": "BABA",
-   "name_ko": "알리바바",
-   "mentions_24h": 15,
-   "mentions_prev_24h": 9,
-   "ratio": 1.67
   },
   {
    "ticker": "SBUX",
@@ -84,6 +77,13 @@
    "mentions_24h": 16,
    "mentions_prev_24h": 10,
    "ratio": 1.6
+  },
+  {
+   "ticker": "BABA",
+   "name_ko": "알리바바",
+   "mentions_24h": 14,
+   "mentions_prev_24h": 9,
+   "ratio": 1.56
   },
   {
    "ticker": "QCOM",
@@ -193,16 +193,16 @@
   {
    "ticker": "GOOGL",
    "name_ko": "알파벳(구글)",
-   "mentions_24h": 44,
+   "mentions_24h": 45,
    "mentions_prev_24h": 53,
-   "ratio": 0.83
+   "ratio": 0.85
   },
   {
    "ticker": "AMZN",
    "name_ko": "아마존",
    "mentions_24h": 65,
-   "mentions_prev_24h": 79,
-   "ratio": 0.82
+   "mentions_prev_24h": 80,
+   "ratio": 0.81
   },
   {
    "ticker": "AVGO",
@@ -214,8 +214,8 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 361,
-   "mentions_prev_24h": 513,
+   "mentions_24h": 359,
+   "mentions_prev_24h": 516,
    "ratio": 0.7
   },
   {
@@ -242,23 +242,16 @@
   {
    "ticker": "NKE",
    "name_ko": "나이키",
-   "mentions_24h": 20,
-   "mentions_prev_24h": 31,
-   "ratio": 0.65
+   "mentions_24h": 19,
+   "mentions_prev_24h": 32,
+   "ratio": 0.59
   },
   {
    "ticker": "AMD",
    "name_ko": "AMD",
-   "mentions_24h": 21,
-   "mentions_prev_24h": 34,
-   "ratio": 0.62
-  },
-  {
-   "ticker": "UBER",
-   "name_ko": "우버",
-   "mentions_24h": 8,
-   "mentions_prev_24h": 13,
-   "ratio": 0.62
+   "mentions_24h": 20,
+   "mentions_prev_24h": 35,
+   "ratio": 0.57
   },
   {
    "ticker": "META",
@@ -287,6 +280,20 @@
    "mentions_24h": 5,
    "mentions_prev_24h": 9,
    "ratio": 0.56
+  },
+  {
+   "ticker": "JPM",
+   "name_ko": "JP모건",
+   "mentions_24h": 17,
+   "mentions_prev_24h": 34,
+   "ratio": 0.5
+  },
+  {
+   "ticker": "UBER",
+   "name_ko": "우버",
+   "mentions_24h": 7,
+   "mentions_prev_24h": 14,
+   "ratio": 0.5
   },
   {
    "ticker": "NFLX",
@@ -331,13 +338,6 @@
    "ratio": 0.5
   },
   {
-   "ticker": "JPM",
-   "name_ko": "JP모건",
-   "mentions_24h": 16,
-   "mentions_prev_24h": 34,
-   "ratio": 0.47
-  },
-  {
    "ticker": "ADBE",
    "name_ko": "어도비",
    "mentions_24h": 3,
@@ -354,9 +354,9 @@
   {
    "ticker": "DIS",
    "name_ko": "디즈니",
-   "mentions_24h": 15,
-   "mentions_prev_24h": 51,
-   "ratio": 0.29
+   "mentions_24h": 14,
+   "mentions_prev_24h": 52,
+   "ratio": 0.27
   },
   {
    "ticker": "HOOD",
