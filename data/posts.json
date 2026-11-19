@@ -1,6 +1,75 @@
 {
- "updated": "2026-11-19T10:17:57.025400+00:00",
+ "updated": "2026-11-19T10:30:32.281546+00:00",
  "posts": [
+  {
+   "id": "3b8113784de5044c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel and Microsoft agree long-term deal on Azure cloud hardware",
+   "excerpt": "The expanded partnership brings advanced packaging, next-generation Xeon chips, and enhanced memory and security capabilities to Azure.",
+   "url": "https://www.verdict.co.uk/intel-microsoft-deal-azure-cloud/?.tsrc=rss",
+   "published": "2026-11-19T10:19:08+00:00",
+   "tickers": [
+    "MSFT",
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔과 마이크로소프트가 애저 클라우드 하드웨어 분야에서 장기 계약을 체결했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f36bbee01aabec32",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks announces deal to buy Applied Compute for $4.5bn",
+   "excerpt": "The all-stock deal will help enterprise clients securely train, modify, and deploy open-weight AI models.",
+   "url": "https://www.verdict.co.uk/palo-alto-networks-to-buy-applied-compute/?.tsrc=rss",
+   "published": "2026-11-19T10:17:04+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스가 어라이드 컴퓨트를 45억 달러에 인수하는 계약을 발표했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "e0c1b5f90c575e89",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba: Fiscal Q2 Earnings Snapshot",
+   "excerpt": "HONG KONG (AP) — HONG KONG (AP) — Alibaba Group Holding Ltd. (BABA) on Thursday reported fiscal second-quarter profit of $9.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-fiscal-q2-earnings-snapshot-101400418.html?.tsrc=rss",
+   "published": "2026-11-19T10:14:00+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바 그룹이 목요일에 회계연도 2분기 실적을 보고했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "6641815f0052583a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba (BABA) Unveils Qwen4 Max With 62% Lower API Costs",
+   "excerpt": "Alibaba Group Holding (NYSE:BABA) introduced its new flagship AI model, Qwen4-Max, targeting enterprise users through Alibaba Cloud APIs. The Qwen4-Max release focuses on higher performance across professional tasks and aims to cut API usage costs for developers. Alibaba is positioning Qwen4-Max against leading global AI providers to make its cloud platform more attractive to corporate clients. The Qwen4-Max launch is only part of the story around Alibaba's broader AI investment and cloud...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-unveils-qwen4-max-101329268.html?.tsrc=rss",
+   "published": "2026-11-19T10:13:29+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바가 API 비용을 낮춘 새로운 AI 모델 큐웬4 맥스를 공개했다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "f87857d7ac2918b3",
    "kind": "news",
@@ -300,6 +369,23 @@
    "tone": "neu"
   },
   {
+   "id": "eaf1f3550c8371b0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "EA cofounder once compared interview questions with Amazon’s Andy Jassy—Jassy’s was so ruthless that no instant answer ends the interview",
+   "excerpt": "EA cofounder once compared interview questions with Amazon’s Andy Jassy—Jassy’s was so ruthless that no instant answer ends the interview on the spot",
+   "url": "https://finance.yahoo.com/small-business/articles/ea-cofounder-once-compared-interview-080200120.html?.tsrc=rss",
+   "published": "2026-11-19T08:02:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "EA 공동 창업자가 아마존 앤디 재시의 면접 질문이 매우 엄격했다고 언급한 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "1eeb3837c6bd1e8f",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -370,6 +456,23 @@
     "미국 반도체 규정, 인공지능 현금 소모, 자사주 매입 축소가 하락 이유라고 설명했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "c51bd9187b9a9039",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Guides 75% Growth. Gil Luria: “Maybe We Grow 25% to 50%.” Here’s What 10x Earnings Prices In",
+   "excerpt": "Key TakeawaysNvidia raised its fiscal 2028 revenue growth outlook to about 75%, from 70%, while analysts expect about 69%. D.",
+   "url": "https://www.tikr.com/blog/nvidia-guides-75-growth-gil-luria-maybe-we-grow-25-to-50-heres-what-10x-earnings-prices-in?ref=yahoofinance&tlnk=yf-261119-v73p6jp2&.tsrc=rss",
+   "published": "2026-11-19T07:33:37+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 회계연도 2028년 매출 성장 전망을 상향 조정한 내용을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "314b9e3a64063ef4",
