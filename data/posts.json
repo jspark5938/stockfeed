@@ -1,6 +1,329 @@
 {
- "updated": "2026-11-19T12:30:33.101442+00:00",
+ "updated": "2026-11-19T13:00:45.372997+00:00",
  "posts": [
+  {
+   "id": "813252967287747b",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Walmart CEO John Furner on Q3 results: Customers continue to look for value",
+   "excerpt": "Walmart CEO John Furner joins 'Squawk Box' to discuss the company's quarterly earnings results, state of the consumer, rise of agentic shopping, impact of tariffs and higher diesel costs, state of retail competition, and more.",
+   "url": "https://www.youtube.com/watch?v=WkMM5Aftyik",
+   "published": "2026-11-19T12:52:06+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트 CEO는 소비자들이 계속해서 가성비를 찾고 있다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4c5f68b8be705004",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron valuation looks ‘ridiculously cheap’ as Anthropic IPO could revive AI trade",
+   "excerpt": "Investing.com -- Semiconductor stocks have been caught in a growing wave of pessimism over the outlook for AI infrastructure spending, but Lynx Equity analyst KC Rajkumar believes investors are overlooking a critical distinction: slower data-center permitting does not necessarily mean weaker demand for chips.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/micron-valuation-looks-ridiculously-cheap-125036181.html?.tsrc=rss",
+   "published": "2026-11-19T12:50:36+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "데이터센터 허가가 느려졌다고 해서 칩 수요가 약화되는 것은 아니라고 분석가는 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2062f121e0239eff",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures Rise, Nasdaq Jumps: Anthropic To Debut After Record IPO; Palo Alto, Everpure Rally, Walmart Falls",
+   "excerpt": "Tech futures jumped on Palo Alto, Everpure and a strong Anthropic IPO , which will start trading as ANT. Walmart beat views.",
+   "url": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures-rise%2C.html?.tsrc=rss",
+   "published": "2026-11-19T12:47:04+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "앤스로픽 IPO와 실적을 웃돈 월마트 소식 등이 전해졌다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "6f65a4777960f616",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Anthropic's IPO should lift the AI trade, says Paul Meeks",
+   "excerpt": "Paul Meeks, Freedom Capital Markets head of technology research, joins 'Squawk Box' to discuss Anthropic's IPO debut, impact on the AI trade, Nvidia spy scandal fallout, and more.",
+   "url": "https://www.youtube.com/watch?v=i58L0YVXq_w",
+   "published": "2026-11-19T12:46:56+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "앤스로픽의 IPO가 AI 관련주 상승을 이끌 것이라고 폴 믹스가 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "a778b94aa50ee2d9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba Posts Strong AI Cloud Growth But Stock Falls On Mixed Earnings Report",
+   "excerpt": "Alibaba stock fell after earnings jumped but still fell short, while cash burn increased. Revenue beat views on AI and cloud growth.",
+   "url": "https://finance.yahoo.com/m/14e8f4f1-d644-33e2-b350-26f1a93b6ced/alibaba-posts-strong-ai-cloud.html?.tsrc=rss",
+   "published": "2026-11-19T12:44:42+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바는 AI와 클라우드 성장에 힘입어 매출은 예상을 웃돌았으나 주가는 하락했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "b756181e56c67b89",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Pfizer inks $2.6bn autoimmune deal with China’s Starna for CAR-T therapies",
+   "excerpt": "Pfizer is securing ex-China rights to three in vivo CAR-T programmes that are at the pre-IND stage.",
+   "url": "https://www.pharmaceutical-technology.com/news/pfizer-inks-2-6bn-autoimmune-deal-with-chinas-starna-for-car-t-therapies/?.tsrc=rss",
+   "published": "2026-11-19T12:41:32+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "summary_ko": [
+    "화이자는 중국 스타르나와 CAR-T 치료제 계약을 체결했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "4e00c94fa887787e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart beats third quarter expectations, raises guidance",
+   "excerpt": "Investing.com -- Walmart Inc. (NASDAQ: WMT) reported third-quarter results that exceeded analyst expectations, with adjusted earnings per share of $0.65 compared to the consensus estimate of $0.64. Revenue reached $188.8 billion, surpassing the $187.27 billion analyst estimate and marking a 5.2% increase from $179.5 billion in the prior-year period.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-beats-third-quarter-expectations-124112923.html?.tsrc=rss",
+   "published": "2026-11-19T12:41:12+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트는 3분기 실적이 시장 예상을 웃돌았고 가이던스를 상향 조정했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "5f9acdd40349afc4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "4 Stocks Analysts and Hedge Funds Surprisingly Prefer Over Tesla",
+   "excerpt": "Tesla keeps winning the headlines while its core profits shrink and its stock trades at a staggering multiple. Meanwhile, four quieter companies powering AI, advertising, and space are earning something Tesla can't: near-unanimous backing from the analysts and funds that watch them.",
+   "url": "https://247wallst.com/investing/2026/11/19/4-stocks-analysts-and-hedge-funds-surprisingly-prefer-over-tesla/?.tsrc=rss",
+   "published": "2026-11-19T12:39:06+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라의 이익이 줄어드는 사이 일부 기업들이 애널리스트들의 선호를 받고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "726e24c53463f70e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft’s CEO Says He’s “Extremely Sorry” for the Outlook Outage",
+   "excerpt": "Nadella admits Microsoft should have built better barriers before a hidden bug took down Outlook, Teams and Copilot. Investors shrugged, but one scenario could turn a one-day embarrassment into a costly pattern for customers and the stock.",
+   "url": "https://247wallst.com/investing/2026/11/19/microsofts-ceo-says-hes-extremely-sorry-for-the-outlook-outage/?.tsrc=rss",
+   "published": "2026-11-19T12:38:55+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트 CEO는 아웃룩 장애에 대해 사과했으며 원인과 영향을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "41ef92475e303cf9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Dates That Matter Most For Micron Stock",
+   "excerpt": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://www.trefis.com/stock/mu/articles/626781/the-dates-that-matter-most-for-micron-stock/2026-11-19?.tsrc=rss",
+   "published": "2026-11-19T12:37:19+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론 주식과 관련된 주요 날짜들에 대해 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5d4b2a5534d1e826",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Just Happened To UnitedHealth Stock?",
+   "excerpt": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://www.trefis.com/stock/unh/articles/626878/what-just-happened-to-unitedhealth-stock/2026-11-19?.tsrc=rss",
+   "published": "2026-11-19T12:37:19+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": [
+    "유나이티드헬스 주식에 발생한 일에 대해 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "174298c7381d8446",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Howard Lutnick’s family firm cut its Nvidia stake nearly in half before a 36% plunge. Now Congress wants its records",
+   "excerpt": "The timing raises questions about whether financial institutions with close ties to senior government officials have access to information that’s not available to ordinary investors.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/howard-lutnick-family-firm-cut-123000030.html?.tsrc=rss",
+   "published": "2026-11-19T12:30:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "하워드 루트닉의 가족 회사가 엔비디아 지분을 매각한 타이밍에 의문이 제기되었다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6d61eb9bac900f59",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla's China Business Sends Investors Two Very Different Signals",
+   "excerpt": "Elon Musk reaffirms Tesla's commitment to China as Shanghai factory deliveries exceed 810,000 vehicles.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-china-business-sends-investors-122724978.html?.tsrc=rss",
+   "published": "2026-11-19T12:27:24+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크는 중국 시장에 대한 의지를 재확인했으며 상하이 공장 출하량이 증가했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7b09dc146df7e224",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "President Trump Just Delivered Good News for Nvidia Stock Investors",
+   "excerpt": "Nvidia Gets a Surprise China Signal From Trump. Blackwell Sales May Be Years Away",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/president-trump-just-delivered-good-122719225.html?.tsrc=rss",
+   "published": "2026-11-19T12:27:19+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프 대통령이 엔비디아 투자자들에게 긍정적인 소식을 전했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "c5a1e1adc612da9d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba's AI Business Is Booming. Its Cash Flow Tells Another Story",
+   "excerpt": "Cloud growth and investment gains lift earnings, while AI spending weighs on cash flow.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/alibabas-ai-business-booming-cash-122711903.html?.tsrc=rss",
+   "published": "2026-11-19T12:27:11+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바는 클라우드 성장으로 이익이 늘었지만 AI 지출이 현금 흐름에 부담을 주었다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "252396aaf5a6094d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft's Reported $500 Million AI Deal Sparks Warning From Congress",
+   "excerpt": "U.S. lawmakers seek details of Microsoft's potential AI cloud agreement with ByteDance.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-reported-500-million-ai-122659711.html?.tsrc=rss",
+   "published": "2026-11-19T12:26:59+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "미국 의원들이 바이트댄스와의 AI 클라우드 협력에 대해 마이크로소프트에 세부 정보를 요구했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fc6e1dcbdd1bd8ad",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
+   "excerpt": "According to the Financial Times, TSMC and Samsung have notified consumer electronics customers of the shipment suspensions amid US export curbs.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/tsmc-samsung-reportedly-suspend-some-chip-deliveries-to-chinese-customers-amid-new-us-export-rules/cNbi7d3R9i6?.tsrc=rss",
+   "published": "2026-11-19T12:26:33+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": [
+    "미국의 새로운 수출 규정 속에서 TSMC와 삼성전자가 중국 고객에 대한 일부 칩 배송을 중단했다고 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "52e829259fbc9d7a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "UnitedHealth Shares Sink as New Federal Fraud Crackdown Sparks Healthcare Sell-Off",
+   "excerpt": "UnitedHealth, Humana and CVS Tumble as Medicare Fraud Proposal Rattles Insurers",
+   "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-shares-sink-federal-fraud-122529002.html?.tsrc=rss",
+   "published": "2026-11-19T12:25:29+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": [
+    "연방 정부의 사기 단속과 메디케어 사기 제안 여파로 유나이티드헬스 등 보험사 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "85d01bd7a4b14481",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "BABA Stock Edges Lower Premarket After Q2 Earnings — Alibaba’s Adjusted Earnings Miss Estimates, AI Cloud Revenue Jumps 53%",
+   "excerpt": "CEO Eddie Wu said Alibaba Cloud's external recurring revenue grew 67%, while AI-related product revenue posted triple-digit growth for the 13th consecutive quarter.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/baba-stock-edges-lower-premarket-after-q2-earnings-alibaba-s-adjusted-earnings-miss-estimates-ai-cloud-revenue-jumps-53/cNbi7ThR9iC?.tsrc=rss",
+   "published": "2026-11-19T12:23:39+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바의 2분기 조정 실적이 예상을 밑돌았으나, AI 클라우드 매출은 급증했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "bcdce19bc0a477c6",
    "kind": "news",
@@ -17,6 +340,77 @@
     "오픈AI 모델이 AMD 칩 디자인 코드를 개선했다고 주장했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "42324b3e08fb7a85",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Not Nvidia. Not Broadcom. If I Could Buy and Hold Only 1 AI Chip Stock Through 2030, It Would Be This One",
+   "excerpt": "There's no denying TSMC's unique opportunity in chip manufacturing.",
+   "url": "https://www.fool.com/investing/2026/11/19/not-nvidia-not-broadcom-if-buy-hold-1-ai-chip-stock-2030-this-one/?.tsrc=rss",
+   "published": "2026-11-19T12:22:01+00:00",
+   "tickers": [
+    "NVDA",
+    "AVGO",
+    "TSM"
+   ],
+   "summary_ko": [
+    "2030년까지 보유할 단 하나의 AI 칩 주식으로 TSMC의 제조업 기회를 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "5f557d2e7a568be6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron: The AI Memory Crunch Is Getting Worse. 2028 Could Be Even Bigger",
+   "excerpt": "Micron Expects a Memory Crunch Through 2028. Nvidia's AI Boom Is Fueling Demand",
+   "url": "https://finance.yahoo.com/technology/ai/articles/micron-ai-memory-crunch-getting-122152627.html?.tsrc=rss",
+   "published": "2026-11-19T12:21:52+00:00",
+   "tickers": [
+    "NVDA",
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론은 AI 메모리 부족 현상이 심화되며 2028년까지 이어질 것으로 예상한다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "4e085595fdc785d3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Eli Lilly (LLY) Expands Its Oncology Research Platform",
+   "excerpt": "Eli Lilly (NYSE: LLY) has agreed to acquire Calytrix Bio to add rare blood cancer programs to its oncology pipeline. The firm also announced a multi-target oncology collaboration with Stipple Bio focused on precision cancer therapies for solid tumors. Together, the Calytrix Bio acquisition and Stipple Bio alliance mark a broad expansion of Eli Lilly's cancer research platform. The Calytrix Bio purchase and Stipple Bio precision oncology deal deserve weighing alongside the rest of our Eli...",
+   "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-expands-oncology-122029469.html?.tsrc=rss",
+   "published": "2026-11-19T12:20:29+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": [
+    "일라이릴리가 칼리트릭스 바이오 인수를 통해 혈액암 프로그램을 확보하고 종양학 연구 플랫폼을 확장했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "3b1084b1fbc23dc5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Investors May Respond To Apple (AAPL) Service Outages",
+   "excerpt": "Apple recently experienced widespread outages across services including the App Store, Apple Music, iCloud sign ins and Apple Pay after internal software updates, disrupting downloads, payments and crypto purchases and drawing attention to the resilience of its fast growing services infrastructure. Service reliability concerns arrive just as third party apps like High Roller Technologies’ ROLR platform deepen reliance on the Apple App Store distribution channel. This tightens the link...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-apple-aapl-121529714.html?.tsrc=rss",
+   "published": "2026-11-19T12:15:29+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플의 내부 소프트웨어 업데이트로 인해 주요 서비스에서 광범위한 중단이 발생했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "9f5a1147c4c21c85",
@@ -67,6 +461,57 @@
    ],
    "summary_ko": [
     "데이비드 테퍼가 AMD를 매도하고 오라클 지분을 매수한 배경을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "3a23800259e5a856",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia faces 2028 growth concerns as UBS cuts price target to US$220",
+   "excerpt": "UBS has cut its price target on Nvidia Corp (NASDAQ:NVDA, XETRA:NVD), the semiconductor maker, by 8% to US$220 from US$240, while retaining its 'buy' rating. The revised valuation reflects concerns about slowing growth in calendar 2028, despite strong near-term demand and improving revenue...",
+   "url": "https://www.proactiveinvestors.com/companies/news/1102097/nvidia-faces-2028-growth-concerns-as-ubs-cuts-price-target-to-us-220-1102097.html?.tsrc=rss",
+   "published": "2026-11-19T12:15:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "UBS가 2028년 성장 둔화 우려를 반영해 엔비디아의 목표주가를 하향 조정했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "650a761ed9ddadb1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Advanced Micro Devices (AMD) Closes $8.2 Billion World Labs Acquisition",
+   "excerpt": "Advanced Micro Devices (NasdaqGS:AMD) closed a US$8.2b acquisition of AI research firm World Labs, led by Fei-Fei Li, on 19 November 2026. Fei-Fei Li will join AMD as EVP and Chief Scientist, integrating World Labs into the group’s long-term AI research efforts. AMD expanded its partnership with OpenAI, using OpenAI models to compress roughly a year of chip design work into five months and move that progress into manufacturing-ready silicon. TensorWave signed a multi-year deal to supply...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-closes-121439912.html?.tsrc=rss",
+   "published": "2026-11-19T12:14:39+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "AMD가 AI 연구 기업 월드랩스 인수를 완료하고 오픈에이아이와의 파트너십을 확대했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "39c26e88f0c3df03",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft (MSFT) Stock May Look Reasonable As AI Commitments Draw Scrutiny",
+   "excerpt": "Microsoft has pulled back from recent highs but still trades near the top of its range after a multi year climb, which puts a spotlight on a simple question for you as a shareholder or potential buyer. Is the current share price properly grounded in the cash flows the business can realistically produce over time, or has enthusiasm around AI and cloud partnerships run ahead of the underlying money coming in the door? Over the past 5 years Microsoft has delivered a return of 56.4%, which makes...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-may-look-121347165.html?.tsrc=rss",
+   "published": "2026-11-19T12:13:47+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트의 AI 투자에 대한 집중과 주가 수준에 대한 의문을 다뤘다."
    ],
    "tone": "neu"
   },
@@ -361,6 +806,23 @@
     "투자자들이 주목해야 할 에어비앤비의 신규 프로젝트를 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "e01ed7561926f7ea",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "HOOD Adds Live IPO Pricing Tools: Will Anthropic Drive Engagement?",
+   "excerpt": "Robinhood rolls out live IPO pricing tools as Anthropic's Nasdaq debut approaches. Can enhanced transparency boost retail trading and platform engagement?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/hood-adds-live-ipo-pricing-114500252.html?.tsrc=rss",
+   "published": "2026-11-19T11:45:00+00:00",
+   "tickers": [
+    "HOOD"
+   ],
+   "summary_ko": [
+    "로빈후드가 실시간 IPO 가격 책정 도구를 추가하며 앤스로픽의 상장을 앞두고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "024648e9eb7f1d69",
@@ -62448,40 +62910,6 @@
     "생산 및 인증 마일스톤 달성이 주가 상승을 이끌 수 있다고 전망했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "77065897cee9f75c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Airbnb, Inc. (ABNB) is Attracting Investor Attention: Here is What You Should Know",
-   "excerpt": "Airbnb (ABNB) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-inc-abnb-attracting-investor-130004117.html?.tsrc=rss",
-   "published": "2026-11-12T13:00:04+00:00",
-   "tickers": [
-    "ABNB"
-   ],
-   "summary_ko": [
-    "에어비앤비가 최근 투자자들의 높은 관심을 받고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c6127f44028450c3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "BMO Is Sticking With Its $35 Target on D-Wave Quantum, Even After a 67% Drop",
-   "excerpt": "Key TakeawaysBMO Capital kept its Outperform rating and $35 price target on D-Wave Quantum after third-quarter results, while several other firms cut theirs. The stock is 67% below its December 2025 closing high after a year of revenue misses, a CFO exit, a rival buying its chip foundry and a widening loss.",
-   "url": "https://www.tikr.com/blog/bmo-is-sticking-with-its-35-target-on-d-wave-quantum-even-after-a-67-drop?ref=yahoofinance&tlnk=yf-261112-cxcm9x53&.tsrc=rss",
-   "published": "2026-11-12T12:57:56+00:00",
-   "tickers": [
-    "QBTS"
-   ],
-   "summary_ko": [
-    "BMO 캐피털은 실적 부진 속에서도 D-웨이브 퀀텀에 대한 목표주가를 유지했다고 밝혔다."
-   ],
-   "tone": "neu"
   }
  ]
 }
