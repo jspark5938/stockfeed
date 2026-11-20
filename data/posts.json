@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-20T23:07:32.277932+00:00",
+ "updated": "2026-11-20T23:30:31.234953+00:00",
  "posts": [
+  {
+   "id": "c7c98b9bce5b895c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Data Center AI Chips Could Change the Winners: Broadcom and Marvell",
+   "excerpt": "Broadcom and Marvell stand to benefit as hyperscalers expand custom AI processors alongside merchant GPUs. AI training and inference impose different demands on computing, memory bandwidth, power and cost. The Information Network’s HBM model shows how processor architecture and memory content change demand. Introduction The selloff in semiconductor stocks has intensified questions about the sustainability […]",
+   "url": "https://247wallst.com/investing/2026/11/20/data-center-ai-chips-could-change-the-winners-broadcom-and-marvell/?.tsrc=rss",
+   "published": "2026-11-20T23:25:54+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "하이퍼스케일러들의 맞춤형 AI 프로세서 확장에 따라 브로드컴과 마벨이 수혜를 입을 수 있다고 다뤘다.",
+    "AI 학습과 추론의 서로 다른 요구 사항이 프로세서 아키텍처와 메모리 수요에 영향을 미친다고 분석했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "a9c0e0d5ecc0b876",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "President Trump would love to see Nvidia give Jensen Huang a second chance.",
+   "excerpt": "“That’s a very important company to us … we have to protect our brilliant people. Jensen is one of them,” Trump said to the press on Friday.",
+   "url": "https://www.youtube.com/watch?v=qK2Z_0go_Ek",
+   "published": "2026-11-20T23:19:38+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프 전 대통령은 엔비디아와 젠슨 황을 보호해야 할 중요한 기업과 인물로 언급했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "c3727c380777067e",
    "kind": "youtube",
@@ -3768,6 +3803,23 @@
    ],
    "summary_ko": [
     "AWS가 사상 최고 수준의 성장을 기록했으나 아마존의 현금 지출도 크게 늘었다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e6e9643796db9abf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Salesforce Layoff Alert: How to Play CRM Stock Amid Another Round of Job Cuts",
+   "excerpt": "Salesforce’s latest round of job cuts is putting fresh pressure on CRM stock. What should be your stance now?",
+   "url": "https://www.barchart.com/story/news/8938867/salesforce-layoff-alert-how-to-play-crm-stock-amid-another-round-of-job-cuts?.tsrc=rss",
+   "published": "2026-11-20T17:01:42+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "세일즈포스의 최근 감원 소식이 CRM 주가에 새로운 압박을 가하고 있다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -77832,91 +77884,6 @@
     "매장 중심 유통 기업과 숙박 공유 플랫폼의 밸류에이션 격차를 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "abc50399204a1147",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Over 35% of Bitcoin Supply Faces Potential Quantum Risk, New Data Shows",
-   "excerpt": "Glassnode says 7.12 million BTC have visible public keys. Robinhood, Binance and Satoshi's coins top the exposure list.",
-   "url": "https://beincrypto.com/one-third-bitcoin-supply-faces-quantum-risk/?.tsrc=rss",
-   "published": "2026-11-13T23:30:00+00:00",
-   "tickers": [
-    "HOOD"
-   ],
-   "summary_ko": [
-    "비트코인 공급량의 35% 이상이 양자 컴퓨팅 리스크에 노출될 수 있다고 보도했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7a75f4ed4c8b1266",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Digital Expansion At Walmart (WMT) Has Changed Its Investment Story",
-   "excerpt": "Walmart recently agreed to a record US$7.8 million settlement with Pennsylvania authorities over Child Labor Act violations and is rolling out new energy, AI shopping, and drone delivery initiatives while preparing to report third quarter earnings on 19 November 2026. A stronger focus on omnichannel services, advertising, membership programs, and partnerships such as Base Power is reshaping how Walmart earns beyond traditional in-store retailing. This article examines how Walmart’s expanding...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/digital-expansion-walmart-wmt-changed-231951520.html?.tsrc=rss",
-   "published": "2026-11-13T23:19:51+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트의 디지털 확장과 옴니채널 서비스가 투자 관점에 미친 변화를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "db31d6e15a3b70f2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Boeing (BA) Is A Leading Player In The Global UAV Market",
-   "excerpt": "Boeing (NYSE:BA) has been highlighted as a leading player in the expanding global unmanned aerial vehicles market. The company features among key defense and logistics drone contractors as militaries and commercial operators increase UAV deployment worldwide. Industry researchers cite rising defense budgets and wider commercial drone use as core drivers of long term UAV demand. Boeing's push into UAV defense and drone logistics is only one part of a broader story for this aerospace group...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-leading-player-global-231234941.html?.tsrc=rss",
-   "published": "2026-11-13T23:12:34+00:00",
-   "tickers": [
-    "BA"
-   ],
-   "summary_ko": [
-    "보잉이 글로벌 무인 항공기 시장의 주요 기업으로 조명받았다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "520d5ca2dedb16e3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SpaceX's Starship Flight 15 Takes Off, Rocket Lab Preps For Milestone Mission",
-   "excerpt": "SpaceX is hours away from its Starship Flight 15 launch, planning a double-catch for the Starship and booster. Rocket Lab preps for 100th Electron mission.",
-   "url": "https://finance.yahoo.com/m/e76332e4-d297-30fb-86a2-79bc44296353/spacex%27s-starship-flight-15.html?.tsrc=rss",
-   "published": "2026-11-13T23:12:00+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "스페이스X의 스타십 비행 발사와 로켓랩의 마일스톤 임무 준비 소식을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d2db7d8576889251",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Intel Stock Slumped Today",
-   "excerpt": "It wasn't a good day for tech stocks generally.",
-   "url": "https://www.fool.com/investing/2026/11/13/why-intel-stock-slumped-today/?.tsrc=rss",
-   "published": "2026-11-13T23:09:51+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "기술주 전반의 부진 속에서 인텔 주가가 하락했다고 전했다."
-   ],
-   "tone": "neg"
   }
  ]
 }
