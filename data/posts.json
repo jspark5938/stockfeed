@@ -1,6 +1,92 @@
 {
- "updated": "2026-11-20T03:30:31.364123+00:00",
+ "updated": "2026-11-20T04:00:36.144065+00:00",
  "posts": [
+  {
+   "id": "8a572ae12f02156a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did NVDA, NIO, ONDS Stocks Tumble To 52-Week Lows Today?",
+   "excerpt": "Investors were concerned about regulatory uncertainty, weakening vehicle sales and rising financing risks despite strong revenues.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/why-did-nvda-nio-onds-stocks-tumble-to-52-week-lows-today/cNbSTZCR9Kc?.tsrc=rss",
+   "published": "2026-11-20T03:54:48+00:00",
+   "tickers": [
+    "NVDA",
+    "NIO"
+   ],
+   "summary_ko": [
+    "규제 불확실성과 차량 판매 부진 등으로 주가가 52주 최저점으로 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "99f5bb02140566f5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "South Korea’s Stock Market and the Nikkei 225 Sink More Than 4% as the AI Selloff Spreads From Wall Street. Here’s How Much of a Target-Date Fund Is in Samsung, SK Hynix and TSMC",
+   "excerpt": "South Korea's KOSPI and Japan's Nikkei 225 both sank more than 4% on Friday as Wall Street's AI selloff spread to Asia. Samsung, SK hynix and TSMC are about 1.7% of a 2030 target-date fund, and South Korea is 1.38%, so the Seoul drop comes to about $348 on a $500,000 balance.",
+   "url": "https://247wallst.com/investing/2026/11/19/south-koreas-stock-market-and-the-nikkei-225-sink-more-than-4-as-the-ai-selloff-spreads-from-wall-street-heres-how-much-of-a-target-date-fund-is-in-samsung-sk-hynix-and-tsmc/?.tsrc=rss",
+   "published": "2026-11-20T03:51:04+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": [
+    "월스트리트의 AI 매도세 여파로 한국과 일본 증시가 하락했다고 보도했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "9d3622bfd50322fe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft CEO Nadella faces uncomfortable reality after outage",
+   "excerpt": "Nadella’s comments come after disruptions hit Microsoft’s services and other major companies, putting digital infrastructure reliability back in focus.",
+   "url": "https://www.thestreet.com/technology/microsoft-ceo-nadella-faces-uncomfortable-reality-after-outage?.tsrc=rss",
+   "published": "2026-11-20T03:47:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "서비스 중단 사고 이후 디지털 인프라 신뢰성이 다시 주목받고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "232912acef65662b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Pixalate Launches 4D Invalid Traffic (IVT) Blocking on Amazon Web Services (AWS) RTB Fabric; Industry’s First Infrastructure-, Seller-, Publisher-, & Device-Level Pre-Bid Blocking Modules for Programmatic CTV & Mobile Apps",
+   "excerpt": "Pixalate’s 4D (four-dimensional) IVT Blocking modules filter invalid traffic from CTV and mobile app bid requests inline on AWS RTB Fabric, before it reaches bidder fleets, so platforms stop spending compute on bid requests that were never worth processingLONDON, Nov. 19, 2026 (GLOBE NEWSWIRE) -- Pixalate, a global ad fraud and privacy compliance platform, today announced pre-bid CTV and mobile app Invalid Traffic (IVT) modules with Amazon Web Services (AWS), on AWS RTB Fabric, the AWS service f",
+   "url": "https://finance.yahoo.com/media-advertising/articles/pixalate-launches-4d-invalid-traffic-034000682.html?.tsrc=rss",
+   "published": "2026-11-20T03:40:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "픽셀레이트는 아마존 웹 서비스에서 무효 트래픽 차단 모듈을 출시했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "fb9f59526e064b25",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "‘RELAX’: Trump says no need to stockpile for ‘DOOMSDAY’ amid tech outages",
+   "excerpt": "Ret. Navy Capt. Brent Sadler discusses a string of major technology outages affecting companies and organizations across the U.S., including the NSA and Microsoft, on ‘The Evening Edit.’ #trump #technology #business Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news p",
+   "url": "https://www.youtube.com/watch?v=7ozc94owAyk",
+   "published": "2026-11-20T03:30:02+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "트럼프는 미국 내 기술 장애와 관련해 비축할 필요가 없다고 언급했다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "83c41258c0108c0c",
    "kind": "news",
@@ -17,6 +103,40 @@
     "스페이스X의 대출 기관들이 일론 머스크가 담보인 엔비디아 칩을 우주로 보내는 것을 막기 위한 안전장치를 요구했다고 FT가 보도했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "e3dc9bae3937c460",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple (AAPL) Stock Could Be 33% Overvalued On Fresh Service Outage Concerns",
+   "excerpt": "Apple has delivered a long stretch of strong share-price gains, and with the stock recently closing at US$349.21, the real question for investors is how well that market value lines up with the cash the business can generate. With a Discounted Cash Flow (DCF) intrinsic value estimate in hand, the focus turns to whether the current price makes sense once you trace those cash streams over time. Over the past 5 years, Apple has returned 120.9%, which puts a lot of accumulated optimism on the...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-could-33-031750121.html?.tsrc=rss",
+   "published": "2026-11-20T03:17:50+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "최근 서비스 중단 우려 속에서 주가가 고평가되었을 가능성을 제기했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "a11d5d8ad6846318",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Akamai Technologies (AKAM) Expands Mobile Enterprise Browser Security",
+   "excerpt": "Akamai Technologies (NasdaqGS:AKAM) announced a new collaboration with Microsoft to secure Microsoft Edge for Business on mobile devices. The partnership targets iOS and Android, bringing enterprise browser controls such as real time threat prevention directly into Microsoft Edge for Business. Akamai says the integration also introduces generative AI governance features designed for corporate use of Microsoft Edge for Business on phones and tablets. This new Akamai and Microsoft enterprise...",
+   "url": "https://finance.yahoo.com/technology/articles/akamai-technologies-akam-expands-mobile-031634349.html?.tsrc=rss",
+   "published": "2026-11-20T03:16:34+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "아카마이와 마이크로소프트가 모바일 기기용 브라우저 보안 협력을 발표했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "54471bfe34e98fa1",
@@ -1503,6 +1623,23 @@
    "tone": "neu"
   },
   {
+   "id": "45f092d05f519e9a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why AMD Stock Could Hit $662 in 2027",
+   "excerpt": "Analysts remain optimistic about AMD’s outlook, with the current 12-month consensus price target standing at $661.82, or roughly $662.",
+   "url": "https://www.barchart.com/story/news/8925754/why-amd-stock-could-hit-662-in-2027?.tsrc=rss",
+   "published": "2026-11-19T21:45:27+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "애널리스트들은 향후 12개월 목표주가에 대해 긍정적인 전망을 유지했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "a2d00cb57829c1d7",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1607,6 +1744,23 @@
    "tone": "neu"
   },
   {
+   "id": "87eaa44f36e555bb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Indices Plunge Amid Broad Market Weakness",
+   "excerpt": "The S&P 500 Index ($SPX ) (SPY ) closed down -2.02% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -2.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.21%. December E-mini S&P futures (ESZ26 ) fell -2.03%, and December E-mini Nasdaq futures...",
+   "url": "https://www.barchart.com/story/news/8925510/stock-indices-plunge-amid-broad-market-weakness?.tsrc=rss",
+   "published": "2026-11-19T21:33:31+00:00",
+   "tickers": [
+    "QQQ"
+   ],
+   "summary_ko": [
+    "광범위한 시장 약세 속에서 주요 주가지수가 일제히 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "63d17e68436a7793",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1674,6 +1828,23 @@
     "알파벳의 보유 지분 가치가 하락한 반면 지분 수는 소폭 증가했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "d4dcf630567d43b0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Biggest Fear Around Oracle Could Soon End. Wall Street Sees ORCL Stock Surging 100% From Here.",
+   "excerpt": "Oracle says its cash burn will end, with at least $30 billion in free cash flow by fiscal 2029, and Wall Street sees ORCL stock more than doubling after its Investor Day rally faded.",
+   "url": "https://www.barchart.com/story/news/8925367/the-biggest-fear-around-oracle-could-soon-end-wall-street-sees-orcl-stock-surging-100-from-here?.tsrc=rss",
+   "published": "2026-11-19T21:28:06+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "오라클은 현금 유출이 종료될 것이라고 밝혔으며 월가는 주가 상승을 전망했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "1bce0ca770982dcb",
@@ -72217,23 +72388,6 @@
    ],
    "summary_ko": [
     "월트 디즈니 애니메이션 스튜디오의 신작 모험 영화 '디즈니의 헥스드' 월드 프리미어 행사가 로스앤젤레스에서 개최되었다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "00cd1dbd29a3c458",
-   "kind": "reddit",
-   "source": "r/investing",
-   "author": "/u/DadiStefanoni",
-   "title": "NVIDIA - Buy the dip or wait?",
-   "excerpt": "We’ve all seen what’s happened with NVIDIA recently. Looking ahead, do you think the current dip presents a good buying opportunity, or is it worth waiting to see if the stock drops further? I’m curious to hear what everyone’s thinking and whether you’re buying, holding off, or staying away for now. submitted by /u/DadiStefanoni [link] [comments]",
-   "url": "https://www.reddit.com/r/investing/comments/1xuxkvf/nvidia_buy_the_dip_or_wait/",
-   "published": "2026-11-13T03:45:07+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 주가 하락이 매수 기회인지 추가 하락을 기다려야 하는지 의견을 물었다."
    ],
    "tone": "neu"
   }
