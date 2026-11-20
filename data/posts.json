@@ -1,6 +1,43 @@
 {
- "updated": "2026-11-20T04:30:37.007329+00:00",
+ "updated": "2026-11-20T05:00:43.231128+00:00",
  "posts": [
+  {
+   "id": "c27521efa2bb3755",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron CEO’s Nvidia message comes with warning for 2027",
+   "excerpt": "Micron’s chief says customers are locking in supply for years that haven’t started, a shift that could change how investors read the stock.",
+   "url": "https://www.thestreet.com/investing/micron-ceo-nvidia-warning-2027-supply-already-sold-out?.tsrc=rss",
+   "published": "2026-11-20T04:33:00+00:00",
+   "tickers": [
+    "NVDA",
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론 CEO는 고객들이 시작되지 않은 연도의 공급까지 미리 확보하고 있다고 언급했다.",
+    "이러한 공급망 변화가 투자자들의 주식 평가 방식에 영향을 줄 수 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "eafd7a03fafaeef7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Tesla (TSLA)'s Shanghai Expansion Means For Shareholders",
+   "excerpt": "Tesla has been pushing ahead with higher output at its Shanghai Gigafactory, while rolling out Cybercab and robotaxi services across select cities and expanding autonomous vehicle manufacturing capacity in the U.S. and Europe. The pairing of Shanghai as a high volume export hub and dedicated Cybercab and Model Y autonomy programs gives Tesla a clearer split between cash generating EV production and capital intensive AI and robotics bets. We will look at how Tesla's investment narrative is...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-shanghai-expansion-means-043058154.html?.tsrc=rss",
+   "published": "2026-11-20T04:30:58+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라는 상하이 공장의 생산량을 늘리고 자율주행 및 로보택시 서비스를 추진하고 있다고 다뤘다.",
+    "현금 창출 전기차 생산과 AI 및 로보틱스 투자가 구분되는 투자 서사를 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "f74b7e2abd2fcf33",
    "kind": "youtube",
@@ -17,6 +54,42 @@
     "일론 머스크와 앤트로픽에 관한 내용을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "ef080dfc5ed57092",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Apple Doubters Got Wrong",
+   "excerpt": "If you only skimmed the headlines about Apple’s memory-driven price hikes, regulatory friction, and a changing CEO, you might not expect a cheerful outcome. Investors who held Apple over the past year are up 31.6%, including dividends. That payoff sits against a starting point where bulls talked up AI integration and services leverage while bears flagged margin risk and hardware maturity. If you had faced that split view in November 2025, what exactly were you weighing? Apple is not the only...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/apple-doubters-got-wrong-042903639.html?.tsrc=rss",
+   "published": "2026-11-20T04:29:03+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플은 가격 인상과 규제 마찰 등에도 불구하고 지난 1년간 주가가 상승했다고 다뤘다.",
+    "투자자들 사이에서 AI 통합과 마진 리스크를 두고 다양한 시각이 공존했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "878a151de19bf60d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Just Raised Its Supply Commitments to $390 Billion, Mostly for Memory. Micron Is the Memory Stock I'd Buy.",
+   "excerpt": "If the AI chip giant is locking in memory for years, why is the memory maker's stock off around 42% from its peak?",
+   "url": "https://www.fool.com/investing/2026/11/19/nvidia-just-raised-its-supply-commitments-to-usd390-billion-mostly-for-memory-micron-is-the-memory-stock-i-d-buy/?.tsrc=rss",
+   "published": "2026-11-20T04:27:02+00:00",
+   "tickers": [
+    "NVDA",
+    "MU"
+   ],
+   "summary_ko": [
+    "엔비디아가 주로 메모리를 위해 공급 약정을 3,900억 달러로 늘렸다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ae1c7abdd4e84b18",
@@ -139,6 +212,24 @@
     "픽셀레이트는 아마존 웹 서비스에서 무효 트래픽 차단 모듈을 출시했다고 밝혔다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "c8657e151712e6f2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Says He ‘Tried to Warn’ About Nvidia, CoreWeave: Shay Boloor Comes Back With ‘I Also Warned Everyone About Rain Once…’",
+   "excerpt": "Michael Burry clashed with Futurum Equities’ Shay Boloor on Thursday after the ‘Big Short’ investor said he had warned about the artificial intelligence stock sell-off ahead of time, a claim that was quickly disputed. Burry Says He Gave Investors Reason to Sell In a post on X, Burry said he “tried to warn you all” about CoreWeave Inc. (NASDAQ:CRWV), Nebius Group N.V. (NASDAQ:NBIS), Nvidia Corp. (NASDAQ:NVDA) and semiconductor stocks. “I didn’t say short. But I provided the information one would",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-tried-warn-033416913.html?.tsrc=rss",
+   "published": "2026-11-20T03:34:16+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "마이클 베리가 AI 및 반도체 관련 주식 매도 사태를 미리 경고하려 했다고 주장했다.",
+    "이 주장에 대해 다른 전문가가 반박하는 등 논쟁이 있었다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "fb9f59526e064b25",
@@ -1130,6 +1221,26 @@
    "summary_ko": [
     "브로드컴의 맞춤형 AI 칩 사업이 호황을 누리고 있다고 다뤘다.",
     "시장이 주가를 실제 가치보다 낮게 평가하고 있다고 주장했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "6ae946e72f4a34e0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AI Hacking Is “a Fantastic Bonanza” for CrowdStrike and Palo Alto, per Paul Kedrosky",
+   "excerpt": "Key TakeawaysPaul Kedrosky called the flood of AI-found software flaws “a fantastic bonanza” for CrowdStrike and Palo Alto Networks. Patching at five to ten times past levels makes security a volume business, with Zscaler and Microsoft in the same wave.",
+   "url": "https://www.tikr.com/blog/ai-hacking-is-a-fantastic-bonanza-for-crowdstrike-and-palo-alto-per-paul-kedrosky?ref=yahoofinance&tlnk=yf-261119-xq2rf628&.tsrc=rss",
+   "published": "2026-11-19T22:37:57+00:00",
+   "tickers": [
+    "MSFT",
+    "CRWD",
+    "PANW"
+   ],
+   "summary_ko": [
+    "폴 케드로스키는 AI로 인한 소프트웨어 결함 증가가 보안 기업들에 호재라고 주장했다.",
+    "패치 수요가 급증하면서 보안이 볼륨 비즈니스가 되고 있다고 언급했다."
    ],
    "tone": "pos"
   },
@@ -72375,75 +72486,6 @@
     "이번 문제가 AI와 연관되었을 가능성과 서버 부하로 인한 영향 등을 언급했다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "5e8f084de902a2b0",
-   "kind": "reddit",
-   "source": "r/investing",
-   "author": "/u/TDSucksBalls",
-   "title": "Buy NVDA / Short Hyperscalers",
-   "excerpt": "NVDA Q3 revenue and profit is expected to be $100B and $60B so it is trading at 10x and 16.7x respectively. Hyperscalers are responsible for a large portion of that. A group of them should propose a buyout as a strategic way to ensure supply priority and negatively impact the others. The markets will probably punish the buyers initially because of the debt but then realize the competitive advantage. Am I drinking too much? submitted by /u/TDSucksBalls [link] [comments]",
-   "url": "https://www.reddit.com/r/investing/comments/1xuyvau/buy_nvda_short_hyperscalers/",
-   "published": "2026-11-13T04:54:03+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 3분기 실적 전망과 함께 하이퍼스케일러들의 인수 제안 가능성을 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "e7cf95e8d7fcba2c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cathie Wood Boosts Bets On 2 AI Firms Amid Nvidia’s Huang Upheaval — Here’s How Her Trading Week Unfolded",
-   "excerpt": "ARK bought about $8.79 million in Archer, $5.59 million in Rocket Lab and $4.74 million in Kratos, with Archer leading purchases by share count.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-bets-2-ai-firms-nvidia-huang-upheaval-how-trading-week-unfolded/cNbbpHTR9Ol?.tsrc=rss",
-   "published": "2026-11-13T04:41:47+00:00",
-   "tickers": [
-    "NVDA",
-    "RKLB"
-   ],
-   "summary_ko": [
-    "아크 인베스트가 엔비디아 관련 혼란 속에 아처, 로켓랩, 크라토스 등의 AI 관련 종목 비중을 확대했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b46d8c2b69e7ac69",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Despite NVDA Rout, Investors Have Poured In $37.5B In US Stock ETFs In 5 Days – Here’s Where The Money Went",
-   "excerpt": "According to The Kobeissi Letter, the 10 major U.S. equity ETFs have attracted over $37.5 billion over five trading days ending Tuesday.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/us-equity-etf-inflows-37-billion-nvidia-stock-selloff/cNbbpApR9Ok?.tsrc=rss",
-   "published": "2026-11-13T04:38:16+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 하락세에도 불구하고 최근 5거래일 동안 미국 주식 ETF에 375억 달러 이상이 유입되었다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "47961360f4daaa38",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Did AI Platform Growth Just Shift Salesforce's (CRM) Investment Narrative?",
-   "excerpt": "Salesforce filed a shelf registration for 609,118 common shares tied to an ESOP offering, while expanding AI-led platforms like Agentforce and Data 360 and continuing large capital return programs. The combination of AI product traction, government-focused Missionforce National Security wins, and targeted acquisitions in customer experience indicates that Salesforce is leaning into data-driven, automation-heavy use cases rather than relying only on traditional seat-based licensing. The next...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/did-ai-platform-growth-just-043459296.html?.tsrc=rss",
-   "published": "2026-11-13T04:34:59+00:00",
-   "tickers": [
-    "CRM"
-   ],
-   "summary_ko": [
-    "세일즈포스가 전통적인 라이선스 중심에서 벗어나 AI 플랫폼과 데이터 중심의 자동화로 사업을 확장하고 있다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
