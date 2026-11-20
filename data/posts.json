@@ -1,6 +1,128 @@
 {
- "updated": "2026-11-20T11:30:32.325908+00:00",
+ "updated": "2026-11-20T12:00:39.914840+00:00",
  "posts": [
+  {
+   "id": "0341cc86d12c4693",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Boeing Stock Slumps 25% -- Another Director Sees an 'Opportunity to Buy'",
+   "excerpt": "Boeing Director Buys $500,000 in Shares Amid Deep Stock Sell-Off",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-slumps-25-another-114153017.html?.tsrc=rss",
+   "published": "2026-11-20T11:41:53+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "summary_ko": [
+    "보잉 주가가 25% 하락한 가운데 한 이사가 50만 달러어치 주식을 매수하며 기회로 평가했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ea24116fa59f754e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple Director Dumps 90,000 Shares Worth Nearly $32 Million",
+   "excerpt": "Apple Stock Nears Record High as Former Chairman Sells $31.8 Million Stake",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/apple-director-dumps-90-000-114110537.html?.tsrc=rss",
+   "published": "2026-11-20T11:41:10+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플 주가가 사상 최고가에 근접한 가운데 전직 회장이 3,180만 달러 규모의 지분을 매도했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e4af67b5f1a93614",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "If You Had Invested $5,000 in Amazon Stock 20 Years Ago, Here's How Much You'd Have Today",
+   "excerpt": "It's more than just the largest company in the world by sales.",
+   "url": "https://www.fool.com/investing/2026/11/20/if-youd-invested-5000-in-company-name-stock-20-years-ago-heres-how-much-youd-have-today/?.tsrc=rss",
+   "published": "2026-11-20T11:40:02+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존에 20년 전에 투자했다면 현재 얼마가 되었을지 과거 투자 가치를 다뤘다.",
+    "아마존은 매출 기준으로 세계에서 가장 큰 기업 이상이라고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7d79fcd320a3d717",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft and JPMorgan Outages Put Cybersecurity Stocks in Focus",
+   "excerpt": "The appointment of Kirsten Davies follows widespread technology disruptions affecting Microsoft, banks and federal agencies.",
+   "url": "https://finance.yahoo.com/technology/articles/microsoft-jpmorgan-outages-put-cybersecurity-113919807.html?.tsrc=rss",
+   "published": "2026-11-20T11:39:19+00:00",
+   "tickers": [
+    "MSFT",
+    "JPM"
+   ],
+   "summary_ko": [
+    "마이크로소프트와 JP모건의 기술 중단 사태 이후 사이버보안주가 주목받고 있다고 다뤘다.",
+    "광범위한 기술 장애 여파로 커스틴 데이비스가 임명되었다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fd245a201345fe25",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TD Cowen Names UnitedHealth Its 2027 Best Idea — Why Analyst Sees Mid-To-High-Teens EPS Growth For UNH Stock",
+   "excerpt": "TD Cowen even raised its price target on the stock to $455 from $402, according to TheFly.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/td-cowen-names-united-health-its-2027-best-idea-why-analyst-sees-mid-to-high-teens-eps-growth-for-unh-stock/cNbSgzzR9KA?.tsrc=rss",
+   "published": "2026-11-20T11:37:53+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": [
+    "TD 코웬은 유나이티드헬스를 2027년 최고의 아이디어로 선정하고 목표주가를 상향했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "1d4951055f631916",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 Warren Buffett Rules That Make Nvidia Stock a Buy at Today's Price",
+   "excerpt": "Nvidia has lost nearly 30% of its value amid ongoing scandals with its former CEO, Jensen Huang.",
+   "url": "https://www.fool.com/investing/2026/11/20/3-warren-buffett-rules-that-make-nvidia-stock-a-buy-at-today-s-price/?.tsrc=rss",
+   "published": "2026-11-20T11:35:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "전직 CEO 젠슨 황과 관련된 논란 속에 엔비디아 주가가 약 30% 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "9f3e28e466b70432",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell Friday; Sandisk, AMD to Decline",
+   "excerpt": "The most-talked-about stocks in the Reddit subforum Wallstreetbets were mostly lower hours before Fr",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-113227780.html?.tsrc=rss",
+   "published": "2026-11-20T11:32:27+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "레딧의 월스트리트베츠에서 언급된 주요 종목들이 장 시작 전 대체로 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "121c7ed9ee3cdc94",
    "kind": "youtube",
@@ -36,6 +158,60 @@
    "tone": "neg"
   },
   {
+   "id": "13ed08d78110c9e9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AMD Trades at Triple Nvidia's Forward P/E as Regulatory Risks Mount",
+   "excerpt": "The chipmaker disputes allegations involving U.S.-blacklisted Chinese companies and says it complies with export controls.",
+   "url": "https://finance.yahoo.com/technology/articles/amd-trades-triple-nvidias-forward-112653297.html?.tsrc=rss",
+   "published": "2026-11-20T11:26:53+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": [
+    "규제 리스크가 고조되는 가운데 AMD가 엔비디아 선행 주가수익비율의 세 배 수준에서 거래된다고 다뤘다.",
+    "AMD는 중국 기업 관련 의혹을 부인하며 수출 통제를 준수하고 있다고 밝혔다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "2cbbd9d6ea8338ff",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Robinhood Faces Shareholder Proposal Over Proxy Voting Options as SEC Eases Oversight",
+   "excerpt": "Robinhood Markets (NASDAQ:HOOD) is facing a shareholder proposal calling for a review of its proxy-voting services, amid concerns that retail investors have limited choices when participating in corporate elections and other shareholder decisions. Shareholder advocacy group As You Sow has submitted a resolution for Robinhood’s next annual meeting, urging the online brokerage to examine whether customers should be allowed to use independent voting services rather than relying exclusively on its e",
+   "url": "https://investorshub.advfn.com/market-news/article/40458/robinhood-faces-shareholder-proposal-over-proxy-voting-options-as-sec-eases-oversight?.tsrc=rss",
+   "published": "2026-11-20T11:23:23+00:00",
+   "tickers": [
+    "HOOD"
+   ],
+   "summary_ko": [
+    "로빈후드가 주주의 의결권 행사 선택권과 관련된 주주 제안에 직면했다고 다뤘다.",
+    "옹호 단체는 고객이 독점 서비스 대신 독립적인 투표 서비스를 이용할 수 있어야 한다고 주장했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "552b2bfa7bc9421e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+   "excerpt": "The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue.",
+   "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report?.tsrc=rss",
+   "published": "2026-11-20T11:23:00+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스가 2027년 상반기까지 자체 예측 시장 도입을 목표로 하고 있다고 보도했다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "2c6aa85e2fbf6c81",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -69,6 +245,24 @@
     "최근 주가가 큰 폭으로 하락했다고 언급했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "c26c377e65bbb6c8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 AI Chip Stocks Trading Cheap Despite Rising Earnings Estimates",
+   "excerpt": "AI linked semiconductor stocks have been hit hard even as earnings estimates keep climbing. This creates a rare setup where sentiment looks washed out while the fundamental story still leans on persistent AI demand. Investors watching Nvidia, Anthropic and cloud providers see heavy spending on chips and data centers meeting unusually low valuations. This article explores that gap by spotlighting 3 stocks exposed to this AI news wave. The three stocks below are just a snapshot, and the full...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-trading-111137714.html?.tsrc=rss",
+   "published": "2026-11-20T11:11:37+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "인공지능 실적 추정치가 상승하는 동안 관련 반도체 주식들이 하락했다고 다뤘다.",
+    "지속적인 AI 수요를 바탕으로 저렴한 밸류에이션 속에서 관련 주식들을 조명했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "436fa5ef98340622",
@@ -172,6 +366,24 @@
     "아이셰어즈 러셀 1000 그로스 ETF가 엔비디아를 추가 매수했다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "974db32b785c2a47",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba Lost Offshore AI Chip Access Days Before Earnings. Its Capex Line Shows What That Costs",
+   "excerpt": "Key TakeawaysAlibaba reported on Thursday, Nov. 19, the day a US rule cutting Chinese companies off from AI chips in data centers abroad took effect, and said the rule will weigh on cloud growth next year.",
+   "url": "https://www.tikr.com/blog/alibaba-lost-offshore-ai-chip-access-days-before-earnings-its-capex-line-shows-what-that-costs?ref=yahoofinance&tlnk=yf-261120-fxg4pjqm&.tsrc=rss",
+   "published": "2026-11-20T11:05:17+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바는 해외 데이터센터의 AI 반도체 접근을 차단하는 미국 규정 시행일에 실적을 발표했다.",
+    "해당 규정이 내년 클라우드 성장에 부담을 줄 것이라고 알리바바가 언급했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "19b6b52096e4c2ef",
@@ -905,6 +1117,24 @@
     "데이비드 테퍼가 보유한 모든 AMD 주식을 매도했다고 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "503dc9558fbebdf0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jeff Bezos: An Outside Nvidia CEO Has a “Vanishingly Small Chance of Success.” Huang Can Now Nominate 2 Directors",
+   "excerpt": "Key TakeawaysJeff Bezos warned that an outside Nvidia CEO would have a “vanishingly small chance” of succeeding, as filings show former CEO Jensen Huang can nominate two directors. Huang’s nominees would face a vote at the annual meeting, usually in June, so his quicker path back is through the current board.",
+   "url": "https://www.tikr.com/blog/jeff-bezos-an-outside-nvidia-ceo-has-a-vanishingly-small-chance-of-success-huang-can-now-nominate-2-directors?ref=yahoofinance&tlnk=yf-261120-vf54cr6h&.tsrc=rss",
+   "published": "2026-11-20T10:50:25+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "제프 베조스는 외부 엔비디아 CEO의 성공 확률이 매우 낮다고 경고했다고 전했다.",
+    "전직 CEO 젠슨 황이 두 명의 이사를 지명할 수 있게 되었다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "92f7d93fe11eb0dc",
@@ -73745,145 +73975,6 @@
     "뱅크오브아메리카는 연방준비제도의 추가 금리 인상 전망을 수정했다고 밝혔다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "0da585f88bcc01e4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Rocket Lab CEO Takes a Swipe at Elon Musk, Explains Why Neutron Gives Company an Edge Over SpaceX: ‘First Priority Is…’",
-   "excerpt": "Rocket Lab Corporation CEO Peter Beck believes its Neutron rocket could give the company a competitive advantage over Space Exploration Technologies Corp.‘s Starship, even if the latter achieves full reusability. Space-Based Services Will Open $1 Trillion Market Opportunity In an...",
-   "url": "https://finance.yahoo.com/technology/articles/rocket-lab-ceo-takes-swipe-115948505.html?.tsrc=rss",
-   "published": "2026-11-13T11:59:48+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "로켓랩 CEO가 뉴트론 로켓이 스페이스X 대비 경쟁 우위를 제공할 것이라고 주장했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "31d5abb255459d2a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Eli Lilly Stocks Rise as China Approves Orforglipron Weight-Loss Pill",
-   "excerpt": "Lilly's oral obesity drug wins Chinese approval, setting up a fight with Novo Nordisk, Pfizer and Innovent in a vast market.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-stocks-rise-china-115704045.html?.tsrc=rss",
-   "published": "2026-11-13T11:57:04+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "PFE"
-   ],
-   "summary_ko": [
-    "일라이 릴리의 경구용 비만 치료제가 중국에서 승인받았다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a1f14c4a9ed7b681",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Rocket Lab Is Up 28% in a Year, Down 57% From May’s High: Take Profits, or Load Up?",
-   "excerpt": "Key TakeawaysRocket Lab stock is up 28% in a year but sits 57% below its May high. The business kept growing: third-quarter revenue hit a record $268 million, up 73%, and backlog reached a record $3.",
-   "url": "https://www.tikr.com/blog/rocket-lab-is-up-28-in-a-year-down-57-from-mays-high-take-profits-or-load-up?ref=yahoofinance&tlnk=yf-261113-cgq74gjg&.tsrc=rss",
-   "published": "2026-11-13T11:55:52+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "로켓랩의 3분기 매출과 수주 잔고가 역대 최고치를 기록했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "1965b754704412b9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Super Micro Stock Tanks. Export Concerns Could Be a Bigger Problem Than Nvidia's Leadership",
-   "excerpt": "Super Micro Stock Falls as Nvidia Faces Leadership Questions",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-tanks-export-114931735.html?.tsrc=rss",
-   "published": "2026-11-13T11:49:31+00:00",
-   "tickers": [
-    "NVDA",
-    "SMCI"
-   ],
-   "summary_ko": [
-    "수출 우려가 엔비디아의 리더십보다 슈퍼마이크로 주가에 더 큰 문제일 수 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "6e12770c1d0b5576",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Baidu Stocks Fall 3.41% as Remote AI Chip Curbs Threaten Cloud Plans",
-   "excerpt": "Baidu drops with Alibaba and PDD after a report says Washington is finalizing limits on Chinese firms renting overseas compute.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/baidu-stocks-fall-3-41-114912321.html?.tsrc=rss",
-   "published": "2026-11-13T11:49:12+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "미국의 클라우드 규제 검토 소식에 바이두 등 주가가 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "a13e810c7d00e4a8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Starbucks gives 80% of baristas a bonus with a catch",
-   "excerpt": "The coffee chain is rewarding employees based on store sales, operations and customer service performance.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-gives-80-baristas-bonus-114307231.html?.tsrc=rss",
-   "published": "2026-11-13T11:43:07+00:00",
-   "tickers": [
-    "SBUX"
-   ],
-   "summary_ko": [
-    "스타벅스가 매장 실적과 운영 성과에 따라 바리스타들에게 보너스를 지급한다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ac974c2f8c0713b9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Michael Burry Sends Stark Warning on Chip Stocks After Huang's exit",
-   "excerpt": "Burry warns Nvidia-linked stars like CoreWeave and Nebius could lose their edge",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sends-stark-warning-114111188.html?.tsrc=rss",
-   "published": "2026-11-13T11:41:11+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "마이클 베리가 엔비디아 관련주들의 경쟁력 약화 가능성에 대해 경고했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "e9e187c14fe76aca",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Stock Fans Just Got Another Big News From China",
-   "excerpt": "Nvidia's China Troubles Deepen as Report Links Restricted AI Chips to Jensen Huang Scandal",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-fans-just-got-113547947.html?.tsrc=rss",
-   "published": "2026-11-13T11:35:47+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "중국과 연관된 엔비디아의 AI 칩 관련 보도가 나왔음을 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
