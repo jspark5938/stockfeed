@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:00:43.231128+00:00",
+ "updated": "2026-11-20T05:30:30.707668+00:00",
  "trends": [
   {
    "ticker": "CRWD",
@@ -58,6 +58,13 @@
    "ratio": 2.5
   },
   {
+   "ticker": "BABA",
+   "name_ko": "알리바바",
+   "mentions_24h": 33,
+   "mentions_prev_24h": 16,
+   "ratio": 2.06
+  },
+  {
    "ticker": "LLY",
    "name_ko": "일라이릴리",
    "mentions_24h": 10,
@@ -93,18 +100,11 @@
    "ratio": 2.0
   },
   {
-   "ticker": "BABA",
-   "name_ko": "알리바바",
-   "mentions_24h": 33,
-   "mentions_prev_24h": 17,
-   "ratio": 1.94
-  },
-  {
-   "ticker": "COIN",
-   "name_ko": "코인베이스",
-   "mentions_24h": 17,
-   "mentions_prev_24h": 9,
-   "ratio": 1.89
+   "ticker": "NFLX",
+   "name_ko": "넷플릭스",
+   "mentions_24h": 11,
+   "mentions_prev_24h": 6,
+   "ratio": 1.83
   },
   {
    "ticker": "ADBE",
@@ -114,18 +114,18 @@
    "ratio": 1.67
   },
   {
-   "ticker": "PANW",
-   "name_ko": "팔로알토",
-   "mentions_24h": 38,
-   "mentions_prev_24h": 23,
-   "ratio": 1.65
+   "ticker": "COIN",
+   "name_ko": "코인베이스",
+   "mentions_24h": 16,
+   "mentions_prev_24h": 10,
+   "ratio": 1.6
   },
   {
-   "ticker": "NFLX",
-   "name_ko": "넷플릭스",
-   "mentions_24h": 11,
-   "mentions_prev_24h": 7,
-   "ratio": 1.57
+   "ticker": "PANW",
+   "name_ko": "팔로알토",
+   "mentions_24h": 37,
+   "mentions_prev_24h": 24,
+   "ratio": 1.54
   },
   {
    "ticker": "XOM",
@@ -240,6 +240,13 @@
    "ratio": 1.0
   },
   {
+   "ticker": "RIVN",
+   "name_ko": "리비안",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 3,
+   "ratio": 1.0
+  },
+  {
    "ticker": "QBTS",
    "name_ko": "디웨이브",
    "mentions_24h": 2,
@@ -287,13 +294,6 @@
    "mentions_24h": 61,
    "mentions_prev_24h": 77,
    "ratio": 0.79
-  },
-  {
-   "ticker": "RIVN",
-   "name_ko": "리비안",
-   "mentions_24h": 3,
-   "mentions_prev_24h": 4,
-   "ratio": 0.75
   },
   {
    "ticker": "SHOP",
@@ -352,6 +352,13 @@
    "ratio": 0.53
   },
   {
+   "ticker": "DIS",
+   "name_ko": "디즈니",
+   "mentions_24h": 8,
+   "mentions_prev_24h": 15,
+   "ratio": 0.53
+  },
+  {
    "ticker": "ORCL",
    "name_ko": "오라클",
    "mentions_24h": 12,
@@ -359,17 +366,10 @@
    "ratio": 0.52
   },
   {
-   "ticker": "DIS",
-   "name_ko": "디즈니",
-   "mentions_24h": 8,
-   "mentions_prev_24h": 16,
-   "ratio": 0.5
-  },
-  {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
    "mentions_24h": 160,
-   "mentions_prev_24h": 367,
+   "mentions_prev_24h": 363,
    "ratio": 0.44
   },
   {
