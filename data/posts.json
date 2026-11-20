@@ -1,6 +1,130 @@
 {
- "updated": "2026-11-20T10:30:33.301218+00:00",
+ "updated": "2026-11-20T11:00:41.146104+00:00",
  "posts": [
+  {
+   "id": "2859be394e44559a",
+   "kind": "youtube",
+   "source": "The Compound",
+   "author": "The Compound",
+   "title": "The AI Bubble Already Popped | TCAF 269",
+   "excerpt": "On episode 269 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by Jenny Harrington and Bryn Talkington to discuss: Anthropic’s record-breaking IPO, whether the AI bubble has finally burst, Nvidia’s future without Jensen Huang, the massive rotation from tech into value and dividend stocks, and the battle between OpenAI, Claude, and Google Gemini. Plus, the crew shares their favorite stock picks, including Tesla, Visa, Cisco, Freeport-McMoRan, and Kimberly-Clark, discusses covered-call ETFs, Jenny and Bryn’s new book Investment Wisdom for Our Friends and Loved Ones, and the winner of Josh and Jenny’s Netflix vs. Disney bet. This episode is sponsored by VanEck. To learn more about RAAX, visit ►00:00 - Cold Open ►09:58 - Jenny Harrington and Bryn Talkington ►12:",
+   "url": "https://www.youtube.com/watch?v=H709wTcFPo8",
+   "published": "2026-11-20T11:00:23+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA",
+    "GOOGL",
+    "NFLX",
+    "DIS"
+   ],
+   "summary_ko": [
+    "팟캐스트 방송에서 AI 거품이 꺼졌는지 여부와 엔비디아의 미래 등을 다뤘다.",
+    "테슬라, 비자, 넷플릭스 등 다양한 종목에 대한 논의가 진행되었다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a5c0318c9bfa5717",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Forget Nvidia? 2 Artificial Intelligence (AI) Stocks With More Room to 10x",
+   "excerpt": "These former crypto miners are going all in on AI.",
+   "url": "https://www.fool.com/investing/2026/11/20/should-you-forget-nvidia-2-artificial-intelligence-ai-stocks-with-more-room-to-10x/?.tsrc=rss",
+   "published": "2026-11-20T10:35:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "과거 가상자산 채굴 업체들이 AI 분야로 집중하고 있다는 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fbd21526466545bc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Coinbase Asks CFTC to Keep Crypto Contracts in Play Under Prediction Market Swap Rule",
+   "excerpt": "In a Nov. 18 comment letter, Coinbase urged regulators to keep the proposal’s sports, politics, culture and weather examples an open-ended list.",
+   "url": "https://unchainedcrypto.com/coinbase-asks-cftc-to-keep-crypto-contracts-in-play-under-prediction-market-swap-rule/?.tsrc=rss",
+   "published": "2026-11-20T10:30:53+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스가 규제 당국에 예측 시장 스왑 규칙과 관련된 의견서를 제출했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "c511082645ad8f77",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is AMD Down 5% In Premarket Today?",
+   "excerpt": "AMD extended its slide for a second day after reports questioned its China business even though analysts see little merit in the allegations.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/why-is-amd-down-5-in-premarket-today/cNbSfC3R9KV?.tsrc=rss",
+   "published": "2026-11-20T10:22:33+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "중국 사업 관련 의혹 보도로 인해 AMD 주가가 하락세를 보였다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "71bfa7ea4eaae07a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple Is “Buying Back Stock at 40 Times Earnings.” Cash in Treasuries Would Earn More",
+   "excerpt": "Key TakeawaysApple trades at 37. 4x forward earnings, near its 10-year high, after $901 billion of buybacks from 2012 through September 2026.",
+   "url": "https://www.tikr.com/blog/apple-is-buying-back-stock-at-40-times-earnings-cash-in-treasuries-would-earn-more?ref=yahoofinance&tlnk=yf-261120-48qj5666&.tsrc=rss",
+   "published": "2026-11-20T10:19:33+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플이 높은 밸류에이션에서 자사주를 매입하고 있다는 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4c787aeb67b38c97",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Google Stock Is Back Near Its 2025 Bottom Valuation. Can It Rebound Again?",
+   "excerpt": "Google stock trades near 15 times earnings, close to its spring 2025 valuation low, as Alphabet’s AI spending climbs.",
+   "url": "https://beincrypto.com/google-stock-valuation-2025-bottom/?.tsrc=rss",
+   "published": "2026-11-20T10:14:07+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "알파벳의 AI 지출이 증가하는 가운데 구글 주가가 저점 부근에서 거래되고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "32f340c44d3ebdd3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NIO (NIO) Brings Three Minute Battery Swaps To Extreme Subzero Conditions",
+   "excerpt": "NIO (NYSE:NIO) announced a new battery swapping breakthrough that keeps three minute swaps operating in extreme subzero conditions. The company reported that its latest swap stations maintain full swapping functionality during deep freeze tests in harsh winter climates. NIO said the updated system targets drivers in regions with prolonged severe winters where conventional fast charging can face performance limits. The subzero three minute battery swap breakthrough is part of a broader...",
+   "url": "https://finance.yahoo.com/technology/articles/nio-nio-brings-three-minute-101353734.html?.tsrc=rss",
+   "published": "2026-11-20T10:13:53+00:00",
+   "tickers": [
+    "NIO"
+   ],
+   "summary_ko": [
+    "니오가 극심한 저온 환경에서도 3분 만에 배터리 교체가 가능한 시스템을 발표했다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "5472c9deb1dd079a",
    "kind": "news",
@@ -87,6 +211,23 @@
    "tone": "neu"
   },
   {
+   "id": "37aa96b3125e7d66",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TSMC Is 28% Below Its High. Another Director Just Bought $500,000 of Stock as Demand Stays “Extremely Robust”",
+   "excerpt": "Key TakeawaysTSMC director Ursula Burns bought 1,375 American depositary shares (ADSs) for $500,039 on Nov. 17.",
+   "url": "https://www.tikr.com/blog/tsmc-is-28-below-its-high-another-director-just-bought-500000-of-stock-as-demand-stays-extremely-robust?ref=yahoofinance&tlnk=yf-261120-c583cp2q&.tsrc=rss",
+   "published": "2026-11-20T09:50:51+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": [
+    "TSMC의 수요가 매우 탄탄한 가운데, 한 이사가 주식을 매입했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "225349985ff345a6",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -103,6 +244,23 @@
     "아마존과 알파벳이 인공지능 관련 거래에서 핵심적인 역할을 하고 있다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "fe1b6610b55b8e70",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Forget UnitedHealth: Humana Has More to Lose From CMS’s Medicare Advantage Audit Crackdown",
+   "excerpt": "Key TakeawaysUnitedHealth fell 5% on Tuesday after CMS proposed applying Medicare Advantage audit findings to whole contracts, going back to payment year 2018. Humana and CVS Health fell with it, and Humana dropped another 13% on Wednesday.",
+   "url": "https://www.tikr.com/blog/forget-unitedhealth-humana-has-more-to-lose-from-cmss-medicare-advantage-audit-crackdown?ref=yahoofinance&tlnk=yf-261120-vwvwp829&.tsrc=rss",
+   "published": "2026-11-20T09:45:57+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": [
+    "메디케어 어드밴티지 감사 규제 강화로 인해 휴마나 등이 타격을 입었다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "9351d500c0be5a26",
@@ -154,6 +312,23 @@
     "골드만삭스가 알리바바에 대해 매수 등급과 목표가를 유지했다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "c3e1effc06d7fc87",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Boeing Is Down 37% From Its High, and Its Jet Unit Is in an “Overstaffed Position.” Is the Selling Overdone?",
+   "excerpt": "Key TakeawaysBoeing just hit a fresh 52-week low, 37% below its January high, because its 737 production ramp keeps slipping and its cash targets keep moving to later years. A 5% cut to its jet workforce and lower October deliveries show the slower ramp is real, and it also matters for engine maker GE Aerospace and for Southwest Airlines, which flies only 737s.",
+   "url": "https://www.tikr.com/blog/boeing-is-down-37-from-its-high-and-its-jet-unit-is-in-an-overstaffed-position-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261120-rmg594r6&.tsrc=rss",
+   "published": "2026-11-20T09:35:21+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "summary_ko": [
+    "보잉이 생산 차질과 인력 과다 문제 등으로 52주 신저가를 기록했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "f3b7ec0b6604028f",
@@ -73066,77 +73241,6 @@
    ],
    "summary_ko": [
     "11월 11일 유나이티드헬스 주식에 대해 51개 ETF가 매수하고 9개가 매도하여 8,680만 달러의 순유입을 기록했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "0ae9dec48f623646",
-   "kind": "youtube",
-   "source": "The Compound",
-   "author": "The Compound",
-   "title": "Damn it, Jensen! | TCAF 268",
-   "excerpt": "On episode 268 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks breaking out, global markets hitting new highs, magazine covers as contrarian indicators, and whether the collapse in gold and silver could be setting up a major opportunity in precious metals. This episode is sponsored by DBMF. To learn more about the world’s largest managed futures ETF visit ►00:00 - Cold Open ►09:44 - JC Parets of TrendLabs Joins ►12:11 - Jensen Huang Resigns: Sell or Hold Nvidia? ►18:27 -",
-   "url": "https://www.youtube.com/watch?v=731fH2N2rdI",
-   "published": "2026-11-13T11:00:15+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL",
-    "AMD"
-   ],
-   "summary_ko": [
-    "엔비디아의 역사적인 매도세와 AI 관련주의 흐름을 분석했다.",
-    "AMD와 애플이 선전하는 이유 및 시장 상황을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "bdb63df5479a3012",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "ETF Activity: SPY Leads With $4.25 Billion Inflow on Nov. 11",
-   "excerpt": "Large-cap funds pulled in fresh money while QQQ and IVV saw estimated outflows.",
-   "url": "https://finance.yahoo.com/markets/options/articles/etf-activity-spy-leads-4-110011821.html?.tsrc=rss",
-   "published": "2026-11-13T11:00:11+00:00",
-   "tickers": [
-    "QQQ"
-   ],
-   "summary_ko": [
-    "11월 11일 대형주 펀드로 신규 자금이 유입된 반면, QQQ와 IVV는 자금 유출을 기록했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ebadc8fdccceda3b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang scandal trail leads to Alibaba, the king of free Chinese AI: Chart of the Day",
-   "excerpt": "The cheap AI American companies are switching to depends on chips Washington wants to cut off.",
-   "url": "https://finance.yahoo.com/markets/article/jensen-huang-scandal-trail-leads-to-alibaba-the-king-of-free-chinese-ai-chart-of-the-day-110000329.html?.tsrc=rss",
-   "published": "2026-11-13T11:00:00+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "미국 기업들이 전환하고 있는 저렴한 AI가 워싱턴이 차단하려는 칩에 의존하고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4985a6bc223583a4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Novo submits etavopivat, an investigational once-daily therapy for adolescents and adults living with sickle cell disease, to the FDA and EMA for approval",
-   "excerpt": "Novo Nordisk today announced the submissions of a New Drug Application (NDA) to the US Food and Drug Administration (FDA) and a Marketing Authorization Application (MAA) to the European Medicines Agency (EMA) for etavopivat, an investigational, once-daily, orally available, selective activator of pyruvate kinase red blood cell isozyme (PKR), for the treatment of adolescents and adults (aged 12 years and older) living with sickle cell disease (SCD). If approved, etavopivat could offer a new appro",
-   "url": "https://finance.yahoo.com/healthcare/articles/novo-submits-etavopivat-investigational-once-110000991.html?.tsrc=rss",
-   "published": "2026-11-13T11:00:00+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "summary_ko": [
-    "노보 노디스크가 겸상 적혈구 질환 치료제 에타보피바트에 대해 FDA와 EMA에 승인 신청을 제출했다고 밝혔다."
    ],
    "tone": "pos"
   }
