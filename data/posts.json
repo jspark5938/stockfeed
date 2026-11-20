@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-20T00:00:40.681860+00:00",
+ "updated": "2026-11-20T00:30:31.901679+00:00",
  "posts": [
+  {
+   "id": "63c04eebc1b675f6",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Documents Released by House Panel Show AI Chip Approvals",
+   "excerpt": "\"Balance of Power\" focuses on the intersection of politics and global business. On today's show, EqualAI President Miriam Vogel says Anthropic’s IPO puts frontier AI labs under greater scrutiny from investors and regulators, as pressure builds in Washington for clearer guardrails around the technology. Nicholas Burns, who served as US Ambassador to China under President Biden and previously as US Ambassador to NATO, says President Trump’s trilateral meeting with Xi Jinping and Vladimir Putin sent the wrong message to US allies, while warning that tensions over Nvidia and chip exports could further strain relations with Beijing. Republican Representative Marlin Stutzman of Indiana criticized GOP lawmakers for missing votes as the party races to finish its agenda before losing the House majo",
+   "url": "https://www.youtube.com/watch?v=CseELv0cfzk",
+   "published": "2026-11-20T00:11:45+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미국 하원 패널이 공개한 문서는 AI 칩 승인과 관련된 내용을 다루었다.",
+    "엔비디아와 칩 수출을 둘러싼 긴장이 베이징과의 관계를 더 악화시킬 수 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d367eb87242915a3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
+   "excerpt": "Taiwan Semiconductor Manufacturing Co (TSMC, TWSE: 2330) has suspended some advanced production orders from Chinese chip designers and will largely restrict those clients to older technology, Taipei Times reported on November 20, citing two sources with knowledge of the matter. The move follows new US export rules that came into force on November 19.",
+   "url": "http://www.intellinews.com/tsmc-halts-advanced-chip-orders-from-chinese-designers-in-taiwan-486911/?.tsrc=rss",
+   "published": "2026-11-20T00:06:31+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": [
+    "TSMC가 대만의 일부 중국산 첨단 칩 설계 주문을 중단했다고 보도했다.",
+    "새로운 미국 수출 규정이 시행된 이후 이루어진 조치라고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "d52eea3ddab31b11",
    "kind": "youtube",
@@ -196,6 +232,24 @@
     "앤스로픽의 나스닥 상장으로 구글 지분 가치가 부각된 가운데 알파벳 주가가 하락했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "e68ce73ee5e2e75e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "California subpoenas Nvidia as questions about CEO affair, AI chips mount",
+   "excerpt": "Atty. Gen. Rob Bonta's office said information gleaned from the subpoenas 'will help the California Department of Justice evaluate whether Nvidia's actions violated California law.'",
+   "url": "https://finance.yahoo.com/technology/ai/articles/california-subpoenas-nvidia-questions-ceo-230444672.html?.tsrc=rss",
+   "published": "2026-11-19T23:04:44+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캘리포니아주 법무부가 엔비디아를 상대로 소환장을 발부했다고 밝혔다.",
+    "엔비디아의 행동이 주법을 위반했는지 평가하기 위한 정보 수집 목적이라고 설명했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "a3351f0c42c0245d",
@@ -71616,40 +71670,6 @@
    ],
    "summary_ko": [
     "아이온큐는 엔비디아 경영진 개편과 양자 컴퓨팅 기업들의 부진한 실적으로 시장 비관론 속에 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c3b2706cdf27ac03",
-   "kind": "youtube",
-   "source": "The Wall Street Journal",
-   "author": "The Wall Street Journal",
-   "title": "After Jensen Huang’s Exit, What Lies Ahead for Nvidia? | WSJ",
-   "excerpt": "Nvidia CEO Jensen Huang’s resignation threatens the AI boom he helped propel. WSJ’s Amrith Ramkumar talks on the “Tech News Briefing” podcast about what’s next as lawmakers push for investigations. #nvidia #tech",
-   "url": "https://www.youtube.com/shorts/WQxS4c4FkC4",
-   "published": "2026-11-13T00:12:44+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO의 사임이 AI 붐에 위협이 될 수 있다고 보도했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "9ed4363c84374f0e",
-   "kind": "youtube",
-   "source": "The Wall Street Journal",
-   "author": "The Wall Street Journal",
-   "title": "After Jensen Huang’s Exit, What Lies Ahead for Nvidia? | WSJ",
-   "excerpt": "Nvidia CEO Jensen Huang’s resignation threatens the AI boom he helped propel. WSJ’s Amrith Ramkumar talks on the “Tech News Briefing” podcast about what’s next as lawmakers push for investigations. #nvidia #tech",
-   "url": "https://www.youtube.com/watch?v=WQxS4c4FkC4",
-   "published": "2026-11-13T00:12:44+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 사임이 AI 붐에 위협이 되고 있으며 의회의 조사가 추진되고 있다고 다뤘다."
    ],
    "tone": "neg"
   }
