@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-20T02:30:33.081891+00:00",
+ "updated": "2026-11-20T03:00:40.455851+00:00",
  "posts": [
+  {
+   "id": "be25817fe51d5445",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nasdaq, Dow, S&P 500 Futures Slip As Anthropic’s Record Debut Fails To Lift AI Stocks: SLV, GLD, AMD, NVDA In Focus",
+   "excerpt": "Anthropic has quickly become one of the most valuable public companies in the world after its shares began trading much above its allocation price of $83.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-dow-futures-fell-anthropic-ipo-ai-trade-amd-nvda/cNbSGu0R9KR?.tsrc=rss",
+   "published": "2026-11-20T02:48:14+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": [
+    "Anthropic의 주식 상장에도 AI 주식이 상승하지 못하면서 나스닥과 다우 등 선물 지수가 하락했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "4cdd1214456fab18",
    "kind": "news",
@@ -33,6 +51,61 @@
    ],
    "summary_ko": [
     "팔로알토 네트웍스가 탄탄한 실적과 성장 전망, 보안 서비스 외 사업 확장 계획에 힘입어 주가가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "71bbabd52376c831",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Says He Warned on AI With NVIDIA and CoreWeave: Big Short Déjà Vu?",
+   "excerpt": "Michael Burry says he warned investors about Nvidia, CoreWeave, and Nebius as shares fell, while holding bearish puts.",
+   "url": "https://beincrypto.com/michael-burry-warned-nvidia-coreweave-nebius/?.tsrc=rss",
+   "published": "2026-11-20T02:19:22+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "마이클 버리가 엔비디아와 코어위브 등에 대해 과거 경고했다고 언급하며 하락세 속에서 풋옵션을 보유하고 있다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "844de1f482040f71",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Should Qualcomm (QCOM) Investors Watch After 500 California Layoffs And New AI Moves?",
+   "excerpt": "Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company is reallocating resources toward new AI inference initiatives, backed by fresh technology partnerships announced in recent months. Qualcomm is also extending its reach into K-8 robotics education through programs built with Arduino, Disney Imagineering, and REV Robotics. These layoffs and new AI and education partnerships matter, but investors...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-investors-watch-500-021653323.html?.tsrc=rss",
+   "published": "2026-11-20T02:16:53+00:00",
+   "tickers": [
+    "QCOM",
+    "DIS"
+   ],
+   "summary_ko": [
+    "퀄컴이 캘리포니아에서 500명 이상의 감원을 단행하고 스마트폰 사업 압박 속에서 AI 추론 사업에 자원을 재배치한다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fc59bf4f1730e450",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Backed AI Data Center Demand Puts Schneider Electric Stock In Focus",
+   "excerpt": "AI returned to center stage when Anthropic’s IPO created about $81.3b in equity value and attracted heavyweight backers such as Nvidia, Google, Amazon, and Microsoft. That level of capital directed toward compute and power can draw attention to the less flashy picks and shovels behind the AI boom. This piece looks at three stocks exposed to that story and explains why their AI data center connections might matter for a diversified portfolio. The three stocks covered next are only a small...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-ai-data-center-021420909.html?.tsrc=rss",
+   "published": "2026-11-20T02:14:20+00:00",
+   "tickers": [
+    "NVDA",
+    "MSFT",
+    "GOOGL",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "Anthropic의 IPO로 AI 데이터 센터 수요와 엔비디아 등 주요 기업들의 투자에 관심이 집중되었다고 다뤘다."
    ],
    "tone": "pos"
   },
