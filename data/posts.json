@@ -1,6 +1,177 @@
 {
- "updated": "2026-11-20T20:00:39.788263+00:00",
+ "updated": "2026-11-20T20:30:34.199191+00:00",
  "posts": [
+  {
+   "id": "e16b3a45731ff32a",
+   "kind": "youtube",
+   "source": "Amit Kukreja",
+   "author": "Amit Kukreja",
+   "title": "NVIDIA GETS DESTROYED, WORST DAY FOR MARKETS IN 2026 | MARKET CLOSE",
+   "excerpt": "",
+   "url": "https://www.youtube.com/watch?v=MJxc-J0ITlk",
+   "published": "2026-11-20T20:23:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 주가가 급락했으며 시장이 부진한 흐름을 보였다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "d30e375e658789b0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting. It’s Nvidia’s Worst Day Since DeepSeek and It Has Lost $2.7 Trillion Since October",
+   "excerpt": "Nvidia fell 12% after Reuters reported that SEC enforcement staff are examining potential accounting issues. It's on track for its worst day since DeepSeek and is 46% below its October record.",
+   "url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-plunges-12-after-reuters-reports-an-sec-probe-of-its-accounting-its-nvidias-worst-day-since-deepseek-and-it-has-lost-2-7-trillion-since-october/?.tsrc=rss",
+   "published": "2026-11-20T20:17:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "로이터의 회계 조사 보도 이후 엔비디아 주가가 12% 급락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "5cd61601a104e7ad",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Eli Lilly (LLY) After ObesityWeek Is The Stock Still Undervalued",
+   "excerpt": "Eli Lilly (LLY) is back in focus after ObesityWeek 2026, where the company released fresh clinical data on its obesity and sleep apnea pipeline, including EloraTZP, retatrutide and Foundayo. The latest ObesityWeek data arrived in a choppy tape for Eli Lilly. The share price has slipped about 2% in the last session and 5% over the past week, yet still shows a 25% year to date share price return and a 1 year total shareholder return of 30%, with multi year total shareholder returns above 4x...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-obesityweek-stock-201358942.html?.tsrc=rss",
+   "published": "2026-11-20T20:13:58+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": [
+    "일라이릴리가 비만 치료 관련 신규 임상 데이터를 공개했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ecc6a647e27b0f31",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Adobe (ADBE) Joins 40 Plus Groups Launching The AI Transparency Initiative",
+   "excerpt": "Adobe (NasdaqGS:ADBE) joined Microsoft and more than 40 organizations to launch the AI Transparency Initiative in November 2026. The coalition aims to create independently verifiable standards so enterprises can monitor and control how AI systems behave. New guidelines focus on AI accountability and data security for businesses that use Adobe's creative and document software in regulated sectors. The AI Transparency Initiative is only one part of Adobe's broader story on AI and enterprise...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-joins-40-plus-201324152.html?.tsrc=rss",
+   "published": "2026-11-20T20:13:24+00:00",
+   "tickers": [
+    "MSFT",
+    "ADBE"
+   ],
+   "summary_ko": [
+    "어도비가 마이크로소프트 등과 함께 AI 투명성 이니셔티브에 참여했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "927f9310df78bfe0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Coinbase Global Bears Saw Before A 54% Drop",
+   "excerpt": "If you followed Coinbase Global through a year of regulatory headlines, bank charters and product launches, the payoff did not match the drama. Investors who held Coinbase Global over the past year are down 54.3%, including dividends. If you had bought on 19 November 2025, trusting analyst models built on 8.3% revenue growth, 24.3% profit margins and a future 62.8x P/E, what exactly did that original thesis miss about how this business really behaves in practice? On Simply Wall St, a...",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-bears-saw-54-201247395.html?.tsrc=rss",
+   "published": "2026-11-20T20:12:47+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스가 지난 1년간 규제 및 실적 흐름 속에서 주가 하락을 겪었다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "1aefff85b0163b3b",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Navigating a falling market: The Investment Committee's strategy",
+   "excerpt": "The Investment Committee debate how to trade a falling market following the historic Anthropic IPO and Nvidia's continued weakness amid it's various scandals.",
+   "url": "https://www.youtube.com/watch?v=7yuxLar3WEA",
+   "published": "2026-11-20T20:04:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "앤스로픽의 역사적인 IPO와 엔비디아의 약세 속에서 하락장 대응 전략을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "a9c0582323c58ba2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Strategy Is Down 44% in a Month as Crypto Stocks Crumble: Can MSTR Stock Get Back to $100 This Year?",
+   "excerpt": "Strategy borrowed heavily to stack Bitcoin, and now the coin's slide is magnifying every loss while preferred dividends and debt keep coming due. With six weeks left in the year, what would have to go right for shareholders?",
+   "url": "https://247wallst.com/investing/2026/11/20/strategy-is-down-44-in-a-month-as-crypto-stocks-crumble-can-mstr-stock-get-back-to-100-this-year/?.tsrc=rss",
+   "published": "2026-11-20T20:02:35+00:00",
+   "tickers": [
+    "MSTR"
+   ],
+   "summary_ko": [
+    "암호화폐 관련주들의 하락 속에서 스트래티지의 주가가 한 달 동안 큰 폭으로 내렸다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6dda91929aab857a",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Would be unprecedented to see final bottom on S&P with Apple where it is: BTIG’s Jonathan Krinsky",
+   "excerpt": "Jonathan Krinsky, BTIG chief market technician, joins 'The Exchange' to discuss Apple stock, market volatility and more.",
+   "url": "https://www.youtube.com/watch?v=P-Aej5E1S0A",
+   "published": "2026-11-20T20:01:02+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "BTIG의 분석가가 애플의 주가와 시장 변동성에 대해 논의했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "688e6a95d0a3167c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia, Nasdaq Slide Deepens After Report of SEC Accounting Probe",
+   "excerpt": "A stock market practically begging for some good news got more bad news instead.",
+   "url": "https://finance.yahoo.com/m/cff37c7c-0ca9-37b0-a414-8f2a8d6939e4/nvidia%2C-nasdaq-slide-deepens.html?.tsrc=rss",
+   "published": "2026-11-20T19:57:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "SEC 회계 조사 보도가 전해진 후 엔비디아와 나스닥의 하락세가 깊어졌다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "78ce1baa2668281e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia shares fall 11.5% as report of SEC accounting probe adds to pressure",
+   "excerpt": "Investing.com -- Nvidia shares were down 11.5% amid broader weakness in technology stocks as a report of a U.S. Securities and Exchange Commission investigation added to scrutiny of the chipmaker.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-fall-11-5-195436759.html?.tsrc=rss",
+   "published": "2026-11-20T19:54:36+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "SEC 조사 보도의 영향으로 기술주 전반의 약세 속에서 엔비디아 주가가 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "72527c1327f9cb7e",
    "kind": "news",
@@ -51,6 +222,40 @@
     "스노플레이크의 성장 기회가 새로운 리스크가 될 수 있다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "2255f26f72bb2060",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Could Send Rocket Lab Stock Higher?",
+   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://www.trefis.com/stock/rklb/articles/627244/what-could-send-rocket-lab-stock-higher/2026-11-20?.tsrc=rss",
+   "published": "2026-11-20T19:46:53+00:00",
+   "tickers": [
+    "RKLB"
+   ],
+   "summary_ko": [
+    "로켓랩 주가가 상승할 수 있는 요인에 대해 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "440baf6e50d12d4d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia’s accounting practices are focus of probe by Wall Street regulators: report",
+   "excerpt": "The SEC probe is the latest of Nvidia's legal woes.",
+   "url": "https://nypost.com/2026/11/20/business/nvidias-accounting-practices-are-focus-of-probe-by-sec-report/?.tsrc=rss",
+   "published": "2026-11-20T19:45:32+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "월스트리트 규제 당국이 엔비디아의 회계 관행에 대해 조사 중이라고 보도했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "05fc80fa2baf8c8d",
@@ -157,6 +362,23 @@
    ],
    "summary_ko": [
     "트럼프 대통령이 AI 주가 급락 전에 배당 ETF를 매수했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f49440d22e318dcb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Target, Walmart Earnings Tell Us About Retail and Consumers",
+   "excerpt": "Walmart and Target–and other retailers–are having to work harder than ever because consumers are hungry for value.",
+   "url": "https://finance.yahoo.com/m/5b440eae-c472-3914-a394-596d02040cd0/what-target%2C-walmart-earnings.html?.tsrc=rss",
+   "published": "2026-11-20T19:32:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트와 타겟의 실적이 소비자의 가치 지향적 성향을 보여준다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -300,6 +522,23 @@
    "tone": "neg"
   },
   {
+   "id": "920413f0a79d193a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Labour’s ‘unfair’ bank tax will have consequences, warns JP Morgan boss",
+   "excerpt": "The boss of JP Morgan has warned that John Healey’s bank tax raid will have consequences for Britain, as he vowed to set an “example” by finding ways to claw back the levy.",
+   "url": "https://www.telegraph.co.uk/business/2026/11/20/labour-unfair-bank-tax-consequences-jp-morgan/?.tsrc=rss",
+   "published": "2026-11-20T19:00:58+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "JP모간 최고경영자가 영국의 은행세 부과에 대해 경고했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "152f4c042da99c91",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -314,6 +553,40 @@
    ],
    "summary_ko": [
     "JP모간 체이스가 달라스에 사모펀드와 벤처캐피털 등을 지원하는 특화된 뱅킹 거점을 구축하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "169feb1051c5c421",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AMD Stock Just Crashed Nearly 8%: Here's Why and What to Do Now",
+   "excerpt": "AMD shares fell 7.72% after China-related allegations raised export-control and supply-chain concerns. Should investors hold or wait for a better entry point?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-just-crashed-nearly-190000127.html?.tsrc=rss",
+   "published": "2026-11-20T19:00:00+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "중국 관련 의혹으로 수출 통제 우려가 제기되면서 AMD 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "d47528c2a11f89c3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "QNT & QBTS: 2 Quantum Stocks to Buy for Triple-Digit Growth in 2027",
+   "excerpt": "Quantinuum and D-Wave target triple-digit revenue growth in 2027, backed by technology advances, rising commercial traction and expanding customer adoption.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/qnt-qbts-2-quantum-stocks-190000464.html?.tsrc=rss",
+   "published": "2026-11-20T19:00:00+00:00",
+   "tickers": [
+    "QBTS"
+   ],
+   "summary_ko": [
+    "Quantinuum과 D-Wave가 2027년에 세 자리 수 매출 성장을 목표로 한다고 다뤘다."
    ],
    "tone": "pos"
   },
@@ -3893,6 +4166,42 @@
     "퍼포즈 인베스트먼트가 Cboe 캐나다에 앤스로픽과 마이크론을 포함한 일드 셰어 ETF를 상장했다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "de88da4257137b88",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $1.5 Billion Hedge Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysHHLR Advisors, part of Hillhouse, added to PDD Holdings, Alibaba and Legend Biotech last quarter, and together they’re now just over half of its US stock portfolio. PDD and Alibaba both reported strong September quarters on Nov.",
+   "url": "https://www.tikr.com/blog/a-1-5-billion-hedge-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261120-qg5phh85&.tsrc=rss",
+   "published": "2026-11-20T14:57:59+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "HHLR Advisors가 지난 분기에 PDD 홀딩스, 알리바바, 레전드 바이오텍을 매수했다고 전했다.",
+    "PDD와 알리바바는 9월 분기에 호실적을 기록했다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ff8f6755a40814e5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $1.2 Billion Fund Bought These 3 Stocks Last Quarter",
+   "excerpt": "Key TakeawaysA $1. 2 billion fund, Tensor Edge Capital, added to Broadcom, Alphabet and Viavi Solutions in the third quarter, and more than tripled its Viavi stake.",
+   "url": "https://www.tikr.com/blog/a-1-2-billion-fund-bought-these-3-stocks-last-quarter?ref=yahoofinance&tlnk=yf-261120-whr9mqvw&.tsrc=rss",
+   "published": "2026-11-20T14:57:56+00:00",
+   "tickers": [
+    "GOOGL",
+    "AVGO"
+   ],
+   "summary_ko": [
+    "Tensor Edge Capital이 3분기에 브로드컴, 알파벳, 비아비 솔루션을 매수했다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "489ec81a63a74076",
@@ -77327,202 +77636,6 @@
     "어플라이드 머티어리얼즈의 실적과 파트너십이 AI 수요를 시사하며 긍정적이라고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "3a3839c8d3759a38",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Meta tests prediction-market app for employees, WSJ reports",
-   "excerpt": "Investing.com -- Meta Platforms is testing an internal prediction-market app called Takes, allowing employees to predict the outcomes of events using virtual points rather than real money, The Wall Street Journal reported Friday.",
-   "url": "https://finance.yahoo.com/technology/articles/meta-tests-prediction-market-app-203017664.html?.tsrc=rss",
-   "published": "2026-11-13T20:30:17+00:00",
-   "tickers": [
-    "META"
-   ],
-   "summary_ko": [
-    "메타가 직원들을 대상으로 가상 포인트를 사용하는 예측 시장 앱을 테스트 중이라고 보도했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9a75a4a91a74a1bf",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "4 Takeaways From Dario Amodei’s Anthropic IPO Chat With Jamie Dimon",
-   "excerpt": "Anthropic CEO Dario Amodei makes the case for taking part in the company’s initial public offering in a chat with JPMorgan Chase CEO Jamie Dimon.",
-   "url": "https://finance.yahoo.com/m/5dddb6e1-03ab-3631-a0b0-a1dfe29c027e/4-takeaways-from-dario.html?.tsrc=rss",
-   "published": "2026-11-13T20:28:00+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "앤트로픽의 CEO 다리오 아모데이가 제이미 다이먼과의 대담에서 기업공개 참여를 주장했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "de5daa34c990b821",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia’s Scandal Is Poking Real Holes in the AI Trade. That Doesn’t Mean It’s Over.",
-   "excerpt": "The Huang rumpus aside, there are still opportunities to buy the dip.",
-   "url": "https://finance.yahoo.com/m/8cfa758b-f94e-38fb-92b4-fb2bde5383db/nvidia%E2%80%99s-scandal-is-poking.html?.tsrc=rss",
-   "published": "2026-11-13T20:23:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 관련 논란이 AI 투자 열기에 구멍을 내고 있다고 진단했다.",
-    "그럼에도 여전히 저가 매수 기회가 존재한다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a722b090efa22bc4",
-   "kind": "reddit",
-   "source": "r/StockMarket",
-   "author": "/u/Zipski577",
-   "title": "Retail investors have been buying the NVDA dip in enormous numbers",
-   "excerpt": "Multiple contributors on CNBC today have reported that their retail clients have been buying the dip in NVDA stock in large volume since its initial dip after the US midterm election Blue Wave reaction. Robinhood data confirms this as there has been massive net buying amongst its users over the last several weeks. With several unknowns and negative headlines and new information coming out almost daily, many of these buys are already sitting at notable unrealized losses. Research studies have shown that retail flow can be a notable contrarian signal and that strong retail buying + institutional selling is usually followed by relative underperformance. Thoughts? Are u buying the dip? submitted by /u/Zipski577 to r/StockMarket [link] [comments]",
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xvimdr/retail_investors_have_been_buying_the_nvda_dip_in/",
-   "published": "2026-11-13T20:22:17+00:00",
-   "tickers": [
-    "NVDA",
-    "HOOD"
-   ],
-   "summary_ko": [
-    "개인 투자자들이 최근 하락한 엔비디아 주식을 대거 매수하고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "b83381d61fe7a3d4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Top Stock Reports for Visa, ExxonMobil & Pfizer",
-   "excerpt": "Today's Research Daily features new research reports on 16 major stocks, including Visa Inc. (V), ExxonMobil Holdings Corporation (XOM) and Pfizer Inc. (PFE).",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-visa-exxonmobil-201900445.html?.tsrc=rss",
-   "published": "2026-11-13T20:19:00+00:00",
-   "tickers": [
-    "PFE",
-    "XOM"
-   ],
-   "summary_ko": [
-    "비자, 엑슨모빌, 화이자를 포함한 16개 주요 종목에 대한 새로운 리서치 보고서를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e2029ed4908bfe74",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-   "excerpt": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.",
-   "url": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion?.tsrc=rss",
-   "published": "2026-11-13T20:16:03+00:00",
-   "tickers": [
-    "COIN",
-    "HOOD",
-    "JPM"
-   ],
-   "summary_ko": [
-    "JP모간의 비트코인 및 암호화폐 관련 자산 보유액이 10억 달러에 육박했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ee32ff4674001aec",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bank of America resets AMD stock price target as Nvidia CEO exits",
-   "excerpt": "The biggest clue wasn’t in the price target.",
-   "url": "https://www.thestreet.com/investing/stocks/bank-of-america-amd-price-target?.tsrc=rss",
-   "published": "2026-11-13T20:13:00+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD",
-    "BAC"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO의 사임 이후 뱅크오브아메리카가 AMD 주가 목표치를 재설정했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "954dd13b93a7d3d4",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/DogEatApple",
-   "title": "Deal or no deal, is NVDA done? Will Jensen Huang be reinstalled as CEO of Nvidia?",
-   "excerpt": "A lot of talks about the affair but the deal breaking is Nvidia's sale to China. I dug some old news and it appeared to be that Nvidia was allowed to sale to China but China government doesn't want to buy. Did he still have chance? Will Nvidia be saved by him? submitted by /u/DogEatApple to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvidoe/deal_or_no_deal_is_nvda_done_will_jensen_huang_be/",
-   "published": "2026-11-13T20:12:39+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 중국 수출 계약과 젠슨 황의 복귀 가능성에 대한 시장의 의문과 논의를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "efb649a64d313f55",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cisco CEO on trusting Nvidia chips after Jensen Huang's exit: 'Absolutely'",
-   "excerpt": "Cisco (CSCO) CEO Chuck Robbins sits down with Yahoo Finance Executive Editor Brian Sozzi to outline his thoughts on what Nvidia's (NVDA) business and the broader tech landscape might look like without Jensen Huang at the helm.",
-   "url": "https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html?.tsrc=rss",
-   "published": "2026-11-13T20:10:49+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "시스코 CEO가 젠슨 황 퇴임 이후에도 엔비디아 칩을 신뢰한다고 밝혔다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3017bf4571d7ba62",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Arm Holdings (NASDAQ: ARM) CEO Considered For Top Industry Leadership Role",
-   "excerpt": "Arm Holdings (NasdaqGS: ARM) CEO Rene Haas is being evaluated as a potential permanent CEO successor at Nvidia after Jensen Huang's sudden resignation. The consideration of Haas links two major semiconductor players that already share close commercial ties through chip and AI partnerships. Arm's board and senior leadership team now face questions over succession planning and future leadership structure if Haas moves to Nvidia. The possibility of Rene Haas moving to Nvidia's top job is...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-nasdaq-arm-ceo-201031694.html?.tsrc=rss",
-   "published": "2026-11-13T20:10:31+00:00",
-   "tickers": [
-    "NVDA",
-    "ARM"
-   ],
-   "summary_ko": [
-    "ARM의 CEO 르네 하스가 엔비디아의 차기 CEO 후보로 거론되고 있다고 전했다.",
-    "이로 인해 두 반도체 기업 간의 리더십 구조 변화 가능성이 제기되었다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1e8b391de541cfca",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Tanks as Altman Joins Dario in AI Chip Export Ban",
-   "excerpt": "Et Tu, Altman and Dario?",
-   "url": "https://app.moby.co/home/news/news-nvidia-tanks-as-altman-joins-dario-in-ai-chip-export-ban?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "published": "2026-11-13T20:07:30+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "알트만과 다리오가 AI 칩 수출 금지에 합류하면서 엔비디아 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
