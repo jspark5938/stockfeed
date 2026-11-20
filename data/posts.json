@@ -1,6 +1,210 @@
 {
- "updated": "2026-11-20T12:30:34.813087+00:00",
+ "updated": "2026-11-20T13:00:39.625013+00:00",
  "posts": [
+  {
+   "id": "6265a9b510817046",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Microsoft catch up in the frontier AI race?",
+   "excerpt": "\"In The Loop\" host Ejaaz Ahamadeen sits down with Deirdre Bosa to share his thoughts on Microsoft's (MSFT) place among AI frontier models.",
+   "url": "https://finance.yahoo.com/video/microsoft-catch-frontier-ai-race-130000484.html?.tsrc=rss",
+   "published": "2026-11-20T13:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트의 AI 모델 경쟁력 위치를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "733191bdc2ed3f0c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bitwise CIO Predicts Hyperliquid Could Become \"the Next Amazon.\" Here's Why He's Right.",
+   "excerpt": "One of Hyperliquid's strengths is that it gets other people to pay to broaden and deepen the markets on its platform.",
+   "url": "https://www.fool.com/investing/2026/11/20/bitwise-cio-predicts-hyperliquid-could-become-the-next-amazon-heres-why-hes-rightwrong/?.tsrc=rss",
+   "published": "2026-11-20T12:50:02+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "하이퍼리퀴드가 다음 아마존이 될 수 있다고 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "19ebb7e0d9bcb6ef",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart Is Up 183% in Five Years and Just Raised Guidance Again. Is There Room Left to Run?",
+   "excerpt": "Walmart keeps beating estimates, yet a premium multiple that dwarfs Target's has skeptics circling. One overlooked profit engine growing several times faster than the stores may explain why Wall Street still isn't pricing the stock correctly.",
+   "url": "https://247wallst.com/investing/2026/11/20/walmart-is-up-183-in-five-years-and-just-raised-guidance-again-is-there-room-left-to-run/?.tsrc=rss",
+   "published": "2026-11-20T12:47:08+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트가 실적 예상을 계속 상회하고 가이던스를 상향했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "1feb63f6b6a77d9e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Rocket Lab Missed on Q3 Earnings -- and That's Great News",
+   "excerpt": "Rocket Lab isn't profitable yet -- but it's on the right track.",
+   "url": "https://www.fool.com/investing/2026/11/20/rocket-lab-missed-on-q3-earnings-and-that-s-great-news/?.tsrc=rss",
+   "published": "2026-11-20T12:47:02+00:00",
+   "tickers": [
+    "RKLB"
+   ],
+   "summary_ko": [
+    "로켓 랩이 3분기 실적에서 부진했지만 올바른 방향으로 나아가고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "9a8091156a0b0e50",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba’s AI Outlook Draws Mixed Analyst Views: What Citi And Barclays Are Saying",
+   "excerpt": "Barclays lowered its price target on Alibaba to $155 from $200 while maintaining an ‘Overweight’ rating, according to The Fly.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/alibaba-s-ai-outlook-draws-mixed-analyst-views-what-citi-and-barclays-are-saying/cNbSLtXR9KM?.tsrc=rss",
+   "published": "2026-11-20T12:46:28+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "바클레이즈가 알리바바의 목표주가를 낮추고 비중확대 의견을 유지했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "04e8be19e14c4a65",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple Is Building an AI Agent That Can Use Your Computer for You",
+   "excerpt": "Apple's job listings describe software that browses, codes, and runs a Mac without you. Meanwhile, a quiet macOS beta change hints at who gets to control your computer, and rivals are already shipping their own versions.",
+   "url": "https://247wallst.com/investing/2026/11/20/apple-is-building-an-ai-agent-that-can-use-your-computer-for-you/?.tsrc=rss",
+   "published": "2026-11-20T12:38:33+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플이 컴퓨터를 직접 조작하는 AI 에이전트를 개발 중이라고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "6d16dbd9ed4ef2e9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "This Week In Cloud AI - AI Action Engine Revolutionizes Cloud Cost Management",
+   "excerpt": "Lucidity recently launched the AI Action Engine, an innovative tool aimed at optimizing cloud cost management and resource utilization. Unveiled at Microsoft Ignite, the engine leverages AI agents to identify and implement cloud savings more effectively than traditional FinOps tools by closing the gap between savings recommendations and actual implementation. It autonomously identifies savings opportunities, validates them, and executes changes with customer approval, ensuring operations...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-ai-action-123755581.html?.tsrc=rss",
+   "published": "2026-11-20T12:37:55+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "루시디티가 클라우드 비용 관리를 위한 AI 액션 엔진을 출시했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "20a51b0fef4de176",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Mark Gurman Says Apple Is “Five Plus Years Behind” in AI. Its Delayed Glasses Are Meta’s Opening",
+   "excerpt": "Key TakeawaysBloomberg’s Mark Gurman says Apple has gone from three years to “five plus years behind” in AI, and the gap is delaying its camera AirPods and smart glasses. Apple’s glasses wait on Siri app actions that developers can’t ship in App Store apps until spring.",
+   "url": "https://www.tikr.com/blog/mark-gurman-says-apple-is-five-plus-years-behind-in-ai-its-delayed-glasses-are-metas-opening?ref=yahoofinance&tlnk=yf-261120-92c97fc8&.tsrc=rss",
+   "published": "2026-11-20T12:35:48+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "마크 거먼은 애플이 AI 분야에서 5년 이상 뒤처져 있다고 주장했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "ce97fafdfc52d24e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "House Democrats Reportedly Probe Whether Nvidia Tried To Influence US Investigation Into Megaspeed",
+   "excerpt": "The inquiry adds to congressional scrutiny of Nvidia and the Commerce Department’s handling of suspected chip diversion to China.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/house-democrats-probe-whether-nvidia-tried-to-influence-us-investigation-into-megaspeed/cNbSL1hR9Kt?.tsrc=rss",
+   "published": "2026-11-20T12:34:53+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "하원 민주당이 엔비디아의 대중국 반도체 우회 조사 개입 의혹을 조사 중이라고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "932ceb59891ce41b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Danaher Collaborates with Microsoft to Make Scientific Instruments Agentically Connected and Laboratories More Intelligent",
+   "excerpt": "Danaher Corporation (NYSE: DHR) today announced a strategic partnership with Microsoft to support the development of smart scientific instruments and an interoperable agentic ecosystem that connects technologies across Danaher while remaining open to the broader laboratory ecosystem, helping scientists move from scientific questions to experimental evidence faster. The partnership seeks to combine Danaher's scientific, workflow and instrumentation expertise with Microsoft's AI technologies, maki",
+   "url": "https://finance.yahoo.com/technology/ai/articles/danaher-collaborates-microsoft-scientific-instruments-123000585.html?.tsrc=rss",
+   "published": "2026-11-20T12:30:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "다나허가 마이크로소프트와 협력하여 스마트 과학 기기 개발에 나선다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "127f10f4343657bb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Purpose Investments Launches Purpose Anthropic (ANT) Yield Shares ETF and Purpose Micron (MU) Yield Shares ETF",
+   "excerpt": "Single-stock ETFs built to pay enhanced*, tax-efficient monthly income from high-growth AI names, while keeping investors meaningfully exposed to the upside potentialTORONTO, Nov. 20, 2026 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose” or “Purpose Investments”) is excited to announce the expansion of its Yield Shares suite with the launch of the Purpose Anthropic (ANT) Yield Shares ETF (ticker: ANTY) and the Purpose Micron (MU) Yield Shares ETF (ticker: MUY), which begin trading today o",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/purpose-investments-launches-purpose-anthropic-123000762.html?.tsrc=rss",
+   "published": "2026-11-20T12:30:00+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "퍼포즈 인베스트먼트가 마이크론 관련 수익률 공유 ETF를 출시했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "709c7c9422016bdf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Move Over, Amazon! Billionaire David Tepper of Appaloosa Has a New No. 1 Holding.",
+   "excerpt": "Appaloosa’s billionaire boss pared down dual-industry leader Amazon for a foundational company in the artificial intelligence (AI) data center build-out.",
+   "url": "https://www.fool.com/investing/2026/11/20/move-over-amazon-billionaire-david-tepper-of-appaloosa-has-a-new-no-1-holding/?.tsrc=rss",
+   "published": "2026-11-20T12:26:01+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "억만장자 데이비드 테퍼가 아마존 비중을 줄이고 AI 데이터센터 관련 기업을 담았다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "704276a97d3d919d",
    "kind": "youtube",
@@ -20,6 +224,40 @@
    "tone": "neg"
   },
   {
+   "id": "1b67b40fdb689bb0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Satya Nadella Says Microsoft Is “Building Tools, Not Gods” as Copilot Undercuts Anthropic on Price",
+   "excerpt": "Key TakeawaysMicrosoft says Copilot beats Anthropic’s Claude and OpenAI’s ChatGPT on price, a pitch it made two days before Anthropic’s Nov. 19 market debut.",
+   "url": "https://www.tikr.com/blog/satya-nadella-says-microsoft-is-building-tools-not-gods-as-copilot-undercuts-anthropic-on-price?ref=yahoofinance&tlnk=yf-261120-g49fp72m&.tsrc=rss",
+   "published": "2026-11-20T12:24:07+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트의 코파일럿이 가격 면에서 경쟁사보다 우위에 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "3b5091f76576f73f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jim Cramer Says He’s Buying AMD After a Short Seller’s 15% Hit",
+   "excerpt": "A short report wiped out AMD's entire post-earnings gain in one session, yet its own author admits he can't say whether any rule was broken. Does a case that thin deserve a buyer's attention, or is Washington the real threat?",
+   "url": "https://247wallst.com/investing/2026/11/20/jim-cramer-says-hes-buying-amd-after-a-short-sellers-15-hit/?.tsrc=rss",
+   "published": "2026-11-20T12:22:38+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "짐 크레이머가 공매도 보고서로 하락한 AMD 주식을 매수하고 있다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "cd037a59014f1b94",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -35,6 +273,23 @@
     "나스닥 선물 지수가 하락세를 보였고 앤스로픽 주가는 상장 초기 상승분을 반납했다고 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "24029f3943ad8711",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: Micron Stock Is Going to Soar After Its December Earnings Report",
+   "excerpt": "The report could show whether Micron's rough autumn was a gift.",
+   "url": "https://www.fool.com/investing/2026/11/20/prediction-micron-stock-is-going-to-soar/?.tsrc=rss",
+   "published": "2026-11-20T12:20:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론의 12월 실적 발표 이후 주가가 상승할 것이라는 전망을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "88d0b7ba42603bac",
@@ -90,6 +345,24 @@
    "tone": "neg"
   },
   {
+   "id": "33569a58d87ada39",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Eyes $500 Million Deal That Could Change How Its AI Answers",
+   "excerpt": "A faster response could change which models businesses choose.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-eyes-500-million-deal-121442355.html?.tsrc=rss",
+   "published": "2026-11-20T12:14:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 AI 응답 방식을 바꿀 수 있는 5억 달러 규모의 계약을 검토 중이라고 다뤘다.",
+    "더 빠른 응답 속도가 기업들의 모델 선택에 영향을 줄 수 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "7edbb459c2a4c66f",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -123,6 +396,24 @@
    ],
    "summary_ko": [
     "앤스로픽 상장 낙관론과 맞물려 반도체 비중에 따라 각 펀드가 받는 영향이 다르다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "27201bccdba2e492",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple's Next AI Bet Could Put It on a Collision Course With OpenAI",
+   "excerpt": "The test starts when a task spans several apps.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/apples-next-ai-bet-could-121130833.html?.tsrc=rss",
+   "published": "2026-11-20T12:11:30+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플의 새로운 AI 전략이 오픈에이아이와 경쟁하게 될 수 있다고 다뤘다.",
+    "여러 앱에 걸쳐 작업을 수행할 때 테스트가 시작된다고 언급했다."
    ],
    "tone": "neu"
   },
@@ -13953,6 +14244,25 @@
     "유나이티드헬스 주식에 발생한 일에 대해 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "1c696992bb2d7a53",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon's Zoox Just Joined Uber—Could That Change the Robotaxi Threat?",
+   "excerpt": "Uber began matching riders in Las Vegas with Amazon subsidiary Zoox's autonomous robotaxis, deepening Amazon-Uber ties as Uber posts strong bookings, cash flow and a moderate buy analyst consensus.",
+   "url": "https://www.marketbeat.com/articles/amazons-zoox-just-joined-ubercould-that-change-the-robotaxi-threat/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+   "published": "2026-11-19T12:35:00+00:00",
+   "tickers": [
+    "AMZN",
+    "UBER"
+   ],
+   "summary_ko": [
+    "아마존의 자회사 윅스가 우버에 합류하여 로보택시 분야의 위협 변화 가능성을 다뤘다.",
+    "라스베가스에서 자율주행 로보택시 매칭을 시작하며 양사 간의 관계가 깊어졌다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "174298c7381d8446",
@@ -74067,162 +74377,6 @@
     "엔비디아 주가가 CEO 사임설로 위험에 처했다고 언급하며 다가오는 4분기 실적 발표에 주목했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "f7456569c7d77750",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Investors Heavily Search Coinbase Global, Inc. (COIN): Here is What You Need to Know",
-   "excerpt": "Recently, Zacks.com users have been paying close attention to Coinbase Global (COIN). This makes it worthwhile to examine what the stock has in store.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-coinbase-global-130006399.html?.tsrc=rss",
-   "published": "2026-11-13T13:00:06+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "코인베이스에 대한 투자자들의 관심이 높아짐에 따라 해당 종목의 향후 전망을 살펴볼 필요가 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "973eea7b2c1601f6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Investors Heavily Search Costco Wholesale Corporation (COST): Here is What You Need to Know",
-   "excerpt": "Costco (COST) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-costco-wholesale-130006121.html?.tsrc=rss",
-   "published": "2026-11-13T13:00:06+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코가 최근 이용자들의 높은 관심을 받고 있어 향후 주가 흐름을 살펴볼 가치가 있다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "02a63405dae83898",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Trending Stock Adobe Inc. (ADBE) a Buy Now?",
-   "excerpt": "Zacks.com users have recently been watching Adobe (ADBE) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-adobe-inc-adbe-130005684.html?.tsrc=rss",
-   "published": "2026-11-13T13:00:05+00:00",
-   "tickers": [
-    "ADBE"
-   ],
-   "summary_ko": [
-    "최근 주목받는 어도비의 주가 전망을 결정할 수 있는 주요 사실들을 살펴볼 필요가 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e420716aed681912",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SoFi Announces Monthly Distributions on $THTA (10.00%)",
-   "excerpt": "NEW YORK, Nov. 13, 2026 (GLOBE NEWSWIRE) -- SoFi, a leading provider of thematic and income ETFs, today announced monthly distributions on the SoFi Enhanced Yield ETF (THTA). Distribution as of 11/12/2026 ETFTickerDistributionper ShareDistributionRate *30-Day SEC Yield**Ex-DateRecordDatePaymentDateTHTA$0.1320110.00%3.62%11/13/202611/13/202611/16/2026 Inception date: 11/15/2023Click here to view standardized performance for THTA. THTA, launched in partnership with Tidal Investments LLC, seeks cur",
-   "url": "https://finance.yahoo.com/markets/options/articles/sofi-announces-monthly-distributions-thta-130000974.html?.tsrc=rss",
-   "published": "2026-11-13T13:00:00+00:00",
-   "tickers": [
-    "SOFI"
-   ],
-   "summary_ko": [
-    "소피(SoFi)가 THTA ETF의 월 분배금 지급 일정을 공지했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "13b39959591817d4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Novo Nordisk Seeks FDA, EMA Approval For Sickle Cell Disease Treatment – Here Are The Key Takeaways",
-   "excerpt": "Novo Nordisk said etavopivat could offer a new disease-modifying treatment option for people living with sickle cell disease if approved.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/novo-nordisk-seeks-fda-ema-approval-for-sickle-cell-disease-treatment-here-are-the-key-takeaways/cNbRT6aR9ff?.tsrc=rss",
-   "published": "2026-11-13T12:54:44+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "summary_ko": [
-    "노보 노디스크가 겸상 적혈구 질환 치료제 에타보피파트에 대해 FDA와 EMA 승인을 신청했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "8be014b5b5a3f5ca",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Lost the World’s Most Valuable Company Title. History Shows How Rarely the Crown Comes Back",
-   "excerpt": "Cisco and Exxon once wore the crown and never won it back, while Apple and Microsoft keep trading it. Which path is Nvidia on after its steep slide, and what single signal will reveal the answer?",
-   "url": "https://247wallst.com/investing/2026/11/13/nvidia-lost-the-worlds-most-valuable-company-title-history-shows-how-rarely-the-crown-comes-back/?.tsrc=rss",
-   "published": "2026-11-13T12:52:12+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL",
-    "MSFT",
-    "XOM"
-   ],
-   "summary_ko": [
-    "엔비디아가 세계 최고 시가총액 기업 자리를 내어준 가운데, 과거 유사한 사례들과 비교하며 향후 경로를 조명했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c8cb15f57001922c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Rosenblatt defends Super Micro amid selloff, Megaspeed allegations",
-   "excerpt": "Investing.com -- Rosenblatt defended Super Micro Computer following Thursday's 11% selloff, arguing that renewed allegations surrounding AI chip exports to China have overshadowed the company's increasingly U.S.-focused business.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-defends-super-micro-amid-124119580.html?.tsrc=rss",
-   "published": "2026-11-13T12:41:19+00:00",
-   "tickers": [
-    "SMCI"
-   ],
-   "summary_ko": [
-    "로젠블랫은 슈퍼마이크로의 급락세 이후, 중국 향 AI 칩 수출 관련 의혹이 미국 중심의 사업 성장을 가리고 있다고 옹호했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "daea85da5e555615",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The Stock Market Is Bigger Than Nvidia. But What About Anthropic?",
-   "excerpt": "Al the news you need before markets open.",
-   "url": "https://finance.yahoo.com/m/d4cda7ae-f18b-3e78-bb8d-2eb6faa04cdb/the-stock-market-is-bigger.html?.tsrc=rss",
-   "published": "2026-11-13T12:38:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "주식시장에서 엔비디아 외에도 앤스로픽 등 다른 요인들에 대한 시장의 시각을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "cb2d45a024c30329",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Golden Dome’s $185 Billion Question: Who Actually Gets Paid?",
-   "excerpt": "Alphabet joins Lockheed Martin, RTX, and SpaceX in the Pentagon's Golden Dome missile shield program, though incumbents' massive interceptor backlogs still outweigh new entrants' roles.",
-   "url": "https://www.marketbeat.com/articles/golden-domes-185-billion-question-who-actually-gets-paid/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-   "published": "2026-11-13T12:35:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "알파벳이 미 국방부의 골든 돔 미사일 방어 프로그램에 합류했다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
