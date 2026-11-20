@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-20T04:00:36.144065+00:00",
+ "updated": "2026-11-20T04:30:37.007329+00:00",
  "posts": [
+  {
+   "id": "f74b7e2abd2fcf33",
+   "kind": "youtube",
+   "source": "Solving The Money Problem",
+   "author": "Solving The Money Problem",
+   "title": "What Anthropic Told Elon Will SHOCK You",
+   "excerpt": "► SMR SI (new channel): 🚀 ► AG1 (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) ► My 20-year Tesla & SpaceX Valuation: ► Browse NEW Merch! ► Join Patreon: ► Subscribe on X (early access): ► UNLOCK 350+ Exclusive Videos: Want More Content? Early Access? My 20-year Tesla & SpaceX Valuation Model? Check the pinned comment! AFFILIATE DISCLOSURE: I earn a commission on every purchase made through my links. 🚀 SUPPORT THE CHANNEL ON PATREON ◆ Patreon BECOME A MEMBER OF THE CHANNEL ◆ Join CHANNEL MERCH ◆ Merch Store ◆ Don’t Bet Against Elon Mug ◆ Don’t Bet Against Elon Hat ◆ Don’t Bet Against Elon Tee ◆ Don’t Bet Against Elon Premium Hoodie AFFILIATES - Health/Wellness/Peak Performance ◆ AG1 (Comprehensive and Convenient Daily Nutrition) FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel Pac",
+   "url": "https://www.youtube.com/watch?v=1UUU0qyAl9I",
+   "published": "2026-11-20T04:30:10+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크와 앤트로픽에 관한 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ae1c7abdd4e84b18",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NVDA Stock Down 40% From October Peak Amid China Spying Crisis: California Begins Probe Into Chip Sales",
+   "excerpt": "“Companies cannot mislead their investors,” California's Attorney General Rob Bonta said, announcing the investigation.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-down-40-from-october-peak-amid-china-spying-crisis-california-begins-probe-into-chip-sales/cNbS2JLR9K5?.tsrc=rss",
+   "published": "2026-11-20T04:18:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 주가가 10월 고점 대비 40% 하락했다고 언급했다.",
+    "캘리포니아주가 칩 판매와 관련해 조사를 시작했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "bab146f5cf71cdfd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jim Cramer sends strong signal to Costco investors",
+   "excerpt": "Cramer clarifies why investors should be watching Costco shares right now.",
+   "url": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-strong-signal-to-costco-investors?.tsrc=rss",
+   "published": "2026-11-20T04:17:00+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "짐 크레이머가 코스트코 투자자들이 주목해야 하는 이유를 설명했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "45adcdffaa0aadbd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba HK shares rise as Q2 topline beat invites some bargain buying",
+   "excerpt": "Investing.com-- Alibaba’s Hong Kong shares rose on Friday as stronger-than-expected second fiscal quarter revenue invited some bargain buying into the battered Chinese tech giant.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-hk-shares-rise-q2-040722533.html?.tsrc=rss",
+   "published": "2026-11-20T04:07:22+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바의 2분기 매출이 예상을 웃돌았다.",
+    "이로 인해 저가 매수세가 유입되며 홍콩 주가가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "8a572ae12f02156a",
    "kind": "news",
@@ -1238,6 +1308,25 @@
     "투자자들이 CEO 교체 여파와 AI 지출의 향방을 저울질하고 있다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "3bc21cc39342edd9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dan Loeb’s Third Point Exits Its Entire Stake in Amazon Stock. Where It Invested Instead.",
+   "excerpt": "Dan Loeb's Third Point sold all 1.75 million Amazon shares in Q3 while buying Meta and Nvidia. Here's what the filing shows and what Amazon just reported.",
+   "url": "https://www.barchart.com/story/news/8926361/dan-loebs-third-point-exits-its-entire-stake-in-amazon-stock-where-it-invested-instead?.tsrc=rss",
+   "published": "2026-11-19T22:18:39+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "댄 롭의 서드 포인트가 3분기에 아마존 지분을 모두 매각했다고 전했다.",
+    "대신 메타와 엔비디아 주식을 매수했다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "af1ad0ab21d066b9",
@@ -72355,41 +72444,6 @@
     "세일즈포스가 전통적인 라이선스 중심에서 벗어나 AI 플랫폼과 데이터 중심의 자동화로 사업을 확장하고 있다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "84d43ae1c1b46bca",
-   "kind": "youtube",
-   "source": "Solving The Money Problem",
-   "author": "Solving The Money Problem",
-   "title": "NVIDIA CEO Resigns. What It Means.",
-   "excerpt": "► AG1 (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) ► My 20-year Tesla & SpaceX Valuation: ► Browse NEW Merch! ► Join Patreon: ► Subscribe on X (early access): ► UNLOCK 350+ Exclusive Videos: Want More Content? Early Access? My 20-year Tesla & SpaceX Valuation Model? Check the pinned comment! AFFILIATE DISCLOSURE: I earn a commission on every purchase made through my links. 🚀 SUPPORT THE CHANNEL ON PATREON ◆ Patreon BECOME A MEMBER OF THE CHANNEL ◆ Join CHANNEL MERCH ◆ Merch Store ◆ Don’t Bet Against Elon Mug ◆ Don’t Bet Against Elon Hat ◆ Don’t Bet Against Elon Tee AFFILIATES - Health/Wellness/Peak Performance ◆ AG1 (Comprehensive and Convenient Daily Nutrition) FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel Packs AFFILIATE DISCLOSURE: I earn a commission on every purchase mad",
-   "url": "https://www.youtube.com/watch?v=tuuVbnwe1AE",
-   "published": "2026-11-13T04:30:36+00:00",
-   "tickers": [
-    "NVDA",
-    "TSLA"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO의 사임 소식과 그 의미를 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "9a28431b8c10355b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Hailee Steinfeld, Rashida Jones, Jodie Foster and More Celebrate the Magic of \"Disney’s Hexed\" at the World Premiere in Los Angeles",
-   "excerpt": "LOS ANGELES, November 13, 2026--The voice cast and filmmakers behind Walt Disney Animation Studios’ all-new magical adventure \"Disney’s Hexed,\" including Hailee Steinfeld, Rashida Jones, Jodie Foster, directors Jason Hand and Fawn Veerasunthorn, co-director Josie Trinidad, producers Roy Conli and Yvett Merino, Walt Disney Animation Studios Chief Creative Officer and screenwriter Jared Bush, screenwriter Dana Ledoux Miller and composer Kris Bowers, celebrated the film’s spellbinding world premier",
-   "url": "https://finance.yahoo.com/media-advertising/articles/hailee-steinfeld-rashida-jones-jodie-042800067.html?.tsrc=rss",
-   "published": "2026-11-13T04:28:00+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "summary_ko": [
-    "월트 디즈니 애니메이션 스튜디오의 신작 모험 영화 '디즈니의 헥스드' 월드 프리미어 행사가 로스앤젤레스에서 개최되었다고 전했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
