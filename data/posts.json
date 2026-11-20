@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-20T23:00:40.035507+00:00",
+ "updated": "2026-11-20T23:07:32.277932+00:00",
  "posts": [
+  {
+   "id": "c3727c380777067e",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "Jensen Huang joining Intel would be 'great for America': CIO",
+   "excerpt": "Walser Wealth Management CIO Rebecca Walser discusses Anthropic's debut and the future of the artificial intelligence trade amid Jensen Huang's exit on 'Making Money.' #anthropic #nvidia #foxbusiness Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news programming, with",
+   "url": "https://www.youtube.com/watch?v=gD66rgk7iPQ",
+   "published": "2026-11-20T23:00:19+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "한 CIO는 젠슨 황의 인텔 합류가 미국에 훌륭할 것이라고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "18202ecbf5ce3c51",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Does Intuit Have Upside As AI Nips at Turbo Tax?",
+   "excerpt": "Luke Yang, technology equity analyst at Morningstar, says Intuit (INTU) needs to “revamp the playbook” in its consumer business to monetize new AI leads. He discusses Credit Karma and TurboTax, noting the latter remains the number one choice for tax returns, even as competitive tax return tools emerge. Yang says Intuit’s latest earnings report showed global business solutions results are strong, and he still sees significant upside for shares. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #economy #finance #in",
+   "url": "https://www.youtube.com/watch?v=B0hmliBAhpk",
+   "published": "2026-11-20T23:00:07+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "모닝스타 애널리스트는 인튜이트가 AI 대응을 위해 소비자 사업을 개편해야 한다고 언급했다.",
+    "터보택스는 여전히 세무 신고 선두를 지키고 있으며 주가 상승 여력이 있다고 보았다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "825022ef7230aae9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today, Nov. 20: Amazon Shares Slide on AI and Mega-Cap Tech Sell-Off",
+   "excerpt": "On Nov. 20, 2026, Amazon shares fell as investors weighed heavy AI spending and margins amid a broad tech selloff.",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-amazon-shares-slide-on-ai-and-mega-cap-tech-sell-off/?.tsrc=rss",
+   "published": "2026-11-20T22:50:02+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "11월 20일 아마존 주가는 대형 기술주 매도세 속에서 하락했다고 전했다.",
+    "투자자들은 막대한 AI 지출과 마진을 저울질했다고 언급했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "9e11893c3681c0d9",
    "kind": "news",
@@ -77864,40 +77917,6 @@
     "기술주 전반의 부진 속에서 인텔 주가가 하락했다고 전했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "b3a6b08e6d18db03",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Wall Street stocks mostly lower as Nvidia extends slump",
-   "excerpt": "Wall Street stocks mostly fell Friday as tech shares remained under pressure following the shock downfall of Nvidia's chief Jensen Huang, while the dollar rose following additional data that showed US inflation is persisting.\"There is certainly a defensive leadership as we look at the sectors, which points to some caution,\" said Kourkafas, who expects AI to be in the spotlight again next week when Nvidia reports quarterly results and Anthropic makes its Wall Street debut.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html?.tsrc=rss",
-   "published": "2026-11-13T23:07:04+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO의 사임 여파로 기술주가 압박을 받으며 증시가 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "cb234187c48fd541",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "DAS Technology Gives Retailers a Competitive Advantage During Microsoft Outage",
-   "excerpt": "SCOTTSDALE, Ariz., November 13, 2026--DAS Technology's platforms, including CDXP™, AI Engage, Power Text and Smart Quote, remained operational during the global Microsoft outage.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/das-technology-gives-retailers-competitive-230700578.html?.tsrc=rss",
-   "published": "2026-11-13T23:07:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트의 글로벌 서비스 중단 사태 중에도 DAS 테크놀로지의 플랫폼이 정상 작동했다고 밝혔다."
-   ],
-   "tone": "pos"
   }
  ]
 }
