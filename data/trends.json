@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:30:30.978503+00:00",
+ "updated": "2026-11-20T08:00:38.455876+00:00",
  "trends": [
   {
    "ticker": "HOOD",
@@ -25,9 +25,9 @@
   {
    "ticker": "WMT",
    "name_ko": "월마트",
-   "mentions_24h": 70,
+   "mentions_24h": 71,
    "mentions_prev_24h": 20,
-   "ratio": 3.5
+   "ratio": 3.55
   },
   {
    "ticker": "OKLO",
@@ -56,13 +56,6 @@
    "mentions_24h": 58,
    "mentions_prev_24h": 21,
    "ratio": 2.76
-  },
-  {
-   "ticker": "BABA",
-   "name_ko": "알리바바",
-   "mentions_24h": 33,
-   "mentions_prev_24h": 16,
-   "ratio": 2.06
   },
   {
    "ticker": "LLY",
@@ -98,6 +91,13 @@
    "mentions_24h": 2,
    "mentions_prev_24h": 1,
    "ratio": 2.0
+  },
+  {
+   "ticker": "BABA",
+   "name_ko": "알리바바",
+   "mentions_24h": 32,
+   "mentions_prev_24h": 17,
+   "ratio": 1.88
   },
   {
    "ticker": "NFLX",
@@ -207,9 +207,9 @@
   {
    "ticker": "AVGO",
    "name_ko": "브로드컴",
-   "mentions_24h": 21,
+   "mentions_24h": 22,
    "mentions_prev_24h": 19,
-   "ratio": 1.11
+   "ratio": 1.16
   },
   {
    "ticker": "AMZN",
@@ -240,13 +240,6 @@
    "ratio": 1.0
   },
   {
-   "ticker": "TSLA",
-   "name_ko": "테슬라",
-   "mentions_24h": 34,
-   "mentions_prev_24h": 35,
-   "ratio": 0.97
-  },
-  {
    "ticker": "PLTR",
    "name_ko": "팔란티어",
    "mentions_24h": 11,
@@ -268,6 +261,13 @@
    "ratio": 0.88
   },
   {
+   "ticker": "TSLA",
+   "name_ko": "테슬라",
+   "mentions_24h": 32,
+   "mentions_prev_24h": 37,
+   "ratio": 0.86
+  },
+  {
    "ticker": "DELL",
    "name_ko": "델",
    "mentions_24h": 11,
@@ -282,18 +282,18 @@
    "ratio": 0.82
   },
   {
-   "ticker": "MSFT",
-   "name_ko": "마이크로소프트",
-   "mentions_24h": 62,
-   "mentions_prev_24h": 77,
-   "ratio": 0.81
-  },
-  {
    "ticker": "BAC",
    "name_ko": "뱅크오브아메리카",
    "mentions_24h": 8,
    "mentions_prev_24h": 10,
    "ratio": 0.8
+  },
+  {
+   "ticker": "MSFT",
+   "name_ko": "마이크로소프트",
+   "mentions_24h": 61,
+   "mentions_prev_24h": 78,
+   "ratio": 0.78
   },
   {
    "ticker": "SHOP",
@@ -368,7 +368,7 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 155,
+   "mentions_24h": 154,
    "mentions_prev_24h": 357,
    "ratio": 0.43
   },

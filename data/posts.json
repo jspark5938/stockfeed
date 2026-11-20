@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-20T07:30:30.978503+00:00",
+ "updated": "2026-11-20T08:00:38.455876+00:00",
  "posts": [
+  {
+   "id": "a2f8401e7aed7e1e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart (WMT) Ad Revenue Jumped 25% As AI And TV Deals Gain Traction",
+   "excerpt": "Walmart (NasdaqGS:WMT) reported a 25% rise in global advertising revenue, with U.S. ad sales up 37% in the latest period. Management linked the advertising gains to recent moves in connected TV, including acquisitions involving Vizio and Vibe.co. The retailer highlighted new AI powered retail media tools and conversational commerce features as part of its advertising push. The 25% advertising jump supported by AI tools and connected TV deals feeds into a broader pattern our research has...",
+   "url": "https://finance.yahoo.com/media-advertising/articles/walmart-wmt-ad-revenue-jumped-071351195.html?.tsrc=rss",
+   "published": "2026-11-20T07:13:51+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트는 글로벌 광고 매출이 25% 증가했다고 밝혔다.",
+    "경영진은 광고 성장의 배경으로 TV 제휴와 AI 기반 도구를 언급했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "bce93bfabceb763a",
    "kind": "news",
@@ -52,6 +70,24 @@
    ],
    "summary_ko": [
     "Wenge AI가 해외 연구원을 위해 자사 플랫폼에 구글과 애플 로그인 기능을 추가했다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "aa71c6b95a309adc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Elon Musk’s Dream Meets Wall Street Reality: SpaceX Lenders Don’t Want Nvidia Chips Leaving Earth",
+   "excerpt": "Lenders backing a $43 billion debt deal for Elon Musk-led Space Exploration Technologies Corp. (NASDAQ:SPCX) are reportedly trying to stop the company from sending valuable Nvidia Corp. (NASDAQ:NVDA) AI chips into space, fearing they could lose the assets securing their loans. Lenders Fear Losing Access To Chip Collateral Lenders fear they may not recover or resell the semiconductors if SpaceX launches them into space and subsequently defaults, the Financial Times reported on Thursday, citing pe",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-dream-meets-wall-062433324.html?.tsrc=rss",
+   "published": "2026-11-20T06:24:33+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "스페이스X의 대출 기관들이 엔비디아 AI 칩의 우주 발송을 막으려 한다고 전해졌다.",
+    "이는 칩이 담보로서 가치를 잃을 것을 우려하기 때문이라고 보도되었다."
    ],
    "tone": "neu"
   },
@@ -2804,6 +2840,23 @@
    ],
    "summary_ko": [
     "버크셔 해서웨이, JP모간, 프록터앤갬블이 강한 펀더멘털을 지녔으나 비용 상승과 성장 과제에 직면해 있다고 분석했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d351501d47cfc66e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Could Anthropic Actually Climb 63%? Or Is Melius Totally Wrong?",
+   "excerpt": "Key TakeawaysAnthropic opened 34% above its $83 IPO price in its Nasdaq debut today, and Melius Research initiated coverage at Buy with a two-year $155 target, 63% above today’s price. Melius is betting on margins, and it pitches Anthropic as a hedge, since a computing slowdown would hurt chipmakers like Broadcom and lower Anthropic’s costs.",
+   "url": "https://www.tikr.com/blog/could-anthropic-actually-climb-63-or-is-melius-totally-wrong?ref=yahoofinance&tlnk=yf-261120-rv8m8fwh&.tsrc=rss",
+   "published": "2026-11-19T20:21:47+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "멜리어스 리서치는 앤스로픽에 대해 매수 의견과 목표주가를 제시했다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -72663,23 +72716,6 @@
    ],
    "summary_ko": [
     "빌 애크먼이 현금 창출 능력과 운영 성과 개선을 근거로 넷플릭스의 장기 전망에 대한 긍정적 견해를 재확인했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "fa111f40b5043664",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Space Stocks Had A Stellar Week, But SpaceX Rivals Flew Higher — What Powered LUNR, FLY, RKLB And ASTS Ahead?",
-   "excerpt": "AST SpaceMobile announced its Japanese venture and detailed Blacklift’s development, spending needs, and potential launch-cost savings.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/space-stocks-stellar-week-spacex-rivals-higher-lunr-fly-rklb-asts-rally/cNbbHxER9Ov?.tsrc=rss",
-   "published": "2026-11-13T07:51:54+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "AST 스페이스모바일이 일본 합작법인 설립 소식과 함께 블랙리프트의 개발 및 비용 절감 계획을 발표했다고 다뤘다."
    ],
    "tone": "pos"
   }
