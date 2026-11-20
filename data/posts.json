@@ -1,6 +1,252 @@
 {
- "updated": "2026-11-20T21:30:33.490578+00:00",
+ "updated": "2026-11-20T22:00:41.217356+00:00",
  "posts": [
+  {
+   "id": "e061b4226544635b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Navitas Sinks 15%, Western Down 12%, Everpure Down 13% as AI Chip Rout Deepens",
+   "excerpt": "Key TakeawaysNavitas Semiconductor fell 15% today with no news of its own, as an AI chip sell-off that started in Asia deepened in New York. Western Digital, Everpure and D-Wave Quantum fell too, as Anthropic slid on its second trading day and California’s attorney general subpoenaed Nvidia.",
+   "url": "https://www.tikr.com/blog/navitas-sinks-15-western-down-12-everpure-down-13-as-ai-chip-rout-deepens?ref=yahoofinance&tlnk=yf-261120-9x747276&.tsrc=rss",
+   "published": "2026-11-20T21:50:51+00:00",
+   "tickers": [
+    "NVDA",
+    "QBTS"
+   ],
+   "summary_ko": [
+    "아시아에서 시작된 AI 칩 매도세가 뉴욕증시로 확산되면서 관련 종목들이 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "0d5a9ed17b614f8e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures: Market Has Worst Week Since Covid Amid Nvidia, Anthropic. Does Fear Gauge Offer Hope?",
+   "excerpt": "The Dow Jones and Nasdaq had their worst week since March 2020, fueled by Nvidia and Anthropic. A fear gauge is soaring. Good news?",
+   "url": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures%3A-market-has.html?.tsrc=rss",
+   "published": "2026-11-20T21:49:14+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아와 앤스로픽의 영향으로 다우지수와 나스닥이 코로나19 이후 최악의 한 주를 보냈다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "794caa9eb36be8fb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy for 2027?",
+   "excerpt": "Salesforce trades at a lower forward P/E than ServiceNow, yet ServiceNow is growing revenue faster, forcing investors to weigh price against momentum.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/20/salesforce-vs-servicenow-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-20T21:47:17+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "세일즈포스가 서비스나우보다 낮은 선행 주가수익비율을 보이는 반면, 서비스나우는 더 빠른 매출 성장을 보이고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f511016776420746",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Friday's Final Takeaways: Anthropic IPO Sparks a Brutal AI Sell-Off",
+   "excerpt": "Marley Kayden and Sam Vadas recap a brutal week for markets as the Anthropic (ANT) IPO sparks profit-taking across the AI trade. They cover the plunge in tech and Bitcoin, weakness in global markets, and the key economic data investors are watching next. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #anthropic #ant #ipo #ai #technology #bitcoin #crypto #economy #finance #investing #marketnews #stock #stockmarket #trading #live #schwabnetwork",
+   "url": "https://www.youtube.com/watch?v=wdZsp1BC6Nc",
+   "published": "2026-11-20T21:44:41+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "앤스로픽의 IPO 여파로 AI 관련주 전반에서 차익실현 매물이 출회되었다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "4001789209f7150a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe",
+   "excerpt": "The stock fell Friday and closed lower for a seventh-consecutive trading session.",
+   "url": "https://finance.yahoo.com/m/30e2a4ab-b95f-395f-9f4d-e4058f562e01/nvidia%E2%80%99s-stock-slide-deepens.html?.tsrc=rss",
+   "published": "2026-11-20T21:43:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미 증권거래위원회(SEC)의 회계 조사 보도 여파로 엔비디아의 주가 하락세가 이어졌다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "8d60a16945770fb0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet Raises $4.19 Billion in Debt as Free Cash Flow Turns Negative",
+   "excerpt": "The Google parent issued C$6 billion in investment-grade debt as technology companies seek additional funding for infrastructure investments.",
+   "url": "https://finance.yahoo.com/technology/articles/alphabet-raises-4-19-billion-214109252.html?.tsrc=rss",
+   "published": "2026-11-20T21:41:09+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "알파벳이 인프라 투자 자금 조달을 위해 대규모 투자 등급 채권을 발행했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2770bca6b5c7b450",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CoreWeave Finds AI Demand Outside the Commercial Market",
+   "excerpt": "The deal adds another link between Nvidia and CoreWeave.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-finds-ai-demand-outside-213902215.html?.tsrc=rss",
+   "published": "2026-11-20T21:39:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "코어위브가 상업 시장 외의 분야에서 AI 수요를 확보했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "481997f61097dc46",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron Shares Crash Despite Strong AI Memory Demand: Is MU Undervalued?",
+   "excerpt": "Chipmakers and AI-related stocks came under selling pressure Friday despite earlier indications of tightening memory supply.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/micron-shares-crash-despite-strong-213845047.html?.tsrc=rss",
+   "published": "2026-11-20T21:38:45+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "AI 메모리 수요에 대한 기대감에도 불구하고 마이크론 등 칩셋 관련주가 매도 압박을 받았다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "f5e5e619ac5673e9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $9.7 Billion Fund Bought These 3 Stocks Last Quarter",
+   "excerpt": "Key TakeawaysA $9. 7 billion fund, Hyperion Asset Management, added to its stakes in SpaceX, Arm Holdings and Taiwan Semiconductor in the third quarter.",
+   "url": "https://www.tikr.com/blog/a-9-7-billion-fund-bought-these-3-stocks-last-quarter?ref=yahoofinance&tlnk=yf-261120-83gq9xg9&.tsrc=rss",
+   "published": "2026-11-20T21:35:24+00:00",
+   "tickers": [
+    "TSM",
+    "ARM"
+   ],
+   "summary_ko": [
+    "대형 펀드인 하이페리온 자산운용이 지난 3분기에 스페이스X, 암 홀딩스, 대만 반도체 지분을 추가 매입했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "0f56aa90d60902d3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "From Nvidia To Amazon, Tech Giants Face Stunning Reversal As Nasdaq Erases 2026 Gains",
+   "excerpt": "Technology shares led a broad market retreat as investors questioned lofty AI valuations and responded to rising expectations for another Federal Reserve rate hike.",
+   "url": "https://www.ibtimes.com/us-stocks-ai-selloff-nasdaq-market-decline-3810038?.tsrc=rss",
+   "published": "2026-11-20T21:34:47+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "연방준비제도의 추가 금리 인상 기대와 AI 밸류에이션에 대한 의문으로 기술주가 하락세를 보였다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "96d74761d659cd19",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Stock Just Lost $900 Billion in Its Worst Week Since 2008. The Last Time the SEC Examined Nvidia’s Accounting, the Stock Fell 81% in a Year",
+   "excerpt": "Nvidia closed down 14% Friday and 23% for the week, erasing about $900 billion, the largest one-week loss of market value on record. The SEC examined Nvidia's accounting once before, in 2002. Here's what the stock did next.",
+   "url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-just-lost-900-billion-in-its-worst-week-since-2008-the-last-time-the-sec-examined-nvidias-accounting-the-stock-fell-81-in-a-year/?.tsrc=rss",
+   "published": "2026-11-20T21:33:04+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 한 주 동안 사상 최대 규모의 시가총액 감소를 기록했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "d0c78856a9d716f6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Low Nvidia Stock Can Go Now",
+   "excerpt": "The chip king needs to reclaim $150 soon—the stock’s key level—or $127 or even $100 is in play.",
+   "url": "https://finance.yahoo.com/m/4bbf9581-d9bc-3f2e-9760-2221f5e509cc/how-low-nvidia-stock-can-go.html?.tsrc=rss",
+   "published": "2026-11-20T21:33:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 3
+  },
+  {
+   "id": "d84bb14776aca127",
+   "kind": "youtube",
+   "source": "The Motley Fool",
+   "author": "The Motley Fool",
+   "title": "Anthropic’s IPO Hangover, Nvidia’s Future Without Jensen, and the Worst Acquisitions Ever",
+   "excerpt": "Anthropic’s blockbuster IPO has barely begun trading, but investors are already questioning whether its trillion-dollar valuation can hold up. Travis Hoium, Lou Whiteman, and Jason Moser discuss Nvidia’s leadership transition, growing concerns about AI chip sales to China, and some of the most disastrous acquisitions in corporate history. They also examine the latest consumer earnings and highlight two stocks on their radar. Travis Hoium, Lou Whiteman, and Jason Moser discuss: - Anthropic’s IPO Volatility - Nvidia’s Leadership Transition - China Chip Export Risks - Worst Corporate Acquisitions - Consumer Earnings Check - Stocks on Radar Companies discussed: Anthropic (ANT), Nvidia (NVDA), SpaceX (SPCX), Alphabet (GOOGL), Meta Platforms (META), Microsoft (MSFT), Apple (AAPL), RH (RH), Texas",
+   "url": "https://www.youtube.com/watch?v=8VgkEU9WGtY",
+   "published": "2026-11-20T21:30:39+00:00",
+   "tickers": [
+    "NVDA",
+    "AAPL",
+    "MSFT",
+    "GOOGL",
+    "META"
+   ],
+   "summary_ko": [
+    "앤스로픽의 대규모 IPO 이후 천조 원대 가치 유지가능성에 대한 의문이 제기되었다고 다뤘다.",
+    "엔비디아의 리더십 교체와 중국향 AI 칩 수출 리스크 등을 논의했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f4019df9f0582487",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney (DIS) Is Catching Up to Netflix (NFLX), but the Upside May Be Shrinking",
+   "excerpt": "The Walt Disney Company (DIS) is catching up to Netflix (NFLX) in valuation, leaving less upside for its stock even as its streaming business gains ground. The California-based entertainment giant’s fiscal fourth-quarter results, released on November 17, showed that the company’s recovery is gaining momentum. Operating profit for Disney+ and Hulu more than doubled to $824 million, while the Experiences segment posted a 20% increase in operating profit to $2.25 billion. What’s interesting is that",
+   "url": "https://finance.yahoo.com/media-advertising/articles/disney-dis-catching-netflix-nflx-212947164.html?.tsrc=rss",
+   "published": "2026-11-20T21:29:47+00:00",
+   "tickers": [
+    "NFLX",
+    "DIS"
+   ],
+   "summary_ko": [
+    "디즈니가 넷플릭스를 밸류에이션 측면에서 추격하고 있으나, 스트리밍 사업의 성과에도 불구하고 추가 상승 여력이 줄어들 수 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "ae565d33822bc041",
    "kind": "news",
@@ -19,6 +265,24 @@
    "tone": "neg"
   },
   {
+   "id": "903bbe1d1931437b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Atalanta CEO Anjana Rajan Addresses Software Understanding Gap at The National Academies Cyber Resilience Forum",
+   "excerpt": "The National Academies of Sciences, Engineering, and Medicine's Forum on Cyber Resilience concluded today after two days of sessions with leaders from the NSA, the Department of War, AWS, Google, Microsoft, and others on the technical and operational challenges of closing the software understanding gap.",
+   "url": "https://finance.yahoo.com/technology/articles/atalanta-ceo-anjana-rajan-addresses-212600268.html?.tsrc=rss",
+   "published": "2026-11-20T21:26:00+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "사이버 회복력 포럼에서 소프트웨어 이해 부족 문제를 해결하기 위한 기술적·운영적 과제들이 논의되었다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "df6df2f27d759b75",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -34,6 +298,25 @@
     "미국 증시가 칩maker들을 둘러싼 우려와 매파적 연준 기조로 인해 하락했다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "57f4d621279ef493",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walt Disney (DIS) Says Its In House AI Cuts Film Compute Costs 30%",
+   "excerpt": "Walt Disney (NYSE:DIS) CEO outlined a new content licensing agreement with Netflix, confirming it as a planned extension of Disney IP reach. Management framed the Netflix deal as a way to support streaming subscriber growth without relying solely on Disney owned platforms. The CEO also revealed an internal AI tool for film production that cuts rendering compute requirements by 30%. Disney's Netflix licensing move and 30% AI compute saving deserve to be weighed against the rest of our...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/walt-disney-dis-says-house-211608108.html?.tsrc=rss",
+   "published": "2026-11-20T21:16:08+00:00",
+   "tickers": [
+    "NFLX",
+    "DIS"
+   ],
+   "summary_ko": [
+    "디즈니가 넷플릭스와의 콘텐츠 라이선스 계약을 통해 구독자 성장을 도모하고 있다고 전했다.",
+    "사내 AI 도구를 도입해 영화 제작 시 렌더링 연산 비용을 30% 절감했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a163207beaecf20f",
@@ -68,6 +351,57 @@
     "기술주와 AI 관련 주의 급락세로 인해 미국 증시가 하락 마감했다고 보도했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "0d64707af908d989",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 Edge AI Stocks To Watch As Apple Pushes More AI On Device",
+   "excerpt": "Apple’s renewed push into its own AI agent has turned the quiet idea of on-device intelligence into a live contest, with ripple effects running through chip designers, hardware suppliers and software tool makers tied to edge computing. That shift creates both promise and risk for investors who care about where AI actually runs. This article explains how that news relates to three stocks that screen positively on this theme. The stocks highlighted below are only a small sample of the on-device...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/3-edge-ai-stocks-watch-211405007.html?.tsrc=rss",
+   "published": "2026-11-20T21:14:05+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플의 온디바이스 인공지능 추진이 엣지 컴퓨팅 관련주에 미치는 영향과 기회 및 위험 요인을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "1cd2cc34a2a876a2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should Tesla (TSLA) Investors Watch Its Merger Talks And Cybercab FSD Rollout?",
+   "excerpt": "Tesla (NasdaqGS:TSLA) is reported to be in advanced merger talks with SpaceX, exploring a potential combination of the two Musk-led groups. The company is widely rolling out its Full Self Driving 14.3 software update alongside specialized insurance for its autonomous Cybercab service. Regulators and existing shareholders of both Tesla and SpaceX are expected to review detailed merger terms if negotiations progress to a formal proposal. The merger talks with SpaceX and the FSD 14.3 Cybercab...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-investors-watch-merger-211259073.html?.tsrc=rss",
+   "published": "2026-11-20T21:12:59+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라가 스페이스X와의 합병 협상을 진행 중이며 FSD 14.3 소프트웨어 업데이트를 배포하고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "78bfb9cd9dd6d829",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "IonQ (IONQ) Stock Looks Overvalued As Its 83% 3 Year Gain Continues",
+   "excerpt": "IonQ has seen its share price swing sharply in recent years. With the stock now around US$22.71, the key issue for investors is whether that level is supported by the company’s earnings profile. Over the past 3 years, IonQ has delivered a total share price gain of 82.9%. This puts real weight on the question of how its current market value lines up with the profits it produces. Recent partnerships with U.S. government focused distributors and cybersecurity providers can influence how quickly...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-stock-looks-overvalued-211212154.html?.tsrc=rss",
+   "published": "2026-11-20T21:12:12+00:00",
+   "tickers": [
+    "IONQ"
+   ],
+   "summary_ko": [
+    "아이온큐의 주가 상승과 수익성 대비 고평가 여부가 주요 투자 관심사라고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3771d648160a913e",
@@ -120,6 +454,23 @@
     "트럼프 대통령이 물러난 엔비디아 CEO 젠슨 황을 옹호하는 한편, 새로운 리더십에 대해서는 비판적 입장을 밝혔다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "ae81eb8d2050f278",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CrowdStrike Is in Talks to Buy Cybersecurity Firm Zscaler",
+   "excerpt": "CrowdStrike Holdings Inc. is in talks to acquire Zscaler Inc., according to people familiar with the matter, in a deal that would be among the largest-ever in the cybersecurity sector and create a company with a combined market value of about $265 billion.",
+   "url": "https://finance.yahoo.com/technology/articles/crowdstrike-talks-buy-cybersecurity-firm-210511823.html?.tsrc=rss",
+   "published": "2026-11-20T21:05:11+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": [
+    "크라우드스트라이크가 사이버보안 업체인 지스케일러 인수 협상을 진행 중이라고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "54c270c832b819bf",
@@ -281,6 +632,24 @@
    "tone": "neg"
   },
   {
+   "id": "58cd9e0a99215578",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Top Research Reports for Coca-Cola, Medtronic & Palo Alto Networks",
+   "excerpt": "Coca-Cola, UnitedHealth and Palo Alto Networks headline today's top research reports, highlighting growth drivers, strategic opportunities and key business risks.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-coca-cola-204200577.html?.tsrc=rss",
+   "published": "2026-11-20T20:42:00+00:00",
+   "tickers": [
+    "PANW",
+    "UNH"
+   ],
+   "summary_ko": [
+    "코카콜라, 메드트로닉, 팔로알토 네트워킹 등의 주요 리서치 보고서와 성장 동력을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "58223cd73e4cce81",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -350,6 +719,23 @@
     "월가 분석가들이 오클로 주식에 대해 낙관하고 있는 상황을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "209e1e391cc2a6aa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nasdaq Slide Deepens After Report of Nvidia SEC Accounting Probe",
+   "excerpt": "A stock market practically begging for some good news got more bad news instead.",
+   "url": "https://finance.yahoo.com/m/cff37c7c-0ca9-37b0-a414-8f2a8d6939e4/nasdaq-slide-deepens-after.html?.tsrc=rss",
+   "published": "2026-11-20T20:24:47+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 관련 SEC 회계 조사 보도로 인해 나스닥 하락세가 심화되었다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "e16b3a45731ff32a",
@@ -3159,6 +3545,23 @@
    "tone": "neu"
   },
   {
+   "id": "bfea9e1886db46cc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Costco Shares Lift Higher on Sales, Warehouse Growth",
+   "excerpt": "Shares of Costco Wholesale Corporation (COST) up 17,355% since institutions first bought big in 1991.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/costco-shares-lift-higher-sales-164224756.html?.tsrc=rss",
+   "published": "2026-11-20T16:42:24+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "코스트코가 매출 증가와 창고형 매장 확대로 주가가 상승했다고 보도했다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "dcd2ccba4757efca",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -3304,22 +3707,6 @@
    "excerpt": "In an interview with CNBC, Bessent said he does not expect a change in U.S. policy allowing exports of Nvidia’s H200 chips to China.",
    "url": "https://stocktwits.com/news-articles/markets/equity/scott-bessent-says-trump-xi-talks-did-not-address-jensen-huang-left-nvidia-h200-policy-unchanged/cNbSZuYR915?.tsrc=rss",
    "published": "2026-11-20T16:32:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 3
-  },
-  {
-   "id": "d0c78856a9d716f6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Low Nvidia Stock Can Go Now",
-   "excerpt": "The chip king needs to reclaim $150 soon—the stock’s key level—or $127 or even $100 is in play.",
-   "url": "https://finance.yahoo.com/m/4bbf9581-d9bc-3f2e-9760-2221f5e509cc/how-low-nvidia-stock-can-go.html?.tsrc=rss",
-   "published": "2026-11-20T16:31:00+00:00",
    "tickers": [
     "NVDA"
    ],
@@ -4531,6 +4918,23 @@
    ],
    "summary_ko": [
     "퍼포즈 인베스트먼트가 Cboe 캐나다에 앤스로픽과 마이크론을 포함한 일드 셰어 ETF를 상장했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ecbe52217a65ac46",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $4 Billion Fund Is Betting Big on NIKE",
+   "excerpt": "Key TakeawaysMarshfield Associates more than doubled its Nike stake in the third quarter, to 9. 58 million shares worth $339 million, or 8.",
+   "url": "https://www.tikr.com/blog/a-4-billion-fund-is-betting-big-on-nike?ref=yahoofinance&tlnk=yf-261120-5f87c3cr&.tsrc=rss",
+   "published": "2026-11-20T14:58:10+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "마시필드 어소시에이츠가 3분기에 나이키 지분을 두 배 이상 늘렸다고 다뤘다."
    ],
    "tone": "pos"
   },
@@ -77268,285 +77672,6 @@
     "앤스로픽 IPO를 앞두고 대규모 컴퓨팅 파워와 인프라 지출 관리가 과제라고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "0af5cb4d321f03d7",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Friday's Final Takeaways: Yields Spike as NVDA Rattles Stock Market",
-   "excerpt": "A volatile week led by Nvidia (NVDA) headlines kept equity investors on their toes, but make sure you also keep an eye on the bond market. Sam Vadas points out a quiet but strong spike in Treasury yields throughout a shortened week for the bond market. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network:",
-   "url": "https://www.youtube.com/watch?v=t5-tI2AVH8g",
-   "published": "2026-11-13T22:00:20+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "엔비디아 관련 소식이 증시 변동성을 키운 가운데 미 국채 금리 상승세도 주시해야 한다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5befb9558d9cbace",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nike’s Future All Comes Down to Tuesday’s Investor Day, Its First in 9 Years",
-   "excerpt": "Analysts are hoping the day will provide more clarity on how the Swoosh will solidify its turnaround.",
-   "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-investor-day-preview-analyst-predictions-1239416212/?.tsrc=rss",
-   "published": "2026-11-13T21:59:04+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "나이키의 향후 행보는 9년 만에 열리는 인베스터 데이에 달렸다고 분석했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d9cf49034100f7b9",
-   "kind": "youtube",
-   "source": "The Motley Fool",
-   "author": "The Motley Fool",
-   "title": "Nvidia After Jensen Huang: Is the AI Bubble About to Burst?",
-   "excerpt": "",
-   "url": "https://www.youtube.com/watch?v=vMlfutHwT_E",
-   "published": "2026-11-13T21:50:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황 이후의 엔비디아와 AI 버블붕괴 가능성에 대한 의문을 제기했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "8afbb672f114a2ac",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Here's What $1,000 in Each of These 3 Space Stocks Could Be Worth by 2030",
-   "excerpt": "Rocket Lab, AST SpaceMobile, and Redwire deserve some more attention.",
-   "url": "https://www.fool.com/investing/2026/11/13/heres-what-1000-in-each-of-these-x-space-stocks-co/?.tsrc=rss",
-   "published": "2026-11-13T21:50:00+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "로켓랩, AST 스페이스모바일, 레드와이어 등 우주 관련 주식을 주목했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "30dad18b03eefa28",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Market Today: Indexes Trim Losses, Manage To Score Weekly Gains Despite Strong Volatility",
-   "excerpt": "The Dow Jones index fell Friday despite cooler-than-expected inflation data. AI giant Nvidia continued to fall.",
-   "url": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-indexes.html?.tsrc=rss",
-   "published": "2026-11-13T21:49:53+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "증시가 변동성 속에서도 주간 상승세를 기록한 반면 엔비디아는 하락했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "58a2007a5ae086bf",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart (WMT) Gains As Market Dips: What You Should Know",
-   "excerpt": "Walmart (WMT) concluded the recent trading session at $128.09, signifying a +1.51% move from its prior day's close.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-gains-market-dips-214502776.html?.tsrc=rss",
-   "published": "2026-11-13T21:45:02+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "시장 하락세 속에서 월마트 주가가 상승 마감했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "9a10aa99e5c872f9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Broadcom Inc. (AVGO) Suffers a Larger Drop Than the General Market: Key Insights",
-   "excerpt": "In the closing of the recent trading day, Broadcom Inc. (AVGO) stood at $347.01, denoting a -4.76% move from the preceding trading day.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-suffers-larger-214501014.html?.tsrc=rss",
-   "published": "2026-11-13T21:45:01+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "summary_ko": [
-    "브로드컴이 일반 시장 대비 더 큰 폭의 하락세를 기록했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "e714d0d7c4506f8a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Adobe Systems (ADBE) Rises As Market Takes a Dip: Key Facts",
-   "excerpt": "Adobe Systems (ADBE) closed at $243.08 in the latest trading session, marking a +1.9% move from the prior day.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-rises-market-214501482.html?.tsrc=rss",
-   "published": "2026-11-13T21:45:01+00:00",
-   "tickers": [
-    "ADBE"
-   ],
-   "summary_ko": [
-    "시장 하락세 속에서도 어도비 시스템즈 주가는 상승했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "edab29563f6499d0",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Market Close: Stocks Mixed, Nvidia Down 12% This Week Amid Controversy, ANT IPO Coming • 11/13/26",
-   "excerpt": "CNBC Business News Update with Jessica Ettinger - Markets & Business News With Expert Analysis From Top Business Names. Visit CNBC.com For More. For access to live and exclusive video from CNBC subscribe to CNBC PRO: » Subscribe to CNBC TV: » Subscribe to CNBC: » Watch CNBC on the go with CNBC+: Turn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide. Connect with CNBC News Online Get the latest news: Follow CNBC on LinkedIn: Follow CNBC News on Instagram: Follow CNBC News on Facebook: Follow CNBC on Threads: Follow CNBC News on X: Follow CNBC on WhatsApp: #CNBC #CNBCTV",
-   "url": "https://www.youtube.com/watch?v=5XVw_oMX3Ng",
-   "published": "2026-11-13T21:42:25+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "증시가 혼조세를 보인 가운데 엔비디아가 논란 속에 한 주 동안 12% 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "1182e94e7317dc60",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia, AMD, Microsoft, Cerebras, Cisco, Modine, and More Stocks That Explain Today’s Market",
-   "excerpt": "Microsoft rose even as a global outage across the company’s tools impact millions of people.",
-   "url": "https://finance.yahoo.com/m/fa0293c5-bebc-3c34-924d-04a0b56c1b18/nvidia%2C-amd%2C-microsoft%2C.html?.tsrc=rss",
-   "published": "2026-11-13T21:40:00+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT",
-    "AMD"
-   ],
-   "summary_ko": [
-    "마이크로소프트의 글로벌 접속 장애 사태 속에서도 주가는 상승했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "aa5478a2bf419288",
-   "kind": "youtube",
-   "source": "Andrei Jikh",
-   "author": "Andrei Jikh",
-   "title": "Why NVIDIA’s Jensen Huang Was Removed",
-   "excerpt": "China can't build the best AI chips. So it found a way to win without them. America has bet trillions of dollars on AI, and that bet only pays off if companies can keep charging you for it. China's answer is to give its AI away, and the developing world is already taking it. That put one American CEO in a very strange position, right before he was suddenly out of the company. Find the full story in my video: What If China Wins The Ai Race?",
-   "url": "https://www.youtube.com/shorts/mqga0zs1dPE",
-   "published": "2026-11-13T21:37:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "중국이 AI를 무료로 제공하는 방식으로 경쟁에서 이기려 한다고 주장했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "b0e0d7a87c451afc",
-   "kind": "youtube",
-   "source": "Andrei Jikh",
-   "author": "Andrei Jikh",
-   "title": "Why NVIDIA’s Jensen Huang Was Removed",
-   "excerpt": "China can't build the best AI chips. So it found a way to win without them. America has bet trillions of dollars on AI, and that bet only pays off if companies can keep charging you for it. China's answer is to give its AI away, and the developing world is already taking it. That put one American CEO in a very strange position, right before he was suddenly out of the company. Find the full story in my video: What If China Wins The Ai Race?",
-   "url": "https://www.youtube.com/watch?v=mqga0zs1dPE",
-   "published": "2026-11-13T21:37:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "중국이 AI 칩 없이 경쟁하는 방식과 엔비디아 CEO의 갑작스러운 퇴진 배경을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "6490aea750f5e24f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What B. Riley and TD Cowen See in Strategy (MSTR)",
-   "excerpt": "We just published a list of the 10 Multibagger Stocks to Buy According to Wall Street and Strategy (NASDAQ:MSTR) ranked 6th on this list. Wall Street’s AI trade just had one of its worst weeks in years. Politics and inflation hit it at the same time. The Nasdaq Composite posted its deepest one-day drop since […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/b-riley-td-cowen-see-213351174.html?.tsrc=rss",
-   "published": "2026-11-13T21:33:51+00:00",
-   "tickers": [
-    "MSTR"
-   ],
-   "summary_ko": [
-    "월스트리트의 AI 관련 투자 자산이 정치 및 인플레이션 여파로 부진했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "b18f531e0241fb4b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Never bought Nvidia stock? Its slide could still hit your 401(k).",
-   "excerpt": "Millions of Americans are exposed to Nvidia shares through their retirement plans. That's not as bad as it sounds (really!).",
-   "url": "https://www.cbsnews.com/news/nvidia-stock-slide-401k-index-funds/?.tsrc=rss",
-   "published": "2026-11-13T21:32:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "수백만 명의 미국인이 은퇴 플랜을 통해 엔비디아 주식에 노출되어 있다고 다뤘다.",
-    "이러한 노출이 반드시 나쁜 것만은 아니라고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c49691c210fc3980",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
-   "excerpt": "Deirdre Bosa outlines how various AI companies are storming the AI castle and searching for Nvidia (NVDA) alternatives, such as Cerebras' (CBRS) deal with Microsoft (MSFT).",
-   "url": "https://finance.yahoo.com/video/cerebras-stock-surges-on-microsoft-deal-what-it-means-for-nvidia-213123807.html?.tsrc=rss",
-   "published": "2026-11-13T21:31:23+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT"
-   ],
-   "summary_ko": [
-    "세레브라스와 마이크로소프트의 거래 소식에 세레브라스 주가가 급등했다고 다뤘다.",
-    "이는 AI 기업들이 엔비디아 대안을 찾는 과정과 관련이 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "ddaf213673dec696",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Stephens Upgraded Oracle (ORCL)",
-   "excerpt": "We just published a list of the 10 Stocks With Insane Upside According to Reddit and Oracle (NYSE:ORCL) ranked 10th on this list. US stocks edged lower Thursday, snapping a rebound that had lifted the S&P 500 1.3% a day earlier. The S&P 500 fell 0.35% to 7,592.40, the Dow Jones Industrial Average slipped 0.36% […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/why-stephens-upgraded-oracle-orcl-213119416.html?.tsrc=rss",
-   "published": "2026-11-13T21:31:19+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "summary_ko": [
-    "스티븐스가 오라클의 투자의견을 상향 조정했다고 다뤘다.",
-    "오라클이 상승 여력이 높은 종목 목록에 올랐다고 언급했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
