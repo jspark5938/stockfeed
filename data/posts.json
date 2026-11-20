@@ -1,6 +1,425 @@
 {
- "updated": "2026-11-20T17:30:32.756514+00:00",
+ "updated": "2026-11-20T18:00:40.700306+00:00",
  "posts": [
+  {
+   "id": "cbb4dbef07afe907",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SpaceX Just Raised $32 Billion for AI Chips. Lenders Want Elon Musk to Keep Them on Earth.",
+   "excerpt": "SpaceX had to pay a yield above 8% on the biggest piece of a $32 billion bond sale to buy Nvidia chips.",
+   "url": "https://www.fool.com/investing/2026/11/20/spacex-just-raised-32-billion-for-ai-chips-lenders-want-elon-musk-to-keep-them-on-earth/?.tsrc=rss",
+   "published": "2026-11-20T17:48:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "스페이스X가 AI 칩 구매를 위해 320억 달러 규모의 채권 발행을 진행했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "82bf102f6b3adc72",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bill Ackman points out a problem Nvidia investors can't ignore",
+   "excerpt": "One of the best quarters in Nvidia’s history. That’s not what has investors on edge.",
+   "url": "https://www.thestreet.com/investing/stocks/bill-ackman-points-out-a-problem-nvidia-investors-cant-ignore?.tsrc=rss",
+   "published": "2026-11-20T17:47:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "빌 애크먼이 엔비디아 투자자들이 무시할 수 없는 문제점을 지적했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f1ac64aabb93a3b0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "At $97 Anthropic Offers Investors a Rare Opportunity",
+   "excerpt": "Anthropic's debut opened with a surge, then gave back its gains before the closing bell. Behind the fade sits a hidden link to Amazon's AWS engine and a short list of events that will decide whether early buyers get rewarded.",
+   "url": "https://247wallst.com/investing/2026/11/20/at-97-anthropic-offers-investors-a-rare-opportunity/?.tsrc=rss",
+   "published": "2026-11-20T17:45:14+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "앤트로픽의 데뷔전에서 아마존 AWS 엔진과의 숨겨진 연관성이 주목받았다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "91d3dbe4ef0c366c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan Sees US IPO Proceeds Near $290B In 2026, Says Investor Demand Is Growing Faster Than Supply",
+   "excerpt": "JPMorgan said recent mega-IPOs show public investors are willing to pay a premium for companies that have become clear leaders in their markets.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/jp-morgan-sees-us-ipo-proceeds-near-290-b-in-2026-says-investor-demand-is-growing-faster-than-supply/cNbSnA0R914?.tsrc=rss",
+   "published": "2026-11-20T17:44:20+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "JP모건은 2026년 미국 기업공개(IPO) 규모가 약 2900억 달러에 이를 것으로 전망했다.",
+    "투자자 수요가 공급보다 빠르게 증가하고 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "71544cd9ee3d696e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Costco Just Announced a Special Dividend for Shareholders as of Nov. 24. Should You Buy Shares Before Then?",
+   "excerpt": "Costco stock soared after the announcement, and it's back to beating the market.",
+   "url": "https://www.fool.com/investing/2026/11/20/costco-just-announced-a-special-dividend-for-shareholders-as-of-nov-24-should-you-buy-shares-before/?.tsrc=rss",
+   "published": "2026-11-20T17:43:02+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "코스트코가 주주들을 위한 특별 배당을 발표했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "d34a973368df22ba",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft Stocks Fall 1.97% as Anthropic Debut Spotlights $47.2 Billion Azure Pact",
+   "excerpt": "Microsoft's $1 billion Anthropic placement rose 17% on paper, but the real prize is a seven-year cloud commitment.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-fall-1-97-174256311.html?.tsrc=rss",
+   "published": "2026-11-20T17:42:56+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "앤트로픽의 데뷔가 부각되면서 마이크로소프트 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "21ba2708d6ea7e92",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Goldman Sachs Cut Its Broadcom Target to $460, and the Reason Has Nothing to Do With Broadcom’s Earnings",
+   "excerpt": "Key Takeaways Goldman Sachs cut its Broadcom price target to $460 from $540 on Nov. 18 and kept its Buy rating, so the target was still 30% above that day’s close.",
+   "url": "https://www.tikr.com/blog/goldman-sachs-cut-its-broadcom-target-to-460-and-the-reason-has-nothing-to-do-with-broadcoms-earnings?ref=yahoofinance&tlnk=yf-261120-qgp5f5w5&.tsrc=rss",
+   "published": "2026-11-20T17:41:54+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "골드만삭스가 브로드컴의 목표주가를 하향 조정했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d340fa5298ae9b10",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron Stock Plunges 13% as Barron’s Calls Memory Stocks ‘Agonizingly Cheap’; Western Digital, SanDisk and Seagate Sink in AI Chip Selloff",
+   "excerpt": "Micron fell 13% on Friday and sits 50% below its June record as Barron's calls memory stocks \"agonizingly cheap.\" The stock's last two busts ended after drops of 50% and 54%. Here is the case for and against.",
+   "url": "https://247wallst.com/investing/2026/11/20/micron-stock-plunges-13-as-barrons-calls-memory-stocks-agonizingly-cheap-western-digital-sandisk-and-seagate-sink-in-ai-chip-selloff/?.tsrc=rss",
+   "published": "2026-11-20T17:41:04+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "배런스가 메모리 주식들을 극도로 저렴하다고 평가한 가운데 마이크론 주가가 급락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "9756e4c32a885fa4",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Daily Trader: Markets Remain Under Pressure Despite Improving Consumer Sentiment #shorts",
+   "excerpt": "Kevin Hincks highlights the latest University of Michigan Consumer Sentiment data, which came in better than market expectations. He also discusses how energy prices have moved lower since their summer peak, a trend that could support further improvement in inflation and consumer sentiment. Kevin also previews the key economic data points to watch next week. ======== Schwab Network ======== Empowering every investor and trader, every market day. Options involve risks and are not suitable for all investors. Before trading, read the Options Disclosure Document. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab N",
+   "url": "https://www.youtube.com/watch?v=ICsSJ0qukgQ",
+   "published": "2026-11-20T17:40:33+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "케빈 힌크스는 미시간대 소비자심리 지표가 예상보다 양호했다고 언급했다.",
+    "또한 에너지 가격 하락이 인플레이션과 소비 심리에 도움을 줄 수 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "00c29c49025fca7c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TSMC Stocks Fall 4.76% as Taiwan Logs Worst Week Since 1991",
+   "excerpt": "Shares hit NT$2,000 as the AI chip rout deepened, just ten days after a record NT$586.9 billion month.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-4-76-173926383.html?.tsrc=rss",
+   "published": "2026-11-20T17:39:26+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": [
+    "대만이 1991년 이후 최악의 한 주를 기록하면서 TSMC 주가도 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "873b308fcaa03cef",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet Stock Slides Nearly 20%. Trader Sees Rebound Clues",
+   "excerpt": "The charts hint at a turn as spending climbs.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-slides-nearly-20-173828202.html?.tsrc=rss",
+   "published": "2026-11-20T17:38:28+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "알파벳 주가가 하락한 가운데 차트에서 반등 실마리가 보인다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5ff7bf88df87ec9c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: This Is What Will Happen to Micron’s Stock Price in December",
+   "excerpt": "The memory specialist has taken a beating in recent months, but it could get a nice shot in the arm when it releases its quarterly results next month.",
+   "url": "https://www.fool.com/investing/2026/11/20/prediction-this-is-what-will-happen-to-micron-s-stock-price-in-december/?.tsrc=rss",
+   "published": "2026-11-20T17:38:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론이 다음 달 분기 실적 발표를 앞두고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "cc9ec64d3698940e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Sinks 7% on New Probes as California AG Says Scandal “Raises Bright Red Flags”",
+   "excerpt": "Key TakeawaysNvidia shares fell 7% after California’s attorney general subpoenaed the company and lawmakers opened a probe. Both probes ask whether Nvidia’s chips reached China and what investors were told.",
+   "url": "https://www.tikr.com/blog/nvidia-sinks-7-on-new-probes-as-california-ag-says-scandal-raises-bright-red-flags?ref=yahoofinance&tlnk=yf-261120-hhpg7vp9&.tsrc=rss",
+   "published": "2026-11-20T17:37:21+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캘리포니아 법무장관의 소환장 발부와 의회의 조사 착수로 엔비디아 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "c310439a6121cad2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft's Copilot strategy offers path to enterprise AI growth, says Bank of America",
+   "excerpt": "Microsoft Corp (NASDAQ:MSFT)'s strategy for integrating artificial intelligence (AI) into business software gives it a practical route to expanding enterprise adoption and paid Copilot subscriptions, according to Bank of America (BofA), which reiterated its 'buy' rating and $630 price...",
+   "url": "https://www.proactiveinvestors.com/companies/news/1102206/microsoft-s-copilot-strategy-offers-path-to-enterprise-ai-growth-says-bank-of-america-1102206.html?.tsrc=rss",
+   "published": "2026-11-20T17:36:00+00:00",
+   "tickers": [
+    "MSFT",
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카는 마이크로소프트의 코파일럿 전략이 기업용 AI 성장의 실질적 경로를 제시한다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2286bbf6f2771f81",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart's Q3 Results Strengthen Bull Case as E-Commerce Economics Improve, UBS Says",
+   "excerpt": "Walmart's (WMT) fiscal Q3 results \"reinforced the bull case,\" as improving e-commerce economics, hig",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-apos-q3-results-strengthen-173429075.html?.tsrc=rss",
+   "published": "2026-11-20T17:34:29+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "0c3ca2395df7217c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto CEO says last week’s outages had an unlikely culprit",
+   "excerpt": "Palo Alto Networks sells the stopgap businesses now want, but one admission on its earnings call raises a shelf-life question.",
+   "url": "https://www.thestreet.com/technology/palo-alto-ceo-outages-patching-culprit?.tsrc=rss",
+   "published": "2026-11-20T17:33:00+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "c34706c5b8bc45d5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "DoorDash pushes back on FTC pricing inquiry: 'We don’t do surveillance pricing'",
+   "excerpt": "Last month, the Federal Trade Commission launched an investigation into nine companies — including DoorDash, Uber, and Instacart — over how consumer data is used to set prices.",
+   "url": "https://www.nrn.com/restaurant-technology/doordash-pushes-back-on-ftc-pricing-inquiry-we-don-t-do-surveillance-pricing-?.tsrc=rss",
+   "published": "2026-11-20T17:30:52+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "716aca313a4d2040",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+   "excerpt": "White House National Cyber Director Sean Cairncross is leaving his post, and Pentagon CIO Kirsten Davies is set to serve as acting director. The change follows a week of major U.S. technology outages affecting aviation, Microsoft services and government systems.",
+   "url": "https://www.youtube.com/watch?v=27MG4A2_usM",
+   "published": "2026-11-20T17:30:22+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "백악관의 션 케이언크로스 국가 사이버 국장이 직위에서 물러난다.",
+    "최근 미국 내 기술 장애 사태 이후 펜타곤 CIO 커스틴 데이비스가 임시 국장을 맡을 예정이다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "1d2bf75abf4cedb3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "New Klaviyo Holiday Email Marketing Guide for Ecommerce Stores Released Ahead of Black Friday",
+   "excerpt": "Optimum7 released a Klaviyo holiday email marketing guide that covers sale-day flows, send volume, VIP access and shipping dates.Flows earned 20x, 31x and 40x more revenue per recipient than campaigns at three Optimum7 ecommerce clients, two measured over 12 months and one since June.NRF's forecast covers Nov. 1 to Dec. 31 and tops 2025's $972 billion in holiday retail sales.Adobe expects Cyber Week online sales of $47.5 billion, up from $44.2 billion in 2025. Miami, FL, Nov. 20, 2026 (GLOBE NEW",
+   "url": "https://finance.yahoo.com/media-advertising/articles/klaviyo-holiday-email-marketing-guide-173000052.html?.tsrc=rss",
+   "published": "2026-11-20T17:30:00+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "21101d6d69a4189d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jedify Launches MPC Connector on Snowflake Marketplace",
+   "excerpt": "Joint customers can now work across Snowflake and their own business data outside it with one set of definitions and access rulesNEW YORK, Nov. 20, 2026 (GLOBE NEWSWIRE) -- Jedify, the autonomous context graph for data-intensive agentic applications and workflows, today announced the launch of the Jedify MCP connector on Snowflake Marketplace, now generally available. The Jedify MCP connector brings Jedify’s context graph into Snowflake CoCo, allowing customers to ask questions and build on Snow",
+   "url": "https://finance.yahoo.com/technology/ai/articles/jedify-launches-mpc-connector-snowflake-172700462.html?.tsrc=rss",
+   "published": "2026-11-20T17:27:00+00:00",
+   "tickers": [
+    "SNOW"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "9262e340dd52d99b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Is Headed for Its 7th Straight Daily Decline. History Says This Happens Next",
+   "excerpt": "Nvidia could be headed for its longest losing streak ever.",
+   "url": "https://www.fool.com/investing/2026/11/20/nvidia-is-headed-for-its-7th-straight-decline-history-says-this-happens-next/?.tsrc=rss",
+   "published": "2026-11-20T17:25:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "1d26cc805ca00ff8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron Stocks Fall 2.10% After 7.8% Anthropic Rally Reverses",
+   "excerpt": "Micron joined Anthropic's $26 billion placement and supplies its memory, but the AI selloff erased a $760 intraday high.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-fall-2-10-172406317.html?.tsrc=rss",
+   "published": "2026-11-20T17:24:06+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "7858f7a5f92db7f5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oracle Stocks Fall 2.92% to Trade Below Bernstein's $133 AI Downside Case",
+   "excerpt": "Bernstein kept Outperform and a $325 target, but its worst-case scenario now sits above the share price.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-fall-2-92-172342961.html?.tsrc=rss",
+   "published": "2026-11-20T17:23:42+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "e5dc065e0690d957",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Corporation (INTC) Faces a High-Stakes Turnaround as Server Demand Improves: Can the Stock Recover?",
+   "excerpt": "Investment management company First Pacific Advisors recently released its “FPA Queens Road Value Fund” Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -1.82% in the third quarter of 2026, underperforming the S&P 500 Value Index, which gained 0.90%, while its year-to-date return reached 9.16%, slightly ahead of the […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-faces-high-172212578.html?.tsrc=rss",
+   "published": "2026-11-20T17:22:12+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "2fe2dfc49a48df77",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Pfizer Inc. (PFE) Rose 20% as COVID Revenue Declined: Is Its New Product Portfolio Driving a Turnaround?",
+   "excerpt": "Investment management company First Pacific Advisors recently released its “FPA Queens Road Value Fund” Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -1.82% in the third quarter of 2026, underperforming the S&P 500 Value Index, which gained 0.90%, while its year-to-date return reached 9.16%, slightly ahead of the […]",
+   "url": "https://finance.yahoo.com/healthcare/articles/pfizer-inc-pfe-rose-20-172149133.html?.tsrc=rss",
+   "published": "2026-11-20T17:21:49+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "602109c71498cfc7",
    "kind": "news",
@@ -36,6 +455,87 @@
     "규제 우려와 밸류에이션 부담 등으로 나스닥이 급락하고 반도체 주가가 매도세를 보였다고 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "9ff7898fe21fff3f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom Stocks Move Lower as Anthropic IPO Eases Its $42 Billion Lending Risk",
+   "excerpt": "Broadcom is Anthropic's supplier, lender and now shareholder, after buying $1 billion of shares in the IPO placement.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-move-lower-anthropic-171930686.html?.tsrc=rss",
+   "published": "2026-11-20T17:19:30+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "99aa89db54ffcb4e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan Stocks Move Lower as CFO Handover Reshapes Dimon Bench",
+   "excerpt": "Bregje de Best, 43, will replace Jeremy Barnum after first-quarter 2027 results, the latest senior move at America's largest bank.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stocks-move-lower-cfo-171753365.html?.tsrc=rss",
+   "published": "2026-11-20T17:17:53+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "87559136eef96294",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Wins Microsoft AI Chip Business as Foundry Turnaround Faces New Test",
+   "excerpt": "Microsoft will adopt Intel's EMIB technology for Azure chips as the semiconductor company reports progress with its 18A foundry process.",
+   "url": "https://finance.yahoo.com/technology/articles/intel-wins-microsoft-ai-chip-171706213.html?.tsrc=rss",
+   "published": "2026-11-20T17:17:06+00:00",
+   "tickers": [
+    "MSFT",
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "2983a82dff62fa84",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Boeing Stock Priced Right Against Its Peers?",
+   "excerpt": "Today’s big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://www.trefis.com/stock/ba/articles/627222/is-boeing-stock-priced-right-against-its-peers/2026-11-20?.tsrc=rss",
+   "published": "2026-11-20T17:15:00+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "234e0a4423750f42",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TD Cowen Bets on UnitedHealth and Humana Comebacks",
+   "excerpt": "The profit recovery may hinge on what members accept.",
+   "url": "https://finance.yahoo.com/healthcare/articles/td-cowen-bets-unitedhealth-humana-171434264.html?.tsrc=rss",
+   "published": "2026-11-20T17:14:34+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "6ac2e8d8c3c18494",
@@ -624,6 +1124,21 @@
     "앤트로픽 주가가 첫날 급등분을 대부분 반납하며 변동성을 보였다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "206e66f399d99bb9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "COIN Lags Industry, Trades at a Premium: Buy, Hold or Sell the Stock?",
+   "excerpt": "Coinbase's 52.4% YTD decline, premium valuation and weak trading volumes raise caution, even as its everything-exchange strategy offers growth opportunities.",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/coin-lags-industry-trades-premium-163800224.html?.tsrc=rss",
+   "published": "2026-11-20T16:38:00+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "15f801188b1f378e",
@@ -1523,6 +2038,22 @@
    "published": "2026-11-20T15:22:31+00:00",
    "tickers": [
     "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "b48cff2b25e3ec6e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Ex-Super Micro executive, married to Jensen Huang’s ex-sales chief, says she took a CEO job at an Nvidia customer days before a $2.5 billion China smuggling scandal broke",
+   "excerpt": "ChronoScale, which is majority owned by Applied Digital, is sending $200 million to Super Micro through a subsidiary to pay for GPUs, a filing this week shows.",
+   "url": "https://finance.yahoo.com/technology/articles/ex-super-micro-executive-married-152004969.html?.tsrc=rss",
+   "published": "2026-11-20T15:20:04+00:00",
+   "tickers": [
+    "NVDA",
+    "SMCI"
    ],
    "summary_ko": null,
    "tone": null
@@ -76094,389 +76625,6 @@
    ],
    "summary_ko": [
     "MSCI 지수 개편을 앞두고 스트래티지가 직면한 영향과 비트코인 하락세를 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "1162fd2fbe53a783",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "The Big 3: AMD, CRWV, WMT",
-   "excerpt": "Tim Bohen with @Stockstotrade discusses the uncertainty facing Nvidia (NVDA) following CEO Jensen Huang’s resignation, while maintaining that the broader AI market remains intact and other opportunities exist. He highlights AMD Inc. (AMD), CoreWeave (CRWV) and Walmart (WMT) as traders look for potential rotation opportunities. Rick Ducat then breaks down key support and resistance levels on the charts for Bohen’s picks. ======== Schwab Network ======== Empowering every investor and trader, every market day. Options involve risks and are not suitable for all investors. Before trading, read the Options Disclosure Document. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X –",
-   "url": "https://www.youtube.com/watch?v=lhWIfEy89uQ",
-   "published": "2026-11-13T18:00:18+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN",
-    "AMD",
-    "WMT"
-   ],
-   "summary_ko": [
-    "팀 보헨은 엔비디아 CEO 사임에 따른 불확실성을 언급하며 AMD 등을 대안으로 꼽았다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "8cbac189d48b8be3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron Stocks Fall 3.96% as Nvidia CEO Exit Drags Memory Shares Lower",
-   "excerpt": "The memory giant slid with the chip sector even though its latest guide called for about $61.5 billion in quarterly revenue.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-fall-3-96-175931806.html?.tsrc=rss",
-   "published": "2026-11-13T17:59:31+00:00",
-   "tickers": [
-    "NVDA",
-    "MU"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO의 퇴임 여파로 메모리 관련 주가가 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "976e8fa884031c49",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Intel Stocks Fall 4.55% as Nvidia Shake-Up Clouds Its $5 Billion Partner Bet",
-   "excerpt": "Nvidia's stake, bought at $23.28 a share, is now worth about $12.5 billion, but the next round of joint deals looks less certain.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-fall-4-55-175351220.html?.tsrc=rss",
-   "published": "2026-11-13T17:53:51+00:00",
-   "tickers": [
-    "NVDA",
-    "INTC"
-   ],
-   "summary_ko": [
-    "엔비디아 관련 소식의 영향으로 인텔 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "47ba825f4491a8ad",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft Outage Sends Cybersecurity Stocks Higher. Palo Alto and CrowdStrike Lead Gains",
-   "excerpt": "Cybersecurity Stocks Jump as Microsoft Outage Disrupts Outlook and Teams for 12 Hours",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-outage-sends-cybersecurity-stocks-175246078.html?.tsrc=rss",
-   "published": "2026-11-13T17:52:46+00:00",
-   "tickers": [
-    "MSFT",
-    "CRWD"
-   ],
-   "summary_ko": [
-    "마이크로소프트의 서비스 중단 여파로 사이버보안 관련 주가가 상승했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d68c2d4d28ce7729",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Amodei: Anthropic ‘not super fussed’ with timing of IPO",
-   "excerpt": "Anthropic (ANTH.PVT) CEO Dario Amodei sits down with JPMorgan Chase (JPM) CEO Jamie Dimon to discuss the timing of the company’s IPO and its guiding “underpromise and overdeliver” philosophy.",
-   "url": "https://finance.yahoo.com/video/amodei-anthropic-not-super-fussed-with-timing-of-ipo-175042695.html?.tsrc=rss",
-   "published": "2026-11-13T17:50:42+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "앤스로픽의 CEO 다리오 아모데이가 IPO 시기에 대해 집착하지 않는다고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "54e54d49ecc228bd",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Can Dell Stock Fall 40%?",
-   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://www.trefis.com/stock/dell/articles/624937/can-dell-stock-fall-40/2026-11-13?.tsrc=rss",
-   "published": "2026-11-13T17:47:56+00:00",
-   "tickers": [
-    "DELL"
-   ],
-   "summary_ko": [
-    "델 주가와 관련된 연구 자료 및 문의처를 안내했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "776c8cb16bcdf0dc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Chevron Bets $7B on Venezuela While Exxon Mobil Plays It Safe: One Has a Distinct Edge Now",
-   "excerpt": "Oil near $97 made both supermajors look brilliant this quarter, yet one is pouring billions into a country that has seized foreign assets before while the other says it is in no rush. Which bet fits an income investor?",
-   "url": "https://247wallst.com/investing/2026/11/13/chevron-bets-7b-on-venezuela-while-exxon-mobil-plays-it-safe-one-has-a-distinct-edge-now/?.tsrc=rss",
-   "published": "2026-11-13T17:45:15+00:00",
-   "tickers": [
-    "XOM"
-   ],
-   "summary_ko": [
-    "셰브론과 엑손모빌의 서로 다른 베팅 전략을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6416e375940f2b06",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Stock Falls. It Faces One Big Threat in Life After Jensen.",
-   "excerpt": "Nvidia falls as investors grapple with the big risk remaining after Jensen Huang's resignation.",
-   "url": "https://finance.yahoo.com/m/70da71cf-3c21-3340-ab42-931c5153acf5/nvidia-stock-falls.-it-faces.html?.tsrc=rss",
-   "published": "2026-11-13T17:44:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 젠슨 황 이후의 잠재적 위험에 직면하며 주가가 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "a2f65d2f69de1c31",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dell Stocks Fall 8.16% as AI Server Selloff Deepens Before November 24 Earnings",
-   "excerpt": "The shares have lost more than a third in a month, despite a $95 billion AI server backlog and a raised $74 billion AI revenue goal.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stocks-fall-8-16-174138939.html?.tsrc=rss",
-   "published": "2026-11-13T17:41:38+00:00",
-   "tickers": [
-    "DELL"
-   ],
-   "summary_ko": [
-    "인공지능 서버 매도세가 심화되면서 델의 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "0ead292a35f0e9b8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Better High-Yield Dividend Stock: Pfizer vs. Kimberly-Clark",
-   "excerpt": "Key TakeawaysKimberly-Clark closed its Kenvue acquisition on Nov. 2, and Pfizer raised its 2026 revenue guidance by $1.",
-   "url": "https://www.tikr.com/blog/better-high-yield-dividend-stock-pfizer-vs-kimberly-clark?ref=yahoofinancedividend&tlnk=yf-261115-5pg56r89&.tsrc=rss",
-   "published": "2026-11-13T17:41:36+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "summary_ko": [
-    "킴벌리클라크의 켄뷰 인수와 화이자의 매출 전망 상향 조정을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "65866b345404a11b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SoFi vs. Upstart: Which Fintech Stock is the Better Buy Right Now?",
-   "excerpt": "SOFI and UPST take different paths in fintech, with deposit funding, AI-driven lending, credit risks and growth forecasts shaping their investment outlooks.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-vs-upstart-fintech-stock-174100547.html?.tsrc=rss",
-   "published": "2026-11-13T17:41:00+00:00",
-   "tickers": [
-    "SOFI"
-   ],
-   "summary_ko": [
-    "소파이와 업스타트의 핀테크 전략과 투자 전망을 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4291b672a539322a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "ARM Stock Gains 4% Since Q2 Earnings: Is it a Buy or Hold Now?",
-   "excerpt": "Arm Holdings' 4% post-earnings stock gain reflects strong licensing demand and AI growth prospects, but weak cash flow and uneven royalties warrant a cautious Hold.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-gains-4-since-174100653.html?.tsrc=rss",
-   "published": "2026-11-13T17:41:00+00:00",
-   "tickers": [
-    "ARM"
-   ],
-   "summary_ko": [
-    "ARM의 2분기 실적 이후 주가 상승과 관련된 요인들을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "51832082f8a8f8e4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Comcast or Pfizer: The One Dividend Stock I’d Hold for the Next 10 Years",
-   "excerpt": "Key TakeawaysPfizer yields 6% and Comcast 5. 4%, and both kept their quarterly dividends unchanged when they last declared them in October.",
-   "url": "https://www.tikr.com/blog/comcast-or-pfizer-the-one-dividend-stock-id-hold-for-the-next-10-years?ref=yahoofinancedividend&tlnk=yf-261114-3pc6rc7r&.tsrc=rss",
-   "published": "2026-11-13T17:40:27+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "summary_ko": [
-    "화이자는 6%, 컴캐스트는 5.4%의 배당수익률을 기록하며 배당을 유지했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0a0630ea8503e63c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Qualcomm or Texas Instruments: The One Dividend Stock I’d Hold for the Next 10 Years",
-   "excerpt": "Key TakeawaysQualcomm shares fell about 10% on Nov. 5 after its fiscal fourth-quarter handset revenue dropped 26%, while Texas Instruments grew third-quarter revenue 28% and raised its dividend 7% in September.",
-   "url": "https://www.tikr.com/blog/qualcomm-or-texas-instruments-the-one-dividend-stock-id-hold-for-the-next-10-years?ref=yahoofinancedividend&tlnk=yf-261114-xpp9wg7j&.tsrc=rss",
-   "published": "2026-11-13T17:40:13+00:00",
-   "tickers": [
-    "QCOM"
-   ],
-   "summary_ko": [
-    "퀄컴은 휴대폰 매출 감소로 주가가 하락했으며 텍사스 인스트루먼트는 매출 증가와 배당 인상을 기록했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "998e1a510e8a8b61",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "PLTR's Rule of 40 Hits 158%: Can This Momentum Continue?",
-   "excerpt": "Palantir's Rule of 40 surges to 158% in Q3 2026, fueled by accelerating AI adoption, 96% revenue growth and expanding margins. Can the momentum last?",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/pltrs-rule-40-hits-158-174000798.html?.tsrc=rss",
-   "published": "2026-11-13T17:40:00+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "summary_ko": [
-    "팔란티어의 3분기 Rule of 40 지표가 급등했음을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "fcf9cdeba92b628d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Costco Pays a $30-a-Share Dividend. For a Retiree With 500 Shares, $15,000 Could Raise Her Medicare Premium $81.20 a Month",
-   "excerpt": "Key TakeawaysCostco declared a one-time $30-a-share special dividend, payable Dec. 4, so it goes on shareholders’ 2026 tax returns.",
-   "url": "https://www.tikr.com/blog/costco-pays-a-30-a-share-dividend-for-a-retiree-with-500-shares-15000-could-raise-her-medicare-premium-81-20-a-month?ref=yahoofinancedividend&tlnk=yf-261114-p5g97p57&.tsrc=rss",
-   "published": "2026-11-13T17:39:48+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코는 주당 30달러의 특별 배당을 발표했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1f8ad28d26201cb4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "UnitedHealth vs. Cigna: Which Dividend Stock Pays You More in 10 Years?",
-   "excerpt": "Key TakeawaysUnitedHealth Group yields 2. 3% and Cigna Group yields 2.",
-   "url": "https://www.tikr.com/blog/unitedhealth-vs-cigna-which-dividend-stock-pays-you-more-in-10-years?ref=yahoofinancedividend&tlnk=yf-261114-mf2xpvmw&.tsrc=rss",
-   "published": "2026-11-13T17:39:28+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "summary_ko": [
-    "유나이티드헬스 그룹과 시그나 그룹의 배당수익률을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "418366f329c40122",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Pfizer or Johnson & Johnson: The One Dividend Stock I’d Hold for the Next 20 Years",
-   "excerpt": "Key TakeawaysPfizer yields 6%, more than three times Johnson & Johnson’s 1. 9%, and both companies raised their 2026 guidance this fall.",
-   "url": "https://www.tikr.com/blog/pfizer-or-johnson-johnson-the-one-dividend-stock-id-hold-for-the-next-20-years?ref=yahoofinancedividend&tlnk=yf-261114-g5fm49rg&.tsrc=rss",
-   "published": "2026-11-13T17:39:22+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "summary_ko": [
-    "화이자의 배당수익률이 존슨앤드존슨보다 높으며 두 회사 모두 가이던스를 상향했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c53c3bd39b3a45d0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Arm shares slide as Nvidia succession search puts CEO Rene Haas in spotlight",
-   "excerpt": "Investing.com -- Arm Holdings shares fell 6.5% on Friday, extending weakness across the semiconductor sector, with the decline accelerating after the Financial Times reported that Nvidia’s board had approached Arm Chief Executive Rene Haas as a potential successor to Jensen Huang.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/arm-shares-slide-nvidia-succession-173756134.html?.tsrc=rss",
-   "published": "2026-11-13T17:37:56+00:00",
-   "tickers": [
-    "NVDA",
-    "ARM"
-   ],
-   "summary_ko": [
-    "엔비디아가 암의 르네 하스를 후임으로 접촉했다는 보도가 나온 후 암 주가가 하락했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "2e2d2b7c7a7047af",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AppLovin vs. The Trade Desk: Which Is the Better Digital Advertising Stock to Buy Going Into 2027?",
-   "excerpt": "AppLovin's AI-driven growth and fatter margins square off against The Trade Desk's cleaner balance sheet and open-web independence.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/13/applovin-vs-the-trade-desk-which-is-the-better-digital-advertising-stock-to-buy-going-into-2027/?.tsrc=rss",
-   "published": "2026-11-13T17:37:49+00:00",
-   "tickers": [
-    "APP"
-   ],
-   "summary_ko": [
-    "앱러빈과 더 트레이드 덱의 디지털 광고 시장 경쟁력을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "08c016c64ff32605",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The Same $10,000 in Nvidia and Palantir Could Produce Very Different Results by 2030",
-   "excerpt": "One company sells the chips behind the AI boom, the other sells the software that puts them to work. After a brutal tech selloff, a five-year model sizes up two $10,000 bets and finds one has a much wider range of outcomes.",
-   "url": "https://247wallst.com/investing/2026/11/13/the-same-10000-in-nvidia-and-palantir-could-produce-very-different-results-by-2030/?.tsrc=rss",
-   "published": "2026-11-13T17:33:26+00:00",
-   "tickers": [
-    "NVDA",
-    "PLTR"
-   ],
-   "summary_ko": [
-    "엔비디아와 팔란티어에 동일하게 10,000달러를 투자했을 때 2030년까지의 결과가 크게 다를 수 있다는 모델 분석을 다뤘다.",
-    "한 기업은 AI 칩을 판매하고 다른 기업은 이를 활용하는 소프트웨어를 판매한다고 설명했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "647d89cc8d196cfe",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AST SpaceMobile Sinks 6%, Rocket Lab Down 5% as Space Stocks Give Back a Stellar Week",
-   "excerpt": "Key TakeawaysAST SpaceMobile fell 6% today with no company news, as Rocket Lab, Intuitive Machines and Firefly Aerospace slid on hot inflation data. Intuitive Machines fell almost as hard a day after a record quarter, so this looks like a sector pullback more than a verdict on AST.",
-   "url": "https://www.tikr.com/blog/ast-spacemobile-sinks-6-rocket-lab-down-5-as-space-stocks-give-back-a-stellar-week?ref=yahoofinance&tlnk=yf-261113-q72jrjhc&.tsrc=rss",
-   "published": "2026-11-13T17:30:53+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "물가 상승 데이터 여파로 우주 관련 주식들이 하락세를 보였다고 전했다."
    ],
    "tone": "neg"
   }
