@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-20T06:00:38.865603+00:00",
+ "updated": "2026-11-20T06:30:32.701475+00:00",
  "posts": [
+  {
+   "id": "951987b7352b343f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Could Tesla Become The Next Lumentum? Gary Black Warns A SpaceX Stock Deal Could Send TSLA Down 25%",
+   "excerpt": "Lumentum CEO Michael Hurlston said upcoming earnings and a merger filing could help win back shareholders.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/could-tesla-become-next-lumentum-gary-black-spacex-stock-deal-send-tsla-down/cNbSEW5R9K7?.tsrc=rss",
+   "published": "2026-11-20T06:15:59+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "개리 블랙은 테슬라가 스페이스X와 거래할 경우 주가가 하락할 수 있다고 경고했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6fe7c019de1a5b0b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Does JPMorgan Chase (JPM) Naming A New CFO Mean For Investors?",
+   "excerpt": "JPMorgan Chase (NYSE:JPM) said Bregje de Best will become group CFO, succeeding Jeremy Barnum after Q1 2027. De Best currently serves as CFO of JPMorgan's Commercial & Investment Bank, a role that spans key global trading and advisory operations. Barnum is set to shift into a Vice Chairman position, extending his involvement in senior leadership beyond his CFO tenure. The decision to appoint Bregje de Best as future CFO is worth weighing against all the other factors discussed here. We have...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/does-jpmorgan-chase-jpm-naming-060933124.html?.tsrc=rss",
+   "published": "2026-11-20T06:09:33+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "JP모건 체이스는 브레게 데 베스트를 2027년 1분기 이후에 그룹 CFO로 임명할 것이라고 밝혔다.",
+    "현 CFO인 제러미 바넘은 부회장직으로 이동할 예정이라고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "207d31aae51ee03d",
    "kind": "youtube",
@@ -71,6 +106,23 @@
     "크라우드스트라이크가 잼프와 협력해 애플 기기 자동화를 도입했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "72b3e63b87a128ed",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘Bright Red Flags’: Nvidia Subpoenaed By California, Attorney General Also Probing Jensen Huang’s ‘Actions’",
+   "excerpt": "California served Nvidia Corp. (NASDAQ:NVDA) with an investigative subpoena on Thursday after former CEO Jensen Huang resigned amid an affair with an alleged Chinese spy. Conduct Raises ‘Bright Red Flags‘ Attorney General Rob Bonta‘s office is investigating whether China obtained Nvidia’s advanced chips or confidential information, and whether the company misled investors and the public about the risk, the California Department of Justice said in a statement. The department added that informatio",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bright-red-flags-nvidia-subpoenaed-045550463.html?.tsrc=rss",
+   "published": "2026-11-20T04:55:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캘리포니아주 법무부 등은 엔비디아와 전 CEO 젠슨 황의 행동에 대해 조사에 착수했다고 밝혔다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "c27521efa2bb3755",
@@ -72557,24 +72609,6 @@
     "엔비디아 관련 우려로 인해 미국의 대중국 반도체 규제 강화 공포가 커지면서 중국 AI 관련 주가가 하락했다고 전했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "88249c44478087bf",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/RainieY",
-   "title": "Widespread outage in Microsoft services",
-   "excerpt": "Many microsoft services have been down for almost a full day. The stock has stayed flat during the day and afterhours. Could this be some AI spaghetti code? They don't seem able to fix the issue, and even finding it seems difficult from the articles I've read. If this turns out to be AI-related in any shape, prepare for a massive crush or renewed AI fears. I also thought that there might be a disgruntled employee following the news that Microsoft wants to lay-off a quarter of its workforce. Finally, it could be a nothing burger and I'm letting my mind run wild... If it turns out be something simple like the servers being strained due to too much demand, that would be insanely bullish for data centers. submitted by /u/RainieY [link] [comments]",
-   "url": "https://www.reddit.com/r/stocks/comments/1xv0agw/widespread_outage_in_microsoft_services/",
-   "published": "2026-11-13T06:12:14+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트 서비스의 광범위한 중단 사태와 주가 흐름을 다뤘다.",
-    "이번 문제가 AI와 연관되었을 가능성과 서버 부하로 인한 영향 등을 언급했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
