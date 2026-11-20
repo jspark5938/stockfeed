@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-20T06:30:32.701475+00:00",
+ "updated": "2026-11-20T07:00:38.763108+00:00",
  "posts": [
+  {
+   "id": "5a9260093ae1c859",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "WMT Stock Ticks Higher Overnight: Analyst Says Walmart Deserves Rich Valuation, CEO Stands By ‘Low Price’ Game",
+   "excerpt": "Walmart gains analyst confidence as Truist raises its price target, while stronger e-commerce sales evoke optimism.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/wmt-stock-ticks-higher-overnight-analyst-says-walmart-deserves-rich-valuation-ceo-stands-by-low-price-game/cNbSEHDR9Kf?.tsrc=rss",
+   "published": "2026-11-20T06:33:43+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트(WMT) 주가가 시간외 거래에서 소폭 상승했다고 전했다.",
+    "트루이스트의 목표주가 상향과 전자상거래 매출 강세가 긍정적 평가를 이끌었다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2f5036d2830fa5f1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Wenge AI Adds Google and Apple Sign-In Options for ScienceOra International Users",
+   "excerpt": "Wenge AI (1956.HK) today announced that ScienceOra, its AI-powered scientific research and decision-support platform, has enhanced registration and sign-in for its international site with Google and Apple sign-in options. The update is designed to give overseas researchers a faster, more convenient way to access the AI for Science platform.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/wenge-ai-adds-google-apple-063000704.html?.tsrc=rss",
+   "published": "2026-11-20T06:30:00+00:00",
+   "tickers": [
+    "AAPL",
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "Wenge AI가 해외 연구원을 위해 자사 플랫폼에 구글과 애플 로그인 기능을 추가했다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "951987b7352b343f",
    "kind": "news",
@@ -923,6 +959,24 @@
     "메타 플랫폼스가 AI 인프라 확충으로 청정 에너지 공급에 부담을 느껴 2030년 넷 제로 목표를 재평가하고 있다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "0ca4893280f8bf19",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney Just Boosted Its Dividend by 33%. That Gives DIS Stock Investors a Real Reason to Stick Around.",
+   "excerpt": "Disney increased its dividend by 33% to $2 per share annually while outlining about $3 billion in annual cost savings by fiscal 2029 and a $9 billion buyback target for fiscal 2027.",
+   "url": "https://www.barchart.com/story/news/8927730/disney-just-boosted-its-dividend-by-33-that-gives-dis-stock-investors-a-real-reason-to-stick-around?.tsrc=rss",
+   "published": "2026-11-20T00:30:03+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": [
+    "디즈니(DIS)가 연간 배당금을 주당 2달러로 33% 상향했다고 보도했다.",
+    "2029년 회계연도까지 연간 30억 달러의 비용 절감과 자사주 매입 목표도 함께 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "af9cfd85678e671d",
@@ -72592,23 +72646,6 @@
     "AST 스페이스모바일이 일본 합작법인 설립 소식과 함께 블랙리프트의 개발 및 비용 절감 계획을 발표했다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "f823520f61dbacc8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "China AI stocks tumble as Nvidia fallout fuels fears of tighter U.S. chip curbs",
-   "excerpt": "Investing.com -- Chinese artificial intelligence stocks came under renewed pressure on Friday as Nvidia's leadership crisis heightened fears that Washington could tighten restrictions on China's access to advanced AI computing.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/china-ai-stocks-tumble-nvidia-064035259.html?.tsrc=rss",
-   "published": "2026-11-13T06:40:35+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 관련 우려로 인해 미국의 대중국 반도체 규제 강화 공포가 커지면서 중국 AI 관련 주가가 하락했다고 전했다."
-   ],
-   "tone": "neg"
   }
  ]
 }
