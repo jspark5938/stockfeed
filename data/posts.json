@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-20T03:00:40.455851+00:00",
+ "updated": "2026-11-20T03:30:31.364123+00:00",
  "posts": [
+  {
+   "id": "83c41258c0108c0c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SpaceX lenders seek safeguards against Musk sending AI chips into space - FT",
+   "excerpt": "Investing.com-- Lenders backing SpaceX's (NASDAQ:SPCX) latest $43 billion debt package have sought safeguards to prevent Elon Musk from sending the advanced Nvidia chips securing the financing into space, the Financial Times reported on Thursday.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/spacex-lenders-seek-safeguards-against-031830082.html?.tsrc=rss",
+   "published": "2026-11-20T03:18:30+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "스페이스X의 대출 기관들이 일론 머스크가 담보인 엔비디아 칩을 우주로 보내는 것을 막기 위한 안전장치를 요구했다고 FT가 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "54471bfe34e98fa1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Broadcom (AVGO) Stock Stretched Or Still Reasonable On Cash Flow?",
+   "excerpt": "Broadcom has ridden the AI infrastructure story into the top tier of global chip suppliers, which raises a simple question for you as a shareholder or potential buyer. Is the current price really supported by the cash the business is expected to generate over time, once the headlines fade? Over the past 5 years the stock has returned about 5.8x, which puts a lot of future cash flow assumptions under the microscope for anyone coming in today. Fresh AI related deals and partnerships, along...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-stretched-still-031317832.html?.tsrc=rss",
+   "published": "2026-11-20T03:13:17+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴이 AI 인프라 수혜로 상위 칩 공급업체로 부상했다고 다뤘다.",
+    "주가가 향후 현금 흐름을 정당화할 수 있는지에 대한 의문을 제기했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "8bd8928e73a1efc0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tech takes a beating as AI trade comes unstuck despite Anthropic surge",
+   "excerpt": "Tech firms led losses across Asia once again Friday as Anthropic's sparkling debut failed to muster a recovery in sentiment towards the AI trade, with nerves frayed by worries over crisis-hit Nvidia, profitability and regulation.\"Whether Anthropic's IPO proves to be a defining moment for the AI trade remains to be seen.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tech-takes-beating-ai-trade-030257717.html?.tsrc=rss",
+   "published": "2026-11-20T03:02:57+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "앤스로픽의 호조에도 불구하고 AI 투자 심리가 회복되지 못하면서 아시아 기술주가 하락했다고 전했다.",
+    "엔비디아 관련 우려와 수익성, 규제 등이 투자자들의 불안을 키웠다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "be25817fe51d5445",
    "kind": "news",
@@ -1793,6 +1846,23 @@
     "인공지능의 안정적인 전력 수요로 인해 리튬 등 배터리 소재 관련주가 주목받고 있다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "987ea4bf56bdc85b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple Nears a Rare Long-Term DRAM Supply Deal With Samsung Electronics. What This Means for AAPL Stock.",
+   "excerpt": "Apple is nearing a rare long-term DRAM supply deal with Samsung covering four to five years starting in 2027 to secure memory chips amid rising costs.",
+   "url": "https://www.barchart.com/story/news/8924969/apple-nears-a-rare-long-term-dram-supply-deal-with-samsung-electronics-what-this-means-for-aapl-stock?.tsrc=rss",
+   "published": "2026-11-19T21:10:52+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플이 비용 상승에 대응하기 위해 삼성전자와 4~5년 장기 DRAM 공급 계약을 앞두고 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "89397c5dd2a81086",
@@ -72166,44 +72236,6 @@
     "엔비디아 주가 하락이 매수 기회인지 추가 하락을 기다려야 하는지 의견을 물었다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "23ba23d3fc313cc3",
-   "kind": "reddit",
-   "source": "r/investing",
-   "author": "/u/supplykatusa",
-   "title": "this is why i've beening watching RSP vs. SPY lately",
-   "excerpt": "On Oct 29, 406 of the SP500's 503 stocks finished green. The index still closed down 0.3%. Alphabet had a rough day, and because it's such a big part of the index, the drop outweighed alot of those smaller gains. Nov. 12 gave me anohter version of that NVDA dropped 4.3% after Huang got FIRED, while AMD and Broadcom both rose. If I'd only chekd NVDA, I wouldve missed what was happening elsewhere in chips. That's why I started keeping SPY and RSP next to each other on my watchlist. They track the same group of companies, but the biggest ones have more pull in SPY. RSP gave each comapny the same weight at its quarterly rebalance. Comparing the 2 is a quick way for me to get a feel for market breadth and see when it's worth digging into which sectors are actually moving. I'd feel more bullish ",
-   "url": "https://www.reddit.com/r/investing/comments/1xuwwlq/this_is_why_ive_beening_watching_rsp_vs_spy_lately/",
-   "published": "2026-11-13T03:11:08+00:00",
-   "tickers": [
-    "NVDA",
-    "GOOGL",
-    "AMD",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "S&P 500 지수와 동일 가중 지수를 비교하며 시장의 전반적인 흐름을 살피는 방식을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "8081bdc885922ebf",
-   "kind": "youtube",
-   "source": "Meet Kevin",
-   "author": "Meet Kevin",
-   "title": "Nvidia CEO *JUST* Lawyered Up! 3rd Affair & FIRED",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 🚨 Expires 11/13 11:59pm.💥 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: Jensen Huang reportedly hired Paul Weiss, the firm of former US Attorney Melinda Haag and Walter Brown, as probes widen. I break down who these lawyers are, why separate personal counsel matters, the three DOJ probes around Nvidia, his House testimony before Thanksgiving, the lawsuits he could face, the Lutnick fallout, and what Nvidia earnings on 11-17 could mean for NVDA. Allegations are unproven. Commentary only, not advice. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) Update: ➡️ Reinvest App: ➡️ Software, investment, course & me",
-   "url": "https://www.youtube.com/watch?v=fbC79vAIWWM",
-   "published": "2026-11-13T03:05:09+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO가 법률 대리인을 선임한 배경과 관련 조사를 다뤘다.",
-    "미국 법무부의 조사와 향후 실적 발표가 미칠 영향을 분석했다."
-   ],
-   "tone": "neg"
   }
  ]
 }
