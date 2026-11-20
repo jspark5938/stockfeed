@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:30:34.082719+00:00",
+ "updated": "2026-11-20T08:35:45.572826+00:00",
  "posts": [
   {
    "id": "1ee57bb77a1b5165",
@@ -14,9 +14,11 @@
     "NVDA",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "트럼프 행정부가 엔비디아와 AMD의 AI 칩 중국 판매를 승인했다고 하원 데이터가 밝혔다.",
+    "엔비디아는 H200 선적이 합법적이고 승인된 것이라고 입장을 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a2f8401e7aed7e1e",
@@ -1435,9 +1437,10 @@
     "GOOGL",
     "UBER"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "테슬라의 사이버캐브가 댈러스에 도착했으며 우버에 위협이 되고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a4ffd232d1ecaaae",
@@ -1502,9 +1505,11 @@
    "tickers": [
     "TSM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "서스케하나는 TSMC의 매도세가 지나쳤다고 주장했다.",
+    "TSMC에 대한 매수 등급과 600달러 목표주가를 유지했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "d8beb4248201c699",
