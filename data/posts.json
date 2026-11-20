@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-20T08:00:38.455876+00:00",
+ "updated": "2026-11-20T08:30:34.082719+00:00",
  "posts": [
+  {
+   "id": "1ee57bb77a1b5165",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump Admin Approved Nearly 900,000 AI Chips For China, House Data Shows: Nvidia Says H200 Shipments Were ‘Legal And Authorized’",
+   "excerpt": "President Donald Trump‘s administration approved licenses for Nvidia Corp. (NASDAQ:NVDA) and Advanced Micro Devices Inc. (NASDAQ:AMD) to sell nearly 900,000 artificial intelligence chips to Chinese companies. House Committee Releases Export License Data The House Foreign Affairs Committee released the data Thursday in what Chairman Brian Mast called “the most detailed public disclosure in the history of the Export Control Reform Act.” A Commerce Department Bureau of Industry and Security summary",
+   "url": "https://finance.yahoo.com/technology/ai/articles/trump-admin-approved-nearly-900-071623846.html?.tsrc=rss",
+   "published": "2026-11-20T07:16:23+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "a2f8401e7aed7e1e",
    "kind": "news",
@@ -1405,6 +1422,24 @@
    "tone": "neu"
   },
   {
+   "id": "5b7bf7a507a030f1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla’s Cybercab “Has Arrived” in Dallas. That’s a Growing Threat to Uber",
+   "excerpt": "Key TakeawaysTesla brought its Cybercab to Dallas on Nov. 19, two days after Alphabet’s Waymo paused freeway rides across its US markets.",
+   "url": "https://www.tikr.com/blog/teslas-cybercab-has-arrived-in-dallas-thats-a-growing-threat-to-uber?ref=yahoofinance&tlnk=yf-261120-m4qj6rjf&.tsrc=rss",
+   "published": "2026-11-19T23:00:55+00:00",
+   "tickers": [
+    "TSLA",
+    "GOOGL",
+    "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
    "id": "a4ffd232d1ecaaae",
    "kind": "youtube",
    "source": "Schwab Network",
@@ -1454,6 +1489,22 @@
     "GTA 6가 호평을 받으며 토큰화된 주식 거래에서 주목받았다는 소식을 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "782a3273013d281d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Susquehanna’s $600 Target Says TSMC’s Selloff Went Too Far",
+   "excerpt": "Key TakeawaysOn Nov. 19, Susquehanna kept its Buy rating and $600 price target on TSMC.",
+   "url": "https://www.tikr.com/blog/susquehannas-600-target-says-tsmcs-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261120-fhf8xpr6&.tsrc=rss",
+   "published": "2026-11-19T22:59:34+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "d8beb4248201c699",
@@ -72684,40 +72735,6 @@
     "젠슨 황이 엔비디아 CEO직에서 사임하고, 코렛 크레스 CFO가 임시 CEO로 임명되었다고 보도했다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "fdd46192c2664810",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/AncientRaisin4003",
-   "title": "Is GOOG not the most obvious buy here?",
-   "excerpt": "First of all, I know Google has been very popular with this sub for a while now. Obviously I'm not breaking new ground with this post, but just wanted to lay out my thoughts. I break down Alphabet into these segments: Core Search Everything else (Android, GMail, Chrome, Maps, etc.) Google Cloud Platform (GCP) The actual Cloud Services TPU Chips Google DeepMind YouTube Waymo (they own like ~80%, effectively a subsidiary) ~12-14% of Anthropic ~6% of SpaceX Google Core has done about $250B of revenue over the trailing twelve months at around a 50% operating margin. Google doesn't report \"Core\" margins so it's an estimate but about $125B of operating income. I would put a 12x multiple on this (remember it's operating income not net), due to how AI may affect their search business. I believe th",
-   "url": "https://www.reddit.com/r/stocks/comments/1xv2biv/is_goog_not_the_most_obvious_buy_here/",
-   "published": "2026-11-13T08:16:01+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "알파벳의 핵심 검색 사업과 클라우드, 유튜브, 웨이모 등 다양한 사업 부문을 분석했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "e15677a0eeb227ba",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Should Netflix (NFLX) Investors Rethink Its Outlook After Bill Ackman’s Fresh Backing?",
-   "excerpt": "Bill Ackman reiterated his confidence in Netflix (NasdaqGS:NFLX) and its long-term outlook in fresh comments to investors. He pointed to higher expected cash generation as a key support for his positive view on the streaming platform’s future. Ackman also highlighted new content approaches and internal reorganization moves that he believes can improve Netflix’s operating performance. Bill Ackman’s renewed backing of Netflix’s long-term prospects and operational shifts is important to weigh...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-investors-rethink-outlook-080854948.html?.tsrc=rss",
-   "published": "2026-11-13T08:08:54+00:00",
-   "tickers": [
-    "NFLX"
-   ],
-   "summary_ko": [
-    "빌 애크먼이 현금 창출 능력과 운영 성과 개선을 근거로 넷플릭스의 장기 전망에 대한 긍정적 견해를 재확인했다고 전했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
