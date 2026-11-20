@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:00:38.763108+00:00",
+ "updated": "2026-11-20T07:30:30.978503+00:00",
  "trends": [
   {
    "ticker": "HOOD",
@@ -149,13 +149,6 @@
    "ratio": 1.44
   },
   {
-   "ticker": "RKLB",
-   "name_ko": "로켓랩",
-   "mentions_24h": 7,
-   "mentions_prev_24h": 5,
-   "ratio": 1.4
-  },
-  {
    "ticker": "INTC",
    "name_ko": "인텔",
    "mentions_24h": 26,
@@ -198,13 +191,6 @@
    "ratio": 1.24
   },
   {
-   "ticker": "AVGO",
-   "name_ko": "브로드컴",
-   "mentions_24h": 22,
-   "mentions_prev_24h": 18,
-   "ratio": 1.22
-  },
-  {
    "ticker": "QQQ",
    "name_ko": "나스닥100 ETF",
    "mentions_24h": 6,
@@ -212,18 +198,25 @@
    "ratio": 1.2
   },
   {
+   "ticker": "RKLB",
+   "name_ko": "로켓랩",
+   "mentions_24h": 7,
+   "mentions_prev_24h": 6,
+   "ratio": 1.17
+  },
+  {
+   "ticker": "AVGO",
+   "name_ko": "브로드컴",
+   "mentions_24h": 21,
+   "mentions_prev_24h": 19,
+   "ratio": 1.11
+  },
+  {
    "ticker": "AMZN",
    "name_ko": "아마존",
    "mentions_24h": 68,
    "mentions_prev_24h": 67,
    "ratio": 1.01
-  },
-  {
-   "ticker": "JPM",
-   "name_ko": "JP모건",
-   "mentions_24h": 16,
-   "mentions_prev_24h": 16,
-   "ratio": 1.0
   },
   {
    "ticker": "IONQ",
@@ -259,6 +252,13 @@
    "mentions_24h": 11,
    "mentions_prev_24h": 12,
    "ratio": 0.92
+  },
+  {
+   "ticker": "JPM",
+   "name_ko": "JP모건",
+   "mentions_24h": 15,
+   "mentions_prev_24h": 17,
+   "ratio": 0.88
   },
   {
    "ticker": "META",
@@ -303,11 +303,11 @@
    "ratio": 0.75
   },
   {
-   "ticker": "UNH",
-   "name_ko": "유나이티드헬스",
-   "mentions_24h": 11,
-   "mentions_prev_24h": 16,
-   "ratio": 0.69
+   "ticker": "DIS",
+   "name_ko": "디즈니",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 14,
+   "ratio": 0.71
   },
   {
    "ticker": "SBUX",
@@ -317,11 +317,11 @@
    "ratio": 0.67
   },
   {
-   "ticker": "DIS",
-   "name_ko": "디즈니",
-   "mentions_24h": 9,
-   "mentions_prev_24h": 14,
-   "ratio": 0.64
+   "ticker": "UNH",
+   "name_ko": "유나이티드헬스",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 16,
+   "ratio": 0.62
   },
   {
    "ticker": "MSTR",
@@ -368,9 +368,9 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 157,
-   "mentions_prev_24h": 359,
-   "ratio": 0.44
+   "mentions_24h": 155,
+   "mentions_prev_24h": 357,
+   "ratio": 0.43
   },
   {
    "ticker": "ASML",
