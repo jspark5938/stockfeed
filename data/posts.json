@@ -1,6 +1,169 @@
 {
- "updated": "2026-11-20T19:00:38.823333+00:00",
+ "updated": "2026-11-20T19:30:42.073605+00:00",
  "posts": [
+  {
+   "id": "32482b2015690afc",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Nvidia's legal woes are adding up: What you should know",
+   "excerpt": "CNBC's Seema Mody joins 'The Exchange' to discuss Nivida's legal woes and how Wall Street is responding.",
+   "url": "https://www.youtube.com/watch?v=djyc-rPqBV4",
+   "published": "2026-11-20T19:18:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "6988bc6c6eba2db9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom Stock Plunges 12% and Loses $191 Billion After a Report That Google Cut Its Plans for Broadcom AI Chips",
+   "excerpt": "Broadcom fell 12% Friday afternoon after analyst Ming-Chi Kuo said Google cut about 1 million Broadcom-designed AI chips from its 2027 plans. The stock is headed for its worst day since June and sits 36% below its record. Earnings are Dec. 9.",
+   "url": "https://247wallst.com/investing/2026/11/20/broadcom-stock-plunges-12-and-loses-191-billion-after-a-report-that-google-cut-its-plans-for-broadcom-ai-chips/?.tsrc=rss",
+   "published": "2026-11-20T19:13:04+00:00",
+   "tickers": [
+    "GOOGL",
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "16cd011f3936fea8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Exclusive Research: JPMorgan’s AI strategy puts governance to the test",
+   "excerpt": "American Banker research shows banks with stronger AI governance are better at quantifying financial impact and scaling adoption.",
+   "url": "https://www.americanbanker.com/news/exclusive-research-jpmorgan-s-ai-strategy-puts-governance-to-the-test?.tsrc=rss",
+   "published": "2026-11-20T19:11:47+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "9a81030054c12353",
+   "kind": "youtube",
+   "source": "Andrei Jikh",
+   "author": "Andrei Jikh",
+   "title": "Why America Is Breaking",
+   "excerpt": "Emails, airplanes, banks, phones and the NSA all went down in the same week. Officials say it wasn't a cyberattack, so what was it? Microsoft went dark in more than 70 countries, every plane in the US was grounded, and online banking froze, followed by United, Apple and Charles Schwab. Everything came back online, but this week showed exactly where the cracks are and how people react when the systems they rely on stop working. That reaction might matter more than the outages themselves. Find the full story in my video: Why America Is Breaking",
+   "url": "https://www.youtube.com/watch?v=aRmpqGQ2t8c",
+   "published": "2026-11-20T19:11:15+00:00",
+   "tickers": [
+    "AAPL",
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "58d15dcb9f8d1e65",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Nasdaq Turns Negative For 2026 As Fear Gauge Spikes; Walmart Advances (Live Coverage)",
+   "excerpt": "The Nasdaq composite tumbles Friday after Thursday's market sell-off. Anthropic stock plunges after its IPO.",
+   "url": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+   "published": "2026-11-20T19:10:42+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "ae8f57f43f360c11",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Nvidia's $81 Billion Receivables Pile A Risk?",
+   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://www.trefis.com/stock/nvda/articles/627205/is-nvidia-s-81-billion-receivables-pile-a-risk/2026-11-20?.tsrc=rss",
+   "published": "2026-11-20T19:06:16+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "69e6ee211b94b0dc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Labour’s ‘unfair’ bank tax will have consequences, warns JP Morgan boss",
+   "excerpt": "The boss of JP Morgan has warned that John Healey’s bank tax raid will have consequences for Britain, as he vowed to set an “example” by finding ways to claw back the levy.",
+   "url": "https://uk.finance.yahoo.com/news/labour-unfair-bank-tax-consequences-190058863.html?.tsrc=rss",
+   "published": "2026-11-20T19:00:58+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "152f4c042da99c91",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan adds Dallas fund-banking hub as Y’all Street private capital ecosystem grows",
+   "excerpt": "JPMorgan Chase’s Jamie Dimon with 1900 North Akard Street (Getty, Google Maps)JPMorgan Chase is building out a specialized banking operation in Dallas, yet another indication of the banking giant’s ambitious Y’all Street plans. The hub is set to service private equity firms, venture capital, hedge funds and their principals, according to the Dallas Business Journal. It’s set to be located out of JPMorgan’s offices in Downtown Dallas, at the Hunt building at 1900 North Akard Street. The bank is e",
+   "url": "https://finance.yahoo.com/real-estate/articles/jpmorgan-adds-dallas-fund-banking-190000985.html?.tsrc=rss",
+   "published": "2026-11-20T19:00:00+00:00",
+   "tickers": [
+    "GOOGL",
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "e91312d3ca5592e1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron Is Down 32% in a Month. Can MU Stock Get Back to $1,000?",
+   "excerpt": "A 12% single-day plunge has wiped out billions in Micron's value just as UBS questions whether AI spending can ever pay for itself. The memory giant's bulls have committed shipments on their side, but one upcoming test could decide everything.",
+   "url": "https://247wallst.com/investing/2026/11/20/micron-is-down-32-in-a-month-can-mu-stock-get-back-to-1000/?.tsrc=rss",
+   "published": "2026-11-20T18:55:00+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "4d751247e2123e3f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Microsoft’s (MSFT) Valuation Crashed From 75x to 10x – Even as Earnings Kept Growing",
+   "excerpt": "Troy Asset Management, an investment management firm, released its October 2026 investor letter. A copy of the letter can be downloaded here. The firm, covering its Multi-Asset Strategy, examined the growing tension between the AI-driven equity rally and rising bond yields amid persistent inflation and geopolitical uncertainty. The firm noted that the AI investment boom […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-valuation-crashed-75x-185012363.html?.tsrc=rss",
+   "published": "2026-11-20T18:50:12+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "08e8cdc988a070f8",
    "kind": "news",
@@ -17,6 +180,23 @@
     "세미애널리시스가 장기 AI 연산 지출 전망치를 하향 조정했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "3f88cf66802378ff",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple “Has No Idea What It’s Doing” in AI. Oh, and It’s Building Its Own AI Agent Too",
+   "excerpt": "Key TakeawaysApple is building its own AI agent that can run devices, browse the web and write code, which puts it up against Anthropic, OpenAI and Alphabet’s Google. Apple trades at 37x forward earnings, the price of a company that collects fees from AI, yet its agent will start from models rebuilt on Google’s Gemini.",
+   "url": "https://www.tikr.com/blog/apple-has-no-idea-what-its-doing-in-ai-oh-and-its-building-its-own-ai-agent-too?ref=yahoofinance&tlnk=yf-261120-jcvh6wc4&.tsrc=rss",
+   "published": "2026-11-20T18:49:00+00:00",
+   "tickers": [
+    "AAPL",
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "3b0b38d17039f1b6",
@@ -70,6 +250,22 @@
    "tone": "pos"
   },
   {
+   "id": "f86ca472b04f74cd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Could Derail Disney Stock?",
+   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://www.trefis.com/stock/dis/articles/627233/what-could-derail-disney-stock/2026-11-20?.tsrc=rss",
+   "published": "2026-11-20T18:41:58+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
    "id": "0fb11db83acc2ce0",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -120,6 +316,22 @@
     "코스트코의 특별 배당 소식과 함께 필수소비재 종목으로서의 기대감을 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "6736087bb33dbf48",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Wall Street Had a Big Week. Why are AI and Tech Stocks Still Crashing?",
+   "excerpt": "AI and tech stocks are crashing despite Anthropic's record IPO and Nvidia's beat. Here is what investors fear instead.",
+   "url": "https://beincrypto.com/why-ai-tech-stocks-crashing-anthropic-nvidia/?.tsrc=rss",
+   "published": "2026-11-20T18:35:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "501917f2cc50127a",
@@ -5610,6 +5822,22 @@
     "클라우드플레어가 최근 주목받는 이유와 주가 전망에 영향을 줄 요인을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "11771825d8c44747",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks Stock Soars on Strong FCF Guidance - Any More Upside Left in PANW?",
+   "excerpt": "Palo Alto Networks produced strong free cash flow (FCF) margins and guided to 38% this fiscal year. PANW stock rose 9.9% on Wednesday and about 7% on Thursday. Could it be worth more?",
+   "url": "https://www.barchart.com/story/news/8934234/palo-alto-networks-stock-soars-on-strong-fcf-guidance-any-more-upside-left-in-panw?.tsrc=rss",
+   "published": "2026-11-20T13:00:02+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "6265a9b510817046",
@@ -77226,267 +77454,6 @@
     "이를 통해 안정적인 제약사로서의 역량을 증명하고 있다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "20722fe24a008a49",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Ca$htag$: AMD, AVGO, GOOGL Primes to Take NVDA Market Share in AI Chips",
-   "excerpt": "The \"natural winners\" of the leadership shift in Nvidia (NVDA) are AMD Inc. (AMD) and Broadcom (AVGO), says Andy Swan of @LikeFolio. He discusses the \"spillover\" effect occurring from Nvidia into other Big Tech competitors as the Mag 7 giant sees a greater risk in losing market share. Andy adds that Alphabet (GOOGL) and its Google TPUs are the \"most slept-on\" product his firm took consumer interest data on. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #amd #google #economy #finance #investing #marketn",
-   "url": "https://www.youtube.com/watch?v=e1AC1EnHWAY",
-   "published": "2026-11-13T19:30:15+00:00",
-   "tickers": [
-    "NVDA",
-    "GOOGL",
-    "AMZN",
-    "AMD",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "앤디 스완은 엔비디아의 리더십 변화로 AMD와 브로드컴이 수혜를 입을 것이라고 주장했다.",
-    "알파벳의 구글 TPU가 시장에서 주목받고 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f4c7201ea5aa4c0f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang Joins Wall Street’s Fallen-Founder Hall of Fame: 13 Founders Who Fell Before Him",
-   "excerpt": "Jensen Huang spent 33 years as the leather-jacketed prophet of Nvidia Corp. (NASDAQ:NVDA), turning a graphics-chip maker into the engine of the AI boom and himself into tech royalty. On Thursday, he walked out the door. He resigned effective immediately...",
-   "url": "https://www.benzinga.com/markets/equities/26/11/63262520/jensen-huang-joins-wall-streets-fallen-founder-hall-of-fame-13-founders-who-fell-before-him?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-   "published": "2026-11-13T19:26:33+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아를 AI 붐의 중심으로 이끈 젠슨 황이 사임했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c11cd32ac1ca481f",
-   "kind": "youtube",
-   "source": "Andrei Jikh",
-   "author": "Andrei Jikh",
-   "title": "Why AI Is Getting More Expensive",
-   "excerpt": "Some of the biggest companies on earth need AI to stay expensive. One of them is betting $26 billion that it won't. OpenAI, Anthropic and Google keep their best models behind a paywall, and hundreds of billions of borrowed dollars are riding on AI one day making trillions. That only works if they can keep charging you. On the other side is a company that doesn't care if AI is free at all, because it gets paid either way. Find the full story in my video: What If China Wins The AI Race",
-   "url": "https://www.youtube.com/shorts/q1cdDTGIE80",
-   "published": "2026-11-13T19:24:56+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "주요 기업들이 AI를 비싸게 유지하려 유료화를 고수하고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f1114d06302af9b5",
-   "kind": "youtube",
-   "source": "Andrei Jikh",
-   "author": "Andrei Jikh",
-   "title": "Why AI Is Getting More Expensive",
-   "excerpt": "Some of the biggest companies on earth need AI to stay expensive. One of them is betting $26 billion that it won't. OpenAI, Anthropic and Google keep their best models behind a paywall, and hundreds of billions of borrowed dollars are riding on AI one day making trillions. That only works if they can keep charging you. On the other side is a company that doesn't care if AI is free at all, because it gets paid either way. Find the full story in my video: What If China Wins The AI Race",
-   "url": "https://www.youtube.com/watch?v=q1cdDTGIE80",
-   "published": "2026-11-13T19:24:56+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "주요 AI 기업들이 고비용 구조를 유지하려는 반면, 다른 기업은 무료 전략을 취하고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9a33f8aea8c867e2",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/Terrible_Worker_153",
-   "title": "INTC YOLO",
-   "excerpt": "What goes down must come up or however that saying goes submitted by /u/Terrible_Worker_153 to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvgxpp/intc_yolo/",
-   "published": "2026-11-13T19:17:04+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "하락한 인텔 주식의 반등을 기대하며 투자에 나선 모습을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "283932f0169ed5a7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Taiwan Semiconductor Manufacturing (TSM) Takes A $1 Billion Step Further Into AI",
-   "excerpt": "Taiwan Semiconductor Manufacturing (NYSE:TSM) plans to invest up to US$1b in leading AI firms Anthropic and OpenAI through a new vehicle. The chip foundry is creating a dedicated investment entity to back ventures across the wider semiconductor and AI ecosystem. Management is positioning these Anthropic and OpenAI stakes as a way to embed TSMC deeper into the AI development value chain. TSMC's push into direct Anthropic and OpenAI ownership only tells part of the story for the wider...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-tsm-takes-191146480.html?.tsrc=rss",
-   "published": "2026-11-13T19:11:46+00:00",
-   "tickers": [
-    "TSM"
-   ],
-   "summary_ko": [
-    "대만 반도체(TSM)가 앤스로픽과 오픈AI에 최대 10억 달러를 투자할 계획이라고 다뤘다.",
-    "경영진은 이번 투자를 통해 AI 개발 밸류체인에서 입지를 다지려 한다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f5bc8e04fc06adfb",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang collects over $800 million a year in dividends, and United bans AI bots | Market Hang",
-   "excerpt": "Jensen Huang's quarterly dividend from Nvidia runs to roughly $200 million, which Kevin Kelly works out to more than $800 million a year. Bill George tells the show it is the wrong board for a high tech company, with five venture capitalists and nobody who understands the technology. Jed Ellerbroek of Argent Capital Management calls Anthropic's filing the most impressive business he has ever reviewed, and names Microsoft, Google and Amazon as the reasonably priced way in. Julie Hyman argues Kevin Warsh cannot stop the market extrapolating by giving it less guidance. Then United bans AI bots from booking flights. Featuring Kevin Kelly, Founder, CEO and CCO, Kelly Intelligence Julie Hyman, Yahoo Finance Turney Duff, Wall Street veteran and author of \"The Buy Side\" Jed Ellerbroek, Portfolio M",
-   "url": "https://www.youtube.com/watch?v=mNCwdKxZFSM",
-   "published": "2026-11-13T19:11:41+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT",
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "젠슨 황의 연간 배당금과 이사회 구성에 대한 논평을 다뤘다.",
-    "마이크로소프트, 구글, 아마존이 합리적인 투자처로 언급됐다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "268c2016f4da66d2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Does D Wave Quantum's (QBTS) Gartner Recognition Mean For Its Stock?",
-   "excerpt": "D-Wave Quantum (NasdaqGS:QBTS) has been recognized as a Market Shaper in the Gartner Emerging Market Quadrant for Quantum Computing. The Gartner recognition highlights D-Wave Quantum's work on scalable quantum architectures and enterprise-focused software. The accolade marks an external research firm acknowledging D-Wave Quantum's position in commercial quantum computing solutions. The Gartner Market Shaper label for D-Wave Quantum fits into a wider pattern our research has uncovered on this...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/does-d-wave-quantums-qbts-191140889.html?.tsrc=rss",
-   "published": "2026-11-13T19:11:40+00:00",
-   "tickers": [
-    "QBTS"
-   ],
-   "summary_ko": [
-    "디웨이브 퀀텀(QBTS)이 가트너 이머징 마켓 쿼드런트에서 시장 형성자로 선정되었다고 보도했다.",
-    "이번 평가는 확장 가능한 양자 아키텍처와 소프트웨어 성과를 인정받은 결과라고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "78b1cb6440f1e92d",
-   "kind": "youtube",
-   "source": "The Compound",
-   "author": "The Compound",
-   "title": "Is Nvidia Still a Buy Without Jensen Huang?",
-   "excerpt": "On episode 268 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks breaking out, global markets hitting new highs, magazine covers as contrarian indicators, and whether the collapse in gold and silver could be setting up a major opportunity in precious metals. 👕 Check out The Compound shop: 🎙️Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: The Compound Newsletter: Linkedin: Instagram: Twitter: Tik Tok: Investing involves the risk of loss. This podcast is for ",
-   "url": "https://www.youtube.com/shorts/wBOGnV3pvyg",
-   "published": "2026-11-13T19:11:25+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL",
-    "AMD"
-   ],
-   "summary_ko": [
-    "엔비디아의 역사적인 매도세와 AI 투자 흐름에 대해 논의했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6fb5a67b33157ecf",
-   "kind": "youtube",
-   "source": "The Compound",
-   "author": "The Compound",
-   "title": "Is Nvidia Still a Buy Without Jensen Huang?",
-   "excerpt": "On episode 268 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks breaking out, global markets hitting new highs, magazine covers as contrarian indicators, and whether the collapse in gold and silver could be setting up a major opportunity in precious metals. 👕 Check out The Compound shop: 🎙️Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: The Compound Newsletter: Linkedin: Instagram: Twitter: Tik Tok: Investing involves the risk of loss. This podcast is for ",
-   "url": "https://www.youtube.com/watch?v=wBOGnV3pvyg",
-   "published": "2026-11-13T19:11:25+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL",
-    "AMD"
-   ],
-   "summary_ko": [
-    "팟캐스트에서 엔비디아의 주가 하락과 AI 관련주의 순환매 가능성을 논의했다.",
-    "AMD와 애플의 강세 및 시장 전반의 분위기를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "386c3d06e8f494a3",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "NVDA Eyeing ARM Chief Executive as CEO Search Expands #shorts",
-   "excerpt": "Reports indicate that Nvidia (NVDA) is turning to a chief executive from Arm (ARM) as a key candidate for the role Jensen Huang vacated. The company has reportedly eyed executives from Alphabet (GOOGL) and Apple (AAPL) as well. Sam Vadas takes investors through the latest updates surrounding Nvidia's CEO search. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #arm #apple #economy #finance #investing #marketnews #stock #stockmarket #trading #live #schwabnetwork #nvda #aapl #google #googl #alphabet #jensen",
-   "url": "https://www.youtube.com/shorts/zDbew3kLat8",
-   "published": "2026-11-13T19:10:25+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL",
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "엔비디아가 ARM 최고경영자를 CEO 후보로 검토하고 있다고 보도됐다.",
-    "알파벳과 애플 임원들도 후보로 거론되고 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a24e468328d25615",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Palo Alto Networks Stock Upgrade Means For Shareholders",
-   "excerpt": "Palo Alto Networks is reported to be in talks to acquire AI security startup Clutch Security for about US$500 million, while its Prisma Browser for Business technology is being integrated into Guardz to strengthen managed browser, email and endpoint protection for small businesses. The push into AI driven tools like Prisma AIRS and Clutch’s agent security, alongside ecosystem moves with Guardz and Factory’s Cyber Defense Network, points to Palo Alto Networks increasing its focus on high...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stock-upgrade-190936950.html?.tsrc=rss",
-   "published": "2026-11-13T19:09:36+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로 알토 네트워크가 AI 보안 스타트업 클러치 보안 인수를 협상 중이라고 전했다.",
-    "보안 기술 통합과 AI 중심 도구 확장을 통해 고부가가치 보안에 집중하고 있다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a2f8355b0ef59903",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "DLLL 2X Dell ETF Plunges 16% as Dell Tumbles 8% in AI Hardware Selloff; Hewlett Packard Enterprise Falls 4%",
-   "excerpt": "Dell posted record AI orders and a $95 billion backlog, yet its leveraged ETF just lost a sixth of its value in a day. What is spooking the AI hardware trade, and why is the smallest drop landing on the company at the center of the probe?",
-   "url": "https://247wallst.com/investing/2026/11/13/dlll-2x-dell-etf-plunges-16-as-dell-tumbles-8-in-ai-hardware-selloff-hewlett-packard-enterprise-falls-4/?.tsrc=rss",
-   "published": "2026-11-13T19:03:32+00:00",
-   "tickers": [
-    "DELL"
-   ],
-   "summary_ko": [
-    "델의 주가 하락과 함께 관련 2배 레버리지 ETF가 하루 만에 급락했다고 다뤘다.",
-    "델이 기록적인 AI 주문과 수주잔고를 보유했음에도 하락세가 나타났다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "baab89d74b2d481e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tom Lee Says Jensen Huang's Return Would Be ‘Shocking’: Trump Reportedly Urged Him To Fight For His Job",
-   "excerpt": "Fundstrat’s Tom Lee listed “China hawks,” frontier labs, Nvidia competitors, “anti-AI people,” and short sellers among the groups that could potentially want Huang removed.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/tom-lee-says-huang-return-would-be-shocking-trump-urged-him-to-fight-for-his-job/cNbRfHmR9fz?.tsrc=rss",
-   "published": "2026-11-13T19:02:51+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "톰 리는 젠슨 황의 복귀가 충격적일 것이라며 관련 주장을 언급했다.",
-    "트럼프가 젠슨 황에게 직위를 지키기 위해 싸울 것을 촉구했다고 전했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
