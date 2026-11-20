@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-20T01:15:27.548887+00:00",
+ "updated": "2026-11-20T01:30:30.643625+00:00",
  "posts": [
+  {
+   "id": "1b823d7d24fe62af",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Peter Thiel Now Has as Much Money in an Argentine Oil Stock as in Amazon. It’s Down 23% Since September 30",
+   "excerpt": "Peter Thiel's hedge fund bought 697,043 more shares of Vista Energy last quarter, and on September 30 its $123.3 million stake in the Argentine shale driller matched its $123.3 million in Amazon to within $24,583. Brent crude has fallen 25% from its October 30 price since, and Vista 23% since September 30. Here is what Vista is and why an investor might bet on Vaca Muerta.",
+   "url": "https://247wallst.com/investing/2026/11/19/peter-thiel-now-has-as-much-money-in-an-argentine-oil-stock-as-in-amazon-its-down-23-since-september-30/?.tsrc=rss",
+   "published": "2026-11-20T01:17:06+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "피터 틸의 헤지펀드가 아르헨티나 석유 기업 비스타 에너지 주식을 매수했다고 다뤘다.",
+    "해당 지분 가치는 아마존 투자금과 유사한 수준이라고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "59999cc480586c16",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba Group Holding Accused of Hiding Ties to Suspected Spy in Nvidia Scandal, Lawsuit Says",
+   "excerpt": "Alibaba Group Holding (BABA) was sued in a proposed securities class action by shareholders who accu",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-accused-hiding-010413571.html?.tsrc=rss",
+   "published": "2026-11-20T01:04:13+00:00",
+   "tickers": [
+    "NVDA",
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바 그룹 홀딩이 주주들로부터 증권 집단소송을 당했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "ca67624d6d88448e",
    "kind": "news",
@@ -110,6 +146,23 @@
     "메타 플랫폼스가 AI 인프라 확충으로 청정 에너지 공급에 부담을 느껴 2030년 넷 제로 목표를 재평가하고 있다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "af9cfd85678e671d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Faces California Subpoena as Its Regulatory Troubles Grow",
+   "excerpt": "The California attorney general is investigating whether Nvidia or its former CEO, Jensen Huang, allowed advanced chips or confidential information to reach China.",
+   "url": "https://finance.yahoo.com/m/c4255d5c-5bd9-305f-b1be-770e273d435b/nvidia-faces-california.html?.tsrc=rss",
+   "published": "2026-11-20T00:26:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캘리포니아주 법무부 장관이 엔비디아와 전 CEO를 상대로 조사에 착수했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "c9644d5f8065a4a5",
@@ -234,6 +287,23 @@
    ],
    "summary_ko": [
     "엑슨모빌의 성공이 대형 석유 기업들로 하여금 고위험 프런티어 탐사에 대한 관심을 다시 높이고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "fda7ea786514058e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple May Try to Challenge Meta for Personal Agent Supremacy",
+   "excerpt": "Apple has been posting job openings that reveal its interest in agents, but a new one this week was pretty explicit about what Apple is working toward.",
+   "url": "https://finance.yahoo.com/m/218adf20-fceb-3955-ab5b-5c4bc9cf9107/apple-may-try-to-challenge.html?.tsrc=rss",
+   "published": "2026-11-19T23:51:00+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플이 채용 공고를 통해 개인용 에이전트 분야에서 메타와 경쟁할 가능성을 다뤘다."
    ],
    "tone": "pos"
   },
@@ -515,6 +585,23 @@
    "summary_ko": [
     "브로드컴의 맞춤형 AI 칩 사업이 호황을 누리고 있다고 다뤘다.",
     "시장이 주가를 실제 가치보다 낮게 평가하고 있다고 주장했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "5b646cbda3866990",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Musk Says Optimus Will Do the Dishes “Within 12-18 Months.” Here’s Where Tesla’s Robot Stands",
+   "excerpt": "Key TakeawaysElon Musk said on Nov. 18 that Optimus will be able to take out the trash and put away dishes in about 12 to 18 months.",
+   "url": "https://www.tikr.com/blog/musk-says-optimus-will-do-the-dishes-within-12-18-months-heres-where-teslas-robot-stands?ref=yahoofinance&tlnk=yf-261119-6gjh8j3r&.tsrc=rss",
+   "published": "2026-11-19T22:37:52+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크가 테슬라의 옵티머스가 12~18개월 내에 설거지 등을 할 수 있을 것이라고 언급했다고 전했다."
    ],
    "tone": "pos"
   },
