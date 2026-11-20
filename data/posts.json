@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-20T17:16:55.678826+00:00",
+ "updated": "2026-11-20T17:30:32.756514+00:00",
  "posts": [
+  {
+   "id": "602109c71498cfc7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Would Warren Buffett Do With Nike Stock Down 79% From Its Peak?",
+   "excerpt": "The Oracle of Omaha would probably agree that sentiment toward this business is characterized by extreme uncertainty.",
+   "url": "https://www.fool.com/investing/2026/11/20/what-would-warren-buffett-do-with-nike-stock-down-79-from-its-peak/?.tsrc=rss",
+   "published": "2026-11-20T17:20:03+00:00",
+   "tickers": [
+    "ORCL",
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키 주가가 최고점 대비 큰 폭으로 하락한 상황에서 시장의 심리는 극단적인 불확실성으로 특징지어진다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "7a20d18f57a9b03b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
+   "excerpt": "Mounting regulatory concerns, elevated valuations, and uncertainty surrounding interest rates are putting some of Wall Street's biggest winners of the AI boom under considerable pressure.",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/?.tsrc=rss",
+   "published": "2026-11-20T17:20:02+00:00",
+   "tickers": [
+    "AMD",
+    "MU"
+   ],
+   "summary_ko": [
+    "규제 우려와 밸류에이션 부담 등으로 나스닥이 급락하고 반도체 주가가 매도세를 보였다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6ac2e8d8c3c18494",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Take-Two's GTA 6 could drive higher player spending and long-term growth, says Bank of America",
+   "excerpt": "Take-Two Interactive Software Inc (NASDAQ:TTWO)'s Grand Theft Auto 6 could generate significantly greater long-term revenue through a broader audience and higher player spending, according to Bank of America (BofA), which maintained its 'buy' rating on the video game publisher. The bank...",
+   "url": "https://www.proactiveinvestors.com/companies/news/1102204/take-two-s-gta-6-could-drive-higher-player-spending-and-long-term-growth-says-bank-of-america-1102204.html?.tsrc=rss",
+   "published": "2026-11-20T17:14:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카는 GTA 6가 장기 성장을 이끌 수 있다고 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "dc4c728de29d3833",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Salesforce Set to Exceed Earnings Estimates Amid Low Bar, Agentforce Demand, Oppenheimer Says",
+   "excerpt": "Salesforce (CRM) has room for fiscal third-quarter earnings upside amid subdued investor expectation",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-set-exceed-earnings-estimates-171139323.html?.tsrc=rss",
+   "published": "2026-11-20T17:11:39+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "오펜하이머는 낮은 기대감과 에이전트포스 수요 속에서 세일즈포스의 실적이 예상치를 웃돌 여지가 있다고 진단했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "25d5566d77f5006f",
    "kind": "youtube",
@@ -49,6 +119,23 @@
    ],
    "summary_ko": [
     "알파벳이 42억 달러 규모의 캐나다 채권 시장 거래를 진행했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "9d578b8b1eb2dae1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "When Should You Buy Uber Stock?",
+   "excerpt": "Today’s big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://www.trefis.com/stock/uber/articles/627297/when-should-you-buy-uber-stock/2026-11-20?.tsrc=rss",
+   "published": "2026-11-20T17:07:46+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": [
+    "우버 주식 매수 시점에 관한 내용을 다뤘다."
    ],
    "tone": "neu"
   },
@@ -139,6 +226,23 @@
    "tone": "pos"
   },
   {
+   "id": "cd03f95a649ec46d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Does Eli Lilly Offer That Merck Does Not?",
+   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://www.trefis.com/stock/mrk/articles/627182/what-does-eli-lilly-offer-that-merck-does-not/2026-11-20?.tsrc=rss",
+   "published": "2026-11-20T16:59:57+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": [
+    "일라이릴리가 머크와 비교해 어떤 차별점이 있는지 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "5834050bfd52f5b3",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -187,6 +291,24 @@
    ],
    "summary_ko": [
     "테슬라가 월스트리트의 목표가 상향에도 불구하고 성장주 약세 속에 하락했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6d9596959c8913f2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips",
+   "excerpt": "Investing.com -- Google has reduced its planned 2027 shipments of Broadcom-designed AI chips while preparing to increase shipments of a MediaTek-designed alternative, according to technology supply-chain analyst Ming-Chi Kuo.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/google-reportedly-cuts-broadcom-designed-165518878.html?.tsrc=rss",
+   "published": "2026-11-20T16:55:18+00:00",
+   "tickers": [
+    "GOOGL",
+    "AVGO"
+   ],
+   "summary_ko": [
+    "애널리스트에 따르면 구글이 브로드컴 기반 AI 칩 출고 계획을 줄이고 미디어텍 칩을 늘릴 준비를 하고 있다고 전했다."
    ],
    "tone": "neg"
   },
@@ -447,9 +569,10 @@
    "tickers": [
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "한 대형 펀드가 3분기에 특정 종목들을 전량 매도하고 알파벳 비중을 늘렸다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "8a00374c01db98cd",
@@ -463,9 +586,10 @@
    "tickers": [
     "AAPL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "애플의 AI 에이전트 관련 계획이 공개되면서 관련 종목에 영향을 미쳤다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c1f8fac151ccd51c",
@@ -479,9 +603,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "아크 인베스트가 앤트로픽 IPO에 참여하면서 엔비디아 주식을 매도했을 수 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "a0ef40d71622bcb8",
@@ -495,9 +620,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "앤트로픽 주가가 첫날 급등분을 대부분 반납하며 변동성을 보였다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "15f801188b1f378e",
@@ -511,9 +637,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "베센트는 엔비디아의 H200 중국 판매 정책이 유지된다고 언급하며 반도체 수출 제한 집행에 대한 좌절감을 표명했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "d161de096d01b002",
@@ -527,9 +654,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "엔비디아의 실적 호조와 앤트로픽의 기록적인 IPO에도 불구하고 증시는 최저 수준으로 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "68140176f1e698c3",
@@ -543,9 +671,10 @@
    "tickers": [
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "알파벳 주가가 실적 실망으로 하락했으나 숫자 이면의 요인들을 볼 때 월스트리트의 모델들은 매도세에 동의하지 않는다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "52ba89debb89c369",
@@ -560,9 +689,10 @@
     "NVDA",
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "월스트리트의 한 포트폴리오 매니저는 전 엔비디아 CEO가 경쟁사인 인텔로 갈 수 있다는 추측을 제기했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4e72a00838ba1ce8",
@@ -578,7 +708,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "d0c78856a9d716f6",
@@ -594,7 +724,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "d91ffb6d68ec7414",
@@ -610,7 +740,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "8dc99f097f51f46e",
@@ -626,7 +756,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "38d4f40ac6bf99c7",
@@ -659,7 +789,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "da6bb9eaea3120b9",
@@ -691,7 +821,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "47df84dc78d0aa6f",
@@ -707,7 +837,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "8e7fd788adac54f0",
@@ -723,7 +853,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "ffb7166844d7b284",
@@ -759,7 +889,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "e13baa0bca6b90dd",
@@ -774,7 +904,8 @@
     "PFE"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "19c83836430dc3a4",
@@ -789,7 +920,8 @@
     "GOOGL"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "7993d4dc51b35d73",
@@ -805,7 +937,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "5b38dd60ec2f9b08",
@@ -821,7 +953,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "3e6c2d1201833dcb",
@@ -837,7 +969,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "5248608ddf7c5b2d",
@@ -870,7 +1002,8 @@
     "QBTS"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "c7708567c147128e",
@@ -6782,6 +6915,22 @@
     "크라우드스트라이크가 잼프와 협력해 애플 기기 자동화를 도입했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "fda62c001628ef9d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel’s Chipmaking Biz Ramps Up with New Mystery Client",
+   "excerpt": "Nabbing a major client would be a boon for the legacy US tech firm, as it takes on Taiwan-based TSMC’s near-monopoly on advanced chipmaking.",
+   "url": "https://www.thedailyupside.com/technology/semiconductors/intels-chipmaking-biz-ramps-up-with-new-mystery-client/?.tsrc=rss",
+   "published": "2026-11-20T05:01:00+00:00",
+   "tickers": [
+    "TSM",
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "72b3e63b87a128ed",
@@ -76330,143 +76479,6 @@
     "물가 상승 데이터 여파로 우주 관련 주식들이 하락세를 보였다고 전했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "5c687108dcfe8dba",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia co-founder Chris Malachowsky is seen as a potential successor to Huang",
-   "excerpt": "Nvidia co-founder Chris Malachowsky is one of many individuals who could take over the company as CEO.",
-   "url": "https://finance.yahoo.com/technology/article/nvidia-co-founder-chris-malachowsky-is-seen-as-a-potential-successor-to-huang-181629983.html?.tsrc=rss",
-   "published": "2026-11-13T17:27:41+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 공동 창업자 크리스 말라초스키가 CEO 황인훈의 잠재적 후계자로 거론될 수 있음을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3e14a421267b1158",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/National_World944",
-   "title": "Anthropic says its chatbot now beats most AI built for robots. Does that hurt the NVDA robotics story?",
-   "excerpt": "I've been looking at NVDA partly for the robotics angle (GR00T, Jetson), so this caught my eye with earnings coming on Nov 17. In the Fable 5.2 launch, Anthropic says the model beat most AI systems built specifically to control robots. If a chatbot can just do that, I don't see why robots need their own models. And robot-specific models are a big part of what NVDA is pitching there. Then again the robot-specific stuff keeps coming. The same day, Ant-backed Robbyant released its LingBot-Touch model, which is just for touch in robot hands, and I haven't seen a chatbot do that. Am I overthinking this, or is it a real risk to the robotics part of the NVDA story? submitted by /u/National_World944 to r/stocks [link] [comments]",
-   "url": "https://www.reddit.com/r/stocks/comments/1xvdu9a/anthropic_says_its_chatbot_now_beats_most_ai/",
-   "published": "2026-11-13T17:21:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "앤스로픽의 챗봇이 로봇용 AI 성능을 능가했다는 발표를 다뤘다.",
-    "이러한 챗봇의 성능이 엔비디아의 로보틱스 전략에 리스크가 될 수 있는지 의문을 제기했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "02b5af48bd51910b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bloom Energy Soars 13%, Vertiv Up 14% in a Week as Data-Center Fears Ease",
-   "excerpt": "Key TakeawaysBloom Energy rose 13% in the past week, with Vertiv and Oracle, after CoreWeave and Constellation Energy raised their 2026 guidance. Bloom had no news of its own, and with its orders and rising estimates intact, the bounce looks like it has further to go.",
-   "url": "https://www.tikr.com/blog/bloom-energy-soars-21-vertiv-up-19-in-a-week-as-data-center-fears-ease?ref=yahoofinance&tlnk=yf-261113-vhvqpm7w&.tsrc=rss",
-   "published": "2026-11-13T17:20:28+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "summary_ko": [
-    "데이터센터 관련 우려가 완화되면서 블룸에너지와 버티브 등의 주가가 상승했다고 보도했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "1d6db6407e24915c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Coinbase Strengthens Crypto Custody With National Trust Launch",
-   "excerpt": "Coinbase strengthens institutional crypto custody with its National Trust Company launch, aiming to bridge digital assets and traditional finance.",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-strengthens-crypto-custody-national-172000778.html?.tsrc=rss",
-   "published": "2026-11-13T17:20:00+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "코인베이스가 내셔널 트러스트 컴퍼니를 출범하며 기관 투자자를 위한 암호화폐 커스터디를 강화한다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "e5f0b94f3585f4d4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bank of America Flags New Risk in Asian Stocks",
-   "excerpt": "Government intervention can turn a selloff around in hours.",
-   "url": "https://finance.yahoo.com/markets/world-indices/articles/bank-america-flags-risk-asian-171900627.html?.tsrc=rss",
-   "published": "2026-11-13T17:19:00+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "summary_ko": [
-    "뱅크오브아메리카가 아시아 주식 시장에서 정부 개입이 몇 시간 만에 매도세를 반전시킬 수 있는 새로운 위험 요소라고 지적했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "7fe6552fb1a43b52",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cathie Wood Was Buying RKLB Stock Into the Dip. Peter Beck’s Neutron Comment Explains Why as the Stock Rebounds.",
-   "excerpt": "Rocket Lab stock bounced back from an earnings miss as customers paid more for Neutron, backing Cathie Wood's dip-buying.",
-   "url": "https://www.barchart.com/story/news/8825747/cathie-wood-was-buying-rklb-stock-into-the-dip-peter-becks-neutron-comment-explains-why-as-the-stock-rebounds?.tsrc=rss",
-   "published": "2026-11-13T17:18:33+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "캐시 우드가 주가 하락 시기에 로켓랩 주식을 매수했으며, 뉴트론 관련 코멘트가 반등의 배경이라고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d35a19e783b1a808",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart US Adds SGS to 3PL Apparel Testing List",
-   "excerpt": "The listing increases the SGS’ ability to support Walmart suppliers across several fashion apparel categories",
-   "url": "https://wwd.com/sourcing-journal/industry-news/walmart-us-adds-sgs-third-party-laboratory-assignment-list-1239415220/?.tsrc=rss",
-   "published": "2026-11-13T17:18:28+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트 US가 3PL 의류 테스트 목록에 SGS를 추가했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ee8e5050901dc073",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Intel attracts $79 million in ETF buying despite warning",
-   "excerpt": "Semiconductor ETFs lead institutional buying, although Intel's valuation remains well above its estimated GF Value.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-attracts-79-million-etf-171801765.html?.tsrc=rss",
-   "published": "2026-11-13T17:18:01+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔은 경고에도 불구하고 반도체 ETF를 통해 기관 매수세를 끌어모았다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
