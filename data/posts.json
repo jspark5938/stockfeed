@@ -1,6 +1,569 @@
 {
- "updated": "2026-11-20T18:00:40.700306+00:00",
+ "updated": "2026-11-20T18:30:38.784839+00:00",
  "posts": [
+  {
+   "id": "fa7db11556e3ce69",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Open Interest 11/20/2026",
+   "excerpt": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Anthropic gives back its debut-day surge, while the selloff spreads from chips to metals and markets around the world. But there are still winners. Anthropic investor and General Catalyst’s Madhu Namburi joins us on what comes next for AI. Plus, Goldman’s David Mericle on why inflation could fall “substantially” by the end of 2027 and Proofpoint CEO Sumit Dhawan joins us on why AI may be making tech outages harder to avoid. Chapters: 00:00:00 - Open Interest 00:02:40 - Anthropic's Volatility, AI Valuations & Public Market Reality 00:05:07 - Apple's New AI Agent, OpenAI Competition & Consumer AI Adoption 00:06:38 - Gap Earnings, Consumer Spending & Retail Winners 00:09:39 - Morning Movers | AMD, SpaceX Fin",
+   "url": "https://www.youtube.com/watch?v=ts8FgN1vBws",
+   "published": "2026-11-20T18:19:25+00:00",
+   "tickers": [
+    "AAPL",
+    "AMD"
+   ],
+   "summary_ko": [
+    "Anthropic의 데뷔일 급등 반납과 AI 밸류에이션을 다뤘다.",
+    "애플의 새로운 AI 에이전트와 경쟁 구도를 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bf6011d8426499ce",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Sozzi: Anthropic’s IPO Surges; Is AMD’s Pullback a Buy?",
+   "excerpt": "Yahoo Finance Executive Editor Brian Sozzi breaks down the biggest stories to kick off the trading day, including the performance of Anthropic (ANT)’s IPO, whether AMD (AMD)’s pullback presents a buying opportunity, and Gap (GAP)’s fall earnings warning. Sozzi then sits down with former Bridgewater (BWB) Associates Chief Investment Strategist Rebecca Patterson and former BNY (BNY) Wealth Management CEO Catherine Keating to discuss their new book, Investment Wisdom, and how its lessons can help friends and loved ones navigate investing.",
+   "url": "https://finance.yahoo.com/video/sozzi-anthropics-ipo-surges-is-amds-pullback-a-buy-181915349.html?.tsrc=rss",
+   "published": "2026-11-20T18:19:15+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "Anthropic의 IPO 성과와 AMD의 주가 조정을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "15f25ca4a3b8c5a2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Stock Falls 43% From Its High. It’s Getting Ugly but There’s Hope.",
+   "excerpt": "The stock falls Friday and is set to close lower for a seventh-consecutive trading session.",
+   "url": "https://finance.yahoo.com/m/30e2a4ab-b95f-395f-9f4d-e4058f562e01/nvidia-stock-falls-43%25-from.html?.tsrc=rss",
+   "published": "2026-11-20T18:18:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 주가가 고점 대비 하락하며 7거래일 연속 하락세를 기록했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "c692bbf66c9ea24d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Following Jensen Huang Exit, Investors Fear Nvidia’s AI Lead Will Collapse",
+   "excerpt": "Even though Nvidia remains a massive holding and is forecasting up to 70% growth in its next fiscal year, the stock has been trading at a steep discount around 12 to 13 times forward earnings amid major leadership and competitive shifts. Following Jensen Huang’s departure, investors are wrestling with how deeply Nvidia's advantage was tied to his hands-on leadership, annual product cadence and supply chain relationships like its handshake deals with Taiwan Semiconductor. 24/7 Wall St. Analysts Eric Bleeker and Austin Smith examine what Nvidia might look like with Jensen Huang gone and why fears of a collapse are valid.",
+   "url": "https://247wallst.com/videos/following-jensen-huang-exit-investors-fear-nvidias-ai-lead-will-collapse/?.tsrc=rss",
+   "published": "2026-11-20T18:16:55+00:00",
+   "tickers": [
+    "NVDA",
+    "TSM"
+   ],
+   "summary_ko": [
+    "젠슨 황의 이탈 이후 엔비디아의 AI 주도권 유지에 대한 우려를 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "4458177db3459389",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple Plans an AI Agent to Rival Meta's Muse",
+   "excerpt": "Meta's Muse, ChatGPT and Claude already rank among the App Store's top free apps",
+   "url": "https://finance.yahoo.com/technology/ai/articles/apple-plans-ai-agent-rival-181309227.html?.tsrc=rss",
+   "published": "2026-11-20T18:13:09+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플이 메타의 Muse 등에 대항할 AI 에이전트를 계획 중이라고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d13d9f5ab435a8d6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Stock: Bounceback Potential Etches Path Toward Lower-Cost Ownership",
+   "excerpt": "Intel stock is due for recovery. In options, a synthetic position is equivalent to owning 73 shares for a lower cost.",
+   "url": "https://finance.yahoo.com/m/a2b405c0-93e0-3125-87d9-0d3775897710/intel-stock%3A-bounceback.html?.tsrc=rss",
+   "published": "2026-11-20T18:12:09+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔 주식의 반등 잠재력과 저비용 소유 경로를 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "16180f29fa068673",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Meta (META) Stock Looks Discounted As Its 76% Five Year Run Cools",
+   "excerpt": "Meta Platforms has cooled off after a strong multi year run, and with the stock down in recent months, the live question is whether today's share price still lines up with what its earnings can reasonably support. Over the past 5 years, Meta Platforms has delivered a gain of 76.5%, which puts real pressure on the current earnings base to justify how far the share price has come. Meta's heavy commitment to AI infrastructure and off balance sheet data center financing can reshape the timing...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-looks-discounted-181051560.html?.tsrc=rss",
+   "published": "2026-11-20T18:10:51+00:00",
+   "tickers": [
+    "META"
+   ],
+   "summary_ko": [
+    "메타 플랫폼스의 최근 주가 하락과 실적 지지력을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fd7c32f14fc45661",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba Stocks Fall 1.26% as 53% AI Cloud Growth Meets RMB34.5 Billion Cash Burn",
+   "excerpt": "Net income tripled to RMB64.4 billion, but capex jumped 60% and free cash flow stayed deeply negative.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-stocks-fall-1-26-180818913.html?.tsrc=rss",
+   "published": "2026-11-20T18:08:18+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바의 AI 클라우드 성장과 현금 소모를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "01ac2291d5d9addc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart Stocks Fall 1.04% Despite Raised Outlook and 23% U.S. E-Commerce Jump",
+   "excerpt": "A $188.8 billion quarter and a higher EPS range met more than $2 billion of extra costs and a rich valuation.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-stocks-fall-1-04-180747684.html?.tsrc=rss",
+   "published": "2026-11-20T18:07:47+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트의 실적 전망 상향과 전자상거래 성장을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ba9b018dedba7b44",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan, Visa and Mastercard Customer Emails May Have Been Exposed in Cyberattacks",
+   "excerpt": "JPMorgan, Visa and Mastercard Say Hackers Hit Third-Party Vendors. Their Networks Were Not Breached",
+   "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-visa-mastercard-customer-emails-180707714.html?.tsrc=rss",
+   "published": "2026-11-20T18:07:07+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "서드파티 해킹으로 인해 고객 이메일이 노출되었을 가능성을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "dbe051757452436c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell Stock Plunges 10% in the AI Selloff and Heads for Its Worst Month Since Its 2018 Return to the Stock Market. Earnings Are Tuesday",
+   "excerpt": "Dell fell 10% Friday afternoon with no company news, two trading sessions before Tuesday's earnings report. The stock is down 34% in November and has moved 13% on average the day after its last eight reports.",
+   "url": "https://247wallst.com/investing/2026/11/20/dell-stock-plunges-10-in-the-ai-selloff-and-heads-for-its-worst-month-since-its-2018-return-to-the-stock-market-earnings-are-tuesday/?.tsrc=rss",
+   "published": "2026-11-20T18:07:02+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "델 주가가 AI 매도세 속에서 급락하며 최악의 월간 실적을 향하고 있음을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "2a1db50b78848de3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft (MSFT) and Its Rivals Are Making a Huge AI Bet – Here’s What Investors Should Know",
+   "excerpt": "Cranstoun, an investment management company, released its October 2026 Investor Letter. A copy of the letter can be downloaded here. The letter highlighted how rising interest rates and financing pressures are reshaping opportunities in AI infrastructure. On September 16, the Federal Reserve raised rates by 0.25 percentage points to 3.75%–4%, its first increase since July […]",
+   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-rivals-making-huge-180640023.html?.tsrc=rss",
+   "published": "2026-11-20T18:06:40+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "금리 인상과 자금 조달 압박이 AI 인프라 기회에 미치는 영향을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f38ba75159926dd5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bad News for Anthropic: “More than 60%” of Token Traffic Now Carried by Open-Weight Models per Palo Alto’s CEO",
+   "excerpt": "Key TakeawaysPalo Alto Networks CEO Nikesh Arora said open-weight models grew from under 5% of token traffic to more than 60% over the past year. That’s bad news for Anthropic and its big owners, Amazon and Alphabet, since a $1.",
+   "url": "https://www.tikr.com/blog/bad-news-for-anthropic-more-than-60-of-token-traffic-now-carried-by-open-weight-models-per-palo-altos-ceo?ref=yahoofinance&tlnk=yf-261120-m2hfv55p&.tsrc=rss",
+   "published": "2026-11-20T18:06:16+00:00",
+   "tickers": [
+    "GOOGL",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "오픈웨이트 모델의 토큰 트래픽 비중 증가가 Anthropic 등에 부정적일 수 있음을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "d764a722aaa61ec8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks Stocks Jump 6.42% on 39% Revenue Growth and AI Acquisition",
+   "excerpt": "Next-gen security ARR surged 66% and the full-year outlook rose, as the company moves to buy AI firm Applied Compute.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stocks-jump-180558979.html?.tsrc=rss",
+   "published": "2026-11-20T18:05:58+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "매출 성장과 AI 기업 인수 소식에 주가가 상승했다고 다뤘다.",
+    "보안 부문 연환산반복매출이 급증하고 전망치를 상향했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "1423c3b8f9064c6e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet’s (GOOGL) AI Investment Is Surging – Here’s Why the Funding Matters",
+   "excerpt": "Cranstoun, an investment management company, released its October 2026 Investor Letter. A copy of the letter can be downloaded here. The letter highlighted how rising interest rates and financing pressures are reshaping opportunities in AI infrastructure. On September 16, the Federal Reserve raised rates by 0.25 percentage points to 3.75%–4%, its first increase since July […]",
+   "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-ai-investment-surging-180536803.html?.tsrc=rss",
+   "published": "2026-11-20T18:05:36+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "금리 인상과 자금 조달 압박이 AI 인프라 투자 기회를 재편하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "b98cfc2ed9434844",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oracle Stock Slides 6%, but Bernstein Says It’s Worth $133 Even if Its AI Data-Center Business Fails",
+   "excerpt": "Oracle Corp. (NYSE:ORCL) fell more than 6% Friday, but Bernstein argues investors are overlooking what would survive a failed AI expansion: its databases, business software and conventional cloud operations.Bernstein analyst Mark Moerdler estimates those businesses could support a $133 share...",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63494496/oracle-ai-downside?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "published": "2026-11-20T18:04:38+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "주가가 하락했으나 기존 사업만으로도 가치가 있다는 분석을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "62835e9ac03d8c69",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Wedbush: Microsoft May Give Intel a Crucial AI Chip Win",
+   "excerpt": "Intel's Microsoft Deal Could Be a Game Changer for Its Foundry Business",
+   "url": "https://finance.yahoo.com/technology/ai/articles/wedbush-microsoft-may-intel-crucial-180407908.html?.tsrc=rss",
+   "published": "2026-11-20T18:04:07+00:00",
+   "tickers": [
+    "MSFT",
+    "INTC"
+   ],
+   "summary_ko": [
+    "마이크로소프트와의 계약이 인텔의 파운드리 사업에 전환점이 될 수 있다고 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "1a46a59ba54fa76b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon (AMZN) and Big Tech Are Spending Heavily on AI – Here’s Why Investors Aren’t Panicking",
+   "excerpt": "Cranstoun, an investment management company, released its October 2026 Investor Letter. A copy of the letter can be downloaded here. The letter highlighted how rising interest rates and financing pressures are reshaping opportunities in AI infrastructure. On September 16, the Federal Reserve raised rates by 0.25 percentage points to 3.75%–4%, its first increase since July […]",
+   "url": "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-big-tech-spending-180258975.html?.tsrc=rss",
+   "published": "2026-11-20T18:02:58+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "금리 상승과 자금 조달 압박이 AI 인프라 투자 환경에 미치는 영향을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fb96ed2615262628",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NVIDIA Is Down 37% in a Month. Can NVDA Stock Get Back to $200?",
+   "excerpt": "NVIDIA keeps crushing earnings estimates, yet its stock keeps sinking while the CEO chair sits empty and China sales vanish. The real question is which force wins: record growth or a leadership vacuum.",
+   "url": "https://247wallst.com/investing/2026/11/20/nvidia-is-down-37-in-a-month-can-nvda-stock-get-back-to-200/?.tsrc=rss",
+   "published": "2026-11-20T18:02:44+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "실적 호조에도 불구하고 최고경영자 공백과 중국 매출 부진 등으로 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "d232f1d25181fb7b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Could Stall Microsoft Stock's Run?",
+   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://www.trefis.com/stock/msft/articles/627236/what-could-stall-microsoft-stocks-run/2026-11-20?.tsrc=rss",
+   "published": "2026-11-20T18:02:13+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "주가 상승세를 둔화시킬 수 있는 요인에 대한 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e8536ce5663d621f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tech Stocks Collapsed This Week. 4 Cybersecurity Stocks Escaped.",
+   "excerpt": "Palo Alto Networks led parts of the cybersecurity sector higher this week, overcoming a brutal tech selloff.",
+   "url": "https://finance.yahoo.com/m/032aff67-9004-3cc2-af74-c10e307e92af/tech-stocks-collapsed-this.html?.tsrc=rss",
+   "published": "2026-11-20T18:02:00+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "기술주 매도세 속에서도 일부 사이버 보안 주는 상승세를 보였다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "eb9f4ed73d3625c9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NVIDIA’s (NVDA) Strategic Investment in Ohio Data Center: Securing Future Growth",
+   "excerpt": "Cranstoun, an investment management company, released its October 2026 Investor Letter. A copy of the letter can be downloaded here. The letter highlighted how rising interest rates and financing pressures are reshaping opportunities in AI infrastructure. On September 16, the Federal Reserve raised rates by 0.25 percentage points to 3.75%–4%, its first increase since July […]",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-strategic-investment-ohio-180127165.html?.tsrc=rss",
+   "published": "2026-11-20T18:01:27+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "금리 인상과 자금 조달 환경 변화 속에서 AI 인프라 투자 동향을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2e3940d0d58a37d5",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Only Bitcoin gets written off for falling less than Oracle",
+   "excerpt": "Oracle is down 68% from its record high, Intel 61%, Robinhood 55%, Nvidia 39%. Scott Melker's chart puts Bitcoin in the middle of that pack at about 51%, and silver below all of it. His question is why only one of those assets gets written off every time it falls. Then the opposite signal. Galaxy Research counted a record 356,491 Bitcoin equivalent held through US spot ETFs at the end of Q3, with investment managers adding 49,229 over the quarter. Wells Fargo became the largest reported holder. The Treasury also sold a nine-day bill for the first time since July 2008, and the SEC charged eight entities over fake crypto platforms. Timestamps 0:00 Tech sold off harder than Bitcoin and nobody calls tech dead 0:43 Crypto's pre-IPO markets called Anthropic's open almost to the penny 1:45 The dr",
+   "url": "https://www.youtube.com/watch?v=-uTAENzYuS8",
+   "published": "2026-11-20T18:00:29+00:00",
+   "tickers": [
+    "NVDA",
+    "INTC",
+    "ORCL",
+    "HOOD"
+   ],
+   "summary_ko": [
+    "비트코인과 오라클, 인텔 등 주요 기술주의 하락 폭을 비교했다.",
+    "미국 스팟 ETF의 비트코인 보유량 증가 등을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bcd4184bd2d0183a",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "The Big 3: GOOGL, PLTR, NVDA",
+   "excerpt": "Tim Bohen with @Stockstotrade says takes a post Midterm-election victory lap on commentary about data center and semiconductors. He says he doesn’t know if markets are at a bottom, but says he is positioning for the next leg up in the AI trade. He thinks Nvidia (NVDA) is at a seminal moment and co-founder and ex CEO Jensen Huang should return. Rick Ducat then looks at charts and technical trends for Alphabet (GOOGL), Palantir (PLTR), and Nvidia. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #nvda #goog",
+   "url": "https://www.youtube.com/watch?v=uLhG5Syb6BQ",
+   "published": "2026-11-20T18:00:13+00:00",
+   "tickers": [
+    "NVDA",
+    "GOOGL",
+    "AMZN",
+    "PLTR"
+   ],
+   "summary_ko": [
+    "데이터 센터와 반도체 관련 논평과 AI 거래를 다뤘다.",
+    "알파벳, 팔란티어, 엔비디아의 차트와 기술적 동향을 살펴봤다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "98f54592ac60b664",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart's value proposition supports further market share gains, says Bank of America",
+   "excerpt": "Walmart Inc (NYSE:WMT, XETRA:WMT) is positioned to gain further market share through its strengthening value, convenience and product assortment, according to Bank of America (BofA), which reiterated its 'buy' rating and raised its price objective to $141 from $139. The bank said the retailer...",
+   "url": "https://www.proactiveinvestors.com/companies/news/1102207/walmart-s-value-proposition-supports-further-market-share-gains-says-bank-of-america-1102207.html?.tsrc=rss",
+   "published": "2026-11-20T18:00:00+00:00",
+   "tickers": [
+    "WMT",
+    "BAC"
+   ],
+   "summary_ko": [
+    "가치와 편의성 강화로 시장 점유율을 더 확대할 수 있다고 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "01907fb34f2a47f9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic",
+   "excerpt": "Anurag Rana, Senior Tech Analyst for Bloomberg Intelligence, discussed the latest from Apple with Bloomberg's Paul Sweeney. Apple Inc. is developing its own autonomous artificial intelligence agent that can get things done on behalf of users, looking to enter a fast-growing market already being pursued by OpenAI, Anthropic PBC, Meta Platforms Inc. and others. The company outlined the plans in job listings added to its website this week. In one, Apple said it's seeking a senior engineering manager for a proactive, agentic AI assistant. The system will write code, browse the web, control apps and navigate devices on a user's behalf, according to the post.",
+   "url": "https://finance.yahoo.com/video/apple-working-own-ai-agent-175830738.html?.tsrc=rss",
+   "published": "2026-11-20T17:58:30+00:00",
+   "tickers": [
+    "AAPL",
+    "META"
+   ],
+   "summary_ko": [
+    "오픈AI 등에 대항할 자체 AI 에이전트를 개발 중이라고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "80888b302f8bcea3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SRX Global Provides Update on Engineered T-Cell Strategy Following Pfizer–Starna Licensing Agreement",
+   "excerpt": "Pfizer’s $330 million upfront commitment to three pre-IND in vivo CAR-T programs highlights pharmaceutical industry interest in next-generation engineered T-cell platforms SRX’s pending acquisition of CERo Therapeutics provides exposure to CER-1236, a clinical-stage engineered T-cell therapy with seven patients dosed in the ongoing Phase 1/1b CERTAIN-T trial NORTH PALM BEACH, Fla., Nov. 20, 2026 (GLOBE NEWSWIRE) -- SRX Global Inc. (NYSE American: SRXH) (the “Company” or “SRX”), an AI-enabled pla",
+   "url": "https://finance.yahoo.com/healthcare/articles/srx-global-provides-engineered-t-175800457.html?.tsrc=rss",
+   "published": "2026-11-20T17:58:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "summary_ko": [
+    "제약 업계의 차세대 세포 치료 플랫폼에 대한 관심이 높아지고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "c404f8b1dce882e3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "IonQ Is Down 33% in a Month. What Will It Take to Get IONQ Stock Back to $30?",
+   "excerpt": "IonQ just posted record revenue and raised its guidance, yet investors still dumped the stock. Three conditions could close the gap between strong results and a sagging share price, and two big acquisitions complicate the path.",
+   "url": "https://247wallst.com/investing/2026/11/20/ionq-is-down-33-in-a-month-what-will-it-take-to-get-ionq-stock-back-to-30/?.tsrc=rss",
+   "published": "2026-11-20T17:56:41+00:00",
+   "tickers": [
+    "IONQ"
+   ],
+   "summary_ko": [
+    "역대 최대 매출과 전망치 상향에도 주가가 하락한 배경을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "aa10c2ced37e3d2b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan, Visa Warn of Cyberattack That Hit Outside Vendor",
+   "excerpt": "Devon Ackerman, LevelBlue, Global Leader for Digital Forensics and Incident Response, joined Bloomberg's Paul Sweeney and Scarlet Fu to discuss the recent onslaught of outages and cyber attacks. JPMorgan Chase & Co., Visa Inc. and Mastercard Inc. said some customer information was accessed in a cyberattack on a vendor. JPMorgan said it believes, based on an investigation so far, that hackers accessed marketing data held by an outside firm, which may include customer names and email addresses. The bank said the issue isn't related to an outage it faced earlier this week.",
+   "url": "https://finance.yahoo.com/video/jpmorgan-visa-warn-cyberattack-hit-175529831.html?.tsrc=rss",
+   "published": "2026-11-20T17:55:29+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "외부 업체를 겨냥한 사이버 공격으로 고객 정보가 유출되었다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "2c5f1dde96d4274d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Nvidia Stock Is Down Today",
+   "excerpt": "Anthropic's record IPO was supposed to give the AI trade a lift, but Nvidia stock is down again on Friday and headed for its seventh straight losing day.",
+   "url": "https://www.fool.com/investing/2026/11/20/why-nvidia-stock-is-down-today/?.tsrc=rss",
+   "published": "2026-11-20T17:55:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "AI 관련 호재에도 불구하고 주가 하락세가 이어지고 있다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "a969c6665364306c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike Is Down About 80% From Its Peak and Just Told Investors Sales Will Fall Again",
+   "excerpt": "Nike's stock has collapsed from its highs, analysts still show a 30% upside gap, and management just guided earnings far below what Wall Street expected. The math behind those price targets tells a very different story.",
+   "url": "https://247wallst.com/investing/2026/11/20/nike-is-down-about-80-from-its-peak-and-just-told-investors-sales-will-fall-again-2/?.tsrc=rss",
+   "published": "2026-11-20T17:54:12+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키 주가가 최고점 대비 하락한 가운데 매출 감소 전망이 나왔다.",
+    "애널리스트의 목표가와 경영진의 실적 전망 사이에 괴리가 있다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "7dd8766b8f905524",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Archer Aviation Tumbles 8%, Breaks Below $3 as Air Taxi Rout Rolls On; EHang Slides 6%, Joby Aviation Drops 3%",
+   "excerpt": "Archer's slide has erased most of its value this year, yet two rivals have fallen even harder. With a Boeing deal pending and cash burning fast, one question could decide whether the air taxi dream survives without another equity raise.",
+   "url": "https://247wallst.com/investing/2026/11/20/archer-aviation-tumbles-8-breaks-below-3-as-air-taxi-rout-rolls-on-ehang-slides-6-joby-aviation-drops-3/?.tsrc=rss",
+   "published": "2026-11-20T17:54:03+00:00",
+   "tickers": [
+    "BA",
+    "JOBY"
+   ],
+   "summary_ko": [
+    "아처 등 에어택시 관련 종목들의 주가가 동반 하락했다고 다뤘다.",
+    "자금 소진 속에서 추가 자본 확충 여부가 쟁점이라고 언급했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "cbb4dbef07afe907",
    "kind": "news",
@@ -101,6 +664,24 @@
    ],
    "summary_ko": [
     "앤트로픽의 데뷔가 부각되면서 마이크로소프트 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "55b19ba606ef6ca6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom Stock Falls on Report Google is Cutting AI Chip Shipments",
+   "excerpt": "The chip maker’s stock fell more than 10% Friday in what’s proving to be a rough week for it and its competitors.",
+   "url": "https://finance.yahoo.com/m/58ca2b41-e0b5-372b-8d66-d7952e940cf1/broadcom-stock-falls-on.html?.tsrc=rss",
+   "published": "2026-11-20T17:42:00+00:00",
+   "tickers": [
+    "GOOGL",
+    "AVGO"
+   ],
+   "summary_ko": [
+    "구글의 AI 칩 출하량 감축 보도 여파로 브로드컴 주가가 하락했다."
    ],
    "tone": "neg"
   },
@@ -254,9 +835,10 @@
    "tickers": [
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "UBS는 월마트의 3분기 실적이 이커머스 수익성 개선을 보여주었다고 분석했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0c3ca2395df7217c",
@@ -270,9 +852,10 @@
    "tickers": [
     "PANW"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "팔로알토 네트웍스 CEO가 지난주 발생한 장애와 관련된 언급을 했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c34706c5b8bc45d5",
@@ -286,9 +869,10 @@
    "tickers": [
     "UBER"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "도도시 등은 FTC의 가격 책정 방식 조사에 대해 감시 가격 지정을 하지 않는다고 반박했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "716aca313a4d2040",
@@ -320,9 +904,10 @@
    "tickers": [
     "ADBE"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "블랙프라이데이를 앞두고 이커머스 업체를 위한 클라비요 마케팅 가이드가 공개됐다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "21101d6d69a4189d",
@@ -336,9 +921,10 @@
    "tickers": [
     "SNOW"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "제디파이가 스노우플레이크 마켓플레이스에 MPC 커넥터를 출시했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "9262e340dd52d99b",
@@ -352,9 +938,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아가 최장 기간 연속 하락세를 기록할 가능성이 있다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "1d26cc805ca00ff8",
@@ -368,9 +955,10 @@
    "tickers": [
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "앤트로픽 관련 주가 상승세가 역전되면서 마이크론 주가도 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "7858f7a5f92db7f5",
@@ -384,9 +972,10 @@
    "tickers": [
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "오라클 주가가 하락하여 번스타인의 최악 시나리오 가격대 아래로 떨어졌다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "e5dc065e0690d957",
@@ -400,9 +989,10 @@
    "tickers": [
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "인텔이 서버 수요 개선 속에 전환점을 맞이하고 있다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "2fe2dfc49a48df77",
@@ -416,9 +1006,10 @@
    "tickers": [
     "PFE"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "화이자의 코로나 매출 감소에도 신제품 포트폴리오가 회복을 이끌고 있는지 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "602109c71498cfc7",
@@ -468,9 +1059,10 @@
    "tickers": [
     "AVGO"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "앤트로픽 IPO로 대출 리스크가 완화된 가운데 브로드컴 주가가 하락했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "99aa89db54ffcb4e",
@@ -484,9 +1076,10 @@
    "tickers": [
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "JP모간의 CFO 교체 등 경영진 변화 소식을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "87559136eef96294",
@@ -503,7 +1096,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "2983a82dff62fa84",
@@ -519,7 +1112,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "234e0a4423750f42",
@@ -535,7 +1128,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "6ac2e8d8c3c18494",
@@ -657,6 +1250,22 @@
    "tone": "pos"
   },
   {
+   "id": "29cd3da1da692544",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ExxonMobil Secures Government Approval for Revised Rovuma LNG Plan",
+   "excerpt": "XOM secures Mozambique's approval for a revised Rovuma LNG plan, lifting capacity to 18.6 MTPA while targeting lower costs and emissions.",
+   "url": "https://finance.yahoo.com/energy/articles/exxonmobil-secures-government-approval-revised-170500779.html?.tsrc=rss",
+   "published": "2026-11-20T17:05:00+00:00",
+   "tickers": [
+    "XOM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
    "id": "fcf6dd259ec49f9e",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -706,6 +1315,22 @@
     "아인라이데의 자율주행 상용화와 엔비디아 협업에 따른 실적 가시성 강화 내용을 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "9d1d7cdca0218780",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "UnitedHealth and Humana Stocks Got Crushed This Week. Why They Just Got Upgrades Anyway.",
+   "excerpt": "TD Cowen names UnitedHealth stock a top pick for 2027, raising the stock’s price target to $455 from 402.",
+   "url": "https://finance.yahoo.com/m/4e361fea-f763-3c5d-90f1-1b51da931f15/unitedhealth-and-humana.html?.tsrc=rss",
+   "published": "2026-11-20T17:01:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "63d55b05169e16c4",
@@ -1092,6 +1717,22 @@
    "tone": "neu"
   },
   {
+   "id": "dcd2ccba4757efca",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AMD Stock Is Getting Crushed by Anthropic’s Drop and a Short Report",
+   "excerpt": "AMD is getting pummeled but the stock remains well above a key technical level and its recent closing low.",
+   "url": "https://finance.yahoo.com/m/f7918816-1d56-3219-b7b0-56c411582527/amd-stock-is-getting-crushed.html?.tsrc=rss",
+   "published": "2026-11-20T16:41:00+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
    "id": "c1f8fac151ccd51c",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1138,7 +1779,8 @@
     "COIN"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "15f801188b1f378e",
@@ -1368,7 +2010,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "ffb7166844d7b284",
@@ -1404,7 +2046,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "e13baa0bca6b90dd",
@@ -1420,7 +2062,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "19c83836430dc3a4",
@@ -1436,7 +2078,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "7993d4dc51b35d73",
@@ -1452,7 +2094,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "5b38dd60ec2f9b08",
@@ -1468,7 +2110,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "3e6c2d1201833dcb",
@@ -1484,7 +2126,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "5248608ddf7c5b2d",
@@ -1518,7 +2160,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "c7708567c147128e",
@@ -2367,6 +3009,21 @@
    "published": "2026-11-20T14:57:35+00:00",
    "tickers": [
     "HOOD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "d645af627efc1b83",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "16 Big Funds Bought Walmart Last Quarter, While 16 Sold. Who’s Right?",
+   "excerpt": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 16 bought Walmart and 16 sold it.",
+   "url": "https://www.tikr.com/blog/16-big-funds-bought-walmart-last-quarter-while-16-sold-whos-right?ref=yahoofinance&tlnk=yf-261120-48rr2c4f&.tsrc=rss",
+   "published": "2026-11-20T14:57:34+00:00",
+   "tickers": [
+    "WMT"
    ],
    "summary_ko": null,
    "tone": null
@@ -76446,185 +77103,6 @@
    "summary_ko": [
     "중국과의 매출 문제나 리더십 혼란이 실적에 악영향을 줄 수 있다는 우려를 다뤘다.",
     "실적 발표에서 가이던스가 낮아지면 전체 섹터가 타격을 받을 것이라는 분석을 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c32e2f0d7dbca50e",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/evolflush",
-   "title": "the whole Jensen being a 'traitor' for selling chips to China narrative doesn't actually make sense...",
-   "excerpt": "I keep seeing people call Huang a traitor over Nvidia chips going to China but there is something that's not adding up,.. and correct me if im wrong of course.. Nvidia can’t ship these chips without export licences from the US government, fair enough. Huang can lobby all he wants (and he does) but the actual yes or no comes from Washington. Here’s what Washington did: April 2025: The Trump administration banned H20 exports to China. Then a few months later it reversed it. August 2025: Trump asked Huang for 20% of Nvidia’s China H20 revenue to be paid to the government, they ended up settling on 15%. AMD got the same deal for it’s MI308. Trump’s own words at the press conference: “We negotiated a little deal.” December 2025: Trump posted on Truth Social that Nvidia could ship H200s to “appr",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvfp61/the_whole_jensen_being_a_traitor_for_selling/",
-   "published": "2026-11-13T18:30:36+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "중국 칩 판매와 관련해 젠슨 황이 비판받는 상황에 의문을 제기했다.",
-    "수출 허가는 미국 정부의 결정에 따르며 트럼프 행정부의 관련 조치들을 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "b2474a51bcc1d4cc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Starbucks’ Unusual Options Activity Points to Bullish Institutional Sentiment: Should You Follow the Crowd?",
-   "excerpt": "Massive institutional options activity surged in Starbucks (SBUX) on Thursday. A $96.3 million block trade used deep in-the-money calls for a short-term stock-replacement strategy. At the same time, LEAPS are used more often; the institution that made the bet could profit nicely.",
-   "url": "https://www.barchart.com/story/news/8826868/starbucks-unusual-options-activity-points-to-bullish-institutional-sentiment-should-you-follow-the-crowd?.tsrc=rss",
-   "published": "2026-11-13T18:30:02+00:00",
-   "tickers": [
-    "SBUX"
-   ],
-   "summary_ko": [
-    "스타벅스(SBUX)에서 대규모 기관 옵션 거래가 급증했다고 전했다.",
-    "단기 주식 대체 전략과 LEAPS가 활용되었다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "6a438379e57da155",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia CEO out — 10 stocks to buy before S&P 500 hits 8,000",
-   "excerpt": "Nvidia (NVDA) is down over 30% from the highs with CEO Jensen Huang stepping down, yet Blanke Schein Wealth Management CIO Robert Schein says the stock is still a buy. He also names Broadcom (AVGO), Apple (AAPL), and Eli Lilly (LLY) among his top picks before the S&P 500 reaches 8,000.",
-   "url": "https://cdn.jwplayer.com/previews/SzPZvTal?.tsrc=rss",
-   "published": "2026-11-13T18:29:38+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL",
-    "AVGO",
-    "LLY"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO 사임으로 주가가 하락했으나 여전히 매수 의견이 있다고 전했다.",
-    "S&P 500이 8,000에 도달하기 전 주목할 종목들을 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "6ae177add165a07e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The challenges facing Klarna’s new CFO",
-   "excerpt": "Klarna’s three-month search for a new chief financial officer has come to an end. The aspiring neobank named Chris Koegel, Robinhood’s head of corporate finance and investor relations, its new CFO. Koegel’s tenure at the firm begins Jan. 1, succeeding Niclas Neglén, who will end his six-year tenure at the beginning of the year. “Chris’s […]",
-   "url": "https://www.americanbanker.com/payments/news/Klarna-names-Robinhood-head-of-investor-relations-CFO?.tsrc=rss",
-   "published": "2026-11-13T18:25:04+00:00",
-   "tickers": [
-    "HOOD"
-   ],
-   "summary_ko": [
-    "클르나가 로빈후드의 재무 임원인 크리스 코겔을 새 CFO로 임명했다고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7a31c9c0e4d5ab7e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto Stock Upgraded to Buy After 20% Dip",
-   "excerpt": "KeyBanc upgrades Palo Alto Networks to Overweight, betting that next-generation security growth will outweigh firewall concerns.",
-   "url": "https://finance.yahoo.com/m/1e5a3553-7660-3d19-978a-613918d835df/palo-alto-stock-upgraded-to.html?.tsrc=rss",
-   "published": "2026-11-13T18:21:00+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "키뱅크가 팔로 알토 네트워크의 투자의견을 상향 조정했다고 전했다.",
-    "차세대 보안 성장이 방화벽 우려를 상쇄할 것이라고 전망했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "19da8ac83912f815",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "JPMorgan Stock Slid After Reports That Senate Democrats Plan a New Investigation Into Jamie Dimon's Bank Over Its Jeffrey Epstein Relationship. Here's Why That Political Risk Could Weigh on JPM Shares.",
-   "excerpt": "JPMorgan Chase and CEO Jamie Dimon have been scrutinized over their relationship with disgraced sex offender Jeffrey Epstein, who died in 2019.",
-   "url": "https://www.fool.com/investing/2026/11/13/jpmorgan-stock-slid-report-senate-democrats-investigation-jamie-dimon-jeffrey-epstein-relationship-why-political-risk-jpm-shares/?.tsrc=rss",
-   "published": "2026-11-13T18:20:02+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "상원 민주당이 제프리 엡스타인과의 관계를 조사할 것이라는 보도 후 JP모간 주가가 하락했다고 전했다.",
-    "이러한 정치적 리스크가 주가에 부담을 줄 수 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "66cbaf29906631fd",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Department of Veterans Affairs and Department of War Go-Live on Oracle Health Information Network to Expand Nationwide Health Information Exchange",
-   "excerpt": "Oracle Health announced that the U.S. Department of Veterans Affairs (VA) and Department of War (DoW) began participating in Oracle Health Information Network, a designated Qualified Health Information Network® (QHIN™) under the Trusted Exchange Framework and Common Agreement™ (TEFCA®) on November 5, 2026. By participating in Oracle Health Information Network, clinicians will have increased access to health information from participating healthcare organizations nationwide, improving care coordi",
-   "url": "https://finance.yahoo.com/healthcare/articles/department-veterans-affairs-department-war-181700956.html?.tsrc=rss",
-   "published": "2026-11-13T18:17:00+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "summary_ko": [
-    "오라클 헬스는 보훈부와 전쟁부가 오라클 헬스 정보 네트워크에 참여하기 시작했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b2180e00ceab3c31",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nike is purposely selling fewer shoes as its shares keep falling",
-   "excerpt": "Behind the empty shelves is a calculated gamble. The question is how much lower the stock goes before it works.",
-   "url": "https://www.thestreet.com/investing/stocks/nike-is-purposely-selling-fewer-shoes-as-its-shares-keep-falling?.tsrc=rss",
-   "published": "2026-11-13T18:17:00+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "나이키가 주가 하락 속에서 의도적으로 신발 판매량을 줄이고 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "947229ef03066df7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Anthropic CEO Dario Amodei aims to 'underpromise and overdeliver' as IPO valuation drops below $2T hopes",
-   "excerpt": "Anthropic CEO Dario Amodei spoke with JPMorgan Chase CEO Jamie Dimon Friday as the artificial intelligence startup prepares for one of the largest initial public offerings in history.",
-   "url": "https://finance.yahoo.com/markets/article/anthropic-ceo-dario-amodei-aims-to-underpromise-and-overdeliver-as-ipo-valuation-drops-below-2t-hopes-181234804.html?.tsrc=rss",
-   "published": "2026-11-13T18:12:34+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "앤스로픽의 CEO 다리오 아모데이가 IPO 가치 평가 하락 속에서 입장을 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "93034fe1e022f3b1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bitcoin falls as Strategy faces MSCI index shake-up",
-   "excerpt": "Scott Melker discusses the latest bitcoin (BTC-USD) sell-off and the implications for Michael Saylor's Strategy (MSTR) as MSCI revises its index eligibility guidelines. Melker examines how the changes could affect Strategy's index inclusion",
-   "url": "https://finance.yahoo.com/video/bitcoin-falls-as-strategy-faces-msci-index-shake-up-180934380.html?.tsrc=rss",
-   "published": "2026-11-13T18:09:34+00:00",
-   "tickers": [
-    "MSTR"
-   ],
-   "summary_ko": [
-    "MSCI 지수 개편을 앞두고 스트래티지가 직면한 영향과 비트코인 하락세를 다뤘다."
    ],
    "tone": "neg"
   }
