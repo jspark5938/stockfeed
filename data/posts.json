@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-20T05:30:30.707668+00:00",
+ "updated": "2026-11-20T06:00:38.865603+00:00",
  "posts": [
+  {
+   "id": "207d31aae51ee03d",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Global Stocks Set for Worst Run Since 2023 as AI Enthusiasm Fades",
+   "excerpt": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. Chapters: 00:00:00 - Bloomberg: The Asia Trade begins 00:01:22 - Anthropic shares fall in postmarket trading after blockbuster debut 00:09:25 - Nvidia faces California probe over China risks 00:12:49 - Minotaur Capital's Armina Rosenberg on Anthropic's record-breaking IPO 00:20:27 - Xi, Trump, Putin agree to boost global fuel supply 00:27:22 - BREAKING: Japan October core CPI rises 2.2% Y/Y; est. +2.3% 00:28:45 - IMF's Kristalina Georgieva talks AI risks 00:35:18 - PGIM's Daleep Singh on Trump'",
+   "url": "https://www.youtube.com/watch?v=lb0z1fQNVQY",
+   "published": "2026-11-20T05:42:19+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "AI 열풍이 둔화되면서 글로벌 증시가 하락세를 보였다고 전했다.",
+    "엔비디아가 중국 관련 리스크로 캘리포니아 조사를 받는다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "edb362a48c5e755c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Does Mastercard (MA) Joining The AI Transparency Initiative Mean For Investors?",
+   "excerpt": "Mastercard (NYSE: MA) has joined Microsoft and more than 40 organizations in a new AI Transparency Initiative. The group plans to create shared standards for transparency, security, and governance of AI systems across multiple industries. The initiative aims to shape how large enterprises validate, monitor, and document AI models used in critical business processes. This move by Mastercard to co launch the AI Transparency Initiative with Microsoft is important to weigh against the rest of...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/does-mastercard-ma-joining-ai-052240359.html?.tsrc=rss",
+   "published": "2026-11-20T05:22:40+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마스터카드가 AI 투명성 이니셔티브에 합류했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "0dfb6cc6486dd2fb",
    "kind": "news",
@@ -18,6 +53,24 @@
     "중국향 칩 판매 우려가 심화되는 가운데 이 같은 거래가 이루어졌다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "f8ffa7136493e565",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CrowdStrike (CRWD) Brings Apple Device Automation Into Falcon Foundry Through A New Tie Up",
+   "excerpt": "CrowdStrike Holdings (NasdaqGS:CRWD) and Jamf announced a new integration that links Jamf device management with the Falcon Foundry platform. The partnership brings Jamf workflows for Apple device configuration, compliance checks, and remediation into CrowdStrike security automation pipelines. Enterprises using Mac, iPhone, and iPad fleets can now coordinate security and management actions directly through Falcon Foundry playbooks. This new Jamf and CrowdStrike Falcon Foundry integration is...",
+   "url": "https://finance.yahoo.com/technology/articles/crowdstrike-crwd-brings-apple-device-051725940.html?.tsrc=rss",
+   "published": "2026-11-20T05:17:25+00:00",
+   "tickers": [
+    "AAPL",
+    "CRWD"
+   ],
+   "summary_ko": [
+    "크라우드스트라이크가 잼프와 협력해 애플 기기 자동화를 도입했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c27521efa2bb3755",
@@ -72,6 +125,24 @@
     "일론 머스크와 앤트로픽에 관한 내용을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "6d9734e32c36ecdf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang Spy Scandal Is Now an Alibaba Problem: Investors File Class Action Lawsuit",
+   "excerpt": "Alibaba Group Holding Ltd. (NYSE:BABA) is facing a proposed shareholder class-action lawsuit alleging it concealed risks tied to its relationship with a Singapore-based company suspected of helping China access restricted Nvidia Corp. (NASDAQ:NVDA) AI chips. Alibaba Accused of Hiding Export Control Risks The lawsuit, filed Thursday in Manhattan federal court, accuses Alibaba of misleading investors by understating the potential business risks associated with actual or suspected U.S. export contr",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-spy-scandal-now-042926308.html?.tsrc=rss",
+   "published": "2026-11-20T04:29:26+00:00",
+   "tickers": [
+    "NVDA",
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바가 수출 통제 리스크를 은폐했다는 집단소송에 직면했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "ef080dfc5ed57092",
@@ -24417,7 +24488,7 @@
    "source": "Brighter with Herbert",
    "author": "Brighter with Herbert",
    "title": "Billionaires Are LOADING UP On Tesla And SpaceX Stocks",
-   "excerpt": "Tesla and SpaceX 13F filings show whales buying: Nvidia's top stock holding is now SpaceX, and Altimeter opened a $680 million Tesla stake. Jo Bhakdi is an economist, investor and tech entrepreneur. He has a YouTube channel covering both Tesla and AGI. Check out his website and community at pioneerlands.org Follow Jo on X: @JOBhakdi www.pioneerlands.org 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Own a Tesla? Get a free month of Full Self-Dr",
+   "excerpt": "🚀 Serious $TSLA or SpaceX investor? Try Brighter Finance free: Tesla and SpaceX 13F filings show whales buying: Nvidia's top stock holding is now SpaceX, and Altimeter opened a $680 million Tesla stake. Jo Bhakdi is an economist, investor and tech entrepreneur. He has a YouTube channel covering both Tesla and AGI. Check out his website and community at pioneerlands.org Follow Jo on X: @JOBhakdi www.pioneerlands.org 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is!",
    "url": "https://www.youtube.com/watch?v=vGAdUZDT5xM",
    "published": "2026-11-18T14:30:20+00:00",
    "tickers": [
@@ -42708,7 +42779,7 @@
    "source": "Brighter with Herbert",
    "author": "Brighter with Herbert",
    "title": "Every SpaceX Investor Needs To See This",
-   "excerpt": "SpaceX AI data centers are going up in about 5 months versus the usual 8 to 12, per SemiAnalysis, and Citi just raised its target again. Jeff Lutz is an ex Supply Chain C-Level Exec at several Fortune 100 companies like Google, Lenovo and Motorola. Currently running his own consulting firm. Follow Jeff Lutz on X: @theJeffLutz 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Own a Tesla? Get a free month of Full Self-Driving (Supervised) when you ",
+   "excerpt": "🚀 Serious $TSLA or SpaceX investor? Try Brighter Finance free: SpaceX AI data centers are going up in about 5 months versus the usual 8 to 12, per SemiAnalysis, and Citi just raised its target again. Jeff Lutz is an ex Supply Chain C-Level Exec at several Fortune 100 companies like Google, Lenovo and Motorola. Currently running his own consulting firm. Follow Jeff Lutz on X: @theJeffLutz 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Own a Tesl",
    "url": "https://www.youtube.com/watch?v=UMNFZ089-Lw",
    "published": "2026-11-17T14:30:38+00:00",
    "tickers": [
