@@ -1,6 +1,80 @@
 {
- "updated": "2026-11-20T01:00:35.472235+00:00",
+ "updated": "2026-11-20T01:15:27.548887+00:00",
  "posts": [
+  {
+   "id": "ca67624d6d88448e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Says He Tried to Warn You About Nvidia, CoreWeave and Nebius. Here's What the 'Big Short' Investor Saw",
+   "excerpt": "The famed investor took a victory lap as AI stocks slid again on Thursday.",
+   "url": "https://www.fool.com/investing/2026/11/19/michael-burry-says-he-tried-to-warn-you-about-nvidia-coreweave-and-nebius-stocks-here-s-what-the-big-short-investor-saw/?.tsrc=rss",
+   "published": "2026-11-20T01:03:36+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "마이클 버리는 엔비디아, 코어위브, 네비우스에 대해 경고해왔다고 주장했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "9f0a55335fb04714",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The market could fall 10-12% — stocks to buy and sell now",
+   "excerpt": "Carter Worth, CEO, Worth Charting warns that overcrowded defensive trades have left the S&P 500 vulnerable to a 10% to 12% year-end drop—and shares why he’s taking profits on consumer staples like Coca-Cola and Costco while buying oversold bounces in Nvidia and Caterpillar alongside strong charts ...",
+   "url": "https://www.thestreet.com/video/the-market-could-fall-10-12-stock-to-buy-and-sell-now?.tsrc=rss",
+   "published": "2026-11-20T01:00:46+00:00",
+   "tickers": [
+    "NVDA",
+    "COST"
+   ],
+   "summary_ko": [
+    "카터 워스는 S&P 500 지수가 연말에 10~12% 하락할 가능성이 있다고 경고했다.",
+    "방어주 비중을 줄이고 엔비디아와 캐터필러 등을 매수하고 있다고 언급했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "beddd4f883736a15",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "NDX Options Activity Swells as VIX Rises; What Makes WMT \"Meaningful\" to Index",
+   "excerpt": "Kevin Davitt with @nasdaq discusses the \"ongoing evolution\" of the Nasdaq-100 (NDX) and ways it reflects trends beyond tech. Just look at Walmart (WMT), which Kevin calls a \"meaningful contributor\" to the index due to its earnings resiliency. He turns to the elevated VIX to highlight why the indicator is \"unusual\" and warns caution in making significant decisions until volatility cools. Kevin also notes strong index options activity by taking investors through his quarter-by-quarter data. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn",
+   "url": "https://www.youtube.com/watch?v=GyC86TZJTNg",
+   "published": "2026-11-20T01:00:16+00:00",
+   "tickers": [
+    "AMZN",
+    "WMT"
+   ],
+   "summary_ko": [
+    "나스닥의 케빈 다비트가 나스닥-100 지수의 변화와 월마트의 실적 회복력을 다뤘다.",
+    "변동성 지수 VIX가 상승한 상황에서 신중한 의사결정이 필요하다고 경고했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "b85ee97aeb43cba4",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "Charles Payne: History has been made",
+   "excerpt": "FOX Business host Charles Payne analyzes Anthropic's record IPO on Nasdaq on 'Making Money.' 00:00 History Made: Anthropic's Record Capital Raise 00:15 Comparing Anthropic to Uber, Facebook, and Google 00:30 The $100 Billion Valuation Breakdown 00:45 Analyst Buy Ratings for Anthropic Stock Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day view",
+   "url": "https://www.youtube.com/watch?v=yIKkYwQLnEM",
+   "published": "2026-11-20T01:00:07+00:00",
+   "tickers": [
+    "GOOGL",
+    "UBER"
+   ],
+   "summary_ko": [
+    "찰스 페인은 앤스로픽의 나스닥 상장과 대규모 자금 조달을 분석했다.",
+    "앤스로픽의 1,000억 달러 가치 평가와 과거 기업들과의 비교를 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "913c710115a1c2bb",
    "kind": "news",
@@ -2786,6 +2860,23 @@
    "tone": "neu"
   },
   {
+   "id": "b11c09298d293734",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Muddy Waters Has Issued a New Short Call on Nvidia. I Still Expect NVDA Stock to Grind Higher.",
+   "excerpt": "Muddy Waters issued a new short call on Nvidia, focusing on export-compliance risks around chips potentially reaching China, hours before the company reported $115.8 billion in revenue.",
+   "url": "https://www.barchart.com/story/news/8922932/muddy-waters-has-issued-a-new-short-call-on-nvidia-i-still-expect-nvda-stock-to-grind-higher?.tsrc=rss",
+   "published": "2026-11-19T18:53:26+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "머디 워터스가 중국 수출 규정 준수 리스크를 이유로 엔비디아에 숏 포지션을 취했다고 밝혔다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "bd46f7e59a61bb50",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -2819,6 +2910,23 @@
     "반면 세레브라스 측은 해당 주장이 거짓이라고 반박했다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "f4c860a83cc8c515",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Who Is Rene Haas? What to Know About the Arm CEO as Nvidia Searches for Jensen Huang's Successor",
+   "excerpt": "Hendrick & Struggles, the firm Nvidia hired to help it find a successor for Jensen Huang, has reportedly approached Arm’s Rene Haas. Haas already has experience with Nvidia.",
+   "url": "https://www.barchart.com/story/news/8922883/who-is-rene-haas-what-to-know-about-the-arm-ceo-as-nvidia-searches-for-jensen-huang-s-successor?.tsrc=rss",
+   "published": "2026-11-19T18:51:22+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 젠슨 황의 후임자를 찾는 과정에서 ARM의 CEO 르네 하스에게 접근했다고 전해졌다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4a972fc0930acf9b",
@@ -71742,41 +71850,6 @@
    ],
    "summary_ko": [
     "알리바바가 엔비디아 스캔들 관련 칩 구매자의 최대 고객으로 보도된 후 일주일간 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "78234ba7ed5ebdc0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Does Rocket Lab (RKLB) Reaching Mars Bound Orbit Mean For Investors?",
-   "excerpt": "Rocket Lab (NasdaqGS:RKLB) confirmed that its twin ESCAPADE spacecraft for NASA and UC Berkeley completed precise trans-Mars injection burns. The autonomous maneuvers place the Explorer-class spacecraft on a Mars-bound trajectory, advancing Rocket Lab's role in planetary science missions. The ESCAPADE mission is designed to study Mars' magnetosphere, using twin probes to gather simultaneous measurements around the planet. The successful ESCAPADE trans-Mars injection burns add context to...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/does-rocket-lab-rklb-reaching-011516224.html?.tsrc=rss",
-   "published": "2026-11-13T01:15:16+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "로켓 랩은 NASA 등을 위한 ESCAPADE 우주선이 화성 궤도 진입 기동을 완료했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c07069e1d5bbba4c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Lucid Group (LCID) Loses This Much; 2 Analysts Turn Bearish",
-   "excerpt": "Lucid Group Inc. (NASDAQ:LCID) is one of the 10 Stocks Underperforming the Broader Market. Lucid Group dropped its share price by 11.31 percent on Thursday to finish at $3.2550 apiece, as investors resumed selling positions after it missed earnings expectations while digesting a series of price target cuts. In an updated report earlier in the […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-lcid-loses-much-010230128.html?.tsrc=rss",
-   "published": "2026-11-13T01:02:30+00:00",
-   "tickers": [
-    "LCID"
-   ],
-   "summary_ko": [
-    "루시드 그룹은 실적 부진과 목표가 하향 속에 주가가 큰 폭으로 하락했다고 전했다.",
-    "애널리스트들이 약세로 돌아섰음을 다뤘다."
    ],
    "tone": "neg"
   }
