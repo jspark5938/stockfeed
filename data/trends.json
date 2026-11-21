@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:30:31.325684+00:00",
+ "updated": "2026-11-21T01:00:37.278645+00:00",
  "trends": [
   {
    "ticker": "SNOW",
@@ -21,13 +21,6 @@
    "mentions_24h": 5,
    "mentions_prev_24h": 2,
    "ratio": 2.5
-  },
-  {
-   "ticker": "META",
-   "name_ko": "메타",
-   "mentions_24h": 14,
-   "mentions_prev_24h": 6,
-   "ratio": 2.33
   },
   {
    "ticker": "RIVN",
@@ -56,6 +49,13 @@
    "mentions_24h": 2,
    "mentions_prev_24h": 1,
    "ratio": 2.0
+  },
+  {
+   "ticker": "META",
+   "name_ko": "메타",
+   "mentions_24h": 13,
+   "mentions_prev_24h": 7,
+   "ratio": 1.86
   },
   {
    "ticker": "HOOD",
@@ -128,18 +128,18 @@
    "ratio": 1.11
   },
   {
-   "ticker": "AAPL",
-   "name_ko": "애플",
-   "mentions_24h": 43,
-   "mentions_prev_24h": 39,
-   "ratio": 1.1
-  },
-  {
    "ticker": "CRM",
    "name_ko": "세일즈포스",
    "mentions_24h": 12,
    "mentions_prev_24h": 11,
    "ratio": 1.09
+  },
+  {
+   "ticker": "AAPL",
+   "name_ko": "애플",
+   "mentions_24h": 42,
+   "mentions_prev_24h": 39,
+   "ratio": 1.08
   },
   {
    "ticker": "ORCL",
@@ -152,15 +152,15 @@
    "ticker": "NVDA",
    "name_ko": "엔비디아",
    "mentions_24h": 181,
-   "mentions_prev_24h": 171,
-   "ratio": 1.06
+   "mentions_prev_24h": 169,
+   "ratio": 1.07
   },
   {
    "ticker": "MSFT",
    "name_ko": "마이크로소프트",
    "mentions_24h": 60,
-   "mentions_prev_24h": 60,
-   "ratio": 1.0
+   "mentions_prev_24h": 59,
+   "ratio": 1.02
   },
   {
    "ticker": "JPM",
@@ -191,6 +191,13 @@
    "ratio": 0.92
   },
   {
+   "ticker": "TSLA",
+   "name_ko": "테슬라",
+   "mentions_24h": 31,
+   "mentions_prev_24h": 36,
+   "ratio": 0.86
+  },
+  {
    "ticker": "COST",
    "name_ko": "코스트코",
    "mentions_24h": 11,
@@ -212,18 +219,18 @@
    "ratio": 0.82
   },
   {
-   "ticker": "TSLA",
-   "name_ko": "테슬라",
-   "mentions_24h": 29,
-   "mentions_prev_24h": 36,
+   "ticker": "AMZN",
+   "name_ko": "아마존",
+   "mentions_24h": 56,
+   "mentions_prev_24h": 69,
    "ratio": 0.81
   },
   {
-   "ticker": "AMZN",
-   "name_ko": "아마존",
-   "mentions_24h": 55,
-   "mentions_prev_24h": 69,
-   "ratio": 0.8
+   "ticker": "INTC",
+   "name_ko": "인텔",
+   "mentions_24h": 21,
+   "mentions_prev_24h": 26,
+   "ratio": 0.81
   },
   {
    "ticker": "ADBE",
@@ -240,27 +247,6 @@
    "ratio": 0.8
   },
   {
-   "ticker": "AMD",
-   "name_ko": "AMD",
-   "mentions_24h": 44,
-   "mentions_prev_24h": 57,
-   "ratio": 0.77
-  },
-  {
-   "ticker": "INTC",
-   "name_ko": "인텔",
-   "mentions_24h": 20,
-   "mentions_prev_24h": 26,
-   "ratio": 0.77
-  },
-  {
-   "ticker": "GOOGL",
-   "name_ko": "알파벳(구글)",
-   "mentions_24h": 52,
-   "mentions_prev_24h": 68,
-   "ratio": 0.76
-  },
-  {
    "ticker": "COIN",
    "name_ko": "코인베이스",
    "mentions_24h": 13,
@@ -275,6 +261,20 @@
    "ratio": 0.75
   },
   {
+   "ticker": "GOOGL",
+   "name_ko": "알파벳(구글)",
+   "mentions_24h": 51,
+   "mentions_prev_24h": 69,
+   "ratio": 0.74
+  },
+  {
+   "ticker": "AMD",
+   "name_ko": "AMD",
+   "mentions_24h": 43,
+   "mentions_prev_24h": 58,
+   "ratio": 0.74
+  },
+  {
    "ticker": "MU",
    "name_ko": "마이크론",
    "mentions_24h": 28,
@@ -284,6 +284,13 @@
   {
    "ticker": "LLY",
    "name_ko": "일라이릴리",
+   "mentions_24h": 7,
+   "mentions_prev_24h": 10,
+   "ratio": 0.7
+  },
+  {
+   "ticker": "PLTR",
+   "name_ko": "팔란티어",
    "mentions_24h": 7,
    "mentions_prev_24h": 10,
    "ratio": 0.7
@@ -310,13 +317,6 @@
    "ratio": 0.64
   },
   {
-   "ticker": "PLTR",
-   "name_ko": "팔란티어",
-   "mentions_24h": 7,
-   "mentions_prev_24h": 11,
-   "ratio": 0.64
-  },
-  {
    "ticker": "TSM",
    "name_ko": "TSMC",
    "mentions_24h": 13,
@@ -338,13 +338,6 @@
    "ratio": 0.58
   },
   {
-   "ticker": "UBER",
-   "name_ko": "우버",
-   "mentions_24h": 5,
-   "mentions_prev_24h": 10,
-   "ratio": 0.5
-  },
-  {
    "ticker": "SBUX",
    "name_ko": "스타벅스",
    "mentions_24h": 2,
@@ -354,9 +347,16 @@
   {
    "ticker": "WMT",
    "name_ko": "월마트",
-   "mentions_24h": 31,
-   "mentions_prev_24h": 69,
-   "ratio": 0.45
+   "mentions_24h": 30,
+   "mentions_prev_24h": 70,
+   "ratio": 0.43
+  },
+  {
+   "ticker": "UBER",
+   "name_ko": "우버",
+   "mentions_24h": 4,
+   "mentions_prev_24h": 11,
+   "ratio": 0.36
   },
   {
    "ticker": "QCOM",
