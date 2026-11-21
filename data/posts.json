@@ -1,6 +1,79 @@
 {
- "updated": "2026-11-21T01:30:30.623393+00:00",
+ "updated": "2026-11-21T02:00:40.894374+00:00",
  "posts": [
+  {
+   "id": "4a2035a65f723504",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "In 2000, Elon Musk Crashed His Uninsured $1 Million McLaren Trying to Show Peter Thiel What It Could Do. In 2025, Thiel’s Fund Quietly Sold Every Tesla Share It Owned",
+   "excerpt": "In 2000 Musk crashed his uninsured $1 million McLaren F1 with Peter Thiel aboard. In 2025 Thiel's hedge fund sold all 272,613 of its Tesla shares, the last in the quarter the stock hit its record, and its filing on Monday shows it still owns none.",
+   "url": "https://247wallst.com/investing/2026/11/20/in-2000-elon-musk-crashed-his-uninsured-1-million-mclaren-trying-to-show-peter-thiel-what-it-could-do-in-2025-thiels-fund-quietly-sold-every-tesla-share-it-owned/?.tsrc=rss",
+   "published": "2026-11-21T01:52:02+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "피터 틸의 헤지펀드가 2025년에 보유하고 있던 테슬라 주식을 모두 매각했다고 밝혔다.",
+    "과거 2000년에 일론 머스크와 피터 틸이 관련된 차량 사고 일화도 함께 언급됐다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "cbb5f01f320265fe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Here's Why Nvidia Stock Crashed on Friday",
+   "excerpt": "Reports of a new investigation drove many investors to sell.",
+   "url": "https://www.fool.com/investing/2026/11/20/here-is-why-nvidia-stock-crashed-on-friday/?.tsrc=rss",
+   "published": "2026-11-21T01:45:33+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "금요일에 엔비디아 주가가 하락한 이유를 다뤘다.",
+    "새로운 조사 관련 보도가 나오면서 많은 투자자들이 매도에 나섰다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "710b57b8ec9075b6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus",
+   "excerpt": "Anthropic closed 8.5% lower on Friday, a day after gaining 17% in its debut.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-worst-week-since-2020-s-and-p-500-in-correction-territory-as-ai-rout-sours-sentiment-ant-nvda-ttwo-zs-crwd-in-focus/cNbm3xQR91W?.tsrc=rss",
+   "published": "2026-11-21T01:30:25+00:00",
+   "tickers": [
+    "NVDA",
+    "CRWD"
+   ],
+   "summary_ko": [
+    "나스닥 100 지수가 2020년 이후 최악의 한 주를 마감했다고 보도했다.",
+    "AI 관련 하락세로 인해 S&P 500이 조정 영역에 진입했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6bb47778140de281",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "BlackRock ETF approaching third anniversary just had its worst day",
+   "excerpt": "Data shows IBIT has posted outflows on all but one trading day in November.",
+   "url": "https://www.thestreet.com/crypto/markets/blackrock-etf-approaching-third-anniversary-just-had-its-worst-day?.tsrc=rss",
+   "published": "2026-11-21T01:30:00+00:00",
+   "tickers": [
+    "IBIT"
+   ],
+   "summary_ko": [
+    "출범 3주년을 앞둔 블랙록 ETF가 최악의 하루를 보냈다고 다뤘다.",
+    "데이터에 따르면 IBIT는 11월 대부분의 거래일 동안 자금 유출을 기록했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "c4c8f1a70783ba4e",
    "kind": "news",
@@ -194,6 +267,24 @@
     "조지 소로스를 포함한 대형 펀드들이 지난 분기 퀄컴을 매수했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "e5b1de374b48135a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Sees Rising Cyber Budgets Amid AI Threats As Firms Tap ‘Emergency Funds’; CEO Nikesh Arora Says Applied Compute Bet Could Dwarf Cybersecurity Business",
+   "excerpt": "Palo Alto Networks Inc. Chairman and CEO Nikesh Arora said companies are drawing on emergency funds for AI defense and expects cybersecurity budgets to rise. He also said the Applied Compute acquisition “could be bigger” than Palo Alto’s existing cybersecurity...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-sees-rising-cyber-003005491.html?.tsrc=rss",
+   "published": "2026-11-21T00:30:05+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스 CEO는 AI 위협 속에서 기업들이 비상 자금을 끌어쓰고 있다고 밝혔다.",
+    "사이버 보안 예산이 증가할 것이며 관련 인수합병 규모가 기존 사업보다 커질 수 있다고 전망했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "608ce950cf637056",
@@ -2214,6 +2305,24 @@
    ],
    "summary_ko": [
     "마이크로소프트를 고객사로 확보하며 세레브라스 주가가 상승했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "3a8f192361c6788a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Coatue Management Just Bought 8 Million Shares of Salesforce Stock. Why Investors Should Care.",
+   "excerpt": "Coatue established a substantial position in Salesforce during Q3, even as CRM stock remains under pressure.",
+   "url": "https://www.barchart.com/story/news/8941412/coatue-management-just-bought-8-million-shares-of-salesforce-stock-why-investors-should-care?.tsrc=rss",
+   "published": "2026-11-20T19:48:44+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "코투 매니지먼트가 3분기 동안 세일즈포스 주식 8백만 주를 매입했다고 전했다.",
+    "세일즈포스 주가가 압박을 받는 상황에서도 대규모 포지션을 구축했다고 다뤘다."
    ],
    "tone": "pos"
   },
@@ -77955,60 +78064,6 @@
    "summary_ko": [
     "테슬라가 2만 9,990달러인 사이버캡의 개인 주문을 초대 전용으로 시작했다고 밝혔다.",
     "필수 자율주행 구독료가 월 299달러이며 오스틴에서 먼저 시작해 2026년 12월 배송 예정이라고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ae45fa021a5603d4",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Box CEO Aaron Levie on Whether Nvidia’s Dominance Is Ending",
-   "excerpt": "Is this the beginning of the end of Nvidia's dominance? Box CEO Aaron Levie tells Deirdre Bosa it's too early to say, since Nvidia remains at the frontier of chip design, but warns that missing one or two innovation cycles can knock a chip company off the treadmill for good. He explains why a founder's real value is the context they carry, which software companies AI agents help and which they threaten, and why Box wants AI models to keep getting smarter. Levie also makes the case that Democrats can still back AI after the midterms if both sides tone down the rhetoric. Timestamps 0:00 The beginning of the end for Nvidia? 1:37 The risk after Jensen 2:40 Why founders matter 5:07 AI agents and the software stack 8:56 Who owns the data? 10:49 Can Democrats be pro-AI? 12:50 Toning down the rhet",
-   "url": "https://www.youtube.com/watch?v=-c13FfurvKQ",
-   "published": "2026-11-14T02:00:20+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "박스 CEO 애런 레비는 엔비디아의 지배력이 끝났는지 단정하기 이르다고 진단했다.",
-    "다만 혁신 주기를 몇 번 놓치면 칩 회사가 경쟁에서 영원히 밀려날 수 있다고 경고했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1c2196cece67683b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "US Fintech Weekly: Coinbase Secures Federal Trust Charter, While Hot CPI Pressures Rate-Sensitive Lenders",
-   "excerpt": "Hotter-than-expected October inflation data weighed on consumer lending equities during the week ending November 13, 2026.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/us-fintech-weekly-coinbase-secures-federal-trust-charter-while-hot-cpi-pressures-rate-sensitive-lenders/cNb2sC5R9QE?.tsrc=rss",
-   "published": "2026-11-14T01:33:35+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "예상을 웃돈 10월 물가 지표가 금리 민감 금융주에 부담으로 작용했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "207f289eae60255a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
-   "excerpt": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/13/micron-technology-qualcomm-which-tech-stock-better-buy-for-2027/?.tsrc=rss",
-   "published": "2026-11-14T01:31:02+00:00",
-   "tickers": [
-    "MU",
-    "QCOM"
-   ],
-   "summary_ko": [
-    "마이크론 테크놀로지와 퀄컴 중 2027년에 더 나은 투자처가 될 종목을 다뤘다.",
-    "두 반도체 기업 각각 AI 수요와 스마트폰 외 사업 전환을 추진 중이라고 전했다."
    ],
    "tone": "neu"
   }
