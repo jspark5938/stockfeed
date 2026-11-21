@@ -1,6 +1,95 @@
 {
- "updated": "2026-11-21T13:00:38.266985+00:00",
+ "updated": "2026-11-21T13:30:32.673186+00:00",
  "posts": [
+  {
+   "id": "52eedc82d32af6cf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alex Karp Wants to Sell $100 Million of Palantir Stock as It Slides",
+   "excerpt": "Two SEC filings landed minutes after Palantir's ugliest session in months, and the CEO's name is on both. A closer look at the vesting calendar and last November's paper trail shows whether this is panic or routine.",
+   "url": "https://247wallst.com/investing/2026/11/21/alex-karp-wants-to-sell-100-million-of-palantir-stock-as-it-slides/?.tsrc=rss",
+   "published": "2026-11-21T13:17:40+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "팔란티어의 주가 하락 속에 최고경영자 알렉스 카프가 1억 달러어치 주식을 매도하려 한다고 전했다.",
+    "이는 SEC 공시를 통해 알려졌으며 패닉 매도인지 일상적인 절차인지 살펴봤다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "5b1aba977fce3a7f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NIO And 2 More EV Stocks To Watch",
+   "excerpt": "Energy markets are wrestling with forecasts of an oil glut at the same time as Middle East risks keep supply on edge, and that mix keeps attention on how transport gets powered. When fuel costs and availability look uncertain, investors often pay closer attention to companies tied to electric vehicles and their batteries. This article highlights three stocks from the US listed electric transport and battery ecosystem worth putting on your research list. The three US listed examples below are...",
+   "url": "https://finance.yahoo.com/energy/articles/nio-2-more-ev-stocks-130958750.html?.tsrc=rss",
+   "published": "2026-11-21T13:09:58+00:00",
+   "tickers": [
+    "NIO"
+   ],
+   "summary_ko": [
+    "석유 공급 과잉 전망과 중동 리스크가 맞물리면서 에너지 시장과 전기차 관련주에 관심이 쏠린다고 전했다.",
+    "미국에 상장된 전기 교통 및 배터리 생태계 관련 종목 3가지를 주목할 리스트로 소개했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bd6c9f3d9552134f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is AMD the Stock to Buy With Nvidia in Limbo?",
+   "excerpt": "AMD may be the popular pick, but is it the right one?",
+   "url": "https://www.fool.com/investing/2026/11/21/is-amd-the-stock-to-buy-with-nvidia-in-limbo/?.tsrc=rss",
+   "published": "2026-11-21T13:00:02+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": [
+    "엔비디아가 불확실성에 직면한 상황에서 AMD가 대안으로 꼽히는지에 대해 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5cb69f3726688363",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Here's How Many Shares of Starbucks You’d Need to Cover $744 in Coffee Using Dividends Alone",
+   "excerpt": "Making a five-figure investment for free coffee may prove to be a tall order, especially after this stock's recent rally.",
+   "url": "https://www.fool.com/investing/2026/11/21/heres-how-many-shares-of-starbucks-youd-need-to-cover-744-in-coffee-using-dividends-alone/?.tsrc=rss",
+   "published": "2026-11-21T13:00:02+00:00",
+   "tickers": [
+    "SBUX"
+   ],
+   "summary_ko": [
+    "배당금만으로 744달러어치 커피값을 충당하려면 스타벅스 주식이 얼마나 필요한지 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "41c713821e70fada",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Kalshi Says New York Could Shut It Down Nationwide",
+   "excerpt": "A judge just sent New York's case against Kalshi back to state court, and one headquarters address could turn a local fight into a national one. Robinhood is racing to shift its prediction-market flow before a single order lands.",
+   "url": "https://247wallst.com/investing/2026/11/21/kalshi-says-new-york-could-shut-it-down-nationwide/?.tsrc=rss",
+   "published": "2026-11-21T12:57:13+00:00",
+   "tickers": [
+    "HOOD"
+   ],
+   "summary_ko": [
+    "뉴욕주의 소송이 주 법원으로 환송되면서 칼시가 전국적인 영업 중단 위기에 처할 수 있다고 전했다.",
+    "로빈후드는 예측 시장 흐름을 발빠르게 전환하려 한다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "60bdfa47d70ca528",
    "kind": "youtube",
@@ -13,9 +102,48 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "블룸버그의 에드 루들로는 앤스로픽의 공개 시장 데뷔가 AI 분야에 대한 투자자들의 관심을 시험했다고 전했다.",
+    "또한 젠슨 황의 이탈 이후 엔비디아의 혼란과 새로운 리더십 탐색의 불확실성을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "6874715e879b8fbd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $3.8 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysAvala Global, which manages $3. 8 billion, opened stakes in Microsoft and Sandisk and raised its Intel stake 431% in the third quarter, its latest 13F shows.",
+   "url": "https://www.tikr.com/blog/a-3-8-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-g555pj6m&.tsrc=rss",
+   "published": "2026-11-21T12:50:37+00:00",
+   "tickers": [
+    "MSFT",
+    "INTC"
+   ],
+   "summary_ko": [
+    "38억 달러 규모의 펀드를 운용하는 아발라 글로벌이 3분기에 마이크로소프트와 샌디스크 지분을 신규 매수했다고 전했다.",
+    "또한 인텔 지분을 431% 늘렸다고 13F 공시를 통해 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "c3e710782b18d04b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Is CoreWeave’s “Key Sole Supplier” and $6.3 Billion Backstop. Congress Is Now Looking",
+   "excerpt": "Key TakeawaysA bipartisan Senate bill would make public companies disclose major AI financing, and Sen. Mark Warner pointed to Nvidia’s backing of its own chip buyers.",
+   "url": "https://www.tikr.com/blog/nvidia-is-coreweaves-key-sole-supplier-and-6-3-billion-backstop-congress-is-now-looking?ref=yahoofinance&tlnk=yf-261121-4qc52p65&.tsrc=rss",
+   "published": "2026-11-21T12:49:57+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 코어위브의 핵심 공급사이자 자금 지원 배경으로 꼽히는 가운데 의회가 이를 주시하고 있다고 다뤘다.",
+    "초당파적 상원 법안은 상장사들이 주요 AI 자금 조달 내역을 공시하도록 만들 전망이라고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "41f735457c5f3e23",
@@ -29,9 +157,11 @@
    "tickers": [
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "AMD가 앤스로픽의 직접적인 이해관계자로서 지분을 보유하고 있다고 전했다.",
+    "상장 둘째 날 앤스로픽 주가가 8.5% 하락했다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "dcd6e13a4a058856",
@@ -196,6 +326,23 @@
    "summary_ko": [
     "IonQ와 알파벳 중 향후 5년간 더 나은 양자 컴퓨팅 종목이 어딘지 다뤘다.",
     "IonQ가 상용화 가능한 제품 생산에 다가가고 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "96b8f2ef4b05b427",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart shoppers stocked up on emergency supplies after series of tech outages: report",
+   "excerpt": "Walmart shoppers were stocking up on emergency supplies following a string of technology outages that fueled anxiety among Americans across the country.",
+   "url": "https://www.foxbusiness.com/economy/walmart-shoppers-stocked-up-emergency-supplies-after-series-tech-outages-report?.tsrc=rss",
+   "published": "2026-11-21T10:52:31+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "일련의 기술적 장애 이후 미국 전역의 월마트 쇼핑객들이 비상용품을 사들이며 불안감을 드러냈다고 전했다."
    ],
    "tone": "neu"
   },
@@ -78142,76 +78289,6 @@
    ],
    "summary_ko": [
     "스페이스X의 S&P 500 편입을 위해 테슬라와의 합병 가능성이 거론된다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "854e3fdc42065d5e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cerebras Q3 Results: How Much More Proof Does Wall Street Need?",
-   "excerpt": "Cerebras Systems beat Q3 estimates with 70% core revenue growth and a large backlog, driven by hyperscaler demand, including a newly revealed Microsoft partnership, though analysts flag execution risks.",
-   "url": "https://www.marketbeat.com/articles/cerebras-q3-results-how-much-more-proof-does-wall-street-need/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-   "published": "2026-11-14T13:15:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "세레브라스의 3분기 실적과 마이크로소프트와의 파트너십을 다뤘다.",
-    "매출 성장에도 불구하고 분석가들은 실행 위험을 지적했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b80c65d03abc03fd",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Advanced Micro Devices Stock Surged This Week",
-   "excerpt": "It was a bumpy week for chip stocks and AI-related names.",
-   "url": "https://www.fool.com/coverage/market-movers/2026/11/14/why-advanced-micro-devices-stock-surged-this-week/?.tsrc=rss",
-   "published": "2026-11-14T13:06:02+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "이번 주 반도체 및 AI 주식들의 변동성 속에서 AMD 주가가 급등한 이유를 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "ebac88e6abf9ce0d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SpaceX Just Lost a Starship Booster. Is Rocket Lab Stock the Better Bet?",
-   "excerpt": "SpaceX stumbled on a booster catch while Rocket Lab's rival rocket still sits on the ground. Record backlog and billions in cash say one thing, but a sky-high multiple and a delayed debut say another. What is the market really pricing in?",
-   "url": "https://247wallst.com/investing/2026/11/14/spacex-just-lost-a-starship-booster-is-rocket-lab-stock-the-better-bet/?.tsrc=rss",
-   "published": "2026-11-14T13:04:41+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "스페이스X의 부스터 회수 실패와 로켓랩의 상황을 비교하며 시장의 평가를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ccc0c19be8c62fa8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Apple Leads Five Stocks Standing Tall Near Buy Points Despite Nvidia, Other Headwinds",
-   "excerpt": "The stock market is giving mixed signals amid Nvidia's Jensen Huang affair and surging Treasury yields. But Apple stock leads five resilient stocks.",
-   "url": "https://finance.yahoo.com/m/d99d659c-8aca-30a4-b3b1-85b9d02c443d/apple-leads-five-stocks.html?.tsrc=rss",
-   "published": "2026-11-14T13:00:58+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL"
-   ],
-   "summary_ko": [
-    "시장 혼란 속에서도 애플이 매수 임박 지점에서 버티는 종목들을 이끌고 있다고 다뤘다."
    ],
    "tone": "pos"
   }
