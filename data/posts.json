@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-21T03:00:39.863438+00:00",
+ "updated": "2026-11-21T03:30:29.953565+00:00",
  "posts": [
+  {
+   "id": "3fb988d49a7b35f7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bitcoin Falls Below $60K For First Time Since July, Saylor's MSTR Hits 52-Week Low Amid $14B Paper Loss",
+   "excerpt": "Adam Back, the CEO of Blockstream, said he's buying MSTR and argued the shares are cheap compared with Bitcoin.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/bitcoin-falls-below-60-k-for-first-time-since-july-saylor-s-mstr-hits-52-week-low-amid-14-b-paper-loss/cNbm7NeR91L?.tsrc=rss",
+   "published": "2026-11-21T03:10:59+00:00",
+   "tickers": [
+    "MSTR"
+   ],
+   "summary_ko": [
+    "비트코인이 7월 이후 처음으로 6만 달러 아래로 하락하면서 MSTR 주가도 52주 신저가를 기록했다고 다뤘다.",
+    "블록스트림 최고경영자 아담 백이 MSTR을 매수 중이며 비트코인 대비 주가가 저렴하다고 주장했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "9aca8bfb9a85efe8",
    "kind": "news",
@@ -78067,23 +78085,6 @@
    ],
    "summary_ko": [
     "특별한 분석 없이 지인들과의 저녁 식사 자리에서 엔비디아 실적 관련 베팅을 결정했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "70df4c4e00d4456f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Centrus Energy (LEU) Has Fresh Attention, But What Is The Market Missing?",
-   "excerpt": "Oklo Inc. has locked in multi-year contracts with Centrus Energy (LEU) for high-assay low-enriched uranium, backed by Meta-funded prepayments, tying Centrus directly to Oklo’s planned 1.2 GW Ohio power campus. The Centrus Energy share price has fallen sharply in recent months, with a 30 day share price return down 13.5% and the 90 day move down 45.4%, even though the 3 year total shareholder return is still up 97.6%. Fresh headlines include the Oklo HALEU contracts, new enrichment investment...",
-   "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-fresh-attention-031235109.html?.tsrc=rss",
-   "published": "2026-11-14T03:12:35+00:00",
-   "tickers": [
-    "OKLO"
-   ],
-   "summary_ko": [
-    "오클로가 센트러스 에너지를 통해 핵연료 공급 계약을 체결했다고 다뤘다."
    ],
    "tone": "neu"
   }
