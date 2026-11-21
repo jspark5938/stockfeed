@@ -1,6 +1,93 @@
 {
- "updated": "2026-11-21T18:30:31.382773+00:00",
+ "updated": "2026-11-21T19:00:39.208808+00:00",
  "posts": [
+  {
+   "id": "66ebe8a7d414e83a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Debt-heavy CoreWeave just got $350M from Jensen Huang’s charity",
+   "excerpt": "The deal pulls CoreWeave closer to Nvidia’s orbit just as the chipmaker’s leadership crisis puts every link under a microscope.",
+   "url": "https://www.thestreet.com/investing/debt-heavy-coreweave-350m-jensen-huang-charity?.tsrc=rss",
+   "published": "2026-11-21T18:47:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "부채가 많은 코어위브가 젠슨 황의 자선단체로부터 3억 5천만 달러를 받았다고 다뤘다.",
+    "이번 거래로 코어위브가 엔비디아와 더욱 밀접해졌다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "52cfa10aa1962dd5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Buy Nvidia Stock Right Now?",
+   "excerpt": "The company is going through a very difficult time.",
+   "url": "https://www.fool.com/investing/2026/11/21/should-you-buy-nvidia-stock-right-now/?.tsrc=rss",
+   "published": "2026-11-21T18:35:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 현재 매우 어려운 시기를 겪고 있다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "63aa506ec8762edc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft Was The Only Big AI Buyer Paying Down Debt. How Much More Can It Spend?",
+   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://www.trefis.com/stock/msft/articles/627454/microsoft-was-the-only-big-ai-buyer-paying-down-debt-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
+   "published": "2026-11-21T18:32:03+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트가 대형 AI 구매자 중 유일하게 부채를 상환했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "28eb140166713227",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell Up 447% In 5 Years, HPE 220%: What Did Michael Dell Do Differently?",
+   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://www.trefis.com/stock/dell/articles/624826/dell-up-447-in-5-years-hpe-220-what-did-michael-dell-do-differently/2026-11-21?.tsrc=rss",
+   "published": "2026-11-21T18:32:03+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "델과 HPE의 5년간 주가 상승률을 언급하며 델의 차별점에 대해 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "603962e8c24d5519",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Marvell Just Dropped 22% in a Week as Nvidia’s Turmoil Hit AI Chips. Sell, or Load Up Before Dec. 1?",
+   "excerpt": "Key TakeawaysMarvell stock fell 22% in a week as Nvidia’s leadership crisis and a California subpoena dragged down AI chip stocks. Marvell put out no bad news of its own, but its all-stock deal for Lumentum ties the two stocks together, so each drop in Marvell also cuts what Lumentum holders get.",
+   "url": "https://www.tikr.com/blog/marvell-just-dropped-22-in-a-week-as-nvidias-turmoil-hit-ai-chips-sell-or-load-up-before-dec-1?ref=yahoofinance&tlnk=yf-261121-h6wc4q3f&.tsrc=rss",
+   "published": "2026-11-21T18:20:37+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 혼란과 소환장 여파로 마벨 주가가 일주일간 22% 하락했다고 전했다.",
+    "마벨 자체의 악재는 없었으나 Lumentum과의 합병 계약으로 두 종목이 연동되었다고 설명했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "e785efc1ed661eb4",
    "kind": "news",
@@ -1620,6 +1707,23 @@
    "summary_ko": [
     "개리 블랙은 엔비디아 이사회 가 젠슨 황을 재선임할 가능성이 희박하다고 밝혔다.",
     "암호화폐 베팅 참가자들도 이러한 전망에 동의하고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "3a7261aac68ac40a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cathie Wood Just Sold $17 Million of Nvidia Across 2 ARK Funds",
+   "excerpt": "Key TakeawaysCathie Wood’s ARK sold 135,760 NVIDIA shares from two ETFs on Friday, worth about $17 million at Friday’s close. The sale came to about a tenth of a percent of each ETF, a trim of a stock that made up 3% of ARK’s 13F stocks at Sept.",
+   "url": "https://www.tikr.com/blog/cathie-wood-just-sold-17-million-of-nvidia-across-2-ark-funds?ref=yahoofinance&tlnk=yf-261121-6p79vwqw&.tsrc=rss",
+   "published": "2026-11-21T11:17:56+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캐시 우드의 ARK 펀드가 두 개의 펀드를 통해 엔비디아 주식 1,700만 달러어치를 매도했다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -78706,57 +78810,6 @@
     "액센츄어와 어도비 중 어느 기술주가 2027년 포트폴리오에 더 적합한지 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "432e39af0a85817f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palantir CEO Alex Karp Says Silicon Valley ‘Would Not Even Exist’ Without US Military Support",
-   "excerpt": "Palantir Technologies Inc. CEO Alex Karp said Silicon Valley \"would not even exist\" without support from the U.S. military, arguing that the technology hub grew from cooperation among government, universities, and private capital. Karp Points To Silicon Valley’s Military Roots...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-alex-karp-says-185402032.html?.tsrc=rss",
-   "published": "2026-11-14T18:54:02+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "summary_ko": [
-    "팔란티어 CEO 알렉스 카프는 미 군사 지원이 없었다면 실리콘밸리가 존재하지 않았을 것이라고 주장했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "fbea71e935f77692",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "1 Reason Starbucks Is Worth Buying in November",
-   "excerpt": "Starbucks' customers are spending more per visit without big price hikes -- and that could matter more than the stock's premium valuation.",
-   "url": "https://www.fool.com/investing/2026/11/14/1-reason-starbucks-is-worth-buying-in-november/?.tsrc=rss",
-   "published": "2026-11-14T18:50:02+00:00",
-   "tickers": [
-    "SBUX"
-   ],
-   "summary_ko": [
-    "스타벅스 고객들이 큰 가격 인상 없이 방문당 더 많은 지출을 하고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3a3bd4de76c6372a",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/Admirable_Whole8261",
-   "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-   "excerpt": "submitted by /u/Admirable_Whole8261 to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwa164/nvidia_board_urged_to_consider_potential_return/",
-   "published": "2026-11-14T18:48:03+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "두 명의 주요 투자자가 엔비디아 이사회에 젠슨 황의 복귀를 고려할 것을 촉구했다고 전했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
