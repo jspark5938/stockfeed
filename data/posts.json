@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-21T11:30:33.114466+00:00",
+ "updated": "2026-11-21T12:00:36.961511+00:00",
  "posts": [
+  {
+   "id": "7d50c4b0da1e9d40",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain",
+   "excerpt": "Nvidia has a lot to lose as AI chips become fungible, while these stocks could gain.",
+   "url": "https://www.fool.com/investing/2026/11/21/if-ai-chips-become-commoditized-nvidia-has-the-most-to-lose-while-these-3-stocks-are-set-to-gain/?.tsrc=rss",
+   "published": "2026-11-21T11:35:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "AI 칩이 범용화될 경우 엔비디아가 가장 큰 타격을 입을 수 있다고 다뤘다.",
+    "반면 다른 3개 종목은 수혜를 볼 것이라고 전망했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "15f2302974d32fc9",
    "kind": "news",
@@ -78175,129 +78193,6 @@
     "일본의 라피두스가 더 저렴한 2나노미터 칩 생산을 공언했으나 제조 능력을 증명해야 한다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "7f190aa3aa13303c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "MarketBeat Week in Review – 11/9 - 11/13",
-   "excerpt": "NVIDIA's Jensen Huang resigned amid scandal, rattling the AI trade, as inflation data disappointed. MarketBeat recaps this week's top analyst coverage on NVIDIA, Anthropic's IPO, and more.",
-   "url": "https://www.marketbeat.com/articles/marketbeat-week-in-review-11-9-11-13/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-   "published": "2026-11-14T12:00:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "인플레이션 데이터가 실망스러운 가운데 엔비디아의 젠슨 황 사임 관련 스캔들이 AI 투자 열기를 흔들었다고 보도했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "f770d60895065fff",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $164 Billion Fund Dumps These 3 Stocks",
-   "excerpt": "Key TakeawaysGQG Partners, a firm that manages $164 billion, sold all of its Enbridge, TC Energy and Exelon shares in the third quarter, its latest 13F shows. Over the same quarter, it built NVIDIA and Taiwan Semiconductor into its second- and third-largest positions.",
-   "url": "https://www.tikr.com/blog/a-164-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261114-g646hx73&.tsrc=rss",
-   "published": "2026-11-14T11:53:34+00:00",
-   "tickers": [
-    "NVDA",
-    "TSM"
-   ],
-   "summary_ko": [
-    "1,640억 달러 규모의 펀드가 3분기에 엔브리지 등의 지분을 전량 매각했다고 밝혔다.",
-    "반면 엔비디아와 대만반도체를 주요 포지션으로 구축했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "9fb5d6c534f35b57",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Prediction: ASML Will Join the $800 Billion Club in 2029",
-   "excerpt": "Demand that exceeds its production capacity, plus a modest 12.7% annual growth pace, is all the chip-equipment giant needs.",
-   "url": "https://www.fool.com/investing/2026/11/14/prediction-asml-will-join-the-800-billion-club/?.tsrc=rss",
-   "published": "2026-11-14T11:51:00+00:00",
-   "tickers": [
-    "ASML"
-   ],
-   "summary_ko": [
-    "수요가 생산 능력을 초과하고 연간 성장세를 보인다면 ASML이 2029년에 시총 800억 달러 클럽에 가입할 것이라고 전망했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "afdbc48ff40ace9e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $2.8 Billion Fund Dumps These 3 Stocks",
-   "excerpt": "Key TakeawaysBIT Capital’s 13F for the quarter ended Sept. 30 shows it sold all of its Sandisk, Ciena and Nokia shares, while adding to Amazon and NVIDIA.",
-   "url": "https://www.tikr.com/blog/a-2-8-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261114-cf8fgp4v&.tsrc=rss",
-   "published": "2026-11-14T11:50:39+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "한 펀드가 샌디스크, 시에나, 노키아 지분을 전량 매각하고 아마존과 엔비디아 비중을 늘렸다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3b41a2bfcded5416",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cathie Wood and 7 Others Bought Aerospace Stocks. Rocket Lab Is 59% Below Its High. Time to Buy?",
-   "excerpt": "Key TakeawaysCathie Wood’s ARK Invest more than doubled its Rocket Lab stake in the third quarter, and seven other funds bought SpaceX or Honeywell Aerospace, according to their latest 13Fs. Rocket Lab is 59% below its May high after the first launch of Neutron, its medium-lift rocket, slipped into 2027.",
-   "url": "https://www.tikr.com/blog/cathie-wood-and-7-others-bought-aerospace-stocks-rocket-lab-is-59-below-its-high-time-to-buy?ref=yahoofinance&tlnk=yf-261114-w552vj5j&.tsrc=rss",
-   "published": "2026-11-14T11:47:31+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "캐시 우드의 ARK 인베스트가 로켓랩 지분을 3분기에 두 배 이상 늘렸다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "297747b6211f63dc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia’s Interim CEO Pushed Back on a “$250 Billion Credit Backstop” for OpenAI. Oracle Has the Most at Stake",
-   "excerpt": "Key TakeawaysThe Information reports that Nvidia’s interim CEO, Colette Kress, pushed back on a proposed $250 billion credit backstop for OpenAI while she was finance chief, and that Nvidia is expected to slow its AI investment strategy. Oracle has the most at stake: Steve Eisman puts about half of its $664 billion backlog with OpenAI, and its free cash flow was negative $23.",
-   "url": "https://www.tikr.com/blog/nvidias-interim-ceo-pushed-back-on-a-250-billion-credit-backstop-for-openai-oracle-has-the-most-at-stake?ref=yahoofinance&tlnk=yf-261114-v5cmv78g&.tsrc=rss",
-   "published": "2026-11-14T11:42:12+00:00",
-   "tickers": [
-    "NVDA",
-    "ORCL"
-   ],
-   "summary_ko": [
-    "엔비디아의 임시 CEO가 오픈아이를 위한 신용 보강안에 반대했으며 오라클이 큰 이해관계에 놓여 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d48cc2f53e162fee",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Qualcomm Is Cheap Enough to Hold Through 2030",
-   "excerpt": "Qualcomm stock has fallen by 33% from its high, and now trades at just a single-digit multiple of management's fiscal 2029 earnings target.",
-   "url": "https://www.fool.com/investing/2026/11/14/qualcomm-is-cheap-enough-to-hold-through-2030/?.tsrc=rss",
-   "published": "2026-11-14T11:40:02+00:00",
-   "tickers": [
-    "QCOM"
-   ],
-   "summary_ko": [
-    "퀄컴 주가가 고점 대비 하락했으며 경영진의 수익 목표 대비 낮은 멀티플에 거래되고 있다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
