@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:00:37.666226+00:00",
+ "updated": "2026-11-21T04:30:31.641732+00:00",
  "trends": [
   {
    "ticker": "SNOW",
@@ -114,11 +114,18 @@
    "ratio": 1.18
   },
   {
+   "ticker": "UNH",
+   "name_ko": "유나이티드헬스",
+   "mentions_24h": 12,
+   "mentions_prev_24h": 11,
+   "ratio": 1.09
+  },
+  {
    "ticker": "AAPL",
    "name_ko": "애플",
-   "mentions_24h": 43,
-   "mentions_prev_24h": 38,
-   "ratio": 1.13
+   "mentions_24h": 42,
+   "mentions_prev_24h": 39,
+   "ratio": 1.08
   },
   {
    "ticker": "ORCL",
@@ -130,8 +137,8 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 174,
-   "mentions_prev_24h": 163,
+   "mentions_24h": 173,
+   "mentions_prev_24h": 162,
    "ratio": 1.07
   },
   {
@@ -173,15 +180,8 @@
    "ticker": "TSLA",
    "name_ko": "테슬라",
    "mentions_24h": 32,
-   "mentions_prev_24h": 33,
-   "ratio": 0.97
-  },
-  {
-   "ticker": "UNH",
-   "name_ko": "유나이티드헬스",
-   "mentions_24h": 12,
-   "mentions_prev_24h": 13,
-   "ratio": 0.92
+   "mentions_prev_24h": 34,
+   "ratio": 0.94
   },
   {
    "ticker": "NFLX",
@@ -240,13 +240,6 @@
    "ratio": 0.8
   },
   {
-   "ticker": "MU",
-   "name_ko": "마이크론",
-   "mentions_24h": 28,
-   "mentions_prev_24h": 37,
-   "ratio": 0.76
-  },
-  {
    "ticker": "AMZN",
    "name_ko": "아마존",
    "mentions_24h": 53,
@@ -268,10 +261,10 @@
    "ratio": 0.73
   },
   {
-   "ticker": "COST",
-   "name_ko": "코스트코",
-   "mentions_24h": 10,
-   "mentions_prev_24h": 14,
+   "ticker": "MU",
+   "name_ko": "마이크론",
+   "mentions_24h": 27,
+   "mentions_prev_24h": 38,
    "ratio": 0.71
   },
   {
@@ -310,6 +303,13 @@
    "ratio": 0.67
   },
   {
+   "ticker": "COST",
+   "name_ko": "코스트코",
+   "mentions_24h": 9,
+   "mentions_prev_24h": 14,
+   "ratio": 0.64
+  },
+  {
    "ticker": "AVGO",
    "name_ko": "브로드컴",
    "mentions_24h": 14,
@@ -338,13 +338,6 @@
    "ratio": 0.55
   },
   {
-   "ticker": "BABA",
-   "name_ko": "알리바바",
-   "mentions_24h": 17,
-   "mentions_prev_24h": 32,
-   "ratio": 0.53
-  },
-  {
    "ticker": "SBUX",
    "name_ko": "스타벅스",
    "mentions_24h": 2,
@@ -356,6 +349,13 @@
    "name_ko": "월마트",
    "mentions_24h": 31,
    "mentions_prev_24h": 70,
+   "ratio": 0.44
+  },
+  {
+   "ticker": "BABA",
+   "name_ko": "알리바바",
+   "mentions_24h": 15,
+   "mentions_prev_24h": 34,
    "ratio": 0.44
   },
   {
