@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-21T16:30:33.033738+00:00",
+ "updated": "2026-11-21T17:00:41.561831+00:00",
  "posts": [
+  {
+   "id": "47a535d5f7482497",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Google Is Paying Elon Musk’s SpaceX $30 Billion. Jim Cramer Just Revealed Why",
+   "excerpt": "Anchor Number: Roughly $30 Billion for Rented AI Power Under a new agreement, Alphabet (NASDAQ:GOOGL) will have Google pay Elon Musk’s SpaceX (NASDAQ:SPCX) $920 million per month for AI computing capacity. Over the life of the deal, that comes to approximately $30.4 billion across 33 months. SpaceX’s June 5 SEC filing shows the agreement running […]",
+   "url": "https://247wallst.com/investing/2026/11/21/google-is-paying-elon-musks-spacex-30-billion-jim-cramer-just-revealed-why/?.tsrc=rss",
+   "published": "2026-11-21T16:48:17+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "알파벳이 일론 머스크의 스페이스X와 AI 컴퓨팅 자원 사용 계약을 맺었다고 다뤘다.",
+    "짐 크레이머가 이에 대한 배경을 공개했다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "5afce741d2fc44de",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ASML vs. SK Hynix: Which Artificial Intelligence Stock Is a Better Buy for 2027?",
+   "excerpt": "ASML's near-monopoly on EUV lithography stands against SK Hynix's surging AI memory business, but their valuation gap is wider than either company's fundamentals suggest.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/21/asml-vs-sk-hynix-which-artificial-intelligence-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-21T16:45:01+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "summary_ko": [
+    "ASML과 SK하이닉스를 2027년 AI 관련 주식으로 비교했다.",
+    "두 기업의 밸류에이션 차이가 펀더멘털이 시사하는 것보다 크다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f4ec312e474048be",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Costco makes a tough store closure decision",
+   "excerpt": "The company faces a balancing act every year.",
+   "url": "https://www.thestreet.com/retail/costco-makes-a-tough-store-closure-decision?.tsrc=rss",
+   "published": "2026-11-21T16:33:00+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "코스트코가 어려운 매장 폐쇄 결정을 내렸다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "23fa6da23dc0ba85",
    "kind": "news",
@@ -125,6 +178,23 @@
    "tone": "pos"
   },
   {
+   "id": "673a6a0c22014692",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Musk Calls Google’s Gemini 4 Neon “a Banger” After Its Third Zapier Record. Bad Timing for Anthropic",
+   "excerpt": "Key TakeawaysGoogle’s Gemini 4 Neon set a new high of 56. 3% on Zapier’s AutomationBench, Google’s third record there in seven weeks, and Elon Musk said it “seems to be a banger.",
+   "url": "https://www.tikr.com/blog/musk-calls-googles-gemini-4-neon-a-banger-after-its-third-zapier-record-bad-timing-for-anthropic?ref=yahoofinance&tlnk=yf-261121-j963j487&.tsrc=rss",
+   "published": "2026-11-21T16:05:34+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "일론 머스크가 구글의 제미나이 4 네온을 긍정적으로 평가했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "f9bf2777a3623176",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -140,6 +210,23 @@
     "특정 종목들로 구성된 포트폴리오의 연간 배당금 지급 현황을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "b1e4655156a0aa01",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $2.6 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysSora Investors, which manages $2. 6 billion, added most to Nvidia, Mastercard and MKS in the third quarter, its latest 13F shows.",
+   "url": "https://www.tikr.com/blog/a-2-6-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-w3mhcgf8&.tsrc=rss",
+   "published": "2026-11-21T15:51:15+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "26억 달러 규모의 펀드가 3분기에 엔비디아, 마스터카드, MKS 주식을 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2f9e938bf5594fba",
@@ -7229,6 +7316,23 @@
     "AMD 주가가 앤스로픽의 하락과 공매도 보고서의 영향으로 큰 조정을 받고 있다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "948282bac7251283",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 Dividend ETFs Offering Steadier Footing in a Shaky Market",
+   "excerpt": "SCHD, LVHI, and VYM have held up better than the S&P 500 amid the recent tech sell-off, offering lower-volatility dividend ETF options for investors seeking stability without exiting stocks.",
+   "url": "https://www.marketbeat.com/articles/3-dividend-etfs-offering-steadier-footing-in-a-shaky-market/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+   "published": "2026-11-20T16:40:00+00:00",
+   "tickers": [
+    "SCHD"
+   ],
+   "summary_ko": [
+    "최근 기술주 매도세 속에서 SCHD, LVHI, VYM 등이 S&P 500보다 잘 버텼다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "c1f8fac151ccd51c",
@@ -78582,114 +78686,6 @@
     "일라이 릴리는 오비시티위크 2026에서 비만 치료 포트폴리오와 관련된 새로운 데이터를 발표할 예정이다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "f569d91e4eb91d29",
-   "kind": "youtube",
-   "source": "The Motley Fool",
-   "author": "The Motley Fool",
-   "title": "4 Stocks to Buy Before the End of 2026!",
-   "excerpt": "Which stocks could be the biggest buying opportunities before 2027? In this video, we break down four stocks worth watching: Rocket Lab (RKLB), Krystal Biotech (KRYS), NVIDIA (NVDA), and BillionToOne (BLLN). From Rocket Lab's $3.57 billion backlog to NVIDIA's AI dominance and two rapidly growing healthcare businesses, these companies offer very different growth opportunities. We examine the bull cases, valuations, business performance, and risks investors should understand before putting money to work in the stock market in 2026. Podcast: [Description Here] ------------------------------------------------------------------------ This video is brought to you by The Motley Fool. The Motley Fool Stock Advisor returns are 927% as of 8/5/2026 and measured against the S&P 500 returns of 211% as ",
-   "url": "https://www.youtube.com/watch?v=k014oUpsGXY",
-   "published": "2026-11-14T17:00:07+00:00",
-   "tickers": [
-    "NVDA",
-    "RKLB"
-   ],
-   "summary_ko": [
-    "엔비디아의 AI 지배력과 주목할 만한 종목들을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "fb7a61726489a976",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Novo's investigational CagriSema, a GLP-1 and amylin analog, demonstrated ~21% average weight loss with lower doses in the REDEFINE 9 trial, presented at ObesityWeek® 2026 and published in The Lancet Diabetes & Endocrinology",
-   "excerpt": "Today, Novo Nordisk announced primary results from the phase 3 REDEFINE 9 trial of investigational CagriSema, a fixed-dose combination of the long-acting amylin analog cagrilintide and the GLP-1 receptor agonist semaglutide, in adults with overweight or obesity. REDEFINE 9 is the first phase 3 trial for weight management to evaluate CagriSema at doses lower than the maximum dose that has been evaluated in the REDEFINE clinical program, 2.4 mg / 2.4 mg.1 The results were presented at ObesityWeek®",
-   "url": "https://finance.yahoo.com/healthcare/articles/novos-investigational-cagrisema-glp-1-170000988.html?.tsrc=rss",
-   "published": "2026-11-14T17:00:00+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "summary_ko": [
-    "노보 노디스크의 카그리세마가 임상 3상에서 약 21%의 체중 감소 효과를 보였다고 발표했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "82884aebfc79459a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Texas’ Next Attorney General Vows “Tremendous Scrutiny” of a Tesla–SpaceX Merger",
-   "excerpt": "Texas' incoming attorney general has Elon Musk's biggest companies in his sights before any deal even exists. A little-known 1983 state law could let him slow a Tesla and SpaceX combination, and Tesla shareholders may pay the price.",
-   "url": "https://247wallst.com/investing/2026/11/14/texas-next-attorney-general-vows-tremendous-scrutiny-of-a-tesla-spacex-merger/?.tsrc=rss",
-   "published": "2026-11-14T16:44:50+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "텍사스주 차기 법무장관이 테슬라와 스페이스X의 합병 가능성에 철저한 조사를 예고했다고 다뤘다.",
-    "1983년 주 법률을 근거로 합병에 제동을 걸 수 있으며 테슬라 주주들이 그 대가를 치를 수 있다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "6067180c63af7340",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Nvidia Spy Scandal, Nationwide Ground Stop Lifted, Starship’s Longest Test Flight",
-   "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former UK Prime Minister and “Ending Alzheimer’s” Podcast Host David Cameron, Space Network Co-Founder Ross Hamilton, Axios Tech Policy Reporter Maria Curi, The Jamestown Foundation President and “Chinese Communist Espionage” Author and Former CIA Counterintelligence Analyst Peter Mattis, Poppi Co-Founder and Chief Brand Officer Allison Ellsworth and Poppi Co-Founder and Chief Product Officer Stephen Ellsworth. 1)Chapters: 00:00:00 - Bloomberg This Weekend Begins 00:01:56 - News Now with Lisa Mateo 00:04:55 - Air Travel Chaos Strands Passengers Across US 00:10:26 - Nvidia Names Interim CEO Af",
-   "url": "https://www.youtube.com/watch?v=zIZ53YV7ToY",
-   "published": "2026-11-14T16:42:31+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "방송에서는 엔비디아의 임시 CEO 임명 소식과 함께 주말 주요 뉴스들을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "19785f769f5eb04e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Prediction: This Quantum Computing Stock Will Be Worth More Than IonQ 5 Years From Now",
-   "excerpt": "D-Wave Quantum grew third-quarter revenue 21%, but its stock trades at a steep multiple. Here is how far it would need to grow to match IonQ's size.",
-   "url": "https://www.fool.com/investing/2026/11/14/prediction-this-quantum-computing-stock-will-be-wo/?.tsrc=rss",
-   "published": "2026-11-14T16:42:00+00:00",
-   "tickers": [
-    "IONQ",
-    "QBTS"
-   ],
-   "summary_ko": [
-    "디웨이브 퀀텀이 3분기 매출 21% 성장을 기록했으나 주가가 높은 멀티플에 거래되고 있다고 다뤘다.",
-    "이 종목이 아이온큐의 규모에 도달하기 위해 필요한 성장 수준을 전망했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7005ddbe1d422a88",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Super Micro Gets Swept Up in Spreading Nvidia Scandal. Says Megaspeed Was “Never a Customer”",
-   "excerpt": "Super Micro insists the company at the center of a Manhattan probe never bought its servers. Yet investigators are asking how its hardware reached China, and Singapore disputes how cooperative the company really was.",
-   "url": "https://247wallst.com/investing/2026/11/14/super-micro-gets-swept-up-in-spreading-nvidia-scandal-says-megaspeed-was-never-a-customer/?.tsrc=rss",
-   "published": "2026-11-14T16:32:49+00:00",
-   "tickers": [
-    "NVDA",
-    "SMCI"
-   ],
-   "summary_ko": [
-    "슈퍼마이크로는 맨해튼 조사의 중심에 있는 기업에 서버를 판 적이 없다고 주장했다고 전했다.",
-    "다만 하드웨어가 중국에 도달한 경위와 관련해 조사관들이 의문을 제기하고 있다고 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
