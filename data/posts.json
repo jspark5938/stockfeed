@@ -1,6 +1,77 @@
 {
- "updated": "2026-11-21T10:30:34.018232+00:00",
+ "updated": "2026-11-21T11:00:39.149315+00:00",
  "posts": [
+  {
+   "id": "dff939cdac8b5388",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart Has Paid Investors a Growing Dividend for 53 Straight Years. Here's What $10,000 Starts You With.",
+   "excerpt": "The retail giant is maintaining its title of Dividend King.",
+   "url": "https://www.fool.com/investing/2026/11/21/walmart-has-paid-investors-a-growing-dividend-for/?.tsrc=rss",
+   "published": "2026-11-21T10:40:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트는 53년 연속으로 배당금을 늘려 지급했다고 다뤘다.",
+    "이 소매 대기업은 배당킹 타이틀을 유지하고 있다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7fc35499155e9be6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron Stock Fell More Than 40% From Its June Record. History Says What It Did After Its 5 Other Drops This Deep.",
+   "excerpt": "Will the memory maker's newest drop follow its quick recoveries or its long slumps?",
+   "url": "https://www.fool.com/investing/2026/11/21/micron-stock-fell-more-than-40-from-its-june-record-history-says-what-it-did-after-its-5-other-drops-this-deep/?.tsrc=rss",
+   "published": "2026-11-21T10:37:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론 주가가 6월 최고점 대비 40% 이상 하락했다고 다뤘다.",
+    "과거 유사한 하락 이후의 주가 흐름을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "409dd8f271c966ea",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom Backstops Up to $29 Billion of Anthropic’s Leases. Anthropic Just Gave Back Its IPO Pop",
+   "excerpt": "Key TakeawaysBroadcom shares fell 11% today as Anthropic gave back much of its IPO pop. Broadcom expects Anthropic to be its largest custom AI chip customer in 2027.",
+   "url": "https://www.tikr.com/blog/broadcom-backstops-up-to-29-billion-of-anthropics-leases-anthropic-just-gave-back-its-ipo-pop?ref=yahoofinance&tlnk=yf-261121-8x38gpvg&.tsrc=rss",
+   "published": "2026-11-21T10:35:24+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴이 앤스로픽의 리스를 뒷받침하며 2027년 최대 고객이 될 것으로 예상했다고 다뤘다.",
+    "앤스로픽의 주가 하락과 함께 브로드컴 주가도 하락했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bd75764cca6f6039",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jeff Bezos says your family’s 'not going to need' 2 paychecks thanks to AI. Before you quit, here’s the math on 1 income",
+   "excerpt": "The Amazon founder says AI could make dropping to one paycheck optional. Here's what that choice would cost most households.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/jeff-bezos-says-family-not-103500375.html?.tsrc=rss",
+   "published": "2026-11-21T10:35:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "제프 베이조스가 AI 덕분에 가정에서 두 개의 급여가 필요하지 않을 수 있다고 주장했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "a155e91df6b3176f",
    "kind": "news",
@@ -69,6 +140,23 @@
     "엔비디아 주가가 고점 대비 35% 하락했다고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "c16ec533f06a6e97",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike Is Down 46% in a Year and Calls Fiscal 2028 a “Challenging Year Financially.” Time to Sell, or Load Up?",
+   "excerpt": "Key TakeawaysNike stock is down 46% over the past year as weak reports kept pushing its turnaround out, and its Nov. 17 Investor Day set fiscal 2029 as the year growth returns.",
+   "url": "https://www.tikr.com/blog/nike-is-down-46-in-a-year-and-calls-fiscal-2028-a-challenging-year-financially-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261121-fm7f782c&.tsrc=rss",
+   "published": "2026-11-21T10:14:29+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키 주가는 1년간 46% 하락했으며 2028 회계연도가 재정적으로 도전적인 해가 될 것이라고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "0f8706ce6758894d",
@@ -78155,58 +78243,6 @@
     "마이크론 주가가 고점에서 하락했으나 매수 기회가 여전히 열려 있다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "3a78e7d6f3f8c043",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 103% Last Quarter While the Gemini App Reached 1 Billion Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
-   "excerpt": "From an investing perspective, nothing matters more to Alphabet's success than how it navigates the AI wave.",
-   "url": "https://www.fool.com/investing/2026/11/14/sundar-pichai-alphabet-cloud-revenue-gemini-search/?.tsrc=rss",
-   "published": "2026-11-14T10:53:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "알파벳의 클라우드 매출이 급증하고 제미나이 앱이 사용자를 모았다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "062a2bb46535af5e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Netflix Stock Has Been Cut in Half Since Its 2025 Peak. History Says What Came After Its Last 5 Drops Like This.",
-   "excerpt": "It has happened just five times before. Did buying at the halfway mark pay off?",
-   "url": "https://www.fool.com/investing/2026/11/14/netflix-stock-has-been-cut-in-half-since-its-2025-peak-history-says-what-came-after-its-last-5-drops-like-this/?.tsrc=rss",
-   "published": "2026-11-14T10:33:02+00:00",
-   "tickers": [
-    "NFLX"
-   ],
-   "summary_ko": [
-    "넷플릭스 주가가 정점 이후 반토막이 난 상황에서 과거 유사한 하락 이후의 흐름을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "413df32a2f3eb276",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "“Very Bad” News for Alibaba: Nvidia’s B300 Servers Now Cost Nearly $3 Million in China.",
-   "excerpt": "Key TakeawaysEight Nvidia B300 chips for a server now list for nearly $3 million in China, more than five times the U. S.",
-   "url": "https://www.tikr.com/blog/very-bad-news-for-alibaba-nvidias-b300-servers-now-cost-nearly-3-million-in-china?ref=yahoofinance&tlnk=yf-261114-gw9r3274&.tsrc=rss",
-   "published": "2026-11-14T10:31:11+00:00",
-   "tickers": [
-    "NVDA",
-    "BABA"
-   ],
-   "summary_ko": [
-    "중국에서 엔비디아 B300 서버 가격이 미국보다 훨씬 비싼 수준으로 책정되었다고 전했다."
-   ],
-   "tone": "neg"
   }
  ]
 }
