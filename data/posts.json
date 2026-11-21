@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-21T20:30:35.117258+00:00",
+ "updated": "2026-11-21T21:00:38.948628+00:00",
  "posts": [
+  {
+   "id": "e79aa91690597646",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Shopify Stock Too Expensive to Buy for the Next 10 Years?",
+   "excerpt": "It's growing fast, but that's not everything.",
+   "url": "https://www.fool.com/investing/2026/11/21/is-shopify-stock-too-expensive-to-buy-for-the-next-10-years/?.tsrc=rss",
+   "published": "2026-11-21T20:47:02+00:00",
+   "tickers": [
+    "SHOP"
+   ],
+   "summary_ko": [
+    "쇼피파이 주식이 향후 10년 동안 매수하기에 너무 비싼지에 대해 다뤘다.",
+    "빠른 성장세가 전부가 아니라는 점을 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0160feb56c8684b3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla FSD V15 Rolling Out, Goes 'Wide' Next Month, Elon Musk Says: 'Something Special'",
+   "excerpt": "Tesla Full Self Driving version 15 rolled out to initial FSD users on Saturday. A wide release is planned for next month, CEO Elon Musk said.",
+   "url": "https://finance.yahoo.com/m/b31af40e-5144-3249-9033-82521507fe84/tesla-fsd-v15-rolling-out%2C.html?.tsrc=rss",
+   "published": "2026-11-21T20:46:52+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크는 테슬라 FSD 버전 15가 초기 사용자에게 배포되었으며 다음 달에 광범위한 출시가 계획되어 있다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "d80bbb9903198a56",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Boeing's 2,500 job cuts come with a troubling unanswered question",
+   "excerpt": "Boeing managers and union representatives met, gave new details on job cuts, but left out crucial information.",
+   "url": "https://www.thestreet.com/employment/boeings-2500-job-cuts-come-with-a-troubling-unanswered-question?.tsrc=rss",
+   "published": "2026-11-21T20:37:00+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "summary_ko": [
+    "보잉의 2,500명 감원과 관련해 관리자와 노조 대표가 만나 새로운 세부 사항을 논의했으나 중요한 정보가 빠졌다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "5a13613423113d0a",
    "kind": "news",
@@ -91,6 +143,25 @@
    "tone": "pos"
   },
   {
+   "id": "be01fe9f1e67d4b1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cathie Wood Doubles Down On ‘Highest Conviction Names’ Nvidia, Tesla and AMD As Cyclical Tech Stocks Get ‘Slaughtered’ Amid Market Pullback",
+   "excerpt": "ARK Invest founder, CEO, and Chief Investment Officer Cathie Wood stated her firm used the recent market pullback to purchase shares of Nvidia Corp., Tesla Inc., and Advanced Micro Devices Inc., while noting that cyclical technology and memory stocks fell...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-highest-193008245.html?.tsrc=rss",
+   "published": "2026-11-21T19:30:08+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA",
+    "AMD"
+   ],
+   "summary_ko": [
+    "캐시 우드는 시장 하락 속에서 엔비디아, 테슬라, AMD 주식을 추가 매수했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "52430d970717aacf",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -157,6 +228,23 @@
     "캐시 우드의 ARK 인베스트가 ARK 혁신 ETF를 통해 아마존 주식을 매각했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "8959bd86d3b4f17b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation",
+   "excerpt": "A wave of multibillion-dollar takeovers is reshaping the cybersecurity industry as the biggest companies race to expand their defenses against increasingly sophisticated attacks powered by artificial intelligence.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-talks-zscaler-show-ai-190224763.html?.tsrc=rss",
+   "published": "2026-11-21T19:02:24+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": [
+    "크라우드스트라이크와 지스케라의 대화가 AI 주도 사이버 보안 통합을 보여준다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "22a3ad3da55955a7",
@@ -78743,23 +78831,6 @@
    ],
    "summary_ko": [
     "인텔 CEO 립부 탄의 하루 22개 미팅 일정을 조명하고 교훈을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ea1a8a82d9adb1a9",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Midterms Fire Warning Shot at Data Center Boom, Fundamentals Hold",
-   "excerpt": "Lisa Martin and Ron Westfall discuss the direction they see for the data center buildout following midterm elections. Lisa Martin says midterms \"put the industry on notice\" which will result in a slowdown. However, Ron Westfall argues fundamentals are unchanged, making a bullish case for the space. They both agree the continuing challenge will be electric grid pressures, highlighting hyperscalers and networking firms as possible beneficiaries to changes in pace. Segment originally aired Monday, November 9, 2026. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook",
-   "url": "https://www.youtube.com/watch?v=fo0e3sFDGnI",
-   "published": "2026-11-14T21:00:12+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "중간선거 이후 데이터센터 구축 방향성과 전력망 압박 문제를 다뤘다."
    ],
    "tone": "neu"
   }
