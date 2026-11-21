@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-21T15:00:41.865652+00:00",
+ "updated": "2026-11-21T15:30:32.530749+00:00",
  "posts": [
+  {
+   "id": "52ac6f1c7580eb71",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Applied Materials vs. Nvidia: Which Tech Stock Is a Better Buy for 2027?",
+   "excerpt": "Applied Materials sells the machines that make chips, while Nvidia sells the chips themselves, and their valuations tell very different stories.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/21/applied-materials-vs-nvidia-which-tech-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-21T15:15:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "어플라이드 머티어리얼즈와 엔비디아의 사업 구조와 밸류에이션 차이를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "04692d4125e84f7f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Meta Platforms (META) Rethinks 2030 Climate Goals After 45% AI Emissions Jump",
+   "excerpt": "Meta Platforms (NasdaqGS:META) revised its 2030 climate goals after a reported 45% rise in greenhouse gas emissions linked to AI expansion. The company cited rapid AI infrastructure buildout as a key driver of higher emissions and reassessment of its net zero roadmap. Meta is evaluating greater reliance on natural gas powered data centers, raising fresh questions about the mix of its future energy sources. This rethink of Meta's 2030 climate goals in light of AI related emissions connects to...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-rethinks-2030-150951042.html?.tsrc=rss",
+   "published": "2026-11-21T15:09:51+00:00",
+   "tickers": [
+    "META"
+   ],
+   "summary_ko": [
+    "메타플랫폼스가 AI 인프라 확장에 따른 온실가스 배출량 증가로 2030년 기후 목표를 수정했다고 다뤘다.",
+    "천연가스 발전 데이터센터 의존도를 평가하며 미래 에너지원에 대한 의문이 제기되고 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2f1f5abe79b706c3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump Calls Huang’s Exit “Such a Tragedy” as His Filing Shows Up to $380,000 of Nvidia Buys",
+   "excerpt": "Key TakeawaysTrump’s September trading report shows up to $380,000 of Nvidia buys, plus Tesla and SpaceX, and sales of $1 million to $5 million each of Home Depot and McDonald’s. The White House says outside firms run the portfolio, and most of the month’s money went into a dividend ETF and municipal bonds.",
+   "url": "https://www.tikr.com/blog/trump-calls-huangs-exit-such-a-tragedy-as-his-filing-shows-up-to-380000-of-nvidia-buys?ref=yahoofinance&tlnk=yf-261121-64rjxj6w&.tsrc=rss",
+   "published": "2026-11-21T15:01:49+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "summary_ko": [
+    "트럼프의 거래 보고서에서 엔비디아와 테슬라 등의 매수 내역이 확인되었다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "ea82d975a4dc2652",
    "kind": "youtube",
@@ -13,9 +66,28 @@
    "tickers": [
     "APP"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "AI가 앱러빈의 디지털 광고 수요를 줄일 것이라는 예상과 달리 반대 현상이 나타나고 있다고 다뤘다.",
+    "앱과 게임이 늘어날수록 타겟팅 광고를 제공할 기회도 커진다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "bb0e52bc7016637c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Pfizer Inc. (PFE) Could Be an Attractive Dividend and Oncology Growth Stock",
+   "excerpt": "We just published our list, Bruce Berkowitz’s 10 Biggest Stock Bets for 2027, and Pfizer Inc. ranked 7th on this list. Bruce Berkowitz is one of the most revered investors on Wall Street, best known for his contrarian approach and concentrated portfolio. As the founder of Fairholme Capital Management, his portfolio offers valuable insights into […]",
+   "url": "https://finance.yahoo.com/healthcare/articles/why-pfizer-inc-pfe-could-145614978.html?.tsrc=rss",
+   "published": "2026-11-21T14:56:14+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "summary_ko": [
+    "화이자가 배당 및 종양학 성장 주식으로 매력적일 수 있다는 점을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ee1ff58ff0c6f9b0",
@@ -29,9 +101,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월스트리트가 엔비디아 혼란과 AI 지출 우려 속에서 시장 심리 악화에 직면해 있다고 다뤘다.",
+    "골드만삭스의 패닉 지수가 상승했으며 시장의 유동성과 신규 주식 발행 가능성이 언급되었다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "afe4190f85986c6b",
@@ -47,9 +121,10 @@
     "MSFT",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아 등 관련 주식이 하락하는 가운데 마이크로소프트와 아마존에서도 AI 붐의 균열이 나타날 수 있다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "86e1427d322fa4fe",
@@ -64,9 +139,10 @@
     "AVGO",
     "ASML"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "ASML의 칩 제조 장비 시장 지위와 브로드컴의 네트워킹 사업을 비교하며 밸류에이션 차이를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c85caa12e72c6707",
@@ -80,9 +156,10 @@
    "tickers": [
     "HOOD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "로빈후드의 매출 성장률이 CME보다 훨씬 높았지만 부채 부담 측면에서 차이가 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "fc829ed190cd258f",
@@ -96,9 +173,10 @@
    "tickers": [
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "마이크론의 낮은 밸류에이션이 매력적인 진입 지점이 될 수 있는지에 대해 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1b52c08f5965e517",
@@ -112,25 +190,28 @@
    "tickers": [
     "SNOW"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "AI 관련 주식 하락 속에서도 데이터브릭스가 높은 기업 가치를 모색하고 있다고 다뤘다.",
+    "상장 라이벌인 스노우플레이크의 실적 발표가 평가에 영향을 미칠 것이라고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c4cb9375567a1d10",
    "kind": "youtube",
    "source": "Brighter with Herbert",
    "author": "Brighter with Herbert",
-   "title": "Tesla Just Made A Move China Won’t Like",
+   "title": "Why Does Tesla Want A $3.1 Billion Refinery?",
    "excerpt": "🚀 Serious $TSLA or SpaceX investor? Try Brighter Finance free: Tesla polysilicon refinery plans: a $3.1 billion Texas plant to purify silicon for solar cells, a material China makes more than 90% of today. Cern Basher is a chartered financial analyst running his own investment advisory firm called BrilliantAdvice providing wealth management services. Follow Cern on X: ━━━━━━━━━━━━━━ 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Get better slee",
    "url": "https://www.youtube.com/watch?v=oX39Za67KyM",
    "published": "2026-11-21T14:30:39+00:00",
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "테슬라가 태양광 셀용 실리콘을 정제하기 위해 31억 달러 규모의 텍사스 정제소 건립을 계획 중이라고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e9a52516c0aa6685",
@@ -145,9 +226,11 @@
     "NVDA",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아의 강력한 실적이 AI 분야에 긍정적인 신호라고 평가했다.",
+    "다만 낮은 가격 수요가 수익성에 압박을 주는 상황에서 총마진이 핵심 관심사라고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ba5e160d2952e545",
@@ -161,9 +244,10 @@
    "tickers": [
     "AVGO"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "브로드컴의 실적 발표를 앞두고 AI 인프라 관련 주식들의 실적과 가이던스를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "72b0b9f65fcfb90a",
@@ -177,9 +261,11 @@
    "tickers": [
     "PLTR"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "팔란티어의 매출이 크게 늘고 가이던스를 상향했음에도 주가가 하락했다고 다뤘다.",
+    "예약 증가세 둔화와 예산 우려 등이 투자 심리에 영향을 주었다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "b87de29566bb07d2",
@@ -193,9 +279,11 @@
    "tickers": [
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "AMD의 데이터 센터 매출이 97% 급증했다고 다뤘다.",
+    "기록적인 성장과 야심 찬 전망이 투자자들에게 중요한 질문을 던진다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "c3c6c56709c07089",
@@ -209,9 +297,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "스페이스X가 엔비디아 칩 구매를 위해 거액의 부채를 조달했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "7b0610a66b9816a8",
@@ -225,9 +314,11 @@
    "tickers": [
     "BABA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "알리바바의 AI 클라우드 매출이 53% 증가했다고 다뤘다.",
+    "다만 조정 주당순이익이 예상치를 밑돌았다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "d3683e9ff9b12253",
@@ -241,9 +332,11 @@
    "tickers": [
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "알파벳이 유튜브 중독 소송과 관련해 합의를 준비 중이라고 다뤘다.",
+    "AI 인프라 자금 조달을 위해 주식 발행을 추진하고 있다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "83bbcbf58cbf2ce3",
@@ -257,9 +350,10 @@
    "tickers": [
     "COST"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "코스트코의 10월 미국 동일점포 매출이 12.6% 증가했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "fa9aa5390d950aba",
@@ -274,8 +368,10 @@
     "BAC",
     "LLY"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "뱅크오브아메리카가 일라이 릴리의 목표주가를 상향하고 매수 의견을 유지했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "1e92fb53145ba656",
@@ -289,8 +385,10 @@
    "tickers": [
     "BAC"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "뱅크오브아메리카가 메르카도리브레의 목표주가를 낮췄으나 매수 의견은 유지했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "1aa31f8e0e4f306c",
@@ -304,9 +402,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "아마존이 뉴욕시의 배송 보호법에 반대하며 뉴욕 배송 사업에서 철수할 수 있다고 경고했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "3b9ec90f20d60650",
@@ -321,9 +420,10 @@
     "TSLA",
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "포브스가 선정한 텍사스 최고 기업 순위에서 여러 기업이 상위권에 올랐다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "52002569bea57d69",
@@ -337,9 +437,11 @@
    "tickers": [
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월마트 CFO가 향후 5년이 지난 5년보다 나을 것으로 기대한다고 다뤘다.",
+    "실적 호조에도 불구하고 높은 밸류에이션 속에서 주가가 하락했다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "6b7f9b3377b3c3ad",
@@ -353,9 +455,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아의 리더십 위기 속에서 기술주가 타격을 입었다고 다뤘다.",
+    "AI 시장이 조정 국면인지 버블 붕괴인지에 대해 전문가들의 의견이 엇갈린다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "e168c772b490423b",
@@ -369,9 +473,10 @@
    "tickers": [
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월마트의 주가가 부진한 실적 발표 이후 반등하지 못하는 이유를 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "fbe330e649a666fc",
@@ -385,9 +490,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아 주가 하락과 함께 매수 적기인지에 대한 의문을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "fd52dce0ca74aa9e",
@@ -439,9 +545,10 @@
    "tickers": [
     "OKLO"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "원전 관련 주식들이 매도세를 보이며 뉴스케일 주가가 한 달 동안 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "482fe69e9c3b640a",
@@ -852,8 +959,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "대형 펀드가 3분기에 아마존 지분을 늘리고 새로운 종목을 편입했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "f591f13f392074e9",
@@ -1683,9 +1792,11 @@
     "NVDA",
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아의 혼란 여파로 블룸에너지와 버티브 등 AI 전력 관련주가 하락했다고 다뤘다.",
+    "블룸에너지는 자체 뉴스가 없었으며 상향된 가이드라인과 대규모 주문은 유지된다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1c193ca9a5339a5c",
@@ -1699,9 +1810,11 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "루시드는 매출 부진과 목표치 하향 및 전기차 매도세 속에서 한 달간 주가가 하락했다고 다뤘다.",
+    "사우디아라비아의 국부펀드가 자금을 투입했다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "e5488de08fd97b22",
@@ -8303,6 +8416,24 @@
     "댄 롭을 포함한 대형 펀드 10곳이 지난 분기 뱅크오브아메리카를 매수하고 16곳이 매도했다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "07b1e91de1456a55",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks' Q1 Beat Gives Its Stock Rally Another Reason to Run",
+   "excerpt": "Palo Alto Networks beat Q1 FY2027 estimates and raised guidance on strong NGS growth, prompting 11 analyst price target increases that lifted consensus above $400.",
+   "url": "https://www.marketbeat.com/articles/palo-alto-networks-q1-beat-gives-its-stock-rally-another-reason-to-run/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+   "published": "2026-11-20T14:55:00+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스는 1분기 실적 호조와 가이드라인 상향을 기록했다고 다뤘다.",
+    "이로 인해 여러 애널리스트가 목표주가를 상향 조정했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "bce4a1da91847f5e",
@@ -78481,128 +78612,6 @@
     "메르카도리브레의 높은 매출 증가세와 우버의 유리한 수익 멀티플 및 재무 건전성을 비교했다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "8311352f9b70835f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Italy fines Meta €805 million over access to Android users’ photos",
-   "excerpt": "Investing.com -- Italy's data protection authority has fined Meta Platforms Inc (NASDAQ:META) €805 million ($887 million) after finding that the company accessed photographs and videos stored on Android users' devices without obtaining their permission or adequately informing them.",
-   "url": "https://finance.yahoo.com/technology/articles/italy-fines-meta-805-million-152955871.html?.tsrc=rss",
-   "published": "2026-11-14T15:29:55+00:00",
-   "tickers": [
-    "META"
-   ],
-   "summary_ko": [
-    "이탈리아 개인정보보호 당국이 메타에 안드로이드 사용자의 사진과 영상을 무단 접근한 혐의로 벌금을 부과했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "09ca19f9a3f8e246",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Here’s Why Tesla (TSLA) Is One of the Top High P/E Stocks Under the 200-Day SMA",
-   "excerpt": "We just published the list of the 10 High P/E Stocks Under the 200-Day SMA, and Tesla, Inc. (TSLA) takes 6th place on our list. A high price-to-earnings ratio usually reflects substantial expectations for a company’s future earnings. But what happens when those expectations remain elevated even as the stock falls below its long-term trading average? […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-one-top-152951928.html?.tsrc=rss",
-   "published": "2026-11-14T15:29:51+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라가 높은 주가수익비율과 200일 이동평균선 아래에 위치한 종목 목록에 포함되었다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "650e5acf1f087f80",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "52 Hedge Funds Back This Semiconductor Stock – What’s the Catch?",
-   "excerpt": "We just published the list of the 10 High P/E Stocks Under the 200-Day SMA and Arm Holdings plc (ARM) takes the 10th place on our list. A high price-to-earnings ratio usually reflects substantial expectations for a company’s future earnings. But what happens when those expectations remain elevated even as the stock falls below its […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/52-hedge-funds-back-semiconductor-152858112.html?.tsrc=rss",
-   "published": "2026-11-14T15:28:58+00:00",
-   "tickers": [
-    "ARM"
-   ],
-   "summary_ko": [
-    "암 홀딩스가 높은 주가수익비율과 200일 이동평균선 아래에 있는 반도체 종목 목록에 올랐다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "509e008dc9b4423e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Warren Buffett Said This 1 Mistake Cost Berkshire About $10 Billion. Here’s How Investors Can Avoid It.",
-   "excerpt": "Buffett said that hesitating over a small price gap on Walmart cost Berkshire about $10 billion. Here’s how to avoid the same trap.",
-   "url": "https://www.fool.com/investing/2026/11/14/warren-buffett-said-this-1-mistake-cost-berkshire-about-usd10-billion-here-s-how-investors-can-avoid-it/?.tsrc=rss",
-   "published": "2026-11-14T15:25:03+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "워런 버핏이 월마트 투자 당시 작은 가격 차이로 망설이다 큰 손실을 보았다고 언급한 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4f365494d3a52c1e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD Just Beat Nvidia by the Widest Margin Since 1999",
-   "excerpt": "One chipmaker posted record results and landed marquee cloud customers. Its biggest rival lost its CEO and stumbled again. The week produced a split no one has seen in 27 years, and the aftermath may be messier than the headline suggests.",
-   "url": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/?.tsrc=rss",
-   "published": "2026-11-14T15:07:49+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "AMD가 호실적을 기록한 반면, 경쟁사인 엔비디아는 CEO 관련 문제로 어려움을 겪었다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "85d7c9e28d946a7f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Billionaire Bill Ackman Says There’s a Huge Disconnect in Wall Street’s Expectations for Amazon, Microsoft, Meta, and Alphabet",
-   "excerpt": "Wall Street expects the hyperscalers to keep up their heavy capital expenditures, but it's worried that the revenue growth they are expecting to result from that spending might not show up.",
-   "url": "https://www.fool.com/investing/2026/11/14/bill-ackman-huge-disconnect-wall-street-expectations-for-hyperscalers/?.tsrc=rss",
-   "published": "2026-11-14T15:05:02+00:00",
-   "tickers": [
-    "MSFT",
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "빌 애크먼은 월스트리트의 막대한 자본적 지출 기대와 예상되는 매출 성장 사이에 큰 괴리가 있다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5e95e3a30d44fa92",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why the Microsoft Outage Came at the Worst Possible Time for the Stock",
-   "excerpt": "Microsoft says services are being restored after a global office outage hit users across the world.",
-   "url": "https://finance.yahoo.com/m/c3b17798-d74b-3497-bb15-94efbfc03af4/why-the-microsoft-outage-came.html?.tsrc=rss",
-   "published": "2026-11-14T15:05:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트가 전 세계적인 오피스 서비스 장애 이후 복구 작업이 진행 중이라고 밝혔다."
-   ],
-   "tone": "neg"
   }
  ]
 }
