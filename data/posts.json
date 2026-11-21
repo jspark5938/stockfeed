@@ -1,6 +1,43 @@
 {
- "updated": "2026-11-21T11:00:39.149315+00:00",
+ "updated": "2026-11-21T11:30:33.114466+00:00",
  "posts": [
+  {
+   "id": "15f2302974d32fc9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "IonQ vs. Alphabet: Which is the Better Quantum Computing Stock to Own for Next 5 Years?",
+   "excerpt": "IonQ is getting closer to producing a viable product.",
+   "url": "https://www.fool.com/investing/2026/11/21/ionq-vs-alphabet-which-is-the-better-quantum-computing-stock-to-own-for-next-5-years/?.tsrc=rss",
+   "published": "2026-11-21T10:55:02+00:00",
+   "tickers": [
+    "GOOGL",
+    "IONQ"
+   ],
+   "summary_ko": [
+    "IonQ와 알파벳 중 향후 5년간 더 나은 양자 컴퓨팅 종목이 어딘지 다뤘다.",
+    "IonQ가 상용화 가능한 제품 생산에 다가가고 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ddc8c3c2c3485ded",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Many Shares of Chevron, Shell or Exxon Pay $1,000 a Month in Dividends?",
+   "excerpt": "Key TakeawaysAt today’s prices, $1,000 a month in dividends takes about $360,000 of Shell stock, $351,300 of Chevron or $448,600 of ExxonMobil. All three cover their dividends comfortably, paying out between 27% and 41% of free cash flow over their latest twelve months.",
+   "url": "https://www.tikr.com/blog/how-many-shares-of-chevron-shell-or-exxon-pay-1000-a-month-in-dividends?ref=yahoofinancedividend&tlnk=yf-261121-98jm29wr&.tsrc=rss",
+   "published": "2026-11-21T10:50:32+00:00",
+   "tickers": [
+    "XOM"
+   ],
+   "summary_ko": [
+    "월 1,000달러의 배당을 받기 위해 필요한 셸, 셰브론, 엑슨모빌의 주식 규모를 계산했다.",
+    "세 기업 모두 잉여현금흐름의 일정 비율로 배당을 안정적으로 커버하고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "dff939cdac8b5388",
    "kind": "news",
@@ -34,6 +71,24 @@
    "summary_ko": [
     "마이크론 주가가 6월 최고점 대비 40% 이상 하락했다고 다뤘다.",
     "과거 유사한 하락 이후의 주가 흐름을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "02a9f55a8968d93a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "D-Wave CEO: No Quantum Rival Has Produced “Even One Logical Qubit”",
+   "excerpt": "Key TakeawaysD-Wave CEO Alan Baratz said no quantum company has built “even one logical qubit” that can run 1 million operations. His claim holds on his own standard, but Quantinuum came within about 5x of it, and D-Wave’s own first such qubit isn’t due until 2028.",
+   "url": "https://www.tikr.com/blog/d-wave-ceo-no-quantum-rival-has-produced-even-one-logical-qubit?ref=yahoofinance&tlnk=yf-261121-w6vfrgmw&.tsrc=rss",
+   "published": "2026-11-21T10:36:13+00:00",
+   "tickers": [
+    "QBTS"
+   ],
+   "summary_ko": [
+    "D-Wave의 CEO는 경쟁사 중 100만 번 연산을 수행하는 논리 큐빗을 만든 곳이 없다고 주장했다.",
+    "다만 일각에서는 다른 기업이 근접했거나 D-Wave의 자체 큐빗은 2028년에야 나올 것이라고 지적했다."
    ],
    "tone": "neu"
   },
@@ -7206,6 +7261,23 @@
    ],
    "summary_ko": [
     "퍼포즈 인베스트먼트가 Cboe 캐나다에 앤스로픽과 마이크론을 포함한 일드 셰어 ETF를 상장했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "14d97b3ee6559e82",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $25 Billion Fund Is Betting Big on Tesla",
+   "excerpt": "Key TakeawaysH&H International Investment, a firm managing $25. 5 billion, added 21% to its Tesla stake in the third quarter.",
+   "url": "https://www.tikr.com/blog/a-25-billion-fund-is-betting-big-on-tesla?ref=yahoofinance&tlnk=yf-261121-62hr7pw5&.tsrc=rss",
+   "published": "2026-11-20T14:58:26+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "255억 달러 규모의 자산을 운용하는 펀드가 테슬라 주식을 추가 매수했다고 다뤘다."
    ],
    "tone": "pos"
   },
@@ -78224,23 +78296,6 @@
    ],
    "summary_ko": [
     "퀄컴 주가가 고점 대비 하락했으며 경영진의 수익 목표 대비 낮은 멀티플에 거래되고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "ca09ee7d57d462b4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is It Too Late to Buy Micron Stock?",
-   "excerpt": "Micron has pulled back sharply from its highs, but the buying window is still open.",
-   "url": "https://www.fool.com/investing/2026/11/14/is-it-too-late-to-buy-micron-stock/?.tsrc=rss",
-   "published": "2026-11-14T11:10:00+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론 주가가 고점에서 하락했으나 매수 기회가 여전히 열려 있다고 다뤘다."
    ],
    "tone": "pos"
   }
