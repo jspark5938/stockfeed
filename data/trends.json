@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T06:30:32.187977+00:00",
+ "updated": "2026-11-21T07:00:42.081580+00:00",
  "trends": [
   {
    "ticker": "SNOW",
@@ -93,13 +93,6 @@
    "ratio": 1.3
   },
   {
-   "ticker": "RKLB",
-   "name_ko": "로켓랩",
-   "mentions_24h": 9,
-   "mentions_prev_24h": 7,
-   "ratio": 1.29
-  },
-  {
    "ticker": "NKE",
    "name_ko": "나이키",
    "mentions_24h": 13,
@@ -114,18 +107,18 @@
    "ratio": 1.18
   },
   {
+   "ticker": "NVDA",
+   "name_ko": "엔비디아",
+   "mentions_24h": 172,
+   "mentions_prev_24h": 158,
+   "ratio": 1.09
+  },
+  {
    "ticker": "ORCL",
    "name_ko": "오라클",
    "mentions_24h": 13,
    "mentions_prev_24h": 12,
    "ratio": 1.08
-  },
-  {
-   "ticker": "NVDA",
-   "name_ko": "엔비디아",
-   "mentions_24h": 171,
-   "mentions_prev_24h": 161,
-   "ratio": 1.06
   },
   {
    "ticker": "JPM",
@@ -138,8 +131,8 @@
    "ticker": "AAPL",
    "name_ko": "애플",
    "mentions_24h": 41,
-   "mentions_prev_24h": 41,
-   "ratio": 1.0
+   "mentions_prev_24h": 40,
+   "ratio": 1.02
   },
   {
    "ticker": "CRWD",
@@ -151,6 +144,13 @@
   {
    "ticker": "BAC",
    "name_ko": "뱅크오브아메리카",
+   "mentions_24h": 8,
+   "mentions_prev_24h": 8,
+   "ratio": 1.0
+  },
+  {
+   "ticker": "RKLB",
+   "name_ko": "로켓랩",
    "mentions_24h": 8,
    "mentions_prev_24h": 8,
    "ratio": 1.0
@@ -184,6 +184,20 @@
    "ratio": 1.0
   },
   {
+   "ticker": "COIN",
+   "name_ko": "코인베이스",
+   "mentions_24h": 15,
+   "mentions_prev_24h": 16,
+   "ratio": 0.94
+  },
+  {
+   "ticker": "DELL",
+   "name_ko": "델",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 11,
+   "ratio": 0.91
+  },
+  {
    "ticker": "NFLX",
    "name_ko": "넷플릭스",
    "mentions_24h": 10,
@@ -210,13 +224,6 @@
    "mentions_24h": 31,
    "mentions_prev_24h": 35,
    "ratio": 0.89
-  },
-  {
-   "ticker": "COIN",
-   "name_ko": "코인베이스",
-   "mentions_24h": 14,
-   "mentions_prev_24h": 16,
-   "ratio": 0.88
   },
   {
    "ticker": "XOM",
@@ -252,13 +259,6 @@
    "mentions_24h": 20,
    "mentions_prev_24h": 27,
    "ratio": 0.74
-  },
-  {
-   "ticker": "DELL",
-   "name_ko": "델",
-   "mentions_24h": 8,
-   "mentions_prev_24h": 11,
-   "ratio": 0.73
   },
   {
    "ticker": "GOOGL",
@@ -347,16 +347,16 @@
   {
    "ticker": "WMT",
    "name_ko": "월마트",
-   "mentions_24h": 31,
-   "mentions_prev_24h": 70,
-   "ratio": 0.44
+   "mentions_24h": 30,
+   "mentions_prev_24h": 71,
+   "ratio": 0.42
   },
   {
    "ticker": "BABA",
    "name_ko": "알리바바",
-   "mentions_24h": 15,
+   "mentions_24h": 14,
    "mentions_prev_24h": 34,
-   "ratio": 0.44
+   "ratio": 0.41
   },
   {
    "ticker": "UBER",
