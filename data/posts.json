@@ -1,6 +1,43 @@
 {
- "updated": "2026-11-21T02:30:31.085585+00:00",
+ "updated": "2026-11-21T03:00:39.863438+00:00",
  "posts": [
+  {
+   "id": "9aca8bfb9a85efe8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NVDA Stock Sees Biggest Fall In 22 Months, But Top Analyst Says Nvidia’s AI Boom Isn’t Over Yet — Here Are 5 Reasons Why",
+   "excerpt": "IO Fund’s Beth Kindig argued that investors may be mistaking a temporary pause for a fundamental slowdown, pointing to Nvidia's latest results.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-fall-nvidia-ai-boom-not-over-yet-top-analyst-5-reasons/cNbmIC8R91h?.tsrc=rss",
+   "published": "2026-11-21T02:48:25+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 주가가 22개월 만에 최대 하락폭을 기록했다고 전했다.",
+    "한 애널리스트는 일시적인 정체를 근본적인 둔화로 오인하고 있다고 주장했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "e5488de08fd97b22",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Arm (ARM) Stock Looks Undervalued Despite Rich Sales Expectations",
+   "excerpt": "Arm Holdings has had a volatile run in recent years, and the latest swings in sentiment now put a spotlight on a simple question about the business: whether the current share price lines up with the revenue the company is actually generating. Over the past 3 years the stock has returned 138.6%, which puts a lot of weight on the idea that Arm's sales can support a much bigger enterprise than a few years ago. Recent commentary around CEO Rene Haas, including his potential move to Nvidia and...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/arm-arm-stock-looks-undervalued-021442325.html?.tsrc=rss",
+   "published": "2026-11-21T02:14:42+00:00",
+   "tickers": [
+    "NVDA",
+    "ARM"
+   ],
+   "summary_ko": [
+    "암 홀딩스 주가가 높은 매출 기대감에도 불구하고 저평가되어 보인다고 다뤘다.",
+    "최근 3년간의 주가 상승으로 인해 향후 매출이 기업 규모를 뒷받침할 수 있을지가 주목받고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "2ca5738a4851b59f",
    "kind": "news",
@@ -2067,6 +2104,23 @@
     "SEC의 회계 조사 보도와 젠슨 황의 사임 등으로 엔비디아 주가가 하락했다고 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "5dbe8baec1c33154",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AAPL Stock Alert: What to Know as Apple Develops AI Agent to Compete With Muse",
+   "excerpt": "Apple is reportedly developing an AI assistant that would challenge Meta’s Muse. Here’s what it might mean for AAPL shares in 2027.",
+   "url": "https://www.barchart.com/story/news/8941997/aapl-stock-alert-what-to-know-as-apple-develops-ai-agent-to-compete-with-muse?.tsrc=rss",
+   "published": "2026-11-20T20:32:49+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플이 메타의 뮤즈에 대항할 AI 에이전트를 개발 중이라고 보도했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "7ff83b195d5ce549",

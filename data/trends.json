@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:30:31.085585+00:00",
+ "updated": "2026-11-21T03:00:39.863438+00:00",
  "trends": [
   {
    "ticker": "SNOW",
@@ -14,6 +14,13 @@
    "mentions_24h": 4,
    "mentions_prev_24h": 1,
    "ratio": 4.0
+  },
+  {
+   "ticker": "ARM",
+   "name_ko": "ARM",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 1,
+   "ratio": 3.0
   },
   {
    "ticker": "QBTS",
@@ -34,13 +41,6 @@
    "name_ko": "리비안",
    "mentions_24h": 6,
    "mentions_prev_24h": 3,
-   "ratio": 2.0
-  },
-  {
-   "ticker": "ARM",
-   "name_ko": "ARM",
-   "mentions_24h": 2,
-   "mentions_prev_24h": 1,
    "ratio": 2.0
   },
   {
@@ -79,6 +79,13 @@
    "ratio": 1.5
   },
   {
+   "ticker": "CRM",
+   "name_ko": "세일즈포스",
+   "mentions_24h": 13,
+   "mentions_prev_24h": 10,
+   "ratio": 1.3
+  },
+  {
    "ticker": "RKLB",
    "name_ko": "로켓랩",
    "mentions_24h": 9,
@@ -93,13 +100,6 @@
    "ratio": 1.25
   },
   {
-   "ticker": "CRM",
-   "name_ko": "세일즈포스",
-   "mentions_24h": 13,
-   "mentions_prev_24h": 11,
-   "ratio": 1.18
-  },
-  {
    "ticker": "NKE",
    "name_ko": "나이키",
    "mentions_24h": 13,
@@ -107,18 +107,18 @@
    "ratio": 1.18
   },
   {
+   "ticker": "AAPL",
+   "name_ko": "애플",
+   "mentions_24h": 44,
+   "mentions_prev_24h": 39,
+   "ratio": 1.13
+  },
+  {
    "ticker": "CRWD",
    "name_ko": "크라우드스트라이크",
    "mentions_24h": 10,
    "mentions_prev_24h": 9,
    "ratio": 1.11
-  },
-  {
-   "ticker": "AAPL",
-   "name_ko": "애플",
-   "mentions_24h": 43,
-   "mentions_prev_24h": 39,
-   "ratio": 1.1
   },
   {
    "ticker": "ORCL",
@@ -130,9 +130,9 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 176,
-   "mentions_prev_24h": 169,
-   "ratio": 1.04
+   "mentions_24h": 177,
+   "mentions_prev_24h": 168,
+   "ratio": 1.05
   },
   {
    "ticker": "JPM",
@@ -282,18 +282,18 @@
    "ratio": 0.7
   },
   {
-   "ticker": "AMD",
-   "name_ko": "AMD",
-   "mentions_24h": 41,
-   "mentions_prev_24h": 59,
-   "ratio": 0.69
-  },
-  {
    "ticker": "AVGO",
    "name_ko": "브로드컴",
    "mentions_24h": 15,
    "mentions_prev_24h": 22,
    "ratio": 0.68
+  },
+  {
+   "ticker": "AMD",
+   "name_ko": "AMD",
+   "mentions_24h": 40,
+   "mentions_prev_24h": 60,
+   "ratio": 0.67
   },
   {
    "ticker": "OKLO",
