@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-21T15:30:32.530749+00:00",
+ "updated": "2026-11-21T16:00:42.068319+00:00",
  "posts": [
+  {
+   "id": "2f9e938bf5594fba",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "After Plummeting 62% This Year, Could Buying Intel Stock Today Set You Up for Life?",
+   "excerpt": "Intel now sells at a considerable discount from its high, but setting small investors up for life could be a challenge.",
+   "url": "https://www.fool.com/investing/2026/11/21/after-plummeting-62-this-year-could-buying-intel-stock-today-set-you-up-for-life/?.tsrc=rss",
+   "published": "2026-11-21T15:50:02+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b61b4032a60abae1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: Nvidia Stock Will Be Worth This Much in 1 Year",
+   "excerpt": "Nvidia's business still looks rock-solid despite the company's recent challenges.",
+   "url": "https://www.fool.com/investing/2026/11/21/prediction-nvidia-stock-will-worth-this-much-1-year/?.tsrc=rss",
+   "published": "2026-11-21T15:29:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "dd1ceb803ae20e4b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oracle Stock Is Now Down Almost 70% From its Peak",
+   "excerpt": "Minutes after the closing bell, Oracle fired back at the reports behind its brutal week, declaring itself fully funded. One question still hangs over the stock, and no funding announcement can answer it.",
+   "url": "https://247wallst.com/investing/2026/11/21/oracle-stock-is-now-down-almost-70-from-its-peak/?.tsrc=rss",
+   "published": "2026-11-21T15:28:56+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "52ac6f1c7580eb71",
    "kind": "news",
@@ -35,6 +83,38 @@
     "천연가스 발전 데이터센터 의존도를 평가하며 미래 에너지원에 대한 의문이 제기되고 있다고 언급했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "5e66e6813a2ac6bb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jim Cramer: Amazon Could Sell Its Anthropic Stake and Say “Our CapEx Is Paid For.” Does the Math Work?",
+   "excerpt": "Key TakeawaysJim Cramer said Amazon could sell its Anthropic stake and have its capex “paid for for the next year and a half. ”The Anthropic shares Amazon owns outright were worth about $188 billion at the first-day close, about 10 months of this year’s capex.",
+   "url": "https://www.tikr.com/blog/jim-cramer-amazon-could-sell-its-anthropic-stake-and-say-our-capex-is-paid-for-does-the-math-work?ref=yahoofinance&tlnk=yf-261121-jx78vhmx&.tsrc=rss",
+   "published": "2026-11-21T15:05:56+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f90e84769c53a2a3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Lenders Fear SpaceX Could “Shoot the Valuable Chips” Into Space. SpaceX Sinks After Its $32 Billion Debt Sale",
+   "excerpt": "Key TakeawaysSpaceX shares fell 7. 69% on Friday, closing below their $135 IPO price in a broad AI sell-off, a day after the company sold $32 billion of bonds to buy Nvidia chips.",
+   "url": "https://www.tikr.com/blog/lenders-fear-spacex-could-shoot-the-valuable-chips-into-space-spacex-sinks-after-its-32-billion-debt-sale?ref=yahoofinance&tlnk=yf-261121-mmj2qvg5&.tsrc=rss",
+   "published": "2026-11-21T15:05:08+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "2f1f5abe79b706c3",
@@ -88,6 +168,22 @@
     "화이자가 배당 및 종양학 성장 주식으로 매력적일 수 있다는 점을 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "fb58635c6c66d3e3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $12 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysCastle Hook Partners, a $12 billion fund, opened a new stake in Microsoft and added heavily to Danaher and Thermo Fisher Scientific in the third quarter, per its 13F filed Nov. 16.",
+   "url": "https://www.tikr.com/blog/a-12-billion-fund-just-bought-these-3-stocks-2?ref=yahoofinance&tlnk=yf-261121-99975xff&.tsrc=rss",
+   "published": "2026-11-21T14:51:03+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "ee1ff58ff0c6f9b0",
@@ -248,6 +344,39 @@
     "브로드컴의 실적 발표를 앞두고 AI 인프라 관련 주식들의 실적과 가이던스를 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "636a7aad72c5d8ff",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba Sinks 25% in a Month as Chip Curbs Threaten Its 20 GW Plan: Eddie Wu Warns of “Downward Revision”",
+   "excerpt": "Key TakeawaysAlibaba fell 25% in a month to a 52-week low as Washington moved to block Chinese companies from Nvidia chips rented abroad. Nvidia can’t sell its top chips in China anyway, so the curbs hurt Alibaba’s cloud far more.",
+   "url": "https://www.tikr.com/blog/alibaba-sinks-25-in-a-month-as-chip-curbs-threaten-its-20-gw-plan-eddie-wu-warns-of-downward-revision?ref=yahoofinance&tlnk=yf-261121-544qw7qm&.tsrc=rss",
+   "published": "2026-11-21T14:23:12+00:00",
+   "tickers": [
+    "NVDA",
+    "BABA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "ec0859883e81d02c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $10 Billion Fund Bought These 3 Stocks Last Quarter",
+   "excerpt": "Key TakeawaysA $10 billion fund opened a stake in MercadoLibre and added to Snowflake and Ciena in the third quarter, its latest 13F shows. All three stocks are down since Sept.",
+   "url": "https://www.tikr.com/blog/a-10-billion-fund-bought-these-3-stocks-last-quarter?ref=yahoofinance&tlnk=yf-261121-7q42fq47&.tsrc=rss",
+   "published": "2026-11-21T14:22:56+00:00",
+   "tickers": [
+    "SNOW"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "72b0b9f65fcfb90a",
@@ -78487,129 +78616,6 @@
    "summary_ko": [
     "알리바바의 수익성과 쿠팡의 손실이 극명한 대조를 이룬다고 다뤘다.",
     "두 지역 거대 기업 간의 밸류에이션 격차가 중요한 관전 포인트라고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "bffc999159535e7a",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Anthropic IPO Tests Investor Appetite for AI",
-   "excerpt": "Bloomberg Technology co-host Ed Ludlow tells Bloomberg This Weekend why Anthropic’s upcoming IPO could be a major test of investor appetite for AI, with the offering heavily oversubscribed and poised to follow SpaceX’s blockbuster debut. Speaking with hosts David Gura and Christina Ruffini, Ludlow also explains how Nvidia and Jensen Huang’s departure loom over the offering, given Nvidia’s planned investment in Anthropic and Huang’s central role connecting the companies powering the AI boom. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Fa",
-   "url": "https://www.youtube.com/watch?v=b5oQu_60ZdU",
-   "published": "2026-11-14T15:53:09+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "블룸버그 기자는 앤스로픽의 IPO가 AI 투자 수요를 가늠할 시험대가 될 것이라고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d782e75575296e7e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Many Shares of Pfizer, Merck or Bristol Myers Squibb Pay $1,000 a Month in Dividends?",
-   "excerpt": "Key TakeawaysAt today’s prices, $1,000 a month in dividends takes 6,977 Pfizer shares (about $201,600), 4,762 Bristol Myers Squibb shares (about $302,100) or 3,530 Merck shares (about $521,600). Pfizer’s 6.",
-   "url": "https://www.tikr.com/blog/how-many-shares-of-pfizer-merck-or-bristol-myers-squibb-pay-1000-a-month-in-dividends?ref=yahoofinancedividend&tlnk=yf-261114-wmp88g73&.tsrc=rss",
-   "published": "2026-11-14T15:50:31+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "summary_ko": [
-    "화이자, 브리스톨마이어스스큅, 머크 등의 주식으로 월 1,000달러의 배당을 받기 위해 필요한 주식 수를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a3876d58befcb981",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Despite new headline risks, Big Tech may keep getting bigger, say ETF experts",
-   "excerpt": "Dan Ives and Dave Mazza join CNBC’s Dominic Chu on “ETF Edge” for a look at how the tech trade could next trend after a furious news cycle encompassing both the Nvidia CEO and Blue Wave election shockers.",
-   "url": "https://www.youtube.com/watch?v=BAO66IFCp-w",
-   "published": "2026-11-14T15:45:33+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "전문가들은 엔비디아 최고경영자 관련 이슈 등 새로운 헤드라인 리스크 속에서도 빅테크 전망을 논의했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "bf74fd5f3c2a2c69",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia lost $1.6 trillion after Jensen Huang's exit, but Apple's and Uber's CEO transitions offer a blueprint",
-   "excerpt": "Nvidia interim CEO Colette Kress has big shoes to fill following Jensen Huang’s resignation. But the leadership transitions at Apple and Uber offer reasons for optimism.",
-   "url": "https://finance.yahoo.com/technology/articles/nvidia-lost-1-6-trillion-154500086.html?.tsrc=rss",
-   "published": "2026-11-14T15:45:00+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL",
-    "UBER"
-   ],
-   "summary_ko": [
-    "엔비디아가 젠슨 황의 사임 이후 큰 폭의 가치 하락을 겪었다고 다뤘다.",
-    "애플과 우버의 CEO 교체 사례가 엔비디아의 리더십 전환에 낙관적 청사진을 제시한다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c6dd94ff92cc801f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD Just Crushed Nvidia by 32 Points After Scandal. Here’s How NVDA Can Come Back",
-   "excerpt": "One chipmaker just posted its best five-day run against its rival since 1999, while the other faces a CEO scandal and a Senate spotlight. Three scorecard categories decide which stock deserves retirement money, and the loser might surprise you.",
-   "url": "https://247wallst.com/investing/2026/11/14/amd-just-crushed-nvidia-by-32-points-after-scandal-heres-how-nvda-can-come-back/?.tsrc=rss",
-   "published": "2026-11-14T15:41:51+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "AMD가 스캔들에 직면한 엔비디아를 상대로 우수한 주가 흐름을 보였다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "37301a49392dfa9f",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Experts assess the fallout from Nvidia's spy scandal and what it means for AI stocks",
-   "excerpt": "Wall Street experts, lawmakers and regulators share their reactions and insight after Nvidia's Jensen Huang admitted to an affair with an alleged Chinese spy. They debate the impact on the company's leadership, export controls, and the broader performance of AI-driven stocks.",
-   "url": "https://www.youtube.com/watch?v=RymQ_ymeK7s",
-   "published": "2026-11-14T15:33:35+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "전문가들은 젠슨 황의 스캔들 이후 리더십 공백과 수출 통제가 AI 주식에 미칠 영향을 토론했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "2a17c4c6464e3c18",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "MercadoLibre vs. Uber Technologies: Which Consumer Network Stock Is a Better Buy for 2027?",
-   "excerpt": "MercadoLibre's 47% revenue surge stands out, but Uber's cheaper earnings multiple and steadier balance sheet make the 2027 call far closer than the growth numbers suggest.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/14/mercadolibre-vs-uber-technologies-which-consumer-network-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-   "published": "2026-11-14T15:32:02+00:00",
-   "tickers": [
-    "UBER"
-   ],
-   "summary_ko": [
-    "메르카도리브레의 높은 매출 증가세와 우버의 유리한 수익 멀티플 및 재무 건전성을 비교했다."
    ],
    "tone": "neu"
   }
