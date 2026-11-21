@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-21T13:30:32.673186+00:00",
+ "updated": "2026-11-21T14:00:37.324335+00:00",
  "posts": [
+  {
+   "id": "fd52dce0ca74aa9e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Hank Paulson Has “Never Seen So Much Money Chasing One Opportunity.” That’s a Problem for Microsoft, Amazon and Alphabet",
+   "excerpt": "Key TakeawaysHank Paulson says too much money is chasing AI, and 52% of fund managers in Bank of America’s November survey expect an AI hyperscaler to announce a capex cut within six months. Microsoft’s free cash flow has fallen two years running, while Amazon’s 12-month and Alphabet’s quarterly figures have turned negative.",
+   "url": "https://www.tikr.com/blog/hank-paulson-has-never-seen-so-much-money-chasing-one-opportunity-thats-a-problem-for-microsoft-amazon-and-alphabet?ref=yahoofinance&tlnk=yf-261121-2ch8r4jc&.tsrc=rss",
+   "published": "2026-11-21T13:46:13+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "BAC"
+   ],
+   "summary_ko": [
+    "행크 폴슨은 너무 많은 자금이 AI에 몰리고 있다고 주장했다.",
+    "마이크로소프트 등의 잉여현금흐름이 감소했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "80fd436be9de6217",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The 1 Thing I'll Be Watching When Broadcom Reports on Dec. 9",
+   "excerpt": "The chip designer has beaten its own AI forecast three quarters straight. Can the next outlook keep 2027 on track?",
+   "url": "https://www.fool.com/investing/2026/11/21/the-1-thing-i-ll-be-watching-when-broadcom-reports-on-dec-9/?.tsrc=rss",
+   "published": "2026-11-21T13:46:02+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴이 AI 전망치를 3분기 연속 상회했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "482fe69e9c3b640a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia’s Worst Losing Streak Since 2008 Now Has an SEC Problem. What Shareholders Need to Know",
+   "excerpt": "A reported SEC probe, a CEO exit, and a California subpoena have hit Nvidia while its earnings keep soaring. Retirees holding the stock directly or through index funds face a hard question about which signal to trust.",
+   "url": "https://247wallst.com/investing/2026/11/21/nvidias-worst-losing-streak-since-2008-now-has-an-sec-problem-what-shareholders-need-to-know/?.tsrc=rss",
+   "published": "2026-11-21T13:23:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 SEC 조사 보도와 CEO 퇴임 등에 직면했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "52eedc82d32af6cf",
    "kind": "news",
@@ -71,6 +126,23 @@
     "배당금만으로 744달러어치 커피값을 충당하려면 스타벅스 주식이 얼마나 필요한지 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "eb6fc9b95575a381",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
+   "excerpt": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-asks-save-ai-130000489.html?.tsrc=rss",
+   "published": "2026-11-21T13:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "앤스로픽 관련 충격 등으로 월가가 AI 거래의 향방을 주시하고 있다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "41c713821e70fada",
@@ -361,6 +433,23 @@
    "summary_ko": [
     "월 1,000달러의 배당을 받기 위해 필요한 셸, 셰브론, 엑슨모빌의 주식 규모를 계산했다.",
     "세 기업 모두 잉여현금흐름의 일정 비율로 배당을 안정적으로 커버하고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f591f13f392074e9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $3.2 Billion Fund Dumps These 2 Stocks",
+   "excerpt": "Key TakeawaysTremblant Capital Group, a $3. 24 billion fund, had sold all of its Howmet Aerospace and Starbucks shares by Sept.",
+   "url": "https://www.tikr.com/blog/a-3-2-billion-fund-dumps-these-2-stocks?ref=yahoofinance&tlnk=yf-261121-x249q7m5&.tsrc=rss",
+   "published": "2026-11-21T10:47:18+00:00",
+   "tickers": [
+    "SBUX"
+   ],
+   "summary_ko": [
+    "트렘블런트 캐피털 그룹이 9월까지 하우메트 에어로스페이스와 스타벅스 주식을 전량 매각했다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -1249,6 +1338,23 @@
    "summary_ko": [
     "네비우스 주가가 급락한 가운데 마이클 버리가 투자자들에게 경고하려 했다고 밝혔다.",
     "그는 네비우스와 코어위브, 엔비디아에 대해 언급했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "b7594b77908386ca",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SoFi Is Down 15% in a Month and Just Hit a New 52-Week Low. Is the Selling Overdone?",
+   "excerpt": "Key TakeawaysSoFi stock is down 15% over the past month to a new 52-week low. That gives back the jump that followed its record third quarter.",
+   "url": "https://www.tikr.com/blog/sofi-is-down-15-in-a-month-and-just-hit-a-new-52-week-low-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261121-7vrmh8r8&.tsrc=rss",
+   "published": "2026-11-21T01:39:44+00:00",
+   "tickers": [
+    "SOFI"
+   ],
+   "summary_ko": [
+    "소파이 주가가 한 달 동안 15% 하락하며 신저점을 기록했다고 다뤘다."
    ],
    "tone": "neg"
   },
@@ -78257,40 +78363,6 @@
     "세일즈포스가 후원하는 AI 혁신 관련 어워드 소식을 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "5f00306c567a414b",
-   "kind": "youtube",
-   "source": "Investing Simplified - Professor G",
-   "author": "Investing Simplified - Professor G",
-   "title": "What a mess.. (Must act before Tuesday 11/17)",
-   "excerpt": "Should I buy NVDA now? - How to invest 2026 - Ad: Check out 21shares here: Want to stay ahead of the curve on all things crypto and digital assets? Subscribe to the 21shares newsletter—you’ll get market insights, product updates, and trend breakdowns straight to your inbox. Follow @21shares and @21shares_US on social for accessible content, timely market commentary, and compliance-aligned crypto education. *21shares products may not be available to all investors and are subject to regulations in your jurisdiction. This is not financial advice, all investing carries risk, consult a licensed financial advisor before making investment decisions. (This content is a paid endorsement by Investing Simplified, who has received compensation from 21Shares US LLC (\"21Shares\") to promote 21shares' ser",
-   "url": "https://www.youtube.com/watch?v=x7RiDC-cE0g",
-   "published": "2026-11-14T14:00:19+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 투자 시기와 암호화폐 시장 동향에 대한 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3215db0b1b5466bf",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
-   "excerpt": "Just months after SpaceX was denied a swift entry into the S&P 500 Index, Elon Musk may have found a backdoor: Merging with Tesla Inc., one of the stock-market benchmark’s biggest members.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-p-500-bid-gets-140000560.html?.tsrc=rss",
-   "published": "2026-11-14T14:00:00+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "스페이스X의 S&P 500 편입을 위해 테슬라와의 합병 가능성이 거론된다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
