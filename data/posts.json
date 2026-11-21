@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-21T00:00:41.807027+00:00",
+ "updated": "2026-11-21T00:30:31.325684+00:00",
  "posts": [
+  {
+   "id": "460de185bfc6f9ad",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart has a surprising update on grocery prices",
+   "excerpt": "The company is working hard to lower prices, but it faces challenges in doing so.",
+   "url": "https://www.thestreet.com/retail/walmart-has-a-surprising-update-on-grocery-prices?.tsrc=rss",
+   "published": "2026-11-21T00:17:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트가 식료품 가격을 낮추기 위해 노력 중이라고 전했다.",
+    "다만 이 과정에서 여러 도전에 직면해 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "7aded6efe8e833cb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Allooloo Tops 100M Capital Markets AI Agent Traffic a Month",
+   "excerpt": "Allooloo Technologies Corp. (Allooloo), maker of agentic datasets for capital markets artificial intelligence (AI) agents, today reported 100M AI agent traffic a month. That is 39 calls a second, 3.4 million a day, across getissuer.ai and Issuerwire.ai, running on 24 Microsoft Azure hyperscale locations globally with always-on Amazon Web Services (AWS) redundancy.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/allooloo-tops-100m-capital-markets-000600422.html?.tsrc=rss",
+   "published": "2026-11-21T00:06:00+00:00",
+   "tickers": [
+    "MSFT",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "알롤루 테크놀로지스가 월간 AI 에이전트 트래픽 1억 건을 돌파했다고 발표했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "3663b29cdb3ad903",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History",
+   "excerpt": "Nvidia is searching for a new CEO following Jensen Huang's abrupt resignation.",
+   "url": "https://www.fool.com/investing/2026/11/20/prediction-nvidia-stock-will-do-this-in-the-6-months-after-a-new-ceo-takes-over-according-to-history/?.tsrc=rss",
+   "published": "2026-11-21T00:02:51+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 갑작스러운 사임 이후 엔비디아가 새로운 CEO를 물색하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "5d3b97aba6e7c71e",
    "kind": "youtube",
@@ -16,6 +69,24 @@
    ],
    "summary_ko": [
     "월스트리트의 변동성 장세 속에서 엔비디아의 주가 하락과 앤스로픽의 IPO 데뷔 등을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ff54a217e0f03e6a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CrowdStrike, Zscaler Merger Would Create Cybersecurity Giant",
+   "excerpt": "CrowdStrike stock fell and Zscaler stock popped amid a report the companies are in merger talks. A deal would create a cybersecurity giant.",
+   "url": "https://finance.yahoo.com/m/6ad57889-68e7-393a-836e-1d70098a15da/crowdstrike%2C-zscaler-merger.html?.tsrc=rss",
+   "published": "2026-11-20T23:56:14+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": [
+    "크라우드스트라이크와 지스케일러의 합병설이 보도되었다.",
+    "이 소식에 크라우드스트라이크 주가는 하락하고 지스케일러 주가는 상승했다고 전했다."
    ],
    "tone": "neu"
   },
@@ -264,6 +335,24 @@
    "tone": "pos"
   },
   {
+   "id": "77795a441e3d53f2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump Reportedly Traded Over $97 Million Worth of Nvidia Stock in 2 Years — Elizabeth Warren Wants Congress to Force Him to ‘Divest’ (UPDATED)",
+   "excerpt": "Editor’s note: The story has been updated to include a comment from the White House. Sen. Elizabeth Warren (D-Mass.) criticized President Donald Trump‘s reported trading of Nvidia Corp. stock, urging lawmakers to force him to divest from his positions in...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/trump-reportedly-traded-over-97-230005028.html?.tsrc=rss",
+   "published": "2026-11-20T23:00:05+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프가 2년 동안 9,700만 달러어치 이상의 엔비디아 주식을 거래했다고 보도됐다.",
+    "엘리자베스 워렌 상원의원은 그에게 주식 매각을 강제할 것을 의회에 촉구했다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "825022ef7230aae9",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -280,6 +369,24 @@
     "투자자들은 막대한 AI 지출과 마진을 저울질했다고 언급했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "587d1e534f493aca",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Target Shines, Walmart Merely Fine: Two Retail Giants Split on Q3 Results",
+   "excerpt": "Walmart and Target helped headline the reporting docket for Retail this week. Target's results were notably impressive, though big-box retailers in general face a difficult operating environment due to elevated fuel costs adding to consumers' financial burdens and increasing retailers' expenses.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/target-shines-walmart-merely-fine-224900183.html?.tsrc=rss",
+   "published": "2026-11-20T22:49:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트와 타겟의 3분기 실적이 엇갈렸다고 다뤘다.",
+    "연료비 상승 등으로 인해 대형 소매업체들이 어려운 경영 환경에 직면해 있다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "9e11893c3681c0d9",
@@ -3152,6 +3259,24 @@
     "역대 최대 매출과 전망치 상향에도 주가가 하락한 배경을 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "7ce213502703c3b4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Is Cashing In on AI, But PANW Stock Is Already Too Expensive",
+   "excerpt": "Palo Alto Networks is positioned to capitalize on rising AI-driven cybersecurity spending, but its valuation remains a key concern.",
+   "url": "https://www.barchart.com/story/news/8939790/palo-alto-is-cashing-in-on-ai-but-panw-stock-is-already-too-expensive?.tsrc=rss",
+   "published": "2026-11-20T17:56:17+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로 알토 네트웍스가 AI 보안 지출 증가의 수혜를 입을 위치에 있다고 다뤘다.",
+    "다만 현재 밸류에이션이 주요 우려 사항이라고 지적했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "aa10c2ced37e3d2b",
@@ -77766,113 +77891,6 @@
    ],
    "summary_ko": [
     "일라이릴리 주식에 대한 시장의 시각을 다루는 연구 관련 안내를 담았다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "315269b7c5feced2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Apple Stock a Buy Right Now?",
-   "excerpt": "Apple is hitting new highs, but it could go even higher.",
-   "url": "https://www.fool.com/investing/2026/11/13/is-apple-stock-a-buy-right-now/?.tsrc=rss",
-   "published": "2026-11-14T00:27:00+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "애플 주가가 신고점을 기록 중이며 더 오를 수 있다는 전망을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "2df876468256d566",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/Deep-Force2598",
-   "title": "SMCI vs. BABA- which one are would you pick?",
-   "excerpt": "I’m torn between SMCI and Alibaba Baba and wanted to get the sub's take before pulling the trigger. Both are sitting way off their 52-week highs right now ($SMCI hovering around ~$27 after hitting ~$51 earlier this year, and $BABA down in the mid-$90s from ~$181), so both feel like classic \"high upside vs. high headache\" plays. Here is where my head is at on both: Bullet The case for SMCI: Direct AI infrastructure play, massive top-line revenue growth, early mover shipping next-gen Nvidia racks, and trading at a super low P/E (~5–6x). The catch: Thin margins, heavy cash burn / working capital headaches, and brutal volatility. Bullet The case for BABA: Massive e-commerce and AI cloud footprint in China, strong Wall Street price targets ($175–$183 average), and a solid balance sheet with buy",
-   "url": "https://www.reddit.com/r/stocks/comments/1xvofd8/smci_vs_baba_which_one_are_would_you_pick/",
-   "published": "2026-11-14T00:25:10+00:00",
-   "tickers": [
-    "NVDA",
-    "SMCI",
-    "BABA"
-   ],
-   "summary_ko": [
-    "SMCI와 알리바바 중 어떤 종목을 선택해야 할지 고민하며 두 기업의 장단점을 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f3dac755e73fd69b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Starbucks (SBUX) Unveils Global Stock Grants As Brian Niccol Maps Drive Thru Reset",
-   "excerpt": "Starbucks (NasdaqGS:SBUX) announced new global employee compensation programs on 13 November 2026, including stock grants and quarterly bonuses. CEO Brian Niccol outlined a turnaround strategy that focuses on fresh menu concepts and a comprehensive reinvention of the drive thru format. The refreshed drive thru model is planned as a global template for future store development and operational changes across key markets. The mix of global stock awards and the drive thru overhaul only captures...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-unveils-global-stock-002442112.html?.tsrc=rss",
-   "published": "2026-11-14T00:24:42+00:00",
-   "tickers": [
-    "SBUX"
-   ],
-   "summary_ko": [
-    "스타벅스가 주식 부여를 포함한 글로벌 직원 보상 프로그램을 발표했다고 다뤘다.",
-    "CEO 브라이언 닉콜이 신메뉴와 드라이브스루 개편을 포함한 턴어라운드 전략을 설명했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0a186d0d112075f0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Will ETF Buying Change Meta Stock Narrative",
-   "excerpt": "Large ETFs including SPY, XLC and SPYM recently added to Meta Platforms positions over several days, alongside fresh fixed income offerings and expanded sustainability agreements tied to green steel, clean cement and zero emission trucking. The combination of strong ETF buying and growing use of AI to sharpen Meta Platforms advertising engine reinforces how central data driven ad performance remains to the business story, even as it layers on heavy capex and new financing to fund AI and...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/etf-buying-change-meta-stock-002017757.html?.tsrc=rss",
-   "published": "2026-11-14T00:20:17+00:00",
-   "tickers": [
-    "META"
-   ],
-   "summary_ko": [
-    "대형 ETF들이 메타플랫폼스 주식을 추가 매수했다고 다뤘다.",
-    "데이터 기반 광고 성과가 비즈니스의 핵심으로 작용하고 있다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "928b73d958086741",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Pfizer (PFE) Secures $1.5 Billion For Berobenatide Development",
-   "excerpt": "Pfizer (NYSE:PFE) announced a partnership with Blackstone Life Sciences to co-fund late stage development of berobenatide, its GLP-1 obesity drug candidate. The arrangement provides up to $1.5b in development funding for berobenatide, focused on chronic weight management and obesity related conditions. Pfizer keeps full operational control of berobenatide, while Blackstone Life Sciences receives milestone based economics linked to the program's progress. This berobenatide funding deal with...",
-   "url": "https://finance.yahoo.com/healthcare/articles/pfizer-pfe-secures-1-5-001937225.html?.tsrc=rss",
-   "published": "2026-11-14T00:19:37+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "summary_ko": [
-    "화이자가 블랙스톤 라이프 사이언스와 GLP-1 치료제 후보 물질 개발을 위해 제휴했다고 다뤘다.",
-    "최대 15억 달러의 개발 자금을 확보하며 운영 통제권은 화이자가 유지한다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "acccd56e17300e4e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Chewy vs. Shopify: Which Consumer Stock Is a Better Buy for 2027?",
-   "excerpt": "Chewy's subscription model and Shopify's merchant platform take very different paths to growth, but their valuations tell a sharper story than their business models.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/13/chewy-vs-shopify-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-   "published": "2026-11-14T00:02:02+00:00",
-   "tickers": [
-    "SHOP"
-   ],
-   "summary_ko": [
-    "츄리와 쇼피파이의 서로 다른 성장 전략과 밸류에이션을 비교했다."
    ],
    "tone": "neu"
   }
