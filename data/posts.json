@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:30:31.934587+00:00",
+ "updated": "2026-11-21T12:37:32.656158+00:00",
  "posts": [
   {
    "id": "dcd6e13a4a058856",
@@ -92,6 +92,25 @@
     "엔비디아가 인텔과 AMD가 성장해온 시장에서 엄청난 진전을 보이고 있다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "2dd438cfe718657f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Supermicro Stock In Focus After AI Revenue Outlook Lift",
+   "excerpt": "Super Micro Computer raised its fiscal 2027 revenue outlook, expects AI related solutions to account for roughly 70% to 80% of sales, and is rolling out new AMD EPYC based all flash storage and H15 servers to support AI data center buildouts. The business plans to lift production capacity to more than 8,000 racks per month by December 2026, including over 4,000 direct liquid cooled racks, which points to a heavy operational commitment to large scale AI infrastructure deployments. With that...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-stock-focus-ai-revenue-121208287.html?.tsrc=rss",
+   "published": "2026-11-21T12:12:08+00:00",
+   "tickers": [
+    "AMD",
+    "SMCI"
+   ],
+   "summary_ko": [
+    "슈퍼마이크로는 2027 회계연도 매출 전망을 상향 조정했다고 밝혔다.",
+    "AI 솔루션이 전체 매출의 70~80%를 차지할 것으로 기대했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7d50c4b0da1e9d40",
