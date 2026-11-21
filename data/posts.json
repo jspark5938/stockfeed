@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-21T08:00:40.158285+00:00",
+ "updated": "2026-11-21T08:30:31.587819+00:00",
  "posts": [
+  {
+   "id": "67b11ab675fae557",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: Here’s Where Alphabet Stock Will Be in 5 Years",
+   "excerpt": "Will Alphabet keep burning cash, or will AI data centers pay off?",
+   "url": "https://www.fool.com/investing/2026/11/21/prediction-heres-where-alphabet-stock-will-be-in-5-years/?.tsrc=rss",
+   "published": "2026-11-21T08:10:02+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "알파벳 주식의 5년 뒤 전망을 다뤘다.",
+    "AI 데이터 센터 투자와 현금 지출 문제를 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "9c31de40a850d439",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "South Korea’s Lee urges faster AI investment during $5.2bn data center visit",
+   "excerpt": "Investing.com -- South Korean President Lee Jae Myung called for faster investment in artificial intelligence infrastructure Saturday during a visit to a $5.2 billion data center project being developed by SK Group and Amazon Web Services.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/south-korea-lee-urges-faster-080834640.html?.tsrc=rss",
+   "published": "2026-11-21T08:08:34+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "한국 대통령이 AI 인프라 투자의 가속화를 촉구했다고 전했다.",
+    "SK그룹과 아마존웹서비스의 데이터 센터 방문 사실을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "4eb0617be140b4d5",
    "kind": "news",
@@ -14,9 +50,10 @@
     "NVDA",
     "AVGO"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아와 함께 주목할 만한 AI 관련 종목으로 브로드컴을 꼽았다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "edc20287a922a0c3",
@@ -31,9 +68,11 @@
     "ABNB",
     "BABA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "에어비앤비가 중국산 AI 모델 사용과 관련해 미국 당국의 조사를 받고 있다고 다뤘다.",
+    "의원들이 데이터 처리와 투명성에 대해 공식적인 질의를 보냈다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "2c3b3f9267490668",
@@ -47,9 +86,11 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "크라우드스트라이크가 즈스칼러 인수를 위한 협상에 나섰다고 보도했다.",
+    "양사의 보안 플랫폼과 AI 보안 도구의 결합 가능성을 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2227815b4e4b4aba",
