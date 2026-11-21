@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-21T12:37:32.656158+00:00",
+ "updated": "2026-11-21T13:00:38.266985+00:00",
  "posts": [
+  {
+   "id": "60bdfa47d70ca528",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Anthropic Makes Its Public Market Debut",
+   "excerpt": "Bloomberg’s Ed Ludlow tells Bloomberg This Weekend that Anthropic’s landmark IPO tested investor appetite for frontier AI, giving the company fresh capital for its enormous computing needs as OpenAI considers its own path to the public markets. Speaking with hosts David Gura and Christina Ruffini, Ludlow also examines the turmoil at Nvidia following Jensen Huang’s departure and the uncertainty surrounding the chipmaker’s search for new leadership. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Bu",
+   "url": "https://www.youtube.com/watch?v=BXeSGFq5QMw",
+   "published": "2026-11-21T12:57:04+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "41f735457c5f3e23",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AMD Is “A Direct Stakeholder in Anthropic.” That’s Up to $5 Billion Riding on Its IPO",
+   "excerpt": "Key TakeawaysAnthropic fell 8. 5% on its second day of trading, and AMD, which bought $2.",
+   "url": "https://www.tikr.com/blog/amd-is-a-direct-stakeholder-in-anthropic-thats-up-to-5-billion-riding-on-its-ipo?ref=yahoofinance&tlnk=yf-261121-5x6px635&.tsrc=rss",
+   "published": "2026-11-21T12:38:07+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "dcd6e13a4a058856",
    "kind": "news",
@@ -78182,23 +78214,6 @@
     "시장 혼란 속에서도 애플이 매수 임박 지점에서 버티는 종목들을 이끌고 있다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "a34592bece53e4cb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jamie Dimon Just Said 5 Words Blocking Outside AI Agents From JPMorgan Accounts: \"You Don't Want Rogue Agents.\" Here's Why That Security Stance Matters for JPM and Its Tech Rivals.",
-   "excerpt": "The CEO of JPMorgan Chase isn't going to open his customers' accounts to \"just any\" AI agents from third parties.",
-   "url": "https://www.fool.com/investing/2026/11/14/jamie-dimon-just-said-5-words-blocking-outside-ai/?.tsrc=rss",
-   "published": "2026-11-14T12:54:00+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "제이미 다이먼 CEO가 외부 AI 에이전트의 JP모간 계좌 접근을 차단했다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
