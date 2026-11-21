@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-21T09:30:30.607251+00:00",
+ "updated": "2026-11-21T10:00:36.054333+00:00",
  "posts": [
+  {
+   "id": "f8ef79acd3bcd6b9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia shuts down Jensen Huang’s comeback plans after his public offer to return",
+   "excerpt": "Nvidia‘s board has just made it clear that its former CEO Jensen Huang is not coming back to run the company, despite the massive support he has received from some of the biggest names in Silicon Valley. Interim CEO Colette Kress confirmed the decision during an interview with CNBC’s Jim Cramer on Tuesday, just hours […]",
+   "url": "https://www.digitaltrends.com/computing/nvidia-rejects-jensen-huang-ceo-comeback/?.tsrc=rss",
+   "published": "2026-11-21T09:34:53+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 이사회는 젠슨 황의 복귀 계획을 거부했다고 밝혔다.",
+    "임시 CEO 콜레트 크레스가 인터뷰를 통해 이 같은 결정을 확인했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "dfd23dcce2b35323",
    "kind": "news",
@@ -78087,25 +78105,6 @@
     "화이자와 애브비가 헬스케어 배당주로서 서로 다른 매력을 지니고 있다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "7bbeed961e72c11d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Scott Galloway Predicts Anthropic’s First Trade Opens “15% to 40% Higher.” That’s Great News for Alphabet and Amazon",
-   "excerpt": "Key TakeawaysScott Galloway expects Anthropic’s Nov. 19 debut to open 15% to 40% above its IPO price.",
-   "url": "https://www.tikr.com/blog/scott-galloway-predicts-anthropics-first-trade-opens-15-to-40-higher-thats-great-news-for-alphabet-and-amazon?ref=yahoofinance&tlnk=yf-261114-5vwf9544&.tsrc=rss",
-   "published": "2026-11-14T09:50:43+00:00",
-   "tickers": [
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "스콧 갤러웨이는 앤스로픽의 첫 거래가 공모가보다 15%에서 40% 높게 시작할 것으로 전망했다.",
-    "이러한 전망이 알파벳과 아마존에는 호재가 될 것이라고 언급했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
