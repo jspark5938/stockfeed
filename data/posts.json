@@ -1,6 +1,98 @@
 {
- "updated": "2026-11-21T12:00:36.961511+00:00",
+ "updated": "2026-11-21T12:30:31.934587+00:00",
  "posts": [
+  {
+   "id": "dcd6e13a4a058856",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang's next move: Wall Street floats Intel and SpaceX, but bettors are banking on a surprise second act",
+   "excerpt": "Prediction markets think Huang is likelier to start something new than to join Intel or SpaceX.",
+   "url": "https://finance.yahoo.com/markets/article/jensen-huangs-next-move-wall-street-floats-intel-and-spacex-but-bettors-are-banking-on-a-surprise-second-act-123015670.html?.tsrc=rss",
+   "published": "2026-11-21T12:30:15+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "월가에서는 젠슨 황의 다음 행보로 인텔과 스페이스X를 거론했다.",
+    "예측 시장에서는 그가 기존 기업 합류보다 새로운 도전을 할 가능성을 더 높게 보았다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2fb321760fda5ca4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Bank of America Stock a Buy at 25% Below Its 52-Week High?",
+   "excerpt": "Bank of America has underperformed its large bank peers.",
+   "url": "https://www.fool.com/investing/2026/11/21/is-bank-of-america-stock-a-buy-about-25-below-its-52-week-high/?.tsrc=rss",
+   "published": "2026-11-21T12:20:02+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카 주가가 52주 최고가 대비 25% 하락한 상태를 조명했다.",
+    "대형 은행 동종 업체들에 비해 부진한 성과를 기록했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "c2517d18560a73ff",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘End of boom & AI euphoria’: Bank of America says money managers cut tech bets by the most since 2006. Are you ready?",
+   "excerpt": "It turns out that whether you were planning to or not, you’re almost certainly betting on AI in your portfolio.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/end-boom-ai-euphoria-bank-122000896.html?.tsrc=rss",
+   "published": "2026-11-21T12:20:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카는 펀드매니저들의 기술주 투자 축소 폭이 2006년 이후 가장 컸다고 전했다.",
+    "이를 두고 AI 열풍과 호황의 끝이라는 시각을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "502dc28ef73ebdd2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Airbnb (ABNB) Stock Could Be 47% Undervalued Following Hotel Growth Push",
+   "excerpt": "Airbnb has delivered a strong 49.1% share price gain over the past year, even as headlines range from AI travel tools to new hotel partnerships and regulatory questions around its use of Chinese AI models. With the stock recently closing at US$170.36, the live question for investors is whether that price can be supported by the cash Airbnb is expected to generate over time. The 49.1% return over the past 12 months puts real weight on whether Airbnb's current share price lines up with what...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-stock-could-47-121412504.html?.tsrc=rss",
+   "published": "2026-11-21T12:14:12+00:00",
+   "tickers": [
+    "ABNB"
+   ],
+   "summary_ko": [
+    "에어비앤비가 호텔 성장 추진 등에 힘입어 지난 1년간 주가 상승을 기록했다고 다뤘다.",
+    "현재 주가가 향후 창출할 현금 흐름을 정당화할 수 있는지가 투자자들의 주요 관심사라고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7ab77baa6b13d738",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Just Issued a Major Warning to AMD and Intel Stock Investors",
+   "excerpt": "Nvidia is making terrific progress in a market where Intel and AMD have been enjoying impressive growth.",
+   "url": "https://www.fool.com/investing/2026/11/21/nvidia-just-issued-a-major-warning-to-amd-and-intel-stock-investors/?.tsrc=rss",
+   "published": "2026-11-21T12:14:02+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD",
+    "INTC"
+   ],
+   "summary_ko": [
+    "엔비디아가 AMD와 인텔 주주들에게 주요 경고를 보냈다고 전했다.",
+    "엔비디아가 인텔과 AMD가 성장해온 시장에서 엄청난 진전을 보이고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "7d50c4b0da1e9d40",
    "kind": "news",
@@ -18,6 +110,24 @@
     "반면 다른 3개 종목은 수혜를 볼 것이라고 전망했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "b2c2388887c876c1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘Near Zero Chance’: Gary Black Explains Why Nvidia Board Won’t Reconsider Jensen Huang, Crypto Bettors See This Outcome",
+   "excerpt": "Investor Gary Black dismissed speculation on Wednesday that the NVIDIA Corp. board would reinstate ousted CEO Jensen Huang and cryptocurrency punters seem to agree. ‘The Board Would Look Like Clowns’ Black responded to X user Farzad, who finds it “pretty...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/near-zero-chance-gary-black-112646919.html?.tsrc=rss",
+   "published": "2026-11-21T11:26:46+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "개리 블랙은 엔비디아 이사회 가 젠슨 황을 재선임할 가능성이 희박하다고 밝혔다.",
+    "암호화폐 베팅 참가자들도 이러한 전망에 동의하고 있다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "15f2302974d32fc9",
@@ -78068,129 +78178,6 @@
    ],
    "summary_ko": [
     "제이미 다이먼 CEO가 외부 AI 에이전트의 JP모간 계좌 접근을 차단했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ce6b0d0f0e7135c9",
-   "kind": "youtube",
-   "source": "Everything Money",
-   "author": "Everything Money",
-   "title": "Every Stock Michael Burry Is Betting Against Right Now (5 Big Shorts)",
-   "excerpt": "This past Thursday, chip stocks got absolutely crushed. Nvidia fell about 9%. AMD and Micron each dropped around 17% — in a single day. And one of the most famous investors alive, the man who predicted the 2008 housing crash, had already placed a big bet against those exact kinds of stocks. His name is Michael Burry. But here’s the twist: while he’s betting against a whole pile of popular stocks, he’s also buying one of them hand over fist. Today we’ll walk through every position — and what it can teach you. ⬇️ Download your FREE Guide all of Michael Burry's positions from this video: 📊 Want to know what a stock is actually worth before you buy? Try the Everything Money stock analyzer for 7 days: 👉 👕 Dress like a Principle Driven Investor 💵 Fundamentals of Principle-Driven Investing 📈 Fund",
-   "url": "https://www.youtube.com/watch?v=su-89QfywrI",
-   "published": "2026-11-14T12:30:20+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD",
-    "MU"
-   ],
-   "summary_ko": [
-    "최근 엔비디아, AMD, 마이크론 등 반도체 주가가 급락한 가운데 마이클 버리가 이들 종목에 거액의 숏 베팅을 했다고 다뤘다.",
-    "그가 여러 인기 주식을 공매도하는 동시에 특정 주식은 대량으로 매수하고 있다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "1497a6f42ca906c3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Elon Musk, Trump, Kress, Nvidia’s Board On Jensen Huang’s Exit: Mag 7 Voices This Week",
-   "excerpt": "This week, Nvidia's Jensen Huang resigned as president, CEO, and a board member, just four days after the board publicly expressed confidence in his leadership.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-trump-kress-nvidia-board-on-jensen-huang-exit/cNbPJ1xR9Qk?.tsrc=rss",
-   "published": "2026-11-14T12:30:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 젠슨 황의 사임 배경과 주요 인사들의 반응을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "af7c68d50aea77e7",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/mastertofu",
-   "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
-   "excerpt": "Now that NVIDIA’s Jensen Huang is no longer the company CEO , we have some truth behind the exponential rise of semiconductor and memory prices. According to the latest findings, it appears that we were led to believe that there was an organic supply shortage, but in reality, we learn that Jensen was actually leveraging NVIDIA’s own balance sheet to finance AI startups and datacenter buildouts so they could absorb the company’s over-ordered semiconductor shipments from TSMC. NVIDIA faced an “avalanche” of excess TSMC silicon and memory, and the only way to curb the oversupply was to fund AI startups The fresh revelations stem from a tense August 2026 confrontation between Huang and NVIDIA’s longtime Chief Financial Officer, Colette Kress, now the interim CEO. Seeing as how the former head ",
-   "url": "https://www.reddit.com/r/stocks/comments/1xw124v/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
-   "published": "2026-11-14T12:18:08+00:00",
-   "tickers": [
-    "NVDA",
-    "TSM"
-   ],
-   "summary_ko": [
-    "과거 젠슨 황이 TSMC의 초과 공급 물량을 흡수하기 위해 AI 스타트업에 자금을 지원했다는 주장이 제기되었다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "bc1bc3493335ffc6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Costco Wholesale (COST) Director Resigned After Winning Rhode Island Governor Race",
-   "excerpt": "Costco Wholesale (NasdaqGS:COST) director Helena B. Foulkes has resigned from the board after being elected governor of Rhode Island. The company stated that Foulkes' departure was not related to any disagreement with Costco Wholesale or its management. Her exit alters the board's long serving membership mix and opens a seat that the retailer may look to fill. Costco Wholesale's story extends well beyond Helena B. Foulkes leaving the board to become Rhode Island governor. We have also...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-cost-director-resigned-121118459.html?.tsrc=rss",
-   "published": "2026-11-14T12:11:18+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코 이사 헬레나 폴크스가 로드아일랜드 주지사 당선으로 사임했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c91db3978b0fada2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Rivian Automotive And 2 EV Stocks To Watch",
-   "excerpt": "Inflation remains the key focus for central banks, and Federal Reserve Vice Chair Philip Jefferson has stressed that interest rate decisions will hinge on price pressures. Higher borrowing costs can punish balance sheets that depend heavily on cheap debt, but they also push investors toward businesses tied to long term structural shifts. This article highlights three electric vehicle related stocks from the screener that fit that kind of story driven opportunity. The three EV related stocks...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-2-ev-stocks-121003919.html?.tsrc=rss",
-   "published": "2026-11-14T12:10:03+00:00",
-   "tickers": [
-    "RIVN"
-   ],
-   "summary_ko": [
-    "금리와 인플레이션 상황 속에서 장기적 구조적 변화와 관련된 전기차 종목들을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "b6445e2c32c0dcfe",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Forget Elon Musk’s Tesla Roadster ‘Rocket’ — a Chinese rival has 7,000+ orders for its nearly $300K flying car, due 2027",
-   "excerpt": "The future promised by The Jetsons may not be as far away as you think.",
-   "url": "https://finance.yahoo.com/technology/articles/forget-elon-musk-tesla-roadster-120500645.html?.tsrc=rss",
-   "published": "2026-11-14T12:05:00+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "중국의 한 라이벌 기업이 2027년 출시 예정인 플라잉카 사전 주문을 7,000건 이상 받았다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4a9f0bbbe32d3828",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why a Rising TSMC Challenger Could Reshape the Chip Foundry Landscape",
-   "excerpt": "Japan's state-backed Rapidus is promising cheaper 2-nanometer chips, but it still has to prove that it can manufacture them.",
-   "url": "https://www.fool.com/investing/2026/11/14/why-a-rising-tsmc-challenger-could-reshape-the-chi/?.tsrc=rss",
-   "published": "2026-11-14T12:04:00+00:00",
-   "tickers": [
-    "TSM"
-   ],
-   "summary_ko": [
-    "일본의 라피두스가 더 저렴한 2나노미터 칩 생산을 공언했으나 제조 능력을 증명해야 한다고 다뤘다."
    ],
    "tone": "neu"
   }
