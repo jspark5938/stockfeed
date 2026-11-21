@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-21T03:30:29.953565+00:00",
+ "updated": "2026-11-21T03:57:17.607728+00:00",
  "posts": [
+  {
+   "id": "d7d454ea97c5dc79",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is CoreWeave (CRWV) Fairly Valued After Fresh MLPerf Results?",
+   "excerpt": "CoreWeave (CRWV) is back in focus after publishing fresh MLPerf Training v6.1 results that feature the first multi-rack NVIDIA Vera Rubin NVL72 benchmarks from any cloud provider, highlighting its AI infrastructure capabilities. Despite CoreWeave’s latest MLPerf results and recent product launches, sentiment has cooled, with the share price at $39.46 and the stock recording a 1-day share price return of down 12.1%, a 30-day share price return of down 36.2%, and a 1-year total shareholder...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-fairly-valued-fresh-031612848.html?.tsrc=rss",
+   "published": "2026-11-21T03:16:12+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "코어위브는 최근 새로운 MLPerf 훈련 결과를 발표하며 AI 인프라 역량을 강조했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "3fb988d49a7b35f7",
    "kind": "news",
@@ -78035,58 +78052,6 @@
     "모건스탠리는 알파벳의 TPU 매출이 크게 증가할 것으로 전망했다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "8a698e46dad6d432",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron Jumps 12% as CoreWeave’s “Breakout Quarter” Revives the Memory Trade",
-   "excerpt": "Key TakeawaysMicron shares jumped about 12% on November 11 after CoreWeave’s strong quarter, a week after falling about 17% on a Bloomberg report that Micron paused a Taiwan fab. The Taoyuan plant was budgeted at up to $4.",
-   "url": "https://www.tikr.com/blog/micron-jumps-12-as-coreweaves-breakout-quarter-revives-the-memory-trade?ref=yahoofinance&tlnk=yf-261114-rp2r842h&.tsrc=rss",
-   "published": "2026-11-14T03:50:27+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론 주가는 코어위브의 호실적에 힘입어 상승했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b5c0f15e60d97099",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Michael Burry: The Real Nvidia Story Is “an Avalanche of Chips”",
-   "excerpt": "Key TakeawaysJensen Huang reportedly called Nvidia’s wafer and memory commitments an “avalanche. ” Michael Burry reads it as chips flooding Nvidia.",
-   "url": "https://www.tikr.com/blog/michael-burry-the-real-nvidia-story-is-an-avalanche-of-chips?ref=yahoofinance&tlnk=yf-261116-xg4p52m3&.tsrc=rss",
-   "published": "2026-11-14T03:44:29+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황이 엔비디아의 웨이퍼 및 메모리 약속을 언급했다고 다뤘다.",
-    "마이클 버리는 이를 칩이 엔비디아로 쏟아지는 것으로 해석했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "af0c78fa92a7339e",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/Sweaty_Slide",
-   "title": "NVDA earnings play",
-   "excerpt": "I have no dd, literally decided on this over dinner with friends. If it goes badly at least I can play gta 6 on Thursday……. submitted by /u/Sweaty_Slide to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvs85t/nvda_earnings_play/",
-   "published": "2026-11-14T03:35:33+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "특별한 분석 없이 지인들과의 저녁 식사 자리에서 엔비디아 실적 관련 베팅을 결정했다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
