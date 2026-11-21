@@ -1,6 +1,92 @@
 {
- "updated": "2026-11-21T22:30:34.732064+00:00",
+ "updated": "2026-11-21T23:00:40.080827+00:00",
  "posts": [
+  {
+   "id": "8672fdbab1f8af41",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
+   "excerpt": "Nvidia (NASDAQ: $NVDA) plunged 14% on Friday and the Nasdaq Composite lost 5.3%, capping the index's worst week...",
+   "url": "https://www.cryptoprowl.com/releases/nvidia-falls-48-from-peak-as-ai-selloff-spreads-to-bitcoin-and-crypto-8017?.tsrc=rss",
+   "published": "2026-11-21T22:50:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "AI 관련 매도세가 비트코인과 암호화폐로 확산되면서 엔비디아가 고점에서 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "5f1fa688823e3ca2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia's new China threat could reach your 401(k)",
+   "excerpt": "A California investigation raises fresh questions for Americans holding the AI giant through retirement funds.",
+   "url": "https://www.thestreet.com/retirement/nvidias-new-china-threat-could-reach-your-401k?.tsrc=rss",
+   "published": "2026-11-21T22:47:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캘리포니아주의 조사가 은퇴 자금으로 엔비디아를 보유한 미국인들에게 새로운 의문을 제기한다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ca20a546608856ce",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Shopify vs. Uber Technologies: Which Technology Stock Is a Better Buy?",
+   "excerpt": "Shopify's revenue surge and Uber's free cash flow make for a sharp contrast, but one future opportunity may settle which stock to own.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/21/shopify-vs-uber-technologies-which-technology-stock-is-a-better-buy/?.tsrc=rss",
+   "published": "2026-11-21T22:40:02+00:00",
+   "tickers": [
+    "UBER",
+    "SHOP"
+   ],
+   "summary_ko": [
+    "쇼피피의 매출 급증과 우버의 잉여 현금 흐름을 비교하며 더 나은 기술주를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "8c14384eac9b1c38",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oklo vs. NuScale Power: Which Nuclear Stock Is a Better Buy?",
+   "excerpt": "Two nuclear upstarts with very different paths to market.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/21/oklo-vs-nuscale-power-which-nuclear-stock-is-a-better-buy/?.tsrc=rss",
+   "published": "2026-11-21T22:39:01+00:00",
+   "tickers": [
+    "OKLO"
+   ],
+   "summary_ko": [
+    "서로 다른 시장 진입 경로를 가진 두 원전 신생 기업을 비교했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0877f8766c496f24",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Novo Nordisk's Wegovy Pill Is Capturing 80% of New Oral Obesity Prescriptions. Is NVO Stock a Buy?",
+   "excerpt": "Novo Nordisk's GLP-1 pill is performing incredibly well, which is a good sign if you are considering buying the stock.",
+   "url": "https://www.fool.com/investing/2026/11/21/novo-nordisks-wegovy-pill-is-capturing-80-of-new-oral-obesity-prescriptions-is-nvo-stock-a-buy/?.tsrc=rss",
+   "published": "2026-11-21T22:35:02+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "summary_ko": [
+    "노보 노디스크의 경구용 비만 치료제 웨고비 알약이 신규 처방의 다수를 차지하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "c0087e8545889129",
    "kind": "news",
@@ -78839,94 +78925,6 @@
     "S&P 500 인덱스 펀드를 통해 AI 위험을 분산하더라도 특정 기업에 대한 과도한 노출 위험이 있을 수 있다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "49732ce8698a0ee8",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/GrokkingTroika",
-   "title": "Saylor's done it again! Bitcoin craters over 25% since the same month of MSTR's Q2 Earnings release. Bitcoin down nearly 6% on the session",
-   "excerpt": "MSCI to officially remove MSTR from its indexes by the end of this month. submitted by /u/GrokkingTroika to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwfswx/saylors_done_it_again_bitcoin_craters_over_25/",
-   "published": "2026-11-14T22:58:56+00:00",
-   "tickers": [
-    "MSTR"
-   ],
-   "summary_ko": [
-    "마이크로스트레티지(MSTR)가 MSCI 지수에서 공식적으로 제외될 예정이라고 전했다.",
-    "실적 발표 이후 비트코인 가격이 큰 폭으로 하락했다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "4cd300f0e1cf51cd",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/erebuxy",
-   "title": "Singaporean Government’s Clarification Statement on Wall Street Journal’s Article",
-   "excerpt": "Singaporean government disputes claims made by WSJ. The Nvidia war really heats up. submitted by /u/erebuxy to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwfmsx/singaporean_governments_clarification_statement/",
-   "published": "2026-11-14T22:51:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "싱가포르 정부가 월스트리트저널의 보도 내용에 대해 반박 성명을 냈다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "57f20253c37c122d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Elon Musk's Tesla and SpaceX Lost More Than $420 Billion in Combined Market Value in Two Days After Democrats Swept the Midterms, With Investors Fearing New Congressional Probes. Here's Why That Political Risk Matters for Shareholders",
-   "excerpt": "Given the nature of their businesses, Tesla and SpaceX's exposure to political risk won't subside anytime soon.",
-   "url": "https://www.fool.com/investing/2026/11/14/elon-musks-tesla-and-spacex-lost-more-than-420-billion-in-combined-market-value-in-two-days-after-democrats-swept-the-midterms-with-investors-fearing-new-congressional-probes-heres-why-that-political-risk-matters-for-shareholders/?.tsrc=rss",
-   "published": "2026-11-14T22:48:02+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "민주당의 중간선거 승리 이후 테슬라와 스페이스X의 시가총액이 크게 감소했다고 다뤘다.",
-    "정치적 리스크가 주주들에게 미치는 영향에 대한 우려를 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "d56dd8ae5db371db",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/PyloPower",
-   "title": "Are all you Nvidia doomers sitting on all cash?",
-   "excerpt": "This subreddit is now filled with saying nvidia its financials are about to collapse because demand & pricing power will fall off a cliff etc. Are all of you sitting on all cash? If nvidia margins & demand truly collapse, everything that smells like a chip stock will collapse with it. Nvidia still makes the best chips in the world, their prices determine whateveryone else can charge. Margins will go back for everyone if nvidia loses. After, if nvidia collapses everything that smells like AI but isn't printing money yet will collapse because it will cast fundamental doubts on which companies can make it to become profitable. You think people will suddenly be willing to wait to see how margins will improve after chip costs decrease? No, everyone would panic and assume AI is losing interest a",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwfbgr/are_all_you_nvidia_doomers_sitting_on_all_cash/",
-   "published": "2026-11-14T22:36:34+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 재무 건전성 붕괴 우려와 함께 칩 수요 감소 가능성을 언급했다.",
-    "엔비디아가 무너질 경우 관련 AI 및 반도체 주식도 큰 타격을 받을 것이라고 주장했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ead42e4d9bb02df6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "“Being Prudent”: TSMC Stock Has Surged 41% in a Year. Is It Too Late to Buy?",
-   "excerpt": "Key TakeawaysTaiwan Semiconductor Manufacturing (TSM) has gained 41% over the past year, closing at $398. 73 on November 13, but remains 18% below its 52-week high.",
-   "url": "https://www.tikr.com/blog/being-prudent-tsmc-stock-has-surged-41-in-a-year-is-it-too-late-to-buy?ref=yahoofinance&tlnk=yf-261114-6285hcp3&.tsrc=rss",
-   "published": "2026-11-14T22:30:54+00:00",
-   "tickers": [
-    "TSM"
-   ],
-   "summary_ko": [
-    "TSMC 주가가 지난 1년간 41% 상승했다고 전했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
