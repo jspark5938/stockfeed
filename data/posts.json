@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-21T09:00:38.260813+00:00",
+ "updated": "2026-11-21T09:30:30.607251+00:00",
  "posts": [
+  {
+   "id": "dfd23dcce2b35323",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Could SpaceX Be the Ultimate Winner of the Nvidia-Jensen Huang Split?",
+   "excerpt": "Terafab could be Jensen Huang's new home.",
+   "url": "https://www.fool.com/investing/2026/11/21/could-spacex-be-the-ultimate-winner-of-the-nvidia-and-jensen-huang-split/?.tsrc=rss",
+   "published": "2026-11-21T09:20:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "스페이스X가 엔비디아 젠슨 황의 분할에서 최고의 수혜자가 될 수 있는지 다뤘다.",
+    "테라팹이 젠슨 황의 새로운 거처가 될 수 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "9141663d0b53af19",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Airbnb (ABNB) Pulls Back On A Richer Valuation Narrative",
+   "excerpt": "Airbnb (ABNB) has drawn fresh attention after its recent share performance, with the stock down 1.4% on the day and lower over the past week and over the past 3 months. Despite the recent pullback, Airbnb’s momentum over the past year remains strong. The share price shows a 28.08% year-to-date gain and total shareholder return of 49.10% over 12 months, while the 90-day share price return of 9.04% indicates some cooling in shorter-term sentiment. Look past Airbnb’s recent swing and evaluate...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-pulls-back-richer-091205414.html?.tsrc=rss",
+   "published": "2026-11-21T09:12:05+00:00",
+   "tickers": [
+    "ABNB"
+   ],
+   "summary_ko": [
+    "에어비앤비 주가는 최근 하락세를 보였으나 연초 이후로는 상승세를 유지하고 있다.",
+    "최근 주가 하락과 단기적인 투자 심리 냉각에 주목했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "9d20f059b08521cb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AMD vs. Nvidia: Which AI Chip Stock Is the Better Buy on the Dip?",
+   "excerpt": "AMD and Nvidia both got hammered this month. Only one is the better bargain.",
+   "url": "https://www.fool.com/investing/2026/11/21/amd-vs-nvidia-which-ai-chip-stock-is-the-better-buy-on-the-dip/?.tsrc=rss",
+   "published": "2026-11-21T08:50:02+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": [
+    "이달 하락세를 겪은 AMD와 엔비디아 중 어느 AI 칩 주식이 더 나은 저가 매수 기회인지 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "67b11ab675fae557",
    "kind": "news",
@@ -3260,6 +3314,24 @@
     "마이크론 주가가 한 달 동안 32% 하락한 가운데 향후 주가 추이를 조명했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "21be5c5e1250229a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron’s President Says AI Could Let It Do “Twice as Many Designs” With the Same Number of People",
+   "excerpt": "Key TakeawaysMicron president Scott DeBoer says Micron is targeting designs in half the time, and twice as many with the same staff. Micron lifted R&D 49% to $5.",
+   "url": "https://www.tikr.com/blog/microns-president-says-ai-could-let-it-do-twice-as-many-designs-with-the-same-number-of-people?ref=yahoofinance&tlnk=yf-261121-p738qh94&.tsrc=rss",
+   "published": "2026-11-20T18:53:31+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론의 스콧 디보어 사장은 AI를 통해 같은 인원으로 두 배의 설계를 수행할 수 있다고 밝혔다.",
+    "연구개발비를 크게 늘리며 설계 기간 단축을 목표로 하고 있다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "4d751247e2123e3f",
@@ -78034,95 +78106,6 @@
     "이러한 전망이 알파벳과 아마존에는 호재가 될 것이라고 언급했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "019f3ed64d0769f6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Wall Street Has Nearly Halved Its Coinbase Target. Cantor Fitzgerald Still Sees 57% Upside",
-   "excerpt": "Key TakeawaysCantor Fitzgerald kept its Overweight rating and $200 price target on Coinbase on Nov. 12, 57% above the stock’s price after a 58% drop over the past year.",
-   "url": "https://www.tikr.com/blog/wall-street-has-nearly-halved-its-coinbase-target-cantor-fitzgerald-still-sees-57-upside?ref=yahoofinance&tlnk=yf-261114-gr5jqpf9&.tsrc=rss",
-   "published": "2026-11-14T09:30:18+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "월스트리트는 코인베이스의 목표주가를 거의 절반으로 낮췄다고 다뤘다.",
-    "반면 캔터 피츠제럴드는 여전히 57%의 상승 여력이 있다고 보았다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "79b7cb64f06145d5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "ASML Soars 10% in a Week as Chip Stocks Bounce and Musk’s Terafab Eyes a Million Wafers",
-   "excerpt": "Key TakeawaysASML stock is up 10% in the past week as chip stocks rebounded and Musk’s Terafab reportedly set a target of 1 million wafers a month. Applied Materials and TSMC gained even more, so most of ASML’s jump came with the group.",
-   "url": "https://www.tikr.com/blog/asml-soars-10-in-a-week-as-chip-stocks-bounce-and-musks-terafab-eyes-a-million-wafers?ref=yahoofinance&tlnk=yf-261114-g2565jf3&.tsrc=rss",
-   "published": "2026-11-14T09:26:35+00:00",
-   "tickers": [
-    "TSM",
-    "ASML"
-   ],
-   "summary_ko": [
-    "반도체주 반등과 함께 ASML 주가가 일주일 동안 10% 상승했다고 다뤘다.",
-    "대부분의 상승세는 그룹 전반의 흐름과 함께 이루어졌다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d48e1996b6a495ef",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang Misled Nvidia Leadership, Lawyer On Affair With Alleged Chinese Spy: Report",
-   "excerpt": "According to a Reuters report, Huang repeatedly characterized his interactions with Alice Huang as routine business dealings.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-mislead-nvidia-leadership-lawyer-affair-chinese-spy/cNbP5mxR9Q0?.tsrc=rss",
-   "published": "2026-11-14T09:25:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "로이터 보도에 따르면 젠슨 황이 중국계 스파이 의혹을 받는 인물과의 관계를 통상적인 업무 거래로 거듭 설명했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "6084dbd96705c455",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Oklo Has Lost 76% in a Year. Wall Street Still Sees $56. Bullish Wedbush Sees Just $36",
-   "excerpt": "Key TakeawaysOklo has lost 76% in a year, and analysts’ average price target has fallen from $103 to $56. Wedbush repeated its Outperform rating and $36 target on Nov.",
-   "url": "https://www.tikr.com/blog/oklo-has-lost-76-in-a-year-wall-street-still-sees-56-bullish-wedbush-sees-just-36?ref=yahoofinance&tlnk=yf-261114-xwxf2ggx&.tsrc=rss",
-   "published": "2026-11-14T09:24:06+00:00",
-   "tickers": [
-    "OKLO"
-   ],
-   "summary_ko": [
-    "오클로는 지난 1년간 주가가 76% 하락했으며 평균 목표주가도 낮아졌다고 다뤘다.",
-    "웨드부시는 오클로에 대해 아웃퍼폼 등급과 36달러의 목표주가를 유지했다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "da1e7d8414c106dc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "‘They’re Getting Insider Information From Costco Employees’: Inside the Pokemon Card Line Where Resellers Buy Executive Memberships",
-   "excerpt": "Resellers are queuing at Costco returns desks, swapping outfits to rejoin the line and paying for Discord tips on the next Pokemon drop. Before you copy them, check whether the Executive upgrade they all buy actually pays off.",
-   "url": "https://247wallst.com/personal-finance/2026/11/14/theyre-getting-insider-information-from-costco-employees-inside-the-pokemon-card-line-where-resellers-buy-executive-memberships/?.tsrc=rss",
-   "published": "2026-11-14T09:07:29+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "재판매업자들이 코스트코에서 포켓몬 카드 구매를 위해 줄을 서고 있다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
