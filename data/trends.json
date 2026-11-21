@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:30:31.130073+00:00",
+ "updated": "2026-11-21T06:00:37.027524+00:00",
  "trends": [
   {
    "ticker": "SNOW",
@@ -25,9 +25,9 @@
   {
    "ticker": "META",
    "name_ko": "메타",
-   "mentions_24h": 14,
+   "mentions_24h": 15,
    "mentions_prev_24h": 7,
-   "ratio": 2.0
+   "ratio": 2.14
   },
   {
    "ticker": "MSTR",
@@ -100,6 +100,13 @@
    "ratio": 1.29
   },
   {
+   "ticker": "JPM",
+   "name_ko": "JP모건",
+   "mentions_24h": 18,
+   "mentions_prev_24h": 15,
+   "ratio": 1.2
+  },
+  {
    "ticker": "NKE",
    "name_ko": "나이키",
    "mentions_24h": 13,
@@ -114,13 +121,6 @@
    "ratio": 1.18
   },
   {
-   "ticker": "JPM",
-   "name_ko": "JP모건",
-   "mentions_24h": 18,
-   "mentions_prev_24h": 16,
-   "ratio": 1.12
-  },
-  {
    "ticker": "ORCL",
    "name_ko": "오라클",
    "mentions_24h": 13,
@@ -131,8 +131,8 @@
    "ticker": "NVDA",
    "name_ko": "엔비디아",
    "mentions_24h": 172,
-   "mentions_prev_24h": 162,
-   "ratio": 1.06
+   "mentions_prev_24h": 161,
+   "ratio": 1.07
   },
   {
    "ticker": "AAPL",
@@ -184,11 +184,25 @@
    "ratio": 1.0
   },
   {
+   "ticker": "TSLA",
+   "name_ko": "테슬라",
+   "mentions_24h": 31,
+   "mentions_prev_24h": 34,
+   "ratio": 0.91
+  },
+  {
    "ticker": "NFLX",
    "name_ko": "넷플릭스",
    "mentions_24h": 10,
    "mentions_prev_24h": 11,
    "ratio": 0.91
+  },
+  {
+   "ticker": "MSFT",
+   "name_ko": "마이크로소프트",
+   "mentions_24h": 57,
+   "mentions_prev_24h": 63,
+   "ratio": 0.9
   },
   {
    "ticker": "DIS",
@@ -198,25 +212,11 @@
    "ratio": 0.9
   },
   {
-   "ticker": "TSLA",
-   "name_ko": "테슬라",
-   "mentions_24h": 31,
-   "mentions_prev_24h": 35,
-   "ratio": 0.89
-  },
-  {
    "ticker": "COIN",
    "name_ko": "코인베이스",
    "mentions_24h": 14,
    "mentions_prev_24h": 16,
    "ratio": 0.88
-  },
-  {
-   "ticker": "MSFT",
-   "name_ko": "마이크로소프트",
-   "mentions_24h": 55,
-   "mentions_prev_24h": 63,
-   "ratio": 0.87
   },
   {
    "ticker": "XOM",
@@ -243,8 +243,8 @@
    "ticker": "AMZN",
    "name_ko": "아마존",
    "mentions_24h": 53,
-   "mentions_prev_24h": 71,
-   "ratio": 0.75
+   "mentions_prev_24h": 69,
+   "ratio": 0.77
   },
   {
    "ticker": "GOOGL",
@@ -368,9 +368,9 @@
   {
    "ticker": "PANW",
    "name_ko": "팔로알토",
-   "mentions_24h": 11,
+   "mentions_24h": 12,
    "mentions_prev_24h": 37,
-   "ratio": 0.3
+   "ratio": 0.32
   },
   {
    "ticker": "QCOM",
