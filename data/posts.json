@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-21T14:30:31.754896+00:00",
+ "updated": "2026-11-21T15:00:41.865652+00:00",
  "posts": [
+  {
+   "id": "ea82d975a4dc2652",
+   "kind": "youtube",
+   "source": "Chip Stock Investor",
+   "author": "Chip Stock Investor",
+   "title": "AI Was Supposed to Kill #AppLovin",
+   "excerpt": "The narrative was that AI would decrease the need for AppLovin services of digital ads, but quite the contrary is happening. The more apps and games, the more opportunity to serve more targeted ads. — LINKS & RESOURCES — Join Semi Insider — $120/year Semi Insider is Chip Stock Investor's paid research service: all research as it happens, the CSI 100 + quarterly outlook, dashboard tools (Compare Companies, Reverse DCF, supply-chain mapping), weekly live Q&A, portfolio moves before execution, and the private Discord. Join: Free demo: All our links & socials: Content in this video is for general information or entertainment only and is not specific or individual investment advice. Forecasts and information presented may not develop as predicted and there is no guarantee any strategies present",
+   "url": "https://www.youtube.com/watch?v=K_baktEjPNI",
+   "published": "2026-11-21T15:00:12+00:00",
+   "tickers": [
+    "APP"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "ee1ff58ff0c6f9b0",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Wall Street Confronts AI Reality Check",
+   "excerpt": "Bloomberg US equities reporter Natalia Kniazhevich tells Bloomberg This Weekend that Anthropic’s record IPO failed to reverse deteriorating market sentiment as investors grapple with Nvidia turmoil, AI spending concerns and selling by systematic funds. Speaking with hosts David Gura and Christina Ruffini, Kniazhevich explains why Goldman Sachs’ Panic Index has reached 9 out of 10 and what heavy positioning, weak liquidity and a wave of potential new stock issuance could mean for markets. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Faceb",
+   "url": "https://www.youtube.com/watch?v=60hFHZ1wvlw",
+   "published": "2026-11-21T14:49:34+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "afe4190f85986c6b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Says ‘I Told You So’ as Wall Street Caught Off Guard by AI Selloff",
+   "excerpt": "Nvidia, CoreWeave, and Nebius are sliding while Michael Burry takes a victory lap. But a closer look at Microsoft and Amazon shows the AI boom's real fault line may run somewhere few investors are watching.",
+   "url": "https://247wallst.com/investing/2026/11/21/michael-burry-says-i-told-you-so-as-wall-street-caught-off-guard-by-ai-selloff/?.tsrc=rss",
+   "published": "2026-11-21T14:44:59+00:00",
+   "tickers": [
+    "NVDA",
+    "MSFT",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "86e1427d322fa4fe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ASML vs. Broadcom: Which Tech Stock Is a Better Buy for 2027?",
+   "excerpt": "ASML's near-monopoly on chip-printing machines faces off against Broadcom's networking empire, with a sharp valuation gap complicating the choice for growth investors.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/21/asml-vs-broadcom-which-tech-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-21T14:41:02+00:00",
+   "tickers": [
+    "AVGO",
+    "ASML"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "c85caa12e72c6707",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CME vs. Robinhood Markets: Which Financial Stock Is a Better Buy for 2027?",
+   "excerpt": "Robinhood's revenue grew far faster than CME's over the latest 12 months, yet its debt load tells a very different story about financial risk.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/21/cme-vs-robinhood-markets-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-21T14:40:02+00:00",
+   "tickers": [
+    "HOOD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "fc829ed190cd258f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: This Will Be Micron’s Stock Price by the End of 2028",
+   "excerpt": "Is Micron's low valuation an attractive entry point?",
+   "url": "https://www.fool.com/investing/2026/11/21/prediction-this-will-be-microns-stock-price-by-the-end-of-2028/?.tsrc=rss",
+   "published": "2026-11-21T14:35:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "1b52c08f5965e517",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Databricks Wants a $225 Billion Valuation Even as AI Stocks Slide",
+   "excerpt": "While chip stocks crater, a private data giant is reportedly shopping for a far richer price tag. Its public rival, Snowflake, now faces a December 2 earnings test that could expose which valuation is wrong.",
+   "url": "https://247wallst.com/investing/2026/11/21/databricks-wants-a-225-billion-valuation-even-as-ai-stocks-slide/?.tsrc=rss",
+   "published": "2026-11-21T14:32:46+00:00",
+   "tickers": [
+    "SNOW"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "c4cb9375567a1d10",
+   "kind": "youtube",
+   "source": "Brighter with Herbert",
+   "author": "Brighter with Herbert",
+   "title": "Tesla Just Made A Move China Won’t Like",
+   "excerpt": "🚀 Serious $TSLA or SpaceX investor? Try Brighter Finance free: Tesla polysilicon refinery plans: a $3.1 billion Texas plant to purify silicon for solar cells, a material China makes more than 90% of today. Cern Basher is a chartered financial analyst running his own investment advisory firm called BrilliantAdvice providing wealth management services. Follow Cern on X: ━━━━━━━━━━━━━━ 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Get better slee",
+   "url": "https://www.youtube.com/watch?v=oX39Za67KyM",
+   "published": "2026-11-21T14:30:39+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "e9a52516c0aa6685",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Mogharabi: NVDA Earnings Surge \"Green Light\" for AI, Gross Margins Key Concern",
+   "excerpt": "Ali Mogharabi says strong earnings from Nvidia (NVDA) were largely expected, but the key question is whether interim CEO Colette Kress can scale the outlook. He’s watching gross margins as demand for lower prices pressure profits. While he calls the report the “green light” the AI trade needed, he’s waiting for the dust to settle and looking to other sectors benefiting from AI. Segment originally aired Tuesday, November 17, 2026. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #jensenhuang #earnings #eco",
+   "url": "https://www.youtube.com/watch?v=MyZuOb6Y9YU",
+   "published": "2026-11-21T14:30:21+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "ba5e160d2952e545",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 AI Infrastructure Stocks to Watch Before Broadcom Reports on Dec. 9",
+   "excerpt": "One chip giant's earnings call could swing the power plants feeding every AI data center. We ranked three infrastructure plays by beats, guidance, and customer wins, and the winner may not be the one with the biggest earnings surprise.",
+   "url": "https://247wallst.com/investing/2026/11/21/3-ai-infrastructure-stocks-to-watch-before-broadcom-reports-on-dec-9/?.tsrc=rss",
+   "published": "2026-11-21T14:27:15+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "72b0b9f65fcfb90a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palantir Just Dropped 25% in a Month. Is It Time to Sell, or Load Up?",
+   "excerpt": "Key TakeawaysPalantir stock fell 25% in the past month, even though third-quarter revenue grew 96% and the company raised its full-year guidance. Slower bookings, worries about the Pentagon budget under a Democratic Congress, and Anthropic’s IPO gave investors reasons to pay less, while Datadog fell even further in the same AI software selloff.",
+   "url": "https://www.tikr.com/blog/palantir-just-dropped-25-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261121-gwq24w5f&.tsrc=rss",
+   "published": "2026-11-21T14:22:35+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "b87de29566bb07d2",
    "kind": "news",
@@ -15,7 +195,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "c3c6c56709c07089",
@@ -28,6 +208,38 @@
    "published": "2026-11-21T14:13:54+00:00",
    "tickers": [
     "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 2
+  },
+  {
+   "id": "7b0610a66b9816a8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba’s AI Cloud Revenue Jumped 53%. The Problem? Free Cash Flow.",
+   "excerpt": "Key TakeawaysAlibaba’s AI cloud revenue rose 53%, but adjusted earnings of 8. 10 yuan per ADS missed estimates of about 11 yuan.",
+   "url": "https://www.tikr.com/blog/alibabas-ai-cloud-revenue-jumped-53-the-problem-free-cash-flow?ref=yahoofinance&tlnk=yf-261121-v738h922&.tsrc=rss",
+   "published": "2026-11-21T14:11:10+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "d3683e9ff9b12253",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet (GOOGL) Nears $84.8 Billion Raise As It Weighs $3 Billion Settlement",
+   "excerpt": "Alphabet (NasdaqGS:GOOGL) is in principle preparing a YouTube settlement of about US$3b with thousands of US school districts over student addiction claims. The proposed YouTube agreement would include new safeguards for teen users and still requires final documentation and court approval. Alphabet is moving toward an equity issuance of around US$84.8b aimed at funding AI infrastructure instead of prioritising share repurchases. The YouTube student addiction settlement talks and the planned...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-nears-84-8-141006047.html?.tsrc=rss",
+   "published": "2026-11-21T14:10:06+00:00",
+   "tickers": [
+    "GOOGL"
    ],
    "summary_ko": null,
    "tone": null,
@@ -48,6 +260,37 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 1
+  },
+  {
+   "id": "fa9aa5390d950aba",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Eli Lilly Is Near Its High. Bank of America Sees Another 19%",
+   "excerpt": "Key TakeawaysBank of America raised its Eli Lilly price target to $1,600 from $1,557 on Nov. 19 and kept its Buy rating.",
+   "url": "https://www.tikr.com/blog/eli-lilly-is-near-its-high-bank-of-america-sees-another-19?ref=yahoofinance&tlnk=yf-261121-xqv3g997&.tsrc=rss",
+   "published": "2026-11-21T14:09:54+00:00",
+   "tickers": [
+    "BAC",
+    "LLY"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1e92fb53145ba656",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "MercadoLibre Has Disappointed for a Year: Why Bank of America Still Sees 48% Upside",
+   "excerpt": "Key TakeawaysBank of America cut its MercadoLibre price target to $2,000 from $2,400 on Nov. 19 and kept its Buy rating, 48% above the Nov.",
+   "url": "https://www.tikr.com/blog/mercadolibre-has-disappointed-for-a-year-why-bank-of-america-still-sees-48-upside?ref=yahoofinance&tlnk=yf-261121-282c2629&.tsrc=rss",
+   "published": "2026-11-21T14:08:44+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "1aa31f8e0e4f306c",
@@ -596,6 +839,21 @@
     "세 기업 모두 잉여현금흐름의 일정 비율로 배당을 안정적으로 커버하고 있다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "c54123e55f891292",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $10 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysSteadfast Capital Management, which manages $10. 36 billion, added to Amazon, opened a stake in Burlington Stores and built up Mohawk Industries in the third quarter, its latest 13F shows.",
+   "url": "https://www.tikr.com/blog/a-10-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-8pccmh32&.tsrc=rss",
+   "published": "2026-11-21T10:49:40+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "f591f13f392074e9",
@@ -78345,147 +78603,6 @@
     "마이크로소프트가 전 세계적인 오피스 서비스 장애 이후 복구 작업이 진행 중이라고 밝혔다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "aac6628da9eb283e",
-   "kind": "youtube",
-   "source": "Fox Business",
-   "author": "Fox Business",
-   "title": "JENSEN HUANG OUSTED: Ex-CEO departs tech giant as scandals swirl | Recap",
-   "excerpt": "From Iranian assassination threats driving Treasury Secretary Scott Bessent to a military base and Jensen Huang's shock resignation as CEO of Nvidia to President Trump's strict tariff warning to Mexico over migrant caravans, FOX Business covered the top stories shaping business, national security and global politics. 0:00 | SCANDAL: Chang warns White House officials could be 'TAKEN DOWN' over Huang's affair 3:05 | 'UNCONSTITUTIONAL': Texas lawmaker calls for checks on gov-elect's emergency powers 6:44 | Nvidia is dropping a HUGE CLUE for investors: I/O Fund CEO 11:58 | Gen. Keane: Iranians CANNOT be taken lightly here 19:49 | 'LOCKED AND LOADED': Trump sends DIRECT message to Iran 26:27 | ASSASSINATION FEARS: Iranian threats DRIVE Bessent to fortified military base 31:03 | BREAKING: Jensen",
-   "url": "https://www.youtube.com/watch?v=FvycU7WHgvE",
-   "published": "2026-11-14T15:00:29+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO의 사임 소식과 관련 스캔들을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5cc2764e05567ef0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Analysts Think AMD Could Emerge as the Biggest Winner From Nvidia’s Turmoil",
-   "excerpt": "Nvidia's leadership turmoil could create a major opening for AMD as strong data-center growth and rising AI chip demand strengthen its competitive position.",
-   "url": "https://www.barchart.com/story/news/8837690/why-analysts-think-amd-could-emerge-as-the-biggest-winner-from-nvidias-turmoil?.tsrc=rss",
-   "published": "2026-11-14T15:00:03+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "엔비디아의 혼란이 AMD에 기회가 될 수 있다는 분석을 다뤘다.",
-    "데이터센터 성장과 AI 칩 수요가 AMD의 경쟁력을 강화한다고 보았다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "abce4150d7686623",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Tesla Is Pulling the Plug on Cybertruck",
-   "excerpt": "Elon Musk unveiled a prototype for the Cybertruck in 2019 with high expectations. Now, Tesla is winding down production of the polarizing pickup. WSJ explains what went wrong.",
-   "url": "https://finance.yahoo.com/video/why-tesla-pulling-plug-cybertruck-150000385.html?.tsrc=rss",
-   "published": "2026-11-14T15:00:00+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라가 사이버트럭 생산을 줄이고 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "4252988f733444cf",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Lawyers could pocket up to $100M of Amazon's $309.5M refund settlement — claims are due by Dec. 1",
-   "excerpt": "The deadline to submit a claim form or opt out of the class-action suit is fast approaching.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/lawyers-could-pocket-100m-amazons-150000256.html?.tsrc=rss",
-   "published": "2026-11-14T15:00:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존의 환급 합의금 중 변호사 보수와 청구 기한에 대해 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7a762211997db945",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "House Memo Targets Officials’ Prediction Market Bets",
-   "excerpt": "House Oversight memo targets officials’ prediction market bets. Robinhood’s $173M event contracts business shows the stakes.",
-   "url": "https://beincrypto.com/house-memo-officials-prediction-market-bets/?.tsrc=rss",
-   "published": "2026-11-14T14:55:39+00:00",
-   "tickers": [
-    "HOOD"
-   ],
-   "summary_ko": [
-    "하원 메모에서 공직자의 예측 시장 베팅을 겨냥했다고 다뤘다.",
-    "로빈후드의 이벤트 계약 사업 규모를 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "217baa8721d88539",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Harvard Cut Nvidia by a Third and Bought AMD",
-   "excerpt": "Harvard's endowment rotated inside AI chips just before a brutal selloff hit one of them. Since then, the two stocks have moved very differently, and a closer look at the filing shows who really came out ahead.",
-   "url": "https://247wallst.com/investing/2026/11/14/harvard-cut-nvidia-by-a-third-and-bought-amd/?.tsrc=rss",
-   "published": "2026-11-14T14:38:00+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "하버드가 엔비디아 지분을 줄이고 AMD를 매수했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "eacf7f559d399423",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart just took another step to beat Costco that could backfire",
-   "excerpt": "It’s a smart investment on one hand, but it misses an opportunity.",
-   "url": "https://www.thestreet.com/retail/walmart-vs-costco-drone-delivery-in-store-experience?.tsrc=rss",
-   "published": "2026-11-14T14:33:00+00:00",
-   "tickers": [
-    "COST",
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트가 코스트코를 이기기 위해 취한 조치가 역효과를 낳을 수 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "0ba7c4a33b621329",
-   "kind": "youtube",
-   "source": "Brighter with Herbert",
-   "author": "Brighter with Herbert",
-   "title": "Every SpaceX Investor Needs To See This Plan",
-   "excerpt": "SpaceX orbital AI computers start launching in Q3 2027, Elon says, with a reported order of 6,000 space-ready racks and 432,000 GPUs. Brian Wang is a futurist Thought Leader and a popular Science blogger with 1 million readers per month. Check out his youtube channel at NextBigFuture and his blog Nextbigfuture.com is ranked #1 Science News Blog. Follow Brian Wang on X: @nextbigfuture 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Own a Tesla? G",
-   "url": "https://www.youtube.com/watch?v=J5CqKiLX0s4",
-   "published": "2026-11-14T14:30:34+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "스페이스X가 2027년 3분기에 궤도 AI 컴퓨터를 발사할 계획이라고 언급했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
