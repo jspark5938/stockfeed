@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-21T20:00:36.821621+00:00",
+ "updated": "2026-11-21T20:30:35.117258+00:00",
  "posts": [
+  {
+   "id": "5a13613423113d0a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $3.2 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysA $3. 2 billion fund opened new positions in Snowflake, TTM Technologies and Meta Platforms in the third quarter, its 13F shows.",
+   "url": "https://www.tikr.com/blog/a-3-2-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-5m8xrrcc&.tsrc=rss",
+   "published": "2026-11-21T19:52:12+00:00",
+   "tickers": [
+    "META",
+    "SNOW"
+   ],
+   "summary_ko": [
+    "한 32억 달러 규모의 펀드가 3분기에 세 종목을 새로 매수했다고 13F 공시가 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "da1e2bfb401c3377",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Musk Says Cybercab “Covers About 90%” of Passenger Miles. Tesla’s Next Robotaxi Is a Wheel-Less Model Y",
+   "excerpt": "Key TakeawaysElon Musk said at the DealBook Summit that Tesla plans an autonomous Model Y with no steering wheel or pedals, built for groups of six or seven riders. Building robotaxis from Tesla’s most popular car could get it to volume faster than the two-seat Cybercab alone.",
+   "url": "https://www.tikr.com/blog/musk-says-cybercab-covers-about-90-of-passenger-miles-teslas-next-robotaxi-is-a-wheel-less-model-y?ref=yahoofinance&tlnk=yf-261121-466h9wgx&.tsrc=rss",
+   "published": "2026-11-21T19:52:03+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크는 테슬라의 다음 로보택시가 운전대와 페달이 없는 모델 Y 형태가 될 것이라고 언급했다.",
+    "인기 차종을 기반으로 로보택시를 만들면 사이버캐브보다 양산 속도를 높일 수 있다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "c8a9f5f94eb0e133",
    "kind": "news",
@@ -16,6 +52,23 @@
    "summary_ko": [
     "에어비앤비와 도어대시 중 어느 주식이 더 나은 매수인지 다뤘다.",
     "에어비앤비는 자산 경량화 모델로 탄탄한 순이익을 기록했다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4090984fb1066e5e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $2.2 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysDiscovery Capital Management’s latest 13F shows its three biggest new or added positions in the third quarter were Amazon, Take-Two Interactive and First Solar. Analysts’ average targets sit 32% to 82% above the last close for all three.",
+   "url": "https://www.tikr.com/blog/a-2-2-billion-fund-just-bought-these-3-stocks-2?ref=yahoofinance&tlnk=yf-261121-75qm98f6&.tsrc=rss",
+   "published": "2026-11-21T19:35:35+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "디스커버리 캐피털 Management의 13F 공시에 따르면 3분기에 아마존 등을 새로 매수하거나 추가했다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -78707,78 +78760,6 @@
    ],
    "summary_ko": [
     "중간선거 이후 데이터센터 구축 방향성과 전력망 압박 문제를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "377b949875521c83",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/Stock_Cap_500",
-   "title": "Turns out the \"shortage\" was NVDA funding the startups buying NVDA chips. I'm the regard who called it organic demand",
-   "excerpt": "so let me get this straight. NVDA commits to buying an avalanche of TSMC silicon. Instead of doing the normal thing and cutting prices when supply catches up, Jensen apparently financed the AI startups and cloud bros so they could afford to buy the chips he'd already ordered. The seller funded the buyer to absorb the supply. Which means the \"shortage\" that let him charge whatever he wanted... was partly his own money walking in circles. and I'm the regard who spent two years telling everyone \"AI demand is organic, bro, the supply is real.\" I didn't get outplayed by the market. I got outplayed by the guy I keep giving money to, who used my money to buy his product so I'd feel good about giving him more money. anyway $NVDA calls, because apparently I enjoy being the demand. (this is not fina",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwc37o/turns_out_the_shortage_was_nvda_funding_the/",
-   "published": "2026-11-14T20:13:09+00:00",
-   "tickers": [
-    "NVDA",
-    "TSM"
-   ],
-   "summary_ko": [
-    "엔비디아가 AI 스타트업과 클라우드 기업에 자금을 지원해 칩을 사게 만들었다고 주장했다.",
-    "진정한 유기적 수요가 아니라 자체 자금으로 만든 수요였다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "79dffa5886f91485",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD Just Had Its Biggest Run Against Nvidia Since 1999. Can It Survive Earnings?",
-   "excerpt": "AMD stock beat Nvidia by a record margin over 5 days, then fell 8.75% with Nvidia's first post-Huang earnings due November 17.",
-   "url": "https://beincrypto.com/amd-stock-record-run-nvidia-earnings/?.tsrc=rss",
-   "published": "2026-11-14T20:06:56+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "AMD는 엔비디아 대비 역대급 상승세를 보였으나 실적 발표를 앞두고 하락했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "24d255cfc9ac04d4",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/GeorgeThe40",
-   "title": "Could $ACHR and $PLTR be big winners from the FAA modernization push? What other stocks are you watching?",
-   "excerpt": "After hearing Transportation Secretary Sean Duffy explain what went wrong with the recent FAA ground stops and push for more funding to modernize our aging air traffic control system, it got me thinking. Could this finally be the catalyst for a major overhaul of U.S. airspace infrastructure? Two stocks that come to mind are $PLTR and $ACHR. $PLTR seems like a potential player on the software, data integration, and AI side of modernizing air traffic management. Meanwhile, $ACHR could benefit longer term if the government accelerates infrastructure upgrades to support advanced air mobility and eVTOL operations. But here’s what I’m wondering: Are these two companies actually positioned to benefit from FAA modernization spending, or are we connecting dots that aren’t really there? If billions ",
-   "url": "https://www.reddit.com/r/stocks/comments/1xwbxev/could_achr_and_pltr_be_big_winners_from_the_faa/",
-   "published": "2026-11-14T20:06:25+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "summary_ko": [
-    "미국 연방항공청(FAA)의 현대화 예산 집행이 관련 주식에 호재가 될지 의문을 제기했다.",
-    "팔란티어와 아처 에비에이션이 수혜를 볼 수 있을지 살펴봐야 한다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4f82c36fb14eba73",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-   "excerpt": "Even Elon Musk said the monthly fee is \"too high.\"",
-   "url": "https://finance.yahoo.com/technology/articles/tesla-opens-cybercab-pre-orders-200444578.html?.tsrc=rss",
-   "published": "2026-11-14T20:04:44+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라는 지역 제한과 월 299달러의 요금으로 개인용 사이버캡 사전 예약을 시작했다."
    ],
    "tone": "neu"
   }
