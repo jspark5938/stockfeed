@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T08:30:31.587819+00:00",
+ "updated": "2026-11-21T09:00:38.260813+00:00",
  "posts": [
   {
    "id": "67b11ab675fae557",
@@ -34,6 +34,25 @@
    "summary_ko": [
     "한국 대통령이 AI 인프라 투자의 가속화를 촉구했다고 전했다.",
     "SK그룹과 아마존웹서비스의 데이터 센터 방문 사실을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "3adf126e0beb6700",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia’s latest chip scandal has an Alibaba connection, new report claims",
+   "excerpt": "Nvidia's sales team reportedly connected Alibaba with Alice Huang in 2022, helping establish a chip-rental business relationship that later came under scrutiny amid US investigations into suspected semiconductor smuggling.",
+   "url": "https://www.digitaltrends.com/computing/nvidias-latest-chip-scandal-has-an-alibaba-connection-new-report-claims/?.tsrc=rss",
+   "published": "2026-11-21T08:04:54+00:00",
+   "tickers": [
+    "NVDA",
+    "BABA"
+   ],
+   "summary_ko": [
+    "엔비디아 영업팀이 2022년 알리바바와 앨리스 황을 연결해 칩 임대 사업 관계 형성을 도왔다고 보도됐다.",
+    "이 관계는 이후 미국의 반도체 밀반입 의혹 조사 과정에서 조사를 받게 되었다고 전해졌다."
    ],
    "tone": "neu"
   },
@@ -78104,60 +78123,6 @@
     "재판매업자들이 코스트코에서 포켓몬 카드 구매를 위해 줄을 서고 있다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "a68ffe9f2881ca9d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jim Cramer: Amazon Has What “May Soon Be a $50 Billion Semiconductor Business”",
-   "excerpt": "Key TakeawaysA day after Jensen Huang resigned as Nvidia’s CEO, Jim Cramer said Amazon has what “may soon be a $50 billion semiconductor business. ”Andy Jassy gave that number in April: chips running above $20 billion a year would bring in about $50 billion priced like a standalone chipmaker.",
-   "url": "https://www.tikr.com/blog/jim-cramer-amazon-has-what-may-soon-be-a-50-billion-semiconductor-business?ref=yahoofinance&tlnk=yf-261114-wq798x99&.tsrc=rss",
-   "published": "2026-11-14T08:49:57+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "짐 크레이머는 아마존이 곧 500억 달러 규모의 반도체 사업을 갖추게 될 수 있다고 주장했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "1b9f703815b23c2f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Sandisk Is Up 273% in 2026, but Down 62% From Its June High. Take Profits, or Buy More?",
-   "excerpt": "Key TakeawaysSandisk stock is up 273% in 2026 on a flash shortage and AI data-center demand, but it’s 62% below its June high, and Micron has fallen on the same worries. Sandisk’s revenue kept climbing as the stock fell, to $11.",
-   "url": "https://www.tikr.com/blog/sandisk-is-up-273-in-2026-but-down-62-from-its-june-high-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261115-qc8qvj3f&.tsrc=rss",
-   "published": "2026-11-14T08:37:36+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "샌디스크 주가는 2026년에 급등했으나 6월 고점보다는 하락한 상태라고 다뤘다.",
-    "플래시 메모리 부족과 AI 데이터센터 수요가 주가 변동에 영향을 미쳤다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2dc2372f45f4b784",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AppLovin Is Still Down 39% in 2026: Did Earnings Just Mark the Bottom?",
-   "excerpt": "Key TakeawaysAppLovin stock is still down 39% in 2026, though nearly all of the drop came between June and its late-October low. A second-quarter revenue miss and Roblox’s slump in daily users made investors worry that AppLovin’s ad models had stopped improving.",
-   "url": "https://www.tikr.com/blog/applovin-is-still-down-39-in-2026-did-earnings-just-mark-the-bottom?ref=yahoofinance&tlnk=yf-261116-2w4r3vwx&.tsrc=rss",
-   "published": "2026-11-14T08:32:51+00:00",
-   "tickers": [
-    "APP"
-   ],
-   "summary_ko": [
-    "앱러빈 주가가 2026년에 여전히 하락세를 보이고 있다고 다뤘다.",
-    "2분기 매출 부진 등으로 투자자들이 광고 모델에 우려를 가졌다고 언급했다."
-   ],
-   "tone": "neg"
   }
  ]
 }
