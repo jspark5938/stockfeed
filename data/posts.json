@@ -1,6 +1,75 @@
 {
- "updated": "2026-11-22T12:00:38.682908+00:00",
+ "updated": "2026-11-22T12:30:31.624004+00:00",
  "posts": [
+  {
+   "id": "ea4d2fbeb6ba5260",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘Inflation affects all of us’: Kevin O'Leary went shopping for Walmart paper towel bargains. How are you fighting back?",
+   "excerpt": "Mr. Wonderful hunts for Bounty deals and wears $29 Walmart jeans — and the inflation data shows exactly why even the wealthy are watching what they spend on everyday essentials.",
+   "url": "https://finance.yahoo.com/economy/articles/inflation-affects-us-kevin-oleary-122000791.html?.tsrc=rss",
+   "published": "2026-11-22T12:20:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "인플레이션 속에서 케빈 오리어리가 월마트에서 생필품을 구매하는 모습을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a6daec8ed56c2aeb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Big Short Investor Steve Eisman: Banks Are “Safer Today Than at Any Point in My Career.” Good News for Citigroup",
+   "excerpt": "Key TakeawaysSteve Eisman says reckless mortgage lending inside banks is less of a risk than at any point in his career, and puts Citigroup’s leverage at 10 to 1, down from about 40 to 1. The past week’s scares came from technology: a JPMorgan outage and a Fed warning that AI agents could speed up bank runs.",
+   "url": "https://www.tikr.com/blog/big-short-investor-steve-eisman-banks-are-safer-today-than-at-any-point-in-my-career-good-news-for-citigroup?ref=yahoofinance&tlnk=yf-261122-mvh64fg7&.tsrc=rss",
+   "published": "2026-11-22T12:14:06+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "스티브 아이즈먼은 은행들의 모기지 대출 위험이 과거보다 낮아졌다고 주장했다.",
+    "시티그룹의 레버리지가 과거에 비해 크게 낮아졌다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "e6388fdfae3a4a81",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘It’s greed’: Zohran Mamdani blasts Amazon over new $5 fee hike in NYC. Is your next order about to get pricier?",
+   "excerpt": "An express delivery straight against your bottom line.",
+   "url": "https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html?.tsrc=rss",
+   "published": "2026-11-22T12:10:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "조란 맘다니는 뉴욕시의 새로운 아마존 배송료 인상을 비판했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "0f2202aee3109af3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan, American Express and Travelers Are Raising Dividends for Retirees",
+   "excerpt": "Three Dow financials pay yields under 2%, yet retirees keep piling in. Their secret is a payout that eats barely a quarter of earnings, and one of them has already survived a brutal cut that should give income seekers pause.",
+   "url": "https://247wallst.com/investing/2026/11/22/jpmorgan-american-express-and-travelers-are-raising-dividends-for-retirees/?.tsrc=rss",
+   "published": "2026-11-22T12:07:04+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "JP모간, 아메리칸 익스프레스, 트래블러스가 배당금을 인상했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "70ee724417914f1f",
    "kind": "news",
@@ -79219,23 +79288,6 @@
     "리게티의 양자 컴퓨터는 계속 개선되고 있으나 유의미한 수익까지는 수년이 걸릴 수 있다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "64644cc1ec695ad8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Nvidia's scandal knocked thousands off your 401(k)",
-   "excerpt": "Nvidia's near-30% stock plunge in the last month is a drag on the retirement savings of millions of Americans, many who may not realize just how much their investments are tied to the scandal-engulfed chip giant.",
-   "url": "https://www.axios.com/2026/11/15/nvidia-stocks-401k-retirement-accounts#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
-   "published": "2026-11-15T12:30:10+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 주가가 지난 한 달간 약 30% 하락하면서 은퇴 자금에 타격을 주었다고 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
