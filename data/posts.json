@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:30:31.019036+00:00",
+ "updated": "2026-11-22T06:00:39.283533+00:00",
  "posts": [
   {
    "id": "d3cafbe66c1c1882",
@@ -15,6 +15,41 @@
    ],
    "summary_ko": [
     "엔비디아의 20년 뒤 주가 향방을 예측하는 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5132a0160b5fc982",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Shock Puts MongoDB Stock And Cloud Software Names Back In Focus",
+   "excerpt": "AI infrastructure just absorbed a shock, with Nvidia’s leadership turmoil, customer investigations and eye catching Q3 FY2027 numbers all hitting at once, and that ripple now runs straight through the cloud and data center operators that power this boom. Pricing for compute is changing, expectations are resetting and some stocks are suddenly being repriced. This article walks through three companies exposed to this Nvidia story and why each one merits a closer look today. The three stocks...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-shock-puts-mongodb-stock-051540855.html?.tsrc=rss",
+   "published": "2026-11-22T05:15:40+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 경영진 변동과 3분기 실적이 AI 인프라와 클라우드 시장에 충격을 주었다고 다뤘다.",
+    "이로 인해 연산 가격이 변하고 관련 종목들의 재평가가 이루어지고 있다고 설명했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "9735395f1f2da592",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality.",
+   "excerpt": "Neither Xi or Trump was keen to dredge up the Nvidia scandal threatening a delicate detente between the world’s two largest economies.",
+   "url": "https://www.cnn.com/2026/11/22/business/trump-xi-apec-tech-rivalry-intl-hnk?.tsrc=rss",
+   "published": "2026-11-22T05:01:15+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미·중 정상회담에서 AI 협력이 언급되었으나 엔비디아와 관련된 스캔들이 양국 간의 긴장을 야기하고 있다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -78934,24 +78969,6 @@
     "중국의 테슬라로 불리는 기업이 영국의 관세 검토 속에서 현지 차량 생산을 고려하고 있다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "d827585acf19f05b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD Has Two Big Catalysts Lined Up For 2027 — And Nvidia Should Be Watching, Says IO Fund",
-   "excerpt": "The firm believes the convergence of these two catalysts could strengthen AMD's challenge to Nvidia, even without overtaking the chipmaking giant in GPU market share.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/amd-two-big-catalysts-2027-nvidia-watching/cNbEERhR9Q8?.tsrc=rss",
-   "published": "2026-11-15T05:53:25+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "IO펀드는 AMD가 2027년에 두 가지 큰 촉매제를 앞두고 있으며, 이를 통해 엔비디아와의 경쟁을 강화할 수 있다고 전망했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
