@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-22T12:30:31.624004+00:00",
+ "updated": "2026-11-22T13:00:38.695091+00:00",
  "posts": [
+  {
+   "id": "e046660c01f82e90",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
+   "excerpt": "Investors can't get out of Nvidia fast enough. The companies running AI can't get enough of its chips.",
+   "url": "https://finance.yahoo.com/markets/article/gpu-prices-are-rising-for-nvidias-older-chips-even-as-the-stock-keeps-going-down-chart-of-the-day-123721121.html?.tsrc=rss",
+   "published": "2026-11-22T12:37:21+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 주가가 하락하는 중에도 구형 칩의 가격은 상승하고 있다고 전했다.",
+    "투자자들은 매도에 나서는 반면 AI 기업들은 칩을 찾고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "02100aa3aeff6607",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Netflix a Buy in November? The Bull and Bear Cases.",
+   "excerpt": "Netflix shares have fallen nearly 47% from their 52-week high. Is this a rare opportunity to buy a highly profitable entertainment business at a reasonable valuation?",
+   "url": "https://www.fool.com/investing/2026/11/22/is-netflix-a-buy-in-november-the-bull-and-bear-cases/?.tsrc=rss",
+   "published": "2026-11-22T12:35:02+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "넷플릭스 주가가 52주 최고가 대비 약 47% 하락했다고 언급했다.",
+    "수익성 높은 엔터테인먼트 기업의 밸류에이션이 매력적인 기회인지 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a0cb8ebb8eaace41",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Not Lucid. Not Ford. The EV Stock Most Likely to Catch Every Refunded Cybertruck Buyer.",
+   "excerpt": "With Tesla ending production of the Cybertruck, EV buyers have one clear destination.",
+   "url": "https://www.fool.com/investing/2026/11/22/not-lucid-not-ford-the-ev-stock-most-likely-to-catch-every-refunded-cybertruck-buyer/?.tsrc=rss",
+   "published": "2026-11-22T12:27:02+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라의 사이버트럭 생산 중단에 따른 전기차 구매자들의 이동을 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "ea4d2fbeb6ba5260",
    "kind": "news",
@@ -79199,93 +79252,6 @@
    "summary_ko": [
     "나스닥이 두 달 만의 최고의 주간을 보냈음에도 주요 수준 아래로 마감했다고 다뤘다.",
     "시장 랠리 속에서 엔비디아 실적 발표와 앤트로픽 IPO를 앞두고 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "808d09f1046d8011",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/rdh2dmd",
-   "title": "[Financial Times] Samsung conquered AI chips. Now it wants to build data centres",
-   "excerpt": "After dominating the AI memory chip market, Samsung Group is attempting to leverage its sprawling conglomerate structure to become a one-stop, end-to-end provider of AI data centre infrastructure, though analysts remain skeptical about its ability to coordinate its disparate subsidiaries and win over external clients. Strategic Moves & Partnerships: To diversify beyond the highly cyclical semiconductor industry, Samsung has made several major plays over the past year: Acquisitions & Investments: Invested $1 billion in Helix Digital Infrastructure (backed by KKR and Nvidia) and acquired European cooling systems maker FläktGroup. OpenAI Partnership: Signed a deal supporting OpenAI’s \"Stargate\" initiative, extending beyond memory chips to include data centre design, operation, and potential f",
-   "url": "https://www.reddit.com/r/stocks/comments/1xwus0v/financial_times_samsung_conquered_ai_chips_now_it/",
-   "published": "2026-11-15T12:53:46+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "삼성전자가 AI 메모리 시장을 넘어 데이터센터 인프라 사업으로 확장하려 한다고 다뤘다.",
-    "다만 애널리스트들은 자회사 조율과 외부 고객 유치 능력에 대해 회의적인 시각을 유지하고 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c88d3af3125a65e8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $5.9 Billion Fund Bought These 3 Stocks",
-   "excerpt": "Key TakeawaysA $5. 9 billion fund more than tripled its Alphabet stake and added heavily to Danaher and Visa in the quarter ended June 30.",
-   "url": "https://www.tikr.com/blog/a-5-9-billion-fund-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261115-jfcvwwr2&.tsrc=rss",
-   "published": "2026-11-15T12:52:32+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "한 59억 달러 규모의 펀드가 6월 30일 마감 분기에 알파벳 지분을 대폭 늘렸다고 밝혔다.",
-    "해당 펀드는 다나허와 비자 주식도 많이 매수했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "8fa3159ec0308262",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $22 Billion Fund Bought These 3 Stocks",
-   "excerpt": "Key TakeawaysDarsana Capital Partners, a $22 billion fund, made SpaceX, Amazon and HCA Healthcare its three biggest new or added positions in its latest 13F, for the quarter ended June 30. SpaceX alone was nearly 78% of its 13F stocks, and analysts’ average target sits 84% above the latest close, even with the stock down 19% since June 30.",
-   "url": "https://www.tikr.com/blog/a-22-billion-fund-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261115-gx677hwq&.tsrc=rss",
-   "published": "2026-11-15T12:51:19+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "다르사나 캐피털 파트너스가 스페이스X, 아마존, HCA 헬스케어를 신규 또는 추가 매수했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "06841b0aedce9b20",
-   "kind": "reddit",
-   "source": "r/investing",
-   "author": "/u/Helpful-Staff9562",
-   "title": "Should I stick with 100% VT or tilt towards dividend growth ETFs?",
-   "excerpt": "I'm 37, investing for long-term wealth accumulation and eventual financial independence. Some context: - 0% capital gains tax in my country (Switzerland) - 25% marginal tax on dividends. - Current expenses represent around 3.5% of my portfolio. - Still working, with no immediate plans to quit unless I lose my job. - might leave the cou try i am in 3-5 years if portoflio grows nicely in the future and/or I decide to quit my job. My strategy is currently very simple: 100% VT. However, I'm considering introducing a tilt towards dividend growth ETFs such as SCHD, VHYL or TDIV. These funds have shown impressive historical performance and, in certain periods, lower volatility than broad global market ETFs. They also provide an income stream that could eventually help cover my expenses should i n",
-   "url": "https://www.reddit.com/r/investing/comments/1xwupi9/should_i_stick_with_100_vt_or_tilt_towards/",
-   "published": "2026-11-15T12:50:00+00:00",
-   "tickers": [
-    "SCHD"
-   ],
-   "summary_ko": [
-    "스위스 거주 투자자가 100% VT 전략을 유지할지, SCHD 등 배당 성장 ETF로 비중을 옮길지 고민하는 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e424be4365782da9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Prediction: Rigetti Computing Stock Will Be Worth This Much in 1 Year",
-   "excerpt": "Rigetti's quantum computers continue to improve, but meaningful revenue could be years away.",
-   "url": "https://www.fool.com/investing/2026/11/15/prediction-rigetti-computing-stock-will-be-worth-this-much-in-1-year/?.tsrc=rss",
-   "published": "2026-11-15T12:35:02+00:00",
-   "tickers": [
-    "RGTI"
-   ],
-   "summary_ko": [
-    "리게티의 양자 컴퓨터는 계속 개선되고 있으나 유의미한 수익까지는 수년이 걸릴 수 있다고 다뤘다."
    ],
    "tone": "neu"
   }
