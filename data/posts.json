@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-22T04:00:35.902255+00:00",
+ "updated": "2026-11-22T04:30:31.778916+00:00",
  "posts": [
+  {
+   "id": "c154d6570add2a3b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Netflix Falls Below $60. Bill Ackman Explains Why That’s an Incredible Investment Opportunity.",
+   "excerpt": "A lower share price in the short term could be great in the long run.",
+   "url": "https://www.fool.com/investing/2026/11/21/netflix-falls-below-usd60-bill-ackman-explains-why-that-s-an-incredible-investment-opportunity/?.tsrc=rss",
+   "published": "2026-11-22T04:20:02+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "빌 애크먼은 넷플릭스 주가 하락이 장기적으로 훌륭한 투자 기회라고 주장했다.",
+    "단기적인 주가 하락이 장기적으로는 긍정적일 수 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "760bd35c1cdbfb9b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "GTA 6's $3.79 billion debut sends Apple stock investors an unmistakable signal",
+   "excerpt": "Investors may not like the lesson here.",
+   "url": "https://www.thestreet.com/investing/stocks/gta-6-apple-innovation?.tsrc=rss",
+   "published": "2026-11-22T04:17:00+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "GTA 6의 출시가 애플 주식 투자자들에게 분명한 신호를 보냈다고 다뤘다.",
+    "투자자들이 이번 교훈을 달가워하지 않을 수 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "a1ec655452e5bb85",
    "kind": "news",
@@ -78894,40 +78930,6 @@
    ],
    "summary_ko": [
     "번스타인은 퀄컴의 마진 전망이 좋지 않다고 평가했으며, 핸드셋 매출 감소와 자동차 부문 매출 증가 소식을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "26daeddba168ad41",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba Slides 7% as Wu’s Promise to “Accelerate Further” Runs Into U.S. Chip Curbs",
-   "excerpt": "Key TakeawaysAlibaba’s Hong Kong shares fell as much as 7. 3% after a report said Washington will stop Chinese firms from renting advanced chips in overseas data centers.",
-   "url": "https://www.tikr.com/blog/alibaba-slides-7-as-wus-promise-to-accelerate-further-runs-into-u-s-chip-curbs?ref=yahoofinance&tlnk=yf-261115-qw87353j&.tsrc=rss",
-   "published": "2026-11-15T04:17:15+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "미국의 대중국 칩 규제 여파로 알리바바의 홍콩 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "433f540527f8c4ba",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "NIO Needs About 42,900 Cars a Month to Hit Its Q4 Goal. October Delivered 34,246",
-   "excerpt": "Key TakeawaysNIO delivered 34,246 vehicles in October, down 15. 2% from a year earlier, while XPeng set a monthly record and Li Auto also slipped.",
-   "url": "https://www.tikr.com/blog/nio-needs-about-42900-cars-a-month-to-hit-its-q4-goal-october-delivered-34246?ref=yahoofinance&tlnk=yf-261115-hfxpm8m7&.tsrc=rss",
-   "published": "2026-11-15T04:10:21+00:00",
-   "tickers": [
-    "NIO"
-   ],
-   "summary_ko": [
-    "니오의 10월 차량 인도량이 전년 동기 대비 감소했으며, 4분기 목표 달성을 위해 남은 기간 동안 많은 판매량이 필요하다고 다뤘다."
    ],
    "tone": "neg"
   }
