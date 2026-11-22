@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-22T23:00:38.959379+00:00",
+ "updated": "2026-11-22T23:30:34.223611+00:00",
  "posts": [
+  {
+   "id": "ddeec605fbe0d73e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
+   "excerpt": "Futures loom as Oracle and South Korea try to calm market fears after the stock market worst week since Covid.",
+   "url": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures-rise-as.html?.tsrc=rss",
+   "published": "2026-11-22T23:18:59+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "오라클과 한국의 시장 우려 완화 노력 속에서 다우존스 선물은 상승했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "b6fe678c4f594d56",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Lloyd on Tech Stocks: \"Transition What Has Held Up\"",
+   "excerpt": "Luke Lloyd says with software holding up better than other parts of the market, and unloved tech names including semiconductors, investors and traders can look for an opportunity to ‘transition what has held up.” He discusses Nvidia (NVDA), Caterpillar (CAT), and data center stocks. He also notes a down day can turn around quickly and he is watching ‘beaten down’ stocks. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #economy #finance #investing #marketnews #stock #stockmarket #trading #live #schwabnetwork #tec",
+   "url": "https://www.youtube.com/watch?v=xN7mIaZTWAE",
+   "published": "2026-11-22T23:00:15+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "루크 로이드는 소프트웨어와 소외된 기술주 사이의 전환 기회를 언급했다.",
+    "엔비디아, 캐터필러, 데이터센터 관련 종목 등을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "3794f4cd0afb2abf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "THEi Partners with NIO to Launch New Energy Vehicle Education Centre, Securing Not-for-Sale Components to Deepen \"Industry-Academia-Research-Application\" Integration and Foster GBA Green Talent",
+   "excerpt": "In support of the nation's \"Dual Carbon\" goals and Hong Kong's vision of achieving carbon neutrality by 2050, the Technological and Higher Education Institute of Hong Kong (THEi) has partnered with NIO, a leading global smart electric vehicle (EV) company, to establish the \"NIO x THEi New Energy Vehicle Education Centre\" (hereafter referred to as the \"Centre\"). The Centre marks an important milestone in THEi's efforts to advance the application of green technology and deepen its collaboration wi",
+   "url": "https://finance.yahoo.com/energy/articles/thei-partners-nio-launch-energy-230000187.html?.tsrc=rss",
+   "published": "2026-11-22T23:00:00+00:00",
+   "tickers": [
+    "NIO"
+   ],
+   "summary_ko": [
+    "홍콩고등교육원(THEi)이 니오와 손잡고 신에너지차 교육 센터를 설립했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "46255b78b70a4035",
    "kind": "news",
@@ -458,6 +511,23 @@
    "summary_ko": [
     "마이크론의 매출이 1,300억 달러를 넘어섰다고 전했다.",
     "샌디스크와 마이크론 중 어떤 메모리 주식이 나을지 비교하는 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "7d0d381335dce9db",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Inflation, Best Buy, Zoom, Dell, Deere, and More to Watch This Week",
+   "excerpt": "Thanksgiving week will bring the personal consumption expenditures index, and earnings from Agilent, Hewlett, Dick’s, and more.",
+   "url": "https://finance.yahoo.com/m/b0484e57-7de1-3e23-9bf6-f4cc21f76c51/inflation%2C-best-buy%2C-zoom%2C.html?.tsrc=rss",
+   "published": "2026-11-22T19:00:00+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "이번 주에는 개인소비지출 지수 발표와 주요 기업들의 실적 공개가 예정되어 있다고 전했다."
    ],
    "tone": "neu"
   },
@@ -79019,113 +79089,6 @@
     "일라이 릴리와 노보 노디스크에 동등하게 분산 투자한 1만 달러의 가치를 예측하는 내용을 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "acb39fb9e130a553",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dow Jones Futures Rise; How Will Nvidia React As Jensen Huang Mulls Return?",
-   "excerpt": "Nvidia earnings are due as Jensen Huang reportedly mulls a return. The Anthropic IPO is ahead.",
-   "url": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-rise%3B-how.html?.tsrc=rss",
-   "published": "2026-11-15T23:24:28+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "다우존스 선물이 상승한 가운데 젠슨 황의 복귀 고심에 따른 엔비디아의 반응을 언급했다.",
-    "엔비디아 실적 발표와 앤스로픽의 IPO를 앞두고 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c4579e8b23f9ca8b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Could Reddit (RDDT) Reveal At Its Investor Conference Appearance?",
-   "excerpt": "Reddit (NYSE:RDDT) is scheduled to present at the Yahoo Finance Invest 2026 conference, according to a recent event listing. The appearance gives Reddit executives a public stage to discuss the business with an audience focused on listed companies. Yahoo Finance Invest 2026 typically features sessions where management teams outline priorities, product focus, or high level operating themes. Reddit's upcoming Yahoo Finance Invest 2026 appearance is one piece of a broader story that goes beyond...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/could-reddit-rddt-reveal-investor-232213177.html?.tsrc=rss",
-   "published": "2026-11-15T23:22:13+00:00",
-   "tickers": [
-    "RDDT"
-   ],
-   "summary_ko": [
-    "레딧이 야후 파이낸스 인베스트 2026 콘퍼런스에 참석해 발표할 예정이라고 다뤘다.",
-    "경영진이 사업 우선순위와 제품 초점을 논의하는 공개 무대가 될 것이라고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a390668efc5a45f6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Americans fear the worst after Pentagon doomsday prepping, ‘Black October’ cyberattacks, stock crash, spy scandal, Microsoft outage, and airport chaos",
-   "excerpt": "The past month has seemed like one battle after another, and it's taking a toll on Americans who are starting to feel like everything is breaking at once.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/americans-fear-worst-pentagon-doomsday-232109128.html?.tsrc=rss",
-   "published": "2026-11-15T23:21:09+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "최근 발생한 연이은 사건들로 인해 미국인들이 불안감을 느끼고 있다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "76ef1999f25793e0",
-   "kind": "youtube",
-   "source": "Meet Kevin",
-   "author": "Meet Kevin",
-   "title": "Jensen Accepts: Return as Nvidia CEO.",
-   "excerpt": "1️⃣ 🚨 Join ReinvestOne at LIFETIME ACCESS. 2️⃣ 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 3️⃣📙 Email Price Targets and Digest: Jensen Huang is already talking about a comeback. The FT reports he has discussed returning as CEO, and a \"war room\" of tech executives is lobbying for him. So here is the path back, step by step, and the earliest it could happen: the Teter confession at Jensen's house, the Altman precedent, the Alice Huang and Megaspeed spy question, the 11% drop, the $530.5 billion in commitments built under him, and Washington pushing for an outsider. Earnings Tuesday with Colette Kress as interim CEO is the first real test of trust. 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly Hous",
-   "url": "https://www.youtube.com/watch?v=WJv-1MammyE",
-   "published": "2026-11-15T23:16:47+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황이 엔비디아 CEO로 복귀하는 방안을 논의 중이라고 보도됐다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d7ab483e17faeaed",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Musk, Uber co-founder join call for Jensen Huang's return to Nvidia",
-   "excerpt": "Tech tycoon Elon Musk and an Uber co-founder are, as of Sunday, among more than 158,000 signatories of an open letter calling for Jensen Huang's reinstatement as Nvidia chief.In Washington, however, US Treasury Secretary Scott Bessent argued Sunday that Nvidia should look \"outside\" the company for its next chief.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/musk-uber-co-founder-join-231643816.html?.tsrc=rss",
-   "published": "2026-11-15T23:16:43+00:00",
-   "tickers": [
-    "NVDA",
-    "UBER"
-   ],
-   "summary_ko": [
-    "일론 머스크를 포함한 인사들이 젠슨 황의 엔비디아 최고경영자 복귀를 요구하는 서한에 동참했다고 다뤘다.",
-    "미 재무장관은 엔비디아가 외부에서 다음 최고경영자를 찾아야 한다고 주장했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "841dae4fb0019a61",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Futures Are Rising Ahead of Nvidia’s Earnings, Anthropic’s IPO",
-   "excerpt": "The embattled chip maker will report after Tuesday’s closing bell, just days after the ouster of CEO and co-founder Jensen Huang.",
-   "url": "https://finance.yahoo.com/m/8cef83a6-f4cb-350b-abaf-a876bb42c992/stock-futures-are-rising.html?.tsrc=rss",
-   "published": "2026-11-15T23:05:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 실적 발표와 앤스로픽의 IPO를 앞두고 주식 선물 지수가 상승하고 있다고 다뤘다.",
-    "엔비디아는 CEO 젠슨 황의 퇴진 며칠 만에 화요일 장 마감 후 실적을 발표할 예정이라고 전했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
