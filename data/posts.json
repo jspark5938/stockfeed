@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-22T15:00:38.817156+00:00",
+ "updated": "2026-11-22T15:30:32.796473+00:00",
  "posts": [
+  {
+   "id": "6464cd35391d05d2",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Rep. McCaul Seeks Answers From Jensen Huang",
+   "excerpt": "Republican Congressman Michael McCaul tells Bloomberg This Weekend that he wants answers from Nvidia’s Jensen Huang about the company’s chip sales and whether advanced AI technology reached China in violation of US export controls, amid scrutiny of Huang’s relationship with a woman accused of ties to Chinese intelligence. Speaking with hosts David Gura and Christina Ruffini, McCaul also says Vladimir Putin is an adversary rather than a US friend, calls for investment to strengthen vulnerable federal technology systems and urges Republicans to learn from their midterm losses as he prepares to leave Congress. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business ",
+   "url": "https://www.youtube.com/watch?v=ySwb69zKsnk",
+   "published": "2026-11-22T15:11:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "마이클 맥콜 의원은 엔비디아의 젠슨 황에게 대중국 칩 판매와 수출 통제 위반 여부에 대해 답변을 요구했다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "c26598d8b48459ec",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom (AVGO) Faces Reported AI Chip Order Cut From A Major Customer",
+   "excerpt": "Broadcom (NasdaqGS: AVGO) is reported to face reduced AI chip shipments to Google, affecting data center hardware supply. Google is understood to be scaling back orders for Broadcom AI accelerators used in its large scale computing infrastructure. Analysts are assessing how lower Google volumes might alter Broadcom's mix of AI related semiconductor revenue. This reported cut to Google's AI chip shipments from Broadcom is important to weigh against the rest of our Broadcom findings. Our...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-faces-reported-ai-150805371.html?.tsrc=rss",
+   "published": "2026-11-22T15:08:05+00:00",
+   "tickers": [
+    "GOOGL",
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴이 주요 고객사인 구글로부터 AI 칩 주문 축소에 직면했다고 보도되었다.",
+    "분석가들은 구글의 물량 감소가 브로드컴의 AI 관련 반도체 매출에 미칠 영향을 평가 중이다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "544f00e301c21c2f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart makes tough decision that may upset shoppers",
+   "excerpt": "Sometimes, even the most powerful retailers have to made hard choices.",
+   "url": "https://www.thestreet.com/retail/walmart-closed-thanksgiving-christmas-2026?.tsrc=rss",
+   "published": "2026-11-22T15:07:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트가 쇼핑객들을 언짢게 할 수 있는 어려운 결정을 내렸다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "9b108d6c35124b2a",
    "kind": "news",
@@ -1452,6 +1505,23 @@
    ],
    "summary_ko": [
     "월마트의 최근 실적 발표 이후 주가가 현재 이익을 충분히 반영하고 있는지에 대한 의문을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "6a268aa199f09483",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "5 big analyst AI moves: Nvidia downgrade, Anthropic seen as ’generational company’",
+   "excerpt": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-004732439.html?.tsrc=rss",
+   "published": "2026-11-22T00:47:32+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "이번 주 인공지능 분야의 주요 애널리스트 동향으로 엔비디아 하향 조정 등을 다뤘다."
    ],
    "tone": "neu"
   },
@@ -79226,44 +79296,6 @@
     "이번 투자를 통해 우주 및 방산 분야로 파운드리 사업을 확장한다고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "069b46bdc7407d66",
-   "kind": "reddit",
-   "source": "r/StockMarket",
-   "author": "/u/Illustrious_Lie_954",
-   "title": "Anthropic’s IPO Could Become a Make or Break Moment for the AI Industry",
-   "excerpt": "Anthropic’s upcoming IPO is more than just another major tech listing. It comes at a time when investors are questioning the sustainability of AI spending, rising infrastructure costs and the returns expected from massive data-centre investments. The company reportedly has over $900 billion in future spending commitments, while its IPO could raise more than $90 billion. That creates significant exposure for major players like Amazon, Google, Microsoft, Nvidia and other chipmakers that are closely connected to Anthropic’s growth. The bigger question is whether AI companies can eventually turn these enormous investments into sustainable profits. A successful IPO could restore investor confidence in the AI boom, but a weak market reception could raise serious questions about valuations and th",
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xwybcd/anthropics_ipo_could_become_a_make_or_break/",
-   "published": "2026-11-15T15:30:15+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT",
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "앤스로픽의 기업공개(IPO)가 AI 산업의 지속 가능성을 가늠할 중요한 분수령이 될 것이라고 다뤘다.",
-    "막대한 AI 투자와 인프라 비용이 실제 수익으로 이어질지 시장의 관심이 집중된다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3e75839eb2b41d38",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "White House Braces for Democratic Investigations",
-   "excerpt": "Bully Pulpit International’s Adam Hodge and Monument Advocacy’s Mark Bednar are on Bloomberg This Weekend to examine the looming fight between congressional Democrats and the Trump administration over subpoenas, executive privilege and oversight of the White House’s relationships with corporate leaders. Speaking with hosts David Gura and Christina Ruffini, they also discuss congressional scrutiny of Nvidia, the fallout from the FAA ground stop and where Republicans and Democrats could find room for bipartisan cooperation in the new Congress. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles a",
-   "url": "https://www.youtube.com/watch?v=jBV8DeEuL-I",
-   "published": "2026-11-15T15:13:25+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "백악관을 둘러싼 민주당의 조사와 의회의 엔비디아 심층 조사 가능성을 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
