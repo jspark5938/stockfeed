@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-22T17:00:38.781384+00:00",
+ "updated": "2026-11-22T17:30:35.857496+00:00",
  "posts": [
+  {
+   "id": "d1d0b882010dfa86",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What's Going On With Netflix's Stock?",
+   "excerpt": "Netflix shares have fallen sharply. Is the market overlooking a long-term opportunity, or is slower growth a warning investors shouldn't ignore?",
+   "url": "https://www.fool.com/investing/2026/11/22/what-s-going-on-with-netflix-s-stock/?.tsrc=rss",
+   "published": "2026-11-22T17:20:02+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "넷플릭스 주가가 급락한 가운데 시장의 반응을 조명했다.",
+    "장기적 기회인지 성장 둔화 경고인지 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f3236e193f5a687c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet vs. Meta Platforms: Which Media Stock Is a Better Buy for 2027?",
+   "excerpt": "Alphabet's 13.9x forward P/E sits well below Meta's 20.5x, but Meta's 27.5% revenue jump makes the growth-versus-value trade-off harder to call.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/22/alphabet-vs-meta-platforms-which-media-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-22T17:16:18+00:00",
+   "tickers": [
+    "GOOGL",
+    "META"
+   ],
+   "summary_ko": [
+    "알파벳과 메타의 밸류에이션과 성장성을 비교했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "46f4cdbb43cec60a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Coinbase Global vs. Mastercard: Which Financial Stock Is a Better Buy for 2027?",
+   "excerpt": "Coinbase's revenue fell about 27% over the past year while Mastercard's net margin topped 46%, but one of these stocks trades at a far richer sales multiple.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/22/coinbase-global-vs-mastercard-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-22T17:03:25+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스와 마스터카드의 매출 및 마진 수치를 비교했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "f1a48942591fb0e0",
    "kind": "youtube",
@@ -954,6 +1007,23 @@
     "제프 베이조스가 이틀간 1억 9,890만 달러 상당의 아마존 주식을 기부했다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "12b089858cd3abfa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $2.9 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysA fund that manages $2. 9 billion opened a new Microsoft stake worth $135 million in the third quarter, making it the largest holding in its latest 13F.",
+   "url": "https://www.tikr.com/blog/a-2-9-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-p39j3cjp&.tsrc=rss",
+   "published": "2026-11-22T11:14:05+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "한 대형 펀드가 3분기에 마이크로소프트 주식을 매수했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e27f4e08bf7d92c1",
@@ -78981,162 +79051,6 @@
    ],
    "summary_ko": [
     "빌 게이츠의 투자 기금이 쓰레기 처리 기업인 리퍼블릭 서비스 주식을 대량 매입했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "875252b4c8013e49",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales",
-   "excerpt": "Treasury Secretary Scott Bessent on Sunday questioned whether Nvidia's earnings might have been inflated by inappropriate sales to China and urged the company to hire an outsider as CEO.",
-   "url": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
-   "published": "2026-11-15T17:29:21+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "재무장관이 엔비디아의 대중국 판매로 실적이 부풀려졌을 가능성을 제기했다고 보도했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "80d395bee5daa45c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Michael Saylor’s Strategy Just Lost Its MSCI Index Spot as Bitcoin Plunges. Is MSTR Stock a Sell?",
-   "excerpt": "With an index provider cutting it loose and bitcoin sitting below its purchase price, Saylor's funding machine faces its toughest test yet. A cash cushion buys time, but one signal could decide whether patience pays off.",
-   "url": "https://247wallst.com/investing/2026/11/15/michael-saylors-strategy-just-lost-its-msci-index-spot-as-bitcoin-plunges-is-mstr-stock-a-sell/?.tsrc=rss",
-   "published": "2026-11-15T17:28:50+00:00",
-   "tickers": [
-    "MSTR"
-   ],
-   "summary_ko": [
-    "비트코인 하락과 지수 편출 속에서 마이크로스트래티지의 자금 조달 전략이 시험대에 올랐다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "86dd92aca1646330",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Neoclouds Are “Nearly Half of Nvidia’s Own Revenue.” Its New CEO May Stop Funding Them",
-   "excerpt": "Key TakeawaysNVIDIA reports Nov. 17, its first earnings report under interim CEO Colette Kress, after neoclouds sold off on financing fears.",
-   "url": "https://www.tikr.com/blog/neoclouds-are-nearly-half-of-nvidias-own-revenue-its-new-ceo-may-stop-funding-them?ref=yahoofinance&tlnk=yf-261115-fqfvgw85&.tsrc=rss",
-   "published": "2026-11-15T17:21:24+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "임시 CEO 체제로 첫 실적을 앞둔 엔비디아가 네오클라우드 자금 지원을 중단할 수 있다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "cc497a4b77702022",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD vs. Broadcom: With NVDA’s Jensen Huang Gone, Which AI Stock Wins the Most?",
-   "excerpt": "Nvidia's leadership vacuum handed AMD and Broadcom a brief rally before both stocks tumbled. One rewards patient retirees, the other bets on a GPU order shift. Three head-to-head tests reveal which chipmaker deserves your nest egg.",
-   "url": "https://247wallst.com/investing/2026/11/15/amd-vs-broadcom-with-nvdas-jensen-huang-gone-which-ai-stock-wins-the-most/?.tsrc=rss",
-   "published": "2026-11-15T17:16:40+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "엔비디아의 리더십 공백 속에서 AMD와 브로드컴 등 AI 관련 칩 제조업체들을 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6b37778c8548ff4e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "‘Bond King’ Jeffrey Gundlach Is “Not Interested in Buying Stocks.” His Warning Points to 10 Years of Losses",
-   "excerpt": "Bond yields top 5% while stocks keep climbing, and one of Wall Street's most watched investors refuses to chase the rally. A single valuation gauge explains why he is sitting this one out, and why even Apple offers little cushion.",
-   "url": "https://247wallst.com/investing/2026/11/15/bond-king-jeffrey-gundlach-is-not-interested-in-buying-stocks-his-warning-points-to-10-years-of-losses/?.tsrc=rss",
-   "published": "2026-11-15T17:12:51+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "채권왕 제프리 건들락이 주식 매수에 관심이 없다는 입장을 밝혔다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c83442e6f8230c0c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "3 Mega Cap Tech Stocks for AI Infrastructure After Nvidia’s Leadership Shock",
-   "excerpt": "Jensen Huang’s abrupt exit from Nvidia has jolted investors into rethinking how much single leaders and fragile governance structures can sway entire portfolios. When a US$2t giant wobbles, money often looks for mega-cap peers that feel sturdier at the top and still tied to big themes like AI and cloud. This article breaks down 3 stocks that appear relatively well positioned under this new spotlight on resilience. The stocks highlighted below are just a sample slice of this idea, with the...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/3-mega-cap-tech-stocks-171028968.html?.tsrc=rss",
-   "published": "2026-11-15T17:10:28+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 리더십 변화 이후 AI 인프라 분야의 대형 기술주들에 대한 관심을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "405347207548ded5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Forget Jensen Huang’s Resignation. AMD May Be Nvidia’s Biggest Threat in 2027",
-   "excerpt": "AI labs that once treated NVIDIA as the only option are quietly rewriting their chip orders. One frontier lab says a switch that took a year now takes days, and that shift could reshape AMD's 2027.",
-   "url": "https://247wallst.com/investing/2026/11/15/forget-jensen-huangs-resignation-amd-may-be-nvidias-biggest-threat-in-2027/?.tsrc=rss",
-   "published": "2026-11-15T17:09:23+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "일각에서 AMD가 2027년에 엔비디아의 가장 큰 위협이 될 수 있다고 전망했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "e1f6a51457cd740b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Eli Lilly Stock: What Its 23% Weight-Loss Combo and 27% Dropout Rate Mean",
-   "excerpt": "Key TakeawaysEli Lilly’s EloraTZP combination produced up to 23. 3% weight loss at 48 weeks in adults with obesity and type 2 diabetes, against 14.",
-   "url": "https://www.tikr.com/blog/eli-lilly-stock-what-its-23-weight-loss-combo-and-27-dropout-rate-mean?ref=yahoofinance&tlnk=yf-261115-3qj8h49f&.tsrc=rss",
-   "published": "2026-11-15T17:07:22+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "summary_ko": [
-    "일라이 릴리의 체중 감량 복합제가 비만 및 제2형 당뇨병 성인에게 효과를 보였다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "955c7d7eb50e8e03",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "DRAM Just Got More Expensive Than AI Memory. Here’s Why Micron Could Soar in 2027",
-   "excerpt": "Every HBM stack built for an AI accelerator devours wafer capacity that ordinary memory once claimed, and Micron's own management admits it cannot see when the squeeze ends. Why that shortage could reward patient investors is the real story.",
-   "url": "https://247wallst.com/investing/2026/11/15/dram-just-got-more-expensive-than-ai-memory-heres-why-micron-could-soar-in-2027/?.tsrc=rss",
-   "published": "2026-11-15T17:02:18+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "DRAM 메모리 품귀 현상과 이로 인해 마이크론이 수혜를 볼 수 있다는 주장을 다뤘다."
    ],
    "tone": "pos"
   }
