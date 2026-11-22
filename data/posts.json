@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-22T08:00:36.940657+00:00",
+ "updated": "2026-11-22T08:30:32.532664+00:00",
  "posts": [
+  {
+   "id": "c1a0568e03906639",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus",
+   "excerpt": "Chip export rules are tightening, Nvidia’s leadership just hit a shock twist and Beijing is hinting at rare earth and mineral pushback. Supply chains for AI and semiconductors are being rewired in real time, and investors who ignore that risk missing where capital and capacity may quietly regroup. This article walks through three stocks exposed to these headlines, explaining how the same story could create very different outcomes. The stocks highlighted below are just a small sample, while...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-supply-chain-shifts-080902983.html?.tsrc=rss",
+   "published": "2026-11-22T08:09:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "AI 및 반도체 공급망 변화 속에서 엔비디아와 관련된 세 종목을 다뤘다.",
+    "수출 규제 강화와 공급망 재편이 서로 다른 결과를 낳을 수 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "d5ae68b64908e8f8",
    "kind": "news",
@@ -78969,24 +78987,6 @@
     "파운더즈 AI가 2026년 마이크로소프트 올해의 파트너 트레이닝 서비스 부문 상을 수상했다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "c422182d5e4ef40d",
-   "kind": "reddit",
-   "source": "r/investing",
-   "author": "/u/pdp1145",
-   "title": "Maybe it was time for Jensen to move on, anyway?",
-   "excerpt": "Has there been much consideration of the fact that Jensen is now in his 60's, and by some reportage hasn't been involved in engineering meetings much in the last 10 years, and could actually be a little bit \"over the hill\" as far as the vision needed now in AI/ML hardware / software / application development. He was never actually a machine learning guy, but he understood the potential widespread advantage of parallel processing in a range of scientific and other high tech applications. He then hired the guy who was head of Stanford's CS dept, and supported those already within Nvidia in their quest for high performance parallel computing using their GPU's. Having worked in ML since the late 70's (started out in speech recognition), I can tell you that this field can move dizzyingly fast, ",
-   "url": "https://www.reddit.com/r/investing/comments/1xwq04j/maybe_it_was_time_for_jensen_to_move_on_anyway/",
-   "published": "2026-11-15T08:05:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황이 60대에 접어들었으며 최근 엔지니어링 회의에 자주 참여하지 않았다는 점을 다뤘다.",
-    "일각에서는 빠르게 변하는 AI 분야에서 새로운 비전을 제시하기에 시기가 적절했을 수 있다는 의견을 전했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
