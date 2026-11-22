@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T03:30:33.680331+00:00",
+ "updated": "2026-11-22T04:00:35.902255+00:00",
  "posts": [
   {
    "id": "a1ec655452e5bb85",
@@ -22,6 +22,24 @@
     "반면 엔비디아와 마이크론 주식은 매수하며 AI 칩 포트폴리오를 조정했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "da8dfa5788e4ea50",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 Top AI Stocks With At Least 14% ROE",
+   "excerpt": "The recent plunge in AI linked stocks, including Nvidia and Anthropic, has reminded investors that story alone is not enough. Profit matters. That selloff has pushed attention toward companies already earning solid cash flows from AI rather than just promising future breakthroughs. This article spotlights three profitable AI focused stocks from our screener that are turning heavy AI spending into real earnings and potentially more resilient business models. The three stocks below are just a...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/3-top-ai-stocks-least-031239184.html?.tsrc=rss",
+   "published": "2026-11-22T03:12:39+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "최근 AI 관련 주식의 하락으로 인해 수익성의 중요성이 부각되었다고 다뤘다.",
+    "탄탄한 현금 흐름을 창출하는 AI 종목들을 조명했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ac8e60087cbcf76a",
@@ -504,6 +522,24 @@
     "테슬라, 비자, 시스코 등 출연진의 선호 종목을 공유했다고 언급했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "855d33c6044a5a2a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why It’s Time to Buy the Pullback in Broadcom Stock",
+   "excerpt": "Broadcom is witnessing growing adoption of its custom AI accelerators among its customers and is likely to deliver solid EPS growth.",
+   "url": "https://www.barchart.com/story/news/8953006/why-its-time-to-buy-the-pullback-in-broadcom-stock?.tsrc=rss",
+   "published": "2026-11-21T21:30:03+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴의 맞춤형 AI 가속기 채택이 증가하고 있다고 다뤘다.",
+    "견고한 주당순이익(EPS) 성장을 기록할 것으로 전망했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b0d081300d685c87",
@@ -78894,42 +78930,6 @@
     "니오의 10월 차량 인도량이 전년 동기 대비 감소했으며, 4분기 목표 달성을 위해 남은 기간 동안 많은 판매량이 필요하다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "4fea7c50315fef45",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/tomis_24",
-   "title": "Retail investors hold ~28% of NVDA stocks, we just need 15% to call for a special meeting!",
-   "excerpt": "Who wants to take the lead and request a record date after confirming 15% of us will support it. Return of Jensen to the NVDA is the end game. submitted by /u/tomis_24 to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwlbov/retail_investors_hold_28_of_nvda_stocks_we_just/",
-   "published": "2026-11-15T03:34:03+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "개인 투자자가 엔비디아 주식의 약 28%를 보유하고 있다고 언급했다.",
-    "젠슨 황의 복귀를 위해 15%의 지분으로 임시 주주총회를 소집하자고 주장했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "68d8ffa9f236ccb7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Google Could Buy Uber to Win the Robotaxi Wars, Reuters Columnist Argues",
-   "excerpt": "Alphabet could buy Uber Technologies, combining its Waymo robotaxi business with America’s largest ride-hailing network, Reuters Breakingviews columnist Jennifer Saba argued Tuesday. The deal could benefit both companies. Waymo would gain Uber’s customers and expertise in running a ride-hailing service,...",
-   "url": "https://finance.yahoo.com/technology/articles/google-could-buy-uber-win-033038440.html?.tsrc=rss",
-   "published": "2026-11-15T03:30:38+00:00",
-   "tickers": [
-    "GOOGL",
-    "UBER"
-   ],
-   "summary_ko": [
-    "로이터 칼럼니스트는 구글이 로보택시 경쟁에서 우위를 점하기 위해 우버를 인수할 가능성이 있다고 주장했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
