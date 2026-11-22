@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:30:32.628025+00:00",
+ "updated": "2026-11-22T07:00:40.763433+00:00",
  "trends": [
   {
    "ticker": "ABNB",
@@ -79,13 +79,6 @@
    "ratio": 0.67
   },
   {
-   "ticker": "DELL",
-   "name_ko": "델",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 8,
-   "ratio": 0.5
-  },
-  {
    "ticker": "IONQ",
    "name_ko": "아이온큐",
    "mentions_24h": 2,
@@ -138,8 +131,8 @@
    "ticker": "BABA",
    "name_ko": "알리바바",
    "mentions_24h": 5,
-   "mentions_prev_24h": 15,
-   "ratio": 0.33
+   "mentions_prev_24h": 14,
+   "ratio": 0.36
   },
   {
    "ticker": "META",
@@ -194,8 +187,8 @@
    "ticker": "WMT",
    "name_ko": "월마트",
    "mentions_24h": 8,
-   "mentions_prev_24h": 31,
-   "ratio": 0.26
+   "mentions_prev_24h": 30,
+   "ratio": 0.27
   },
   {
    "ticker": "MU",
@@ -252,6 +245,13 @@
    "mentions_24h": 3,
    "mentions_prev_24h": 14,
    "ratio": 0.21
+  },
+  {
+   "ticker": "DELL",
+   "name_ko": "델",
+   "mentions_24h": 2,
+   "mentions_prev_24h": 10,
+   "ratio": 0.2
   },
   {
    "ticker": "MSFT",
