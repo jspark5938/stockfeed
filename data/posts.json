@@ -1,6 +1,143 @@
 {
- "updated": "2026-11-22T14:00:36.442989+00:00",
+ "updated": "2026-11-22T14:30:30.408189+00:00",
  "posts": [
+  {
+   "id": "4ceadabba098a5c3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Broadcom Stock Could Double by 2030",
+   "excerpt": "Broadcom stock is slightly lower this year, even as its AI chip revenue just tripled.",
+   "url": "https://www.fool.com/investing/2026/11/22/why-broadcom-stock-could-double-by-2030/?.tsrc=rss",
+   "published": "2026-11-22T14:20:02+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴의 AI 칩 매출이 세 배로 증가했음에도 올해 주가는 소폭 하락했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "23f7806007f91820",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures Due After Market's Worst Week Since Covid; Look For These Absolute Losers",
+   "excerpt": "The Dow Jones and Nasdaq had their worst week since March 2020, fueled by Nvidia and Anthropic. A fear gauge is soaring. Good news?",
+   "url": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures-due-after.html?.tsrc=rss",
+   "published": "2026-11-22T14:13:45+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아와 앤스로픽의 영향 등으로 다우존스와 나스닥이 코로나 이후 최악의 한 주를 보냈다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "d9315bb000276276",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Nvidia Board Faces a Governance Reckoning",
+   "excerpt": "On Bloomberg This Weekend, Bloomberg opinion columnist Gautam Mukunda tells hosts David Gura and Christina Ruffini that Jensen Huang’s departure from Nvidia has exposed broader corporate governance problems, as the board faces outside pressure to bring him back while investigations and potential shareholder litigation loom. Mukunda argues that Silicon Valley’s tendency to concentrate power around founder CEOs can weaken oversight, while Huang’s exit also complicates the debate over whether the US should allow advanced Nvidia chips to be sold to China. Nvidia has publicly said its board does not intend to reinstate Huang as CEO. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance",
+   "url": "https://www.youtube.com/watch?v=EJIMMebnHtk",
+   "published": "2026-11-22T14:09:43+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "블룸버그 칼럼니스트는 젠슨 황의 퇴임이 엔비디아의 기업 지배구조 문제를 드러냈다고 주장했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "cd71a7cb8c6ee0d1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Nvidia the Next Cisco? What the Dot-Com Crash Says About the AI Sell-Off",
+   "excerpt": "Nvidia posted a blockbuster quarter, yet its stock has cratered 41% in a month, and Wall Street keeps whispering Cisco. One set of numbers cuts against the chart, and one upcoming forecast could decide which story wins.",
+   "url": "https://247wallst.com/investing/2026/11/22/is-nvidia-the-next-cisco-what-the-dot-com-crash-says-about-the-ai-sell-off/?.tsrc=rss",
+   "published": "2026-11-22T14:06:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 호실적을 기록했음에도 한 달 동안 주가가 하락했으며 닷컴 버블 당시의 시스코와 비교되고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ad1d9c1d48fdd289",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Musk Warns AI’s “Cash Shortage Is Also Going to Be Nuts Next Year.” Credit Markets Put SpaceX Beside Oracle",
+   "excerpt": "Key TakeawaysElon Musk warned on X that AI’s compute delays will take “hundreds of billions of incremental dollars just for working capital” next year. SpaceX relies more on outside credit than its CFO’s self-funding message suggests.",
+   "url": "https://www.tikr.com/blog/musk-warns-ais-cash-shortage-is-also-going-to-be-nuts-next-year-credit-markets-put-spacex-beside-oracle?ref=yahoofinance&tlnk=yf-261122-hqcrhch5&.tsrc=rss",
+   "published": "2026-11-22T13:50:29+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "일론 머스크는 내년 AI 연산 지연에 막대한 운전자금이 필요할 것이라고 경고했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "729c1312a6111675",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Billionaire Chase Coleman’s Tiger Global Cut Its Alphabet Stake by 42%",
+   "excerpt": "Tiger Global dumped a huge chunk of its Alphabet shares just as Google Cloud exploded and free cash flow turned deeply negative. A 13F can't explain why, but it does expose a sizing lesson that matters more than the sale.",
+   "url": "https://247wallst.com/investing/2026/11/22/billionaire-chase-colemans-tiger-global-cut-its-alphabet-stake-by-42/?.tsrc=rss",
+   "published": "2026-11-22T13:49:49+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "억만장자 체이스 콜먼의 타이거 글로벌이 알파벳 지분의 42%를 매각했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fb65c312a92dc2a9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Arm Sinks 20% in a Week as Chips Slide and Nvidia’s Headhunters Approach CEO Rene Haas. Time to Buy?",
+   "excerpt": "Key TakeawaysArm shares fell 20% in a week in an AI chip selloff that also hit Nvidia and AMD. Arm’s own risk: Nvidia’s recruiters reportedly approached CEO Rene Haas, who leads Arm’s data center chip push.",
+   "url": "https://www.tikr.com/blog/arm-sinks-20-in-a-week-as-chips-slide-and-nvidias-headhunters-approach-ceo-rene-haas-time-to-buy?ref=yahoofinance&tlnk=yf-261122-5qfprg9c&.tsrc=rss",
+   "published": "2026-11-22T13:35:27+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": [
+    "AI 칩 매도세 속에서 암(Arm) 주가가 일주일간 20% 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "97d46b5ddd7d28c0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Arista Networks Lost 15% in a Week. Rosenblatt Sees 67% Upside From Here",
+   "excerpt": "Key TakeawaysArista Networks fell 15% in a week with no company news, caught in an AI-hardware selloff tied to Nvidia. Rosenblatt reiterated its Buy rating and $280 target during the drop.",
+   "url": "https://www.tikr.com/blog/arista-networks-lost-15-in-a-week-rosenblatt-sees-67-upside-from-here?ref=yahoofinance&tlnk=yf-261122-24r529hq&.tsrc=rss",
+   "published": "2026-11-22T13:35:21+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "아리스타 네트웍스는 기업 소식 없이 AI 하드웨어 매도세로 일주일간 15% 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "5cd88180634d633b",
    "kind": "news",
@@ -4554,6 +4691,23 @@
     "그가 차량을 주문했다고 확인하자 일론 머스크가 소셜미디어를 통해 긍정적으로 반응했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "f0e70a97db9badfe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cantor Fitzgerald Cut Its Nike Target to $33 From $38. Is Even That Too Generous?",
+   "excerpt": "Key TakeawaysCantor Fitzgerald cut its Nike price target to $33 from $38 after Nike’s Investor Day and kept its Neutral rating, which puts the target right around today’s price. Nike said fiscal 2028 adjusted EPS should decline modestly and put its turnaround in fiscal 2029, a long wait that also hits Dick’s Sporting Goods, which buys about 31% of its merchandise from Nike.",
+   "url": "https://www.tikr.com/blog/cantor-fitzgerald-cut-its-nike-target-to-33-from-38-is-even-that-too-generous?ref=yahoofinance&tlnk=yf-261122-3jp79h2h&.tsrc=rss",
+   "published": "2026-11-21T06:08:13+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "캔터 피츠제럴드는 나이키의 목표주가를 하향 조정하고 중립 의견을 유지했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "07e242f84aacc538",
@@ -79145,167 +79299,6 @@
     "시장이 AI 시대에서 가치를 발견하고 있다고 분석했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "31e1588e9694a3a6",
-   "kind": "youtube",
-   "source": "Brighter with Herbert",
-   "author": "Brighter with Herbert",
-   "title": "Elon’s Next Bet: Can SpaceX Revive Small-Town America?",
-   "excerpt": "SpaceX Starbase Louisiana is a $100 billion bet on small-town America, with 3,000 direct jobs and up to 30 Starship flights a day. Larry Goldberg is a serial entrepreneur and has been an active Venture Capital investor for the last decade. Check out lumasenti.com Follow Larry on X: @TeslaLarry 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Own a Tesla? Get a free month of Full Self-Driving (Supervised) when you use my link. ━━━━━━━━━━━━━━ Get b",
-   "url": "https://www.youtube.com/watch?v=w-sSY1WeVFg",
-   "published": "2026-11-15T14:30:28+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "스페이스X의 스타베이스 루이지애나가 소도시 경제에 미칠 영향과 관련 사업 계획을 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ef41249485c2c09d",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Jensen Huang Resignation Rattles AI Trade: NVDA Earnings Enough for Recovery?",
-   "excerpt": "After Nvidia (NVDA) sold off following Jensen Huang's resignation as CEO, Stephanie Walter says it's a testament to how closely entangled he is within the larger AI economy. Melissa Armo questions if the stocks are ready to \"take a breather\" and if looking for discounts in this type of volatility is worth it. Melissa and Stephanie agree there's a lot that could unfold with Nvidia's earnings report next week, and how exceptional it needs to be to restore investor confidence. Segment originally aired Thursday, November 12, 2026. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow",
-   "url": "https://www.youtube.com/watch?v=b8Ov3UA4wiE",
-   "published": "2026-11-15T14:30:04+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "엔비디아 젠슨 황 CEO의 사임이 AI 생태계에 미친 영향과 향후 실적 발표의 중요성을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "45f9ec1851b0a46d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Broadcom Stock Jumps as Nvidia’s Leadership Crisis Raises a Billion-Dollar Opportunity for Its AI Chip Business",
-   "excerpt": "Nvidia's leadership shake-up sends Broadcom shares higher as investors weigh a potential shift in AI chip demand against its premium valuation",
-   "url": "https://www.barchart.com/story/news/8844179/broadcom-stock-jumps-as-nvidias-leadership-crisis-raises-a-billion-dollar-opportunity-for-its-ai-chip-business?.tsrc=rss",
-   "published": "2026-11-15T14:25:25+00:00",
-   "tickers": [
-    "NVDA",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "엔비디아의 리더십 위기로 인해 브로드컴 주가가 상승했다고 다뤘다.",
-    "AI 칩 수요 변화 가능성을 두고 투자자들이 평가를 저울질하고 있다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "93796ea29d8fa1c2",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/neillson01",
-   "title": "$WMT Is Overvalued",
-   "excerpt": "We all know the rotation trade has been on and off all throughout the year and it started again in October. Consumer defensives are now reaching biblical valuations across the board. WMT is priced at 47x earnings (33% above the 5 year average) and the company has a YoY growth rate of 5.3%, compared to other sectors in this market, this is through the ceiling valuations. WMT has dropped on all 3 earnings this year, 1.38% Feb, 7.27% in May and 9.5% in Aug, despite beating EPS on all 3 instances. Earnings call is Thursday before the open, if they do not show an insane beat on growth rate it only makes sense to correct. Technicals: there was a large gap in June that has recently been filled. Currently 9% above 200 daily MA. Positions 25x Dec 18 $130P 25x Dec 4 $125P opening Monday Price Target",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwwq7f/wmt_is_overvalued/",
-   "published": "2026-11-15T14:23:12+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트(WMT)의 밸류에이션이 5년 평균을 크게 웃돌며 과대평가되었다고 주장했다.",
-    "지속적인 실적 발표 이후 주가가 하락세를 보였다고 지적했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "04e87166215bac2b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla Is Down 13% in 2026 While the S&P 500 Is Up. Here’s the 1 Catalyst Left This Year That Could Flip That.",
-   "excerpt": "Tesla's 2026 stock performance is tied to its robotaxi and Cybercab rollout, and management could release some good news on it before year-end.",
-   "url": "https://www.fool.com/investing/2026/11/15/tesla-is-down-13-in-2026-while-the-sp-500-is-up-heres-the-1-catalyst-left-this-year-that-could-flip-that/?.tsrc=rss",
-   "published": "2026-11-15T14:15:02+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라 주가는 2026년에 하락한 반면 S&P 500은 상승했다고 전했다.",
-    "로보택시와 사이버캐브 출시가 주가 반등을 이끌 올해 남은 촉매로 꼽혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2a0a8b170ac46e5a",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/Sangjuu",
-   "title": "What if I told you one of the more interesting clues about NVDA isn't coming from America?",
-   "excerpt": "I used to work as a professional trader at a top-tier hedge fund. Thought I’d share something I picked up along the way that might actually be useful to some of youuui. It’s one of those things that isn’t exactly a secret, but unless you’ve worked in the industry, chances are you’ve never thought to look at it. And no, I’m not selling a course or asking anyone to join a Discord lol. Anyway, here’s something interesting. Singapore is a tiny country, but it plays a pretty important role in the global semiconductor and electronics supply chain. A lot of people watch Nvidia, AMD, the Nasdaq, Fed announcements, etc. Nothing wrong with that. But here’s something you might not know. Every month, Singapore publishes a report called Non-Oil Domestic Exports (NODX). Sounds boring as hell, I know. Bu",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwwi0a/what_if_i_told_you_one_of_the_more_interesting/",
-   "published": "2026-11-15T14:13:23+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "싱가포르의 월간 비석유 국내수출(NODX) 보고서가 글로벌 반도체 공급망을 파악하는 단서가 될 수 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d369ea2ca9a86649",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Nvidia Crisis Reshapes Washington’s Tech Debate",
-   "excerpt": "Veda Partners’ Henrietta Treyz and Washington Post national security reporter Tara Copp are on Bloomberg This Weekend to discuss how the Nvidia crisis is fueling bipartisan scrutiny of chip export controls and raising national security concerns about the Pentagon’s reliance on advanced technology. Speaking with hosts David Gura and Christina Ruffini, Treyz and Copp also examine the prospects for congressional investigations and tighter chip restrictions, as well as funding battles over the FAA and the continuing US conflict with Iran. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more",
-   "url": "https://www.youtube.com/watch?v=lmaz-aNBn_o",
-   "published": "2026-11-15T14:08:33+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 관련 현안으로 인해 워싱턴에서 반도체 수출 통제와 국가 안보 우려가 심화되고 있음을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "e203c005addab5fa",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft Ignite Starts Nov. 17. Will Microsoft Update Its Paid Copilot Seat Count?",
-   "excerpt": "The software giant skipped that number in October, after sharing it three quarters straight.",
-   "url": "https://www.fool.com/investing/2026/11/15/microsoft-ignite-starts-nov-17-will-microsoft-update-its-paid-copilot-seat-count/?.tsrc=rss",
-   "published": "2026-11-15T14:03:01+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "11월 17일에 마이크로소프트 이그나이트 행사가 시작된다고 언급했다.",
-    "유료 코파일럿 사용자 수를 업데이트할지 주목된다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "fdf079a2f979cd3a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia earnings collide with Fed's biggest AI challenge under Warsh",
-   "excerpt": "Fed AI task force takes on potential impact on U.S. economy including inflation, jobs.",
-   "url": "https://www.thestreet.com/fed/fed-warsh-ai-task-force-nvidia-earnings?.tsrc=rss",
-   "published": "2026-11-15T14:03:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 실적 발표와 연준의 AI 태스크포스 과제가 맞물렸다고 다뤘다.",
-    "연준 태스크포스는 인플레이션과 고용 등 미국 경제에 미칠 잠재적 영향을 다룬다고 전했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
