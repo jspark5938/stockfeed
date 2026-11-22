@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-22T11:30:31.350254+00:00",
+ "updated": "2026-11-22T12:00:38.682908+00:00",
  "posts": [
+  {
+   "id": "70ee724417914f1f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jim Cramer Will “Thank the Shortseller for a Discount” on AMD. Is the China Risk Overblown?",
+   "excerpt": "Key TakeawaysAMD fell 20% in two days, starting with an 8% drop after short seller Hunterbrook reported that a blacklisted Chinese server maker kept using newer AMD firmware. The firmware is for EPYC server CPUs, and Hunterbrook says its findings don’t prove an export violation.",
+   "url": "https://www.tikr.com/blog/jim-cramer-will-thank-the-shortseller-for-a-discount-on-amd-is-the-china-risk-overblown?ref=yahoofinance&tlnk=yf-261122-98h9mg2g&.tsrc=rss",
+   "published": "2026-11-22T11:51:55+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "공매도 업체의 보고서 여파 등으로 AMD 주가가 하락했다고 다뤘다.",
+    "중국 서버 업체의 펌웨어 사용 문제가 제기되었으나 수출 위반 증거는 아니라고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "daad0c502b97b77f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Aswath Damodaran Put a “Limit Buy on Nvidia at 140.” Here’s the Math Behind His Price",
+   "excerpt": "Key TakeawaysAswath Damodaran placed a $140 limit buy on NVIDIA, and the stock closed at $125. 53 on Nov.",
+   "url": "https://www.tikr.com/blog/aswath-damodaran-put-a-limit-buy-on-nvidia-at-140-heres-the-math-behind-his-price?ref=yahoofinance&tlnk=yf-261122-2g2jvjh6&.tsrc=rss",
+   "published": "2026-11-22T11:31:56+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "애스워드 다모다란이 엔비디아에 대해 140달러 지정가 매수를 설정했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2bfc3c7e0172afc3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $37 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysDragoneer Investment Group, which manages $37 billion, made new stakes in SK hynix and Intel its two biggest holdings by Sept. 30, and it bought more Amazon.",
+   "url": "https://www.tikr.com/blog/a-37-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-8gr2cg9x&.tsrc=rss",
+   "published": "2026-11-22T11:23:17+00:00",
+   "tickers": [
+    "AMZN",
+    "INTC"
+   ],
+   "summary_ko": [
+    "드래고니어 투자 그룹이 SK하이닉스와 인텔을 새로운 주요 보유 종목으로 편입하고 아마존을 추가 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "1d189c5a332fa1de",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $6.6 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysA $6. 6 billion fund’s three biggest buys of the third quarter were Meta Platforms, US Foods and Burlington Stores, its latest 13F shows.",
+   "url": "https://www.tikr.com/blog/a-6-6-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-6qpxc48r&.tsrc=rss",
+   "published": "2026-11-22T11:21:43+00:00",
+   "tickers": [
+    "META"
+   ],
+   "summary_ko": [
+    "한 대형 펀드가 3분기 동안 메타 플랫폼스 등을 가장 많이 매수했다고 13F 보고서를 인용해 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ba9625d1f832258e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $3.1 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysA $3. 1 billion fund added to Microsoft, Amazon and MSCI in the third quarter, its three biggest new or added positions, per its 13F filed Nov.",
+   "url": "https://www.tikr.com/blog/a-3-1-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-x5gqq5xg&.tsrc=rss",
+   "published": "2026-11-22T11:20:52+00:00",
+   "tickers": [
+    "MSFT",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "한 대형 펀드가 3분기에 마이크로소프트, 아마존 등의 지분을 추가하거나 신규 매수했다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "a71dbf4f79ca3a41",
    "kind": "news",
@@ -14,9 +102,10 @@
     "MSFT",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "KR 캐피탈이 3분기에 마이크로소프트 포지션을 새로 열고 아마존 등을 추가했다고 13F 보고서 내용을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e27f4e08bf7d92c1",
@@ -30,9 +119,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아의 중국 칩 중단 조치와 거시경제 이슈가 AI 인프라 종목들의 자금 흐름에 미치는 영향을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3adcf876bc7d552a",
@@ -46,9 +136,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아가 SEC의 회계 조사 사실을 공시했으며 젠슨 황 CEO가 사임했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "58e887eb79c44deb",
@@ -62,9 +153,10 @@
    "tickers": [
     "PLTR"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "스탠리 드러켄밀러를 포함한 다수의 대형 펀드가 지난 분기 팔란티어를 매수했으며 일부는 매도했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3a2e6103ceffe858",
@@ -78,9 +170,10 @@
    "tickers": [
     "NKE"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "나이키 주가가 최고점 대비 하락한 가운데 배당 수익률에 대해 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "d94ab070570524b7",
@@ -94,9 +187,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월스트리트가 앤트로픽부터 엔비디아에 이르기까지 변동성이 큰 한 주를 보냈다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "6c699c8667d3e570",
@@ -110,9 +204,10 @@
    "tickers": [
     "BABA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "씨티가 알리바바의 목표주가를 하향 조정하고 매수 의견을 유지했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "be8cbb79616cad0c",
@@ -216,9 +311,10 @@
     "NVDA",
     "AAPL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "진 먼스터가 펀더멘털 개선만으로 매도세가 끝나지 않는다고 경고하며 엔비디아를 2012년의 애플에 비유했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "03a0ada2e888529a",
@@ -79140,78 +79236,6 @@
     "엔비디아 주가가 지난 한 달간 약 30% 하락하면서 은퇴 자금에 타격을 주었다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "4adc6e4c8fcb9f81",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That’s Up 24.8% This Year.",
-   "excerpt": "The Vanguard Russell 1000 Value ETF is crushing the S&P 500 due to a unique mix of traditional blue chip value stocks and mature tech-focused companies.",
-   "url": "https://www.fool.com/investing/2026/11/15/want-to-invest-in-top-growth-stocks-like-amazon-apple-and-microsoft-but-avoid-nvidia-consider-this-low-cost-vanguard-etf-that-s-up-24-8-this-year/?.tsrc=rss",
-   "published": "2026-11-15T11:50:02+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL",
-    "MSFT",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "뱅가드 러셀 1000 가치 ETF가 올해 큰 폭으로 상승하며 S&P 500을 앞서고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "35cb2e747d2293b6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jim Cramer Questions If Jensen Huang Betrayed Nvidia Shareholders, Says Former CEO Let Investors Down: ‘Yes. End Of Story’",
-   "excerpt": "Nvidia Corp. is facing renewed investor uncertainty as CNBC’s Jim Cramer said that former CEO Jensen Huang let down the shareholders. Cramer accused Huang of placing Nvidia’s future at risk and rhetorically questioned whether he had betrayed shareholders. \"Yes. End...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-questions-jensen-huang-114507003.html?.tsrc=rss",
-   "published": "2026-11-15T11:45:07+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "짐 크레이머는 전 CEO 젠슨 황이 주주들을 실망시켰다고 언급하며 투자자 불확실성이 커졌다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ff6dcd0581fe1786",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Megaspeed says exec tied to ex-Nvidia CEO left in 2025 amid U.S. chip scrutiny",
-   "excerpt": "Investing.com -- Singapore cloud firm Megaspeed said an executive tied to former Nvidia CEO Jensen Huang left in August 2025, but it did not say whether she still controls the company, as it faces U.S. scrutiny over whether Nvidia chips reached Chinese customers.",
-   "url": "https://finance.yahoo.com/technology/articles/megaspeed-says-exec-tied-ex-114431054.html?.tsrc=rss",
-   "published": "2026-11-15T11:44:31+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "메가스피드는 전 엔비디아 CEO와 연관된 임원이 작년 8월에 회사를 떠났다고 밝혔다.",
-    "엔비디아 칩이 중국 고객에게 도달했는지에 대한 미국의 조사를 받고 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "06c161d0371a0d64",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $7.5 Billion Fund Bought These 3 Stocks",
-   "excerpt": "Key Takeaways59 North Capital Management, a firm managing $7. 5 billion, added to its stakes in Disney, Louisiana-Pacific and Genuine Parts in the quarter ended June 30, 2026, its latest 13F shows.",
-   "url": "https://www.tikr.com/blog/a-7-5-billion-fund-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261115-4c68hf8p&.tsrc=rss",
-   "published": "2026-11-15T11:38:49+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "summary_ko": [
-    "75억 달러 규모의 펀드를 운용하는 회사가 디즈니 등의 지분을 늘렸다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
