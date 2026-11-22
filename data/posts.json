@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-22T02:00:38.493075+00:00",
+ "updated": "2026-11-22T02:30:30.571380+00:00",
  "posts": [
+  {
+   "id": "721b2c276a48021d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Says It Just Signed Its First Customer for Its Most Advanced Chipmaking Process. The Stock Is Still More Than 60% Below Its June Record.",
+   "excerpt": "The chipmaker isn't naming the customer. What would the deal need to become to matter?",
+   "url": "https://www.fool.com/investing/2026/11/21/intel-says-it-just-signed-its-first-customer-for-its-most-advanced-chipmaking-process-the-stock-is-still-more-than-60-below-its-june-record/?.tsrc=rss",
+   "published": "2026-11-22T02:07:02+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔이 최첨단 공정의 첫 고객사를 확보했다고 밝혔다.",
+    "다만 고객사의 이름은 공개하지 않았다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "df6040aa4220be63",
    "kind": "news",
@@ -78982,78 +79000,6 @@
     "오펜하이머의 상향 조정과 엔비디아의 혼란 속에서 AMD 주가가 일주일 동안 큰 폭으로 상승했다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "58d70c0edd5051c0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "NIO Sinks 14% in a Week to a New 52-Week Low. Is the Selling Overdone?",
-   "excerpt": "Key TakeawaysNIO stock fell 14% in a week to a new 52-week low with no major company news, as XPeng and Li Auto slid too while the broader market rose. October’s drop in deliveries has investors doubting NIO’s fourth quarter.",
-   "url": "https://www.tikr.com/blog/nio-sinks-14-in-a-week-to-a-new-52-week-low-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261115-8459pf4r&.tsrc=rss",
-   "published": "2026-11-15T02:28:08+00:00",
-   "tickers": [
-    "NIO"
-   ],
-   "summary_ko": [
-    "니오 주가가 1주일간 14% 하락하며 신저가를 기록했다고 다뤘다.",
-    "10월 인도량 감소로 인해 4분기에 대한 투자자들의 우려가 커졌다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ef6845829a344cf4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Broadcom Jumped as Nvidia Fell. This Is What Has Investors Excited.",
-   "excerpt": "Broadcom may be able to capitalize on Nvidia's misstep.",
-   "url": "https://www.fool.com/investing/2026/11/14/broadcom-jumped-as-nvidia-fell-this-is-what-has-investors-excited/?.tsrc=rss",
-   "published": "2026-11-15T02:20:02+00:00",
-   "tickers": [
-    "NVDA",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "엔비디아가 하락한 반면 브로드컴은 상승했다고 전했다.",
-    "브로드컴이 엔비디아의 실수를 활용할 수 있을지 주목받고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "682c791ef4c69662",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Evercore explains why Apple has the right assets to win the personal agents race",
-   "excerpt": "Investing.com -- Apple Inc (NASDAQ:AAPL) has the technology, user base, and payment infrastructure to become a leading player in personal AI agents, potentially generating billions in new revenue, according to Evercore ISI analyst Amit Daryanani.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/evercore-explains-why-apple-assets-020804809.html?.tsrc=rss",
-   "published": "2026-11-15T02:08:04+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "애플이 개인용 AI 에이전트 분야에서 우위를 점할 자산을 갖추고 있다고 에버코어가 분석했다.",
-    "이를 통해 막대한 신규 매출을 창출할 잠재력이 있다고 전망했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "63b8d1627ed2c88a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bank Of America (BAC) Agrees To Settle Unauthorized Account Openings Class Action",
-   "excerpt": "Bank of America (NYSE:BAC) has agreed to settle a class-action lawsuit over allegedly unauthorized customer account openings. The agreement resolves claims that the bank opened accounts without proper customer consent, mirroring issues previously seen at other large lenders. Settlement terms are subject to court approval, with affected customers expected to receive compensation through a claims process. This alleged unauthorized account opening settlement is important context, but investors...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-agrees-settle-020800688.html?.tsrc=rss",
-   "published": "2026-11-15T02:08:00+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "summary_ko": [
-    "뱅크오브아메리카가 무단 계좌 개설 관련 집단소송 합의에 동의했다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
