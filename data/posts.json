@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-22T21:00:37.849412+00:00",
+ "updated": "2026-11-22T21:16:31.182119+00:00",
  "posts": [
+  {
+   "id": "ee970f4d3abf326a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jeff Bezos sends a strong signal to Nvidia stock investors as CEO search heats up",
+   "excerpt": "The Amazon founder has a warning for Nvidia’s board as it weighs who should replace Jensen Huang.",
+   "url": "https://www.thestreet.com/investing/jeff-bezos-sends-a-strong-signal-to-nvidia-stock-investors-as-ceo-search-heats-up?.tsrc=rss",
+   "published": "2026-11-22T21:07:00+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "cb58805c311c9439",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Gas Prices Hitting Holiday Travel? Robert Sinclair, Jr. Sees Thanksgiving Shift",
+   "excerpt": "Robert Sinclair, Jr. speaks on the outlook of holiday travel, which he expects a slight dip due to the rise of gas prices. He says this economic impact shifts different sectors of the travel industry like cruises, theme parks, and other upfront cost travel options. Robert shares his opinions on best travel tips for the holiday season. Segment originally aired Tuesday, November 17, 2026. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #holidaytravel #gasprices #oilprices #travel #economy #investing #finance #stoc",
+   "url": "https://www.youtube.com/watch?v=O3efnxD8N78",
+   "published": "2026-11-22T21:00:04+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "392a6010fa73e2d5",
    "kind": "news",
@@ -1379,6 +1412,22 @@
    "tone": "pos"
   },
   {
+   "id": "fb23f739fca7ae3d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why is Apple Stock Holding Strong While the Rest of the Market Falls?",
+   "excerpt": "Apple stock sits near its record as the S&P 500 falls, and BTIG says a stock market bottom has needed Apple to drop.",
+   "url": "https://beincrypto.com/apple-stock-market-crash-price-outlook/?.tsrc=rss",
+   "published": "2026-11-22T12:25:31+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
    "id": "b2fb3381c59918b8",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1778,6 +1827,23 @@
     "빠른 전자상거래 성장이 마진을 끌어올릴 것으로 전망했다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "174aaf666e6db0d0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bank of America Names 5 Stocks to Buy Before Christmas 2026",
+   "excerpt": "Bank of America named Disney, Caterpillar, Medtronic, Expeditors, and Flex as year-end buys as the AI sell-off deepens.",
+   "url": "https://beincrypto.com/bank-of-america-year-end-stock-picks/?.tsrc=rss",
+   "published": "2026-11-22T10:24:38+00:00",
+   "tickers": [
+    "DIS",
+    "BAC"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "37c53f6defca8150",
@@ -3645,6 +3711,22 @@
     "두 기업의 밸류에이션 차이가 펀더멘털이 시사하는 것보다 크다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "11358a0a6dac7669",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "US Dollar Beats Bitcoin, Gold and Stocks as Fed Rate Hike Fears Grow",
+   "excerpt": "The US dollar was the only gainer among 14 assets in a Coinbase Institutional report as real yields neared an 18-year high.",
+   "url": "https://beincrypto.com/us-dollar-beats-bitcoin-gold-stocks-what-next/?.tsrc=rss",
+   "published": "2026-11-21T16:33:50+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "f4ec312e474048be",
@@ -5753,6 +5835,22 @@
    "tone": "neg"
   },
   {
+   "id": "b753e1ca8bbfcddb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AMD Stock Crashes Another 13% – What’s Driving This Crisis?",
+   "excerpt": "AMD shares plunged 13% in a brutal selloff. Here are the three key factors behind the chipmaker’s latest decline.",
+   "url": "https://beincrypto.com/amd-stock-price-crash-key-reasons/?.tsrc=rss",
+   "published": "2026-11-21T06:00:00+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
    "id": "07e242f84aacc538",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -5930,6 +6028,22 @@
     "미국의 한 스타트업이 인도에서 아이폰과 애플워치 관련 기능으로 애플을 상대로 소송을 제기했다고 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "d2d468419a4268e3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave",
+   "excerpt": "Leveraged Nvidia and SanDisk stock bets joined Bitcoin in $1.76 billion of crypto liquidations as chip shares slid.",
+   "url": "https://beincrypto.com/crypto-liquidations-nvidia-sandisk-stock-bets/?.tsrc=rss",
+   "published": "2026-11-21T03:42:38+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "3bb7001a0da02599",
@@ -79022,41 +79136,6 @@
     "엔비디아 CEO 젠슨 황의 사임 소식과 함께 주가 하락 소식을 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "555e834b61bcedd5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang may return as Nvidia chief executive - report",
-   "excerpt": "Investing.com -- Jensen Huang is weighing a return as Nvidia’s chief executive after resigning last week, as supporters in Silicon Valley push the company’s board to bring him back.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-may-return-nvidia-210940404.html?.tsrc=rss",
-   "published": "2026-11-15T21:09:40+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황이 엔비디아 CEO로 복귀할 가능성을 검토 중이라고 보도했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "901d6a8f1c8ade1b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Popular fund manager switches Nvidia shares for Micron amid Huang drama",
-   "excerpt": "Hightower Advisors’ Stephanie Link gives reasons every investor should see for choosing Micron over Nvidia.",
-   "url": "https://www.thestreet.com/investing/stocks/popular-fund-manager-switches-nvidia-shares-for-micron-amid-huang-drama?.tsrc=rss",
-   "published": "2026-11-15T21:07:00+00:00",
-   "tickers": [
-    "NVDA",
-    "MU"
-   ],
-   "summary_ko": [
-    "한 펀드 매니저가 엔비디아 주식을 매도하고 마이크론을 택했다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
