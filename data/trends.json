@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:00:38.278762+00:00",
+ "updated": "2026-11-22T22:30:29.148598+00:00",
  "trends": [
   {
    "ticker": "JPM",
@@ -21,6 +21,13 @@
    "mentions_24h": 5,
    "mentions_prev_24h": 2,
    "ratio": 2.5
+  },
+  {
+   "ticker": "AAPL",
+   "name_ko": "애플",
+   "mentions_24h": 8,
+   "mentions_prev_24h": 4,
+   "ratio": 2.0
   },
   {
    "ticker": "PLTR",
@@ -51,18 +58,11 @@
    "ratio": 1.67
   },
   {
-   "ticker": "AAPL",
-   "name_ko": "애플",
-   "mentions_24h": 8,
-   "mentions_prev_24h": 5,
-   "ratio": 1.6
-  },
-  {
    "ticker": "GOOGL",
    "name_ko": "알파벳(구글)",
    "mentions_24h": 15,
-   "mentions_prev_24h": 12,
-   "ratio": 1.25
+   "mentions_prev_24h": 11,
+   "ratio": 1.36
   },
   {
    "ticker": "DIS",
@@ -124,8 +124,15 @@
    "ticker": "AVGO",
    "name_ko": "브로드컴",
    "mentions_24h": 9,
-   "mentions_prev_24h": 12,
-   "ratio": 0.75
+   "mentions_prev_24h": 11,
+   "ratio": 0.82
+  },
+  {
+   "ticker": "MSFT",
+   "name_ko": "마이크로소프트",
+   "mentions_24h": 11,
+   "mentions_prev_24h": 15,
+   "ratio": 0.73
   },
   {
    "ticker": "META",
@@ -156,6 +163,13 @@
    "ratio": 0.67
   },
   {
+   "ticker": "AMZN",
+   "name_ko": "아마존",
+   "mentions_24h": 16,
+   "mentions_prev_24h": 25,
+   "ratio": 0.64
+  },
+  {
    "ticker": "WMT",
    "name_ko": "월마트",
    "mentions_24h": 7,
@@ -165,23 +179,9 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 44,
-   "mentions_prev_24h": 71,
-   "ratio": 0.62
-  },
-  {
-   "ticker": "AMZN",
-   "name_ko": "아마존",
-   "mentions_24h": 16,
-   "mentions_prev_24h": 26,
-   "ratio": 0.62
-  },
-  {
-   "ticker": "MSFT",
-   "name_ko": "마이크로소프트",
-   "mentions_24h": 11,
-   "mentions_prev_24h": 18,
-   "ratio": 0.61
+   "mentions_24h": 43,
+   "mentions_prev_24h": 68,
+   "ratio": 0.63
   },
   {
    "ticker": "TSLA",
@@ -195,13 +195,6 @@
    "name_ko": "마이크론",
    "mentions_24h": 3,
    "mentions_prev_24h": 6,
-   "ratio": 0.5
-  },
-  {
-   "ticker": "PANW",
-   "name_ko": "팔로알토",
-   "mentions_24h": 2,
-   "mentions_prev_24h": 4,
    "ratio": 0.5
   },
   {
