@@ -1,6 +1,43 @@
 {
- "updated": "2026-11-21T23:30:30.824491+00:00",
+ "updated": "2026-11-22T00:00:40.245271+00:00",
  "posts": [
+  {
+   "id": "5c351cd33d76e762",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Says He's Looking at Netflix Stock in the High $30s. I'd Consider It Now, Well Above That.",
+   "excerpt": "The famous investor is eyeing a price around a third lower. Is it worth waiting for?",
+   "url": "https://www.fool.com/investing/2026/11/21/michael-burry-says-he-s-looking-at-netflix-stock-in-the-high-usd30s-i-d-consider-it-now-well-above-that/?.tsrc=rss",
+   "published": "2026-11-21T23:42:02+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "마이클 버리는 넷플릭스 주가가 30달러대 후반까지 하락할 가능성을 주시하고 있다고 언급했다.",
+    "작성자는 현재 주가가 그보다 훨씬 높지만 지금도 고려해 볼 수 있다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "afbbdab6e2d61c19",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy for 2027?",
+   "excerpt": "AppLovin is growing fast and is highly profitable, but its stock has been volatile. Reddit is profitable and still growing, but Google's AI search is sending it fewer visitors.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/21/applovin-vs-reddit-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-21T23:39:26+00:00",
+   "tickers": [
+    "GOOGL",
+    "APP"
+   ],
+   "summary_ko": [
+    "앱러빈은 빠르게 성장하며 높은 수익성을 보이지만 주가 변동성이 크다고 다뤘다.",
+    "레딧은 수익성과 성장을 유지하고 있으나 구글 AI 검색으로 방문자가 줄고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "fd364d4103f0fcee",
    "kind": "news",
@@ -122,6 +159,24 @@
     "노보 노디스크의 경구용 비만 치료제 웨고비 알약이 신규 처방의 다수를 차지하고 있다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "ebd2bdbe5f7cc6f9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks CEO Nikesh Arora Says Companies Haven't 'Figured Out' AI Coding Security: 'Don't Let Your Coding Agents Run Amok Into Your Enterprise'",
+   "excerpt": "Palo Alto Networks Inc. CEO Nikesh Arora warned that many companies still haven’t learned how to secure AI developer tools such as Anthropic‘s Claude Code, OpenAI‘s Codex, and Space Exploration Technologies Corp.‘s Cursor. Enterprises Have Not Secured AI Developer Tools...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-ceo-nikesh-223004375.html?.tsrc=rss",
+   "published": "2026-11-21T22:30:04+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스 CEO는 기업들이 AI 코딩 보안을 아직 제대로 파악하지 못했다고 경고했다.",
+    "기업들에게 AI 코딩 에이전트가 기업 시스템 안에서 무분별하게 작동하도록 방치하지 말라고 조언했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c0087e8545889129",
@@ -78873,41 +78928,6 @@
    ],
    "summary_ko": [
     "AI 인프라 지출이 급증하는 가운데 초점이 소프트웨어 기업들로 이동하고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3695dd4fa093a4ff",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Warren Buffett’s Berkshire Just Hit a Record High as Nvidia Sank. A 67-Year-Old Who Bought 1,000 Shares in 2016 Can Sell $106,000 of It This Year and Pay 0% on the Gain",
-   "excerpt": "Berkshire Hathaway rose all five days and closed Friday at a record $592.94, up 3.9% in the week Nvidia lost its CEO and fell 12.7%. A 67-year-old who bought 1,000 Class B shares ten years ago at $157.93 holds $592,940 and a $435,010 gain in a stock that pays no dividend. Under 2026's 0% capital gains ceiling he can sell 179 shares, about $106,000, and owe nothing on the gain; the only cost is $2,075 of tax on Social Security that the sale makes taxable.",
-   "url": "https://247wallst.com/investing/2026/11/14/warren-buffetts-berkshire-just-hit-a-record-high-as-nvidia-sank-a-67-year-old-who-bought-1000-shares-in-2016-can-sell-106000-of-it-this-year-and-pay-0-on-the-gain/?.tsrc=rss",
-   "published": "2026-11-14T23:53:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "버크셔 해서웨이가 사상 최고치를 기록한 반면 엔비디아는 하락했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f495b5066e2fb382",
-   "kind": "reddit",
-   "source": "r/investing",
-   "author": "/u/OilAny787",
-   "title": "NVDA reports Tuesday, quarter looks fine, but I think the market is underpricing what he carried.",
-   "excerpt": "Nvidia reports on Tuesday, five days after Jensen Huang resigned. CFO Colette Kress is now interim CEO while keeping the CFO role, Harvey Jones has become the company’s first independent chair, and the board says it is considering internal and external candidates. Operations are still strong, Q2 FY27 revenue was $96.2B, up 106% year on year, against a street number of roughly $92B. Q3 is guided to $108B plus or minus 2%, consensus sits around $108.8B and $2.47 EPS, and management guided fiscal 2028 growth of around 70% while calling it supply constrained. A CEO change four days before the print shouldn’t change a quarter that’s already closed. The bear case for the next couple of weeks has three parts essentially. The first is leadership. Huang’s value was largely outside the P&L, export l",
-   "url": "https://www.reddit.com/r/investing/comments/1xwgwlr/nvda_reports_tuesday_quarter_looks_fine_but_i/",
-   "published": "2026-11-14T23:49:43+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 2분기 매출이 크게 증가했으며 3분기 실적 가이드라인도 양호하다고 다뤘다.",
-    "다만 최고경영자 사임 등의 리더십 변화가 향후 주가에 부담이 될 수 있다고 보았다."
    ],
    "tone": "neu"
   }
