@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-22T09:00:38.285392+00:00",
+ "updated": "2026-11-22T09:30:31.979888+00:00",
  "posts": [
+  {
+   "id": "c9415f16975676a6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft Stock Gave Back 8% Within 2 Weeks of Its Record. Here's How Past Quick Pullbacks Like This Played Out.",
+   "excerpt": "Quick slides like this have hit the software giant 18 times since 1995. How many finished lower a year later?",
+   "url": "https://www.fool.com/investing/2026/11/22/microsoft-stock-gave-back-8-within-2-weeks-of-its-record-here-s-how-past-quick-pullbacks-like-this-played-out/?.tsrc=rss",
+   "published": "2026-11-22T09:01:02+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트 주가는 최고가 경신 후 2주 만에 8% 하락했다.",
+    "과거 유사한 단기 조정 사례들의 향후 주가 흐름을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "719f9c6c2c7ddfee",
    "kind": "news",
@@ -78987,43 +79005,6 @@
     "기업 고객들이 어도비를 유지하며 매출이 지속적으로 상승할 것이라고 전망했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "0322cc21a3f588e7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "5 big analyst AI moves: Nvidia hit with downgrades after Huang’s exit",
-   "excerpt": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002830.html?.tsrc=rss",
-   "published": "2026-11-15T09:30:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 퇴임 이후 엔비디아가 애널리스트들의 하향 조정을 받았다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "30c787b44f5deab3",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/newtonian-global",
-   "title": "Nvidia reports Tuesday... first time in 33 years without Jensen on the call. What actually are you watching on this call?",
-   "excerpt": "So Nvidia reports on Tuesday and for the first time in 33 years Jensen won’t be on the call... kinda wild Stock fell 25%+ just this month... with sixth red week in a row, longest streak since 2012... But the part I find interesting... S&P was up 2.5% the same week, and AMD and Broadcom both went up ~18%. So the market it esentially dumping Nvidia... Sort of know thing but I feel it is not that bad also... The quarter they’re reporting ended Oct 25, so it’s mostly before all this drama. Numbers will probably be fine, street is at ~$108B odd revenue. What now matters is the guidance and whether any big customer sounds even a little less committed. And Kress is now CEO and CFO both, so she’s definitely getting the succession question Big question for me... is this fall already pricing in Nvid",
-   "url": "https://www.reddit.com/r/stocks/comments/1xwr97u/nvidia_reports_tuesday_first_time_in_33_years/",
-   "published": "2026-11-15T09:25:17+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "엔비디아가 33년 만에 젠슨 황 없이 실적 발표를 앞두고 있다고 다뤘다.",
-    "최근 주가가 하락세를 보인 가운데, 이번 실적 발표의 가이드라인과 주요 고객의 반응이 중요하다고 언급했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
