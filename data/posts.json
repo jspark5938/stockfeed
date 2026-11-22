@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-22T01:00:40.921981+00:00",
+ "updated": "2026-11-22T01:30:30.677799+00:00",
  "posts": [
+  {
+   "id": "df6040aa4220be63",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead?",
+   "excerpt": "Memory chips may be cyclical, but this cycle has a long way to go before wrapping up.",
+   "url": "https://www.fool.com/investing/2026/11/21/should-you-forget-nvidia-and-buy-these-2-ai-memory-stocks-instead/?.tsrc=rss",
+   "published": "2026-11-22T01:23:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 대신 두 개의 AI 메모리 주식을 매수해야 하는지 다뤘다.",
+    "메모리 반도체 사이클이 아직 끝나려면 멀었다고 주장했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "73c5c956bb89be73",
    "kind": "news",
@@ -79017,24 +79035,6 @@
    ],
    "summary_ko": [
     "테슬라가 사이버캡을 일부 고객에게 출시했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7c528ad243421a31",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/cookingboy",
-   "title": "Major misconception about the export control on Nvidia chips and their Singapore revenue (spoiler: they are perfectly legal)",
-   "excerpt": "Over the past few days I saw a ton of misinformation being spread, both on social media and even on major tech sites, about how the fact that Chinese AI labs have been able to access the export controlled Nvidia GPUs like the Blackwell series. And people have been saying that all of Nvidia's Singapore revenue were in fact illegally acquired China revenue. But what people don't understand is that under the current export control law, it's perfectly legal for foreign data centers to rent usage of even export-controlled GPUs to Chinese companies . Yes it's a major loophole that the Congress will most likely close soon , but until then, it was perfectly legal for Singaporean/Malaysian companies to buy billions of Nvidia GPU for the exclusive purpose of renting them to Chinese tech companies. A",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwiot6/major_misconception_about_the_export_control_on/",
-   "published": "2026-11-15T01:16:19+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "수출 통제를 받는 엔비디아 칩의 싱가포르 매출에 대한 오해를 다뤘다.",
-    "해외 데이터센터가 중국 기업에 칩을 임대하는 것은 현재 법상 합법이라고 설명했다."
    ],
    "tone": "neu"
   }
