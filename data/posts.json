@@ -1,6 +1,43 @@
 {
- "updated": "2026-11-22T21:30:32.200931+00:00",
+ "updated": "2026-11-22T22:00:38.278762+00:00",
  "posts": [
+  {
+   "id": "5b5165fafcfebd1c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Canada's largest bank doubles down on crypto stocks",
+   "excerpt": "Royal Bank of Canada’s latest SEC filings show bigger positions in Robinhood, Coinbase and Bitmine, and that its only XRP fund is gone.",
+   "url": "https://www.thestreet.com/crypto/markets/canadas-largest-bank-doubles-down-on-crypto-stocks?.tsrc=rss",
+   "published": "2026-11-22T21:39:36+00:00",
+   "tickers": [
+    "COIN",
+    "HOOD"
+   ],
+   "summary_ko": [
+    "캐나다 최대 은행의 SEC 공시에서 암호화폐 관련 주식 보유를 늘린 것으로 나타났다.",
+    "로열뱅크오브캐나다는 로빈후드와 코인베이스 등의 포지션을 확대했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5ba45657305267fa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry's Netflix warning puts investors in a $39 dilemma",
+   "excerpt": "Bill Ackman is betting big on Netflix, but everyday investors face a difficult choice.",
+   "url": "https://www.thestreet.com/entertainment/michael-burrys-netflix-warning-puts-investors-in-a-39-dilemma?.tsrc=rss",
+   "published": "2026-11-22T21:33:00+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "마이클 버리의 넷플릭스 경고가 투자자들에게 고민을 안겨주고 있다고 전했다.",
+    "빌 애크먼이 넷플릭스에 대규모 투자를 하는 반면 일반 투자자는 선택의 기로에 놓였다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "1d3b1ce9693edcb0",
    "kind": "news",
@@ -79108,93 +79145,6 @@
     "엔비디아 CEO 관련 의혹 등으로 워싱턴에서 중국 클라우드 파트너에 대한 반도체 공급 검토를 강화하라는 요구가 나왔다고 전했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "4aece2d6c990eea5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Should You Buy Nvidia Stock Now That Jensen Huang Has Resigned? Here’s What I’m Doing.",
-   "excerpt": "Nvidia has gone through a rough few weeks.",
-   "url": "https://www.fool.com/investing/2026/11/15/should-you-buy-nvidia-stock-now-that-jensen-huang-has-resigned-here-s-what-i-m-doing/?.tsrc=rss",
-   "published": "2026-11-15T22:00:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 사임 이후 힘든 몇 주를 보낸 엔비디아 주식 매수 여부에 대한 필자의 입장을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7febfd58b2066e7d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-   "excerpt": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-   "url": "https://finance.yahoo.com/technology/ai/articles/bad-news-jensen-huang-bad-215635461.html?.tsrc=rss",
-   "published": "2026-11-15T21:56:35+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황에게 발생한 나쁜 소식이 AI 산업 전반에도 악재가 되는지에 대한 의문을 제기했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "e93540c74fddab90",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia scandal: Alice Huang’s former employer Megaspeed launches probe",
-   "excerpt": "Megaspeed said Chinese businesswoman Alice Huang officially left the company in August 2025",
-   "url": "https://www.independent.co.uk/tech/nvidia-megaspeed-jensen-huang-alice-spy-b3085329.html?.tsrc=rss",
-   "published": "2026-11-15T21:52:41+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "메가스피드가 엘리스 황의 퇴사와 관련해 조사를 시작했다고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "759a9d24d6af1f9e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto Networks Stock Outlook: Is Wall Street Bullish or Bearish?",
-   "excerpt": "Palo Alto Networks has significantly outperformed the broader market and software sector, supported by AI-driven cybersecurity demand, expanding services, and increasingly bullish analyst sentiment.",
-   "url": "https://www.barchart.com/story/news/8845550/palo-alto-networks-stock-outlook-is-wall-street-bullish-or-bearish?.tsrc=rss",
-   "published": "2026-11-15T21:50:58+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로 알토 네트웍스는 AI 기반 사이버 보안 수요 등에 힘입어 시장을 상회했다고 다뤘다.",
-    "애널리스트들의 낙관적인 전망이 늘고 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "7ce4f21a5f8f31f5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SoFi Planned for 2 Rate Cuts This Year and Got a Rate Hike. It Raised Its Guidance Anyway.",
-   "excerpt": "The fintech company's strengths offset its weaknesses.",
-   "url": "https://www.fool.com/investing/2026/11/15/sofi-planned-for-2-rate-cuts-this-year-and-got-a-r/?.tsrc=rss",
-   "published": "2026-11-15T21:50:00+00:00",
-   "tickers": [
-    "SOFI"
-   ],
-   "summary_ko": [
-    "소파이는 금리 인상에도 불구하고 가이던스를 상향 조정했다고 다뤘다.",
-    "핀테크 기업의 강점이 약점을 상쇄했다고 언급했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
