@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:30:32.796473+00:00",
+ "updated": "2026-11-22T15:40:50.086324+00:00",
  "posts": [
   {
    "id": "6464cd35391d05d2",
@@ -79276,26 +79276,6 @@
     "AMD와 애플의 선전 배경에 대해 토론했다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "589e6ac3b74f7ebb",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/rdh2dmd",
-   "title": "Samsung to Make SpaceX Satellite Chips in Texas",
-   "excerpt": "Samsung Electronics is investing $1.9 billion to expand its Austin, Texas semiconductor plant to manufacture specialized chips for SpaceX’s Starlink satellites, broadening its U.S. foundry business into the space and defense sectors alongside existing AI clients like Tesla, Nvidia, and AMD. Key Details The Product: The STM32V8 microcontroller unit (MCU), which uses an 800 MHz Arm Cortex-M85 CPU to handle real-time processing for Starlink satellites. How FD-SOI Works: Co-developed by Samsung and STMicroelectronics since 2014, fully depleted silicon-on-insulator (FD-SOI) places an ultra-thin insulating layer beneath transistors to stop current leakage. This lowers power consumption and improves heat management and durability making it ideal for space, defense, and automotive applications. De",
-   "url": "https://www.reddit.com/r/stocks/comments/1xwyfk7/samsung_to_make_spacex_satellite_chips_in_texas/",
-   "published": "2026-11-15T15:35:10+00:00",
-   "tickers": [
-    "NVDA",
-    "TSLA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "삼성전자가 텍사스 오스틴 공장에 19억 달러를 투자해 스페이스X 위성용 칩을 생산할 예정이라고 다뤘다.",
-    "이번 투자를 통해 우주 및 방산 분야로 파운드리 사업을 확장한다고 전했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
