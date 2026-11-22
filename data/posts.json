@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:30:30.677799+00:00",
+ "updated": "2026-11-22T02:00:38.493075+00:00",
  "posts": [
   {
    "id": "df6040aa4220be63",
@@ -16,6 +16,23 @@
    "summary_ko": [
     "엔비디아 대신 두 개의 AI 메모리 주식을 매수해야 하는지 다뤘다.",
     "메모리 반도체 사이클이 아직 끝나려면 멀었다고 주장했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "27f38cfa8f13cad3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart (WMT) Stock May Be Fully Valued After Earnings News",
+   "excerpt": "Walmart has delivered a powerful long run for shareholders, and the latest burst of earnings news keeps attention squarely on whether the current share price is still backed by its profits. With the stock recently closing at US$127.95, the key issue for you is how that tag lines up with what the retailer is actually earning today. Over the past 5 years the share price has gained about 182.0%, which puts a lot of weight on the question of how much of that move is supported by the company’s...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-stock-may-fully-010939760.html?.tsrc=rss",
+   "published": "2026-11-22T01:09:39+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트의 최근 실적 발표 이후 주가가 현재 이익을 충분히 반영하고 있는지에 대한 의문을 다뤘다."
    ],
    "tone": "neu"
   },
@@ -55,6 +72,23 @@
     "테슬라 FSD v15의 특징과 관련 내용을 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "ab274c09642f7883",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump Recalls Helping Elon Musk When He Was ‘In Big Trouble,’ Defends Nvidia’s Jensen Huang as One of America’s Rare 'Geniuses'",
+   "excerpt": "President Donald Trump defended former Nvidia Corp. CEO Jensen Huang amid a China chip scandal, invoking Elon Musk’s Space Exploration Technologies Corp. achievements and declaring that America must \"take care of our geniuses.\" Trump Defends Huang Amid China Scrutiny Speaking...",
+   "url": "https://finance.yahoo.com/technology/articles/trump-recalls-helping-elon-musk-003010870.html?.tsrc=rss",
+   "published": "2026-11-22T00:30:10+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프 전 대통령이 중국 칩 스캔들 속에서 엔비디아의 젠슨 황을 미국의 드문 천재 중 한 명으로 옹호했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "584f0d55aee1bc24",
@@ -79018,23 +79052,6 @@
    ],
    "summary_ko": [
     "뱅크오브아메리카가 무단 계좌 개설 관련 집단소송 합의에 동의했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "05107b64606db411",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla makes major Cybercab announcement as driverless vehicle goes on sale",
-   "excerpt": "Tesla's Cybercab is now available to select customers for $29,990 with a $299 monthly autonomy subscription, but Elon Musk says the fee is too high.",
-   "url": "https://www.foxbusiness.com/technology/tesla-makes-major-cybercab-announcement-driverless-vehicle-goes-sale?.tsrc=rss",
-   "published": "2026-11-15T01:49:28+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라가 사이버캡을 일부 고객에게 출시했다고 전했다."
    ],
    "tone": "neu"
   }
