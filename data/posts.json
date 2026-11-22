@@ -1,22 +1,80 @@
 {
- "updated": "2026-11-22T16:00:40.786122+00:00",
+ "updated": "2026-11-22T16:30:30.618008+00:00",
  "posts": [
+  {
+   "id": "fbd80309976a3600",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Anthropic Drove “the Entire Acceleration in AWS and Google Cloud,” per Gil Luria. That’s a Big Risk for Amazon and Alphabet",
+   "excerpt": "Key TakeawaysAnthropic’s stock closed Friday 20% below its debut-day open, a hit to Amazon’s stake of about 15% and Alphabet’s 13. 7%.",
+   "url": "https://www.tikr.com/blog/anthropic-drove-the-entire-acceleration-in-aws-and-google-cloud-per-gil-luria-thats-a-big-risk-for-amazon-and-alphabet?ref=yahoofinance&tlnk=yf-261122-rqv8x2vc&.tsrc=rss",
+   "published": "2026-11-22T16:09:13+00:00",
+   "tickers": [
+    "GOOGL",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "Gil Luria는 앤스로픽이 AWS와 구글 클라우드의 성장을 이끌었다고 분석했다.",
+    "이는 아마존과 알파벳에 큰 위험 요인이 될 수 있다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "80f91b39d63daaaf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Microsoft (MSFT) Building A Bigger AI Role In Scientific Labs?",
+   "excerpt": "Microsoft (NasdaqGS:MSFT) and Danaher Corporation announced a broad AI partnership focused on laboratory automation and scientific instrumentation in November 2026. The collaboration will use Microsoft Azure and Danaher’s Foundry platform to build interoperable agentic AI systems for lab workflows. Internal trials reported sizable efficiency gains for less experienced scientists using the new agent-based tools in Danaher’s test environments. The Microsoft and Danaher agentic AI lab alliance...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-building-bigger-ai-160715680.html?.tsrc=rss",
+   "published": "2026-11-22T16:07:15+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트와 다나허는 실험실 자동화를 위한 AI 파트너십을 발표했다.",
+    "애저와 파운드리 플랫폼을 활용해 AI 시스템을 구축할 것이라고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "d850784374e40e8d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: These Will Be AMD’s and Nvidia’s Stock Prices by 2028",
+   "excerpt": "Shares of both semiconductor companies can soar impressively, but one of them seems primed for bigger gains.",
+   "url": "https://www.fool.com/investing/2026/11/22/prediction-these-will-be-amds-and-nvidias-stock-prices-by-2028/?.tsrc=rss",
+   "published": "2026-11-22T16:04:02+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": [
+    "AMD와 엔비디아의 2028년 주가에 대한 예측을 다뤘다.",
+    "두 반도체 기업의 주가가 상승할 수 있으며 한쪽이 더 큰 이득을 얻을 것으로 보았다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "a5d5d2a9ec3f39e8",
    "kind": "news",
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
-   "title": "Sam's Club made a change Costco can't copy",
-   "excerpt": "The Walmart-owned warehouse club’s move could work without hurting Costco.",
+   "title": "Walmart's Sam's Club adds a deal Costco can't copy",
+   "excerpt": "Nearly 70% of Walmart shoppers haven’t set foot in a Sam’s Club in a year, and Walmart just told investors that is changing.",
    "url": "https://www.thestreet.com/retail/walmarts-sams-club-bundled-membership-made-a-change-costco-cant-copy?.tsrc=rss",
    "published": "2026-11-22T15:37:00+00:00",
    "tickers": [
     "COST",
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월마트의 쌤스클럽이 코스트코가 모방할 수 없는 거래를 추가했다고 전했다.",
+    "월마트 쇼핑객 중 다수가 1년간 쌤스클럽에 가지 않았으나 변화가 생기고 있다고 투자자에게 알렸다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6464cd35391d05d2",
@@ -83,9 +141,11 @@
    "tickers": [
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "트럼프 대통령이 민주당과 함께 신용카드 금리 상한선을 10%로 지지했다고 전했다.",
+    "이는 JP모간과 씨티그룹에 큰 위험이 될 수 있다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "9b108d6c35124b2a",
@@ -11718,6 +11778,23 @@
     "퍼포즈 인베스트먼트가 Cboe 캐나다에 앤스로픽과 마이크론을 포함한 일드 셰어 ETF를 상장했다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "bc111d15d0b180ac",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Pfizer or NextEra Energy: I Can Only Pick One Dividend Stock for the Next 10 Years. Here’s Mine",
+   "excerpt": "Key TakeawaysPfizer yields 6. 1% and NextEra Energy yields 3.",
+   "url": "https://www.tikr.com/blog/pfizer-or-nextera-energy-i-can-only-pick-one-dividend-stock-for-the-next-10-years-heres-mine?ref=yahoofinancedividend&tlnk=yf-261122-rhc53376&.tsrc=rss",
+   "published": "2026-11-20T14:59:48+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "summary_ko": [
+    "화이자와 넥스트에라 에너지의 배당 수익률을 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "14d97b3ee6559e82",
@@ -79130,109 +79207,6 @@
     "또한 엔비디아의 이사회 운영 방식을 강하게 비판하며 젠슨 황의 복귀 가능성을 언급했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "d98e1be49437a803",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How to Play Alibaba Stock Ahead of Its T-Head Spinoff and IPO",
-   "excerpt": "Alibaba’s T-Head is heading for a Hong Kong listing. Here’s what investors need to know about BABA stock.",
-   "url": "https://www.barchart.com/story/news/8844540/how-to-play-alibaba-stock-ahead-of-its-t-head-spinoff-and-ipo?.tsrc=rss",
-   "published": "2026-11-15T16:30:03+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바의 티헤드 스핀오프 및 홍콩 상장과 관련된 투자 정보를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1ebef375448c0216",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "MacKenzie Scott gave Jeff Bezos 75% of their Amazon shares, Blue Origin, and the Washington Post in 2019 divorce",
-   "excerpt": "MacKenzie Scott is still a very rich woman after her divorce with Bezos. But the numbers don’t add up in her favor.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/mackenzie-scott-gave-jeff-bezos-163000988.html?.tsrc=rss",
-   "published": "2026-11-15T16:30:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "2019년 이혼 당시 맥켄지 스콧이 제프 베조스에게 아마존 주식 등을 양도한 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ef9e743976f0dc16",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Rocket Lab Just Hit 100 Launches. A Successful Neutron Debut Could Make 2027 Its Biggest Year Yet",
-   "excerpt": "Rocket Lab's Electron has proved the business can repeat, yet the stock trails the rocket. One delayed vehicle, a flawed tank dome, and a punishing valuation stand between the company and a breakout 2027.",
-   "url": "https://247wallst.com/investing/2026/11/15/rocket-lab-just-hit-100-launches-a-successful-neutron-debut-could-make-2027-its-biggest-year-yet/?.tsrc=rss",
-   "published": "2026-11-15T16:25:18+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "로켓랩이 100회 발사를 달성했으며 중성자 로켓 데뷔가 2027년을 좌우할 수 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d3e6ccc7e78846a3",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/mayorolivia",
-   "title": "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ After Huang Ouster",
-   "excerpt": "submitted by /u/mayorolivia to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xwz927/bessent_says_nvidia_needs_dramatic_shakeup_after/",
-   "published": "2026-11-15T16:08:47+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "베센트가 젠슨 황 퇴임 이후 엔비디아에 극적인 변화가 필요하다고 언급했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "7500ea7685370993",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Is Oracle (ORCL) Expanding Its Health Data Network With Federal Agencies?",
-   "excerpt": "Oracle (NYSE: ORCL) said the U.S. Department of Veterans Affairs and Department of War joined the Oracle Health Information Network. The Oracle Health Information Network is a federally designated Qualified Health Information Network that supports nationwide health data exchange. This move is intended to give clinicians across federal and community settings broader, secure access to patient health information. The decision by the VA and Department of War to plug into Oracle's health data...",
-   "url": "https://finance.yahoo.com/healthcare/articles/why-oracle-orcl-expanding-health-160716472.html?.tsrc=rss",
-   "published": "2026-11-15T16:07:16+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "summary_ko": [
-    "미국 보훈부와 전쟁부가 오라클 헬스 정보 네트워크에 합류했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "53e81648aef5b868",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Archer Aviation and Joby Aviation: Speculative Plays With Upside Potential and Downside Risk",
-   "excerpt": "FAA certification and autonomy are key future milestones for both companies.",
-   "url": "https://www.fool.com/investing/2026/11/15/archer-aviation-and-joby-aviation-speculative-play/?.tsrc=rss",
-   "published": "2026-11-15T16:07:00+00:00",
-   "tickers": [
-    "JOBY"
-   ],
-   "summary_ko": [
-    "아처 에비에이션과 조비 에비에이션은 상승 잠재력과 하락 위험을 모두 가진 종목이라고 다뤘다.",
-    "두 회사의 향후 핵심 이정표로는 FAA 인증과 자율주행이 꼽힌다고 언급했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
