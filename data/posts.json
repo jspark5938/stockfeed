@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-22T07:00:40.763433+00:00",
+ "updated": "2026-11-22T07:27:41.283608+00:00",
  "posts": [
+  {
+   "id": "9c4ad3f3d1cae677",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Super Micro: 3 Key Takeaways for Long-Term Investors",
+   "excerpt": "Super Micro's profitability gains trace to its modular DCBBS building blocks, a lever that sits apart from raw AI demand.",
+   "url": "https://www.fool.com/earnings/takeaways/2026/11/22/super-micro-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+   "published": "2026-11-22T07:11:16+00:00",
+   "tickers": [
+    "SMCI"
+   ],
+   "summary_ko": [
+    "슈퍼마이크로의 수익성 개선은 모듈식 DCBBS 빌딩 블록에서 기인한다고 다뤘다.",
+    "이는 원시 AI 수요와는 별개의 요인이라고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "93acb39c4343fdb9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Chamath Palihapitiya Praises Jensen Huang As ‘Biblically Good,’ But Warns Bringing Him Back At Nvidia Could Put ‘Everybody’ At Risk",
+   "excerpt": "Palihapitiya argued that any decision to reinstate Huang could raise serious corporate governance concerns.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/chamath-palihapitiya-praises-jensen-huang-biblically-good-nvidia-risk/cNbnmnOR91r?.tsrc=rss",
+   "published": "2026-11-22T06:52:25+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "차마트 팔리하피티야는 젠슨 황을 칭찬하면서도 엔비디아 복귀에 대해 경고했다고 전했다.",
+    "그는 황의 복귀가 심각한 기업 거버넌스 우려를 낳을 수 있다고 주장했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "d3cafbe66c1c1882",
    "kind": "news",
@@ -78931,25 +78967,6 @@
    "summary_ko": [
     "젠슨 황이 60대에 접어들었으며 최근 엔지니어링 회의에 자주 참여하지 않았다는 점을 다뤘다.",
     "일각에서는 빠르게 변하는 AI 분야에서 새로운 비전을 제시하기에 시기가 적절했을 수 있다는 의견을 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "693f004c9eea1cf3",
-   "kind": "reddit",
-   "source": "r/StockMarket",
-   "author": "/u/Physical_Humor_205",
-   "title": "How circular financing works",
-   "excerpt": "With all the drama going on with Jensen Huang (and Nvidia), circular financing peaked my interest. Here’s the ELI5 version of what I learned, based on my research today. Let’s use three businesses involved in circular financing for simplicity: Nvidia sells ovens (its AI chips). Microsoft rents out kitchens (its Azure cloud). Anthropic makes cookies (its Claude AI products). Here’s the money loop Nvidia and Microsoft invest money in Anthropic, receiving a piece of its business. Anthropic uses some of its money to rent Microsoft’s kitchen. Microsoft buys Nvidia’s ovens to equip the kitchen. So, some money the companies invest can come back to them as sales. That’s the basic pattern behind their partnership, although the actual agreements are more complicated (There’s at least 20 companies in",
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xwpbxi/how_circular_financing_works/",
-   "published": "2026-11-15T07:23:24+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT"
-   ],
-   "summary_ko": [
-    "엔비디아, 마이크로소프트, 앤스로픽 간의 순환 자금 조달 구조를 다뤘다.",
-    "기업들이 서로 투자를 주고받으며 자금이 매출로 돌아오는 방식을 설명했다."
    ],
    "tone": "neu"
   }
