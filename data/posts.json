@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-22T20:30:30.470099+00:00",
+ "updated": "2026-11-22T21:00:37.849412+00:00",
  "posts": [
+  {
+   "id": "392a6010fa73e2d5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $6.4 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysApollo Management Holdings, whose 13F holds $6. 43 billion of US stocks, raised its Churchill Downs stake 512% and its Primo Brands stake 121% in the third quarter, and added put options on Apple.",
+   "url": "https://www.tikr.com/blog/a-6-4-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-hf28rr6f&.tsrc=rss",
+   "published": "2026-11-22T20:20:18+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "아폴로 매니지먼트 홀딩스가 3분기에 처칠 다운스와 프리모 브랜드 지분을 대폭 늘렸다고 다뤘다.",
+    "또한 애플에 대한 풋옵션을 포트폴리오에 추가했다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "cff96a13c2164f3c",
    "kind": "news",
@@ -79039,45 +79057,6 @@
     "한 펀드 매니저가 엔비디아 주식을 매도하고 마이크론을 택했다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "65beb9126dbe66ec",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Hot CPI Raises Fed's Rate Hike Chances, Helps Mag 7 Muscle Out Small Competitors",
-   "excerpt": "Stephen Kates and Mark Hamrick break down hotter-than-expected October CPI, the possibility of 25- or 50-basis-point Fed rate hikes and a longer tightening cycle. They also discuss slowing AI investment, Nvidia (NVDA), resistance to AI and data centers, and the advantages Alphabet (GOOGL), Microsoft (MSFT) and Meta Platforms (META) have over smaller competitors. They expect uncertainty to fuel volatility through year-end as markets await PPI. Segment originally aired Tuesday, November 11, 2026. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on Li",
-   "url": "https://www.youtube.com/watch?v=0mrFtXcR4X8",
-   "published": "2026-11-15T21:00:10+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT",
-    "GOOGL",
-    "AMZN",
-    "META"
-   ],
-   "summary_ko": [
-    "높은 CPI 지수로 인해 연준의 금리 인상 가능성이 높아지고 시장 변동성이 커질 것으로 전망됐다.",
-    "알파벳, 마이크로소프트, 메타 등이 소규모 경쟁사들에 비해 유리한 점을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "680979c7d363f5b2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Prediction: This Will Be Micron's Stock Price by Late 2027 (Hint: Wall Street Expects 106% Upside)",
-   "excerpt": "Wall Street thinks Micron stock is deeply undervalued; the median analyst expects more than 100% upside in the next year.",
-   "url": "https://www.fool.com/investing/2026/11/15/this-will-be-microns-stock-price-late-2027/?.tsrc=rss",
-   "published": "2026-11-15T20:50:02+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "월가는 마이크론 주식이 저평가되어 있으며 상승 여력이 있다고 전망했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
