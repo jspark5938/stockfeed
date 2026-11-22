@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-22T15:40:50.086324+00:00",
+ "updated": "2026-11-22T16:00:40.786122+00:00",
  "posts": [
+  {
+   "id": "a5d5d2a9ec3f39e8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Sam's Club made a change Costco can't copy",
+   "excerpt": "The Walmart-owned warehouse club’s move could work without hurting Costco.",
+   "url": "https://www.thestreet.com/retail/walmarts-sams-club-bundled-membership-made-a-change-costco-cant-copy?.tsrc=rss",
+   "published": "2026-11-22T15:37:00+00:00",
+   "tickers": [
+    "COST",
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "6464cd35391d05d2",
    "kind": "youtube",
@@ -53,6 +70,22 @@
     "월마트가 쇼핑객들을 언짢게 할 수 있는 어려운 결정을 내렸다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "85efdb16bc45ef71",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump Backs a 10% Card Rate Cap With Democrats. That’s a Big Risk for JPMorgan and Citigroup",
+   "excerpt": "Key TakeawaysPresident Trump said Saturday he would cap credit card interest rates at 10%, against a median card rate of about 22. 2%.",
+   "url": "https://www.tikr.com/blog/trump-backs-a-10-card-rate-cap-with-democrats-thats-a-big-risk-for-jpmorgan-and-citigroup?ref=yahoofinance&tlnk=yf-261122-ggq552qx&.tsrc=rss",
+   "published": "2026-11-22T15:05:23+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "9b108d6c35124b2a",
@@ -79198,82 +79231,6 @@
    "summary_ko": [
     "아처 에비에이션과 조비 에비에이션은 상승 잠재력과 하락 위험을 모두 가진 종목이라고 다뤘다.",
     "두 회사의 향후 핵심 이정표로는 FAA 인증과 자율주행이 꼽힌다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "991f740eddb7253f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Google to launch drone deliveries in UK",
-   "excerpt": "Google is planning to launch drone deliveries to households in the UK for the first time in a challenge to Amazon’s rival Prime Air service.",
-   "url": "https://uk.finance.yahoo.com/news/google-launch-drone-deliveries-uk-160000950.html?.tsrc=rss",
-   "published": "2026-11-15T16:00:00+00:00",
-   "tickers": [
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "구글이 영국 가정들을 대상으로 드론 배송을 출시할 계획이라고 보도했다.",
-    "아마존의 프라임 에어 서비스에 도전장을 내민 것이라고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "5a06a0fe7e7ca599",
-   "kind": "reddit",
-   "source": "r/StockMarket",
-   "author": "/u/joe4942",
-   "title": "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ After Huang Ouster",
-   "excerpt": "submitted by /u/joe4942 to r/StockMarket [link] [comments]",
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xwyt4n/bessent_says_nvidia_needs_dramatic_shakeup_after/",
-   "published": "2026-11-15T15:50:44+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "베센트가 젠슨 황 퇴임 이후 엔비디아에 극적인 개편이 필요하다고 주장했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "e5dd765f5ba9293a",
-   "kind": "youtube",
-   "source": "The Compound",
-   "author": "The Compound",
-   "title": "Is a Housing Boom on the Horizon?",
-   "excerpt": "On episode 268 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks breaking out, global markets hitting new highs, magazine covers as contrarian indicators, and whether the collapse in gold and silver could be setting up a major opportunity in precious metals. 👕 Check out The Compound shop: 🎙️Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: The Compound Newsletter: Linkedin: Instagram: Twitter: Tik Tok: Investing involves the risk of loss. This podcast is for ",
-   "url": "https://www.youtube.com/shorts/I857JU0NN_E",
-   "published": "2026-11-15T15:49:05+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL",
-    "AMD"
-   ],
-   "summary_ko": [
-    "출연진들은 엔비디아의 역사적인 매도세와 AI 거래의 전환 여부, AMD와 애플의 강세를 다뤘다.",
-    "또한 극단적인 투자자 비관론과 주택 시장 전망 등 시장 전반의 흐름을 논의했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "19634e3b5f0b63fc",
-   "kind": "youtube",
-   "source": "The Compound",
-   "author": "The Compound",
-   "title": "Is a Housing Boom on the Horizon?",
-   "excerpt": "On episode 268 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by TCAF all-star JC Parets to discuss: Nvidia’s historic selloff, whether the AI trade is breaking or simply rotating, why AMD and Apple are winning, and what the market is saying beneath the headlines. They also cover extreme investor bearishness, JC’s contrarian housing thesis, bank stocks breaking out, global markets hitting new highs, magazine covers as contrarian indicators, and whether the collapse in gold and silver could be setting up a major opportunity in precious metals. 👕 Check out The Compound shop: 🎙️Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: The Compound Newsletter: Linkedin: Instagram: Twitter: Tik Tok: Investing involves the risk of loss. This podcast is for ",
-   "url": "https://www.youtube.com/watch?v=I857JU0NN_E",
-   "published": "2026-11-15T15:49:05+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL",
-    "AMD"
-   ],
-   "summary_ko": [
-    "엔비디아의 역사적 매도세와 AI 거래의 향방을 다뤘다.",
-    "AMD와 애플의 선전 배경에 대해 토론했다."
    ],
    "tone": "neu"
   }
