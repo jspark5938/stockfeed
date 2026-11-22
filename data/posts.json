@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-22T20:00:37.590193+00:00",
+ "updated": "2026-11-22T20:30:30.470099+00:00",
  "posts": [
+  {
+   "id": "cff96a13c2164f3c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike vs. Procter & Gamble: Which Consumer Stock Is a Better Buy for 2027?",
+   "excerpt": "Nike's direct-to-consumer push meets Procter & Gamble's everyday essentials, but their valuations and risk profiles tell very different stories for 2027.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/22/nike-vs-procter-gamble-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-22T20:11:25+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키의 직접 소비자 판매 전략과 P&G의 생필품 사업을 비교했다.",
+    "두 기업의 2027년 밸류에이션과 위험 프로필이 크게 다르다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f5697fb1fe8f47e1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Is Apple (AAPL) Planning With Its New Autonomous AI Agent?",
+   "excerpt": "Apple (NasdaqGS:AAPL) is building an autonomous AI agent designed to handle complex, multistep tasks for everyday users. Job postings point to a large scale buildout of AI engineering and product roles tied directly to this new assistant effort. Internal planning targets a potential consumer launch as soon as late 2027 with a core focus on on device privacy and security. Apple's autonomous AI agent push under CEO John Ternus fits into a broader shift our research is tracking at the company...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-planning-autonomous-ai-200614575.html?.tsrc=rss",
+   "published": "2026-11-22T20:06:14+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플이 복잡한 작업을 처리하는 자율형 AI 에이전트를 개발 중이라고 전했다.",
+    "기기 내 프라이버시와 보안을 중심으로 2027년 하반기 소비자 출시를 목표로 한다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "605af78cc2267666",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Uber Trades at 16 Times Forward Earnings and a 30% Discount to Its All-Time High Stock Price. Here’s Why Robotaxis Make That a Mistake.",
+   "excerpt": "Sentiment toward this disruptive business reflects the market's fears about autonomous vehicle technology.",
+   "url": "https://www.fool.com/investing/2026/11/22/uber-trades-16-times-forward-earnings-and-30-discount-all-time-high-stock-price-here-why-robotaxis-make-that-a-mistake/?.tsrc=rss",
+   "published": "2026-11-22T20:05:02+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": [
+    "우버가 선행 주가수익비율 16배에 거래되고 최고가 대비 할인된 상태라고 다뤘다.",
+    "자율주행 차량 기술에 대한 시장의 우려가 투자 심리에 반영되었다고 설명했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "e0122ab3d3638344",
    "kind": "news",
@@ -950,6 +1004,24 @@
    ],
    "summary_ko": [
     "엔비디아가 호실적을 기록했음에도 한 달 동안 주가가 하락했으며 닷컴 버블 당시의 시스코와 비교되고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "34107725cd07668d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney Produces Mediocre FCF Growth - How to Play DIS After Its Recent Rise",
+   "excerpt": "The Walt Disney Company generated 89% higher FCF in fiscal Q4, ending Oct. 3, but only 4.9% higher for the year. Moreover, it guided FCF up just 4% for next year. So, is DIS stock at a peak?",
+   "url": "https://www.barchart.com/story/news/8956151/disney-produces-mediocre-fcf-growth-how-to-play-dis-after-its-recent-rise?.tsrc=rss",
+   "published": "2026-11-22T14:00:02+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": [
+    "디즈니의 4분기 잉여현금흐름은 증가했으나 연간 기준으로는 소폭 증가했다고 다뤘다.",
+    "내년 잉여현금흐름 전망치가 낮게 제시되면서 주가 고점 여부를 다뤘다."
    ],
    "tone": "neu"
   },
@@ -79006,94 +79078,6 @@
     "월가는 마이크론 주식이 저평가되어 있으며 상승 여력이 있다고 전망했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "943db39fad582937",
-   "kind": "reddit",
-   "source": "r/StockMarket",
-   "author": "/u/Force_Hammer",
-   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
-   "excerpt": "submitted by /u/Force_Hammer to r/StockMarket [link] [comments]",
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xx5u3o/jensen_huang_discusses_comeback_as_nvidia_ceo/",
-   "published": "2026-11-15T20:27:44+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "파이낸셜타임스 보도를 인용해 젠슨 황이 측근들과 엔비디아 CEO 복귀를 논의했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e4bd93697494ae97",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Boeing Is Handing 3 Businesses to Archer Aviation and Closing a $131 Billion F-15 Order. Here’s Which Stock Gets the Better Deal.",
-   "excerpt": "Boeing offers stability, but Archer offers greater upside.",
-   "url": "https://www.fool.com/investing/2026/11/15/boeing-is-handing-3-businesses-to-archer-aviation-and-closing-a-131-billion-f-15-order-heres-which-stock-gets-the-better-deal/?.tsrc=rss",
-   "published": "2026-11-15T20:20:02+00:00",
-   "tickers": [
-    "BA"
-   ],
-   "summary_ko": [
-    "보잉이 아처 에비에이션에 3개 사업을 넘기고 주문을 마감했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "58cba9dafeddbda8",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/mastertofu",
-   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-   "excerpt": "Jensen Huang is considering a comeback as Nvidia’s chief executive, as allies in Silicon Valley pressure the company’s board to reinstate him days after the tech executive resigned over reports he had affairs with a suspected Chinese spy and a subordinate. Huang has discussed with confidantes the possibility of returning, according to multiple people familiar with the matter, even as an independent probe by Nvidia’s board investigates the conduct that led to a spectacular leadership crisis at the $4tn chip company this week. One Huang ally told the FT they were putting together a “war room” of Silicon Valley executives to lobby for the former Nvidia chief’s return and would try to garner support from the White House. “Everyone that matters in tech outside the frontier labs loves Jensen,” t",
-   "url": "https://www.reddit.com/r/stocks/comments/1xx5hj8/jensen_huang_discusses_comeback_as_nvidia_ceo/",
-   "published": "2026-11-15T20:13:29+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "실리콘밸리 측근들이 젠슨 황의 엔비디아 CEO 복귀를 추진하고 있다고 보도했다.",
-    "황은 최근 스캔들로 사임한 후 복귀 가능성을 측근들과 논의한 것으로 전해졌다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f64f275a0ad5658c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What TSMC Doubters Got Wrong",
-   "excerpt": "If Taiwan Semiconductor Manufacturing was on your watchlist instead of in your portfolio over the last year, the gap in outcome may feel sharp. For Taiwan Semiconductor Manufacturing shareholders, the return over the past year was 66.4%, including dividends. That move now sits alongside record Q3 2026 profitability and fresh plans for heavier US expansion, inviting a tougher question. If analysts already flagged margin dilution risks from overseas fabs in late 2025, what business assumption...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-doubters-got-wrong-200527158.html?.tsrc=rss",
-   "published": "2026-11-15T20:05:27+00:00",
-   "tickers": [
-    "TSM"
-   ],
-   "summary_ko": [
-    "대만반도체는 지난해 배당금을 포함해 66.4%의 수익률을 기록했다.",
-    "기록적인 3분기 수익성과 미국 내 확장 계획을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "4026215dda432e01",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia does not stop without Jensen Huang. | The 8:30",
-   "excerpt": "Jensen Huang resigned on Thursday as president, chief executive and a board member of Nvidia, effective immediately, and CFO Colette Kress is interim chief executive. Jake Conley's argument is that none of the work stops: the contracts get filled, the engineers are still there. What leaves with Huang is the person who spotted trends before anybody else and was willing to turn the whole company toward them. Reporting suggests Kress repeatedly questioned the deals he was signing, and she is the one presenting them at Tuesday's earnings call. Featuring Jake Conley, Breaking Business News Reporter, Yahoo Finance Julie Hyman, Host, Yahoo Finance Pras Subramanian, Senior Autos Reporter, Yahoo Finance Timestamps 0:00 The company does not stop. The visionary voice does 1:18 Not just the chips, the",
-   "url": "https://www.youtube.com/watch?v=ZLoW6QER2VU",
-   "published": "2026-11-15T20:00:38+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 사임 이후에도 엔비디아의 계약과 엔지니어들의 업무는 멈추지 않는다고 언급했다.",
-    "재무 책임자 콜레트 크레스가 임시 CEO를 맡아 실적 발표를 진행할 예정이라고 전했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
