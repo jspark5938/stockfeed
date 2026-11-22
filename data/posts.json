@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-22T08:30:32.532664+00:00",
+ "updated": "2026-11-22T09:00:38.285392+00:00",
  "posts": [
+  {
+   "id": "719f9c6c2c7ddfee",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AMD Stock Just Plunged on a Short-Seller Report. Is This a Golden Buying Opportunity?",
+   "excerpt": "AMD’s fundamentals are more than just a whisper of “buy the dip.”",
+   "url": "https://www.fool.com/investing/2026/11/22/amd-stock-just-plunged-on-a-short-seller-report-is-this-a-golden-buying-opportunity/?.tsrc=rss",
+   "published": "2026-11-22T08:50:02+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "공매도 보고서의 여파로 AMD 주가가 급락한 상황을 다뤘다.",
+    "AMD의 펀더멘털을 바탕으로 저가 매수 기회인지에 대해 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b27fd6799c3c99f5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Coinbase's $21 children's book comes with $50 Bitcoin",
+   "excerpt": "Here’s why the exchange’s first children’s book sold out within a day.",
+   "url": "https://www.thestreet.com/crypto/business/coinbases-21-childrens-book-comes-with-50-bitcoin?.tsrc=rss",
+   "published": "2026-11-22T08:49:16+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스가 출시한 21달러짜리 어린이 도서가 하루 만에 완판된 이유를 다뤘다.",
+    "해당 도서에는 50달러 상당의 비트코인이 함께 제공된다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "1759a1cd2d9e01ee",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan Says $290B AI-Fueled IPO Wave Is A ‘Drop In The Bucket’ For $70 Trillion Stock Market — ‘Eventual Winners In AI May Not Even Exist Yet’",
+   "excerpt": "The firm argued that the AI infrastructure boom is reshaping how companies raise capital.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/jpmorgan-290b-ai-ipo-wave-drop-bucket-70-trillion-stock-market/cNbnFLGR91u?.tsrc=rss",
+   "published": "2026-11-22T08:36:20+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "JP모간은 2,900억 달러 규모의 AI IPO 물량이 7조 달러 시장에서는 적은 수준이라고 진단했다.",
+    "AI 인프라 붐이 기업들의 자본 조달 방식을 바꾸고 있다고 분석했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "c1a0568e03906639",
    "kind": "news",
@@ -78970,23 +79024,6 @@
     "최근 주가가 하락세를 보인 가운데, 이번 실적 발표의 가이드라인과 주요 고객의 반응이 중요하다고 언급했다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "f107c8d06f85de08",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Founderz AI Wins 2026 Microsoft Partner of the Year Award in Training Services Category",
-   "excerpt": "The global recognition follows Founderz's 2025 Microsoft training partner award in Spain and highlights its work bringing practical AI skills to more than 700,000 professionals worldwide.Barcelona, Spain--(Newsfile Corp. - November 15, 2026) - Founderz AI, a company specializing in artificial intelligence, has been recognized as the winner of the 2026 Microsoft Partner of the Year Award in the global Training Services category. The award places the company among the partners recognized by...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/founderz-ai-wins-2026-microsoft-083600708.html?.tsrc=rss",
-   "published": "2026-11-15T08:36:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "파운더즈 AI가 2026년 마이크로소프트 올해의 파트너 트레이닝 서비스 부문 상을 수상했다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
