@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-22T10:30:31.539429+00:00",
+ "updated": "2026-11-22T11:00:40.025252+00:00",
  "posts": [
+  {
+   "id": "be8cbb79616cad0c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oppenheimer Raised Its Amazon Target to $310, and the Reason Has Nothing to Do With Shopping or the Cloud",
+   "excerpt": "Key TakeawaysOppenheimer raised its Amazon price target to $310 from $285 on Nov. 20, 26% above Friday’s close, and kept its Outperform rating.",
+   "url": "https://www.tikr.com/blog/oppenheimer-raised-its-amazon-target-to-310-and-the-reason-has-nothing-to-do-with-shopping-or-the-cloud?ref=yahoofinance&tlnk=yf-261122-36v9p7c7&.tsrc=rss",
+   "published": "2026-11-22T10:40:04+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "오펜하이머는 아마존의 목표주가를 310달러로 상향 조정했다고 밝혔다.",
+    "쇼핑이나 클라우드와는 무관한 이유로 목표가를 올렸다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "63523d8bd516cf08",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TD Cowen Raises Its Walmart Target to $147. Is It Still Too Low?",
+   "excerpt": "Key TakeawaysTD Cowen raised its Walmart price target to $147 from $125 and kept its Buy rating after a beat-and-raise quarter. The firm expects fast e-commerce growth to lift margins, and at least eight other firms raised targets the same day.",
+   "url": "https://www.tikr.com/blog/td-cowen-raises-its-walmart-target-to-147-is-it-still-too-low?ref=yahoofinance&tlnk=yf-261122-gr23fpjr&.tsrc=rss",
+   "published": "2026-11-22T10:26:03+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "TD 코웬은 월마트의 목표주가를 147달러로 상향 조정했다고 밝혔다.",
+    "빠른 전자상거래 성장이 마진을 끌어올릴 것으로 전망했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "37c53f6defca8150",
    "kind": "news",
@@ -53,6 +89,24 @@
     "현재 주가가 향후 창출될 현금 흐름에 비해 고평가되었을 가능성을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "03a0ada2e888529a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Plot Twist: As CFO, Nvidia’s Interim CEO Said “Over 99%” of Singapore Billings Were for U.S. Customers",
+   "excerpt": "Key TakeawaysNVIDIA fell 14% on Friday after Reuters reported that the SEC’s probe of the chipmaker is examining possible accounting issues. As CFO in August 2025, interim CEO Colette Kress said over 99% of data center compute revenue billed to Singapore was for U.",
+   "url": "https://www.tikr.com/blog/plot-twist-as-cfo-nvidias-interim-ceo-said-over-99-of-singapore-billings-were-for-u-s-customers?ref=yahoofinance&tlnk=yf-261122-mmcx4jc4&.tsrc=rss",
+   "published": "2026-11-22T10:04:27+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 주가가 SEC의 회계 조사 보도 여파로 하락했다고 다뤘다.",
+    "싱가포르 청구 매출의 99% 이상이 미국 고객용이었다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "a19e21999807faa1",
@@ -79045,59 +79099,6 @@
     "패트릭 보일은 젠슨 황의 사임 배경과 칩 밀수 의혹 등이 엔비디아 투자자들에게 미칠 영향을 분석했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "cff828898211c856",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Should you buy Nvidia stock right now?",
-   "excerpt": "Some guideposts to watch from Nvidia before hitting the buy button on its bruised stock.",
-   "url": "https://finance.yahoo.com/markets/stocks/article/should-you-buy-nvidia-stock-right-now-110000910.html?.tsrc=rss",
-   "published": "2026-11-15T11:00:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "하락한 엔비디아 주식을 매수하기 전에 살펴봐야 할 지침들을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "433e545196ffc0c1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia",
-   "excerpt": "Anthropic just undermined one of Nvidia's chief competitive advantages.",
-   "url": "https://www.fool.com/investing/2026/11/15/anthropic-just-delivered-great-news-for-amd-investors-and-bad-news-for-nvidia/?.tsrc=rss",
-   "published": "2026-11-15T10:40:02+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "앤트로픽의 소식이 엔비디아의 주요 경쟁 우위 중 하나를 약화시켰다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "3d3f67626fb2d4af",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron, Amazon, and IBM: My 3 Favorite Stocks to Buy and Hold Through 2030",
-   "excerpt": "Why would a cheap chip stock, a massive AI spender, and a business that has paid dividends since 1916 make a good team?",
-   "url": "https://www.fool.com/investing/2026/11/15/micron-amazon-and-ibm-my-3-favorite-stocks-to-buy-and-hold-through-2030/?.tsrc=rss",
-   "published": "2026-11-15T10:37:02+00:00",
-   "tickers": [
-    "AMZN",
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론, 아마존, IBM을 2030년까지 보유하기 좋은 종목으로 꼽았다."
-   ],
-   "tone": "pos"
   }
  ]
 }

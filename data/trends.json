@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-22T10:30:31.539429+00:00",
+ "updated": "2026-11-22T11:00:40.025252+00:00",
  "trends": [
-  {
-   "ticker": "SBUX",
-   "name_ko": "스타벅스",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 1,
-   "ratio": 4.0
-  },
   {
    "ticker": "ASML",
    "name_ko": "ASML",
@@ -37,6 +30,13 @@
    "ratio": 1.5
   },
   {
+   "ticker": "SBUX",
+   "name_ko": "스타벅스",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 2,
+   "ratio": 1.5
+  },
+  {
    "ticker": "SHOP",
    "name_ko": "쇼피파이",
    "mentions_24h": 4,
@@ -58,24 +58,10 @@
    "ratio": 0.75
   },
   {
-   "ticker": "AVGO",
-   "name_ko": "브로드컴",
-   "mentions_24h": 11,
-   "mentions_prev_24h": 15,
-   "ratio": 0.73
-  },
-  {
    "ticker": "SNOW",
    "name_ko": "스노우플레이크",
    "mentions_24h": 4,
    "mentions_prev_24h": 6,
-   "ratio": 0.67
-  },
-  {
-   "ticker": "IONQ",
-   "name_ko": "아이온큐",
-   "mentions_24h": 2,
-   "mentions_prev_24h": 3,
    "ratio": 0.67
   },
   {
@@ -84,6 +70,13 @@
    "mentions_24h": 2,
    "mentions_prev_24h": 3,
    "ratio": 0.67
+  },
+  {
+   "ticker": "AVGO",
+   "name_ko": "브로드컴",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 16,
+   "ratio": 0.62
   },
   {
    "ticker": "LLY",
@@ -103,8 +96,8 @@
    "ticker": "TSLA",
    "name_ko": "테슬라",
    "mentions_24h": 15,
-   "mentions_prev_24h": 32,
-   "ratio": 0.47
+   "mentions_prev_24h": 31,
+   "ratio": 0.48
   },
   {
    "ticker": "NKE",
@@ -112,13 +105,6 @@
    "mentions_24h": 4,
    "mentions_prev_24h": 11,
    "ratio": 0.36
-  },
-  {
-   "ticker": "AMZN",
-   "name_ko": "아마존",
-   "mentions_24h": 18,
-   "mentions_prev_24h": 52,
-   "ratio": 0.35
   },
   {
    "ticker": "META",
@@ -142,6 +128,13 @@
    "ratio": 0.33
   },
   {
+   "ticker": "NFLX",
+   "name_ko": "넷플릭스",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 9,
+   "ratio": 0.33
+  },
+  {
    "ticker": "PLTR",
    "name_ko": "팔란티어",
    "mentions_24h": 2,
@@ -151,8 +144,15 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 51,
-   "mentions_prev_24h": 172,
+   "mentions_24h": 52,
+   "mentions_prev_24h": 168,
+   "ratio": 0.31
+  },
+  {
+   "ticker": "AMD",
+   "name_ko": "AMD",
+   "mentions_24h": 11,
+   "mentions_prev_24h": 37,
    "ratio": 0.3
   },
   {
@@ -170,53 +170,32 @@
    "ratio": 0.3
   },
   {
-   "ticker": "NFLX",
-   "name_ko": "넷플릭스",
-   "mentions_24h": 3,
-   "mentions_prev_24h": 10,
-   "ratio": 0.3
-  },
-  {
-   "ticker": "AMD",
-   "name_ko": "AMD",
-   "mentions_24h": 11,
-   "mentions_prev_24h": 38,
+   "ticker": "AMZN",
+   "name_ko": "아마존",
+   "mentions_24h": 16,
+   "mentions_prev_24h": 55,
    "ratio": 0.29
-  },
-  {
-   "ticker": "GOOGL",
-   "name_ko": "알파벳(구글)",
-   "mentions_24h": 13,
-   "mentions_prev_24h": 48,
-   "ratio": 0.27
-  },
-  {
-   "ticker": "MU",
-   "name_ko": "마이크론",
-   "mentions_24h": 7,
-   "mentions_prev_24h": 27,
-   "ratio": 0.26
   },
   {
    "ticker": "DIS",
    "name_ko": "디즈니",
    "mentions_24h": 2,
-   "mentions_prev_24h": 8,
-   "ratio": 0.25
+   "mentions_prev_24h": 7,
+   "ratio": 0.29
   },
   {
-   "ticker": "WMT",
-   "name_ko": "월마트",
-   "mentions_24h": 7,
-   "mentions_prev_24h": 30,
-   "ratio": 0.23
+   "ticker": "GOOGL",
+   "name_ko": "알파벳(구글)",
+   "mentions_24h": 12,
+   "mentions_prev_24h": 47,
+   "ratio": 0.26
   },
   {
    "ticker": "ORCL",
    "name_ko": "오라클",
    "mentions_24h": 3,
-   "mentions_prev_24h": 13,
-   "ratio": 0.23
+   "mentions_prev_24h": 12,
+   "ratio": 0.25
   },
   {
    "ticker": "PFE",
@@ -226,11 +205,18 @@
    "ratio": 0.22
   },
   {
+   "ticker": "MU",
+   "name_ko": "마이크론",
+   "mentions_24h": 6,
+   "mentions_prev_24h": 28,
+   "ratio": 0.21
+  },
+  {
    "ticker": "BABA",
    "name_ko": "알리바바",
    "mentions_24h": 3,
-   "mentions_prev_24h": 15,
-   "ratio": 0.2
+   "mentions_prev_24h": 14,
+   "ratio": 0.21
   },
   {
    "ticker": "DELL",
@@ -238,6 +224,13 @@
    "mentions_24h": 2,
    "mentions_prev_24h": 10,
    "ratio": 0.2
+  },
+  {
+   "ticker": "WMT",
+   "name_ko": "월마트",
+   "mentions_24h": 6,
+   "mentions_prev_24h": 32,
+   "ratio": 0.19
   },
   {
    "ticker": "MSFT",
