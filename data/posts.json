@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-22T18:00:37.414772+00:00",
+ "updated": "2026-11-22T18:30:32.599489+00:00",
  "posts": [
+  {
+   "id": "a56d122d188bfc53",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Costco (COST) Lifts Dividend After Strong 2026 Results And $7.5 Billion 2027 Plan",
+   "excerpt": "Costco Wholesale (NasdaqGS:COST) reported strong fiscal 2026 results, reinforcing management's confidence in the warehouse retailer's growth plans. The board approved a higher regular dividend for shareholders, signalling a larger ongoing cash return from the business. Management outlined a major capital spending plan for fiscal 2027 focused on opening new warehouses and expanding capacity. Costco's robust 2026 performance, higher dividend, and 2027 capex push matter, but they are only part...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-lifts-dividend-strong-180659480.html?.tsrc=rss",
+   "published": "2026-11-22T18:06:59+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "Costco가 2026 회계연도 호실적을 바탕으로 배당을 인상했다고 전했다.",
+    "2027년 신규 매장 오픈 등을 위한 대규모 자본 지출 계획을 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "d0d39bd9be26fabf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bristol Myers Squibb vs. Novo Nordisk: Which Healthcare Stock Is a Better Buy for 2027?",
+   "excerpt": "Novo Nordisk's profit margins are running far above Bristol Myers, yet the cheaper valuation tells a different story about where the value sits.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/22/bristol-myers-squibb-vs-novo-nordisk-which-healthcare-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-22T18:04:01+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "summary_ko": [
+    "Novo Nordisk의 이익률이 Bristol Myers보다 높다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "21d86b58338087a5",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "What Anthropic Means for Databricks, OpenAI & 2027 IPO Landscape",
+   "excerpt": "Anthropic (ANT) debuted on public trading floors as the largest IPO in history, beating SpaceX (SPCX) and its record just months prior. Troy Hooper addresses his takeaways from the IPO, how investors can price the stock, and risks he sees ahead for it and similar companies. He turns to the IPO landscape ahead in companies like Databricks and OpenAI, discussing how Anthropic and SpaceX add confidence for their eventual debuts. Segment originally aired on Thursday, November 19, 2026. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - Abou",
+   "url": "https://www.youtube.com/watch?v=0vCJ9V_CSHU",
+   "published": "2026-11-22T18:00:28+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "Anthropic이 역대 최대 규모로 상장했다고 다뤘다.",
+    "Databricks와 OpenAI 등의 향후 상장 전망을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "28496ccd30ce16a0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Billionaire David Tepper’s Appaloosa Opened a $172 Million Stake in Oracle",
+   "excerpt": "Appaloosa bought Oracle before the stock lost nearly half its value this year, but a 13F filing hides the details that matter most. What can retirement investors actually learn from a bet they can't copy?",
+   "url": "https://247wallst.com/investing/2026/11/22/billionaire-david-teppers-appaloosa-opened-a-172-million-stake-in-oracle/?.tsrc=rss",
+   "published": "2026-11-22T17:59:08+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "David Tepper의 Appaloosa가 Oracle 지분을 매입했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "3eebd4ef58f1f4dd",
    "kind": "youtube",
@@ -35,6 +105,24 @@
     "오라클과 한국이 시장 불안을 진정시키기 위해 나섰다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "14b829d7b53b0381",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "An $8.3 Billion Fund Just Bought These 3 Stocks",
+   "excerpt": "Key TakeawaysA fund with $8. 3 billion in US stocks added to Apple and Coinbase and opened a new stake in HDFC Bank in the third quarter, its latest 13F shows.",
+   "url": "https://www.tikr.com/blog/an-8-3-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-2jg2vpjj&.tsrc=rss",
+   "published": "2026-11-22T17:50:34+00:00",
+   "tickers": [
+    "AAPL",
+    "COIN"
+   ],
+   "summary_ko": [
+    "대형 펀드가 3분기에 Apple과 Coinbase 등을 매수했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "21e8e90d4beac0ac",
@@ -78881,109 +78969,6 @@
     "미 재무장관이 엔비디아에 첨단 AI 칩의 대중국 유출 여부를 해명하라고 요구했다고 보도했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "eb198123ea97d47f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bessent demands ‘dramatic shake-up’ at Nvidia after Huang exit",
-   "excerpt": "Scott Bessent, the US treasury secretary, has demanded a “dramatic shake-up” at Nvidia as he urged the board to appoint an external candidate to replace Jensen Huang.",
-   "url": "https://uk.finance.yahoo.com/news/bessent-demands-dramatic-shake-nvidia-182445143.html?.tsrc=rss",
-   "published": "2026-11-15T18:24:45+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미 재무장관이 젠슨 황 사임 이후 엔비디아 이사회에 외부 인사를 신임 CEO로 임명하라고 촉구했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "16ac54f84dfa568a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
-   "excerpt": "Key TakeawaysOpenAI’s adjusted operating margin is negative 109%; Anthropic’s is about 15% positive on an adjusted basis. OpenAI runs 90-plus percent on NVIDIA; Anthropic, one third or less, per SemiAnalysis’s Dylan Patel.",
-   "url": "https://www.tikr.com/blog/nvidias-problem-openai-is-90-plus-percent-nvidia-and-its-the-lab-burning-cash?ref=yahoofinance&tlnk=yf-261115-6qwrm2q7&.tsrc=rss",
-   "published": "2026-11-15T18:09:50+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "오픈AI의 인프라 대부분이 엔비디아 기반이며 막대한 현금을 소모하고 있다고 분석했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4a37be8aa9bac5b8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Broadcom Heads 3 Top Growth Stocks To Watch",
-   "excerpt": "Global banks and asset managers are racing to build onchain dollars, as heavily regulated stablecoins move closer to the financial mainstream. That shift puts a spotlight on companies that can grow earnings quickly while keeping their balance sheets in solid shape. This article breaks down a hand picked set of high potential growers and highlights three of the strongest stocks from our screener that fit that profile. The three stocks highlighted here offer a compelling starting point if you...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-growth-180757072.html?.tsrc=rss",
-   "published": "2026-11-15T18:07:57+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "summary_ko": [
-    "안정적인 재무구조와 빠른 실적 성장을 보일 수 있는 성장주로 브로드컴 등을 조명했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c46ccdb4c527ce7d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Oracle Stock And US AI Data Center Winners Worth Watching",
-   "excerpt": "Washington is suddenly the main character in the AI chip story, and that pulls US onshore data center infrastructure into the spotlight. Export control noise around Nvidia and China is forcing investors to rethink where future AI computing gets built and who supplies the power, racks, and real estate. This article breaks down three US focused data center related stocks exposed to that policy shift and explains why their positioning around AI infrastructure may matter for your portfolio. The...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/oracle-stock-us-ai-data-180739534.html?.tsrc=rss",
-   "published": "2026-11-15T18:07:39+00:00",
-   "tickers": [
-    "NVDA",
-    "ORCL"
-   ],
-   "summary_ko": [
-    "대미 수출 통제와 AI 데이터센터 인프라 정책 변화 속에서 주목할 관련 종목들을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c8e31624e0da58d6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Costco Is Paying Out $13 Billion in Special Dividends This Year. Is the Stock a Buy?",
-   "excerpt": "Costco is sending shareholders its biggest check yet, but that doesn't settle the question of whether the stock is worth buying.",
-   "url": "https://www.fool.com/investing/2026/11/15/costco-is-paying-out-usd13-billion-in-special-dividends-this-year-is-the-stock-a-buy/?.tsrc=rss",
-   "published": "2026-11-15T18:05:02+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코가 올해 거액의 특별 배당을 지급하는 가운데 주식 매수 적정성에 대해 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "de55120cf2f39480",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/Breadtoastyy",
-   "title": "Billionaires Back Jensen Huang—KoGuan Cuts Nvidia Investment Plans, Musk Pays Tribute",
-   "excerpt": "submitted by /u/Breadtoastyy to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xx263n/billionaires_back_jensen_huangkoguan_cuts_nvidia/",
-   "published": "2026-11-15T18:02:03+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "억만장자들의 엇갈린 반응 속에서 코구안은 엔비디아 투자 계획을 축소했고 머스크는 추모를 표했다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
