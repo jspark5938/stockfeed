@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-22T13:30:33.718401+00:00",
+ "updated": "2026-11-22T14:00:36.442989+00:00",
  "posts": [
+  {
+   "id": "5cd88180634d633b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "J.P. Morgan Says Tesla’s Robotaxi Fleet Could Match Waymo’s Miles by Late 2027 With 18,000 Cars. The Number That Matters Is How Much Each Car Earns.",
+   "excerpt": "The robotaxi battle will be won and lost over the total cost of ownership per mile.",
+   "url": "https://www.fool.com/investing/2026/11/22/j-p-morgan-says-tesla-s-robotaxi-fleet-could-match-waymo-s-miles-by-late-2027-with-18-000-cars-the-number-that-matters-is-how-much-each-car-earns/?.tsrc=rss",
+   "published": "2026-11-22T13:32:02+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "J.P.모건은 테슬라의 로보택시가 2027년 말 웨이모 수준에 도달할 수 있다고 전망했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "6130dced73dab6e5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "PepsiCo vs. Starbucks: Which Consumer Goods Stock Is a Better Buy for 2027?",
+   "excerpt": "Starbucks trades at nearly twice PepsiCo's forward earnings multiple, but its free cash flow and loyalty-driven model raise a sharper question about which premium is justified.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/22/pepsico-vs-starbucks-which-consumer-goods-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-22T13:31:02+00:00",
+   "tickers": [
+    "SBUX"
+   ],
+   "summary_ko": [
+    "펩시코와 스타벅스의 밸류에이션 차이를 비교하며 어느 종목이 더 매력적인지 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "0342681c591bc73d",
    "kind": "youtube",
@@ -14,9 +48,28 @@
     "NVDA",
     "QQQ"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "QQQ와 엔비디아 등 주요 자산의 가격 하락 흐름을 다뤘다.",
+    "작성자는 추가 하락 구간을 예상하며 매수 타이밍을 기다리고 있다고 밝혔다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "5101fa1ee4cb84d8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Johnson & Johnson vs. Pfizer: Which Healthcare Stock Is a Better Buy for 2027?",
+   "excerpt": "Johnson & Johnson's drug-and-device product mix faces off against Pfizer's high-stakes oncology and obesity bets, with a valuation gap that may sway your choice.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/22/johnson-johnson-vs-pfizer-which-healthcare-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-22T13:25:02+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "summary_ko": [
+    "존슨앤드존슨과 화이자의 포트폴리오와 밸류에이션 격차를 비교했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "58f1ee89f5e3dbc3",
@@ -30,9 +83,10 @@
    "tickers": [
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "AMD가 중국 블랙리스트 기업에 펌웨어를 지원했다는 의혹과 함께 집단소송 조사를 받고 있다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "4151b584ec6b7eb5",
@@ -46,9 +100,10 @@
    "tickers": [
     "DIS"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "디즈니가 52주 최고가를 기록한 배경과 함께 추가 상승 여력이 있다는 주장을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ee87a9bb5358b404",
@@ -63,9 +118,10 @@
     "ADBE",
     "ABNB"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "스위스 주요 종목들을 다루며 가치 투자 관련 강의와 플랫폼 정보를 공유했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e046660c01f82e90",
@@ -97,9 +153,10 @@
    "tickers": [
     "META"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "140억 달러 규모의 펀드가 로블록스, 메타 플랫폼스 등을 매수했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0da1e5777bc788e2",
@@ -113,9 +170,10 @@
    "tickers": [
     "DIS"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "조지 소로스를 비롯한 대형 펀드들이 지난 분기 디즈니를 매각하거나 매수했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ce10df2267423142",
@@ -130,9 +188,10 @@
     "NVDA",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "오픈AI의 그렉 브록먼은 AMD 칩에서 AI 모델이 단기간에 큰 진전을 이루었다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "62a688ac850a2e38",
@@ -149,9 +208,10 @@
     "AMD",
     "AVGO"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아가 최고경영자 퇴임설과 SEC 회계 조사 보도 등으로 고점 대비 하락했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "a4c07398659e6389",
@@ -167,9 +227,10 @@
     "GOOGL",
     "APP"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "블룸버그의 마크 거먼은 AI 확산으로 앱 중심 패러다임이 쇠퇴할 것이며 이는 애플에 문제가 될 수 있다고 주장했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "02100aa3aeff6607",
@@ -220,9 +281,10 @@
     "MSFT",
     "TSM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "대형 펀드가 지난 분기 엔비디아, 대만반도체, 마이크로소프트를 대거 매수했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ea4d2fbeb6ba5260",
@@ -398,6 +460,23 @@
     "KR 캐피탈이 3분기에 마이크로소프트 포지션을 새로 열고 아마존 등을 추가했다고 13F 보고서 내용을 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "ef072f89659b07dd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jeff Bezos donated $198.9 million in Amazon stock in two days, including shares he’s held since 1994",
+   "excerpt": "The Amazon founder's disclosed stock gifts this year now total about $629 million, with his Earth Fund and Bezos Academy preschools the only named recipients.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-donated-198-9-112000555.html?.tsrc=rss",
+   "published": "2026-11-22T11:20:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "제프 베이조스가 이틀간 1억 9,890만 달러 상당의 아마존 주식을 기부했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e27f4e08bf7d92c1",
@@ -3311,9 +3390,10 @@
     "AMZN",
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월마트와 타겟 등 소매업체들이 추수감사절을 맞아 파격적인 식료품 할인 행사를 진행한다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e168c772b490423b",
@@ -3384,6 +3464,25 @@
    ],
    "summary_ko": [
     "브로드컴이 AI 전망치를 3분기 연속 상회했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b0b8feb5119d15fc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Patchpocalypse Could Be a Big Opportunity for These 2 Cybersecurity Stocks",
+   "excerpt": "Mid-November outages spur a shift to cloud edge security, as Check Point expands with Microsoft Azure and Palo Alto Networks pursues acquisitions amid vendor consolidation.",
+   "url": "https://www.marketbeat.com/articles/the-patchpocalypse-could-be-a-big-opportunity-for-these-2-cybersecurity-stocks/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+   "published": "2026-11-21T13:45:00+00:00",
+   "tickers": [
+    "MSFT",
+    "PANW"
+   ],
+   "summary_ko": [
+    "11월 중순 발생한 장애로 클라우드 엣지 보안 전환이 촉진되고 있다고 다뤘다.",
+    "체크포인트는 마이크로소프트 애저와 협력을 확대하고 팔로알토 네트웍스는 인수를 추진 중이라고 전했다."
    ],
    "tone": "pos"
   },
@@ -3577,9 +3676,11 @@
    "tickers": [
     "AVGO"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "앤스로픽의 대규모 자금 조달이 브로드컴 투자자들의 주요 우려를 완화할 수 있다고 전망했다.",
+    "약 1,176억 달러를 조달해 브로드컴과의 칩 공급 계약에 필요한 자금 마련 능력을 강화했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6874715e879b8fbd",
@@ -79203,96 +79304,6 @@
    "summary_ko": [
     "엔비디아 실적 발표와 연준의 AI 태스크포스 과제가 맞물렸다고 다뤘다.",
     "연준 태스크포스는 인플레이션과 고용 등 미국 경제에 미칠 잠재적 영향을 다룬다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1c5907ee03cbc4c0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Credo Technology a Better AI Networking Buy Than Broadcom?",
-   "excerpt": "Does Broadcom's massive scale make it the ultimate artificial intelligence stock? Credo Technology's triple-digit growth rate might offer a more lucrative alternative for risk-tolerant investors.",
-   "url": "https://www.fool.com/investing/2026/11/15/is-credo-technology-a-better-ai-networking-buy-than-broadcom/?.tsrc=rss",
-   "published": "2026-11-15T13:57:01+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "summary_ko": [
-    "크레도 테크놀로지가 브로드컴의 대안이 될 수 있는지 다뤘다.",
-    "세 자릿수 성장률을 기록한 크레도가 위험 감수 투자자에게 매력적일 수 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "16d80c462d1832ff",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Home Depot vs. Walmart: Which Consumer Stock Is a Better Buy for 2027?",
-   "excerpt": "Home Depot's Pro contractor push and Walmart's grocery-driven traffic offer two very different routes to steady growth, and their valuations diverge sharply.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/15/home-depot-vs-walmart-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-   "published": "2026-11-15T13:54:02+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "홈 dépôt과 월마트의 2027년 소비주 투자 매력을 비교했다고 다뤘다.",
-    "홈 디포의 계약자 공략과 월마트의 식료품 중심 유동성이 서로 다른 성장 경로를 보여준다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d3651b439dd371fb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off",
-   "excerpt": "AMD seems poised to become a long-term winner due to its accelerating growth and a huge addressable market.",
-   "url": "https://www.fool.com/investing/2026/11/15/the-evidence-is-piling-up-amd-could-be-the-best-artificial-intelligence-ai-stock-to-buy-amid-the-sell-off/?.tsrc=rss",
-   "published": "2026-11-15T13:45:02+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "하락장 속에서 AMD가 매수하기 가장 좋은 AI 주식일 수 있다는 증거가 쌓이고 있다고 주장했다.",
-    "가속화되는 성장과 거대한 시장 규모로 인해 장기 승자가 될 준비가 되었다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "91be3a00ad9bd634",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A Tesla-SpaceX Merger Could Create the World’s Biggest Company, Fulfilling Musk’s Old Fascination",
-   "excerpt": "Tesla and SpaceX are reportedly advancing their merger talks. The merged entity might become the world's biggest company if AI trade starts roaring again.",
-   "url": "https://www.barchart.com/story/news/8843976/a-tesla-spacex-merger-could-create-the-worlds-biggest-company-fulfilling-musks-old-fascination?.tsrc=rss",
-   "published": "2026-11-15T13:42:06+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라와 스페이스X의 합병 논의가 진전되고 있다고 보도했다.",
-    "AI 거래가 다시 활성화되면 합병 법인이 세계 최대 기업이 될 수 있다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "6987c9bdb96fc223",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Over 100,000 Want Jensen Huang Back. Nvidia Stock’s Real Test Comes Tuesday.",
-   "excerpt": "Key TakeawaysA petition to reinstate Jensen Huang passed 108,000 signatures by Saturday, and Elon Musk said he signed it. Nvidia’s board hasn’t publicly responded.",
-   "url": "https://www.tikr.com/blog/over-100000-want-jensen-huang-back-nvidia-stocks-real-test-comes-tuesday?ref=yahoofinance&tlnk=yf-261115-9jhghrmh&.tsrc=rss",
-   "published": "2026-11-15T13:37:08+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 복귀를 요구하는 청원에 10만 명 이상이 서명했다고 전했다.",
-    "일론 머스크도 서명에 동참했으며, 엔비디아 이사회는 공식 입장을 내놓지 않았다고 다뤘다."
    ],
    "tone": "neu"
   }
