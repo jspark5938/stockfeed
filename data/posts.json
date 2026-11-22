@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-22T00:00:40.245271+00:00",
+ "updated": "2026-11-22T00:19:19.624846+00:00",
  "posts": [
+  {
+   "id": "d41aede87afd2ae9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Without Jensen Huang: 3 Things That Could Go Right and 3 That Could Go Wrong",
+   "excerpt": "Nvidia shares have sunk after longtime CEO Jensen Huang stepped down, but not all is lost.",
+   "url": "https://www.fool.com/investing/2026/11/21/nvidia-without-jensen-huang-3-things-that-could-go-right-and-3-that-could-go-wrong/?.tsrc=rss",
+   "published": "2026-11-22T00:01:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황 CEO 사임 후 엔비디아 주가가 하락했다고 언급했다.",
+    "그가 없는 상황에서 발생할 수 있는 긍정적 요인 3가지와 부정적 요인 3가지를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "65b84d792af29120",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intuit vs. Oracle: Which Technology Stock Is a Better Buy for 2027?",
+   "excerpt": "Intuit's sticky tax and small business ecosystem faces off against Oracle's push into AI cloud capacity, and the trade-offs between them look starkly different.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/21/intuit-vs-oracle-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-22T00:00:25+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "인투이트와 오라클의 2027년 유망 종목 가능성을 비교했다.",
+    "인투이트의 세금 및 중소기업 생태계와 오라클의 AI 클라우드 확장을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "5c351cd33d76e762",
    "kind": "news",
@@ -78912,24 +78948,6 @@
     "다가오는 실적 발표와 CEO 교체 등으로 인해 긍정적인 전망을 찾기 어렵다고 주장했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "090c5941d8d48486",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Earnings Could Shift Focus To Cloudflare Stock And AI Cost Control",
-   "excerpt": "AI infrastructure spending is exploding, yet the real story is shifting to the quieter software players helping firms control cloud bills and monitor complex models. With Nvidia’s Nov. 17 earnings and the Anthropic IPO set to test how durable this AI buildout really is, investors risk watching from the sidelines. This article unpacks how those catalysts could impact three stocks exposed to that news. The stocks in this article are only a starting sample, and the full screen surfaced 24 more...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-could-shift-focus-001832576.html?.tsrc=rss",
-   "published": "2026-11-15T00:18:32+00:00",
-   "tickers": [
-    "NVDA",
-    "NET"
-   ],
-   "summary_ko": [
-    "AI 인프라 지출이 급증하는 가운데 초점이 소프트웨어 기업들로 이동하고 있다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
