@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-22T21:16:31.182119+00:00",
+ "updated": "2026-11-22T21:30:32.200931+00:00",
  "posts": [
+  {
+   "id": "1d3b1ce9693edcb0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Her $420,000 in Employer Stock Inside Her 401(k) Lost 11% in a Day. Rolling It Into an IRA Would Turn Her Long-Term Gain Into Ordinary Income",
+   "excerpt": "A hypothetical 61-year-old retiree has $420,000 of Broadcom (NASDAQ:AVGO) stock inside her 401(k). She files single, she is past 59½, and her plan offers a straight rollover of the whole account into an IRA. The stock fell 11% on Friday after analyst Ming-Chi Kuo posted that Alphabet (NASDAQ:GOOGL) unit Google cut its 2027 TPU 8i […]",
+   "url": "https://247wallst.com/personal-finance/2026/11/22/her-420000-in-employer-stock-inside-her-401k-lost-11-in-a-day-rolling-it-into-an-ira-would-turn-her-long-term-gain-into-ordinary-income/?.tsrc=rss",
+   "published": "2026-11-22T21:17:03+00:00",
+   "tickers": [
+    "GOOGL",
+    "AVGO"
+   ],
+   "summary_ko": [
+    "애널리스트의 전망 여파로 401(k) 내 관련 주식이 하락했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bb6bc9aecde44209",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "15% of parents already cut college savings after Microsoft AI CEO told a mom 'probably not' to bother saving",
+   "excerpt": "Parents are cutting back on some college savings plans, thanks to AI. Is that a good idea?",
+   "url": "https://finance.yahoo.com/technology/ai/articles/15-parents-already-cut-college-211500548.html?.tsrc=rss",
+   "published": "2026-11-22T21:15:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트 AI 최고경영자의 발언 이후 일부 부모들이 대학 저축을 줄였다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "1dc94ca6979ec301",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25?",
+   "excerpt": "On CBS's Face the Nation, U.S. Treasury Secretary Scott Bessent seemed to change his tone regarding a potential return of Jensen Huang to Nvidia.",
+   "url": "https://www.fool.com/investing/2026/11/22/u-s-treasury-secretary-scott-bessent-just-delivered-great-news-to-former-nvidia-ceo-jensen-huang-should-you-buy-nvidia-stock-before-nov-25/?.tsrc=rss",
+   "published": "2026-11-22T21:08:04+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미 재무장관의 발언 변화를 다루며 관련 주식 매수 여부를 언급했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "ee970f4d3abf326a",
    "kind": "news",
@@ -14,9 +66,27 @@
     "NVDA",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "제프 베이조스가 관련 기업 이사회에 경고 메시지를 보냈다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fabb5c2956313591",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palantir Technologies (PLTR) Co Hosts Sovereign AI Defense Summit",
+   "excerpt": "Palantir Technologies (NasdaqGS:PLTR) co hosted the Ondas Defense Technology Summit focused on sovereign AI for mission critical defense. The summit brought together defense officials and industry partners to review AI use directly in national security workflows. Palantir presented sovereign AI systems aimed at keeping allied government customers in control of data, models, and deployment environments. Palantir's role co hosting the summit on sovereign AI for mission critical defense is...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-co-hosts-210650181.html?.tsrc=rss",
+   "published": "2026-11-22T21:06:50+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "팔란티어는 소버린 AI 국방 서밋을 공동 주최하고 관련 AI 시스템을 선보였다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "cb58805c311c9439",
@@ -30,9 +100,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "로버트 싱클레어 주니어는 유가 상승으로 휴가철 여행이 소폭 감소할 것으로 전망했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "392a6010fa73e2d5",
@@ -1423,9 +1494,10 @@
    "tickers": [
     "AAPL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "시장 하락 속에서도 애플 주가가 강세를 보이는 이유와 관련 분석을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b2fb3381c59918b8",
@@ -1841,9 +1913,10 @@
     "DIS",
     "BAC"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "뱅크오브아메리카가 연말 매수 종목을 선정했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "37c53f6defca8150",
@@ -3724,9 +3797,10 @@
    "tickers": [
     "COIN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "금리 인상 우려 속에서 미국 달러가 주요 자산 중 유일한 상승세를 보였다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f4ec312e474048be",
@@ -5846,9 +5920,10 @@
    "tickers": [
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "칩 메이커 주식이 급락한 배경에 세 가지 요인이 있다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "07e242f84aacc538",
@@ -6041,9 +6116,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "칩 주식 하락과 함께 관련 주식 베팅이 대규모 청산 물결에 포함되었다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "3bb7001a0da02599",
@@ -79119,23 +79195,6 @@
     "핀테크 기업의 강점이 약점을 상쇄했다고 언급했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "090d1057bdf59d50",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia CEO Jensen Huang Resigns as Stock Tanks. Here Are the Next Steps for Investors.",
-   "excerpt": "In a largely unprecedented development for one of the worldʻs largest companies, hereʻs what investors should do.",
-   "url": "https://www.fool.com/investing/2026/11/15/nvidia-ceo-jensen-huang-resigns-as-stock-tanks-here-are-the-next-steps-for-investors/?.tsrc=rss",
-   "published": "2026-11-15T21:20:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO 젠슨 황의 사임 소식과 함께 주가 하락 소식을 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
