@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-23T09:30:33.113636+00:00",
+ "updated": "2026-11-23T09:51:07.549370+00:00",
  "posts": [
+  {
+   "id": "79b3af86d52bb736",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "MSTR Stock Jumps In Premarket As Bitcoin Reclaims $61K After Brutal Nasdaq Sell-Off",
+   "excerpt": "The rebound comes as Asian regulators move to stabilize markets.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/mstr-stock-jumps-in-premarket-as-bitcoin-reclaims-61-k-after-brutal-nasdaq-sell-off/cNbYDgjR9SY?.tsrc=rss",
+   "published": "2026-11-23T09:44:38+00:00",
+   "tickers": [
+    "MSTR"
+   ],
+   "summary_ko": [
+    "아시아 규제 당국의 시장 안정화 움직임 속에서 비트코인이 6만 1천 달러를 회복했다고 전했다.",
+    "이로 인해 프리마켓에서 MSTR 주가가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "54b5ae2eca76ba25",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Swap Cash for the Apple Stock Inside Your Irrevocable Trust Before You Die and the Shares Come Home for a Full Step-Up. Estate Lawyers Write That Power In on Purpose",
+   "excerpt": "A retired engineer gave Apple shares to a trust, died with them worth millions, and his daughter still got a shocking tax bill. One overlooked clause in the trust document could have erased it, and he never touched it.",
+   "url": "https://247wallst.com/personal-finance/2026/11/23/swap-cash-for-the-apple-stock-inside-your-irrevocable-trust-before-you-die-and-the-shares-come-home-for-a-full-step-up-estate-lawyers-write-that-power-in-on-purpose/?.tsrc=rss",
+   "published": "2026-11-23T09:43:44+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "상속세와 관련해 신탁 문서 내 특정 조항의 중요성을 다룬 내용을 실었다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0d53bd8748a2c95c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "FRN Variable Rate Fix",
+   "excerpt": "LONDON, November 23, 2026-- Re:BANK OF AMERICA CORPORATION",
+   "url": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-094100941.html?.tsrc=rss",
+   "published": "2026-11-23T09:41:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카와 관련된 변동금리 확정 건을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "a2ba8be0b4520b6f",
    "kind": "news",
@@ -13,9 +65,11 @@
    "tickers": [
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월마트가 3분기 성장세를 바탕으로 2027 회계연도 전망치를 상향 조정했다고 밝혔다.",
+    "환율 고정 기준 순매출 증가율 전망치를 기존보다 높여 잡았다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6342f6823189e5c2",
@@ -29,9 +83,10 @@
    "tickers": [
     "RKLB"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "로켓랩과 네비우스 주가가 고점 대비 약 66% 하락한 상태라고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "75032ac91b9ff838",
@@ -63,9 +118,10 @@
    "tickers": [
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "JP모건 자산운용은 AI 관련 차입 증가가 채권 랠리를 가로막고 있다고 진단했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "769223e9fda19362",
@@ -98,9 +154,11 @@
     "TSLA",
     "UBER"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "일론 머스크는 테슬라의 사이버캐브가 가격이 같아도 경쟁사 대비 우위에 설 것이라고 주장했다고 전했다.",
+    "이로 인해 우버와 리프트 등이 타격을 받을 수 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5bf010bc7483c000",
@@ -223,9 +281,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "기술주 매도세를 유발했던 AI 관련 불안감 속에서 미국 주가지수 선물은 반등했다고 전했다.",
+    "재무장관의 엔비디아 중국 칩 판매 조사 관련 언급과 월스트리트 전략가의 S&P 500 전망치 하향조정을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "7645bc9af036d9a7",
@@ -1011,6 +1071,24 @@
     "S&P 500 인덱스 펀드 투자자가 보유한 엔비디아 비중을 소개했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "b6bdf25cfd7c94bf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Flagged Nvidia’s Late 10-Q. Now the SEC Is Reportedly Probing Its Accounting",
+   "excerpt": "Key TakeawaysNvidia stock fell 14% on Friday after Reuters reported an SEC look at its accounting. Nvidia’s biggest risk is now disclosure, not demand.",
+   "url": "https://www.tikr.com/blog/michael-burry-flagged-nvidias-late-10-q-now-the-sec-is-reportedly-probing-its-accounting?ref=yahoofinance&tlnk=yf-261123-23p4vx4f&.tsrc=rss",
+   "published": "2026-11-22T23:23:52+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "마이클 버리가 지적한 이후 SEC가 엔비디아의 회계 처리를 조사 중이라는 보도가 나왔다고 전했다.",
+    "이 소식으로 엔비디아 주가가 하락했으며 수요보다 공시가 더 큰 리스크라고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "ddeec605fbe0d73e",
@@ -78490,97 +78568,6 @@
     "넷플릭스와 디즈니가 이로 인해 비용을 절감하고 현금 흐름에 도움을 받을 수 있다고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "0cc824621bded5bf",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Correction: Market Chatter: Nvidia, Amazon, Microsoft, OpenAI, Anthropic To Be Named AI 'National Champions' By White House",
-   "excerpt": "(Corrects former Nvidia CEO name in the second paragraph.) Nvidia (NVDA), along with Amazon.com (",
-   "url": "https://finance.yahoo.com/technology/ai/articles/correction-market-chatter-nvidia-amazon-095100937.html?.tsrc=rss",
-   "published": "2026-11-16T09:51:00+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "백악관이 엔비디아, 아마존, 마이크로소프트, 오픈AI, 앤트로픽을 AI 국가대표로 지정할 예정이라는 시장 소식을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "daa4654010237013",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "“Behold the Bull-Trap”: Michael Burry Doubles His Nasdaq 100 Puts, Compares October High to March 2000",
-   "excerpt": "Michael Burry just used a market bounce to bet bigger against tech, and he is pointing to a very specific moment in dot-com history. Nvidia's latest numbers may show whether his warning holds up or arrives too early.",
-   "url": "https://247wallst.com/investing/2026/11/16/behold-the-bull-trap-michael-burry-doubles-his-nasdaq-100-puts-compares-october-high-to-march-2000/?.tsrc=rss",
-   "published": "2026-11-16T09:44:05+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "마이클 버리가 나스닥 100 풋옵션을 두 배로 늘리며 시장 반등을 불트랩으로 평가했다고 다뤘다.",
-    "그는 10월 고점을 2000년 3월과 비교하며 기술주 하락에 베팅했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "b203a5364190fdaa",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Earnings Could Set The Tone For Bitcoin, MSTR: Here’s What Retail Traders Are Watching",
-   "excerpt": "Retail sentiment around MSTR improved to 'neutral' from 'bearish,' while sentiment around Nvidia stayed 'extremely bullish' on Stocktwits.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-earnings-could-set-the-tone-for-bitcoin-mstr-here-s-what-retail-traders-are-watching/cNb7jB2R9XF?.tsrc=rss",
-   "published": "2026-11-16T09:40:53+00:00",
-   "tickers": [
-    "NVDA",
-    "MSTR"
-   ],
-   "summary_ko": [
-    "엔비디아의 실적 발표가 비트코인과 스트레티지(MSTR)의 분위기를 좌우할 수 있다고 다뤘다.",
-    "스탁트윗에서 MSTR에 대한 소매 투자자 심리는 중립으로 개선되었고, 엔비디아는 극단적인 강세를 유지했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "e034ea3fd5b22670",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "“Costco Has Terrible Governance,” Says Lean Startup Author. Its Stock Just Hit a Record",
-   "excerpt": "Key TakeawaysCostco stock closed at a record high on Nov. 13 after a $30-a-share special dividend worth about $13.",
-   "url": "https://www.tikr.com/blog/costco-has-terrible-governance-says-lean-startup-author-its-stock-just-hit-a-record?ref=yahoofinance&tlnk=yf-261116-r7859vp6&.tsrc=rss",
-   "published": "2026-11-16T09:39:43+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "한 저자가 코스트코의 지배구조를 강하게 비판했다고 다뤘다.",
-    "코스트코 주가는 특별 배당 소식과 함께 최고가를 기록했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "861a9eec496b9d7a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Meta Fined $887.3 Million by Italy for Accessing Android Users' Photos Without Specific Consent",
-   "excerpt": "Meta Platforms (META) was fined 805 million euros ($887.3 million) by Italy's data protection author",
-   "url": "https://finance.yahoo.com/technology/ai/articles/meta-fined-887-3-million-093734165.html?.tsrc=rss",
-   "published": "2026-11-16T09:37:34+00:00",
-   "tickers": [
-    "META"
-   ],
-   "summary_ko": [
-    "이탈리아 당국이 메타에 안드로이드 사용자 사진 접근 관련 벌금을 부과했다고 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }

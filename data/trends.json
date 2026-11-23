@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-23T09:30:33.113636+00:00",
+ "updated": "2026-11-23T09:51:07.549370+00:00",
  "trends": [
   {
    "ticker": "AAPL",
    "name_ko": "애플",
-   "mentions_24h": 11,
+   "mentions_24h": 12,
    "mentions_prev_24h": 3,
-   "ratio": 3.67
+   "ratio": 4.0
   },
   {
    "ticker": "JPM",
@@ -177,13 +177,6 @@
    "ratio": 0.75
   },
   {
-   "ticker": "AVGO",
-   "name_ko": "브로드컴",
-   "mentions_24h": 8,
-   "mentions_prev_24h": 11,
-   "ratio": 0.73
-  },
-  {
    "ticker": "INTC",
    "name_ko": "인텔",
    "mentions_24h": 4,
@@ -205,11 +198,18 @@
    "ratio": 0.6
   },
   {
-   "ticker": "MU",
-   "name_ko": "마이크론",
+   "ticker": "AVGO",
+   "name_ko": "브로드컴",
+   "mentions_24h": 7,
+   "mentions_prev_24h": 12,
+   "ratio": 0.58
+  },
+  {
+   "ticker": "BAC",
+   "name_ko": "뱅크오브아메리카",
    "mentions_24h": 3,
-   "mentions_prev_24h": 6,
-   "ratio": 0.5
+   "mentions_prev_24h": 7,
+   "ratio": 0.43
   },
   {
    "ticker": "NKE",
@@ -219,8 +219,8 @@
    "ratio": 0.4
   },
   {
-   "ticker": "BAC",
-   "name_ko": "뱅크오브아메리카",
+   "ticker": "MU",
+   "name_ko": "마이크론",
    "mentions_24h": 2,
    "mentions_prev_24h": 7,
    "ratio": 0.29
