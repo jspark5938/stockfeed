@@ -1,6 +1,335 @@
 {
- "updated": "2026-11-23T18:00:40.224685+00:00",
+ "updated": "2026-11-23T18:30:35.679959+00:00",
  "posts": [
+  {
+   "id": "3daab4bfc7070516",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Trump: If I didn't get involved, you'd 'have a very sad Nvidia for a long time to come'",
+   "excerpt": "President Donald Trump told CNBC on Monday that he spoke directly to Nvidia’s board and urged them to reinstate CEO Jensen Huang saying, “I did it for the country.”",
+   "url": "https://www.youtube.com/watch?v=rLXMnTdNM1M",
+   "published": "2026-11-23T18:15:19+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "도널드 트럼프 대통령은 엔비디아 이사회와 직접 통화해 젠슨 황의 CEO 복귀를 촉구했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "efc127dbd4552802",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Altimeter's Brad Gerstner reacts to Jensen Huang's reinstatement as Nvidia CEO",
+   "excerpt": "Brad Gerstner, founder and CEO of Altimeter Capital, joins CNBC's \"Halftime Report” to discuss Jensen Huang, Nvidia and the future of AI.",
+   "url": "https://www.youtube.com/watch?v=XAVqD9E7upg",
+   "published": "2026-11-23T18:13:10+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "알티미터 캐피털의 브래드 거스트너는 젠슨 황의 엔비디아 CEO 복귀와 AI의 미래에 대해 논의했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "a236bb6441116fa3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang Got His Nvidia Job Back and Made About $33 Billion Before Lunch",
+   "excerpt": "Nvidia reinstated Jensen Huang as CEO Monday morning. His roughly 811.5 million shares gained about $33 billion by midday.",
+   "url": "https://247wallst.com/investing/2026/11/23/jensen-huang-got-his-nvidia-job-back-and-made-about-33-billion-before-lunch/?.tsrc=rss",
+   "published": "2026-11-23T18:12:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1f46b9b209caf47c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Novo Nordisk (CPSE:NOVO B) Wins FDA Nod For First Weekly Turner Syndrome Therapy",
+   "excerpt": "Novo Nordisk (CPSE:NOVO B) received FDA approval for Sogroya as a once-weekly growth hormone treatment for children with Turner Syndrome. The authorization makes Sogroya the first long-acting, once-weekly growth hormone cleared in the United States for this pediatric group. The decision expands Novo Nordisk's pediatric endocrinology portfolio, adding a new option alongside existing daily growth hormone therapies. The new FDA approval for once-weekly Sogroya in Turner Syndrome is important,...",
+   "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-181155742.html?.tsrc=rss",
+   "published": "2026-11-23T18:11:55+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "6a340275cb443420",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bitcoin rallies as Nvidia brings back Jensen Huang",
+   "excerpt": "Crypto markets rebound as Nvidia’s leadership reversal lifts AI-linked stocks.",
+   "url": "https://www.thestreet.com/crypto/markets/bitcoin-rallies-as-nvidia-brings-back-jensen-huang?.tsrc=rss",
+   "published": "2026-11-23T18:11:13+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "55250c1d47ee581e",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Nvidia's board should 'completely resign' after Huang reinstatement, says Yale's Jeffrey Sonnenfeld",
+   "excerpt": "Jeffrey Sonnenfeld, senior associate dean at the Yale School of Management, joins 'Squawk on the Street' to discuss President Trump's involvement around Jensen Huang's reinstatement as Nvidia's CEO, chip exports to China, and more.",
+   "url": "https://www.youtube.com/watch?v=RmeqtY0X_HM",
+   "published": "2026-11-23T18:11:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "예일대의 제프리 소넨펠드는 젠슨 황의 복귀 이후 엔비디아 이사회가 전원 사임해야 한다고 주장했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f7a32ab769af0635",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CrowdStrike's best quarter ever gets buried by $44 billion deal",
+   "excerpt": "Wall Street got a record quarter and a blockbuster Zscaler purchase from CrowdStrike on the same morning. Investors only wanted to talk about one.",
+   "url": "https://www.thestreet.com/investing/crowdstrike-record-quarter-zscaler-deal-crwd-zs?.tsrc=rss",
+   "published": "2026-11-23T18:08:22+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "0e73518a02b20968",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia board shows \"lack of backbone\" in re-hiring Jensen Huang, governance experts say",
+   "excerpt": "Nvidia's shock reappointment of Jensen Huang exposes the company to legal liability, political blowback and internal turmoil while rendering the board nearly toothless to keep its CEO accountable moving forward, say corporate governance and business ethics experts.",
+   "url": "https://www.axios.com/2026/11/23/jensen-huang-ceo-board-affair#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+   "published": "2026-11-23T18:08:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "6b98f2077246ab2a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Here’s What Drove Microsoft Corporation’s (MSFT) Q3 Outperformance",
+   "excerpt": "Meridian Funds, managed by ArrowMark Partners, released its third-quarter 2026 investor letter for “Meridian Hedged Equity Fund”. The letter can be downloaded here. In the quarter, a modest gain in U.S. equities masked a significant sector rotation and sharply narrowing leadership. The S&P 500 rose 2.30% in the quarter, bringing the year-to-date gain to 12.75%. […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/drove-microsoft-corporation-msft-q3-180542777.html?.tsrc=rss",
+   "published": "2026-11-23T18:05:42+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "079656bb842723cd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TSMC’s Future Could Look Very Different by the End of 2028",
+   "excerpt": "TSMC's revenue is surging, yet its stock has dropped hard in a single month as new export rules and margin pressure rattle investors. Can the chip giant climb back and then some, and what would have to go right?",
+   "url": "https://247wallst.com/investing/2026/11/23/tsmcs-future-could-look-very-different-by-the-end-of-2028/?.tsrc=rss",
+   "published": "2026-11-23T18:03:38+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "75e0951f9e6aa9f4",
+   "kind": "youtube",
+   "source": "The Motley Fool",
+   "author": "The Motley Fool",
+   "title": "Jensen Huang Is Back! Stock Market Surges LIVE!",
+   "excerpt": "Travis and Neil discuss the stock market's pop after Jensen Huang announced his return to NVIDIA.",
+   "url": "https://www.youtube.com/watch?v=VXTOul3-tKQ",
+   "published": "2026-11-23T18:03:35+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트래비스와 닐은 젠슨 황의 엔비디아 복귀 발표 이후 나타난 주식 시장의 급등세를 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "9fd866a0f3e1f4c5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Schumer puts Nvidia, Trump on notice after Huang reinstatement",
+   "excerpt": "Senate Minority Leader Chuck Schumer (D-N.Y.) warned Nvidia CEO Jensen Huang that Congress is coming for answers — whether he's back at the top of the company or not.",
+   "url": "https://www.axios.com/2026/11/23/schumer-trump-nvidia-huang-reinstated#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+   "published": "2026-11-23T18:03:32+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "41062a78f14ae28e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Huang's Return Represents Major Catalyst For Nvidia Even as Regulatory Risks Persist, BofA Says",
+   "excerpt": "Jensen Huang's return as Nvidia (NVDA) chief executive is a major catalyst for the chipmaking giant,",
+   "url": "https://finance.yahoo.com/technology/articles/huang-apos-return-represents-major-180247518.html?.tsrc=rss",
+   "published": "2026-11-23T18:02:47+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "971965a4ad6c9002",
+   "kind": "youtube",
+   "source": "Andrei Jikh",
+   "author": "Andrei Jikh",
+   "title": "An “Upgrade” or AI Attack?",
+   "excerpt": "The government says it wasn't an attack. It was just upgrades. Microsoft, the FAA and more all went down in the middle of supposed system upgrades. Maybe old, fragile systems got upgraded too fast. Or maybe that's too many coincidences, and the internet has a very different theory. Find the full story in my video: America Is Under Attack",
+   "url": "https://www.youtube.com/watch?v=2w6SuX2FSmU",
+   "published": "2026-11-23T18:02:37+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트와 FAA 등의 시스템 중단에 대해 정부는 공격이 아닌 업그레이드였다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4dd2c05d4d1cf666",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Rogers (ROG) Stock Is Up 10.1% Today: AI Hardware Rally on Nvidia News",
+   "excerpt": "On Monday, Nov. 23, the shares rose 10.1% by 1:00 p.m. ET as AI hardware stocks rallied after Nvidia reinstated Jensen Huang as CEO",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-rogers-rog-stock-10-180106692.html?.tsrc=rss",
+   "published": "2026-11-23T18:01:06+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1e8bb96c7ffcc519",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Kulicke & Soffa (KLIC) Stock Is Jumping Today: Chip Rally Follows Nvidia CEO News",
+   "excerpt": "On Monday, Nov. 23, the stock rose 11.3% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-kulicke-soffa-klic-stock-180100240.html?.tsrc=rss",
+   "published": "2026-11-23T18:01:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "2f3ea920707f729f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia's Forecast Needs $1.4 Trillion Of AI Spending In 2027. Who Pays?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/nvda/articles/627446/nvidia-s-forecast-needs-1-4-trillion-of-ai-spending-in-2027-who-pays/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T18:00:56+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "65ee0c565e5e0221",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Diodes (DIOD) Stock Is Up Today: Chip Rally After Nvidia's CEO Return",
+   "excerpt": "Diodes rose 13.4% on Monday, Nov. 23, as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-diodes-diod-stock-today-180047877.html?.tsrc=rss",
+   "published": "2026-11-23T18:00:47+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "213bebd76f236b2e",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Markets were already bouncing before Jensen Huang came back",
+   "excerpt": "Jensen Huang walked back into Nvidia as CEO on Monday and the stock jumped almost 30% at the open. The Nasdaq went with it. Scott Melker's read is that the bounce started before the announcement did, which points at something other than the news. Bitcoin had already turned. It fell to about $55,000 on Saturday, its lowest since September 2024, then bounced back above $61,000. That low landed on November 21, four years to the day after Bitcoin's 2022 bear market bottom around $15,500. Strategy bought 457 Bitcoin and spent seven times more buying back STRC. And Kraken let the trades stand after Bitcoin printed C$24,250 on its Canadian book. Timestamps 0:00 Jensen Huang is back at Nvidia and the stock jumps 30% 2:03 Why the bounce started before the announcement did 3:22 Bitcoin's low landed ",
+   "url": "https://www.youtube.com/watch?v=duqpCH2snqE",
+   "published": "2026-11-23T18:00:37+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 엔비디아 복귀로 주가가 급등했으나, 반등은 발표 이전에 이미 시작되었다는 분석이 나왔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "57d5d3a5fb333c3c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Ambiq Micro (AMBQ) Stock Up Today? Nvidia's CEO Return Lifts Chip Stocks",
+   "excerpt": "On Monday, Nov. 23, Ambiq Micro rose 14.0% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-ambiq-micro-ambq-stock-180029085.html?.tsrc=rss",
+   "published": "2026-11-23T18:00:29+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "613e75bbff4f53cc",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Trump on Nvidia's future after Huang's return as CEO: 'Sex sells'",
+   "excerpt": "President Donald Trump talks with CNBC on Monday about Nvidia’s future following Jensen Huang’s return as CEO.",
+   "url": "https://www.youtube.com/watch?v=XPRvHrvNbEI",
+   "published": "2026-11-23T18:00:15+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "도널드 트럼프 대통령은 젠슨 황의 CEO 복귀 이후 엔비디아의 미래에 대해 언급했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "7799043b54db9f76",
    "kind": "youtube",
@@ -13,9 +342,45 @@
    "tickers": [
     "COST"
    ],
+   "summary_ko": [
+    "코스트코의 수익 창출 방식과 재테크 정보를 다루는 채널의 소개 및 면책 문구를 담고 있다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a531995f44766331",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "China’s Electric Cars Are Taking Over The World. Where Does That Leave Tesla?",
+   "excerpt": "Chinese automakers could export 12 million vehicles this year, according to analyst estimates, up from fewer than 1 million in 2020, as China’s electric cars spread across the world. For Tesla Inc. (NASDAQ:TSLA), the boom brings an uncomfortable twist: its...",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63550701/chinese-evs-tesla?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "published": "2026-11-23T18:00:07+00:00",
+   "tickers": [
+    "TSLA"
+   ],
    "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "tone": null
+  },
+  {
+   "id": "2726a998f1222c3d",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "The Big 3: PLTR, ORCL, SPCX",
+   "excerpt": "As Nvidia (NVDA) and its reinstatement of Jensen Huang as CEO ignites a stock market surge, Joe Tigay turns to other key tech names he sees trading opportunities in amid the strong volatility. He points to Palantir (PLTR) as a key software beneficiary in the AI buildout, along with Oracle (ORCL) and SpaceX (SPCX) as winners in the U.S. data center trade. Rick Ducat backs Joe's trading thoughts by turning to his technical analysis in the stock charts. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #palan",
+   "url": "https://www.youtube.com/watch?v=5FMjzUCseDA",
+   "published": "2026-11-23T18:00:04+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN",
+    "PLTR",
+    "ORCL"
+   ],
+   "summary_ko": [
+    "조 티게이는 엔비디아의 젠슨 황 복귀에 따른 시장 급등 속에서 팔란티어, 오라클, 스페이스X를 주목할 종목으로 꼽았다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "3662d19df3b07909",
@@ -28,6 +393,54 @@
    "published": "2026-11-23T17:55:51+00:00",
    "tickers": [
     "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "0724fd0f859ba902",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Arm Holdings Stocks Soar 13.5% as CEO Rene Haas Commits Through 2033",
+   "excerpt": "The extension follows reports that Nvidia's board approached Haas; he also becomes SoftBank Group vice chairman on December 1.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-soar-13-175528778.html?.tsrc=rss",
+   "published": "2026-11-23T17:55:28+00:00",
+   "tickers": [
+    "NVDA",
+    "ARM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "6b03e1da64ec687b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet Stocks Jump 6.97% as AI Rebound Spotlights Google Cloud's 103% Growth",
+   "excerpt": "A supply-chain report on Google reshuffling its TPU suppliers hit Broadcom, not Alphabet, whose chips now feed a cloud unit growing at triple digits.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-stocks-jump-6-97-175521840.html?.tsrc=rss",
+   "published": "2026-11-23T17:55:21+00:00",
+   "tickers": [
+    "GOOGL",
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "173d31e0dfb6532f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom Stocks Rise 2.76% but Lag Chip Rally After Google TPU Cut Report",
+   "excerpt": "An unconfirmed supply-chain survey says Google trimmed 2027 TPU 8i shipments by about 20%, a fresh question mark over Broadcom's custom AI chip business.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-rise-2-76-175507027.html?.tsrc=rss",
+   "published": "2026-11-23T17:55:07+00:00",
+   "tickers": [
+    "GOOGL",
+    "AVGO"
    ],
    "summary_ko": null,
    "tone": null
@@ -58,6 +471,51 @@
    "published": "2026-11-23T17:53:40+00:00",
    "tickers": [
     "CRWD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "81e1ab84c355ac74",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft Stocks Rise 3.9% With a Perfect GF Score as OpenAI Contingency Plans Surface",
+   "excerpt": "Microsoft is reportedly readying its own MAI models in case OpenAI access changes, while Azure grew 48% last quarter.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-rise-3-9-175313371.html?.tsrc=rss",
+   "published": "2026-11-23T17:53:13+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "3b655443f977a129",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palantir Stocks Jump 11.67% as AI Software Rebound Revisits a 158% Rule of 40",
+   "excerpt": "Palantir guided 2026 revenue to about $8.53 billion, but a planned CEO share sale and a premium multiple keep the debate alive.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stocks-jump-11-67-175310860.html?.tsrc=rss",
+   "published": "2026-11-23T17:53:10+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "09d84a210aeeb9c9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla Stocks Surge 13.67% as SpaceX Merger Committees and Cybercab Sales Draw Buyers",
+   "excerpt": "Both Tesla and SpaceX have formed special committees to weigh a merger, but no terms are on the table yet.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-surge-13-67-175307564.html?.tsrc=rss",
+   "published": "2026-11-23T17:53:07+00:00",
+   "tickers": [
+    "TSLA"
    ],
    "summary_ko": null,
    "tone": null
@@ -105,9 +563,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "도널드 트럼프 대통령은 젠슨 황의 엔비디아 복귀에 대해 좋은 사람이며 고난을 겪었다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e4db94639552fafa",
@@ -137,9 +596,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "젠슨 황의 엔비디아 CEO 복귀가 광범위한 주식 시장 랠리를 촉발한 가운데 월가의 반응을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "5c192e4cf0d7e52d",
@@ -153,9 +613,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "트럼프 대통령이 엔비디아 이사회에 젠슨 황의 복귀를 촉구한 가운데 증시가 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6142500e56e49488",
@@ -369,9 +830,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "도널드 트럼프는 자신이 엔비디아 이사회를 설득해 젠슨 황을 복귀시켰다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "25bd564403db6b96",
@@ -387,9 +849,10 @@
     "AMZN",
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아의 랠리 규모가 월마트의 시가총액과 맞먹는다고 언급하며 중국 노출 리스크 등을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "c36f2ba6896a467e",
@@ -436,9 +899,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "젠슨 황이 엔비디아로 복귀한 후 소셜 미디어 플랫폼의 약력을 수정했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "d7b06d4a31485b77",
@@ -454,7 +918,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "64ba9111b6a5a88e",
@@ -486,7 +950,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "84fe258184ccb22c",
@@ -548,7 +1012,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "f0e854f222b55626",
@@ -556,7 +1020,7 @@
    "source": "The Wall Street Journal",
    "author": "The Wall Street Journal",
    "title": "Why Jensen Huang’s Return Won’t Solve All of Nvidia’s Problems",
-   "excerpt": "WSJ’s Aaron Back explains how reinstated Nvidia CEO Jensen Huang must now address a growing list of issues at the company that emerged during his 11-day absence.",
+   "excerpt": "WSJ’s Aaron Back explains how reinstated Nvidia CEO Jensen Huang must now address a growing list of issues at the company that emerged during his 11-day absence. #Nvidia #JensenHuang #WSJ",
    "url": "https://www.youtube.com/watch?v=SlmT1Wxtv2o",
    "published": "2026-11-23T17:18:56+00:00",
    "tickers": [
@@ -564,7 +1028,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "afbab4ecc9c92693",
@@ -626,7 +1090,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "78716af099dd3458",
@@ -1137,7 +1601,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "a5949ecebdd9cc0d",
@@ -1154,7 +1618,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "37db60aa9482aae4",
@@ -1385,7 +1849,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "45cc3ed045c0c9fe",
@@ -1461,7 +1925,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "ea8a4d92a0cbc975",
@@ -1477,7 +1941,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "8e005a24994ea583",
@@ -1616,22 +2080,6 @@
    "tone": null
   },
   {
-   "id": "75e0951f9e6aa9f4",
-   "kind": "youtube",
-   "source": "The Motley Fool",
-   "author": "The Motley Fool",
-   "title": "Jensen Huang Is Back! Stock Market Surges LIVE!",
-   "excerpt": "Travis and Neil discuss the stock market's pop after Jensen Huang announced his return to NVIDIA.",
-   "url": "https://www.youtube.com/watch?v=VXTOul3-tKQ",
-   "published": "2026-11-23T16:31:07+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
-  },
-  {
    "id": "d65b1f46ed319a93",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1661,7 +2109,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "394be4f431e65aed",
@@ -2092,7 +2540,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "7e5d0bad1d98b201",
@@ -2228,7 +2676,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "3d377050622420a2",
@@ -2275,7 +2723,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "687bdcd0d755c06a",
@@ -2993,7 +3441,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "a7d1410b40a052cb",
@@ -6770,6 +7218,23 @@
     "두 기업 모두 인공지능 수요가 공급을 초과한다고 언급했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "64df4df06d7deca1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AMAT Stock Alert: David Tepper Just Poured $115 Million on This Tumbling AI Chip Stock",
+   "excerpt": "David Tepper’s Appaloosa opened a $115 million position in Applied Materials while exiting its entire stake in AMD, Broadcom and Qualcomm.",
+   "url": "https://www.barchart.com/story/news/8962286/amat-stock-alert-david-tepper-just-poured-115-million-on-this-tumbling-ai-chip-stock?.tsrc=rss",
+   "published": "2026-11-23T12:15:02+00:00",
+   "tickers": [
+    "AMD",
+    "AVGO",
+    "QCOM"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "6ea4ca803eecbc48",
@@ -80920,516 +81385,6 @@
     "10어말 주가 급락과 관련된 새로운 소송도 시장의 노이즈를 더하고 있다고 전했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "3469c57efe656c5e",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cisco's CEO still trusts Nvidia's chips, and Anthropic's valuation keeps falling | Sozzi Unleashed",
-   "excerpt": "Cisco beat and raised, and chairman and chief executive Chuck Robbins tells Brian Sozzi it lifted its AI infrastructure outlook to $9 billion from $7.5 billion ninety days ago. Asked whether he still trusts Nvidia's chips after the week Nvidia has had, Robbins says absolutely, and that he does not expect customers to make fundamentally different decisions because of it. He also says Cisco's board has reviewed succession every year since the day he started, and that if he were gone tomorrow the company would be fine. Plus Bernstein on the Bank of Jensen, and Anthropic's valuation cut in real time before Thursday's listing. Featuring Chuck Robbins, Chairman and Chief Executive Officer, Cisco Bradley Tusk, Co-founder and Managing Partner, Tusk Venture Partners Bill George, former Chairman and",
-   "url": "https://www.youtube.com/watch?v=5FjpVzo5Tew",
-   "published": "2026-11-16T18:30:04+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "시스코 CEO는 엔비디아 칩에 대한 신뢰가 여전하다고 밝혔다.",
-    "회사의 AI 인프라 전망치를 상향 조정했다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "506631506d46152d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Could Nvidia Be the Next Super Micro?",
-   "excerpt": "Super Micro's stock has struggled to generate strong returns despite experiencing significant growth.",
-   "url": "https://www.fool.com/investing/2026/11/16/could-nvidia-be-the-next-super-micro/?.tsrc=rss",
-   "published": "2026-11-16T18:28:02+00:00",
-   "tickers": [
-    "NVDA",
-    "SMCI"
-   ],
-   "summary_ko": [
-    "슈퍼마이크로는 상당한 성장에도 불구하고 주가가 강력한 수익률을 내는 데 어려움을 겪었다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6382df280a706ccd",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "JPM’s Michele: ‘Looks a Bit Silly’ Fed Missed Oct. Hike",
-   "excerpt": "Bob Michele, global head of fixed income at JPMorgan Asset Management, sees the Federal Reserve having a bigger impact on the Treasury market at the moment than the AI trade. Michele says “it’s looking a little bit silly” that the Fed missed a chance to hike rates in October. He speaks on “Bloomberg Surveillance.” -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Pol",
-   "url": "https://www.youtube.com/watch?v=lw_ENnqapXY",
-   "published": "2026-11-16T18:25:54+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "JP모간의 보 브레첼은 연준이 10월 금리 인상 시기를 놓친 점을 비판했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ffdeab7036faf3bd",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Support from Taiwan comes as Nvidia’s leadership is in flux. 🇹🇼",
-   "excerpt": "Support from Taiwan comes as Nvidia’s leadership is in flux. 🇹🇼 Huang resigned as CEO on Nov. 12 amid allegations of extramarital affairs and Chinese espionage. CFO Colette Kress is interim CEO. Nvidia reports third quarter earnings Tuesday.",
-   "url": "https://www.youtube.com/watch?v=7ILXfrxlWpo",
-   "published": "2026-11-16T18:25:25+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 리더십 변화 속에서 대만의 지지가 이어지고 있다고 전했다.",
-    "황의 사임과 코렛 크레스 임시 CEO 체제를 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6cef6bd7441489b6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart and Other Retailers to Benefit as Lower-Income Consumers Are Feeling the Holiday Spirit—So Far",
-   "excerpt": "In a notable spending shift, lower-income consumers are making more purchases than their higher-income peers. It’s still early in the holiday-shopping calendar.",
-   "url": "https://finance.yahoo.com/m/a79dcadc-ec96-33fd-960b-093c33643b48/walmart-and-other-retailers.html?.tsrc=rss",
-   "published": "2026-11-16T18:25:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "저소득층 소비자들이 고소득층보다 더 많은 구매를 하는 소비 변화가 나타났다고 다뤘다.",
-    "이에 따라 월마트 등의 소매업체들이 혜택을 받을 것이라고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d8c64e92dfb7c15b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Alphabet (GOOGL) May Be the Most Complete NVIDIA Alternative",
-   "excerpt": "Alphabet Inc. (NASDAQ:GOOGL) took 6th place on our list of 10 Stocks to Buy Following Jensen Huang’s Departure. For three years, the AI trade had one face. Now it has an interim CEO. On November 12, Jensen Huang resigned as chief executive and board member of one of the largest companies in the world, hours […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-googl-may-most-182432727.html?.tsrc=rss",
-   "published": "2026-11-16T18:24:32+00:00",
-   "tickers": [
-    "NVDA",
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "알파벳이 엔비디아의 가장 완전한 대안이 될 수 있는지 다뤘다.",
-    "젠슨 황의 사임 이후 알파벳이 주요 매수 종목 목록에 포함되었다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3e8009cc0bdbb0e7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Amazon’s Big Week: First a New James Bond, Then Anthropic’s IPO",
-   "excerpt": "This is shaping up to be a big week for Amazon.com Inc. (NASDAQ:AMZN). Its studio named Robert Pattinson as the next James Bond on Monday. On Thursday, Anthropic is expected to go public, putting a market price on Amazon’s stake,...",
-   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63310662/amazon-anthropic-ipo-pattinson?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-   "published": "2026-11-16T18:22:57+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존 스튜디오가 새로운 제임스 본드를 발표한 데 이어 앤스로픽의 IPO가 예정되어 있다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3580807d566f81cb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bill Gates Issues Grim Warning That ‘Many Jobs Will Disappear Forever’ Due to ‘Turbulent AI Era’",
-   "excerpt": "Bill Gates has issued a grim warning amid the current growth of Artificial Intelligence (AI). The Microsoft cofounder, 71, published a 6,000-word essay earlier this year, titled “The turbulent AI era is here. The choices we make now are critical.” In the essay, Gates called for certain jobs to be “human reserved” and warned AI […]",
-   "url": "https://firstformoney.com/bill-gates-issues-grim-warning-that-many-jobs-will-disappear-forever-due-to-turbulent-ai-era/?.tsrc=rss",
-   "published": "2026-11-16T18:22:15+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "빌 게이츠는 격동의 AI 시대로 인해 많은 일자리가 영원히 사라질 것이라고 경고했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "4bcbdcc6fa588ffe",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-   "excerpt": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/tesla-goes-cybercab-upcoming-3b-182114108.html?.tsrc=rss",
-   "published": "2026-11-16T18:21:14+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라는 베를린 기가팩토리의 30억 유로 확장을 통해 유럽을 사이버캡 로드맵에 포함시키고 있다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "1a811160b5a7e17a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron Stocks Sink Nearly 7% After Judge Lets DRAM Supply Lawsuit Proceed",
-   "excerpt": "A federal judge rejected Micron, Samsung and SK hynix's bid to dismiss claims they cut conventional DRAM output to lift prices.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-sink-nearly-7-182012075.html?.tsrc=rss",
-   "published": "2026-11-16T18:20:12+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "법원이 전통적인 DRAM 생산량 감산 주장에 대한 기각 신청을 거부하면서 마이크론 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "070af903d6eb64ba",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bending Spoons faces AI disruption risks despite scope for stronger organic growth, says Bank of America",
-   "excerpt": "Bending Spoons (Nasdaq: BSP) faces potential disruption from artificial intelligence (AI) across almost 30% of its revenue, although the risks may take two to three years to materialize, according to Bank of America (BoA), which reiterated its 'underperform' rating while raising its price target...",
-   "url": "https://www.proactiveinvestors.com/companies/news/1101864/bending-spoons-faces-ai-disruption-risks-despite-scope-for-stronger-organic-growth-says-bank-of-america-1101864.html?.tsrc=rss",
-   "published": "2026-11-16T18:20:00+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "summary_ko": [
-    "뱅크오브아메리카는 벤딩 스푼스가 AI로 인해 매출의 약 30%가 방해받을 위험이 있다고 전망했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "3b81e63f95fa9223",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High",
-   "excerpt": "Record monthly revenue and a $500 million Anthropic stake could not shield TSMC's ADRs from Monday's AI chip selloff.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-slide-5-7-181925082.html?.tsrc=rss",
-   "published": "2026-11-16T18:19:25+00:00",
-   "tickers": [
-    "TSM"
-   ],
-   "summary_ko": [
-    "10월 매출이 2026년 최고치로 급증했음에도 불구하고 AI 칩 매도세로 인해 TSMC 주가는 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "cdd1c74bbf94b17f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD Stocks Fall 4.25% as $2.5 Billion Anthropic Stake Meets AI Profit-Taking",
-   "excerpt": "AMD extends Friday's 8.75% slide while committing $2.5 billion to Anthropic's IPO placement, at a valuation GuruFocus already calls stretched.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-fall-4-25-181859958.html?.tsrc=rss",
-   "published": "2026-11-16T18:18:59+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "AMD는 앤스로픽 IPO에 25억 달러를 투자하는 가운데 AI 차익 실현 속에서 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "8ba41a1f66a864c9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Broadcom Stocks Slide 4.76% as Downgrade Keeps AI Financing Fears in Focus",
-   "excerpt": "Rothschild & Co Redburn's cut to Neutral, and a target lowered to $398, questions how quickly Anthropic and OpenAI can pay their own way.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-slide-4-76-181829964.html?.tsrc=rss",
-   "published": "2026-11-16T18:18:29+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "summary_ko": [
-    "투자의견 하향 조정과 목표가 인하 여파로 브로드컴 주가가 하락세를 보였다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "106cbf2ef286fbea",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Uber Eats Makes Holiday Delivery Push With Best Buy",
-   "excerpt": "The real test comes after the gift-buying rush ends.",
-   "url": "https://finance.yahoo.com/small-business/articles/uber-eats-makes-holiday-delivery-181749208.html?.tsrc=rss",
-   "published": "2026-11-16T18:17:49+00:00",
-   "tickers": [
-    "UBER"
-   ],
-   "summary_ko": [
-    "우버 이츠가 베스트바이와 함께 홀리데이 배송을 추진하고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3d1733494885f5dc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla Wants to Build 1 Million Cybercabs Near Berlin",
-   "excerpt": "Construction is set to begin in the first half of 2027, pending a building permit",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-wants-build-1-million-181721398.html?.tsrc=rss",
-   "published": "2026-11-16T18:17:21+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라가 건축 허가 승인을 전제로 베를린 인근에 100만 대의 사이버캡을 짓기를 원한다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "64e3e7548143f9c4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron Stock: Why Strong Memory Prices May Count for Nothing",
-   "excerpt": "Micron stock isn't benefiting from predictions of rising memory prices next year.",
-   "url": "https://finance.yahoo.com/m/6b85e733-ffc0-3cbf-93ed-2c5633543e8e/micron-stock%3A-why-strong.html?.tsrc=rss",
-   "published": "2026-11-16T18:14:00+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론 주가가 내년 메모리 가격 상승 전망에도 혜택을 받지 못하고 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ed284a8e29f79a31",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Leaves Void at Nvidia Ahead of Earnings, What's Next?",
-   "excerpt": "Nvidia stock has tumbled following the departure of founder Jensen Huang, but does his exit threaten more than just the company's outlook?",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-leaves-void-nvidia-ahead-181400167.html?.tsrc=rss",
-   "published": "2026-11-16T18:14:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "창업자 젠슨 황의 퇴임 이후 엔비디아 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "4a4e6b8182c8c8ff",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/confused_boner",
-   "title": "Altman Says AI Industry ‘Will Be Fine’ After Huang’s Ouster",
-   "excerpt": "**Title:** Altman Says AI Industry ‘Will Be Fine’ After Huang’s Ouster **Author:** Shirin Ghaffary | **Published:** 2026-11-16 **Source Link:** --- OpenAI’s Sam Altman said he believes the artificial intelligence industry will weather the uncertainty prompted by the ousting of Nvidia Corp. Chief Executive Officer Jensen Huang last week. “The revenues and demand are growing so strongly that I think the industry will be fine,” Altman said on-stage at Semafor’s Silicon Valley & The World conference in San Francisco on Monday. “But again, I think Jensen has played this extremely special and valuable role as someone to really drive things forward with great vision,” he added. The longtime Nvidia chief stepped down from his post following reports of affairs with multiple women, including a suspe",
-   "url": "https://www.reddit.com/r/stocks/comments/1xxwlmc/altman_says_ai_industry_will_be_fine_after_huangs/",
-   "published": "2026-11-16T18:11:45+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 사임에도 불구하고 AI 산업의 수요와 매출이 성장해 괜찮을 것이라고 샘 알트먼이 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "adc0d301fc30f796",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/Aniriomellad",
-   "title": "Where is all the money that exited the market lately?",
-   "excerpt": "In the last few months, trillions got out of the market. Tech stocks down, speculative stocks destroyed, gold down, silver down, rare earths and metals and minerals and miners down, quantum down, nuclear down, space down, crypto down etc. The Anthropic IPO is oversubscribed 6x but is all the money waiting for this event? Will money flood the market after the ipo? And of course they arranged to do the ipo just before the monthly options expire, how convenient. You can't tell me that MAG7-TSLA are expensive now. How do you see this unfolding? Will the fog clear after Nvidia's earnings call tomorrow? My portfolio now is UNH, AMZN, MSFT, AVGO, GOOG, RRU.DE (Rolls-Royce), BSP.DE (Bae Systems) and NVDA after my put get exercised later this week. submitted by /u/Aniriomellad to r/stocks [link] [c",
-   "url": "https://www.reddit.com/r/stocks/comments/1xxwknr/where_is_all_the_money_that_exited_the_market/",
-   "published": "2026-11-16T18:10:45+00:00",
-   "tickers": [
-    "NVDA",
-    "TSLA",
-    "MSFT",
-    "GOOGL",
-    "AMZN",
-    "AVGO",
-    "UNH"
-   ],
-   "summary_ko": [
-    "최근 시장에서 자금이 이탈한 가운데 엔비디아 실적 발표에 시장의 이목이 집중되고 있다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "30644ede7438ce77",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Micron Stock Keeps Going Down",
-   "excerpt": "The Nvidia scandal drove Micron stock lower for a third straight day Monday.",
-   "url": "https://www.fool.com/investing/2026/11/16/why-micron-stock-keeps-going-down/?.tsrc=rss",
-   "published": "2026-11-16T18:10:12+00:00",
-   "tickers": [
-    "NVDA",
-    "MU"
-   ],
-   "summary_ko": [
-    "엔비디아 관련 스캔들 여파로 마이크론 주가도 하락세를 보였다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c86a2268fcc71d1a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Disney could break above $120 as cost cuts offer scope for earnings growth, says Jefferies",
-   "excerpt": "Walt Disney Co (NYSE:DIS, XETRA:WDP) shares could rise above their long-standing trading ceiling of about $120 if the company outlines a substantial cost-reduction program alongside its fourth-quarter results, according to Jefferies, which maintained its 'buy' rating and $140 price target. The...",
-   "url": "https://www.proactiveinvestors.com/companies/news/1101863/disney-could-break-above-120-as-cost-cuts-offer-scope-for-earnings-growth-says-jefferies-1101863.html?.tsrc=rss",
-   "published": "2026-11-16T18:10:00+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "summary_ko": [
-    "제프리스는 디즈니가 비용 절감 프로그램을 통해 실적 성장을 이루며 주가 상승 여력이 있다고 전망했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "43e47a709428ba6c",
-   "kind": "reddit",
-   "source": "r/investing",
-   "author": "/u/GTS550MN",
-   "title": "Microsoft Outlook Delay causes $10K Loss, any recourse?",
-   "excerpt": "So I put in a trade over email on Thursday to my financial advisor. He did not get it until the next day and then traded. The stock in question had dropped roughly 10% the next day, and on that trade it impacted me about 10K negatively. I was quite furious, but it struck me after the trade that Outlook being down impacted it. I had sent the email from gmail, but he utilized Outlook so did not receive it. Do I have any recourse? Update: Did not expect so many responses so quickly. Short story, there is no recourse, and if its important, pick up the phone, don't email on important trades. On the question of why do you use an advisor, I have lost several hundreds of thousands on emotional trades that I've done, and I do like to take some time before making a decision, and an Advisor helps wit",
-   "url": "https://www.reddit.com/r/investing/comments/1xxwjjc/microsoft_outlook_delay_causes_10k_loss_any/",
-   "published": "2026-11-16T18:09:37+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트 아웃룩 지연으로 거래가 늦어져 손실을 보았다고 작성자는 주장했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "f77fdbe9d1534b2b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How to make the most of Microsoft’s tried-and-true workflows",
-   "excerpt": "Get a lifetime license to Microsoft Office 2024 Professional Plus",
-   "url": "https://financialpost.com/business-essentials/microsoft-office-2024-professional-plus/?.tsrc=rss",
-   "published": "2026-11-16T18:09:31+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트 워크플로 활용 방안을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "70549187a231da27",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang Reportedly Mulls Nvidia Comeback, But Not The Board",
-   "excerpt": "Jensen Huang reportedly is eyeing a return to the chip giant, days after resigning as CEO in scandal. But the board isn't. Nvidia stock fell.",
-   "url": "https://finance.yahoo.com/m/694d3941-721c-31d4-aff5-d306f1116454/jensen-huang-reportedly-mulls.html?.tsrc=rss",
-   "published": "2026-11-16T18:08:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황이 CEO 사임 이후 복귀를 모색하고 있으나 이사회는 다른 입장을 보인다고 다뤘다.",
-    "이로 인해 엔비디아 주가가 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c95bc4f4d9d5bb86",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla to invest 3 bn euros to expand German factory",
-   "excerpt": "US electric carmaker Tesla said Monday it will invest three billion euros ($3.4 billion) to expand its German factory, which will eventually have capacity to produce one million driverless Cybercabs annually. - 'Enormous significance' - Under the investment plans announced Monday, a new facility will be constructed where up to one million Cybercabs a year will eventually be produced, according to Tesla.",
-   "url": "https://finance.yahoo.com/economy/articles/tesla-invest-3-bn-euros-161336143.html?.tsrc=rss",
-   "published": "2026-11-16T18:04:07+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라는 독일 공장 확장을 위해 30억 유로를 투자할 계획이라고 밝혔다.",
-    "해당 시설에서는 연간 최대 100만 대의 무인 사이버캐브가 생산될 예정이라고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d22970ee9209feec",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "D-Wave Quantum Falls 7% as Post-Earnings Selloff Deepens on Weak Bookings; IonQ Sinks 8%, Rigetti Slides 5%",
-   "excerpt": "D-Wave's revenue grew, yet one number from its latest report has traders heading for the exits while even larger rivals fall harder. Can a Florida university delivery in Q4 prove the backlog is real revenue?",
-   "url": "https://247wallst.com/investing/2026/11/16/d-wave-quantum-falls-7-as-post-earnings-selloff-deepens-on-weak-bookings-ionq-sinks-8-rigetti-slides-5/?.tsrc=rss",
-   "published": "2026-11-16T18:02:51+00:00",
-   "tickers": [
-    "IONQ",
-    "RGTI",
-    "QBTS"
-   ],
-   "summary_ko": [
-    "디웨이브 퀀텀은 실적 발표 후 약한 예약 건수로 인해 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "62eb32000d44cc3f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "5 Stocks to Buy as Investors Look Beyond NVIDIA",
-   "excerpt": "For three years, the AI trade has been looking up to one face too often. Now it has an interim CEO. On November 12, Jensen Huang resigned as NVIDIA’s chief executive and board member, hours after nerves gripped investors awaiting the outcome of the board’s crisis meeting. And on an interim basis, CFO Colette Kress […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-buy-investors-look-180230379.html?.tsrc=rss",
-   "published": "2026-11-16T18:02:30+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 사임 이후 엔비디아를 넘어설 투자 종목들에 대해 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e1c8ab7bdd93633e",
-   "kind": "youtube",
-   "source": "Value Investing with Sven Carlin, Ph.D.",
-   "author": "Value Investing with Sven Carlin, Ph.D.",
-   "title": "Amazon AMZN is a Great Business...",
-   "excerpt": "Amazon AMZN is a Great Business... Research Platform Interactive Brokers: New Book is out: The Value Investing Handbook Free Course: When investing, your capital is at risk. The link in this description to Interactive Brokers is an affiliate link. This means I may earn a commission if you click them, at no cost to you. These links help support me and the channel, but they are not part of any sponsorship. I am only sharing my own experience and the views I express are mine alone - I’m not a financial advisor and do not make investment recommendations or give investment advice. You should always do your own research and due diligence before investing. None of the information contained herein constitutes a recommendation, offer, promotion, or solicitation of an offer to buy, sell or hold any ",
-   "url": "https://www.youtube.com/watch?v=mW9b9FkTpsg",
-   "published": "2026-11-16T18:01:07+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존이 훌륭한 사업이라는 점을 다룬 투자 플랫폼 콘텐츠를 소개했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
