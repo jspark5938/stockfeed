@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-23T08:30:36.011669+00:00",
+ "updated": "2026-11-23T09:00:39.045316+00:00",
  "posts": [
+  {
+   "id": "75032ac91b9ff838",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Adobe's Next Report Is Dec. 9. Here's How the Stock Reacted to Each of the Last 10.",
+   "excerpt": "The software giant's shares have dropped after six of its past 10 December reports. Does this year's setup look any different?",
+   "url": "https://www.fool.com/investing/2026/11/23/adobe-s-next-report-is-dec-9-here-s-how-the-stock-reacted-to-each-of-the-last-10/?.tsrc=rss",
+   "published": "2026-11-23T08:53:02+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "summary_ko": [
+    "어도비의 다음 실적 발표가 12월 9일로 예정되어 있다고 전했다.",
+    "과거 10번의 12월 실적 발표 중 6번 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "769223e9fda19362",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia vs. SpaceX: Here's Which Stock I'd Put $1,000 Towards Right Now",
+   "excerpt": "Both AI stocks come with risks, but one has a clear edge over the other.",
+   "url": "https://www.fool.com/investing/2026/11/23/nvidia-vs-spacex-here-s-which-stock-i-d-put-usd1-000-towards-right-now/?.tsrc=rss",
+   "published": "2026-11-23T08:38:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아와 스페이스X 중 어디에 투자할지 비교하는 내용을 다뤘다.",
+    "두 AI 주식 모두 위험이 존재하지만 한쪽이 명확한 우위에 있다고 주장했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "5bf010bc7483c000",
    "kind": "news",
@@ -78569,57 +78605,6 @@
    ],
    "summary_ko": [
     "엔비디아의 리더십 공백이 AI 하드웨어 시장에 충격을 주었다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e5e541bb202dac51",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/blorg",
-   "title": "Denny’s reinstalls plaque honoring former Nvidia CEO Jensen Huang",
-   "excerpt": "submitted by /u/blorg to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxkk5b/dennys_reinstalls_plaque_honoring_former_nvidia/",
-   "published": "2026-11-16T08:54:17+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "전임 엔비디아 CEO 젠슨 황을 기리는 명판이 데니스에 다시 설치되었다는 소식을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "925f203a8557d778",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Market Chatter: Nvidia's Jensen Huang Discusses Return as CEO With Allies",
-   "excerpt": "Nvidia (NVDA) founder Jensen Huang is weighing a comeback as the chipmaker's chief executive amid pr",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-apos-jensen-084807880.html?.tsrc=rss",
-   "published": "2026-11-16T08:48:07+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 창업자 젠슨 황이 CEO 복귀를 측근들과 논의 중이라는 시장 소식을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1ce9aee0f52f5af8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "TSLA, SPCX Diverge Overnight As Retail Traders Split On Merger Winner — Could SpaceX Get Tesla’s S&P 500 Seat?",
-   "excerpt": "TD Securities estimated that S&P 500 inclusion could generate about $100 billion in buying from index funds.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-retail-split-merger-winner-could-spacex-get-tesla-sp500-seat/cNb7KL4R9Xm?.tsrc=rss",
-   "published": "2026-11-16T08:31:47+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라와 스페이스X 관련 합병 승자에 대한 소견을 다뤘다."
    ],
    "tone": "neu"
   }
