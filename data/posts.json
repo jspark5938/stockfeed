@@ -1,6 +1,62 @@
 {
- "updated": "2026-11-23T07:30:31.449391+00:00",
+ "updated": "2026-11-23T08:00:39.310550+00:00",
  "posts": [
+  {
+   "id": "2fa6d4b2879e7edc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "PANW Stock Rises Overnight: ‘Cybersecurity, AI Tailwinds’ Prompt Analyst To See 22% Upside In Palo Alto Networks",
+   "excerpt": "Palo Alto's first-quarter revenue grew 39%, and the company raised its outlook while buying Applied Compute for $4.5 billion to grow its AI security business.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/panw-stock-analyst-palo-alto-network-upside-cybersecurity-ai-tailwind/cNbYMgSR9Sl?.tsrc=rss",
+   "published": "2026-11-23T07:52:17+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스의 1분기 매출이 39% 증가했다고 다뤘다.",
+    "사이버보안과 인공지능 호재로 분석가는 22% 상승 여력이 있다고 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "d8bf2d6b38cfe5e8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Names Apple, Costco And Walmart Early Crash Havens — The ‘Generals’ Fell Months After 2000 And 2007 Peaks",
+   "excerpt": "Burry sold half his Nvidia puts and half his semiconductor ETF puts, kept his Nasdaq 100 puts and held Nvidia calls to hedge against a rebound.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-apple-costco-walmart-havens-generals-2000-2007-peaks/cNbYM9pR9Sk?.tsrc=rss",
+   "published": "2026-11-23T07:48:58+00:00",
+   "tickers": [
+    "NVDA",
+    "AAPL",
+    "COST",
+    "WMT"
+   ],
+   "summary_ko": [
+    "마이클 버리가 애플, 코스트코, 월마트를 하락장 피난처로 언급했다고 다뤘다.",
+    "엔비디아 풋옵션 절반을 매도하고 반등 대비용 콜옵션을 보유했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "26e9eff6bcb7b261",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "If You’d Bought Oklo at Its SPAC Debut, Here’s What You’d Have Today",
+   "excerpt": "Oklo stock has had a rocky life on Wall Street.",
+   "url": "https://www.fool.com/investing/2026/11/23/if-youd-bought-oklo-at-its-spac-debut-heres-what-youd-have-today/?.tsrc=rss",
+   "published": "2026-11-23T07:35:02+00:00",
+   "tickers": [
+    "OKLO"
+   ],
+   "summary_ko": [
+    "오클로 주식이 월스트리트에서 험난한 과정을 거쳤다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "282dda6a322ed22b",
    "kind": "news",
@@ -123,6 +179,25 @@
    "summary_ko": [
     "엔비디아 CEO의 갑작스러운 퇴임으로 AI 칩 경쟁 구도가 흔들리고 있다고 다뤘다.",
     "AI 칩 경쟁 승자와 무관하게 수혜를 보는 장비주 두 종목을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "c76069ddd95cb2bf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alice Huang’s Contacts With Chinese Spy Agency Reportedly Tracked by US Intelligence: Nvidia Stock Climbs Over 7% on Robinhood’s Platform",
+   "excerpt": "U.S. intelligence reportedly tracked contacts between Alice Huang and an officer of a Chinese spy agency during her relationship with Jensen Huang, former CEO of Nvidia Corp. (NASDAQ:NVDA), whose shares rose more than 7% overnight early Monday. Contacts Spanned More Than a Year Alice Huang was in touch with an officer of China’s Ministry of State Security from spring 2025 until this fall, The New York Times reported Sunday, citing multiple people familiar with U.S. intelligence reports. That per",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alice-huang-contacts-chinese-spy-064411334.html?.tsrc=rss",
+   "published": "2026-11-23T06:44:11+00:00",
+   "tickers": [
+    "NVDA",
+    "HOOD"
+   ],
+   "summary_ko": [
+    "미국 정보기관이 앨리스 황과 중국 간첩 기관 요원의 접촉을 추적했다고 다뤘다.",
+    "로빈후드 플랫폼에서 엔비디아 주가가 7% 이상 상승했다고 전했다."
    ],
    "tone": "neu"
   },
@@ -78648,93 +78723,6 @@
     "블랙록이 니오 지분을 대폭 축소한 반면, 리오토 지분은 크게 늘렸다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "60455ac4974b7764",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Questcorp Mining and Riverside Resources Commence Phase 2B Drilling at Luis Hill, La Union Project, Sonora, Mexico",
-   "excerpt": "Vancouver, British Columbia--(Newsfile Corp. - November 16, 2026) - Questcorp Mining Inc. (CSE: QQQ) (OTCQB: QQCMF) (FSE: D910) (the \"Company\" or \"Questcorp\") and its joint venture partner and operator Riverside Resources Inc. (\"Riverside\") are pleased to announce the commencement of Phase 2B reverse circulation (\"RC\") drilling at the Luis Hill target at the La Union Project, Sonora, Mexico (Figure 1).Phase 2B Program OverviewLuis Hill: drilling will follow up on the Phase 1 intercept of 42...",
-   "url": "https://finance.yahoo.com/markets/commodities/articles/questcorp-mining-riverside-resources-commence-080000987.html?.tsrc=rss",
-   "published": "2026-11-16T08:00:00+00:00",
-   "tickers": [
-    "QQQ"
-   ],
-   "summary_ko": [
-    "퀘스트콥 마이닝과 리버사이드 리소스가 멕시코에서 시추를 시작했다고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "571bf3e9c1e17057",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Iran Targets Bahrain Base as US Deploys Third Aircraft Carrier to Middle East",
-   "excerpt": "Iran targets a base in Bahrain as regional tensions rise again, while the US strengthens its military presence with a third aircraft carrier in the Middle East. Trump says there are no immediate plans to resume strikes on Iran, even as Tehran keeps the door open to talks but rejects limits on uranium enrichment. Oil slips as markets weigh diplomacy against the risk of further escalation. Gulf states continue pushing for de-escalation, while traders watch Hormuz closely for any renewed disruption. Asian stocks fall as the tech selloff continues, although Japan and parts of the region rebound from Friday’s losses. Nvidia remains under pressure, with reports that Jensen Huang could discuss a return to the CEO role as the company faces growing scrutiny and its earnings become a major test for ",
-   "url": "https://www.youtube.com/watch?v=CZCGz1sR5_4",
-   "published": "2026-11-16T07:48:46+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아는 젠슨 황의 복귀 가능성 논의 속에서도 지속적인 압박을 받고 있다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "f7c44c6c8e30b064",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AAPL Stock Posted Best Week In 4 Months Amid Nvidia Disruption: Apple Reportedly Plans Smart Glasses To Rival Meta Next Year",
-   "excerpt": "Apple’s rumoured smart glasses will debut at WWDC 2027, Bloomberg reported.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-posted-best-week-in-4-months-amid-nvidia-disruption-apple-reportedly-plans-smart-glasses-to-rival-meta-next-year/cNb7iIhR9X0?.tsrc=rss",
-   "published": "2026-11-16T07:46:05+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL"
-   ],
-   "summary_ko": [
-    "애플이 내년에 메타와 경쟁할 스마트 안경을 출시할 계획이라고 보도됐다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "9ca6c6e28b8ff4d7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Zacks Investment Ideas feature highlights: Costco",
-   "excerpt": "Costco have been highlighted in this Investment Ideas article.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-073700680.html?.tsrc=rss",
-   "published": "2026-11-16T07:37:00+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코가 투자 아이디어 기사에서 조명되었다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6a363280ca36cef0",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/mastertofu",
-   "title": "Investors sue chip giant Intel after 29% stock plunge",
-   "excerpt": "Shareholders have sued US chip giant Intel, accusing it of hiding the severity of a slump in personal computer (PC) sales, which they say led to a nearly 29% one-day collapse in the firm's stock. A proposed class action lawsuit in San Jose, California said Intel was too late to alert shareholders about how slowing sales could impact its earnings, allegedly artificially inflating its stock price. Intel shares plunged on 30 October, erasing tens of billions of dollars off its market value the day after it forecasted disappointing revenue in its coming earnings report. The BBC has contacted Intel for comment. The lawsuit, filed by legal firm Robbins Geller Rudman & Dowd on behalf of owners of Intel common shares between 23 July and 29 October this year, was filed against the chipmaker, its ch",
-   "url": "https://www.reddit.com/r/stocks/comments/1xxjauu/investors_sue_chip_giant_intel_after_29_stock/",
-   "published": "2026-11-16T07:32:49+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔 주주들이 PC 판매 부진을 숨겼다며 인텔을 상대로 집단 소송을 제기했다고 다뤘다.",
-    "실망스러운 매출 전망 발표 직후 인텔 주가가 급락했다고 언급했다."
-   ],
-   "tone": "neg"
   }
  ]
 }
