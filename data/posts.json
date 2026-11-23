@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-23T01:46:31.000730+00:00",
+ "updated": "2026-11-23T02:00:37.971795+00:00",
  "posts": [
+  {
+   "id": "5c828c667cf3ac09",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang Has Lost $92 Billion and Nvidia’s Board Does Not Intend to Bring Him Back. Here’s What 9 Stocks Did the Year After Their Founder Handed Over",
+   "excerpt": "Jensen Huang's Nvidia stake is down $92 billion and the board does not intend to bring him back. Here is what 9 stocks did after their founder handed over, and what to watch now.",
+   "url": "https://247wallst.com/investing/2026/11/22/jensen-huang-has-lost-92-billion-and-nvidias-board-does-not-intend-to-bring-him-back-heres-what-9-stocks-did-the-year-after-their-founder-handed-over/?.tsrc=rss",
+   "published": "2026-11-23T01:47:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 엔비디아 지분 가치가 920억 달러 하락했다고 다뤘다.",
+    "창립자가 물러난 후 9개 종목의 주가 흐름을 분석했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "2e68a967d6048ec1",
    "kind": "news",
@@ -78981,41 +78999,6 @@
    ],
    "summary_ko": [
     "엔비디아 실적 발표와 주요 경제 지표 공개를 앞두고 미 증시 선물 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e6228d7385af5f73",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba Unveils New Flagship AI Model in Riposte to US Rivals",
-   "excerpt": "Alibaba Group Holding Ltd. launched a new flagship AI model, claiming performance that rivals Anthropic PBC and OpenAI in China's latest challenge to US leaders.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-unveils-flagship-ai-model-020000528.html?.tsrc=rss",
-   "published": "2026-11-16T02:00:00+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바가 미국 경쟁사에 대응하여 새로운 플래그십 AI 모델을 공개했다고 밝혔다.",
-    "해당 모델이 앤스로픽 및 오픈에이아이의 성능과 경쟁한다고 주장했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "bc62f119b1909919",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia stock steady as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
-   "excerpt": "Jensen Huang is reportedly weighing a comeback as supporters in Silicon Valley lobby for his return.",
-   "url": "https://finance.yahoo.com/markets/article/nvidia-stock-steady-as-jensen-huang-reportedly-weighs-ceo-comeback-musk-backs-return-015644730.html?.tsrc=rss",
-   "published": "2026-11-16T01:56:44+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 CEO 복귀 가능성과 지지 움직임이 있다는 보도를 다뤘다."
    ],
    "tone": "neu"
   }
