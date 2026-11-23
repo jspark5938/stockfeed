@@ -1,6 +1,43 @@
 {
- "updated": "2026-11-23T05:00:40.288511+00:00",
+ "updated": "2026-11-23T05:30:30.944191+00:00",
  "posts": [
+  {
+   "id": "cbb24a74961331b4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "These 5 Stocks Could Double by 2028. Here's What Has to Go Right.",
+   "excerpt": "SpaceX, Broadcom, SentinelOne, SoundHound, and Dutch Bros have the potential to double.",
+   "url": "https://www.fool.com/investing/2026/11/23/these-5-stocks-could-double-by-2028-here-s-what-has-to-go-right/?.tsrc=rss",
+   "published": "2026-11-23T05:20:02+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "스페이스X, 브로드컴, 센티넬원, 사운드하운드, 더치 브로스가 2028년까지 두 배 성장할 잠재력이 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "086e835d56bf0943",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did NVDA, NFLX, ORCL Slip To 52-Week Lows Last Week?",
+   "excerpt": "Nvidia, Netflix and Oracle shares plunged to annual lows on Friday amid leadership concerns, slowing pace of growth, and broader liquidity issues following Anthropic’s recent IPO.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/why-did-nvda-nflx-orcl-slip-to-52-week-lows-last-week/cNbYpPuR9SJ?.tsrc=rss",
+   "published": "2026-11-23T05:11:19+00:00",
+   "tickers": [
+    "NVDA",
+    "NFLX",
+    "ORCL"
+   ],
+   "summary_ko": [
+    "엔비디아, 넷플릭스, 오라클 주가가 지난주 52주 신저가로 하락했다고 전했다.",
+    "경영진 우려, 성장 둔화, 앤스로픽의 IPO 이후 유동성 문제가 하락 원인이라고 언급했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "e6e349ca13291147",
    "kind": "news",
@@ -78691,58 +78728,6 @@
    ],
    "summary_ko": [
     "비엘 크리스탈이 애플의 첫 폴더블폰인 아이폰 듀오의 핵심 UTG 공급사라고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "30fd0e80c21d9fd2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Advanced Micro Devices And 2 Other High Growth Stocks",
-   "excerpt": "Global attention is fixed on the coming summit between leaders of the United States, China, and Russia, where trade policies and the U.S.-China trade truce are on the table again. That kind of meeting can shift expectations quickly, which puts companies with solid finances and strong earnings potential in a favorable position for investor interest. This article highlights three such stocks that screen well on both growth potential and financial health. The three stocks highlighted here offer...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-2-other-051555106.html?.tsrc=rss",
-   "published": "2026-11-16T05:15:55+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "미·중·러 정상회담을 앞두고 견고한 재무와 성장 잠재력을 가진 종목들을 조명했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a7b8e0d1c3cc12f1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "China’s ZAI, Minimax tumble as Nvidia row drives fears of more chip restrictions",
-   "excerpt": "Investing.com-- China’s ZAI and Minimax led losses across local artificial intelligence stocks on Monday, extending recent declines as a leadership crisis at Nvidia sparked more fears of tighter U.S. chip restrictions against Beijing.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/china-zai-minimax-tumble-nvidia-050901809.html?.tsrc=rss",
-   "published": "2026-11-16T05:09:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 관련 우려로 중국 AI 관련 주식들이 하락세를 보였다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "546a9f5b49ab5d2d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook",
-   "excerpt": "The orders extend Google TPU shipment visibility to 2029, while Nvidia GPUs and other AI accelerators mostly have visibility through 2027 or 2028, according to Ming-Chi Kuo.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/more-pain-for-nvda-top-supply-chain-analyst-says-new-open-ai-anthropic-chip-orders-boost-google-s-tpu-outlook/cNb7fwwR9X7?.tsrc=rss",
-   "published": "2026-11-16T05:03:30+00:00",
-   "tickers": [
-    "NVDA",
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "오픈AI와 앤스로픽의 칩 주문이 구글 TPU 전망에 긍정적 영향을 준다고 분석가들이 언급했다."
    ],
    "tone": "pos"
   }
