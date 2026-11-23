@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-23T01:00:39.812731+00:00",
+ "updated": "2026-11-23T01:30:33.269355+00:00",
  "posts": [
+  {
+   "id": "2e68a967d6048ec1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AppLovin (APP) Stock Still Looks Cheap After Sharp Pullback",
+   "excerpt": "AppLovin has swung from a very large gain of roughly 7x over three years to a sharp pullback this week, which puts fresh attention on whether its current share price squares with the cash the business can generate. With traders weighing potential deals and new shareholders coming in, the question is how much of AppLovin’s future cash flows are already baked into the US$348.29 price at the last close. The roughly 782.0% rise over three years leaves existing holders sitting on sizable gains,...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-stock-still-looks-010705778.html?.tsrc=rss",
+   "published": "2026-11-23T01:07:05+00:00",
+   "tickers": [
+    "APP"
+   ],
+   "summary_ko": [
+    "앱러빈은 큰 폭의 상승 이후 조정을 겪었다.",
+    "현재 주가가 기업의 현금 창출력에 부합하는지 관심이 집중되고 있다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "01bb970a04b5a71a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Costco and Albertsons moved jobs to India before Kroger",
+   "excerpt": "Both companies offshored American jobs in July 2025.",
+   "url": "https://www.thestreet.com/retail/costco-and-albertsons-moved-jobs-to-india-before-kroger?.tsrc=rss",
+   "published": "2026-11-23T01:03:00+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "코스트코와 앨버트슨이 크로거보다 먼저 일자리를 인도(India)로 이전했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "09ddf9a5800976fb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "XPENG Launches Public Advanced ADAS Test Rides at Its Paris Store, Becoming the First Chinese Automaker to Offer the Experience Overseas",
+   "excerpt": "As the first Chinese automaker to introduce public advanced ADAS test rides at a European retail store, XPENG brings intelligent driving beyond industry showcases and closer to everyday consumers, joining Tesla as only one of two global automakers bringing advanced ADAS experiences to European consumers.The initiative marks XPENG's first overseas retail-based intelligent driving test ride experience, building on its large-scale public debut at the 2026 Paris Motor Show.Powered by XPENG's VLA 2.0",
+   "url": "https://finance.yahoo.com/technology/ai/articles/xpeng-launches-public-advanced-adas-010200031.html?.tsrc=rss",
+   "published": "2026-11-23T01:02:00+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "샤오펑은 파리 매장에서 대중 대상 고급 ADAS 시험 주행을 시작했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "0bc481f2f671a079",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Yoon on \"Less Cloudy\" Consumer, Gas, and AI vs MBAs",
+   "excerpt": "Eddie Yoon says better-than-expected November consumer sentiment shows “it has gone from a cloudy to a less cloudy day.” The consumer’s new normal is high gasoline prices until the Iran war ends, he says. He notes the holidays for some retailers may not be great for margins, with 17% of gifts returned. Finally, he discusses AI speeding up shopping decisions, slowing down MBAs applications, and more. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #economy #finance #investing #marketnews #stock #stockmarket #trad",
+   "url": "https://www.youtube.com/watch?v=SIRl2EKRM2w",
+   "published": "2026-11-23T01:00:20+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "에디 윤은 11월 소비자 심리가 나아졌다고 언급했다.",
+    "또한 AI가 쇼핑 결정을 가속화하고 있다고 설명했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "8e4eca76deec11cb",
    "kind": "news",
@@ -532,6 +602,24 @@
     "뱅크오브아메리카가 마이크로소프트 주식 투자자들에게 분명한 신호를 보냈다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "8c8e9da5bda92ad2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AMD Gained From Nvidia’s China Scandal. Now a Short Seller Says AMD Has a China Problem Too.",
+   "excerpt": "Hunterbrook claims AMD has ties to blacklisted Chinese companies, sending AMD stock down just a week after it benefited from Nvidia's China scandal.",
+   "url": "https://www.barchart.com/story/news/8957111/amd-gained-from-nvidias-china-scandal-now-a-short-seller-says-amd-has-a-china-problem-too?.tsrc=rss",
+   "published": "2026-11-22T19:01:04+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": [
+    "헌터브룩은 AMD가 블랙리스트에 오른 중국 기업들과 연관이 있다고 주장했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "3642f7222f075248",
@@ -78945,95 +79033,6 @@
    "summary_ko": [
     "구글의 새로운 모델 출주가 AI 시장의 기존 내러티브를 뒤집고 있다고 다뤘다.",
     "구글이 첨단 AI 경쟁에 참여하며 비용 효율성에서도 우위에 있다고 주장했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "281598d7c8147701",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Micron Stock Is a Screaming Buy Before Year-End",
-   "excerpt": "Micron recently announced an expansion to its share buyback program.",
-   "url": "https://www.fool.com/investing/2026/11/15/why-micron-stock-is-a-screaming-buy-before-year-end/?.tsrc=rss",
-   "published": "2026-11-16T01:20:02+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론이 최근 자사주 매입 프로그램 확대 계획을 발표했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "801127b5b4fd22eb",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/Puzzled-Question-156",
-   "title": "If you went all-in on a random S&P 500 company on 1/1/2000 and held until now, the chance of losing almost everything is 62%.",
-   "excerpt": "Just a statistics about why \"going all-in on a dip\" for a company is a losing strategy for the long term. Interestingly, if you bought all 500 stocks at equal value. You'd have a 800% return over 27 years. Mostly driven by the astronomical return from companies like Apple and AutoZone. This is despite the fact that 62% of the companies in S&P became virtually worthless. If you just bought the S&P index ETF, the return is about 700%. It's slightly worse because the top companies in 2000 didn't perform as well as the smaller companies like Apple and AutoZone. TL;DR: going all-in on a specific large company is most likely a very bad idea. The chance of any person finding Apple or AutoZone in 2000 is too small. submitted by /u/Puzzled-Question-156 to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxceyf/if_you_went_allin_on_a_random_sp_500_company_on/",
-   "published": "2026-11-16T01:19:09+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "특정 S&P 500 기업에 올인하는 것은 장기적으로 손실 위험이 높다는 통계를 다뤘다.",
-    "지수 전체에 분산 투자하거나 애플 같은 우수 종목의 사례를 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "fbe0ae8a85687c29",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
-   "excerpt": "Jensen Huang reportedly is mulling a return to the chip giant he founded, days after resigning as Nvidia CEO in scandal. Nvidia stock was indicated fractionally higher.",
-   "url": "https://finance.yahoo.com/m/694d3941-721c-31d4-aff5-d306f1116454/jensen-huang-reportedly.html?.tsrc=rss",
-   "published": "2026-11-16T01:15:34+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "스캔들로 사임했던 젠슨 황이 엔비디아 복귀를 고심하고 있다는 보도를 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "ab051937f2b51cfd",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dow Jones Futures Waver As Jensen Huang Mulls Nvidia Return",
-   "excerpt": "Nvidia earnings are due as Jensen Huang reportedly mulls a return. The Anthropic IPO is ahead.",
-   "url": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-waver-as.html?.tsrc=rss",
-   "published": "2026-11-16T01:14:55+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 엔비디아 복귀 고심 속에 다우존스 선물 지수가 흔들렸다고 다뤘다.",
-    "엔비디아의 실적 발표와 앤스로픽의 IPO를 앞두고 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "58f1d2bd7a6c2c81",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Consumer Defensive Stocks Extend Winning Streak To 6 Weeks As SPY, QQQ Rebound: TTD, CHTR, TSLA Lead Gains",
-   "excerpt": "Consumer ETFs continued to rise as the broader market recovered. Strong earnings, cost-cutting plans and merger talks helped some stocks post gains.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/consumer-defensive-stocks-extend-winning-streak-to-6-weeks-as-spy-qqq-rebound-ttd-chtr-tsla-lead-gains/cNb7EqoR9QC?.tsrc=rss",
-   "published": "2026-11-16T01:13:20+00:00",
-   "tickers": [
-    "TSLA",
-    "QQQ"
-   ],
-   "summary_ko": [
-    "광범위한 시장 회복과 함께 소비재 ETF가 상승세를 지속했다고 다뤘다.",
-    "강조된 실적, 비용 절감 계획, 인수합병 논의 등이 일부 주식의 상승을 도왔다고 전했다."
    ],
    "tone": "pos"
   }
