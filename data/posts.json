@@ -1,6 +1,95 @@
 {
- "updated": "2026-11-23T07:00:41.060298+00:00",
+ "updated": "2026-11-23T07:30:31.449391+00:00",
  "posts": [
+  {
+   "id": "282dda6a322ed22b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cathie Wood Says TSLA Holders ‘Will Get’ A Premium If SpaceX Buys Tesla — HSBC Puts It At Over 30%",
+   "excerpt": "HSBC sees control as Elon Musk’s main incentive for a merger because SpaceX’s share structure gives him greater voting power than he has at Tesla.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-tsla-holders-premium-if-spacex-buys-tesla-hsbc/cNbYtWbR9Si?.tsrc=rss",
+   "published": "2026-11-23T07:14:05+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "캐시 우드는 스페이스엑스가 테슬라를 인수할 경우 주주들이 프리미엄을 얻을 것이라고 언급했다.",
+    "HSBC는 일론 머스크가 테슬라보다 스페이스엑스에서 더 큰 투표권을 가질 수 있다는 점을 합병의 주요 동기로 꼽았다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "7645bc9af036d9a7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia (NVDA) Stock Looks Below Fair Value After Recent Turmoil",
+   "excerpt": "NVIDIA has dropped sharply in recent weeks after a long multi year climb, and with leadership turmoil and regulatory probes now in the mix, the key issue for investors is whether the current share price still lines up with what its earnings can reasonably support. Over the past 5 years the stock has returned about 300.2%, which puts a lot of long term gains on the line if that earnings story no longer backs the price you see today. Record profitability, heavy AI infrastructure demand and...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-looks-below-070752587.html?.tsrc=rss",
+   "published": "2026-11-23T07:07:52+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 주가는 최근 하락과 함께 리더십 혼란 및 규제 조사를 겪었다고 다뤘다.",
+    "현재 주가가 수익을 뒷받침할 수 있는지가 핵심 쟁점이라고 설명했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "c39b3a71e33058ef",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia News Has Investors Rethinking These U.S. AI Chip Stocks",
+   "excerpt": "AI chip stocks just came through a sharp sentiment swing, with Nvidia’s leadership drama, export control worries and U.S.–China security concerns colliding with a sudden rebound in futures. That mix of anxiety and optimism can reset prices quickly, which matters if you care about where capital flows next. This article walks through 3 U.S. AI-chip and GPU designers exposed to these headlines and explains why their stories deserve a closer look. The stocks covered below are a small sample of...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-news-investors-rethinking-u-070751605.html?.tsrc=rss",
+   "published": "2026-11-23T07:07:51+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 리더십 드라마와 수출 통제 우려 등이 AI 반도체 주식 전반의 심리에 영향을 미쳤다고 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "994dadefa0e41e63",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan Chase (JPM) CEO Warns UK Tax Rise Could Threaten £3 Billion HQ",
+   "excerpt": "JPMorgan Chase (NYSE:JPM) CEO Jamie Dimon warned that higher UK bank taxes could affect the bank's new £3b Canary Wharf headquarters plan. Dimon linked the UK Labour government's increase to the bank surcharge to a review of JPMorgan's long term British investment commitments. The remarks indicate that the Canary Wharf HQ project, one of JPMorgan's largest European real estate commitments, may be reassessed. The story around the Canary Wharf HQ decision is only one part of the wider JPMorgan...",
+   "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-chase-jpm-ceo-warns-070656078.html?.tsrc=rss",
+   "published": "2026-11-23T07:06:56+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "제이미 다이먼 JP모건 체이스 CEO는 영국의 은행세 인상이 30억 파운드 규모의 본사 계획에 영향을 줄 수 있다고 경고했다.",
+    "이번 발언은 영국의 장기 투자 약속에 대한 재검토로 이어질 수 있음을 시사했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "f9d1231dc3e491b9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "$1.79 Billion Left Bitcoin ETFs in One Week: Who Is Still Buying?",
+   "excerpt": "US Bitcoin ETFs lost $1.79 billion in a week as BlackRock's IBIT led exits while Morgan Stanley's fund kept buying.",
+   "url": "https://beincrypto.com/bitcoin-etf-outflows-ibit-morgan-stanley/?.tsrc=rss",
+   "published": "2026-11-23T07:00:00+00:00",
+   "tickers": [
+    "IBIT"
+   ],
+   "summary_ko": [
+    "일주일 동안 미국 비트코인 ETF에서 17억 9천만 달러가 유출되었다고 전했다.",
+    "블랙록의 IBIT가 자금 유출을 주도한 반면 모건스탠리 펀드는 매수를 지속했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "190e12edcc05e692",
    "kind": "news",
@@ -78644,62 +78733,6 @@
    "summary_ko": [
     "인텔 주주들이 PC 판매 부진을 숨겼다며 인텔을 상대로 집단 소송을 제기했다고 다뤘다.",
     "실망스러운 매출 전망 발표 직후 인텔 주가가 급락했다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "1d4ae4916077c857",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart, Target, Amazon, Nvidia, Micron and Alphabet are part of Zacks Earnings Preview",
-   "excerpt": "Walmart, Target, Amazon, Nvidia, Micron and Alphabet have been highlighted in this Earnings Preview article.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-amazon-nvidia-micron-072600451.html?.tsrc=rss",
-   "published": "2026-11-16T07:26:00+00:00",
-   "tickers": [
-    "NVDA",
-    "GOOGL",
-    "AMZN",
-    "MU",
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트, 타겟, 아마존, 엔비디아, 마이크론, 알파벳이 실적 프리뷰에서 다뤄졌다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ff2cfcf7a688fb3c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "It Now Costs More to Insure Chip Debt Than Big Tech’s. Bond Markets Say “Risk Is Migrating”",
-   "excerpt": "Key TakeawaysInsuring chipmakers’ debt now costs more than insuring the cloud giants that buy their chips. Bill Dudley warns that falling chip prices would hit NVIDIA twice: on its guarantees and in its earnings.",
-   "url": "https://www.tikr.com/blog/it-now-costs-more-to-insure-chip-debt-than-big-techs-bond-markets-say-risk-is-migrating?ref=yahoofinance&tlnk=yf-261116-jh5fvf5r&.tsrc=rss",
-   "published": "2026-11-16T07:20:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "칩 제조업체의 부채 보험 비용이 클라우드 대기업보다 높아졌다고 다뤘다.",
-    "빌 더들리는 칩 가격 하락이 엔비디아에 타격을 줄 수 있다고 경고했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "a51e94125cbef3ff",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Losing Jensen Was Bad Enough. Losing NVIDIA’s Bench Would Be Worse",
-   "excerpt": "Key TakeawaysWith Jensen Huang gone, the bigger risk to NVIDIA is losing the leaders who run the business, not the CEO search. NVIDIA’s products for the next two to three years are largely designed, so a brain drain would hurt most later, when analysts expect revenue to pass $1 trillion.",
-   "url": "https://www.tikr.com/blog/losing-jensen-was-bad-enough-losing-nvidias-bench-would-be-worse?ref=yahoofinance&tlnk=yf-261116-895mjjm7&.tsrc=rss",
-   "published": "2026-11-16T07:20:34+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "CEO뿐만 아니라 주요 경영진의 이탈이 엔비디아의 더 큰 리스크가 될 수 있다고 주장했다."
    ],
    "tone": "neg"
   }
