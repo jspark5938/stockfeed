@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:30:30.944191+00:00",
+ "updated": "2026-11-23T06:00:39.878475+00:00",
  "trends": [
   {
    "ticker": "JPM",
@@ -65,18 +65,18 @@
    "ratio": 1.22
   },
   {
+   "ticker": "AMD",
+   "name_ko": "AMD",
+   "mentions_24h": 11,
+   "mentions_prev_24h": 10,
+   "ratio": 1.1
+  },
+  {
    "ticker": "TSLA",
    "name_ko": "테슬라",
    "mentions_24h": 14,
    "mentions_prev_24h": 13,
    "ratio": 1.08
-  },
-  {
-   "ticker": "AMD",
-   "name_ko": "AMD",
-   "mentions_24h": 11,
-   "mentions_prev_24h": 11,
-   "ratio": 1.0
   },
   {
    "ticker": "COST",
