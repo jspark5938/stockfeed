@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:30:33.269355+00:00",
+ "updated": "2026-11-23T01:46:31.000730+00:00",
  "posts": [
   {
    "id": "2e68a967d6048ec1",
@@ -88,6 +88,24 @@
     "그는 자신의 주장을 뒷받침하기 위해 차트 전문가를 동원했다고 언급했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "07a388a85b300fea",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Elon Musk Could Use His Nvidia Chip Orders to Push for Jensen Huang’s Return, Analyst Says",
+   "excerpt": "Elon Musk wants Jensen Huang back at Nvidia Corp., and Musk’s chip orders could give him a way to pressure the board, Seaport Research Partners analyst Jay Goldberg told Benzinga. \"Elon could almost single-handedly force a change,\" Goldberg said. He...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-could-nvidia-chip-003007166.html?.tsrc=rss",
+   "published": "2026-11-23T00:30:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "일론 머스크의 엔비디아 칩 주문이 이사회에 영향력을 행사할 수 있다고 분석가가 언급했다.",
+    "머스크가 엔비디아에 젠슨 황의 복귀를 압박하는 수단이 될 수 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "60d3634c70cf5519",
@@ -512,6 +530,24 @@
     "알리바바와 부킹 홀딩스의 밸류에이션과 리스크를 비교하며 2027년 전망을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "dedfaeb28c9191a8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Just Landed Its First 18A-P Chip Customer. What That Means for INTC Stock.",
+   "excerpt": "Intel’s first 18A customer offers a timely boost to its foundry ambitions, shifting the narrative around its battered stock.",
+   "url": "https://www.barchart.com/story/news/8957190/intel-just-landed-its-first-18a-p-chip-customer-what-that-means-for-intc-stock?.tsrc=rss",
+   "published": "2026-11-22T19:30:03+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔이 첫 18A-P 칩 고객을 유치했다고 다뤘다.",
+    "이는 파운드리 사업에 시기적절한 활력을 주며 주가에 대한 시선을 변화시킨다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2787fa9c9dde5f9c",
@@ -78982,59 +79018,6 @@
     "젠슨 황의 CEO 복귀 가능성과 지지 움직임이 있다는 보도를 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "4b6bdabe3e056bf6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang Could Return to Nvidia as Silicon Valley Plans ‘War Room,’ While Anthony Scaramucci Says ‘Not Happening’",
-   "excerpt": "Jensen Huang has reportedly discussed the possibility of returning as Nvidia Corp’s (NASDAQ:NVDA) CEO, but prominent figures remain divided over his possible return. Silicon Valley Executives Rally Behind Jensen Huang One of Huang’s allies told the Financial Times on Sunday that a group of Silicon Valley executives was assembling a “war room” to build support for his reinstatement, including by approaching the White House. Nvidia did not immediately respond to Benzinga’s request for comment. The",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-could-return-nvidia-014531281.html?.tsrc=rss",
-   "published": "2026-11-16T01:45:31+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 엔비디아 복귀설을 두고 실리콘밸리 인사들의 움직임과 엇갈린 반응을 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "bc71cc968f781db6",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/Tim_Apple_938",
-   "title": "GOOG Gemini model launches turn the entire narrative upside down and seems not priced in?",
-   "excerpt": "Google’s new stellar model releases are narrative shattering (regarding ANT OAI vs Chinese OpenWeight) I feel like everyone is taking crazy pills? There’s all this talk about “the labs” (ANT OAI) model economics - business model of having a model 6 months ahead of open weight models from China. And then all these games w Jensen to control it. But Google is now competing at the frontier (aka there’s THREE not two, and Google can lose money for decade and be totally fine) *as well as* dominating the cheap+fast good enough tier, being more cost effective than Kimi etc Is the entire market just delusional or am I the one on crazy pills? Surely someone has to notice at some point submitted by /u/Tim_Apple_938 to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxcqwg/goog_gemini_model_launches_turn_the_entire/",
-   "published": "2026-11-16T01:35:02+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "구글의 새로운 제미나이 모델 출시가 기존 판도를 흔들고 있다고 주장했다.",
-    "구글이 첨단 분야 경쟁과 저렴하고 빠른 티어에서 우위를 점하고 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "4b00c90e6dfe2bb9",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/Tim_Apple_938",
-   "title": "Google’s new stellar model releases are narrative shattering (regarding ANT OAI vs Chinese OpenWeight)",
-   "excerpt": "I feel like everyone is taking crazy pills? There’s all this talk about “the labs” (ANT OAI) model economics - business model of having a model 6 months ahead of open weight models from China. And then all these games w Jensen to control it. But Google is now competing at the frontier (aka there’s THREE not two, and Google can lose money for decade and be totally fine) as well as dominating the cheap+fast good enough tier, being more cost effective than Kimi etc Is the entire market just delusional or am I the one on crazy pills? Surely someone has to notice at some point submitted by /u/Tim_Apple_938 to r/stocks [link] [comments]",
-   "url": "https://www.reddit.com/r/stocks/comments/1xxcp7f/googles_new_stellar_model_releases_are_narrative/",
-   "published": "2026-11-16T01:32:50+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "구글의 새로운 모델 출주가 AI 시장의 기존 내러티브를 뒤집고 있다고 다뤘다.",
-    "구글이 첨단 AI 경쟁에 참여하며 비용 효율성에서도 우위에 있다고 주장했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
