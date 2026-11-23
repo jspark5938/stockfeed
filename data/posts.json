@@ -1,6 +1,79 @@
 {
- "updated": "2026-11-23T06:00:39.878475+00:00",
+ "updated": "2026-11-23T06:30:36.425381+00:00",
  "posts": [
+  {
+   "id": "7ffb50275ba9f3ca",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Just Reported Its First Quarter Without Jensen Huang. If the AI Trade Is Cracking, Warren Buffett’s Advice Comes Down to 1 Move.",
+   "excerpt": "Buffett has age-old advice that can help you survive different market paradigms.",
+   "url": "https://www.fool.com/investing/2026/11/23/nvidia-just-reported-its-first-quarter-without-jensen-huang-if-the-ai-trade-is-cracking-warren-buffett-s-advice-comes-down-to-1-move/?.tsrc=rss",
+   "published": "2026-11-23T06:20:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 젠슨 황 없이 첫 분기를 보고했다고 다뤘다.",
+    "AI 투자 열풍이 흔들릴 때 워런 버핏의 조언을 다룬 글이다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bc9e7df568abdd40",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Anthropic Stock Trend, Jensen Huang’s Potential Return As Nvidia CEO And Dell’s Q4 Results To Keep Tech Investors Busy This Week",
+   "excerpt": "President Donald Trump has backed Huang’s reinstatement.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-stock-trend-jensen-huang-s-potential-return-as-nvidia-ceo-and-dell-s-q4-results-to-keep-tech-investors-busy-this-week/cNbYAtgR9Sf?.tsrc=rss",
+   "published": "2026-11-23T06:14:45+00:00",
+   "tickers": [
+    "NVDA",
+    "DELL"
+   ],
+   "summary_ko": [
+    "앤트로픽 주가 동향과 엔비디아 CEO의 복귀 가능성 등을 다뤘다.",
+    "도널드 트럼프 대통령이 젠슨 황의 복귀를 지지했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bcccf3416fe3bbaf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "It’s time to follow the cash at Nvidia",
+   "excerpt": "There is an old stock market saying that “revenues and profits are a matter of opinion, but cash is a matter of fact” and a current case in point may just be Nvidia.",
+   "url": "https://uk.finance.yahoo.com/news/time-cash-nvidia-060000333.html?.tsrc=rss",
+   "published": "2026-11-23T06:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아와 관련해 현금 흐름을 주목해야 할 때라고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a948a2992148668b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NFLX Vs DIS: Which Streaming Stock Is A Favorite Among Analysts?",
+   "excerpt": "Phillip Securities downgraded Disney’s stock over the weekend, while Morningstar released a fresh take on Netflix, maintaining its $80 price target.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nflx-vs-dis-which-streaming-stock-is-a-favorite-among-analysts/cNbYqJwR9SO?.tsrc=rss",
+   "published": "2026-11-23T05:55:24+00:00",
+   "tickers": [
+    "NFLX",
+    "DIS"
+   ],
+   "summary_ko": [
+    "필립 증권이 디즈니 주식을 하향 조정했다고 다뤘다.",
+    "모닝스타는 넷플릭스에 대한 입장을 유지했다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "cbb24a74961331b4",
    "kind": "news",
@@ -37,6 +110,25 @@
     "경영진 우려, 성장 둔화, 앤스로픽의 IPO 이후 유동성 문제가 하락 원인이라고 언급했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "54f26fa6aebf5616",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Scott Bessent Says 'We Do Need Answers' From Nvidia on China Chip Sales: Stock Climbs Nearly 7% Overnight on Robinhood",
+   "excerpt": "Treasury Secretary Scott Bessent said Sunday that the Trump administration still needs answers from Nvidia Corp. (NASDAQ:NVDA) on its China chip sales, including how high the issue went and who handled compliance. Nvidia shares climbed nearly 7% in overnight trading late Sunday. Urges Nvidia to Move Quickly Bessent appeared on CBS News’ ‘Face the Nation’ a week after giving Nvidia’s board and outside counsel 10 days to explain concerns about its China business as scrutiny grows over the scandal",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/scott-bessent-says-answers-nvidia-045537654.html?.tsrc=rss",
+   "published": "2026-11-23T04:55:37+00:00",
+   "tickers": [
+    "NVDA",
+    "HOOD"
+   ],
+   "summary_ko": [
+    "재무장관이 엔비디아의 중국 칩 판매에 대한 답변을 요구했다고 전했다.",
+    "이러한 소식 속에서 엔비디아 주가는 야간 거래에서 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e6e349ca13291147",
@@ -78590,41 +78682,6 @@
     "주가 급락 이후 인텔이 주주들로부터 소송을 당했다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "ff96ef9960c804d1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla And 2 Top Insider Owned Growth Stocks",
-   "excerpt": "Hotter than expected US inflation data has pushed traders to expect more interest rate hikes, which puts a spotlight on businesses that can still grow even as money gets more expensive. Investors watching this shift may focus on faster expanding companies where insiders have significant ownership, because leaders with real skin in the game often think carefully about capital allocation. This article highlights three such stocks from our fast growth, high insider commitment list. The three...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-2-top-insider-owned-061432207.html?.tsrc=rss",
-   "published": "2026-11-16T06:14:32+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "인플레이션 데이터 상승으로 금리 인상 전망이 커졌다고 전했다.",
-    "내부자 지분율이 높은 성장주들이 주목받고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "23f0912974bbd209",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "BABA Stock Edges Lower Overnight: Alibaba Reportedly Launches Most-Advanced AI Model That Cuts Task Costs By 60%",
-   "excerpt": "According to The South China Post, Alibaba has stringent cybersecurity guardrails for its most advanced AI model, Qwen4-Max.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/baba-stock-edges-lower-overnight-alibaba-reportedly-launches-most-advanced-ai-model-that-cuts-task-costs-by-60/cNb7gKGR9Xf?.tsrc=rss",
-   "published": "2026-11-16T06:02:58+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바가 작업 비용을 낮춘 AI 모델을 출시했다고 보도됐다."
-   ],
-   "tone": "pos"
   }
  ]
 }
