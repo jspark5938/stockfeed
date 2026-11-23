@@ -1,6 +1,225 @@
 {
- "updated": "2026-11-23T20:30:31.876221+00:00",
+ "updated": "2026-11-23T21:00:39.423246+00:00",
  "posts": [
+  {
+   "id": "3662d19df3b07909",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Dow Surges On Jensen Huang's Nvidia Return; Boeing Flies On This (Live Coverage)",
+   "excerpt": "Stock Market Today: The Dow Jones index surges Monday. President Trump boasts of his role in Jensen Huang's return as Nvidia CEO.",
+   "url": "https://finance.yahoo.com/m/8751de70-467e-380a-82cb-f4ee42adc461/stock-market-today%3A-dow.html?.tsrc=rss",
+   "published": "2026-11-23T20:50:45+00:00",
+   "tickers": [
+    "NVDA",
+    "BA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "d98ee5378fb9c292",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 AI Stocks Billionaire Stanley Druckenmiller Has Been Quietly Buying",
+   "excerpt": "Druckenmiller started new positions in SpaceX, Palantir, and AppLovin in Q3.",
+   "url": "https://www.fool.com/investing/2026/11/23/3-ai-stocks-billionaire-stanley-druckenmiller-has-been-quietly-buying/?.tsrc=rss",
+   "published": "2026-11-23T20:50:02+00:00",
+   "tickers": [
+    "PLTR",
+    "APP"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "49e0b02c7c1ddf76",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Arm Holdings Stock Was Soaring on Monday",
+   "excerpt": "Like a certain other semiconductor company, it had news to report about its CEO.",
+   "url": "https://www.fool.com/investing/2026/11/23/why-arm-holdings-stock-was-soaring-on-monday/?.tsrc=rss",
+   "published": "2026-11-23T20:49:46+00:00",
+   "tickers": [
+    "ARM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "00e89f23ffa780ac",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NVDA rebound meets first test after gap-up fade",
+   "excerpt": "Investing.com -- Today looks like a two-way setup, not a clean continuation. Profit-taking risk is somewhat elevated, and the news-driven rally has already shown some fade. NVIDIA Corporation (NVDA) trades at $165.07 (+31.5%) as of Nov 23, 3:12 PM EST. The session has about 48 minutes left, so the close isn’t final.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-rebound-meets-first-test-204518392.html?.tsrc=rss",
+   "published": "2026-11-23T20:45:18+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "b90eb367102f9001",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Watch CNBC's full interview with President Trump",
+   "excerpt": "President Trump speaks to CNBC after Jensen Huang is reinstated as CEO of Nvidia.",
+   "url": "https://www.youtube.com/watch?v=-KzsKuC1AUs",
+   "published": "2026-11-23T20:43:28+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b8f671a9d240c406",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "What to Expect When Huang Comes Before Congress",
+   "excerpt": "Bloomberg Contributor Patrick McHenry, a former Republican Rep. from North Carolina, talks about what to expect when Nvidia CEO Jensen Huang appears before Congress on Dec. 3. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Politics: Bloomberg Originals: Watch more on YouTube: Bloomberg Technology: Bloomberg Originals: Bloomberg Quicktake: Bloomberg Espanol: Bloomb",
+   "url": "https://www.youtube.com/watch?v=V0sUmzV3fwU",
+   "published": "2026-11-23T20:40:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "06e464fea124662e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Lilly executive calls oncology the key growth area after obesity",
+   "excerpt": "Investing.com -- Eli Lilly & Co. identified cancer treatment as its next major growth opportunity following its success in the obesity market, according to Jake Van Naarden, the company's head of business development and oncology.",
+   "url": "https://finance.yahoo.com/healthcare/articles/lilly-executive-calls-oncology-key-203928531.html?.tsrc=rss",
+   "published": "2026-11-23T20:39:28+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "7451a585539dc483",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Nvidia Rehires Huang Amid Trump Push",
+   "excerpt": "On the early edition of Balance of Power, Bloomberg Washington Correspondents Joe Mathieu and Kailey Leinz discuss Nvidia reinstating Jensen Huang as CEO. On today’s show, Arbroath Group Managing Partner Christopher Smart, Rep. Sharice Davids (D-KS), Stonecourt Capital Partner Rick Davis, The Watchdog Report Publisher Kurt Bardella and former Republican Congressman Patrick McHenry. Chapters: 00:00:00 Radio Balance of Power: Early Edition 00:01:18 Nvidia & Markets Surge 00:03:32 Trump's Role in Huang's Return 00:05:01 Jensen Huang Prepares for Congress 00:07:18 Nvidia Reverses Course on Huang 00:08:39 Nvidia's Board & Corporate Governance 00:10:12 Trump, Nvidia & Political Risk 00:14:00 Political Fallout From Trump's Intervention 00:16:07 Nvidia, AI & the U.S. Economy 00:19:02 Markets Rally",
+   "url": "https://www.youtube.com/watch?v=Vu7zkM2kA1o",
+   "published": "2026-11-23T20:39:11+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b98ba2f840724229",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Exelon Or Vistra: Which Fits Your Power Demand Bet?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/exc/articles/627544/exelon-or-vistra-which-fits-your-power-demand-bet/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T20:38:49+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "8a9a67b9b455c5d9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Walmart and Other Defensive Stocks Are Losing Their Luster",
+   "excerpt": "The stock market surge thanks to Jensen Huang’s return as CEO of Nvidia is great news for tech. But not for defensive consumer stocks.",
+   "url": "https://finance.yahoo.com/m/d85b751c-8248-3bbc-9071-97e02ce76f85/why-walmart-and-other.html?.tsrc=rss",
+   "published": "2026-11-23T20:37:00+00:00",
+   "tickers": [
+    "NVDA",
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "0b0eca4e7c03def0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Gavin Baker: “At Least Three Companies” Want to Replace Nvidia as AI’s Central Bank. Good News for CoreWeave",
+   "excerpt": "Key TakeawaysAtreides Management’s Gavin Baker says at least three companies are competing to replace Nvidia as the financier behind GPU buyers like CoreWeave and Nebius. Nvidia shares jumped 31% today after its board reinstated Jensen Huang as CEO, which puts Nvidia in a stronger position to keep that role.",
+   "url": "https://www.tikr.com/blog/gavin-baker-at-least-three-companies-want-to-replace-nvidia-as-ais-central-bank-good-news-for-coreweave?ref=yahoofinance&tlnk=yf-261123-37w799jj&.tsrc=rss",
+   "published": "2026-11-23T20:30:44+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "cc0b4f7db6913285",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "Wall Street SURGES as Jensen Huang returns to lead Nvidia",
+   "excerpt": "Nvidia stock and chipmakers surge after the board reinstates Jensen Huang as CEO. 'The Big Money Show' panel breaks down the market's reaction, President Donald Trump's comments and the future of the semiconductor industry. Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead busines",
+   "url": "https://www.youtube.com/watch?v=1Wh2SYG6EJs",
+   "published": "2026-11-23T20:30:15+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "32d254ea0f7afc08",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Kai Wu on NVDA Facing \"Definition of Headline Risk,\" AI Spending Concerns",
+   "excerpt": "Nvidia (NVDA) is lifting the rest of the stock market Monday, though Kai Wu says the bullish momentum doesn't come without questions regarding reinstated CEO Jensen Huang. He argues the company is facing the \"definition of headline risk\" should anything surround Huang's return make a sudden reversal. Kai then turns to risks in the greater AI trade, particularly when it comes to cyclical spending. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #jensenhuang #volatility #economy #finance #investing #market",
+   "url": "https://www.youtube.com/watch?v=lDSAOnI9KmI",
+   "published": "2026-11-23T20:30:15+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "0a2739fe012337a1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang Is Back at Nvidia. These Are 3 Remaining Concerns With Nvidia and What They Mean for the Stock.",
+   "excerpt": "Investors are breathing a sigh of relief, but Nvidia is not completely out of the woods.",
+   "url": "https://www.fool.com/investing/2026/11/23/jensen-huang-is-back-at-nvidia-these-are-3-remaining-concerns-with-nvidia-and-what-they-mean-for-the-stock/?.tsrc=rss",
+   "published": "2026-11-23T20:30:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
   {
    "id": "840ab87aff1358a9",
    "kind": "youtube",
@@ -15,7 +234,82 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
+  },
+  {
+   "id": "8241ac7b87d04449",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "“No Synergies” in a SpaceX-Tesla Merger? Really? Starlink Just Showed Up in a Cybercab Roof",
+   "excerpt": "Key TakeawaysJim Chanos says a SpaceX-Tesla merger has “no synergies” and would cut SpaceX’s 2027 EPS by almost 40%. Tesla has built a Starlink dish into the Cybercab’s roof, so “no synergies” goes too far.",
+   "url": "https://www.tikr.com/blog/no-synergies-in-a-spacex-tesla-merger-really-starlink-just-showed-up-in-a-cybercab-roof?ref=yahoofinance&tlnk=yf-261123-6p2w8xcj&.tsrc=rss",
+   "published": "2026-11-23T20:23:19+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "795b31c3519d8bf2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "5 Stocks Up 20% Or More on Monday Following NVIDIA CEO Jensen Huang’s Return",
+   "excerpt": "Eric Bleeker, Chief Investment Officer at 24/7 Wall St., looks at the chip stocks jumping on Monday after Jensen Huang's return to NVIDIA (NASDAQ: NVDA). The Philadelphia Semiconductor Index is up 13% in late trading, but five stocks tied closely to Nvidia's plans are up 20% or more, and Bleeker walks through what they share.",
+   "url": "https://247wallst.com/videos/5-stocks-up-20-or-more-on-monday-following-nvidia-ceo-jensen-huangs-return/?.tsrc=rss",
+   "published": "2026-11-23T20:21:35+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1e7a0b157bf19e1b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Here's Why nVent Stock Surged Today (Hint: It's Nvidia and Jensen Huang Related)",
+   "excerpt": "The reinstatement of Jensen Huang rebuilds confidence in companies in the AI ecosystem.",
+   "url": "https://www.fool.com/investing/2026/11/23/here-s-why-nvent-stock-surged-today-hint-it-s-nvidia-and-jensen-huang-related/?.tsrc=rss",
+   "published": "2026-11-23T20:20:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "b2bcc76d4044f693",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: Here's What a $5,000 Investment in Nvidia Stock Today Will Be Worth by Year-End 2027",
+   "excerpt": "Nvidia's accelerating AI growth and modest valuation could turn a $5,000 investment into a much larger sum by the end of next year.",
+   "url": "https://www.fool.com/investing/2026/11/23/prediction-here-s-what-a-usd5-000-investment-in-nvidia-stock-today-will-be-worth-by-year-end-2027/?.tsrc=rss",
+   "published": "2026-11-23T20:20:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "4cea9cce1f14b7eb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: This Is What Nvidia's Stock Will Be Worth by the End of 2027",
+   "excerpt": "What comes next for the chip giant?",
+   "url": "https://www.fool.com/investing/2026/11/23/prediction-this-is-what-nvidias-stock-will-be-wort/?.tsrc=rss",
+   "published": "2026-11-23T20:19:33+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "ae7e7fac8f7b4493",
@@ -23,16 +317,31 @@
    "source": "Brighter with Herbert",
    "author": "Brighter with Herbert",
    "title": "Elon Just Dropped Huge FSD V15 And Cybercab News",
-   "excerpt": "Jeff Lutz is an ex Supply Chain C-Level Exec at several Fortune 100 companies like Google, Lenovo and Motorola. Currently running his own consulting firm. Follow Jeff Lutz on X: @theJeffLutz 🚀 Serious $TSLA or SpaceX investor? Try Brighter Finance free: ━━━━━━━━━━━━━━ 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ Get better sleep with my Juxi amber blue-light blocker eye-glass clip-ons: Become a Patreon: Become a YouTube Channel Member: Your support means alot! ❤️ My website: 15+ modules of resources for the $TSLA and $SPCX Investor Let's get brighte",
+   "excerpt": "🚀 Serious $TSLA or SpaceX investor? Try Brighter Finance free: ━━━━━━━━━━━━━━ 🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ Get better sleep with my Juxi amber blue-light blocker eye-glass clip-ons: Become a Patreon: Become a YouTube Channel Member: Your support means alot! ❤️ My website: 15+ modules of resources for the $TSLA and $SPCX Investor Let's get brighter! Website: X: @herbertong Disclaimer: All content on this channel is for discussion and illustrative purposes only and should not be construed as professional financial advice or recommendat",
    "url": "https://www.youtube.com/watch?v=3FtqraHCZ-4",
    "published": "2026-11-23T20:19:30+00:00",
    "tickers": [
-    "TSLA",
-    "GOOGL"
+    "TSLA"
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
+  },
+  {
+   "id": "78b37caab0f2f660",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple vs. Broadcom: Comparing Revenue Trends Amid the Artificial Intelligence Boom",
+   "excerpt": "Broadcom's quarterly revenue has climbed for seven straight periods, while Apple's has swung up and down, and the next report could change the picture.",
+   "url": "https://www.fool.com/coverage/charts/2026/11/23/apple-vs-broadcom-comparing-revenue-trends-amid-the-artificial-intelligence-boom/?.tsrc=rss",
+   "published": "2026-11-23T20:16:30+00:00",
+   "tickers": [
+    "AAPL",
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "a356f695af10f0b8",
@@ -99,7 +408,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "60982d7726181c8d",
@@ -132,6 +441,21 @@
     "PLTR",
     "CRM",
     "NET"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "76f0991ddad38101",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can CrowdStrike Holdings (CRWD) Justify Its Valuation As It Raises Full Year Outlook?",
+   "excerpt": "CrowdStrike Holdings (CRWD) raised its full year earnings outlook after reporting third quarter revenue of US$1,583.42 million and net income of US$24.86 million, and also issued fourth quarter revenue guidance. CrowdStrike Holdings shares pulled back 5.76% on the day to US$229.44 and are down 10.92% over the past month. However, the 90-day share price return of 23.77% and year-to-date gain of 102.34% suggest momentum has not fully faded. Scan how other cybersecurity and AI infrastructure...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-justify-valuation-200654487.html?.tsrc=rss",
+   "published": "2026-11-23T20:06:54+00:00",
+   "tickers": [
+    "CRWD"
    ],
    "summary_ko": null,
    "tone": null
@@ -211,7 +535,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "2c18234dd38ffebe",
@@ -227,7 +551,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "e6933719bb634122",
@@ -243,7 +567,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "d2f343a6fe8528b3",
@@ -259,7 +583,22 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
+  },
+  {
+   "id": "f8659568a0612fd1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Anthropic’s Stock Is Sitting Out Nvidia’s Big Rally",
+   "excerpt": "The AI firm’s IPO has been a bummer for retail investors so far.",
+   "url": "https://finance.yahoo.com/m/4b0c6858-bbdf-3949-a696-c72d26b74377/why-anthropic%E2%80%99s-stock-is.html?.tsrc=rss",
+   "published": "2026-11-23T19:58:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "3e915a9520a7f105",
@@ -441,7 +780,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "e25d801ba7ef4d10",
@@ -610,7 +949,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "bc015a633b79c629",
@@ -626,7 +965,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "39df3279536b449f",
@@ -1382,21 +1721,6 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 1
-  },
-  {
-   "id": "f8659568a0612fd1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Anthropic’s Stock Is Sitting Out Nvidia’s Big Rally",
-   "excerpt": "The AI firm’s IPO has been a bummer for retail investors so far.",
-   "url": "https://finance.yahoo.com/m/4b0c6858-bbdf-3949-a696-c72d26b74377/why-anthropic%E2%80%99s-stock-is.html?.tsrc=rss",
-   "published": "2026-11-23T18:46:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null
   },
   {
    "id": "ee9a5d44714b56d7",
@@ -2178,21 +2502,6 @@
     "조 티게이는 엔비디아의 젠슨 황 복귀에 따른 시장 급등 속에서 팔란티어, 오라클, 스페이스X를 주목할 종목으로 꼽았다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "3662d19df3b07909",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Market Today: Dow Surges As Trump Says This On Huang's Nvidia Return; AI Plays Rocket (Live Coverage)",
-   "excerpt": "Stock Market Today: The Dow Jones index surges Monday. President Trump boasts of his role in Jensen Huang's return as Nvidia CEO.",
-   "url": "https://finance.yahoo.com/m/8751de70-467e-380a-82cb-f4ee42adc461/stock-market-today%3A-dow.html?.tsrc=rss",
-   "published": "2026-11-23T17:55:51+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null
   },
   {
    "id": "0724fd0f859ba902",
@@ -3386,6 +3695,22 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 3
+  },
+  {
+   "id": "2273d760355a9576",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oracle’s Larry Ellison just lost $10.9 billion and fell from the top 10 richest billionaires in the world after his cloud company’s stock tanks",
+   "excerpt": "A recent drop in Oracle shares sent Larry Ellison’s fortune tumbling down the ultra-rich list past Walmart heirs Jim Walton, Rob Walton, and Alice Walton.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-larry-ellison-just-lost-170006718.html?.tsrc=rss",
+   "published": "2026-11-23T17:00:06+00:00",
+   "tickers": [
+    "ORCL",
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "37db60aa9482aae4",
@@ -79628,6 +79953,21 @@
    "tone": "neu"
   },
   {
+   "id": "68b64fb0a5b569bd",
+   "kind": "youtube",
+   "source": "Amit Kukreja",
+   "author": "Amit Kukreja",
+   "title": "BRAD GERSTNER SELLS NVIDIA, SAM ALTMAN SAYS WE HAVE ISSUES, 13FS ARE OUT | MARKET CLOSE",
+   "excerpt": "twitter: deepdives: free news terminal -",
+   "url": "https://www.youtube.com/watch?v=ZqvW2ZGzGd0",
+   "published": "2026-11-17T00:33:56+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "6ab0eb7f2bcf89aa",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -81317,307 +81657,6 @@
     "JP모간은 마이크로소프트 관련 사이트 지연을 이유로 IREN의 목표주가를 하향 조정했다고 밝혔다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "5ecbe6a34a084674",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Robinhood dip outlook: oversold but downtrend intact after Kalshi threat",
-   "excerpt": "Investing.com -- Robinhood Markets Inc (HOOD) looks oversold, but the data doesn’t yet show the selling has finished. The Kalshi headline is only part of the drop. A slump in crypto and a weak earnings reaction came first, so this is a stack of negatives and not a single shock.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-dip-outlook-oversold-downtrend-210039527.html?.tsrc=rss",
-   "published": "2026-11-16T21:00:39+00:00",
-   "tickers": [
-    "HOOD"
-   ],
-   "summary_ko": [
-    "로빈후드 주가가 과매도 상태로 보이지만 매도세가 끝나지 않았다고 분석했다.",
-    "암호화폐 급락과 실적 반응 부진 등이 겹친 결과라고 설명했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "40e710fa9ee7f50c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla Sells Cybercabs To The Public. It Might Be Because Of A Bet With A YouTuber.",
-   "excerpt": "YouTuber Marques Brownlee bet he would shave his head if Tesla sold a Cybercab to the general public for under $30,000 by 2026. Cybercab deliveries are scheduled for December.",
-   "url": "https://finance.yahoo.com/m/40779e8f-2539-3b70-a13d-63c13ba203c1/tesla-sells-cybercabs-to-the.html?.tsrc=rss",
-   "published": "2026-11-16T21:00:32+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라가 대중에게 사이버캡을 판매하는 일정을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "82a80e86b84a2525",
-   "kind": "youtube",
-   "source": "Fox Business",
-   "author": "Fox Business",
-   "title": "Scott Bessent DEMANDS shake-up as Huang's comeback campaign builds",
-   "excerpt": "'The Big Money Show' panel debates Jensen Huang's reported Nvidia comeback bid, Scott Bessent's push for a leadership shake-up and what's at stake for investors and America's AI race with China. Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news programming, with each",
-   "url": "https://www.youtube.com/watch?v=7Brh3BrhCvY",
-   "published": "2026-11-16T21:00:32+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "패널들은 젠슨 황의 엔비디아 복귀설과 스콧 베센트의 리더십 교체 요구를 다뤘다.",
-    "미국의 대중국 AI 경쟁에서 투자자들이 직면한 리스크를 논의했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0ecd82079a6a6509",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Andrew Urbanski on \"Techflation\" Hitting AI & Fed; GOOGL, MRVL, LITE Stock Picks",
-   "excerpt": "Andrew Urbanski talks about what he has coined \"techflation\" and how cost pressures pinning companies should open the door for investors to pay a low multiple to own shares. Higher interest rates and inflationary pressures are two factors Andrew sees as long-term headwinds. He says investors should own \"scarce supply\" and vertical AI companies, naming Lumentum (LITE), Marvell (MRVL), and Alphabet (GOOGL) as top stock picks. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #google #marvell #lumentum #ai #artificia",
-   "url": "https://www.youtube.com/watch?v=zHs_VXMBHfk",
-   "published": "2026-11-16T21:00:31+00:00",
-   "tickers": [
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "앤드루 우르반스키는 비용 압박을 뜻하는 테크플레이션을 언급했다.",
-    "금리 인상과 인플레이션이 장기적 역풍이 될 수 있다고 보았다.",
-    "루멘텀, 마블, 알파벳 등을 유망 종목으로 꼽았다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "93d5397be37bf12d",
-   "kind": "youtube",
-   "source": "Wealthion",
-   "author": "Wealthion",
-   "title": "You Own More Tech Than You Think",
-   "excerpt": "Your portfolio may be far more exposed to technology stocks than you realize—and that could put your investments at risk during the next market sell-off. Brett Rentmeester, founder of WindRock Wealth Management and a member of the Wealthion Advisor Network, explains how investors can unknowingly accumulate concentrated tech exposure through S&P 500 index funds, ETFs, and individual stocks like Nvidia and Apple. As technology stocks drive more of the broader market, are you really as diversified as you think? Watch Brett's full interview with Maggie Lake on Wealthion for more on managing portfolio risk during market volatility. Learn more about Brett and his investment approach: #StockMarket #TechStocks #SP500 #Investing #PortfolioDiversification #wealthion Connect with us online: Website: ",
-   "url": "https://www.youtube.com/watch?v=SqwmCQjdfW8",
-   "published": "2026-11-16T21:00:26+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL"
-   ],
-   "summary_ko": [
-    "투자자들이 S&P 500 펀드 등을 통해 의도치 않게 기술주에 편중될 수 있다고 다뤘다.",
-    "시장 하락 시 포트폴리오 리스크 관리의 중요성을 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "14d9bcd145ea5ac3",
-   "kind": "youtube",
-   "source": "Fox Business",
-   "author": "Fox Business",
-   "title": "Bessent drops BOMBSHELL questions about Nvidia #shorts",
-   "excerpt": "Treasury Secretary Scott Bessent questions whether Nvidia ignored shell company warning signs and calls for a dramatic leadership shakeup at the chipmaker. #shorts #foxbusiness Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news programming, with each business day prog",
-   "url": "https://www.youtube.com/watch?v=I-3e6rnG4Zg",
-   "published": "2026-11-16T21:00:19+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "스콧 베센트 재무장관은 엔비디아가 경고 신호를 무시했는지 의문을 제기했다.",
-    "칩 제조사인 엔비디아의 급격한 리더십 교체를 요구했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ddf5b35b565f566d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Top Analyst Reports for Taiwan Semiconductor, Johnson & Johnson and Palantir",
-   "excerpt": "Taiwan Semiconductor, Johnson & Johnson and Palantir headline today's analyst reports, with AI growth, drug pipelines and competitive pressures shaping their outlooks.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-taiwan-semiconductor-205900812.html?.tsrc=rss",
-   "published": "2026-11-16T20:59:00+00:00",
-   "tickers": [
-    "PLTR",
-    "TSM"
-   ],
-   "summary_ko": [
-    "대만 반도체, 존슨앤드존슨, 팔란티어의 AI 성장과 경쟁 압력 등을 다룬 분석 보고서 소식을 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "593906fe211b7824",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/just4reselling",
-   "title": "Have $10,000 that I want to gamble.",
-   "excerpt": "I'm fortunate to be a position to have > $500k invested in the S&P at 25. Recently got a bonus of $10,000 and want to do something riskier. I'm thinking NVDA 200c 12/15. I don't mind losing all of this amount, but I want something i can make 10-20x my money. submitted by /u/just4reselling to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xy10l1/have_10000_that_i_want_to_gamble/",
-   "published": "2026-11-16T20:56:42+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "보너스로 받은 1만 달러로 고위험 엔비디아 옵션 투자를 고민 중이라고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1456d5c6527537b4",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Trump Backs Calls for Huang to Be Reinstated as Nvidia CEO",
-   "excerpt": "President Trump supported calls for Jensen Huang’s reinstatement as Nvidia’s CEO and downplayed national security concerns about the ousted executive’s relationship with a woman suspected of being a Chinese spy. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Politics: Bloomberg Originals: Watch more on YouTube: Bloomberg Technology: Bloomberg Originals: Bloomberg ",
-   "url": "https://www.youtube.com/watch?v=hR_GoHbS4mk",
-   "published": "2026-11-16T20:55:26+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "트럼프 대통령이 젠슨 황의 엔비디아 CEO 복귀를 지지한다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "68dc8beae90b33ee",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Earnings to watch: NVIDIA, Walmart, Home Depot and more report this week",
-   "excerpt": "Investing.com -- This week’s calendar pairs the consumer (Home Depot, Lowe’s, Target, TJX, Walmart) with the AI trade (NVIDIA). Data is from the earnings calendar as of Mon, Nov 16, 2026 at 3:17 PM EST. Estimates are consensus and can shift.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-nvidia-walmart-home-205309775.html?.tsrc=rss",
-   "published": "2026-11-16T20:53:09+00:00",
-   "tickers": [
-    "NVDA",
-    "WMT"
-   ],
-   "summary_ko": [
-    "이번 주 홈디포, 월마트 등 소비재 기업과 엔비디아의 실적 발표가 예정되어 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "cb9509a076d08f06",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Robert Pattinson Is New James Bond in Amazon’s Reboot",
-   "excerpt": "Batman star Robert Pattinson is the latest actor to take on the role of superspy James Bond as Amazon’s MGM Studios looks to reboot the franchise. Ed Ludlow has more. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Politics: Bloomberg Originals: Watch more on YouTube: Bloomberg Technology: Bloomberg Originals: Bloomberg Quicktake: Bloomberg Espanol: Bloomberg Podca",
-   "url": "https://www.youtube.com/watch?v=uf-gQcPmk4w",
-   "published": "2026-11-16T20:52:05+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존 MGM 스튜디오의 제임스 본드 리부트 작품에서 로버트 패틴슨이 새로운 제임스 본드 역을 맡는다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3388c296991a49e3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "JPMorgan updates AR platform to help free up working capital",
-   "excerpt": "The bank, which has been in the receivables business for decades, has recently taken steps to modernize its platform, JPMorgan’s Michelle Conklin said.",
-   "url": "https://www.cfodive.com/news/jpmorgan-updates-ar-platform-help-unstick-working-capital/874810/?.tsrc=rss",
-   "published": "2026-11-16T20:46:01+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "JP모간이 운전자본 확보를 돕기 위해 AR 플랫폼을 현대화하는 조치를 취했다고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2e818a933a806056",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "FAA, Microsoft outages show the perils of system upgrades",
-   "excerpt": "The recent outages at Microsoft and the Federal Aviation Administration have something in common: they’re both system upgrades gone awry. Microsoft’s outage on Thursday and Friday stemmed from a network upgrade. The FAA was trying to modernize its air-traffic-control network from copper to fiber-optic wires when the situation went so awry that planes were grounded […]",
-   "url": "https://www.americanbanker.com/news/faa-microsoft-outages-show-the-perils-of-system-upgrades?.tsrc=rss",
-   "published": "2026-11-16T20:43:24+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트와 연방항공청의 최근 시스템 중단 사태가 잘못된 시스템 업그레이드에서 비롯되었다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "3fe56639c44179e6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AI Changed the Agency Game. Avenue7Media® Rebrands as Ave7® and Introduces ave7LIFT® to Lead What's Next.",
-   "excerpt": "Avenue7Media® today rebranded its marketplace growth agency as Ave7® and introduced the Ave7 Marketplace Growth OS, which combines expert operators with ave7LIFT®, Ave7's AI-enabled marketplace intelligence platform, to help brands grow profitably across Amazon, Walmart, Target, and beyond.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/ai-changed-agency-game-avenue7media-203800341.html?.tsrc=rss",
-   "published": "2026-11-16T20:38:00+00:00",
-   "tickers": [
-    "AMZN",
-    "WMT"
-   ],
-   "summary_ko": [
-    "에비뉴세븐미디어가 사명을 변경하고 AI 기반 플랫폼을 도입해 마켓플레이스 성장을 지원한다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b966f6503d5a4d8d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-   "excerpt": "The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.",
-   "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys?.tsrc=rss",
-   "published": "2026-11-16T20:36:03+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "톰 리는 이더리움 급락의 원인으로 엔비디아 여파와 앤스로픽 기업공개에 따른 현금 확보를 지목했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "040e0b46cb58eb7f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "JPMorgan Slashes IREN Target and Banks Revalue AI Stocks. Plus, Will Jensen Return to NVIDIA?",
-   "excerpt": "JPMorgan has cut its IREN price target but maintained a neutral rating, and the target is still more than triple IREN's current price. And JPMorgan isn't alone: other investment banks…",
-   "url": "https://blockspace.media/podcast/jpmorgan-slashes-iren-target-and-banks-revalue-ai-stocks-plus-will-jensen-return-to-nvidia/?.tsrc=rss",
-   "published": "2026-11-16T20:31:51+00:00",
-   "tickers": [
-    "NVDA",
-    "JPM"
-   ],
-   "summary_ko": [
-    "JP모간이 IREN의 목표주가를 낮추면서도 투자의견은 유지했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0db7dafaa40dd2ff",
-   "kind": "youtube",
-   "source": "Brighter with Herbert",
-   "author": "Brighter with Herbert",
-   "title": "Elon Just Had His Most Historic Weekend Yet",
-   "excerpt": "🚨 Are you a serious $TSLA or $SPCX investor? Keep close track of all Musk business posts, Tesla and SpaceX catalysts and prediction odds, deep research with charts and spreadsheets all in one place. Follow Robotaxi rollout, Optimus production, Starship, Starmind and more. 👉 ━━━━━━━━━━━━━━ 📚 Want to learn how to trade options? I’m not the options guy, but my friend Nick Gibbs is! 👉 ━━━━━━━━━━━━━━ Own a Tesla? Get a free month of Full Self-Driving (Supervised) when you use my link. ━━━━━━━━━━━━━━ Get better sleep with my Juxi amber blue-light blocker eye-glass clip-ons: Become a Patreon: Become a YouTube Channel Member: Your support means alot! ❤️ My website: 15+ modules of resources for the $TSLA and $SPCX Investor Let's get brighter! Website: X: @herbertong Disclaimer: All content on this ",
-   "url": "https://www.youtube.com/watch?v=97abXgdP8KI",
-   "published": "2026-11-16T20:31:44+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라 및 스페이스X 투자자들을 위한 비즈니스 게시물과 연구 자료를 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
