@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-23T06:30:36.425381+00:00",
+ "updated": "2026-11-23T07:00:41.060298+00:00",
  "posts": [
+  {
+   "id": "190e12edcc05e692",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan sees potential sharp rebound in Asian equities after positioning unwind",
+   "excerpt": "Investing.com-- A sharp correction in regional markets may be setting the stage for a significant recovery, as investor positioning has fallen to historically depressed levels and much of the recent selling pressure appears to reflect portfolio adjustments rather than deteriorating long-term fundamentals, JPMorgan analysts said.",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/jpmorgan-sees-potential-sharp-rebound-065327416.html?.tsrc=rss",
+   "published": "2026-11-23T06:53:27+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "JP모건은 아시아 증시가 포지션 청산 이후 급반등할 가능성이 있다고 분석했다.",
+    "최근의 매도 압력은 펀더멘털 악화보다는 포트폴리오 조정 때문이라고 진단했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "16b27bc1c408796e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "2 Semiconductor Stocks to Buy No Matter Who Wins the AI Chip Race",
+   "excerpt": "Nvidia's surprise CEO exit has scrambled the AI chip race, but two equipment makers get paid either way.",
+   "url": "https://www.fool.com/investing/2026/11/23/2-semiconductor-stocks-to-buy-no-matter-who-wins-the-ai-chip-race/?.tsrc=rss",
+   "published": "2026-11-23T06:50:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 CEO의 갑작스러운 퇴임으로 AI 칩 경쟁 구도가 흔들리고 있다고 다뤘다.",
+    "AI 칩 경쟁 승자와 무관하게 수혜를 보는 장비주 두 종목을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d387a538e8c66ed4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nio Sees Revenue Topping $15B This Year— But Analyst Warns Onvo Could Derail Tesla Roadster-Inspired Luxury Bet",
+   "excerpt": "Higher-margin models lifted Nio’s Q2 vehicle margin to 18.5% from 10.3% a year earlier. Now, Morningstar warns discounts could erode those gains.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nio-revenue-15b-this-year-analyst-onvo-derail-tesla-roadster-luxury-bet/cNbYrWER9Sh?.tsrc=rss",
+   "published": "2026-11-23T06:37:26+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "니오는 올해 매출이 150억 달러를 넘어설 것으로 예상된다고 밝혔다.",
+    "모닝스타는 할인 공세가 마익스 이익을 깎아내릴 수 있다고 경고했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "7ffb50275ba9f3ca",
    "kind": "news",
@@ -52,6 +106,24 @@
    ],
    "summary_ko": [
     "엔비디아와 관련해 현금 흐름을 주목해야 할 때라고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "23346d4e64894955",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Green Week Ahead? Nvidia Futures Rip 6%, Nasdaq and S&P 500 Futures Snap Back 2%",
+   "excerpt": "Nvidia futures jumped 5.71% while Nasdaq and S&P 500 futures rebounded 2%, but an SEC probe keeps pressure on AI stocks.",
+   "url": "https://beincrypto.com/nvidia-futures-rip-as-markets-rebound/?.tsrc=rss",
+   "published": "2026-11-23T06:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 선물과 주요 지수 선물이 반등세를 보였다고 전했다.",
+    "다만 SEC 조사로 인해 AI 주식들이 압박을 받고 있다고 언급했다."
    ],
    "tone": "neu"
   },
@@ -78628,58 +78700,6 @@
    ],
    "summary_ko": [
     "CEO뿐만 아니라 주요 경영진의 이탈이 엔비디아의 더 큰 리스크가 될 수 있다고 주장했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "16ee5586f7610bb6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Rocket Lab Raised Neutron’s Price to $70 Million Before Its First Flight. Backlog Jumped 52%",
-   "excerpt": "Key TakeawaysRocket Lab posted record third quarter revenue of $267. 8 million, up 73%, while backlog jumped 52% to $3.",
-   "url": "https://www.tikr.com/blog/rocket-lab-raised-neutrons-price-to-70-million-before-its-first-flight-backlog-jumped-52?ref=yahoofinance&tlnk=yf-261116-95mhr2rg&.tsrc=rss",
-   "published": "2026-11-16T07:00:33+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "로켓랩이 3분기 사상 최대 매출을 기록했다고 다뤘다.",
-    "수주 잔고도 크게 증가했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "0280cbd4b398da7c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "IonQ Just Guided to $515 Million in 2026 Revenue: Take Profits, or Buy More?",
-   "excerpt": "Key TakeawaysIonQ posted record third-quarter revenue of $173. 8 million, up 336%, and raised its 2026 forecast to $505 million to $515 million.",
-   "url": "https://www.tikr.com/blog/ionq-just-guided-to-515-million-in-2026-revenue-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261116-4vv8gvhm&.tsrc=rss",
-   "published": "2026-11-16T06:47:40+00:00",
-   "tickers": [
-    "IONQ"
-   ],
-   "summary_ko": [
-    "아이온큐가 3분기 호실적을 기록하고 2026년 매출 전망치를 상향 조정했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f29d5f93fb9798a1",
-   "kind": "reddit",
-   "source": "r/StockMarket",
-   "author": "/u/Hopeful-Swimming7555",
-   "title": "Intel sued by shareholders following 29% stock plunge",
-   "excerpt": "submitted by /u/Hopeful-Swimming7555 to r/StockMarket [link] [comments]",
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xxic3t/intel_sued_by_shareholders_following_29_stock/",
-   "published": "2026-11-16T06:33:20+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "주가 급락 이후 인텔이 주주들로부터 소송을 당했다고 다뤘다."
    ],
    "tone": "neg"
   }
