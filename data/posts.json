@@ -1,17 +1,380 @@
 {
- "updated": "2026-11-23T13:00:43.606383+00:00",
+ "updated": "2026-11-23T13:30:32.555927+00:00",
  "posts": [
+  {
+   "id": "73e8d23644161df1",
+   "kind": "youtube",
+   "source": "Stock Moe",
+   "author": "Stock Moe",
+   "title": "If You Missed NVIDIA and PALANTIR 🚨 This Stock Is BIGGER ‼️",
+   "excerpt": "1️⃣ *🚨 Trade $25 Get $50!* ➡ 2️⃣ *🚨 Save 40% code MOE is back!* ➡ 3️⃣ *🎁 Stock Moe MERCH!* 3️⃣ *🎁 FREE month of Earner Plus + 12 free fractional shares worth up to $3,600 from Webull* ➡ 4️⃣ *🚨Stock Moe's Free Sunday Edition Newsletter* 4️⃣ *🚨 Stock Moe's 4 Step Framework Learning Webinar* ➡ Webull Stock Moe Promotion Terms and Conditions: 🚨 Join the Stock Moe Community Membership ➡ If you missed NVIDIA (NVDA) and Palantir (PLTR), quantum computing is the sector everyone is asking about. It is also getting crushed right now. In this video I walk through the 3 companies I see leading quantum computing: IonQ (IONQ), Quantinuum (QNT), and IBM (IBM). I show the real revenue numbers, why I left out Rigetti Computing (RGTI) and D Wave Quantum (QBTS), and one original study on what happened after ",
+   "url": "https://www.youtube.com/watch?v=4KKr5k9Fj-o",
+   "published": "2026-11-23T13:30:30+00:00",
+   "tickers": [
+    "NVDA",
+    "PLTR",
+    "IONQ",
+    "RGTI",
+    "QBTS"
+   ],
+   "summary_ko": [
+    "엔비디아와 팔란티어를 놓친 투자자들을 위해 양자 컴퓨팅 분야를 다뤘다.",
+    "영상에서는 양자 컴퓨팅을 이끄는 주요 기업과 매출 수치를 살펴봤다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "20b914bf7a6a54ab",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CrowdStrike Holdings (CRWD) Agreed $44 Billion All Stock Cybersecurity Deal",
+   "excerpt": "CrowdStrike Holdings (NasdaqGS:CRWD) agreed to acquire Zscaler in an all-stock deal valued at nearly US$44b. The transaction combines CrowdStrike's endpoint security business with Zscaler's network security and Zero Trust SASE offerings. Management expects the combination to create a broader AI-driven cybersecurity platform and expand CrowdStrike's addressable market. The planned US$44b all-stock acquisition of Zscaler is important, but investors should weigh CrowdStrike's wider risk picture...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-holdings-crwd-agreed-44-131349393.html?.tsrc=rss",
+   "published": "2026-11-23T13:13:49+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": [
+    "크라우드스트라이크가 440억 달러 규모의 질스칼러 인수 계약에 합의했다고 밝혔다.",
+    "경영진은 이번 거래로 AI 기반 보안 플랫폼을 확장하고 시장을 넓힐 것으로 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "4121c1583747d467",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Tech Futures, Nvidia Surge After Market Sell-Off; CrowdStrike Plunges On Zscaler Deal (Live Coverage)",
+   "excerpt": "Tech futures and Nvidia stock surge Monday after Friday's market sell-off. CrowdStrike plunges on its Zscaler deal.",
+   "url": "https://finance.yahoo.com/m/8751de70-467e-380a-82cb-f4ee42adc461/stock-market-today%3A-tech.html?.tsrc=rss",
+   "published": "2026-11-23T13:12:49+00:00",
+   "tickers": [
+    "NVDA",
+    "CRWD"
+   ],
+   "summary_ko": [
+    "금요일 시장 하락 이후 월요일 기술주 선물과 엔비디아 주가가 급등했다고 전했다.",
+    "반면 크라우드스트라이크는 질스칼러 인수 소식에 하락했다고 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "93e0b88e6721aff9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Eli Lilly (LLY) Acquires Huntington's Disease Drug Developer",
+   "excerpt": "Eli Lilly (NYSE: LLY) agreed to acquire UK based LoQus23 Therapeutics to advance an oral therapy for Huntington's disease. The deal gives Lilly access to LoQus23's targeted small molecule program that aims to address underlying drivers of Huntington's disease. The acquisition broadens Eli Lilly's neuroscience research footprint beyond its existing cardiometabolic and oncology focus areas. This move into Huntington's disease drug development sits alongside wider themes in our work on Eli...",
+   "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-acquires-huntingtons-131228184.html?.tsrc=rss",
+   "published": "2026-11-23T13:12:28+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": [
+    "일라이릴리가 헌팅턴병 치료제 개발사인 로쿠스23 테라퓨틱스를 인수하기로 합의했다.",
+    "이번 인수로 신경과학 연구 영역을 확장하고 표적 소분자 프로그램에 접근하게 되었다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "20eb48157a86dc8c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Does ExxonMobil (XOM) Gain From Its $4 Billion Angola Block 15 Bet?",
+   "excerpt": "ExxonMobil Holdings (NYSE:XOM) and partners approved a US$4b final investment decision to redevelop Angola’s offshore Block 15. The plan covers further development of existing infrastructure and progresses new hydrocarbon discoveries within the long producing deepwater block. The decision includes funding to support ongoing production commitments in Angola alongside development of recently identified resources in Block 15. The new US$4b redevelopment of Angola’s Block 15 feeds into a wider...",
+   "url": "https://finance.yahoo.com/energy/articles/does-exxonmobil-xom-gain-4-131137683.html?.tsrc=rss",
+   "published": "2026-11-23T13:11:37+00:00",
+   "tickers": [
+    "XOM"
+   ],
+   "summary_ko": [
+    "엑손모빌과 파트너들이 앙골라 해상 블록 15 재개발에 40억 달러 투자를 승인했다고 전했다.",
+    "기존 인프라 개발과 신규 탄화수소 발견 자원 개발을 진행할 계획이라고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "d597756534bdb142",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "US Probing Alice Huang, Megaspeed Amid Ties to Nvidia",
+   "excerpt": "The US is investigating Alice Huang, an alleged Chinese spy who had an affair Nvidia's former chief executive, Jensen Huang, Director of National Intelligence Jay Clayton said Sunday. Tyler Kendall reports on Bloomberg Television.",
+   "url": "https://finance.yahoo.com/video/us-probing-alice-huang-megaspeed-131135815.html?.tsrc=rss",
+   "published": "2026-11-23T13:11:35+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미국이 엔비디아 전 CEO와 연관된 중국인 앨리스 황을 조사 중이라고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "1f417c4a14a85c4a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Should Axon Stock Holders Watch This Shrinking Figure?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/axon/articles/627635/why-should-axon-stock-holders-watch-this-shrinking-figure/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T13:11:23+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "SEC 조사 보도와 함께 엔비디아 주가가 92달러까지 떨어질 수 있는지 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "6c4518b57fef3187",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Arm Chief Not Interested In Nvidia CEO Job",
+   "excerpt": "Arm CEO Rene Haas, a top candidate to replace Nvidia CEO Jensen Huang, has taken himself out of contention for the job.",
+   "url": "https://finance.yahoo.com/m/39566712-44c4-35ec-b8c9-1992f19c0624/arm-chief-not-interested-in.html?.tsrc=rss",
+   "published": "2026-11-23T13:10:55+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 CEO 후보로 거론되던 암(Arm)의 르네 하스 CEO가 후보직을 고사했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "28928e2b744f0f4a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Arm CEO Rene Haas Extends Tenure Through 2033 After Reports Said He Was Approached For Nvidia CEO Role",
+   "excerpt": "SoftBank Group is Arm's controlling shareholder, holding over 86% of the chip designer, according to the company’s latest filings.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/arm-ceo-rene-haas-extends-tenure-through-2033-after-nvidia-ceo-role-speculation/cNbpRxRR9jR?.tsrc=rss",
+   "published": "2026-11-23T13:10:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "암(Arm)의 르네 하스 CEO가 엔비디아 CEO 후보로 거론된 후 임기를 2033년까지 연장했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ba639f09c7603aa4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Scott Galloway: Jensen Believed Nvidia “Didn’t Need a Succession Plan.” Now It Trades at Half the Market’s Multiple",
+   "excerpt": "Key TakeawaysNVIDIA trades at 8. 7x forward earnings, about half the S&P 500’s multiple.",
+   "url": "https://www.tikr.com/blog/scott-galloway-jensen-believed-nvidia-didnt-need-a-succession-plan-now-it-trades-at-half-the-markets-multiple?ref=yahoofinance&tlnk=yf-261123-3j5945rq&.tsrc=rss",
+   "published": "2026-11-23T13:06:12+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 승계 계획이 없었다고 언급하며 현재 S&P 500 멀티플의 절반 수준에 거래된다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ebd0a06130dc9264",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What's Wrong With Alphabet Stock?",
+   "excerpt": "The tech stock has fallen more than 30% in just the past six months.",
+   "url": "https://www.fool.com/investing/2026/11/23/what-s-wrong-with-alphabet-stock/?.tsrc=rss",
+   "published": "2026-11-23T13:06:01+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "알파벳 주가가 지난 6개월 동안 30% 이상 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "d60203d9f5075966",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can D-Wave Stock Outlast Its $143 Million Cash Burn?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/qbts/articles/627677/can-d-wave-stock-outlast-its-143-million-cash-burn/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T13:05:50+00:00",
+   "tickers": [
+    "NVDA",
+    "QBTS"
+   ],
+   "summary_ko": [
+    "디웨이브의 현금 소진 문제와 함께 엔비디아 주가 하락 가능성을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "282b7be88637e079",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "US Equity Futures Rise Pre-Bell as Nvidia Starts Off Week Strong",
+   "excerpt": "US equity futures were higher pre-bell Monday as shares of artificial intelligence sector bellwether",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-130523697.html?.tsrc=rss",
+   "published": "2026-11-23T13:05:23+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 강세로 한 주를 시작하면서 월요일 개장 전 미국 주가지수 선물이 상승했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "877abd36edcb481e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Crowdstrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant",
+   "excerpt": "CrowdStrike is buying cloud security company Zscaler in an all-stock deal worth about $43.9 billion, the companies said Monday, in a major acquisition that combines two of the cybersecurity industry's biggest names.",
+   "url": "https://finance.yahoo.com/technology/articles/crowdstrike-acquire-zscaler-44-billion-130500925.html?.tsrc=rss",
+   "published": "2026-11-23T13:05:00+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": [
+    "크라우드스트라이크가 클라우드 보안 기업 질스칼러를 약 44억 달러에 인수한다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "95ed2e255c8c7c4d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Q.security Launches with $11.5M to Make Enterprise Cryptography Quantum-Safe",
+   "excerpt": "Founded by security veterans from Coinbase and Citi, Q.security delivers a business-first AI platform that runs post-quantum cryptography remediation as a program from discovery to completion. Q.security Co-Founders L-R - Nir Steinherz, CPO and Guy Peer, CEO New York, NY, Nov. 23, 2026 (GLOBE NEWSWIRE) -- Q.security, the provider of the business-first post-quantum cryptography (PQC) remediation platform, today announced its launch from stealth with $11.5 million in seed funding led by Castle Isl",
+   "url": "https://finance.yahoo.com/technology/ai/articles/q-security-launches-11-5m-130200356.html?.tsrc=rss",
+   "published": "2026-11-23T13:02:00+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스와 씨티그룹 출신들이 설립한 Q.security가 1,150만 달러의 시드 투자를 유치했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "3487e7d226a8b53f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Really Drove Curtiss-Wright Stock Higher?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/cw/articles/627695/what-really-drove-curtiss-wright-stock-higher/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T13:01:27+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "9ff788595c0355eb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is It Too Early To Buy Kratos Stock?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/ktos/articles/627690/is-it-too-early-to-buy-kratos-stock/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T13:01:27+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "039aa3fe40347df1",
    "kind": "news",
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
    "title": "Tesla's autonomy ambitions just got a Wall Street vote of confidence",
-   "excerpt": "Tesla just dropped a major update this is right up the alley of the bulls.",
+   "excerpt": "Tesla just dropped a major update that is right up the alley of the bulls.",
    "url": "https://finance.yahoo.com/markets/stocks/article/teslas-autonomy-ambitions-just-got-a-wall-street-vote-of-confidence-130035595.html?.tsrc=rss",
    "published": "2026-11-23T13:00:35+00:00",
    "tickers": [
     "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 2
+  },
+  {
+   "id": "448cf35e3a17ee06",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SATO's First AI Customer, Datum, Goes Live with NVIDIA B300 GPUs at Its Québec Datacenter",
+   "excerpt": "Initial deployment at SATO's hydro-powered Joliette site was handed over 22 days after signing and is now serving Datum's customersToronto, Ontario--(Newsfile Corp. - November 23, 2026) - SATO Technologies Corp. (TSXV: SATO) (OTCQB: CCPU.F) (\"SATO\" or the \"Company\") today announced that its operating subsidiary, Qritical AI Inc. (\"Qritical AI\"), has signed Datum Technology, Inc. (\"Datum\") as its first AI customer. Qritical AI and Datum entered into a master services agreement and an initial...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/satos-first-ai-customer-datum-130000087.html?.tsrc=rss",
+   "published": "2026-11-23T13:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "e4c91b06d7b1a1af",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "OnTrac Launches Tracking Integration with Shopify Ahead of the Holidays",
+   "excerpt": "OnTrac, the #1 Alternative Carrier Network, today announced expanded support within Shopify's native tracking experience. Merchants using OnTrac services can now see tracking events in Shopify, and consumers can follow them in the Shop app and shop.com, making multicarrier shipping simpler for both. Combined with OnTrac's 7-day/week network, which delivers up to 2 days faster than national carriers, the new tracking integration lets merchants display clearer, more accurate delivery estimates and",
+   "url": "https://finance.yahoo.com/small-business/articles/ontrac-launches-tracking-integration-shopify-130000098.html?.tsrc=rss",
+   "published": "2026-11-23T13:00:00+00:00",
+   "tickers": [
+    "SHOP"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "8d0924463f3279c1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Arm locks in CEO Rene Haas through 2033, ending Nvidia succession speculation",
+   "excerpt": "Investing.com -- Arm Holdings announced today that Chief Executive Officer Rene Haas has signed a new long-term agreement committing to lead the British chip designer through 2033, effectively taking one of the semiconductor industry’s top executives out of contention for the vacant chief executive role at Nvidia.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/arm-locks-ceo-rene-haas-125631742.html?.tsrc=rss",
+   "published": "2026-11-23T12:56:31+00:00",
+   "tickers": [
+    "NVDA",
+    "ARM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "4b7cead91c0887b2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Has Buying The Dip In Synopsys Stock Paid Off?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/snps/articles/627848/has-buying-the-dip-in-synopsys-stock-paid-off/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:54:55+00:00",
+   "tickers": [
+    "NVDA"
    ],
    "summary_ko": null,
    "tone": null,
@@ -31,7 +394,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "05150185f01808f8",
@@ -44,6 +407,22 @@
    "published": "2026-11-23T12:50:02+00:00",
    "tickers": [
     "RKLB"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 2
+  },
+  {
+   "id": "ca84956b01c4d2f5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trade Desk Stock Dips Paid Off, Until 2025",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/ttd/articles/627843/trade-desk-stock-dips-paid-off-until-2025/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:48:29+00:00",
+   "tickers": [
+    "NVDA"
    ],
    "summary_ko": null,
    "tone": null,
@@ -63,7 +442,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "6e9a557f8ea7794f",
@@ -76,6 +455,22 @@
    "published": "2026-11-23T12:44:24+00:00",
    "tickers": [
     "CRWD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 2
+  },
+  {
+   "id": "eb123ae3c854437a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Goldman Sachs Stock Falling?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/gs/articles/627828/why-is-goldman-sachs-stock-falling/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:44:09+00:00",
+   "tickers": [
+    "NVDA"
    ],
    "summary_ko": null,
    "tone": null,
@@ -95,7 +490,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "0ec609393763c6f3",
@@ -112,7 +507,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "f3335f79718fb112",
@@ -338,6 +733,21 @@
    "tone": null
   },
   {
+   "id": "43e0ff50d8a26b35",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nasdaq's Worst Week Since 2020: 5 AI Tech Stocks to Buy on the Dip",
+   "excerpt": "The Nasdaq's 10% weekly plunge has battered AI infrastructure stocks. VRT, WDC, SMCI, COHR and CLS could offer dip-buying opportunities.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaqs-worst-week-since-2020-121800378.html?.tsrc=rss",
+   "published": "2026-11-23T12:18:00+00:00",
+   "tickers": [
+    "SMCI"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "b4dda26e4b72a83a",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -386,6 +796,21 @@
    "tickers": [
     "NVDA",
     "TSM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "6ad521b0dbe7b6f2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Zacks Investment Ideas feature highlights: Anthropic, SpaceX and Meta Platforms",
+   "excerpt": "Anthropic's IPO opens 34% above its offer price, but SpaceX and Meta show why investors may need patience after high-profile tech debuts.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-121100413.html?.tsrc=rss",
+   "published": "2026-11-23T12:11:00+00:00",
+   "tickers": [
+    "META"
    ],
    "summary_ko": null,
    "tone": null
@@ -497,6 +922,25 @@
     "지스케러 주주들은 1주당 크라우드스트라이크 주식 1.135주를 받게 된다고 설명했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "6e01f70716b4f485",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart, Target, Anthropic, Amazon, Nvidia, Micron and Alphabet are part of Zacks Earnings Preview",
+   "excerpt": "Walmart and Target diverge in Q3 retail performance as sector earnings face cost pressures, while Nvidia, Micron and Alphabet shape S&P 500 growth expectations.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-anthropic-amazon-nvidia-120200850.html?.tsrc=rss",
+   "published": "2026-11-23T12:02:00+00:00",
+   "tickers": [
+    "NVDA",
+    "GOOGL",
+    "AMZN",
+    "MU",
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "341f3e60afbf5971",
@@ -78397,143 +78841,6 @@
     "로빈후드에서 엔비디아 직원 수가 젠슨 황의 사임 이후 업데이트되지 않아 문의 중이라고 언급했다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "0f802d4573baf202",
-   "kind": "youtube",
-   "source": "Stock Moe",
-   "author": "Stock Moe",
-   "title": "🚨 BUYING EVERY SHARE ‼️ 130,000 WANT HIM BACK!",
-   "excerpt": "1️⃣ *🚨 Trade $25 Get $50!* ➡ 2️⃣ *🚨 Save 40% code MOE is back!* ➡ 3️⃣ *🎁 FREE month of Earner Plus + 12 free fractional shares worth up to $3,600 from Webull* ➡ 4️⃣ *🚨Stock Moe's Free Sunday Edition Newsletter* 4️⃣ *🚨 Stock Moe's 4 Step Framework Learning Webinar* ➡ Webull Stock Moe Promotion Terms and Conditions: A petition to bring Jensen Huang back as NVIDIA's chief executive has passed 130,000 signatures. Elon Musk says he signed it. Two large shareholders wrote to the board asking them to consider it. And the Financial Times reported on Sunday that Huang himself has spoken to allies about returning. Meanwhile the board launched a formal CEO search, reportedly approached the chief executive of Arm, and hired Wachtell Lipton. Those two things point in opposite directions, and in this vi",
-   "url": "https://www.youtube.com/watch?v=40AIZEG3U7c",
-   "published": "2026-11-16T13:30:09+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 엔비디아 CEO 복귀를 요구하는 청원에 13만 명 이상이 서명했다고 전했다.",
-    "일론 머스크도 서명했으며 황 본인이 복귀를 논의했다는 보도가 나온 가운데 이사회는 CEO를 물색 중이라고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "22b336ffa5395b6c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is It Worth Investing in ASML (ASML) Based on Wall Street's Bullish Views?",
-   "excerpt": "According to the average brokerage recommendation (ABR), one should invest in ASML (ASML). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-asml-asml-based-133004138.html?.tsrc=rss",
-   "published": "2026-11-16T13:30:04+00:00",
-   "tickers": [
-    "ASML"
-   ],
-   "summary_ko": [
-    "월스트리트의 긍정적 전망을 바탕으로 ASML 투자 가치를 다뤘으나, 애널리스트 추천의 효과에 대해서는 의견이 갈린다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "107b1ea2d4b45277",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Novo Nordisk A/S - share repurchase programme",
-   "excerpt": "Novo Nordisk A/S – Share repurchase programme Bagsværd, Denmark, 16 November 2026 – On 6 May 2026, Novo Nordisk initiated a share repurchase programme in accordance with Article 5 of Regulation No 596/2014 of the European Parliament and Council of 16 April 2014 (MAR) and the Commission Delegated Regulation (EU) 2016/1052 of 8 March 2016 (the \"Safe Harbour Rules\"). This programme is part of the overall share repurchase programme of up to DKK 15 billion to be executed during a 12-month period begi",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-share-repurchase-programme-132400809.html?.tsrc=rss",
-   "published": "2026-11-16T13:24:00+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "summary_ko": [
-    "노보 노디스크는 규정에 따라 자사주 매입 프로그램을 진행 중이라고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0db25b4451abc151",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Seeking Clues to Walmart (WMT) Q3 Earnings? A Peek Into Wall Street Projections for Key Metrics",
-   "excerpt": "Get a deeper insight into the potential performance of Walmart (WMT) for the quarter ended October 2026 by going beyond Wall Street's top-and-bottom-line estimates and examining the estimates for some of its key metrics.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/seeking-clues-walmart-wmt-q3-131504572.html?.tsrc=rss",
-   "published": "2026-11-16T13:15:04+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월스트리트의 월마트 3분기 실적 전망과 주요 지표 추정치를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "995ebbd590d00c63",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Novo Nordisk (CPSE:NOVO B) Scores Phase 3 Win And EU Approval Across New Therapies",
-   "excerpt": "Novo Nordisk (CPSE:NOVO B) reported positive phase 3 results for its investigational obesity therapy CagriSema, supporting a future filing plan. The company received European Union approval for haemophilia A treatment FREHEMGO, with a launch planned in initial EU markets in 2026. Regulatory submissions for sickle cell disease therapy etavopivat were filed with both the US Food and Drug Administration and the European Medicines Agency. These CagriSema, FREHEMGO and etavopivat updates come...",
-   "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-131109220.html?.tsrc=rss",
-   "published": "2026-11-16T13:11:09+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "summary_ko": [
-    "노보 노디스크는 비만 치료제 카그리세마의 3상 긍정적 결과를 보고하고 신약들에 대한 EU 승인을 받았다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d20ffcc5b4872144",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "US Equity Futures Lower Pre-Bell as Traders Await Nvidia Results, Anthropic IPO",
-   "excerpt": "US equity futures were lower pre-bell Monday as traders anticipated the quarterly results of Nvidia",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-130956284.html?.tsrc=rss",
-   "published": "2026-11-16T13:09:56+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "트레이더들이 엔비디아 실적과 앤트로픽 IPO를 주시하는 가운데 미 증시 선물은 하락했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "da3c176f84c169ea",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Holiday Shipping Tests Where AI Should Hand Off to Human Support",
-   "excerpt": "Online sellers are entering peak holiday shipping with little room for carrier outages, damaged packages or stalled deliveries. Adobe forecasts a record $275.1 billion in U.S. online spending between November 1 and December 31 this year.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/holiday-shipping-tests-where-ai-130500930.html?.tsrc=rss",
-   "published": "2026-11-16T13:05:00+00:00",
-   "tickers": [
-    "ADBE"
-   ],
-   "summary_ko": [
-    "온라인 판매자들이 연말 쇼핑 시즌을 맞아 배송 차질에 대비하고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3d0074f8e3af21eb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Rivian may have an unexpected solution to high car prices",
-   "excerpt": "Rivian’s spinoff, Also, is ramping up shipments of a smaller electric vehicle built for shoppers who can’t afford new car prices.",
-   "url": "https://www.thestreet.com/investing/stocks/rivian-may-have-an-unexpected-solution-to-high-car-prices?.tsrc=rss",
-   "published": "2026-11-16T13:03:00+00:00",
-   "tickers": [
-    "RIVN"
-   ],
-   "summary_ko": [
-    "리비안의 스핀오프가 고가 차량에 부담을 느끼는 소비자를 위한 소형 전기차 출하를 늘리고 있다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
