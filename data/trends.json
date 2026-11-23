@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-23T03:30:34.097744+00:00",
+ "updated": "2026-11-23T04:00:36.553620+00:00",
  "trends": [
+  {
+   "ticker": "AAPL",
+   "name_ko": "애플",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 2,
+   "ratio": 5.0
+  },
   {
    "ticker": "JPM",
    "name_ko": "JP모건",
    "mentions_24h": 5,
    "mentions_prev_24h": 1,
    "ratio": 5.0
-  },
-  {
-   "ticker": "AAPL",
-   "name_ko": "애플",
-   "mentions_24h": 10,
-   "mentions_prev_24h": 3,
-   "ratio": 3.33
   },
   {
    "ticker": "COIN",
@@ -49,6 +49,13 @@
    "mentions_24h": 4,
    "mentions_prev_24h": 3,
    "ratio": 1.33
+  },
+  {
+   "ticker": "AMD",
+   "name_ko": "AMD",
+   "mentions_24h": 11,
+   "mentions_prev_24h": 11,
+   "ratio": 1.0
   },
   {
    "ticker": "COST",
@@ -100,13 +107,6 @@
    "ratio": 0.92
   },
   {
-   "ticker": "AMD",
-   "name_ko": "AMD",
-   "mentions_24h": 10,
-   "mentions_prev_24h": 11,
-   "ratio": 0.91
-  },
-  {
    "ticker": "TSLA",
    "name_ko": "테슬라",
    "mentions_24h": 12,
@@ -121,18 +121,18 @@
    "ratio": 0.85
   },
   {
+   "ticker": "NVDA",
+   "name_ko": "엔비디아",
+   "mentions_24h": 47,
+   "mentions_prev_24h": 56,
+   "ratio": 0.84
+  },
+  {
    "ticker": "META",
    "name_ko": "메타",
    "mentions_24h": 4,
    "mentions_prev_24h": 5,
    "ratio": 0.8
-  },
-  {
-   "ticker": "NVDA",
-   "name_ko": "엔비디아",
-   "mentions_24h": 46,
-   "mentions_prev_24h": 58,
-   "ratio": 0.79
   },
   {
    "ticker": "DELL",
