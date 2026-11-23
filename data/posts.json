@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-23T04:00:36.553620+00:00",
+ "updated": "2026-11-23T04:30:31.641139+00:00",
  "posts": [
+  {
+   "id": "3b5aea7c6a22858a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures Jump As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
+   "excerpt": "Futures loom as Oracle and South Korea try to calm market fears after the stock market worst week since Covid.",
+   "url": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures-jump-as.html?.tsrc=rss",
+   "published": "2026-11-23T04:15:50+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "오라클과 한국이 시장 불안을 완화하기 위해 나섰다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fea78707bc16bb29",
+   "kind": "youtube",
+   "source": "Solving The Money Problem",
+   "author": "Solving The Money Problem",
+   "title": "He's Back",
+   "excerpt": "► AG1 (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) ► My 20-year Tesla & SpaceX Valuation: ► Browse NEW Merch! ► Join Patreon: ► Subscribe on X (early access): ► UNLOCK 350+ Exclusive Videos: Want More Content? Early Access? My 20-year Tesla & SpaceX Valuation Model? Check the pinned comment! AFFILIATE DISCLOSURE: I earn a commission on every purchase made through my links. 🚀 SUPPORT THE CHANNEL ON PATREON ◆ Patreon BECOME A MEMBER OF THE CHANNEL ◆ Join CHANNEL MERCH ◆ Merch Store ◆ Don’t Bet Against Elon Mug ◆ Don’t Bet Against Elon Hat ◆ Don’t Bet Against Elon Tee ◆ Don’t Bet Against Elon Premium Hoodie AFFILIATES - Health/Wellness/Peak Performance ◆ AG1 (Comprehensive and Convenient Daily Nutrition) FREE Welcome Kit including Vitamin D3+K2 and AG1 Travel Packs AFFILIATE DISCLOSURE: I",
+   "url": "https://www.youtube.com/watch?v=WmgbTPHNxDU",
+   "published": "2026-11-23T04:15:17+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라와 스페이스X의 20년 가치 평가 모델을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "bb0bd72ac94b9d42",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump Throws His Weight Behind Jensen Huang’s Return As Nvidia CEO: ‘It Would Be The Best Thing For The Company’",
+   "excerpt": "“I hope the Board of Nvidia rehires Jensen Huang,” Trump posted on Truth Social on Sunday.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/trump-throws-his-weight-behind-jensen-huang-s-return-as-nvidia-ceo-it-would-be-the-best-thing-for-the-company/cNbY8mTR9S3?.tsrc=rss",
+   "published": "2026-11-23T04:13:37+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프가 젠슨 황의 엔비디아 CEO 복귀를 지지한다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "69e0ef0dded55d27",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "BTIG's Krinsky Says S&P 500 Bottom Unlikely While Apple Holds Near Highs",
+   "excerpt": "BTIG's Jonathan Krinsky says an S&P 500 bottom is unlikely while Apple sits near highs, citing a decade of data.",
+   "url": "https://beincrypto.com/sp-500-bottom-unlikely-apple-krinsky/?.tsrc=rss",
+   "published": "2026-11-23T04:00:00+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플이 고점 근처에 머무는 동안 S&P 500의 저점 형성은 어려울 수 있다고 진단했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "e7963ab84028925d",
    "kind": "news",
@@ -38,6 +106,23 @@
    "tone": "neu"
   },
   {
+   "id": "4646b64ec1d9248f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry on Nvidia Board? ‘Big Short’ Investor Jokes He’d ‘Volunteer’ as NVDA Stock Sinks 40%",
+   "excerpt": "Investor Michael Burry joked that he would volunteer for the boards of Nvidia Corp. (NASDAQ:NVDA) and Lululemon Athletica Inc. (NASDAQ:LULU), two beaten-down stocks, as the artificial intelligence chip giant reels from the scandal surrounding former CEO Jensen Huang. Stocks Deep in the Red Nvidia shares have slumped more than 40% over the past month and are down 33.53% year to date, while Lululemon is down 51.32% so far this year. “I would volunteer to be on $NVDA’s and $LULU’s board at this poi",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-nvidia-board-big-031945302.html?.tsrc=rss",
+   "published": "2026-11-23T03:19:45+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "마이클 베리가 주가 하락 속에서 엔비디아와 룰루레몬 이사회에 자원하겠다고 농담했다고 보도했다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "43df58f244583f60",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -54,6 +139,23 @@
     "그는 젠슨 황의 복귀 가능성은 낮게 전망했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "1a22b7713c37c5d6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Kevin O’Leary Says Nvidia CEO Colette Kress Is ‘Pretty Sharp,’ Chip Demand ‘Insatiable’: Crypto Bettors Weigh Jensen Huang Comeback Odds",
+   "excerpt": "Veteran investor Kevin O’Leary reiterated on Sunday that ousted CEO Jensen Huang is unlikely to return to NVIDIA Corp. (NASDAQ: NVDA), even as cryptocurrency bettors wagered heavily on the outcome. ‘Separate the Noise from the Opportunity’ O’Leary shared a clip from his NewsNation interview on X, where he ruled out Huang’s comeback but argued it is irrelevant to Nvidia’s fundamentals. “As an investor, you have to separate the noise from the opportunity. NVIDIA remains at the center of that race,",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/kevin-o-leary-says-nvidia-025309458.html?.tsrc=rss",
+   "published": "2026-11-23T02:53:09+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "케빈 오리어리가 젠슨 황의 복귀 가능성은 낮으나 펀더멘털은 여전히 탄탄하다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "549eb376f9193ff4",
@@ -78573,76 +78675,6 @@
     "오픈AI와 앤스로픽의 칩 주문이 구글 TPU 전망에 긍정적 영향을 준다고 분석가들이 언급했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "dd8beb3f878ae765",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SPCX Stock Climbs After Starship Catch — Musk Taunts Bezos, Boeing And Lockheed Martin For Trailing SpaceX",
-   "excerpt": "His remarks came hours after United Launch Alliance lost 40 Amazon satellites in a failed launch.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-starship-catch-musk-bezos-boeing-lockheed-martin-trailing-spacex/cNb7aYuR9X4?.tsrc=rss",
-   "published": "2026-11-16T04:19:57+00:00",
-   "tickers": [
-    "AMZN",
-    "BA"
-   ],
-   "summary_ko": [
-    "스페이스X의 스타십 회수 성공 이후 SPCX 주가가 상승했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "4b934bbc06193daf",
-   "kind": "youtube",
-   "source": "Solving The Money Problem",
-   "author": "Solving The Money Problem",
-   "title": "Elon Reveals INSANE New Starship Plan One Day After Historic Tower Catch",
-   "excerpt": "🚀🚀🚀 New Channel Launching Soon: 🚀🚀🚀 ► AG1 (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) ► My 20-year Tesla & SpaceX Valuation: ► Browse NEW Merch! ► Join Patreon: ► Subscribe on X (early access): ► UNLOCK 350+ Exclusive Videos: Want More Content? Early Access? My 20-year Tesla & SpaceX Valuation Model? Check the pinned comment! AFFILIATE DISCLOSURE: I earn a commission on every purchase made through my links. 🚀 SUPPORT THE CHANNEL ON PATREON ◆ Patreon BECOME A MEMBER OF THE CHANNEL ◆ Join CHANNEL MERCH ◆ Merch Store ◆ Don’t Bet Against Elon Mug ◆ Don’t Bet Against Elon Hat ◆ Don’t Bet Against Elon Tee ◆ Don’t Bet Against Elon Premium Hoodie AFFILIATES - Health/Wellness/Peak Performance ◆ AG1 (Comprehensive and Convenient Daily Nutrition) FREE Welcome Kit including Vitamin D3+K2 and AG1 ",
-   "url": "https://www.youtube.com/watch?v=gS2Gax1S-Ro",
-   "published": "2026-11-16T04:15:11+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "일론 머스크의 새로운 스타십 계획과 관련된 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "b60c7fd61fcdce58",
-   "kind": "reddit",
-   "source": "r/wallstreetbets",
-   "author": "/u/MapleDoodleDoo",
-   "title": "U.S Gov to Name Nvidia Among AI ‘National Champions’",
-   "excerpt": "“Nvidia will be one of more than two dozen companies designated artificial intelligence “national champions” as part of an effort by the Trump administration to help AI firms win business overseas, people familiar with the plans said.” submitted by /u/MapleDoodleDoo to r/wallstreetbets [link] [comments]",
-   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxfsqd/us_gov_to_name_nvidia_among_ai_national_champions/",
-   "published": "2026-11-16T04:09:57+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "트럼프 행정부가 엔비디아를 AI 내셔널 챔피언 중 하나로 지정할 것이라고 전해졌다.",
-    "이는 AI 기업들의 해외 사업 수주를 돕기 위한 노력의 일환이라고 보도됐다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "76c0eee3762b9e07",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Anthropic IPO, Nvidia Fallout in Focus; World Leaders Gather in Asia",
-   "excerpt": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Paul Allen and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. Chapters: 00:00:00 - Bloomberg: The Asia Trade begins 00:03:13 - Nvidia CEO search in focus as FT reports Jensen Huang discussing possible comeback 00:06:37 - World leaders gather in Manila for ASEAN summit 00:11:44 - China prepares to host APEC leaders in Shenzhen 00:17:37 - AMP's Diana Mousina on Asia economic outlook 00:26:13 - Foreign hardware founders rush to Shenzhen 00:30:15 - Eurasia Group's Jeremy Chan on US-China ties 00:36:42 - JAPAN AHEAD: Eurasia Group on Takaichi's trip ",
-   "url": "https://www.youtube.com/watch?v=pk3OPX7ZE1M",
-   "published": "2026-11-16T04:07:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황이 엔비디아 CEO 복귀 가능성을 논의 중이라는 보도가 집중 조명됐다."
-   ],
-   "tone": "neu"
   }
  ]
 }
