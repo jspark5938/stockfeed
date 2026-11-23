@@ -1,6 +1,342 @@
 {
- "updated": "2026-11-23T12:30:33.039947+00:00",
+ "updated": "2026-11-23T13:00:43.606383+00:00",
  "posts": [
+  {
+   "id": "039aa3fe40347df1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla's autonomy ambitions just got a Wall Street vote of confidence",
+   "excerpt": "Tesla just dropped a major update this is right up the alley of the bulls.",
+   "url": "https://finance.yahoo.com/markets/stocks/article/teslas-autonomy-ambitions-just-got-a-wall-street-vote-of-confidence-130035595.html?.tsrc=rss",
+   "published": "2026-11-23T13:00:35+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "50a0961a683767ab",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Colette Kress Could Win Nvidia’s CEO Job by Default. Jay Goldberg Thinks That’s a Risk",
+   "excerpt": "Colette Kress has been interim CEO of Nvidia Corp. (NASDAQ:NVDA) for less than two weeks, but Seaport Research Partners analyst Jay Goldberg sees a potential danger if she performs well over the next few months: the board could end up...",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63523606/colette-kress-could-win-nvidias-ceo-job-by-default-jay-goldberg-thinks-thats-a-risk?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "published": "2026-11-23T12:54:12+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "05150185f01808f8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Rocket Lab Just Raised Prices on a Rocket It Hasn't Launched Yet. Here's What That Means for SpaceX.",
+   "excerpt": "Rocket Lab hasn't launched a single Neutron rocket yet, but it just jacked up its launch price by 27%.",
+   "url": "https://www.fool.com/investing/2026/11/23/rocket-lab-raised-prices-rocket-launch-what-means-spacex/?.tsrc=rss",
+   "published": "2026-11-23T12:50:02+00:00",
+   "tickers": [
+    "RKLB"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "17180e7596740ee7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel CEO Lip-Bu Tan Has Incredible News for Investors. Is This the Much-Needed Catalyst for the Stock?",
+   "excerpt": "Intel could make a dent in the lucrative foundry market following the addition of its first external customer.",
+   "url": "https://www.fool.com/investing/2026/11/23/intel-ceo-lip-bu-tan-has-incredible-news-for-investors-is-this-the-much-needed-catalyst-for-the-stock/?.tsrc=rss",
+   "published": "2026-11-23T12:47:02+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "6e9a557f8ea7794f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Premarket movers: Chip stocks lead AI rebound; CrowdStrike falls",
+   "excerpt": "nvesting.com - U.S. stock index futures rallied on Monday, as investors stepped in to buy beaten-down technology shares following a bruising week on Wall Street that pushed all three major equity benchmarks into correction territory. A sharp rebound in semiconductor and artificial intelligence-related stocks helped lift sentiment, while a major cybersecurity acquisition added to the premarket activity.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-chip-stocks-lead-124424524.html?.tsrc=rss",
+   "published": "2026-11-23T12:44:24+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "ce1912708afaee15",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "When Did Nvidia Buyers Break Even After 30% Falls?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/nvda/articles/627664/when-did-nvidia-buyers-break-even-after-30-falls/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:39:53+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "0ec609393763c6f3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Could Tesla Stock Really Fall To $140?",
+   "excerpt": "Tesla stock closed at $345.82 on Friday, Nov 20, down 7.6% in one day. US stocks fell that day in a sell-off in artificial intelligence stocks. Nvidia dropped 14.0%, and the S&P 500 lost 3.7.",
+   "url": "https://www.trefis.com/stock/tsla/articles/627621/could-tesla-stock-really-fall-to-140/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:39:53+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f3335f79718fb112",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "This Week In Digital Payment - Tech Boosts Nonprofit Fundraising Through Finix-LifeMoves Partnership",
+   "excerpt": "Finix, a full-stack payment processor, has partnered with LifeMoves, a leading nonprofit tackling homelessness in Silicon Valley, to enhance donor payment systems. This collaboration allows LifeMoves to gain full control over its donor journey, reduce transaction costs, and implement modern payment solutions, including mobile giving and expanded digital options like Apple Pay and Google Pay. The partnership also aims to streamline donor management and further personalize the donation...",
+   "url": "https://finance.yahoo.com/technology/articles/week-digital-payment-tech-boosts-123740312.html?.tsrc=rss",
+   "published": "2026-11-23T12:37:40+00:00",
+   "tickers": [
+    "AAPL",
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "1f9b2419a44a3f2d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Musk Says Teslas Will Tap “Grok’s Real-Time X Feed.” Another Tie Between Tesla and SpaceX",
+   "excerpt": "Key TakeawaysElon Musk says Tesla’s cars will combine shared traffic data with Grok’s real-time X feed, a product SpaceX owns. Uber and Lyft would have a hard time matching it, since their robotaxis come from partners like Avride and Waymo.",
+   "url": "https://www.tikr.com/blog/musk-says-teslas-will-tap-groks-real-time-x-feed-another-tie-between-tesla-and-spacex?ref=yahoofinance&tlnk=yf-261123-7rcmfjxq&.tsrc=rss",
+   "published": "2026-11-23T12:36:24+00:00",
+   "tickers": [
+    "TSLA",
+    "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "19471bdec577af78",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Gavin Baker Says “Consolidation Is Probably Coming” for Neoclouds That Can’t Get Prepayments. Here’s Who Can",
+   "excerpt": "Key TakeawaysGavin Baker says consolidation is probably coming for neoclouds that can’t win customer prepayments and rely entirely on private credit. CoreWeave and IREN are clearly winning prepayments, Nebius likely is too, and Microsoft is prepaying 20% of IREN’s contract.",
+   "url": "https://www.tikr.com/blog/gavin-baker-says-consolidation-is-probably-coming-for-neoclouds-that-cant-get-prepayments-heres-who-can?ref=yahoofinance&tlnk=yf-261123-wj6664v4&.tsrc=rss",
+   "published": "2026-11-23T12:36:20+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "fa4cc1a98995e201",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Boss of British chip firm rules out taking Nvidia top job",
+   "excerpt": "The chief executive of British tech giant Arm has ruled himself out of replacing Jensen Huang at Nvidia.",
+   "url": "https://uk.finance.yahoo.com/news/boss-british-chip-firm-rules-123559953.html?.tsrc=rss",
+   "published": "2026-11-23T12:35:59+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "d499cd63d97e34ea",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intuit Stock Fell 13% On A Small Cut. Is Software's Subscription Model Breaking?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/intu/articles/627442/intuit-stock-fell-13-on-a-small-cut-is-software-s-subscription-model-breaking/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:35:51+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "cedeaf2bcc366368",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did Palantir Stock Fall?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/pltr/articles/627801/why-did-palantir-stock-fall/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:35:51+00:00",
+   "tickers": [
+    "NVDA",
+    "PLTR"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "6a7be1a50123a24c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "V2X Expands Collaboration with Microsoft to Advance the Next Generation of AI-Powered Mission Operations",
+   "excerpt": "V2X, Inc. (NYSE: VVX) is excited to announce an expanded collaboration with Microsoft to advance the next generation of AI-powered mission operations. Building on an established relationship, the collaboration combines V2X's operational and engineering expertise with Microsoft Foundry and Microsoft Fabric to accelerate innovation, strengthen readiness and address evolving mission requirements.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/v2x-expands-collaboration-microsoft-advance-122800926.html?.tsrc=rss",
+   "published": "2026-11-23T12:28:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "2b5f0d5fa189d5ae",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Sent NVIDIA Stock Lower On Friday?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/nvda/articles/627754/what-sent-nvidia-stock-lower-on-friday/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:27:08+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f3ee92d3feb7b87a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did Rocket Lab Stock Fall Again?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/rklb/articles/627720/why-did-rocket-lab-stock-fall-again/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:27:08+00:00",
+   "tickers": [
+    "NVDA",
+    "RKLB"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "9c7f648172cebdfd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Just Happened To Applied Digital Stock?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/apld/articles/627717/what-just-happened-to-applied-digital-stock/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:22:51+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "e5e30eab91df4d18",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did Palo Alto Networks Stock Jump?",
+   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://www.trefis.com/stock/panw/articles/627574/why-did-palo-alto-networks-stock-jump/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:22:51+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1c886f0430e09b9d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Eli Lilly joins Huntington’s race on $725m LoQus23 takeover",
+   "excerpt": "LoQus23 hopes to take LQT-23 to the clinic in the near future as the Huntington’s community awaits a disease-modifying therapy.",
+   "url": "https://www.pharmaceutical-technology.com/news/eli-lilly-725m-loqus23-takeover-huntingtons-disease/?.tsrc=rss",
+   "published": "2026-11-23T12:22:29+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "894c8058b0a0c899",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia’s Legal Bill Could Run to “Low Billions,” Says DA Davidson. It Earned $65 Billion Last Quarter",
+   "excerpt": "Key TakeawaysDA Davidson sees NVIDIA’s legal settlements at hundreds of millions to low billions of dollars. NVIDIA earns about $5 billion a week, roughly the top of that range.",
+   "url": "https://www.tikr.com/blog/nvidias-legal-bill-could-run-to-low-billions-says-da-davidson-it-earned-65-billion-last-quarter?ref=yahoofinance&tlnk=yf-261123-cqfm83rr&.tsrc=rss",
+   "published": "2026-11-23T12:20:18+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "80de3cea9e4bf351",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Arm CEO Extends Contract Through 2033 After Nvidia Approach",
+   "excerpt": "Arm Holdings Plc Chief Executive Officer Rene Haas, approached as a potential successor to Nvidia Corp.'s Jensen Huang, has extended his contract to stay in his current role leading the chip designer through 2033.",
+   "url": "https://finance.yahoo.com/technology/articles/arm-ceo-extends-contract-2033-121906056.html?.tsrc=rss",
+   "published": "2026-11-23T12:19:06+00:00",
+   "tickers": [
+    "NVDA",
+    "ARM"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
   {
    "id": "b4dda26e4b72a83a",
    "kind": "news",
@@ -37,6 +373,22 @@
     "두 기업 모두 인공지능 수요가 공급을 초과한다고 언급했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "6ea4ca803eecbc48",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TSMC Falls Less, But Nvidia Comes Back First",
+   "excerpt": "US stocks fell on Friday, Nov 20, in a sell-off in artificial intelligence stocks. The S&P 500 dropped 3.7%. Chip stocks fell harder. Nvidia lost 14.0% and Taiwan Semiconductor Manufacturing (TSMC) lost 9.5.",
+   "url": "https://www.trefis.com/stock/tsm/articles/627560/tsmc-falls-less-but-nvidia-comes-back-first/2026-11-23?.tsrc=rss",
+   "published": "2026-11-23T12:14:23+00:00",
+   "tickers": [
+    "NVDA",
+    "TSM"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "9e2ebf7e411cb2be",
@@ -92,6 +444,22 @@
     "SEC 조사 보도와 엔비디아 주가 하락 가능성을 언급했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "d93670f00c438643",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell and Super Micro Want Up to 45% More for AI Servers Already Under Contract. Dell Reports Tuesday",
+   "excerpt": "Key TakeawaysDell, Super Micro, Hewlett Packard Enterprise and Lenovo are reportedly asking for 25% to 45% more on AI servers already under contract. Reopening signed contracts shows real pricing power, which protects thin margins: Dell’s latest gross margin was 21.",
+   "url": "https://www.tikr.com/blog/dell-and-super-micro-want-up-to-45-more-for-ai-servers-already-under-contract-dell-reports-tuesday?ref=yahoofinance&tlnk=yf-261123-2hwh29jj&.tsrc=rss",
+   "published": "2026-11-23T12:05:38+00:00",
+   "tickers": [
+    "SMCI",
+    "DELL"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "7d38a880ce7c8dbc",
@@ -238,6 +606,22 @@
    "tone": "neu"
   },
   {
+   "id": "a65178c3ebd1d33c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Zacks Analyst Blog Highlights Coca-Cola, UnitedHealth, Palo Alto Networks, Natural Resource Partners and Bank of the James Financial",
+   "excerpt": "Coca-Cola, UnitedHealth and Palo Alto Networks headline Zacks research, while microcaps Natural Resource Partners and Bank of the James show notable gains.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-coca-115100862.html?.tsrc=rss",
+   "published": "2026-11-23T11:51:00+00:00",
+   "tickers": [
+    "PANW",
+    "UNH"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "e292b7f61d1e2679",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -305,6 +689,21 @@
     "에스앤피 500 지수가 조정 장세에 진입한 후 제이피모간 트레이딩 부서는 신중한 입장을 취하고 있다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "249e2d9c6f3cd4b0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Will PANW's Applied Compute Acquisition Boost Its AI Security Growth?",
+   "excerpt": "Palo Alto Networks' $4.5B Applied Compute acquisition aims to accelerate AI security growth, but near-term margin pressure and rising costs pose challenges.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/panws-applied-compute-acquisition-boost-114600255.html?.tsrc=rss",
+   "published": "2026-11-23T11:46:00+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "122e7dec68bd0127",
@@ -463,6 +862,21 @@
     "램리서치 주가의 동인에 대해 다루면서 엔비디아 관련 SEC 조사 보도를 언급했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "8605c01a11d4c1f6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla Makes an Unsafe Pitch to Senior Drivers Clinging to Car Keys",
+   "excerpt": "The company is increasingly promoting its driver-assistance features to aging consumers.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/tesla-makes-unsafe-pitch-senior-113009926.html?.tsrc=rss",
+   "published": "2026-11-23T11:30:09+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "15114923a86e489c",
@@ -78118,212 +78532,6 @@
    ],
    "summary_ko": [
     "리비안의 스핀오프가 고가 차량에 부담을 느끼는 소비자를 위한 소형 전기차 출하를 늘리고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "7cd12e9dbd68c289",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Here is What to Know Beyond Why NIO Inc. (NIO) is a Trending Stock",
-   "excerpt": "Recently, Zacks.com users have been paying close attention to NIO (NIO). This makes it worthwhile to examine what the stock has in store.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-nio-inc-130005299.html?.tsrc=rss",
-   "published": "2026-11-16T13:00:05+00:00",
-   "tickers": [
-    "NIO"
-   ],
-   "summary_ko": [
-    "니오가 최근 사용자들 사이에서 주목받는 종목이라고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e9c268316a165c9a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Eli Lilly and Company (LLY) is Attracting Investor Attention: Here is What You Should Know",
-   "excerpt": "Lilly (LLY) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-company-lly-attracting-130005731.html?.tsrc=rss",
-   "published": "2026-11-16T13:00:05+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "summary_ko": [
-    "일라이 릴리가 최근 투자자들의 많은 관심을 받고 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "039876acc61388c8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Investors Heavily Search Snowflake Inc. (SNOW): Here is What You Need to Know",
-   "excerpt": "Zacks.com users have recently been watching Snowflake (SNOW) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-snowflake-inc-130004326.html?.tsrc=rss",
-   "published": "2026-11-16T13:00:04+00:00",
-   "tickers": [
-    "SNOW"
-   ],
-   "summary_ko": [
-    "스노우플레이크가 최근 투자자들로부터 많은 검색과 관심을 받고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "476720ceb2bbca9b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "ExxonMobil Holdings Corporation (XOM) Is a Trending Stock: Facts to Know Before Betting on It",
-   "excerpt": "Exxon (XOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-holdings-corporation-xom-trending-130004383.html?.tsrc=rss",
-   "published": "2026-11-16T13:00:04+00:00",
-   "tickers": [
-    "XOM"
-   ],
-   "summary_ko": [
-    "엑슨모빌이 최근 주목받는 종목이라며 향후 전망을 살펴볼 필요가 있다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ad4998b39a8bb5be",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Investors Heavily Search Robinhood Markets, Inc. (HOOD): Here is What You Need to Know",
-   "excerpt": "Robinhood Markets (HOOD) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-robinhood-markets-130003547.html?.tsrc=rss",
-   "published": "2026-11-16T13:00:03+00:00",
-   "tickers": [
-    "HOOD"
-   ],
-   "summary_ko": [
-    "로빈후드 마켓이 최근 사용자들의 큰 관심을 받고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ab5c2872cdffa040",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Investors Heavily Search Rigetti Computing, Inc. (RGTI): Here is What You Need to Know",
-   "excerpt": "Zacks.com users have recently been watching Rigetti Computing (RGTI) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-rigetti-computing-130003131.html?.tsrc=rss",
-   "published": "2026-11-16T13:00:03+00:00",
-   "tickers": [
-    "RGTI"
-   ],
-   "summary_ko": [
-    "투자자들이 리게티 컴퓨팅(RGTI)에 큰 관심을 보였다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0046668f0955b41b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "ASML reports transactions under its current share buyback program",
-   "excerpt": "ASML reports transactions under its current share buyback program VELDHOVEN, the Netherlands – ASML Holding N.V. (ASML) reports the following transactions, conducted under ASML's current share buyback program. DateTotal repurchased sharesWeighted average priceTotal repurchased value09-Nov-2675,799€1,324.03€100,360,17310-Nov-2670,000€1,355.01€94,850,64411-Nov-2670,000€1,394.30€97,600,70612-Nov-2670,000€1,367.67€95,737,11013-Nov-2640,000€1,350.70€54,028,084 ASML’s current share buyback program was",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/asml-reports-transactions-under-current-130000950.html?.tsrc=rss",
-   "published": "2026-11-16T13:00:00+00:00",
-   "tickers": [
-    "ASML"
-   ],
-   "summary_ko": [
-    "ASML이 자사주 매입 프로그램에 따른 거래 내역을 보고했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "cbe56c4b90f09943",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart Expands Price Rollbacks: Can WMT Sustain Share Gains?",
-   "excerpt": "Walmart expands price rollbacks to more than 11,000, reinvesting tariff refunds to boost affordability and sustain market share gains, particularly in grocery.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-expands-price-rollbacks-wmt-125700662.html?.tsrc=rss",
-   "published": "2026-11-16T12:57:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트(WMT)가 가격 인하를 확대하고 관세 환급금을 재투자한다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a7b157b41706523d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Salesforce vs. Oracle: Which AI Cloud Stock Is the Smarter Pick Now?",
-   "excerpt": "CRM vs. ORCL: Both stocks trade at similar valuations, but stronger AI monetization, earnings growth and lower capital intensity give CRM the edge.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-vs-oracle-ai-cloud-125300625.html?.tsrc=rss",
-   "published": "2026-11-16T12:53:00+00:00",
-   "tickers": [
-    "ORCL",
-    "CRM"
-   ],
-   "summary_ko": [
-    "세일즈포스(CRM)가 오라클(ORCL)보다 AI 수익화와 실적 성장 면에서 우위에 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "749058601e44c3cc",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/MakingMoneyIsMe",
-   "title": "\"Nvidia Has No Insurance for Lawsuits\"",
-   "excerpt": "I created a post last week about buying the dip, but as I continue to peel back layers, I settled for a synthetic long, which I luckily couldn't deploy due to inflated call premiums. I'm starting to feel like there might be more shoes to drop. Everyone is still quite focused on AI demand, and that could be clouding the judgement of many. Nvidia reportedly not carrying insurance for major lawsuits is huge, and means any big legal hit comes straight out of pocket. Then there's the circular financing. Nvidia invests in startups and cloud companies that turn around and spend that cash on Nvidia chips. It's disclosed and legal, so it's not outright fraud, but it starts to feel like cooking the books a little and makes me wonder how much of their earnings are actually real demand versus self-fun",
-   "url": "https://www.reddit.com/r/stocks/comments/1xxogxr/nvidia_has_no_insurance_for_lawsuits/",
-   "published": "2026-11-16T12:46:15+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 주요 소송에 대한 보험이 없어 법적 리스크가 부담될 수 있다고 주장했다.",
-    "순환 자금 조달 방식으로 인해 실제 수요가 부풀려졌을 가능성을 제기했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "7ccbae13d817cf32",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Amazon Just Lost 40 Leo Satellites. The Bigger Problem Is the Rocket It Booked 38 Launches On",
-   "excerpt": "Forty satellites vanished in minutes, yet Wall Street barely blinked. The real damage sits in a launch schedule with few backup rockets, a 2029 regulatory clock, and a rival that happens to be one of Amazon's own launch providers.",
-   "url": "https://247wallst.com/investing/2026/11/16/amazon-just-lost-40-leo-satellites-the-bigger-problem-is-the-rocket-it-booked-38-launches-on/?.tsrc=rss",
-   "published": "2026-11-16T12:40:36+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존(AMZN)이 레오 위성 40대를 손실했으며, 발사체 일정과 규제 등의 문제가 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c17413f107371a27",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Can RKLB's 100th Electron Launch Strengthen Its Market Position?",
-   "excerpt": "Rocket Lab's record-setting 100th Electron launch highlights its growing launch activity, repeat customer demand and expansion plans despite a premium valuation.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/rklbs-100th-electron-launch-strengthen-124000686.html?.tsrc=rss",
-   "published": "2026-11-16T12:40:00+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "로켓랩(RKLB)의 100번째 일렉트론 발사가 시장 지위 강화를 조명했다고 다뤘다."
    ],
    "tone": "pos"
   }
