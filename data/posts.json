@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:00:43.061187+00:00",
+ "updated": "2026-11-23T00:30:30.108973+00:00",
  "posts": [
   {
    "id": "60d3634c70cf5519",
@@ -755,6 +755,24 @@
     "Databricks와 OpenAI 등의 향후 상장 전망을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "239da657caee4a20",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tech and AI Sentiment, Thanksgiving and Other Key Things to Watch this Week",
+   "excerpt": "Wall Street heads into Thanksgiving week bruised after another brutal selloff in tech and AI stocks. Nvidia beat estimates, yet the stock reversed lower the next day. Anthropic soared in its record debut but closed well off its opening price. Markets close Thursday for Thanksgiving and shut early at 1:00pm Friday.",
+   "url": "https://www.barchart.com/story/news/8956898/tech-and-ai-sentiment-thanksgiving-and-other-key-things-to-watch-this-week?.tsrc=rss",
+   "published": "2026-11-22T18:00:03+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "월스트리트는 기술주와 AI 주의 거센 매도세 이후 추수감사절 주간을 맞이했다고 전했다.",
+    "엔비디아가 예상을 웃도는 실적을 냈음에도 주가는 다음 날 하락 반전했다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "bcb4236a630409f6",
@@ -79035,41 +79053,6 @@
    "summary_ko": [
     "엔비디아의 역사적 매도세와 AI 거래의 향방을 논의했다.",
     "AMD와 애플이 수혜를 보고 있는 이유 등을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0a01e756ed83a773",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Advanced Micro Devices (AMD) Deepens Quantum Push With New Research And Commercial Ties",
-   "excerpt": "Advanced Micro Devices (NasdaqGS:AMD) expanded its quantum computing work through new and extended partnerships with PsiQuantum, IBM and Oak Ridge National Laboratory. The collaboration with PsiQuantum focuses on applying hybrid quantum and classical computing to commercial use cases that include drug discovery. AMD is working with IBM and Oak Ridge National Laboratory on a co-design approach aimed at practical quantum error correction for future fault-tolerant systems. AMD's deeper ties...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-deepens-001906359.html?.tsrc=rss",
-   "published": "2026-11-16T00:19:06+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "AMD가 PsiQuantum, IBM 등과의 파트너십을 통해 양자 컴퓨팅 협력을 확대했다고 다뤘다.",
-    "신약 개발 등의 상업적 활용과 양자 오류 정정을 위한 공동 설계 접근 방식을 다루고 있다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "2bc5a0fbf0248d7d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Costco's $13 billion move challenges its core promise",
-   "excerpt": "The warehouse club usually guards every dollar, but this time the money is headed somewhere members can’t follow.",
-   "url": "https://www.thestreet.com/retail/costcos-13-billion-choice-could-rub-members-the-wrong-way?.tsrc=rss",
-   "published": "2026-11-16T00:17:00+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코의 130억 달러 규모의 행보가 핵심 약속에 도전 과제가 되고 있다고 다뤘다."
    ],
    "tone": "neu"
   }

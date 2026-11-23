@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:00:43.061187+00:00",
+ "updated": "2026-11-23T00:30:30.108973+00:00",
  "trends": [
   {
    "ticker": "JPM",
@@ -44,10 +44,10 @@
    "ratio": 1.33
   },
   {
-   "ticker": "GOOGL",
-   "name_ko": "알파벳(구글)",
-   "mentions_24h": 13,
-   "mentions_prev_24h": 13,
+   "ticker": "MSFT",
+   "name_ko": "마이크로소프트",
+   "mentions_24h": 11,
+   "mentions_prev_24h": 11,
    "ratio": 1.0
   },
   {
@@ -86,13 +86,6 @@
    "ratio": 1.0
   },
   {
-   "ticker": "MSFT",
-   "name_ko": "마이크로소프트",
-   "mentions_24h": 11,
-   "mentions_prev_24h": 12,
-   "ratio": 0.92
-  },
-  {
    "ticker": "AMD",
    "name_ko": "AMD",
    "mentions_24h": 9,
@@ -110,22 +103,22 @@
    "ticker": "WMT",
    "name_ko": "월마트",
    "mentions_24h": 7,
-   "mentions_prev_24h": 9,
-   "ratio": 0.78
+   "mentions_prev_24h": 8,
+   "ratio": 0.88
+  },
+  {
+   "ticker": "GOOGL",
+   "name_ko": "알파벳(구글)",
+   "mentions_24h": 12,
+   "mentions_prev_24h": 14,
+   "ratio": 0.86
   },
   {
    "ticker": "AMZN",
    "name_ko": "아마존",
-   "mentions_24h": 17,
-   "mentions_prev_24h": 22,
-   "ratio": 0.77
-  },
-  {
-   "ticker": "NVDA",
-   "name_ko": "엔비디아",
-   "mentions_24h": 44,
-   "mentions_prev_24h": 63,
-   "ratio": 0.7
+   "mentions_24h": 16,
+   "mentions_prev_24h": 21,
+   "ratio": 0.76
   },
   {
    "ticker": "TSLA",
@@ -133,6 +126,13 @@
    "mentions_24h": 11,
    "mentions_prev_24h": 16,
    "ratio": 0.69
+  },
+  {
+   "ticker": "NVDA",
+   "name_ko": "엔비디아",
+   "mentions_24h": 43,
+   "mentions_prev_24h": 63,
+   "ratio": 0.68
   },
   {
    "ticker": "META",
