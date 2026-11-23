@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-23T03:00:43.734556+00:00",
+ "updated": "2026-11-23T03:30:34.097744+00:00",
  "posts": [
+  {
+   "id": "e7963ab84028925d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead",
+   "excerpt": "This company is driving AI, but it's a lot more.",
+   "url": "https://www.fool.com/investing/2026/11/22/worried-about-nvidia-buy-this-fantastic-artificial-intelligence-ai-stock-instead/?.tsrc=rss",
+   "published": "2026-11-23T03:20:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 대신 투자할 수 있는 인공지능 관련 종목을 다뤘다.",
+    "이 기업이 인공지능 분야를 이끌고 있으며 그 이상의 가치가 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "cc730649485f42d3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Comcast vs. Walt Disney: Which Media Stock Is a Better Buy?",
+   "excerpt": "Comcast's cash machine and Disney's prized franchises pull in opposite directions, and the valuation gap between them is hard to ignore.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/22/comcast-vs-walt-disney-which-media-stock-is-a-better-buy/?.tsrc=rss",
+   "published": "2026-11-23T03:20:02+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": [
+    "컴캐스트와 월트 디즈니 중 어느 미디어 주식이 더 나은 선택인지 다뤘다.",
+    "두 기업의 상반된 사업 특징과 밸류에이션 차이를 조명했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "43df58f244583f60",
    "kind": "news",
@@ -35,6 +71,40 @@
     "엔비디아 주식이 2008년 금융위기 수준의 하락세를 기록했다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "b1bd193059cb247c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Did Dell Grow From $56 Billion To $151 Billion In 20 Years?",
+   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
+   "published": "2026-11-23T02:44:11+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "델의 지난 20년간의 성장 과정을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0d178ee4da3c4b49",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon Spent $1.82 For Every $1 Of Cash Last Quarter. Can It Keep Going?",
+   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://www.trefis.com/stock/amzn/articles/627456/amazon-spent-1-82-for-every-1-of-cash-last-quarter-can-it-keep-going/2026-11-22?.tsrc=rss",
+   "published": "2026-11-23T02:44:11+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존이 지난 분기 동안 벌어들인 현금 대비 지출 규모를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "febe4d7cafea4657",
@@ -78678,110 +78748,6 @@
     "인텔 주가가 29% 급락한 이후 주주들로부터 소송을 당했다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "10daecca3870701e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Asian chip stocks slide ahead of Nvidia earnings",
-   "excerpt": "Investing.com-- Asian semiconductor stocks fell on Monday as investors trimmed exposure to artificial intelligence-related shares ahead of Nvidia's quarterly earnings, with uncertainty surrounding the chipmaker's leadership transition adding to concerns over the sustainability of the AI investment boom.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/asian-chip-stocks-slide-ahead-032730415.html?.tsrc=rss",
-   "published": "2026-11-16T03:27:30+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 실적 발표와 리더십 전환 불확실성을 앞두고 아시아 반도체 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "082b9586560e0b46",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Amazon vs. Target: Which Stock Is the Better Portfolio Addition?",
-   "excerpt": "Amazon's cloud and retail empire faces off against Target's curated shelves, but the valuation gap may settle the debate before the strategies do.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/15/amazon-vs-target-which-stock-is-the-better-portfolio-addition/?.tsrc=rss",
-   "published": "2026-11-16T03:20:02+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존과 타겟의 포트폴리오 편입 적합성을 밸류에이션과 사업 구조를 중심으로 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c005fb01db456846",
-   "kind": "reddit",
-   "source": "r/StockMarket",
-   "author": "/u/Illustrious_Lie_954",
-   "title": "Nvidia’s Jensen Huang Scandal Meets a Bigger Question: Is the AI Empire Too Dependent on One Man?",
-   "excerpt": "Nvidia's story is becoming more complicated than its extraordinary financial success. The newspaper report highlights allegations involving CEO Jensen Huang, including relationships with at least two women one reportedly an Nvidia client suspected of having links to Chinese intelligence, and another described as a direct report. These are serious allegations, not established proof of espionage, but they raise questions about corporate governance, executive conduct and potential national security exposure. Huang's reported departure also puts leadership succession under the spotlight. But the financial data in the report makes this situation even more interesting. The graphs reveal several important trends: Market capitalisation: Nvidia went from being outside the top tier of global compani",
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xxes57/nvidias_jensen_huang_scandal_meets_a_bigger/",
-   "published": "2026-11-16T03:16:31+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO 젠슨 황과 관련된 의혹이 제기되며 AI 제국의 리더십 의존도에 대한 의문을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "a670ac16d0ffd82c",
-   "kind": "reddit",
-   "source": "r/investing",
-   "author": "/u/Specialist-Elk2716",
-   "title": "Is there any real reason to hold several S&P 500 funds instead of one? What are the tradeoffs of consolidating?",
-   "excerpt": "I’m 24 and newer to investing. I ended up with a Roth IRA at Fidelity that has the following: SPY: $3,781 SWPPX: $3,042 VOO: $2,780 IVV: $1,520 FXAIX: $1,004 AAPL: $2,075 GOOG: $1,171 AMZN: $1,067 About 74% is five funds that all track the S&P 500, and about 26% is three individual stocks that are also S&P 500 holdings. I’ve been reading about consolidating the funds into one, such as FXAIX. The fee difference looks tiny (about $4 a year at this size), so the appeal seems to be simplicity, with one holding and automatic deposits going to one place. I’d like to hear how people think about a few things: Is there any real downside to holding several S&P 500 funds instead of one, or is it just clutter? Besides being Fidelity-only, is there a reason not to use FXAIX as the single S&P holding in",
-   "url": "https://www.reddit.com/r/investing/comments/1xxes2k/is_there_any_real_reason_to_hold_several_sp_500/",
-   "published": "2026-11-16T03:16:25+00:00",
-   "tickers": [
-    "AAPL",
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "여러 개의 S&P 500 추종 펀드를 하나로 통합하는 것의 실효성과 장단점에 대한 고민을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d8330d99f44bc347",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia (NVDA) Is Under Multiple US Justice Department Investigations",
-   "excerpt": "Nvidia (NasdaqGS:NVDA) is facing multiple US Department of Justice probes, including antitrust scrutiny of its AI infrastructure business. The US Department of Justice investigations coincide with growing bipartisan Congressional interest in Nvidia's role in advanced chip exports and data center hardware. Former CEO Jensen Huang is set to appear voluntarily before the US Senate, with testimony expected to address AI supply chains and security concerns. Rising US DOJ investigations and...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-under-multiple-us-031144320.html?.tsrc=rss",
-   "published": "2026-11-16T03:11:44+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 미국 법무부의 반독점 조사를 비롯한 여러 건의 조사를 받고 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "9625e1ec1d98c37e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Coinbase Global (COIN) Is Upgrading Custody After 35% Of Bitcoin Was Flagged At Risk",
-   "excerpt": "Coinbase Global (NasdaqGS:COIN) is overhauling its custody protocols after new data flagged quantum risks to a large Bitcoin pool. Researchers now estimate that more than 35% of Bitcoin’s total supply could be exposed to future quantum decryption attacks. A sizeable portion of this at-risk Bitcoin is held in Coinbase-linked wallets, prompting a shift toward post-quantum security standards. While quantum-exposed Bitcoin holdings are the focus today, Coinbase’s broader business story stretches...",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-upgrading-custody-031124707.html?.tsrc=rss",
-   "published": "2026-11-16T03:11:24+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "코인베이스가 비트코인 공급량의 상당 부분이 양자 컴퓨팅 위험에 노출될 수 있다는 연구 결과에 따라 커스터디 프로토콜을 개편한다고 밝혔다."
-   ],
-   "tone": "neu"
   }
  ]
 }
