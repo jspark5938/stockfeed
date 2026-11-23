@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:51:07.549370+00:00",
+ "updated": "2026-11-23T10:00:40.782277+00:00",
  "posts": [
   {
    "id": "79b3af86d52bb736",
@@ -52,6 +52,24 @@
     "뱅크오브아메리카와 관련된 변동금리 확정 건을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "25fadc139c458099",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Sees 1929’s and 2000’s “Lack of a Proximate Cause in Earnings.” Nvidia’s Estimates Keep Rising",
+   "excerpt": "Key TakeawaysMichael Burry says the AI selloff shares 1929’s and 2000’s “lack of a proximate cause in earnings,” and Nvidia fits. The whole drop has come from Nvidia’s multiple, now 8.",
+   "url": "https://www.tikr.com/blog/michael-burry-sees-1929s-and-2000s-lack-of-a-proximate-cause-in-earnings-nvidias-estimates-keep-rising?ref=yahoofinance&tlnk=yf-261123-rg89fg6v&.tsrc=rss",
+   "published": "2026-11-23T09:35:24+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "마이클 버리는 AI 매도세가 1929년 및 2000년과 유사하다고 주장했다.",
+    "엔비디아의 하락은 실적 원인이 아닌 멀티플 하락에서 비롯되었다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "a2ba8be0b4520b6f",
@@ -78476,96 +78494,6 @@
    "summary_ko": [
     "마이클 델은 엔비디아 H100 대여 비용이 1년 동안 58% 상승했다고 밝혔다.",
     "코어위브 역시 지난 분기 구형 엔비디아 칩 가격이 30%에서 50% 올랐다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "044f380f45c1595e",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Nvidia Fallout Puts ASEAN's Tech Boom in Focus",
-   "excerpt": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. Chapters: 00:01:59 - Huang discusses comeback as Nvidia chief with allies: FT 00:05:30 - Nvidia saga looms over ASEAN summit 00:06:02 - Teneo Managing Director Bob Herrera-Lim on US chip export curbs 00:12:27 - Bob Herrera-Lim on ASEAN balancing US and Chinese technology interests 00:17:37 - Canadian International Trade Minister Maninder Sidhu on pursuing more business with China 00:23:17 - Canadian International Trade Minister Maninder Sidhu on pursuing more business with China 00:24:59 - China prepares to host APEC leader",
-   "url": "https://www.youtube.com/watch?v=M6_MGnSvoAY",
-   "published": "2026-11-16T10:00:03+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황이 동맹들과 엔비디아 CEO 복귀를 논의했다는 보도가 나왔다.",
-    "엔비디아 관련 사안이 아세안 정상회의의 주요 관심사로 다뤄졌다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "284ef927ee46cdb5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump is headed to China this week. Jensen Huang won't be on the trip, but Elon Musk will.",
-   "excerpt": "President Trump is traveling to Asia for meetings on trade and other economic issues, but with the ongoing scandal at Nvidia hanging over the journey.",
-   "url": "https://finance.yahoo.com/economy/article/trump-is-headed-to-china-this-week-jensen-huang-wont-be-on-the-trip-but-elon-musk-will-100000732.html?.tsrc=rss",
-   "published": "2026-11-16T10:00:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "트럼프 대통령이 무역 및 경제 논의를 위해 아시아를 방문할 예정이라고 다뤘다.",
-    "엔비디아를 둘러싼 스캔들이 여전히 남아 있는 상태라고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0e8db4bc4c0b5310",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
-   "excerpt": "The startup, which also just disclosed an up to $1.2 billion partnership with Sanofi, is backed by Versant, MPM BioImpact, Eli Lilly and Novartis’ venture arm.",
-   "url": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/?.tsrc=rss",
-   "published": "2026-11-16T10:00:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "summary_ko": [
-    "명문 투자자들이 DNA 치료제 개발사인 시울프에 1억 달러를 투자했다고 다뤘다.",
-    "이 스타트업은 사노피와의 대규모 파트너십도 공개했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "8a669053a62240f9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Intel Facing Class Suit Over Impacts of PC Slowdown",
-   "excerpt": "Intel (INTC) is facing a class action suit filed by a shareholder group, alleging that the company m",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-facing-class-suit-over-095706041.html?.tsrc=rss",
-   "published": "2026-11-16T09:57:06+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔이 PC 경기 둔화 영향과 관련해 주주 그룹으로부터 집단소송을 당했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "f8cb078329ab15a5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump Backs a Hollywood Tax Break So Movies “Must Stay in America.” Netflix and Disney Could Gain",
-   "excerpt": "Key TakeawaysPresident Trump backed a bipartisan bill that would give US film and TV productions a 20% federal tax credit on labor costs. A credit would lower what Netflix and Disney pay to film in the US, helping cash flow and margins.",
-   "url": "https://www.tikr.com/blog/trump-backs-a-hollywood-tax-break-so-movies-must-stay-in-america-netflix-and-disney-could-gain?ref=yahoofinance&tlnk=yf-261116-9x4j4cjp&.tsrc=rss",
-   "published": "2026-11-16T09:53:21+00:00",
-   "tickers": [
-    "NFLX",
-    "DIS"
-   ],
-   "summary_ko": [
-    "트럼프 대통령이 미국 내 영화 및 TV 제작에 20% 세액 공제를 제공하는 법안을 지지했다고 다뤘다.",
-    "넷플릭스와 디즈니가 이로 인해 비용을 절감하고 현금 흐름에 도움을 받을 수 있다고 전했다."
    ],
    "tone": "pos"
   }
