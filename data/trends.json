@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:00:37.499696+00:00",
+ "updated": "2026-11-24T04:30:35.846785+00:00",
  "trends": [
   {
    "ticker": "CRWD",
@@ -25,9 +25,9 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 533,
-   "mentions_prev_24h": 50,
-   "ratio": 10.66
+   "mentions_24h": 537,
+   "mentions_prev_24h": 52,
+   "ratio": 10.33
   },
   {
    "ticker": "MU",
@@ -107,13 +107,6 @@
    "ratio": 5.67
   },
   {
-   "ticker": "ORCL",
-   "name_ko": "오라클",
-   "mentions_24h": 20,
-   "mentions_prev_24h": 4,
-   "ratio": 5.0
-  },
-  {
    "ticker": "ASML",
    "name_ko": "ASML",
    "mentions_24h": 5,
@@ -142,22 +135,8 @@
    "ratio": 4.5
   },
   {
-   "ticker": "PANW",
-   "name_ko": "팔로알토",
-   "mentions_24h": 13,
-   "mentions_prev_24h": 3,
-   "ratio": 4.33
-  },
-  {
    "ticker": "ADBE",
    "name_ko": "어도비",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 1,
-   "ratio": 4.0
-  },
-  {
-   "ticker": "PFE",
-   "name_ko": "화이자",
    "mentions_24h": 4,
    "mentions_prev_24h": 1,
    "ratio": 4.0
@@ -168,6 +147,13 @@
    "mentions_24h": 4,
    "mentions_prev_24h": 0,
    "ratio": 4.0
+  },
+  {
+   "ticker": "ORCL",
+   "name_ko": "오라클",
+   "mentions_24h": 19,
+   "mentions_prev_24h": 5,
+   "ratio": 3.8
   },
   {
    "ticker": "WMT",
@@ -198,11 +184,11 @@
    "ratio": 3.5
   },
   {
-   "ticker": "TSLA",
-   "name_ko": "테슬라",
-   "mentions_24h": 41,
-   "mentions_prev_24h": 12,
-   "ratio": 3.42
+   "ticker": "NFLX",
+   "name_ko": "넷플릭스",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 3,
+   "ratio": 3.33
   },
   {
    "ticker": "JPM",
@@ -210,6 +196,20 @@
    "mentions_24h": 16,
    "mentions_prev_24h": 5,
    "ratio": 3.2
+  },
+  {
+   "ticker": "TSLA",
+   "name_ko": "테슬라",
+   "mentions_24h": 41,
+   "mentions_prev_24h": 13,
+   "ratio": 3.15
+  },
+  {
+   "ticker": "PANW",
+   "name_ko": "팔로알토",
+   "mentions_24h": 12,
+   "mentions_prev_24h": 4,
+   "ratio": 3.0
   },
   {
    "ticker": "COST",
@@ -289,13 +289,6 @@
    "ratio": 2.57
   },
   {
-   "ticker": "NFLX",
-   "name_ko": "넷플릭스",
-   "mentions_24h": 10,
-   "mentions_prev_24h": 4,
-   "ratio": 2.5
-  },
-  {
    "ticker": "AMD",
    "name_ko": "AMD",
    "mentions_24h": 27,
@@ -308,6 +301,13 @@
    "mentions_24h": 29,
    "mentions_prev_24h": 12,
    "ratio": 2.42
+  },
+  {
+   "ticker": "AAPL",
+   "name_ko": "애플",
+   "mentions_24h": 24,
+   "mentions_prev_24h": 11,
+   "ratio": 2.18
   },
   {
    "ticker": "APP",
@@ -338,18 +338,18 @@
    "ratio": 2.0
   },
   {
-   "ticker": "AAPL",
-   "name_ko": "애플",
-   "mentions_24h": 23,
-   "mentions_prev_24h": 12,
-   "ratio": 1.92
-  },
-  {
    "ticker": "BABA",
    "name_ko": "알리바바",
    "mentions_24h": 5,
    "mentions_prev_24h": 3,
    "ratio": 1.67
+  },
+  {
+   "ticker": "PFE",
+   "name_ko": "화이자",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 2,
+   "ratio": 1.5
   },
   {
    "ticker": "META",
