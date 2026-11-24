@@ -1,6 +1,97 @@
 {
- "updated": "2026-11-24T05:30:31.484369+00:00",
+ "updated": "2026-11-24T05:59:26.383138+00:00",
  "posts": [
+  {
+   "id": "7386ee59f2cdb951",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang is back at Nvidia. What does it mean for Europe's AI stocks?",
+   "excerpt": "Europe's chip stocks rallied after Nvidia reinstated Jensen Huang as CEO, with Donald Trump cheering the board's decision. But Nokia, ASML and other AI names have only recovered part of what they lost during his absence.View on euronews",
+   "url": "https://www.euronews.com/2026/11/24/jensen-huang-is-back-at-nvidia-what-does-it-mean-for-europes-ai-stocks?.tsrc=rss",
+   "published": "2026-11-24T05:52:50+00:00",
+   "tickers": [
+    "NVDA",
+    "ASML"
+   ],
+   "summary_ko": [
+    "엔비디아의 젠슨 황 복귀 소식에 유럽의 반도체 주식들이 반등했다고 전했다.",
+    "다만 노키아와 ASML 등은 CEO 부재 중 입은 손실을 완전히 회복하지는 못했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "34e7e319afab59a4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 AI Infrastructure Stocks Retail Investors Are Watching After Nvidia Shares Jump",
+   "excerpt": "AI infrastructure is back in the spotlight after Nvidia shares jumped about 29% in premarket trading on Jensen Huang’s reinstatement as CEO, pulling the S&P 500 and Nasdaq up around 4.7% and 6.5%. That kind of snapback tends to pull money toward companies wired into AI chips and data centers and away from others. This piece walks through three AI hardware related stocks exposed to that story and explains why their setups now matter for your portfolio decisions. The three stocks covered below...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-retail-052634911.html?.tsrc=rss",
+   "published": "2026-11-24T05:26:34+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 주가 급등과 CEO 복귀 이후 AI 인프라 종목들이 다시 주목받고 있다고 다뤘다.",
+    "이러한 반등세가 AI 칩과 데이터센터 관련 기업으로 자금을 끌어들이고 있다고 설명했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "c4935ad11717db33",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Luceco And 2 Other British Penny Stocks To Own",
+   "excerpt": "Asian shares have just climbed after a Wall Street rebound linked to Jensen Huang’s return as Nvidia CEO, and that surge in risk appetite is spilling over into smaller stocks globally. For UK investors, this spotlight on higher growth themes is pushing interest towards lower priced shares where balance sheets still matter. This article highlights three financially focused penny stocks that screen for stronger fundamentals within this higher volatility backdrop. The three stocks highlighted...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/luceco-2-other-british-penny-052613190.html?.tsrc=rss",
+   "published": "2026-11-24T05:26:13+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 CEO 복귀에 따른 월스트리트 반등이 글로벌 소형주로 확산되고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "507739bcf953286e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027?",
+   "excerpt": "Innodata's revenue grew nearly 48% last year, while IonQ's quantum hardware sales surged even faster, though its losses tell a very different story.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/24/innodata-vs-ionq-is-the-artificial-intelligence-or-quantum-computing-stock-the-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-24T05:22:14+00:00",
+   "tickers": [
+    "IONQ"
+   ],
+   "summary_ko": [
+    "이노데이터의 작년 매출이 48% 가까이 성장했다고 다뤘다.",
+    "아이온큐의 양자 하드웨어 매출도 급증했으나 손실 규모는 다른 양상을 보였다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "b124a9cd731800f3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Proto Labs Stock After Board Appointment What Frank Klein Could Mean",
+   "excerpt": "Proto Labs appointed Frank Klein to its Board of Directors in November 2026, adding a leader with decades of global manufacturing and operations experience across Rocket Lab, Rivian, Magna Steyr, and Daimler. Klein’s background in scaling high volume production and managing complex supply chains aligns closely with Proto Labs’ push into regulated, higher requirement digital manufacturing programs across the full product life cycle. We will look at how Proto Labs’ investment narrative shifts...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/proto-labs-stock-board-appointment-051825892.html?.tsrc=rss",
+   "published": "2026-11-24T05:18:25+00:00",
+   "tickers": [
+    "RKLB",
+    "RIVN"
+   ],
+   "summary_ko": [
+    "프로토 랩스가 로켓랩과 리비안 등에서 경력을 쌓은 프랭크 클라인을 이사로 선임했다고 다뤘다.",
+    "그의 제조 및 공급망 관리 경험이 규제된 디지털 제조 프로그램 추진과 맞닿아 있다고 설명했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "5ea0391847b17fc8",
    "kind": "news",
@@ -84230,23 +84321,6 @@
    ],
    "summary_ko": [
     "엔비디아와 젠슨 황을 둘러싼 상황이 계속해서 격화되고 관련 최신 보도들이 나오고 있음을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7a5f959848155684",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "BABA Nears 2-Year Low Before Earnings — Wall Street Sees 104% Upside, But Michael Burry Is Watching Its AI Rival For Profit Clues",
-   "excerpt": "Burry said he will avoid Baidu shares, though he watches Baidu for clues on AI profitability.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/baba-earnings-wall-street-upside-michael-burry-rival-profit-clues/cNbal4cR9gU?.tsrc=rss",
-   "published": "2026-11-17T05:47:42+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바가 실적 발표를 앞둔 가운데 월가는 상승 여력을 보이고 있으나 마이클 버리는 AI 경쟁사를 주시하고 있다고 다뤘다."
    ],
    "tone": "neu"
   }
