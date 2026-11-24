@@ -1,6 +1,95 @@
 {
- "updated": "2026-11-24T02:30:32.192096+00:00",
+ "updated": "2026-11-24T03:00:43.100303+00:00",
  "posts": [
+  {
+   "id": "4c7d75f8181cc501",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang’s Return Won’t End California Probe Into Nvidia’s China Activities, Attorney General Reportedly Says: Crypto Bettors Don’t See an Arrest",
+   "excerpt": "California Attorney General Rob Bonta’s office said on Monday that NVIDIA Corp. (NASDAQ:NVDA) CEO Jensen Huang’s return to his role will not end the state’s investigation into the chipmaker’s China-related activities. Huang Investigation Will Continue A spokesperson for Bonta’s office...",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63567819/jensen-huang-nvidia-ceo-california-attorney-general-polymarket?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "published": "2026-11-24T02:53:37+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캘리포니아주 법무부 장관실은 젠슨 황 CEO의 복귀에도 중국 관련 조사는 계속될 것이라고 밝혔다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2b4d93f34520b9f1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Nvidia’s turmoil a sign of systemic risk?",
+   "excerpt": "The firing and reinstatement of embattled Nvidia CEO Jensen Huang has caused dramatic fluctuations in the stock market and raised concerns of a selloff on the horizon. Experts are mixed on whether the risk to the broader financial system is contained.",
+   "url": "https://www.americanbanker.com/news/is-nvidia-s-turmoil-a-sign-of-systemic-risk?.tsrc=rss",
+   "published": "2026-11-24T02:42:29+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 CEO의 해임과 복귀가 시장 변동성을 키우고 매도 우려를 낳았다고 다뤘다.",
+    "금융 시스템에 미칠 위험성에 대해서는 전문가들의 의견이 엇갈린다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a26b4624b5d5125d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tech firms soar as Huang's return reinvigorates AI trade",
+   "excerpt": "Technology firms rocketed Tuesday as Asia joined a global stock surge following the reinstatement of Jensen Huang as Nvidia boss less than two weeks after stepping down over extramarital affairs including with an alleged Chinese spy.Just this weekend, The New York Times added further details to the allegations, saying Alice Huang had been in touch with China's top spy agency during the secret affair.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/tech-firms-soar-huangs-return-023753159.html?.tsrc=rss",
+   "published": "2026-11-24T02:37:53+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 복귀로 AI 관련주가 글로벌 증시에서 상승세를 보였다고 다뤘다.",
+    "보도에 따르면 사생활 논란과 관련된 추가적인 내용도 함께 언급되었다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "0cc313863f0372d3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang’s Return As Nvidia CEO Sparks AI Stock Rally, But Congressional Probes Loom – And Analysts See Risks Ahead",
+   "excerpt": "NVDA stock rallied over 31 after the company reinstated Huang as CEO.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-s-return-as-nvidia-ceo-sparks-ai-stock-rally-but-congressional-probes-loom-and-analysts-see-risks-ahead/cNbrt2TR9ju?.tsrc=rss",
+   "published": "2026-11-24T02:35:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 엔비디아 CEO 복귀 이후 AI 주가가 급등했다고 전했다.",
+    "다만 의회 조사 등이 남아 있어 애널리스트들은 향후 위험을 주시하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "36a7cd54867727cb",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Jensen Huang returns as Nvidia CEO after board reversal",
+   "excerpt": "Jensen Huang has returned as Nvidia CEO after a scandal that sent the entire stock market tumbling, amid questions about three alleged affairs and how restricted AI chips got to China. President Donald Trump told CNBC he helped persuade Nvidia’s board to reinstate Huang, who walked back in to Nvidia’s California headquarters to cheers and “Jensen” chants Monday. Shares surged on the news, as investigations and upcoming congressional interviews leave questions about Nvidia’s future unresolved.",
+   "url": "https://www.youtube.com/watch?v=ZmkSZtN_ieM",
+   "published": "2026-11-24T02:35:24+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "스캔들로 물러났던 젠슨 황이 엔비디아 CEO로 복귀했다고 전했다.",
+    "트럼프 대통령이 복귀를 도왔다고 밝혔으며, 조사와 의회 면담 등 불확실성은 남아 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "b1a7aba99ecf7567",
    "kind": "news",
@@ -32,6 +121,24 @@
    ],
    "summary_ko": [
     "제슨 황의 엔비디아 CEO 복귀로 AI 투자 심리가 회복되면서 한국과 대만을 중심으로 아시아 반도체 주가가 급등했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "16c999ceaf03af37",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Rocket Lab (RKLB) Is Up 9.2% And What's Next After $515 Million Launch Orders",
+   "excerpt": "Rocket Lab secured more than US$515 million in Neutron launch contracts covering eight missions, alongside a record US$268 million in third quarter 2026 revenue and a 52% increase in launch backlog. The ability to raise Neutron and Electron pricing while still booking 54 launches in the quarter points to tight small launch capacity and reinforces Rocket Lab's role as a key provider rather than a niche player. The next area of focus will be how Rocket Lab's expanded Neutron backlog reshapes...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-9-021346011.html?.tsrc=rss",
+   "published": "2026-11-24T02:13:46+00:00",
+   "tickers": [
+    "RKLB"
+   ],
+   "summary_ko": [
+    "로켓랩이 5억 1,500만 달러 규모의 계약을 확보했다고 다뤘다.",
+    "3분기 사상 최대 매출과 수주 잔고 증가가 소형 발사 시장에서의 입지를 보여준다고 전했다."
    ],
    "tone": "pos"
   },
@@ -208,6 +315,24 @@
     "제슨 황의 복귀가 실리콘밸리 본사에서 환영받으며 AI 핵심 인물로서의 입지를 굳혔다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "59f1fefee2527db0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "'He's Not Quite a God': Palmer Luckey Opens Up About Facebook Firing, Explains Why He'd Still Make a Deal With Mark Zuckerberg",
+   "excerpt": "Anduril Industries Founder Palmer Luckey says former Oculus executives, rather than Meta Platforms, Inc. CEO Mark Zuckerberg, were responsible for his 2017 departure from Facebook. However, he remains open to partnering with Meta for U.S. military applications. Palmer Luckey Says...",
+   "url": "https://finance.yahoo.com/technology/articles/hes-not-quite-god-palmer-013007219.html?.tsrc=rss",
+   "published": "2026-11-24T01:30:07+00:00",
+   "tickers": [
+    "META"
+   ],
+   "summary_ko": [
+    "앤두릴 창업자 팔머 루키는 2017년 페이스북 퇴사가 저커버그가 아닌 오큘러스 임원들 때문이었다고 밝혔다.",
+    "미국 군사 애플리케이션 분야에서 메타와 다시 협력할 의향이 있다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3ea89b9b103656a5",
@@ -3061,6 +3186,24 @@
    "summary_ko": [
     "엔비디아의 반등이 갭업 상승 이후 첫 시험대에 직면했다고 다뤘다.",
     "차익 실현 위험이 다소 높아졌으며 뉴스 주도 랠리의 열기가 일부 식었다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "281b595ce80a2c6c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dear Dell Stock Fans, Mark Your Calendars for November 24",
+   "excerpt": "Dell is scheduled to report its fiscal Q3 earnings on Nov. 24. Could the quarterly print provide the much-needed catalyst to drive DELL shares higher again? Let’s find out.",
+   "url": "https://www.barchart.com/story/news/8971295/dear-dell-stock-fans-mark-your-calendars-for-november-24?.tsrc=rss",
+   "published": "2026-11-23T20:43:38+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "델이 11월 24일에 3분기 실적을 발표할 예정이라고 전했다.",
+    "이번 실적이 주가 상승의 촉매제가 될 수 있을지 주목된다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -6060,9 +6203,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "미국 정부 고위 관료들과의 논의를 거쳐 젠슨 황이 사임 11일 만에 복귀했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "eb0c14fb38d6859b",
@@ -6076,9 +6220,10 @@
    "tickers": [
     "HOOD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "지난 분기 동안 로빈후드 주식을 두고 대형 펀드들의 매수와 매도가 엇갈렸다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f4fb62556a91b31a",
@@ -6093,9 +6238,10 @@
     "MSFT",
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "인텔이 마이크로소프트를 고객으로 확보했으나, 희소 자재 수급이라는 과제가 남아 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "6b9a05f92ceb8c7f",
@@ -6110,9 +6256,11 @@
     "TSLA",
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "테슬라가 일부 고객을 대상으로 FSD v15 배포를 시작했다고 전했다.",
+    "제이피모간은 이를 자율주행 분야의 우위를 보여주는 사례로 평가했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "eca21f2369796551",
@@ -6126,9 +6274,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "젠슨 황의 복귀로 엔비디아를 비롯한 AI 관련주들이 반등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "32387ac70fda0d26",
@@ -6143,9 +6292,10 @@
     "NVDA",
     "PLTR"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아 CEO 복귀 소식에 힘입어 팔런티어를 비롯한 AI 관련 주가가 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7d14bd7ee399ab0d",
@@ -6159,9 +6309,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "메타 주가 하락의 원인과 함께 SEC 조사 보도 및 엔비디아 주가 전망을 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "0f8ac01ecf496b85",
@@ -6175,9 +6326,10 @@
    "tickers": [
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "120억 달러 규모의 펀드가 3분기에 알파벳, 웨스턴디지털, 온세미컨덕터를 전량 매도했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "5f5aec3ff6a127f6",
@@ -6192,9 +6344,10 @@
     "NVDA",
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아의 최고경영자 복귀 소식과 함께 칩 관련 주가가 반등하면서 마이크론 주가가 급등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7e1408361e991d54",
@@ -6246,9 +6399,10 @@
     "GOOGL",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "미사일과 AI 칩에 쓰이는 니오븀을 미국이 전량 수입하고 있으며, 관련 기업이 탐사 권한을 보유하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "9b0e4426b7319be3",
@@ -6263,9 +6417,10 @@
     "NVDA",
     "AAPL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "최고경영자 복귀에 대한 낙관론 속에서 엔비디아의 시가총액이 4조 달러를 넘어서며 세계 2위 기업이 되었다고 보도했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "559eb1abc57dcaef",
@@ -6313,9 +6468,10 @@
     "AMD",
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "인공지능 붐 속에서 델의 매출이 지난 2년간 AMD를 지속적으로 앞서왔다고 비교했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "beb679bf351ed9a7",
@@ -6345,9 +6501,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "지난 분기 동안 다수의 대형 펀드가 아마존 주식을 매수한 반면 일부 펀드는 매도했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e4da1afb681d2262",
@@ -6361,9 +6518,10 @@
    "tickers": [
     "SOFI"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "소파이 테크놀로지스의 회원 수 증가와 대출 수익 호조가 매출 성장 전망을 뒷받침하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ec202eaea712f14e",
@@ -6377,9 +6535,10 @@
    "tickers": [
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "12억 달러 규모의 펀드가 3분기 리비안, 아카마이, 로블록스를 신규 편입하거나 비중을 늘렸다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2e5238d533ba84e6",
@@ -6426,8 +6585,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 이사회가 젠슨 황을 CEO로 재선임하면서 주가가 급등세를 보였다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "63f2029452044fce",
@@ -6441,8 +6602,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "여러 대형 펀드가 지난 분기 엔비디아 포지션을 늘렸으나, 이후 주가는 하락했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "271f226599e940eb",
@@ -6456,8 +6619,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 엔비디아 복귀가 매그니피센트 7 종목들에 미치는 영향과 승패를 분석했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b532ccc7db3a5780",
@@ -6471,8 +6636,10 @@
    "tickers": [
     "BABA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "주주들이 알리바바를 상대로 주가 부당 인상을 주장하며 소송을 제기했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "94caab812158a8f7",
@@ -6503,8 +6670,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 복귀가 긍정적인 평가와 정치적 반발을 동시에 불러일으켰다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "bbc4afa46be12ee8",
@@ -6518,8 +6687,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "아마존이 트레니움 칩 판매를 준비하며 데카르트의 AI 최적화 기술을 인수했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "078d809b14855d79",
@@ -6533,8 +6704,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "이사회의 결정으로 젠슨 황이 엔비디아 CEO로 복귀했으며 이에 따라 주가가 반등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "cafbce4dcfccb743",
@@ -6548,8 +6721,10 @@
    "tickers": [
     "PFE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "화이자(PFE)가 일본과 캐나다에서 코로나19 백신 특허 소송에 직면했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "798ba3b4afeda9f0",
@@ -6563,8 +6738,10 @@
    "tickers": [
     "BA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "보잉(BA)이 공중 전자전 시장 확대에 따라 주요 계약자로 주목받고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "d98977fbcddeb65d",
@@ -6578,8 +6755,10 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "크라우드스트라이크가 즈스케러(ZS)를 약 439억 달러에 인수하기로 합의했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "29cfee2aaffb3a8d",
@@ -6593,8 +6772,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 이사회는 젠슨 황을 CEO로 전격 복귀시켰다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "97aae85d50d6769c",
@@ -6608,8 +6789,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 엔비디아 CEO 복귀 소식에 주가가 급등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "fbc8f11ce83806b8",
@@ -6623,8 +6806,10 @@
    "tickers": [
     "COST"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "비상용 발전기 매진 사태와 비상 용품 수요 급증 현상을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "dfecc4e1a59d1a4d",
@@ -6638,8 +6823,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 이슈가 부각되는 동안에도 높은 금리가 여전히 시장의 문제라고 지적했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "a02211efda080b90",
@@ -6653,8 +6840,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO 복귀 소식 이전 코스피 하락 속 삼성전자 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "10128d8e0ee6ab84",
@@ -6669,8 +6858,10 @@
     "NVDA",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 리더십 재정비 속에서 AMD 주가가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6c1d52893f8cf51f",
@@ -6684,8 +6875,10 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "크라우드스트라이크가 즈스케러 인수를 발표한 후 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "3d8a9271d5aca2a7",
@@ -6700,8 +6893,10 @@
     "NVDA",
     "QCOM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 관련 소식으로 칩 주식이 반등하며 퀄컴 주가도 올랐다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7f2e2c44f95b882f",
@@ -6718,8 +6913,10 @@
     "RGTI",
     "QBTS"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 젠슨 황 복귀가 양자 관련 주가 상승을 이끌었다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a176a090c2fbbccb",
@@ -6735,8 +6932,10 @@
     "TSLA",
     "RIVN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 CEO 복귀가 전기차 주식을 포함한 광범위한 시장 랠리를 촉발했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "27ebccfd12e16fdb",
@@ -6750,8 +6949,10 @@
    "tickers": [
     "META"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "메타 플랫폼스가 클래스 C 주식 소송 여파 이후 반등했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a115e4892753d09f",
@@ -6766,8 +6967,10 @@
     "NVDA",
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 CEO 재선임과 크라우드스트라이크의 즈스케러 인수 소식에 미국 주요 지수가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "4e7298c54696b977",
@@ -6781,8 +6984,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO 젠슨 황의 복귀로 반도체 주가가 반등하면서 SiTime 주가가 17.7% 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b0c5d00ca4e738f1",
@@ -6796,8 +7001,10 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "크라우드스트라이크가 439억 달러 규모의 지스케어 인수 계약에 합의하면서 주가가 11% 하락했다고 보도했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "1024d6b68745ee2f",
@@ -6812,8 +7019,10 @@
     "NVDA",
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO 관련 소식으로 AI 하드웨어 관련 주가가 반등하면서 델 주가가 20.4% 급등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "4ae049836c16f592",
@@ -6827,8 +7036,10 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "크라우드스트라이크가 주식 거래를 통해 지스케어를 인수하기로 합의하면서 지스케어 주가가 14.7% 상승했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7b2be9d9d357e5a2",
@@ -6843,8 +7054,10 @@
     "NVDA",
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 젠슨 황 복귀로 AI 관련주가 반등하고 급락세 이후 주가가 회복되면서 테슬라 주가가 12.1% 올랐다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "521c4b17fdb14d11",
@@ -6858,8 +7071,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "스타트업 데카르트 인수 협상이 진행 중인 가운데 아마존 주가가 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "9648cf26b70d113c",
@@ -6874,8 +7089,10 @@
     "NVDA",
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "19억 달러 규모의 펀드인 L1 캐피털 인터내셔널이 3분기에 엔비디아, 알파벳, 아메리칸 익스프레스 지분을 추가했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b792c4431bba57cb",
@@ -6889,8 +7106,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO 복귀 이후 칩 제조업체들이 반등하면서 MACOM 주가가 16.7% 상승했다고 보도했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "315431714e310f68",
@@ -6904,8 +7123,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 복귀한 CEO가 AI 투자 심리를 자극하면서 마벨 주가가 칩 주식과 함께 16.6% 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0fd9b9d735bf9e5e",
@@ -6919,8 +7140,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 소식 이후 반도체 관련주가 상승세를 보이며 모놀리틱 파워 주가가 14.6% 올랐다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "dafa4770d403d57f",
@@ -6934,8 +7157,10 @@
    "tickers": [
     "TSM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "19억 달러 규모의 펀드가 지난 분기 대만반도체(TSMC) 지분을 대폭 늘렸다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a923825460fa8aab",
@@ -6983,8 +7208,10 @@
     "ORCL",
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "오라클 주가가 급락하면서 래리 엘리슨의 자산이 크게 줄어들고 세계 부호 순위 탑 10에서 밀려났다고 보도했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "37db60aa9482aae4",
@@ -6998,8 +7225,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "비트코인이 FTX 저점 기록일 4주년을 맞아 저점을 기록한 뒤 반등했고, 엔비디아는 CEO 복귀 소식에 급등했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "eb088b88933c8a43",
@@ -7013,8 +7242,10 @@
    "tickers": [
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "매도세 이후 마이크론 주가가 연환산 실적의 5배 수준에 근접한 가운데 주가가 13.73% 급등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "27f6fcf6bd867e88",
@@ -7029,8 +7260,10 @@
     "NVDA",
     "TSM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO 복귀로 AI 파운드리 기대감이 살아나며 대만반도체 주가가 13.84% 상승했다고 보도했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ccb30e7cdc5d321a",
@@ -7044,8 +7277,10 @@
    "tickers": [
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "지난 분기 동안 대형 펀드들 사이에서 마이크론 주식을 매수한 곳과 매도한 곳이 엇갈렸다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e89323070d523320",
@@ -7060,8 +7295,10 @@
     "NVDA",
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "오라클은 오픈AI 계약 자금을 모두 확보했다고 밝혔으며 2029 회계연도 잉여현금흐름 목표를 제시했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "865d85b0fe4938b3",
@@ -7077,8 +7314,10 @@
     "GOOGL",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "한 대형 펀드가 3분기에 마이크로소프트, 알파벳, 아마존의 지분을 추가했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0bd9550f03b455aa",
@@ -7092,8 +7331,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 관련 소식 이후 주가가 30% 급등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "94693eb06aad581a",
@@ -7107,8 +7348,10 @@
    "tickers": [
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "인텔은 첫 외부 18A 파운드리 고객을 확보했다고 밝혔으며, 이에 따라 주가가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "20eb7c193a64b39c",
@@ -7122,8 +7365,10 @@
    "tickers": [
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "한 펀드가 3분기에 알파벳 지분을 대폭 늘렸다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e33a215c1b883a59",
@@ -7137,8 +7382,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 이사회가 젠슨 황을 CEO로 복귀시키면서 주가가 급등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "dcd9d0a82b97548e",
@@ -7152,8 +7399,10 @@
    "tickers": [
     "NFLX"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "넷플릭스는 시청자 참여도 약화에도 불구하고 주요 프랜차이즈를 강화할 재정적 능력이 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "67dac2f1facb35f0",
@@ -7167,8 +7416,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황이 엔비디아로 복귀했으나 워싱턴에서의 행보는 불확실하다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "9e86ecdb3d737da8",
@@ -7182,8 +7433,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "월스트리트 애널리스트들은 젠슨 황의 엔비디아 복귀를 반기면서도 우려가 존재한다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "16cd4253bb52bdfb",
@@ -7229,8 +7482,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "테슬라는 FSD v15 출시와 함께 순위가 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "d6ba9710688bb924",
@@ -7244,8 +7499,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 젠슨 황 복귀 소식이 전해지면서 반도체 관련 주가가 상승세를 보였다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "15cb5d02998b3fe8",
@@ -7259,8 +7516,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "아마존은 트레이니움 칩 성능을 높이고 비용을 절감하기 위해 데카르트의 AI 기술을 매입할 것이라고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "218ed1219e02965a",
@@ -7274,8 +7533,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "트럼프 대통령이 엔비디아 이사회에 전화해 젠슨 황의 복귀를 지지했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "35cc4933160010b4",
@@ -7322,8 +7583,10 @@
     "NVDA",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AMD와 엔비디아의 현금 창출 능력을 비교하고 SEC 조사 보도 등을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4e297df93fd5e060",
@@ -7337,8 +7600,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "백악관의 통화로 젠슨 황이 복귀하면서 엔비디아 주가가 급등했다고 다뤘다.",
+    "하지만 규제 당국과 회사의 회계 장부를 둘러싼 로이터 보도와 SEC 회계 조사 가능성을 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "db0288558515abf9",
@@ -7352,8 +7618,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아가 젠슨 황을 다시 복귀시켰다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a05e1997b9193639",
@@ -7367,8 +7635,11 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "아마존이 칩과 데이터 센터에 2,200억 달러를 지출하고 있다고 다뤘다.",
+    "월스트리트의 강세론자들은 자체 실리콘 사업이 이러한 비용을 정당화할 것으로 보고 있다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "00f70baa6f82d2f3",
@@ -7382,8 +7653,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아와 관련해 SEC 조사 보도 및 주가 하락 가능성을 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "743736846951c74d",
@@ -7397,8 +7670,11 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "아마존이 뉴욕시의 배달 노동자 법안에 반대 목소리를 내달라고 고객들에게 촉구했다고 전했다.",
+    "해당 법안으로 인해 주문 비용이 최대 5달러까지 증가할 수 있다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "23cd5daa8d9a1a9e",
@@ -7412,8 +7688,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "테슬라가 고령층을 대상으로 완전 자율주행(FSD) 마케팅을 추진하는 것이 책임 리스크를 더한다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "1239c24121300b95",
@@ -7427,8 +7705,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 복귀로 엔비디아 주가가 35% 급등하며 반도체주 상승을 이끌었다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "4b0d65372a835e29",
@@ -7442,8 +7722,10 @@
    "tickers": [
     "AAPL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "애플이 사상 최고치를 기록한 반면 AI주는 하락했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "d65b1f46ed319a93",
@@ -7457,8 +7739,10 @@
    "tickers": [
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "델의 950억 달러 규모 AI 서버 백로그에 대한 투자자들의 기대로 주가가 급등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "d5a4d545bac8c394",
@@ -7489,8 +7773,10 @@
    "tickers": [
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "마티리언이 마이크 보야르스키를 최고마케팅책임자(CMO)로 임명했다고 발표했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4e91e14ba92967cf",
@@ -7504,8 +7790,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 젠슨 황의 CEO 복귀가 기술주 상승과 AI 투자 심리 회복에 도움을 주었다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "97c27d8692294432",
@@ -7521,8 +7809,10 @@
     "TSLA",
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 복귀가 주요 고객과 공급업체 등 관련 주의 두 자릿수 상승을 이끌었다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "74f4cb48f38b2486",
@@ -7536,8 +7826,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "테슬라 주가가 시장 전반과 함께 상승세를 보였다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "c9c8212e94185f9b",
@@ -7552,8 +7844,10 @@
     "NVDA",
     "PLTR"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아와 함께 팔란티어 주가도 급등하며 AI 관련주가 상승세를 보였다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "eab5bd330f44bd3b",
@@ -7567,8 +7861,10 @@
    "tickers": [
     "MSTR"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "스트래티지가 457개의 비트코인을 추가하고 회사의 우선주를 환매했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e212251d77175fc5",
@@ -7582,8 +7878,10 @@
    "tickers": [
     "COIN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "코인베이스의 암호화폐 담보 대출 확장이 고객 참여를 높이고 수익 다변화에 기여할 수 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "d58ec646b1442589",
@@ -7597,8 +7895,10 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "크라우드스트라이크가 지스케러를 인수하는 사이버 보안 분야 최대 규모의 거래를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "9c8d290b3571c04f",
@@ -7612,9 +7912,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아가 젠슨 황을 사장 겸 CEO로 즉시 복귀시켰다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b2b058c7396acc63",
@@ -7628,9 +7929,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "젠슨 황의 복귀와 엔비디아 주가 급등 소식을 다뤘다.",
+    "AI 주식에 대한 열정이 비트코인으로 이어질지 살펴봤다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "50aecee81e48223a",
@@ -7644,9 +7947,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "젠슨 황이 엔비디아로 복귀하면서 나스닥 선물 주가가 서킷브레이커를 발동했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e79e236e5fe2c4b7",
@@ -7661,9 +7965,10 @@
     "MSFT",
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "헬스케어 증강현실 시장의 글로벌 전망을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "8fecdabd39b35744",
@@ -7677,8 +7982,10 @@
    "tickers": [
     "XOM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엑손모빌이 앙골라 킨좀바 유전 재개발을 추진한다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e1e0cf53036960da",
@@ -7692,8 +7999,10 @@
    "tickers": [
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "오라클이 오픈에이아이 계약이 완전히 자금 지원을 받고 있다고 밝히며 주가가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "18399585fb4f78d0",
@@ -7707,8 +8016,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "HSBC가 스페이스X 합병이 없을 경우 테슬라의 가치를 낮게 평가했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ee314c512b6e5f6b",
@@ -7722,8 +8033,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 엔비디아 복귀에 대해 일론 머스크 등은 긍정적으로 평가한 반면 마이클 버리는 비판했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3a07d2e9fafd5041",
@@ -7737,8 +8050,10 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "크라우드스트라이크가 지스케러를 44억 달러에 인수한다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ea7c4f34f134a63c",
@@ -7752,8 +8067,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "포드와 테슬라의 올해 주가 흐름과 배경을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "2fa3ffd0bff6697e",
@@ -7767,8 +8084,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AI 투자자들이 복귀하면서 엔비디아와 앤스로픽 주가가 반등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "298fb3c20a94bbf9",
@@ -7782,8 +8101,10 @@
    "tickers": [
     "TSM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "TSMC 주가가 중국 관련 리스크에 직면했으나 월스트리트는 더 큰 이야기를 주목한다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "012b3e7e2a65f483",
@@ -7813,8 +8134,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 엔비디아 복귀로 주가가 급등하고 앤스로픽은 하락했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "b22de1a7def25395",
@@ -7828,8 +8151,11 @@
    "tickers": [
     "SMCI"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "서버 제조사인 슈퍼마이크로의 주가가 한 달 동안 약 29% 하락했다고 다뤘다.",
+    "AI 지출, 수익성, 자금 조달 우려가 기술주에 부담을 주고 있다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "561dc01145365e14",
@@ -7844,8 +8170,11 @@
     "NVDA",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 이사회가 사임 12일 만에 젠슨 황을 CEO로 만장일치 복귀시켰다고 보도했다.",
+    "이 소식과 함께 엔비디아 주가가 30% 급등하고 관련 AI 주가 상승세를 보였다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "3d599d7c56b0a310",
@@ -7859,8 +8188,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "월스트리트가 AI 관련 주식을 다시 매수하기 시작했으며 칩 ETF와 엔비디아가 급등했다고 전했다.",
+    "이에 따라 첨단 AI의 기반이 되는 양자 컴퓨팅 하드웨어와 소프트웨어가 주목받고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6aae6d62ce7d518d",
@@ -7874,8 +8206,11 @@
    "tickers": [
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "씨티는 마이크론과 샌디스크의 매도세가 AI 메모리 수요 지속으로 인해 과도하다고 진단했다.",
+    "2028년까지 타이트한 DRAM 및 고대역폭 메모리 공급이 수요를 뒷받침할 것으로 전망했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2faaec9c4d1cf790",
@@ -7889,8 +8224,11 @@
    "tickers": [
     "MSFT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "마이크로소프트 CEO 사티아 나델라가 5,000만 개의 AI 에이전트를 공개했다고 다뤘다.",
+    "일각에서는 불확실한 가치로 인해 기업 AI 프로젝트가 폐기될 수 있다는 경고도 제기됐다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "838214d96d288ba0",
@@ -7920,8 +8258,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아가 기록적인 매출과 높은 순이익을 달성했음에도 연초 대비 장기 보유자들은 하락세를 겪었다고 다뤘다.",
+    "낙관적인 AI 전망 속에서도 지정학적 우려와 경쟁 요인이 존재했다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f9f6ed577f04edb7",
@@ -7935,8 +8276,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 엔비디아 CEO 복귀 소식과 관련된 주가 전망 및 대응 전략을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "d520e9d6d748b487",
@@ -7950,8 +8293,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "스콧 베센트가 엔비디아 주식 투자자들에게 강력한 견해를 전달했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "95686abf479323e2",
@@ -7965,8 +8310,11 @@
    "tickers": [
     "NVO"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "노보노디스크의 소그로야가 소아 터너 증후군 치료제로 FDA 적응증 확대 승인을 받았다고 전했다.",
+    "미국에서 이 질환으로 승인받은 최초의 주 1회 투여 성장 호르몬이 되었다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "95d1d0e565d8c888",
@@ -7980,8 +8328,10 @@
    "tickers": [
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "델의 3분기 실적 발표를 앞두고 월스트리트가 AI 서버에 대한 답변을 원하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "7f041e368c8643ee",
@@ -7995,8 +8345,10 @@
    "tickers": [
     "MSFT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "마이크로소프트 검색 광고주들이 이제 핀터레스트까지 캠페인을 확장할 수 있게 되었다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "92378e052652d983",
@@ -8010,8 +8362,11 @@
    "tickers": [
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "마이크론의 실적이 기록적이지만 주가는 고점에서 크게 하락했다고 다뤘다.",
+    "임원들은 AI 인프라를 제한하는 병목 현상이 존재하며 회사가 그 중심에 있다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4d5d29fd8d152fe9",
@@ -8041,8 +8396,10 @@
    "tickers": [
     "LLY"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일라이 릴리의 비만 및 당뇨병 치료제 매출이 급증한 반면, 버텍스는 다른 성장 경로를 따르고 있다고 비교했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f2279fcffca712ef",
@@ -8056,8 +8413,10 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "크라우드스트라이크가 439억 달러 규모의 지스케어 인수 계약 체결 발표 후 12% 하락했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "3cdfecddc9a84134",
@@ -8088,8 +8447,11 @@
    "tickers": [
     "RGTI"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "리게티는 칩렛 기반 양자 프로세서와 연방 정부 지원금을 통해 확장 계획을 추진하고 있다고 다뤘다.",
+    "다만 상용화와 매출 관련 과제는 여전히 지속되고 있다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "cf2369c660395a72",
@@ -82816,57 +83178,6 @@
    ],
    "summary_ko": [
     "엔비디아의 실적과 앤스로픽 IPO 등이 암호화폐 시장의 회복에 영향을 미치고 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "2036593847887ad6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What happens after Walmart leaves town is worse than expected",
-   "excerpt": "You might not shop at Walmart, but its store closures could impact you more than you would have thought.",
-   "url": "https://www.thestreet.com/retail/what-happens-to-the-stores-next-door-after-walmart-leaves-town-sales-and-traffic-plunge-20?.tsrc=rss",
-   "published": "2026-11-17T02:47:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트의 매장 철수가 예상보다 더 큰 영향을 미칠 수 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "55fcc7bb7441d59c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Asian stocks sink as scandal-hit Nvidia prepares for earnings",
-   "excerpt": "Tech firms dragged Asian stock markets down again Tuesday as the fallout from the Nvidia crisis continued to rattle trading floors, with US moves to tighten restrictions on Chinese access to chips adding to uncertainty.Adding to the downbeat mood was news that the US Commerce Department moved on Monday to close a loophole that allowed Chinese companies to access Nvidia's powerful AI chips remotely.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-sink-scandal-hit-023848163.html?.tsrc=rss",
-   "published": "2026-11-17T02:38:48+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 관련 불확실성과 미국의 대중국 반도체 규제 강화 움직임이 아시아 증시 하락에 영향을 주었다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "74306201793cdf59",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Intel Sits 61% Below the Peak When Jim Cramer Called It His Favorite",
-   "excerpt": "Jim Cramer called Intel his favorite on its June 30 high. The stock now trades about 61% lower. Here is what changed.",
-   "url": "https://beincrypto.com/intel-below-peak-jim-cramer-favorite/?.tsrc=rss",
-   "published": "2026-11-17T02:31:09+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "짐 크레이머가 선호한다고 밝혔던 인텔 주가가 고점 대비 크게 하락했다고 다뤘다."
    ],
    "tone": "neg"
   }
