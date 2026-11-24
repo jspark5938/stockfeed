@@ -1,6 +1,142 @@
 {
- "updated": "2026-11-24T10:00:43.930726+00:00",
+ "updated": "2026-11-24T10:30:31.850551+00:00",
  "posts": [
+  {
+   "id": "0013b73dd0aa4160",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia CEO Jensen Huang Is Back, and Stock Investors Just Got More Great News About the AI Chip Giant",
+   "excerpt": "Wall Street says Nvidia stock is a screaming buy.",
+   "url": "https://www.fool.com/investing/2026/11/24/nvidia-ceo-jensen-huang-stock-investors-got-great-news/?.tsrc=rss",
+   "published": "2026-11-24T10:17:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "월스트리트는 엔비디아 주식이 강력한 매수세에 있다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "12169dde0c83f4fb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Could Generate $741 Billion in Revenue Next Year. Here’s What That Means for the Stock.",
+   "excerpt": "CFO and interim CEO Colette Kress just raised her outlook for the business.",
+   "url": "https://www.fool.com/investing/2026/11/24/nvidia-could-generate-usd741-billion-in-revenue-next-year-here-s-what-that-means-for-the-stock/?.tsrc=rss",
+   "published": "2026-11-24T10:15:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "최고재무책임자이자 임시 CEO인 콜레트 크레스가 사업 전망 상향 조정을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "507d525e294fe5c5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Teradata Bets on Dell Partnership and New Products to Drive 2027 Growth",
+   "excerpt": "Teradata (NYSE:TDC) is counting on new products, expanded sales capacity and a deeper partnership with Dell to support growth in 2027, as the data analytics company shifts its focus from cloud migrations to expanding annual recurring revenue across all deployment models. Chief Financial Officer Joh",
+   "url": "https://www.marketbeat.com/instant-alerts/event-teradata-bets-on-dell-partnership-and-new-products-to-drive-2027-growth-2026-11-24/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+   "published": "2026-11-24T10:12:14+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "테라데이터는 2027년 성장을 위해 델과의 파트너십과 신제품에 기대를 걸고 있다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "804b37e80bac6e79",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Snowflake Stock In Focus As New AI Connectors Reach Its Marketplace",
+   "excerpt": "Attentive and Jedify recently launched their Model Context Protocol connectors on Snowflake Marketplace, allowing joint customers to run AI powered marketing and business queries directly on governed Snowflake data and connected external systems. These MCP integrations deepen Snowflake's role as an AI data coordination hub, where agents can act on cross platform context while respecting granular access controls. With that broader AI data hub narrative in mind, the focus now turns to how...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/snowflake-stock-focus-ai-connectors-101138090.html?.tsrc=rss",
+   "published": "2026-11-24T10:11:38+00:00",
+   "tickers": [
+    "SNOW"
+   ],
+   "summary_ko": [
+    "스노우플레이크 마켓플레이스에 새로운 AI 커넥터가 출시되었다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "c21204f8663b8c2a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CrowdStrike to acquire Zscaler in $44bn all-stock deal",
+   "excerpt": "The combination unites endpoint protection with Zero Trust architecture, targeting over $10bn in ARR.",
+   "url": "https://www.verdict.co.uk/crowdstrike-to-acquire-zscaler/?.tsrc=rss",
+   "published": "2026-11-24T10:11:37+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": [
+    "크라우드스트라이크가 440억 달러 규모의 주식 거래로 질스칼러를 인수한다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "e0344406cb6b3db8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Google and Meta face massive fines for addictive features",
+   "excerpt": "Tech giants face billions in fines under Australia’s internet safety bill",
+   "url": "https://www.independent.co.uk/tech/google-meta-fine-internet-safety-australia-b3090456.html?.tsrc=rss",
+   "published": "2026-11-24T10:10:30+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "구글과 메타가 호주 인터넷 안전법에 따라 거액의 벌금 위기에 처했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "3c6d5fda7e72eae3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 Chip Stocks Riding Nvidia AI Supply Chain Demand",
+   "excerpt": "Jensen Huang’s rapid return to Nvidia has put the spotlight back on the advanced chip supply chain, where a handful of US, Taiwanese, and South Korean hardware specialists help keep the GPU story moving. Investor attention often jumps to Nvidia, but the bigger opportunity and risk sit with the quieter component suppliers exposed to this news. This article unpacks three such stocks from our screener and explains how this leadership twist could matter for you. The stocks highlighted below are...",
+   "url": "https://finance.yahoo.com/technology/articles/3-chip-stocks-riding-nvidia-101001685.html?.tsrc=rss",
+   "published": "2026-11-24T10:10:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 AI 공급망 수요와 하드웨어 전문가들을 조명했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "179ee4232d71e17b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon to acquire Decart’s AI optimisation technology",
+   "excerpt": "The transaction will bolster Amazon’s custom silicon strategy, bringing Decart’s team and optimisation stack to accelerate AI inference.",
+   "url": "https://www.verdict.co.uk/amazon-acquire-decarts-technology/?.tsrc=rss",
+   "published": "2026-11-24T10:09:16+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존이 데카르트의 AI 최적화 기술을 인수한다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "621c82f9919a7aac",
    "kind": "news",
@@ -13,9 +149,44 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "콜레트 크레스가 젠슨 황의 복귀에 대해 사전에 알지 못했다고 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5be50f30da49b42a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "George Soros and 49 Other Big Funds Bought Intel Last Quarter, While 15 Sold. Who’s Right?",
+   "excerpt": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 50 bought Intel and 15 sold.",
+   "url": "https://www.tikr.com/blog/george-soros-and-49-other-big-funds-bought-intel-last-quarter-while-15-sold-whos-right?ref=yahoofinance&tlnk=yf-261124-4pggx64v&.tsrc=rss",
+   "published": "2026-11-24T09:50:37+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "조지 소로스를 포함한 대형 펀드들이 지난 분기에 인텔을 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "6d88aab9beced068",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Anthropic’s IPO Safety Net Is Gone: Morgan Stanley “Can No Longer” Buy Below $83. That’s a Risk for Amazon",
+   "excerpt": "Key TakeawaysMorgan Stanley used Anthropic’s full greenshoe option a day into trading, so it can no longer buy shares in the market to support the stock below its $83 IPO price. Anthropic fell 8.",
+   "url": "https://www.tikr.com/blog/anthropics-ipo-safety-net-is-gone-morgan-stanley-can-no-longer-buy-below-83-thats-a-risk-for-amazon?ref=yahoofinance&tlnk=yf-261124-vcwwm7x7&.tsrc=rss",
+   "published": "2026-11-24T09:50:30+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "모건 스탠리가 공모가 이하 방어를 위한 추가 매수를 할 수 없게 되었다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "830d579a990a568f",
@@ -29,9 +200,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "스티브 아이스먼이 비트코인을 언급하며 암호화폐에 투자하지 않겠다고 밝혔다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "02ff0225c36f7206",
@@ -45,9 +217,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "젠슨 황의 복귀 이후 급등세를 보였던 엔비디아 주가가 하락했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "f9733200434b9a9d",
@@ -61,9 +234,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "예측 시장에서 젠슨 황의 퇴임 가능성에 대한 베팅이 이루어지고 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "2893960ac97c9f3d",
@@ -77,9 +251,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "트레이더들이 엔비디아 CEO의 예상치 못한 복귀 영향을 소화하고 있다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1b6789705d626ad0",
@@ -95,9 +270,28 @@
     "AMD",
     "BABA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월요일 엔비디아 주도의 반도체 랠리 이후 미국 선물 지수가 혼조세를 보였다고 전했다.",
+    "공급 증가 우려로 브렌트유와 WTI 선물이 하락했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4b4b64d18f6aad67",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "UnitedHealth Sues Trump’s Medicare Agency Over Star Ratings. Stephanie Link Calls It “Number One on Sale”",
+   "excerpt": "Key TakeawaysUnitedHealth sued CMS over its 2027 Medicare Advantage star ratings, saying 45 of its contracts should rate 0. 5 to 1.",
+   "url": "https://www.tikr.com/blog/unitedhealth-sues-trumps-medicare-agency-over-star-ratings-stephanie-link-calls-it-number-one-on-sale?ref=yahoofinance&tlnk=yf-261124-v443284m&.tsrc=rss",
+   "published": "2026-11-24T09:20:45+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": [
+    "유나이티드헬스가 메디케어 기관을 상대로 소송을 제기했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c4bcd6e47ebdc606",
@@ -128,9 +322,11 @@
    "tickers": [
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "알람닷컴의 공정 가치 추정치가 상향 조정되었다고 다뤘다.",
+    "분석가들 사이에서 목표 주가와 섹터 전망을 두고 엇갈린 시각이 있다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "058af583bbe90666",
@@ -179,9 +375,10 @@
    "tickers": [
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "과거 AMD 보유 시 거둘 수 있었던 수익률을 다루며 당시의 엇갈린 분석가 시각을 조명했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "78db75393bf6a550",
@@ -263,9 +460,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아와 젠슨 황 CEO가 AI 붐에 얼마나 중요한지 시장 움직임을 통해 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3d0b22c0fa71012e",
@@ -331,9 +529,10 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "크라우드스트라이크가 지스케러를 인수하기로 합의했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "d64a2f2e71525928",
@@ -888,6 +1087,24 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 3
+  },
+  {
+   "id": "429b18f3c4e17c01",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TSMC gains $158 billion in value in one day as Jensen Huang returns as Nvidia CEO",
+   "excerpt": "The rally clawed back part of a 17.5% weekly slide in Taipei, the worst since 1991, that had forced regulators to curb short selling.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-gains-158-billion-value-070556999.html?.tsrc=rss",
+   "published": "2026-11-24T07:05:56+00:00",
+   "tickers": [
+    "NVDA",
+    "TSM"
+   ],
+   "summary_ko": [
+    "엔비디아 CEO의 복귀와 함께 TSMC의 가치가 하루 만에 크게 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ef28f387ddea4d88",
@@ -84625,162 +84842,6 @@
     "엔비디아 주가 하락 시나리오와 관련된 내용을 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "cea24fc12d249020",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Intel falls premarket as Nvidia cuts stake, SpaceX becomes top holding",
-   "excerpt": "Investing.com -- Intel shares fell more than 3% in premarket trading Tuesday after Nvidia significantly trimmed its stake in the chipmaker.",
-   "url": "https://finance.yahoo.com/news/intel-falls-premarket-nvidia-cuts-102651060.html?.tsrc=rss",
-   "published": "2026-11-17T10:26:51+00:00",
-   "tickers": [
-    "NVDA",
-    "INTC"
-   ],
-   "summary_ko": [
-    "엔비디아가 인텔 지분을 대폭 축소했다는 소식을 다뤘다.",
-    "이로 인해 인텔 주가가 개장 전 거래에서 3% 이상 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "34930a95ae5f3f3b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "US Stock Futures Edge Lower After Tech Sell-Off — NVDA Earnings, AMD, SPCX, DIS In Focus",
-   "excerpt": "Oil prices slipped and then recovered as recovering Middle East exports and expectations of a global supply surplus outweighed concerns over tanker attacks.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-edge-lower-after-tech-sell-off-nvda-earnings-amd-spcx-dis-in-focus/cNbaAmCR9Wf?.tsrc=rss",
-   "published": "2026-11-17T10:24:14+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "기술주 매도세 이후 미국 주가지수 선물인 하락세를 보였다고 전했다.",
-    "엔비디아 실적과 AMD 등이 주목받고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ab0af60ab7db135c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nike's Stock Is Down Big This Year. Here's When I'd Buy",
-   "excerpt": "The stock has declined 40% since the start of the year, and it may still go lower.",
-   "url": "https://www.fool.com/investing/2026/11/17/nike-s-stock-is-down-big-this-year-here-s-when-i-d-buy/?.tsrc=rss",
-   "published": "2026-11-17T10:20:02+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "나이키 주가가 연초 이후 크게 하락했으며 더 내려갈 수 있다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "3579870cbf5cd702",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is JPMorgan Diversified Return U.S. Mid Cap Equity ETF (JPME) a Strong ETF Right Now?",
-   "excerpt": "Smart Beta ETF report for JPME",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-diversified-return-u-mid-102002474.html?.tsrc=rss",
-   "published": "2026-11-17T10:20:02+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "JPME ETF에 대한 스마트 베타 리포트 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "293ae023db8a4795",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/Not69Batman",
-   "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
-   "excerpt": "NVIDIA (NASDAQ: NVDA) today announced that the Board of Directors has established the National Security and Export Control Oversight Committee, a new standing committee responsible for board-level oversight of the company’s national security policies, export control compliance and global trade risk management. NVIDIA’s existing National Security Team and Global Trade Compliance Team will report directly to the Committee and to Interim CEO, Colette Kress, on day-to-day operations. The Committee will be chaired by director Suzanne Nora Johnson and will also include directors Stephen C. Neal and John O. Dabiri as members. It will meet at least quarterly, including with management and in executive session. The Committee will oversee the Company’s ongoing efforts to enhance its internal Nationa",
-   "url": "https://www.reddit.com/r/stocks/comments/1xyguh6/nvidia_board_of_directors_establishes_national/",
-   "published": "2026-11-17T10:16:14+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 3
-  },
-  {
-   "id": "e11a489e76ecdd41",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Electric barge launched for Nike cargo route in Vietnam",
-   "excerpt": "Nike and its logistics partners CMA CGM and Gemadept have launched a fully electric barge service in Vietnam intended to reduce emissions from inland cargo transport.",
-   "url": "https://www.just-style.com/news/nike-electric-barge-vietnam/?.tsrc=rss",
-   "published": "2026-11-17T10:15:51+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "나이키가 물류 파트너들과 함께 베트남에서 전기 바지선 서비스를 도입했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3419ee5a2cf96cc8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why HubSpot Stock Is In Focus As Founder Returns And New CFO Joins",
-   "excerpt": "HubSpot announced a major leadership reshuffle, with co founder Brian Halligan returning as CEO and Adobe executive Karen Burgess set to replace retiring CFO Kate Bueker in February 2027, while Bueker stays on as an adviser through the end of 2027. The leadership reset comes shortly after HubSpot reported US$947.57 million in Q3 2026 revenue, positive net income for both the quarter and year to date, and active share repurchase programs that together highlight a business balancing...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/why-hubspot-stock-focus-founder-101159167.html?.tsrc=rss",
-   "published": "2026-11-17T10:11:59+00:00",
-   "tickers": [
-    "ADBE"
-   ],
-   "summary_ko": [
-    "허브스팟의 주요 리더십 개편과 3분기 실적 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0ba778a39d288852",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Can Figure Technology Solutions (FIGR) Justify Its Valuation As New Credit Funding Lands?",
-   "excerpt": "Fresh financing reshapes the Figure Technology Solutions story Figure Technology Solutions (FIGR) just secured a new senior secured revolving credit facility of up to US$465 million with JPMorgan Chase, with potential expansion to as much as US$750 million. The arrangement, which runs to November 2029, gives the fintech extra balance sheet flexibility for working capital and general corporate uses, while investors weigh that funding access alongside recent earnings and share repurchase...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/figure-technology-solutions-figr-justify-101059380.html?.tsrc=rss",
-   "published": "2026-11-17T10:10:59+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "피규어 테크놀로지 솔루션이 JP모건 체이스로부터 신용 한도 약정을 확보했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "2c747c81bed6a6f5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The Zacks Analyst Blog Highlights Taiwan, Johnson & Johnson, Palantir, Title and Altigen",
-   "excerpt": "Taiwan, Johnson & Johnson, Palantir, Title and Altigen are included in this Analyst Blog.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-taiwan-100800704.html?.tsrc=rss",
-   "published": "2026-11-17T10:08:00+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "summary_ko": [
-    "Zacks 애널리스트 블로그에서 대만, 존슨앤드존슨, 팔란티어 등을 언급했다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
