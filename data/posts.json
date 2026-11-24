@@ -1,6 +1,121 @@
 {
- "updated": "2026-11-24T10:30:31.850551+00:00",
+ "updated": "2026-11-24T11:00:39.840291+00:00",
  "posts": [
+  {
+   "id": "b8d2fb886231d2cf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Chip stocks led a $3 trillion comeback on Monday — now comes Turnaround Tuesday: Chart of the Day",
+   "excerpt": "Nvidia and chip stocks sent the S&P 500 to its best day since April 2025, and history says the next week is usually rocky.",
+   "url": "https://finance.yahoo.com/markets/article/chip-stocks-led-a-3-trillion-comeback-on-monday--now-comes-turnaround-tuesday-chart-of-the-day-110000187.html?.tsrc=rss",
+   "published": "2026-11-24T11:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "c369d84e0f49163b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart Just Raised Its Outlook Again. 3 Numbers Show Why Its Scale Advantage Keeps Growing.",
+   "excerpt": "Investors will be surprised to learn about this retail stock's market-thumping trailing three-year total return of 154%.",
+   "url": "https://www.fool.com/investing/2026/11/24/walmart-raised-its-outlook-again-3-numbers-show-why-its-scale-advantage-keeps-growing/?.tsrc=rss",
+   "published": "2026-11-24T10:40:02+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "72a9d2a2d15c9da8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Bulls Rule on Asian Stock Markets",
+   "excerpt": "Tech-centric stock exchanges in Asia staged powerful rallies on Tuesday, following the return of Jen",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/nvidia-bulls-rule-asian-stock-103642321.html?.tsrc=rss",
+   "published": "2026-11-24T10:36:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "13eb3b3f50c7f21c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why 1 Billionaire Investor Just Poured $3 Billion Into Amazon, Meta, and Alphabet",
+   "excerpt": "Steve Mandel's Lone Pine was betting big on this trio of \"Magnificent Seven\" stocks in Q3.",
+   "url": "https://www.fool.com/investing/2026/11/24/why-one-billionaire-investor-just-poured-usd3-billion-into-amazon-meta-and-alphabet/?.tsrc=rss",
+   "published": "2026-11-24T10:35:02+00:00",
+   "tickers": [
+    "GOOGL",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "9401214d5ccae681",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Turmoil: How Big Is the Risk for CoreWeave?",
+   "excerpt": "Nvidia has a 10% stake in the neocloud company.",
+   "url": "https://www.fool.com/investing/2026/11/24/nvidia-turmoil-how-big-is-the-risk-for-coreweave/?.tsrc=rss",
+   "published": "2026-11-24T10:30:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "aef9957808dec504",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Lost $2.75 Trillion in 45 Days -- More Than the Market Cap of 496 S&P 500 Companies -- and Investors Wagering on a Quick Bounce to New Highs May Be Disappointed",
+   "excerpt": "Though the long-term outlook for artificial intelligence (AI) and Nvidia remains bright, there’s no quick fix for what ails either.",
+   "url": "https://www.fool.com/investing/2026/11/24/nvidia-lost-275-trillion-in-45-days-more-than-496-sp-500-companies-wager-on-quick-bounce-disappointed/?.tsrc=rss",
+   "published": "2026-11-24T10:26:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "23c6c50cb2fee722",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump Threatens a “Tremendous Tax” on Overseas Data Centers. That’s a Big Problem for Microsoft, Amazon and Alphabet",
+   "excerpt": "Key TakeawaysPresident Trump said the U. S.",
+   "url": "https://www.tikr.com/blog/trump-threatens-a-tremendous-tax-on-overseas-data-centers-thats-a-big-problem-for-microsoft-amazon-and-alphabet?ref=yahoofinance&tlnk=yf-261124-p3fx6248&.tsrc=rss",
+   "published": "2026-11-24T10:20:21+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOGL",
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "0013b73dd0aa4160",
    "kind": "news",
@@ -34,6 +149,38 @@
     "최고재무책임자이자 임시 CEO인 콜레트 크레스가 사업 전망 상향 조정을 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "d84d346ad610770a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "US Stock Futures Mixed After Nvidia-Led Rally as Investors Assess Federal Reserve Rate Outlook: Dow Jones, S&P, Nasdaq, Wall Street",
+   "excerpt": "US stock futures traded mixed on Tuesday following a sharp rally on Wall Street, as investors assessed the implications of Jensen Huang’s reinstatement as chief executive of Nvidia (NASDAQ:NVDA) and the outlook for Federal Reserve interest rates. Asian equity markets also recorded substantial gains, particularly in Taiwan and South Korea, although concerns surrounding artificial intelligence investment and financing costs remained.",
+   "url": "https://investorshub.advfn.com/market-news/article/40577/us-stock-futures-mixed-after-nvidia-led-rally-as-investors-assess-federal-reserve-rate-outlook-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+   "published": "2026-11-24T10:14:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "8b7cfc616d30ca13",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Top 3 Founder Led Stocks To Watch In November 2026",
+   "excerpt": "Jensen Huang’s rapid return to Nvidia and the sharp rebound in AI related stocks have reminded investors that founders with real skin in the game can reshape market sentiment in a matter of days. That kind of personal commitment is hard to replicate in hired management. If you want your capital aligned with long term builders rather than caretakers, this article highlights three founder led stocks worth a closer look. The three stocks highlighted here offer a compelling starting point if you...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-led-stocks-101244836.html?.tsrc=rss",
+   "published": "2026-11-24T10:12:44+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "507d525e294fe5c5",
@@ -136,6 +283,22 @@
     "아마존이 데카르트의 AI 최적화 기술을 인수한다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "df373d80d136ba5c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Market Faces Reality Checks as Huang Rally Fades",
+   "excerpt": "A bout of overindulgence typically comes with something of a hangover—and the market is pulling back after Monday’s epic rally as the exuberance of Jensen Huang’s Nvidia Return fades.",
+   "url": "https://finance.yahoo.com/m/7cfabfd6-0ef1-368f-b7c6-fa8c1b9cd019/the-market-faces-reality.html?.tsrc=rss",
+   "published": "2026-11-24T10:06:13+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "621c82f9919a7aac",
@@ -744,6 +907,22 @@
     "코히어런트가 자사주 매입 프로그램을 승인하고 엔비디아의 광학 파트너로서 역할을 키워가고 있다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "f0164363b41e654f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Brad Gerstner Just Bought $680 Million of Tesla. His Range: “$420 a Share and Let’s Call It $520 or $550”",
+   "excerpt": "Key TakeawaysBrad Gerstner’s Altimeter Capital reported a new Tesla position worth $680 million at Sept. 30, its fourth-largest 13F holding.",
+   "url": "https://www.tikr.com/blog/brad-gerstner-just-bought-680-million-of-tesla-his-range-420-a-share-and-lets-call-it-520-or-550?ref=yahoofinance&tlnk=yf-261124-3p7mcrp3&.tsrc=rss",
+   "published": "2026-11-24T08:08:27+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "222b1c6d0ebc406a",
@@ -84316,532 +84495,6 @@
     "금요일에 ETF들이 애플 주식을 매수했다고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "c05d6c00fdd59558",
-   "kind": "youtube",
-   "source": "Fox Business",
-   "author": "Fox Business",
-   "title": "CHINA'S CHEERLEADERS?: American companies make huge profits in China",
-   "excerpt": "Fox News contributor Michael Pillsbury and Fox Business senior correspondent Charlie Gasparino discuss the relationship between China and American companies. They also weigh in on former Nvidia CEO Jensen Huang's resignation. #fox #foxbusiness #michaelpillsbury #charliegasparino #china #americancompanies #uschinarelations #businessties #nvidia #jensenhuang #formernvidiaceo #resignation #corporateleadership #technologyindustry #semiconductorindustry #nationalsecurity #tradepolicy #businessanalysis #breakingnews Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the busine",
-   "url": "https://www.youtube.com/watch?v=q3IVesyI2u4",
-   "published": "2026-11-17T11:00:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미국 기업들의 대중국 사업과 전 엔비디아 CEO의 사임 등에 대해 논의했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "184b6ad419eb01aa",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart Gets $2.9 Billion in Tariff Refunds, Ford $1.3 Billion, and Apple $2.2 BillIion: The Average Household Paid an Estimated $700 and Got Nothing",
-   "excerpt": "Dozens of large corporations are seeing hundreds of millions, if not billions, in tariff refund checks, but they're just pocketing the money after passing the costs onto consumers.",
-   "url": "https://www.barchart.com/story/news/8870638/walmart-gets-2-9-billion-in-tariff-refunds-ford-1-3-billion-and-apple-2-2-billiion-the-average-household-paid-an-estimated-700-and-got-nothing?.tsrc=rss",
-   "published": "2026-11-17T10:54:39+00:00",
-   "tickers": [
-    "AAPL",
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트와 애플 등 대기업들이 관세 환급금을 받았다고 다뤘다.",
-    "기업들이 비용을 소비자에게 전가한 뒤 환급금을 챙겼다고 주장했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "09857fb064fa7452",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Trump Kicks of Asia Visit in Manila Ahead of Xi, Putin Talks",
-   "excerpt": "US President Donald Trump arrived in the Philippines on Tuesday, kicking off his first overseas trip since his party’s decisive defeat in congressional elections. Trump begins his three-day visit to Asia in Manila, where he’s set to hold discussions with the so-called Quad and sign a trade deal with Thailand. His brief tour will conclude in Shenzhen, China, on Thursday with a historic meeting alongside President Xi Jinping and Russian leader Vladimir Putin. Deutsche Bank’s stock dropped on reports that it processed $582 million of suspicious payments linked to the late sex offender Jeffrey Epstein and sought to expand its Russian business before the 2022 invasion of Ukraine. Technology stocks fell further ahead of Nvidia’s earnings, with the stakes extending beyond the chipmaker to the bro",
-   "url": "https://www.youtube.com/watch?v=WgXTffW65h4",
-   "published": "2026-11-17T10:52:28+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "도널드 트럼프 미국 대통령의 아시아 순방 소식과 함께 엔비디아 실적을 앞두고 기술주가 하락했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "04505d10dc7231a3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Snap Just Dropped 17% in a Month on Ad Growth “Below Our Ambitions.” Sell, or Load Up?",
-   "excerpt": "Key TakeawaysSnap stock fell 17% in the past month, mostly after a third-quarter report with 4% ad growth and a user miss. Meta Platforms, Pinterest and Reddit all grew revenue far faster than Snap’s ads, so the slowdown looks like Snap’s own.",
-   "url": "https://www.tikr.com/blog/snap-just-dropped-17-in-a-month-on-ad-growth-below-our-ambitions-sell-or-load-up?ref=yahoofinance&tlnk=yf-261117-vff5gcqj&.tsrc=rss",
-   "published": "2026-11-17T10:48:21+00:00",
-   "tickers": [
-    "META"
-   ],
-   "summary_ko": [
-    "스냅은 광고 성장 부진과 이용자 수 미달로 한 달 동안 하락했다고 다뤘다.",
-    "다른 플랫폼들에 비해 스냅의 성장 둔화가 두드러진다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "44ea29e8489d772a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron Has Plunged 36% From Its Peak. Here’s the Price at Which I’d Buy.",
-   "excerpt": "Micron still has multibagger potential due to tight memory supply, which could help it sustain solid growth.",
-   "url": "https://www.fool.com/investing/2026/11/17/micron-has-plunged-36-from-its-peak-here-s-the-price-at-which-i-d-buy/?.tsrc=rss",
-   "published": "2026-11-17T10:42:02+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론은 정점 대비 하락했으나 메모리 공급 부족을 다뤘다.",
-    "이를 통해 지속적인 성장을 유지할 잠재력이 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3d56af36b6fd3b5a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia's Cash Fell Far Short Of Its Profit 11 Times Before. What Did The Stock Do?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/nvda/articles/625473/nvidia-s-cash-fell-far-short-of-its-profit-11-times-before-what-did-the-stock-do/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:59+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 현금 보유량이 과거 이익에 크게 못 미쳤던 사례를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "193d6932c29f2039",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Costco Stock Increasing Your Market Risk?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/cost/articles/625548/is-costco-stock-increasing-your-market-risk-2/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:59+00:00",
-   "tickers": [
-    "NVDA",
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코 주식이 시장 위험을 높이는지 다룬 내용을 포함했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f32583b0a8b3d324",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Walmart Stock Increasing Your Market Risk?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/wmt/articles/625547/is-walmart-stock-increasing-your-market-risk-2/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:59+00:00",
-   "tickers": [
-    "NVDA",
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트 주식이 시장 위험을 높이는지에 대한 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "fe2578c2ec895800",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Was Eli Lilly Stock's 45% Run Visible Early?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/lly/articles/625554/was-eli-lilly-stocks-45-run-visible-early/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:59+00:00",
-   "tickers": [
-    "NVDA",
-    "LLY"
-   ],
-   "summary_ko": [
-    "일라이 릴리 주가의 45% 상승이 조기에 포착 가능했는지를 다뤘다.",
-    "엔비디아 주가가 50% 하락할 수 있는지에 대한 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7ad4518d95f201df",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why We Prefer Alphabet Stock Over Meta Right Now",
-   "excerpt": "Our Monday piece, Should You Be Worried About Meta Stock?, opened on a split result: Meta Platforms (META) grew revenue 26% in its September quarter, yet its operating income fell 37%. The fall came from one item, a $9.9 billion legal charge; without it, the company says operating income would have risen 11%. So the next question is the one an owner of either AI giant asks: if you are buying one of them now, Meta or Alphabet (GOOGL.",
-   "url": "https://www.trefis.com/stock/meta/articles/625593/why-we-prefer-alphabet-stock-over-meta-right-now/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "GOOGL",
-    "META"
-   ],
-   "summary_ko": [
-    "메타보다 알파벳 주가를 선호하는 이유를 다뤘다.",
-    "메타의 99억 달러 법적 비용과 실적을 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "49c228246557a37b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why GM Looks Far Cheaper Than Tesla On 2030",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/gm/articles/625592/why-gm-looks-far-cheaper-than-tesla-on-2030/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA",
-    "TSLA"
-   ],
-   "summary_ko": [
-    "2030년 기준 GM이 테슬라보다 훨씬 저렴해 보이는 이유를 다뤘다.",
-    "엔비디아 주가 하락 가능성도 함께 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "163b01d8018a0f7c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang, Elon Musk Or Dario Amodei: Who Is The Better Leader For Investors?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/nvda/articles/625431/jensen-huang-elon-musk-or-dario-amodei-who-is-the-better-leader-for-investors/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황, 일론 머스크, 다리오 아모데이 중 누가 더 나은 리더인지 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2a47c75d9409f559",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Ford Stock's $4 Billion EV Problem",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/f/articles/625560/ford-stocks-4-billion-ev-problem/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "포드 주의 40억 달러 규모 전기차 문제를 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c090c31142e3336e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "T-Bills At 4.3% Or Nvidia At A 3% Cash Yield Growing 76%?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/nvda/articles/625477/t-bills-at-4-3-or-nvidia-at-a-3-cash-yield-growing-76/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "4.3% 국채와 76% 성장하는 엔비디아의 현금 수익률을 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a3eadb39ad590f31",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Reports Today: Why Are Apollo And Blackstone Up While CoreWeave Falls?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/apo/articles/625538/nvidia-reports-today-why-are-apollo-and-blackstone-up-while-coreweave-falls/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 실적 발표일 아폴로와 블랙스톤은 오르고 코어위브는 하락한 이유를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "efbffe52d6d183ee",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Stock Looks Cheap On Profit. On Cash, Less So",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/nvda/articles/625474/nvidia-stock-looks-cheap-on-profit-on-cash-less-so/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 주가가 이익 기준으로 저렴해 보이지만 현금 기준으로는 덜 그렇다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ced6abab9b89bbe4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Risky Is Ondas Stock After Earnings?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/onds/articles/625432/how-risky-is-ondas-stock-after-earnings/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "실적 발표 이후 온다스 주식의 위험성을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "affc7de15d3f390c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Can Intel Stock Rise 30% From Here?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/intc/articles/625558/can-intel-stock-rise-30-from-here/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA",
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔 주가가 현재 수준에서 30% 상승할 수 있는지를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "09b46939f8165dd4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia's 20 Years: 3 Lessons For Today",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/nvda/articles/625476/nvidia-s-20-years-3-lessons-for-today/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 20년을 돌아보며 오늘날을 위한 3가지 교훈을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "b1c3387d18d7d243",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Ex-Nvidia CEO Huang Faces Congress: Which Other Stocks Carry His Risk?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/nvda/articles/625114/ex-nvidia-ceo-huang-faces-congress-which-other-stocks-carry-his-risk/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "의회에 출석하는 전 엔비디아 CEO 황과 관련된 리스크 종목들을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "05399ef4d72f64a3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia CEO Crisis: Which Groups Get Hurt, And Which Gain?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/nvda/articles/625430/nvidia-ceo-crisis-which-groups-get-hurt-and-which-gain/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO 위기로 인해 피해를 보는 그룹과 수혜를 보는 그룹을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "79d309a9507493a2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Anthropic IPO: Who Pays For A $64 Billion Listing?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/crm/articles/625115/anthropic-ipo-who-pays-for-a-64-billion-listing/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "앤스로픽의 640억 달러 상장 비용을 누가 지불하는지 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e53d0726bf336d65",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Profit Without Cash: 10 Of The Biggest Gaps Since 1999, And Where Nvidia Ranks",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/nvda/articles/625475/profit-without-cash-10-of-the-biggest-gaps-since-1999-and-where-nvidia-ranks/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "현금 없는 이익의 격차 문제를 다루며 엔비디아의 순위를 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "315a8528977a1751",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tyson Stock Jumped 9%: Is Beef Still Raising Your Grocery Bill?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/tsn/articles/625539/tyson-stock-jumped-9-is-beef-still-raising-your-grocery-bill/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 주가가 50% 하락할 수 있는지에 대한 내용을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ab5b9b6000e83f79",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Barrick Grows Faster Than Its Gold Peers. Why Is It The Cheapest?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/b/articles/625435/barrick-grows-faster-than-its-gold-peers-why-is-it-the-cheapest/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 주가 하락 가능성과 관련한 시장의 이야기를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "029a990dd321affd",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Own Qualcomm? Your Stock Rides On Data Center Now",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/qcom/articles/625596/own-qualcomm-your-stock-rides-on-data-center-now/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:56+00:00",
-   "tickers": [
-    "NVDA",
-    "QCOM"
-   ],
-   "summary_ko": [
-    "엔비디아 주가와 관련된 자금 흐름 이야기를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4e348ad105eda3a2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Netflix Stock Is At A One-Year Low",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/nflx/articles/625595/why-netflix-stock-is-at-a-one-year-low/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:56+00:00",
-   "tickers": [
-    "NVDA",
-    "NFLX"
-   ],
-   "summary_ko": [
-    "엔비디아 주가 하락 가능성에 초점을 맞춘 내용을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "8e3decae6bbbfbc6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Nutanix Stock Really Cheap At 11x Earnings?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/ntnx/articles/625602/is-nutanix-stock-really-cheap-at-11x-earnings/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:56+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 주가 전망과 관련된 자금 흐름을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "175576c2e3caa8be",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "At $215, Moderna Stock Already Prices In A Comeback",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/mrna/articles/625594/at-215-moderna-stock-already-prices-in-a-comeback/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:56+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 주가 변동 가능성을 다룬 내용을 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "8b308b3c98ff9a47",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Risky Nvidia Is Cheaper Than 'Safe' Walmart",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/nvda/articles/625607/risky-nvidia-is-cheaper-than-safe-walmart/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T10:38:55+00:00",
-   "tickers": [
-    "NVDA",
-    "WMT"
-   ],
-   "summary_ko": [
-    "엔비디아 주가 하락 시나리오와 관련된 내용을 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
