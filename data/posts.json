@@ -1,6 +1,104 @@
 {
- "updated": "2026-11-24T09:30:31.140880+00:00",
+ "updated": "2026-11-24T10:00:43.930726+00:00",
  "posts": [
+  {
+   "id": "621c82f9919a7aac",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia's long-time CFO and now former interim CEO Colette Kress was left in the dark about Jensen Huang's return: Report",
+   "excerpt": "She has been the CFO of Nvidia (NVDA) since 2013, helping to build the company at the center of the AI boom right alongside founder and public face Jensen Huang.",
+   "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-long-time-cfo-and-now-former-interim-ceo-colette-kress-was-left-in-the-dark-about-jensen-huangs-return-report-095913169.html?.tsrc=rss",
+   "published": "2026-11-24T09:59:13+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "830d579a990a568f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘Big Short’ Investor Steve Eisman Says Bitcoin Is ‘Nothing’ — Claims Crypto Just Tracks Nvidia: ‘Never’ Would He Buy It",
+   "excerpt": "Eisman said that, while he knows many who have made a fortune on gold, he stays out of it because he doesn't expect the U.S. deficit to cause \"a calamity anytime soon.\"",
+   "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/big-short-investor-steve-eisman-says-bitcoin-is-nothing-claims-crypto-just-tracks-nvidia-never-would-he-buy-it/cNbs2mBR9kQ?.tsrc=rss",
+   "published": "2026-11-24T09:46:06+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "02ff0225c36f7206",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO",
+   "excerpt": "Nvidia is expected to see volatile trading over the next few sessions.",
+   "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-falls-after-epic-rally-on-jensen-huangs-return-as-ceo-094535877.html?.tsrc=rss",
+   "published": "2026-11-24T09:45:35+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f9733200434b9a9d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang Is Back at Nvidia, but Bettors Are Already Wagering on His Exit and Divorce",
+   "excerpt": "Jensen Huang may be back as Nvidia Corp.’s (NASDAQ:NVDA) CEO, but prediction markets are already taking bets on his next exit. Polymarket Bets on Huang Proliferate The betting crowd on Polygon (CRYPTO: POL)-based Polymarket sees a 5% chance of Huang...",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63569511/jensen-huang-ceo-nvidia-polymarket-prediction-market-exit-odds?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "published": "2026-11-24T09:43:35+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "2893960ac97c9f3d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Huang comeback in focus; Fed’s Williams on rates - what’s moving markets",
+   "excerpt": "Investing.com - And catch your breath. Following a sharp spike in shares on Monday, U.S. stock futures have oscillated around the flatline as traders digested the implications of Nvidia CEO Jensen Huang’s unexpected reinstatement. Shares in Taiwan and South Korea join the global rally, although some doubts linger around the artificial intelligence trade despite Huang’s return.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/huang-comeback-focus-fed-williams-093606508.html?.tsrc=rss",
+   "published": "2026-11-24T09:36:06+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "1b6789705d626ad0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "US Futures Mixed After Monday’s Nvidia-Led Chip Rally — ZM, HPE, AMD, BABA In Focus",
+   "excerpt": "Brent and WTI futures slipped as concerns over rising supply outweighed risks to shipping through the Strait of Hormuz.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/us-futures-mixed-after-monday-s-nvidia-led-chip-rally-zm-hpe-amd-baba-in-focus/cNbs23VR9kf?.tsrc=rss",
+   "published": "2026-11-24T09:30:16+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD",
+    "BABA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "c4bcd6e47ebdc606",
    "kind": "news",
@@ -17,6 +115,22 @@
     "JPMorgan Chase의 5년간 수익률과 자본 수익성이 주가 가격을 뒷받침하는지 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "dcd33e9713a0cab8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alarm.com (ALRM) Stock Gets Fair Value Bump After Split Analyst Revisions",
+   "excerpt": "The latest update for Alarm.com Holdings lifts the fair value estimate from US$70 to US$73, which feeds into a cluster of Street price targets that now runs from around US$70 to US$80, alongside JPMorgan’s lower US$50 view. This spread reflects different opinions on how much sector deal activity and the SaaS mix are already reflected in the stock, as well as how durable the recent hardware strength might be. Read on to see how these shifting targets fit into the broader narrative and how you...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alarm-com-alrm-stock-gets-091203776.html?.tsrc=rss",
+   "published": "2026-11-24T09:12:03+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "058af583bbe90666",
@@ -52,6 +166,22 @@
     "알파벳이 다가오는 변화 속에서 향후 5년간 가장 잘 자리 잡은 기업이라고 전망했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "a2f0b3f11fcc1c65",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Advanced Micro Devices Holders Got Right Before A 111% Run",
+   "excerpt": "If you had paused on AMD in late 2025, you were looking at split analyst views on how far AI data centers and EPYC CPUs could really take the business. Holding Advanced Micro Devices over the past year would have returned 110.9%, including dividends. That outcome now raises a sharper question. If you were weighing those bullish AI narratives against the more cautious concerns on competition and regulation, what exactly tipped the balance for you then? Narratives are how investors here put a...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-holders-got-090947609.html?.tsrc=rss",
+   "published": "2026-11-24T09:09:47+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "78db75393bf6a550",
@@ -122,6 +252,22 @@
    "tone": "neu"
   },
   {
+   "id": "16f095270e9be038",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AI’s most powerful CEO is back. But how long will the market confidence last?",
+   "excerpt": "The magnitude of the market’s moves underpins how critical Nvidia and its CEO Jensen Huang are to the health of the AI boom.",
+   "url": "https://www.cnn.com/2026/11/24/investing/nvidia-jensen-huang-ai-financing-boom?.tsrc=rss",
+   "published": "2026-11-24T09:00:15+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
    "id": "3d0b22c0fa71012e",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -172,6 +318,22 @@
     "이들은 그가 회사의 필수적인 인물이라고 믿는다고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "d29f1bc53b05ea26",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CrowdStrike Agreed to Buy Zscaler, Which Trades at a “50% Discount” to Its History",
+   "excerpt": "Key TakeawaysCrowdStrike agreed on Nov. 23 to buy Zscaler in an all-stock deal valued at about $43.",
+   "url": "https://www.tikr.com/blog/crowdstrike-agreed-to-buy-zscaler-which-trades-at-a-50-discount-to-its-history?ref=yahoofinance&tlnk=yf-261124-h782977j&.tsrc=rss",
+   "published": "2026-11-24T08:43:07+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "d64a2f2e71525928",
@@ -84619,56 +84781,6 @@
     "Zacks 애널리스트 블로그에서 대만, 존슨앤드존슨, 팔란티어 등을 언급했다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "387d680572579493",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla is seemingly rushing Cybercab production to win a bet with a YouTuber. Reckless, or Elon Musk’s genius at work?",
-   "excerpt": "Tesla's latest move has some questioning whether CEO Elon Musk is prioritizing a personal bet over the company’s broader business interests.",
-   "url": "https://finance.yahoo.com/technology/articles/tesla-seemingly-rushing-cybercab-production-100000963.html?.tsrc=rss",
-   "published": "2026-11-17T10:00:00+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라가 유튜버와의 내기를 위해 사이버캡 생산을 서두르고 있다는 주장을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1ffee84407a1f65c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nokia stock tumbles after Nvidia cuts stake by more than half",
-   "excerpt": "Investing.com -- Nokia shares fell more than 4% Tuesday after Nvidia disclosed it cut its stake in the Finnish telecom-equipment maker by 56% in the third quarter.",
-   "url": "https://finance.yahoo.com/news/nokia-stock-tumbles-nvidia-cuts-093318816.html?.tsrc=rss",
-   "published": "2026-11-17T09:33:18+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 노키아 지분을 절반 이상 축소하면서 노키아 주가가 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "952d1f78be01728f",
-   "kind": "reddit",
-   "source": "r/StockMarket",
-   "author": "/u/Altruistic_Recipe932",
-   "title": "Alphabetical order wasted most of my QQQ earnings prep",
-   "excerpt": "By bedtime I'd read several company reports and still hadn't reached some of QQQ's biggest holdings. The files were in alphabetical order, so I'd kept opening the next one. My shift started early the next morning. I stopped there. The next evening I put the holding weights beside the earnings calendar before opening another report. I'd been watching the QQQUSDT perpetual on BYDFi and thinking about the basket as a lot of companies. Nasdaq's index guide described the modified market capitalization weighting. Those companies contributed very different amounts to the basket. I'd spent time on smaller holdings while some larger ones were still waiting in the folder. I got through the available reports from the larger holdings that evening. The smaller companies waited until the weekend, when I",
-   "url": "https://www.reddit.com/r/StockMarket/comments/1xyg3zy/alphabetical_order_wasted_most_of_my_qqq_earnings/",
-   "published": "2026-11-17T09:30:33+00:00",
-   "tickers": [
-    "QQQ"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 3
   }
  ]
 }
