@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-24T08:30:32.206056+00:00",
+ "updated": "2026-11-24T09:00:38.797358+00:00",
  "posts": [
+  {
+   "id": "965b2a76966c2292",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia despite scandal",
+   "excerpt": "TAIPEI, Taiwan (AP) — People in Taiwan were initially shocked when the scandal broke. But now that Jensen Huang has been reinstated as CEO of chipmaking giant Nvidia, some in his birthplace see the decision as justified, believing he is indispensable to the company.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-native-taiwan-welcome-084941247.html?.tsrc=rss",
+   "published": "2026-11-24T08:49:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "대만 일부 지역 주민들은 젠슨 황의 엔비디아 CEO 복귀를 지지하고 있다.",
+    "이들은 그가 회사의 필수적인 인물이라고 믿는다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f9ef85a922130d63",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "European shares pause after month-best rally on Nvidia euphoria",
+   "excerpt": "Investing.com - European equities paused for breath on Tuesday, edging marginally lower as investors digested a historic, Nvidia-fueled relief rally and pivoted their focus back to a formidable U.S. monetary policy overhang.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/european-shares-pause-month-best-083749877.html?.tsrc=rss",
+   "published": "2026-11-24T08:37:49+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "유럽 증시는 엔비디아발 랠리 이후 숨 고르기 장세를 보였다.",
+    "투자자들은 미국 통화 정책의 영향에 다시 주목했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0d9747bee05d16b1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "David Tepper, Cathie Wood and 44 Other Big Funds Bought Nvidia Last Quarter, While 27 Sold. Who’s Right?",
+   "excerpt": "Key TakeawaysOf 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 46 bought Nvidia and 27 sold, with David Tepper’s Appaloosa and Cathie Wood’s ARK Invest among the buyers.",
+   "url": "https://www.tikr.com/blog/david-tepper-cathie-wood-and-44-other-big-funds-bought-nvidia-last-quarter-while-27-sold-whos-right?ref=yahoofinance&tlnk=yf-261124-6gh9m74h&.tsrc=rss",
+   "published": "2026-11-24T08:20:22+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "지난 분기 동안 여러 대형 펀드가 엔비디아를 매수한 것으로 나타났다.",
+    "데이비드 테퍼의 아팔루사와 캐시 우드의 ARK 인베스트 등이 매수세에 가담했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "8aecc2f385280227",
    "kind": "youtube",
@@ -53,6 +107,60 @@
     "메모리 및 서버 부품 비용 상승으로 인해 델의 매출총이익률이 하락세를 보였다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "bae7d049fb4aba1c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia and 3 AI Chip Stocks for Export Control Resilient Growth",
+   "excerpt": "AI chip headlines moved fast after Nvidia brought Jensen Huang back as CEO, and that leadership reset has quickly reshaped how traders view anything linked to high-end computing and export controls. Some stocks tied to this story now sit at the center of fresh optimism, while others face new questions. This article highlights three stocks exposed to that news and explains why each might merit your attention or your caution right now. The stocks covered next are just a starter pack, and the...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-ai-chip-stocks-081204748.html?.tsrc=rss",
+   "published": "2026-11-24T08:12:04+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 CEO 복귀 이후 AI 반도체 주식들과 수출 통제 관련 논의가 주목받고 있다.",
+    "기사는 이와 관련된 3개 종목을 다루며 투자자의 주의나 관심을 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ebc25c3458808800",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Pecoy Copper And 2 Canadian Founder Led Stocks To Watch",
+   "excerpt": "Asian shares recently rallied after Jensen Huang returned as Nvidia’s CEO, which reignited interest in founder-led businesses that investors feel personally steer their companies through shocks. That spotlight on committed leaders puts Canadian founder-run stocks in focus as investors look for management teams with real skin in the game. This article breaks down three founder-led Canadian stocks from our screener that align with that thesis. The three stocks highlighted here offer a...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/pecoy-copper-2-canadian-founder-081123606.html?.tsrc=rss",
+   "published": "2026-11-24T08:11:23+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 엔비디아 복귀로 창업자 경영 체제에 대한 시장의 관심이 재점화됐다.",
+    "기사는 이와 연관된 캐나다의 창업자 운영 기업 3곳을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "918966bbc5d02a6f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Keystone Law Group And 2 Other British Founder Led Stocks To Watch",
+   "excerpt": "Jensen Huang’s dramatic return to Nvidia has reminded markets how much conviction leadership can sway billions in value when founders stay closely tied to their creations. For United Kingdom investors, that spotlight on founder grit turns attention to locally listed businesses where the original builders still call the shots. This article walks through three founder-run UK stocks that show how aligned leadership can shape long term potential. The three stocks highlighted here offer a...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/keystone-law-group-2-other-081113560.html?.tsrc=rss",
+   "published": "2026-11-24T08:11:13+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 CEO 복귀는 시장에 창업자 리더십의 중요성을 상기시켰다.",
+    "영국 투자자들의 시선이 창업자가 경영을 맡고 있는 현지 기업들로 향하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e22a05ba232d4a14",
@@ -259,9 +367,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "엔비디아를 AI 거물로 키워낸 젠슨 황의 여정과 CEO 복귀 과정을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "27f6c41cb2ceb8e3",
@@ -275,9 +384,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "엔비디아 관련 소식으로 주가가 상승한 날 미국 가상화폐 ETF는 손실을 보았다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "fc6565c8bd1b8133",
@@ -308,9 +418,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "엔비디아의 최근 실적 발표에서 언급된 클라우드 백로그가 AI 인프라 주식에 긍정적이라고 주장했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "447d787036f3cea1",
@@ -324,9 +435,10 @@
    "tickers": [
     "BA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "미즈호 애널리스트들은 장기적인 방산 수요를 근거로 보잉, 노스롭, 록히드, 크라토스를 유망한 방산주로 평가했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "43ea4270114ad2d8",
@@ -340,9 +452,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "폴리마켓의 일부 트레이더들이 젠슨 황의 엔비디아 복귀를 미리 예상해 큰 수익을 거두었다고 분석 플랫폼이 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "9c3ab94d40b22e84",
@@ -421,9 +534,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "젠슨 황이 엔비디아 CEO로 즉시 복귀한다는 소식에 주가가 30% 이상 급등했다.",
+    "이는 역사상 세 번째로 큰 일일 상승 폭을 기록했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b5ff9682a74782a4",
@@ -456,9 +571,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "엔비디아 소식에 올랐던 비트코인 가격이 상승분을 빠르게 반납하며 하락했다.",
+    "암호화폐 유동성은 여전히 얇은 상태라고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "fcb56cf9560cd722",
@@ -84416,73 +84533,6 @@
     "세레브라스와 마이크로소프트의 계약 이후 주가 전망을 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "6113172f1eb6bea3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Needs to Reassure Investors About the Post-Huang Era",
-   "excerpt": "It has been an eventful couple of weeks for Nvidia, and the stakes have never been higher as it reports its third-quarter earnings on Tuesday afternoon.",
-   "url": "https://finance.yahoo.com/m/cf0b0b55-c20e-3e57-8011-21ed66a5756e/nvidia-needs-to-reassure.html?.tsrc=rss",
-   "published": "2026-11-17T08:50:28+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 3분기 실적 발표를 앞두고 투자자들에게 안심을 주어야 한다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "11c5f2487090523d",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/supplykatusa",
-   "title": "if NVDA stops writing checks, whos still buy GPUs?",
-   "excerpt": "Nvidia put $2B into CoreWeave in Jan. to help get its data centers built faster. On Kress's 1st call as interim CEO, i wanna hear how willing she is to keep writing checks like that. If she gets pickier, do the same GPU orders still come in as fast? I'd love actual Rubin ship date, too. waiting on memory is one thing. Waiting for cusomters to raise the cash hits is dfferent. Anyone here follow CoreWeave or the other GPU clouds? who can keep building at this pace with less help from Nvidia? submitted by /u/supplykatusa to r/stocks [link] [comments]",
-   "url": "https://www.reddit.com/r/stocks/comments/1xyfeel/if_nvda_stops_writing_checks_whos_still_buy_gpus/",
-   "published": "2026-11-17T08:45:12+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 3
-  },
-  {
-   "id": "98b3330b6db29bc5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "European shares slip on fresh U.S. chip curbs",
-   "excerpt": "Investing.com - European equities lost their footing again on Tuesday, as a tightening noose of U.S. semiconductor export controls and a deepening corporate governance crisis at AI-bellwether Nvidia triggered a de-risking event across the global technology sector.",
-   "url": "https://finance.yahoo.com/technology/articles/european-shares-slip-fresh-u-083821310.html?.tsrc=rss",
-   "published": "2026-11-17T08:38:21+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미국의 반도체 수출 통제 강화와 엔비디아의 기업 거버넌스 위기로 유럽 증시가 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "903e50c78bf91312",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Nvidia Fallout Hits Southeast Asia Hard",
-   "excerpt": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. Chapters: 00:00:00 - Insight with Haslinda Amin Begins 00:00:22 - US moves to curb China's remote access to chips 00:08:29 - Chinese AI stock rout deepens as US curbs bite 00:12:07 - Water Tower Research Technology MD James Kisner on the Nvidia saga and the AI trade 00:23:01 - Xi-Trump-Putin gets world worrying about a great power stitch-up 00:23:33 - Stratbase Institute Founder Victor Manhit on ASEAN countries and the upcoming Trump-Putin-Xi meeting 00:36:48 - ASEAN countries sign first digital-economy agreement 00:37:40 -",
-   "url": "https://www.youtube.com/watch?v=C9jfuVjwA2I",
-   "published": "2026-11-17T08:34:53+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미국의 대중국 반도체 접근 제한 조치와 엔비디아 관련 소식이 동남아시아에 미친 영향을 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
