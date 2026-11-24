@@ -1,6 +1,178 @@
 {
- "updated": "2026-11-24T05:00:40.048483+00:00",
+ "updated": "2026-11-24T05:30:31.484369+00:00",
  "posts": [
+  {
+   "id": "5ea0391847b17fc8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "BofA names its top U.S. restaurant stock picks",
+   "excerpt": "Investing.com -- Bank of America sees improving restaurant demand and stronger execution by large chains supporting a recovery in the U.S. restaurant industry, with fast-casual operators particularly well positioned to gain market share.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-names-top-u-restaurant-051815679.html?.tsrc=rss",
+   "published": "2026-11-24T05:18:15+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카는 레스토랑 수요 개선과 대형 체인의 실행력 강화가 업계 회복을 뒷받침한다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "52cc68b36958b2df",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The 10-Year Topped 5% For The First Time Since 2007. What Happened Next?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/spy/articles/627401/the-10-year-topped-5-for-the-first-time-since-2007-what-happened-next/2026-11-23?.tsrc=rss",
+   "published": "2026-11-24T05:06:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아와 관련된 SEC 조사 보도 및 주가 전망 내용을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "860ad04d3e985ece",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stocks Opened Up, Then Fell 3% By The Close. What Happened The Last 45 Times?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/spy/articles/627441/stocks-opened-up-then-fell-3-by-the-close-what-happened-the-last-45-times/2026-11-23?.tsrc=rss",
+   "published": "2026-11-24T05:06:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아에 대한 SEC 조사 보도와 주가 하락 가능성 관련 내용을 언급했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "4d54c976009b9425",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "1966 Or 1995: Which Way Does America's $2.1 Trillion Deficit Go?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/spy/articles/627413/1966-or-1995-which-way-does-america-s-2-1-trillion-deficit-go/2026-11-23?.tsrc=rss",
+   "published": "2026-11-24T05:06:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미국의 적자 상황과 함께 엔비디아 관련 SEC 조사 보도를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ade26e710be65fe9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Inflation Math, Updated: The Fed Is Fighting Oil",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/spy/articles/627433/the-inflation-math-updated-the-fed-is-fighting-oil/2026-11-23?.tsrc=rss",
+   "published": "2026-11-24T05:06:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "연방준비제도와 유가 관련 인플레이션 문제를 다루며 엔비디아 관련 보도를 함께 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ac2e856c5ea11620",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney Stops Reporting Streaming Profit. Should You Worry?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/dis/articles/627655/disney-stops-reporting-streaming-profit-should-you-worry/2026-11-23?.tsrc=rss",
+   "published": "2026-11-24T05:06:42+00:00",
+   "tickers": [
+    "NVDA",
+    "DIS"
+   ],
+   "summary_ko": [
+    "디즈니의 스트리밍 이익 미보고 소식과 엔비디아 관련 보도를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2594bfe3044288a3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Agnico Eagle Stock Bounce Off $151 Again?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/aem/articles/627858/can-agnico-eagle-stock-bounce-off-151-again/2026-11-23?.tsrc=rss",
+   "published": "2026-11-24T05:06:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "아그니코 이글 주가 반등 가능성과 엔비디아 관련 보도 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "12f78ae97ef67393",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can Sales Abroad Lift Hims & Hers Stock?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/hims/articles/627650/can-sales-abroad-lift-hims-hers-stock/2026-11-23?.tsrc=rss",
+   "published": "2026-11-24T05:06:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "해외 매출이 핌스 앤 허스의 주가에 미치는 영향과 엔비디아 관련 보도를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "71ffc76db1101f10",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Did Palo Alto Networks Stock Fall?",
+   "excerpt": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://www.trefis.com/stock/panw/articles/627845/why-is-palo-alto-networks-stock-falling/2026-11-23?.tsrc=rss",
+   "published": "2026-11-24T05:06:42+00:00",
+   "tickers": [
+    "NVDA",
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로알토 네트웍스의 주가 하락 이유와 엔비디아 관련 보도를 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "f238158b281cb177",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Path Ahead as Jensen Huang Returns as Nvidia's CEO",
+   "excerpt": "Less than two weeks after Jensen Huang left Nvidia under the cloud of scandal, he is reclaiming the titles of president and chief executive officer. The board reinstated Jensen Huang as head of the world's largest chipmaker in one of the most startling corporate comebacks in history, sending the stock on its biggest rally in decades. Our guests weigh in on Bloomberg TV.",
+   "url": "https://finance.yahoo.com/video/path-ahead-jensen-huang-returns-050447539.html?.tsrc=rss",
+   "published": "2026-11-24T05:04:47+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황이 엔비디아 CEO로 복귀하면서 주가가 수십 년 만에 최대 급등세를 기록했다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "b88a60f4eace41cd",
    "kind": "youtube",
@@ -13,9 +185,28 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "아시아 증시는 젠슨 황의 복귀가 AI 관련주의 상승을 이끌면서 급등했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "76d33c81a3598bcb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia scandal lands on Southeast Asia as US blacklists Singapore's Megaspeed",
+   "excerpt": "IntelliNews summary: • Nvidia's board said US government input left it confident Huang's return poses no national security risk; he faces a closed-door House interview on December 1. • Megaspeed has been under US investigation since 2024, and the Justice Department now leads a criminal inquiry; no charges have been announced.",
+   "url": "http://www.intellinews.com/nvidia-scandal-lands-on-southeast-asia-as-us-blacklists-singapore-s-megaspeed-487816/?.tsrc=rss",
+   "published": "2026-11-24T04:51:27+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 이사회는 미국 정부 입장으로 볼 때 황의 복귀가 안보 위험이 없다고 자신했다고 전했다.",
+    "싱가포르의 메가스피드가 미국 블랙리스트에 올랐으며 법무부가 범죄 수사를 주도하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ec43510f03205116",
@@ -29,9 +220,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아는 젠슨 황의 CEO 복귀 소식에 힘입어 주가가 급등하며 7일간의 하락세를 끊었다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "8dd16aaaffe1322e",
@@ -45,9 +237,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "트럼프 대통령이 자신이 엔비디아의 젠슨 황 복귀를 설득했다고 주장했다고 보도했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "dd325d5e4489516b",
@@ -61,9 +254,10 @@
    "tickers": [
     "HOOD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "로빈후드 주가가 두 달 내 최대 상승폭을 기록한 가운데, 짐 크레이머는 주가가 너무 높다고 평가했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "dc43eda8f7b5ef69",
@@ -77,9 +271,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "AI 관련주 랠리와 기대감 속에 AXT 주가가 24% 급등했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "9ef69793e404dd91",
@@ -93,9 +288,10 @@
    "tickers": [
     "COST"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "코스트코의 30달러 특별 배당과 주가 상승 흐름을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "166bf2d8cebd2180",
@@ -109,9 +305,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아 CEO 젠슨 황의 복귀로 주가가 30% 급등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "8e4fd1ff2d3cfb54",
@@ -125,9 +322,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "키메라 주가가 30% 상승하며 AI 관련주보다 높은 성과를 냈다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ad3c98d20d84821a",
@@ -141,9 +339,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "젠슨 황의 엔비디아 복귀로 글로벌 AI 관심이 커졌다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "647194630346e5ee",
@@ -157,9 +356,10 @@
    "tickers": [
     "IONQ"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "양자 컴퓨팅과 에너지 그리드 수요의 연관성을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "712ab6cd9f791fef",
@@ -173,9 +373,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아 CEO 복귀가 아시아 및 호주 증시에 미친 영향을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7a255a0456a3521e",
@@ -207,9 +408,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "복귀한 젠슨 황이 직원들 환영을 받으며 사과와 약속을 했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "25750bfbe2c2cc0e",
@@ -2398,6 +2600,23 @@
    "tone": "neu"
   },
   {
+   "id": "1b0900ec043fe642",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia’s Board Had Other Options: Robert Maciejko",
+   "excerpt": "By Robert Maciejko Jensen Huang is back at Nvidia Corp. (Nasdaq: NVDA). The stock jumped more than 30% on the news, after losing about a third of its value in two weeks. I understand why. What interests me more than the last decision is what the board could have done in the eleven days before […] The post Nvidia’s Board Had Other Options: Robert Maciejko appeared first on CorpGov.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-board-had-other-options-222213836.html?.tsrc=rss",
+   "published": "2026-11-23T22:22:13+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황 복귀 소식에 엔비디아 주가가 급등했다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "ab64f7c69017c448",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -3755,9 +3974,10 @@
    "tickers": [
     "MSFT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "핀터레스트가 마이크로소프트 광고와의 파트너십을 발표했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "10a051ffaa3d304c",
@@ -84027,57 +84247,6 @@
    ],
    "summary_ko": [
     "알리바바가 실적 발표를 앞둔 가운데 월가는 상승 여력을 보이고 있으나 마이클 버리는 AI 경쟁사를 주시하고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9108258b18949f9e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "JPMorgan Chase (JPM) Launches After Hours Token Transfers And Backs $500 Million Financing",
-   "excerpt": "JPMorgan Chase (NYSE:JPM) and DBS launched after hours transfers of tokenized U.S. dollars across connected blockchain networks for clients. The banks aim to give corporate users more flexibility in cross border liquidity management by settling tokenized funds outside regular hours. JPMorgan co led a US$500 million financing for VulcanForms to expand U.S. advanced manufacturing under its Security and Resiliency Initiative. The blockchain work with DBS and the VulcanForms funding matter, but...",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-chase-jpm-launches-hours-051401307.html?.tsrc=rss",
-   "published": "2026-11-17T05:14:01+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "JP모건 체이스가 토큰화된 자금의 시간외 이전 기능을 도입하고 제조업체 자금 조달을 공동 주도했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "14ef08b91836e4d8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Chart of the Day: Walmart Is a Defensive Giant With Offensive Upside",
-   "excerpt": "Walmart stock is holding up well as market uncertainty weighs on investor sentiment and risk appetite.",
-   "url": "https://finance.yahoo.com/m/166e5e75-b575-3afe-83d4-6bb484f29683/chart-of-the-day%3A-walmart-is.html?.tsrc=rss",
-   "published": "2026-11-17T05:07:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "시장 불확실성 속에서도 월마트 주가가 방어적 특성과 상승 잠재력을 보여주며 선방하고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "67db5316042f2c75",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia set for first earnings call since Jensen Huang's resignation",
-   "excerpt": "Nvidia is set to hold its first earnings call since former CEO Jensen Huang resigned. Here's how to watch.",
-   "url": "https://www.usatoday.com/story/money/2026/11/17/nvidia-earnings-call-how-to-watch/92819260007/?.tsrc=rss",
-   "published": "2026-11-17T05:02:34+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 전 최고경영자 사임 후 첫 실적 컨퍼런스 콜을 개최할 예정이라고 전했다."
    ],
    "tone": "neu"
   }
