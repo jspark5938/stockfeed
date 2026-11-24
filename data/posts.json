@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-24T06:30:30.573217+00:00",
+ "updated": "2026-11-24T07:00:38.638562+00:00",
  "posts": [
+  {
+   "id": "b5ff9682a74782a4",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Jensen Huang's Return to Nvidia Lifts Asian Markets",
+   "excerpt": "\"Bloomberg: The China Show is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter.\" Chapters: 00:00:00 - The China Show opens 00:05:46 - Nvidia reinstates Huang in stunning reversal after Trump push 00:14:13 - Creative Strategies' Tim Bajarin on Huang's comeback and the AI trade 00:26:15 - Lotus Asset Management's Hao Hong on market outlook 00:35:38 - Lotus Asset Management's Hao Hong on whether Nvidia reversal will revive AI optimism 00:39:30 - US blacklists Alibaba subsidiary Apex 00:45:11 - Nvidia suppliers rally after Huang's reinstatement 00:53:24 - Nvidia's AI financing concerns pe",
+   "url": "https://www.youtube.com/watch?v=sHvkE2RO6Y0",
+   "published": "2026-11-24T06:58:08+00:00",
+   "tickers": [
+    "NVDA",
+    "BABA"
+   ],
+   "summary_ko": [
+    "블룸버그는 젠슨 황의 엔비디아 복귀가 아시아 시장에 미친 영향을 다뤘다.",
+    "방송에서는 엔비디아의 복귀가 AI 낙관론을 되살릴지 등을 논의했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "fcb56cf9560cd722",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bitcoin And Stocks Are Moving In Different Directions: Arthur Hayes Says Nvidia's Rally Is The 'Worst Thing' For Crypto",
+   "excerpt": "Hayes said Anthropic's failure to close higher on the same day showed buyers fading rallies.",
+   "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/arthur-hayes-nvidia-rally-bitcoin-november-selloff/cNbrzA2R9k3?.tsrc=rss",
+   "published": "2026-11-24T06:45:25+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "아서 헤이즈는 엔비디아의 랠리가 가상화폐에 가장 최악의 일이라고 주장했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "41c8183746e1a93a",
    "kind": "news",
@@ -84235,111 +84271,6 @@
     "엔비디아의 실적 발표를 앞두고 월가의 위험 투자 심리가 위축되면서 비트코인 가격이 하락했다고 전했다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "6ddeab3a2644ab8b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "FRN Variable Rate Fix",
-   "excerpt": "LONDON, November 17, 2026-- Re:BANK OF AMERICA CORPORATION",
-   "url": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-070000756.html?.tsrc=rss",
-   "published": "2026-11-17T07:00:00+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "summary_ko": [
-    "뱅크오브아메리카와 관련된 변동금리 채권의 금리 고정 건을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "95fc35853817e2b9",
-   "kind": "reddit",
-   "source": "r/stocks",
-   "author": "/u/Economy-Prune-8600",
-   "title": "Where has the money gone? Pointing out the Obvious",
-   "excerpt": "Lots of people seem to be panicking on Reddit over the current state of things. Which feels odd since nothing that drastic has happened from my point of view. But then I realized, my point of view is way different than a lot of other people’s. My portfolio has been really chill. So I did some comparing. Tech stocks like NVIDIA have been tanking. But stocks like Costco have been doing great. Over the last month Costco has gone up 11.8%. NVIDIA is down 28% over the same period. Same is true for many of my pharma holdings and other “value stocks.” The flow of money from one sector to others isn’t strange. People are suddenly getting worried about all the things Burry has been screaming about for two plus years and suddenly people think he has some good points. Here is where things get weird. ",
-   "url": "https://www.reddit.com/r/stocks/comments/1xydp8g/where_has_the_money_gone_pointing_out_the_obvious/",
-   "published": "2026-11-17T06:57:23+00:00",
-   "tickers": [
-    "NVDA",
-    "COST"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 3
-  },
-  {
-   "id": "89fea0a70da8bc8b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Zacks Investment Ideas feature highlights: Target and Walmart",
-   "excerpt": "Target and Walmart have been highlighted in this Investment Ideas article.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-065600463.html?.tsrc=rss",
-   "published": "2026-11-17T06:56:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "타겟과 월마트가 잭스 투자 아이디어 아티클에서 주요 종목으로 소개되었다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e7ffb5ddcd64192e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "“What Would It Take” for Investors to Finally Admit that Micron Is Poised to Win for the Long Term?",
-   "excerpt": "Key TakeawaysMicron and SK hynix fell on Nov. 16 ahead of Nvidia’s earnings, even after Micron earned a record $74.",
-   "url": "https://www.tikr.com/blog/what-would-it-take-for-investors-to-finally-admit-that-micron-is-poised-to-win-for-the-long-term?ref=yahoofinance&tlnk=yf-261117-rprf3fh3&.tsrc=rss",
-   "published": "2026-11-17T06:49:38+00:00",
-   "tickers": [
-    "NVDA",
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론이 최고 실적을 기록했음에도 엔비디아 실적 발표를 앞두고 주가가 하락했다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ff258e8adbb7f4e8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Zacks Investment Ideas feature highlights: Nvidia, CoreWeave, Nebius, Micron and Sandisk",
-   "excerpt": "Nvidia, CoreWeave, Nebius, Micron and Sandisk have been highlighted in this Investment Ideas article.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-064900844.html?.tsrc=rss",
-   "published": "2026-11-17T06:49:00+00:00",
-   "tickers": [
-    "NVDA",
-    "MU"
-   ],
-   "summary_ko": [
-    "엔비디아와 마이크론 등이 잭스 투자 아이디어 아티클에서 주요 종목으로 다뤄졌다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "b69850b4d279fcfb",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "US Targets China's Remote Chip Access With New Curbs",
-   "excerpt": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Avril Hong give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. Chapters: 00:00:00 - The China Show opens 00:05:09 - US moves to restrict China's remote access to chips 00:16:20 - UBS' Eric Lin on Chinese markets 00:25:49 - Baidu posts sixth straight quarterly sales drop 00:30:32 - China optical stocks tumble amid Nvidia fallout 00:37:15 - US chip restrictions loom over ASEAN summit 00:49:56 - Chinese tech leaders converge at APEC CEO Summit 00:51:17 - Asia's AI buildout faces new US chip restrictions 01:00:36 - Bloomberg Intelligence on Baidu's competitive position in ",
-   "url": "https://www.youtube.com/watch?v=Z2YVyd3tGG0",
-   "published": "2026-11-17T06:41:45+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미국이 중국의 원격 칩 접근을 제한하는 새로운 규제를 추진하고 있다고 다뤘다.",
-    "엔비디아 관련 여파로 중국 광학 관련 주식들이 하락세를 보였다고 언급했다."
-   ],
-   "tone": "neg"
   }
  ]
 }
