@@ -1,6 +1,55 @@
 {
- "updated": "2026-11-24T01:30:30.872770+00:00",
+ "updated": "2026-11-24T02:00:38.990603+00:00",
  "posts": [
+  {
+   "id": "40c8bf02dde42e5c",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Jensen Huang's Return Won't Solve Nvidia's Biggest Problems",
+   "excerpt": "Jensen Huang is back at Nvidia, but General Catalyst's Madhu Namburi, who spent 25 years advising tech boards at J.P. Morgan, says his return doesn't solve the company's biggest challenges. He explains the competition from custom chips and CUDA alternatives, why Nvidia's margins could come down, and why cheaper GPUs could actually be good for AI. He also weighs whether AI is a supercycle or a normal boom-and-bust cycle, how neoclouds face pressure from rising rates, and why he expects more cybersecurity deals after CrowdStrike and Zscaler. Presented by Factory. Timestamps 0:00 Did Washington rescue the market? 0:21 Jensen's three challenges 1:53 Custom chips and CUDA rivals 2:46 What happens to Nvidia's margins? 3:57 Why cheaper GPUs could help AI 4:47 Supercycle or normal cycle? 5:11 What",
+   "url": "https://www.youtube.com/watch?v=HDNsi5IyoEE",
+   "published": "2026-11-24T01:56:46+00:00",
+   "tickers": [
+    "NVDA",
+    "CRWD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "16ac659f660b4c15",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
+   "excerpt": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-rejoices-jensen-huang-second-013439777.html?.tsrc=rss",
+   "published": "2026-11-24T01:34:39+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "3ea89b9b103656a5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CFO Colette Kress Just Made This Subtle Shift That Could Save Nvidia Shareholders",
+   "excerpt": "Nvidia may now take a more deliberate approach to customer financing.",
+   "url": "https://www.fool.com/investing/2026/11/23/cfo-colette-kress-just-made-this-subtle-shift-that-could-save-nvidia-shareholders/?.tsrc=rss",
+   "published": "2026-11-24T01:26:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "a992de19a660402a",
    "kind": "news",
@@ -51,6 +100,22 @@
     "진 문스터는 매각세에도 불구하고 엔비디아의 기술이 여전히 경쟁사들을 앞서고 있다고 언급했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "39a1bc9f3571d3d7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bloom Energy Stock What Changed in AI Data Center Demand",
+   "excerpt": "Bloom Energy has reported strong demand for its fuel cell systems tied to AI data centers, raised its 2026 revenue forecast, and secured attention through links to Oracle’s Project Jupiter contract and renewed AI infrastructure spending. The real story is the growing need for on-site power as data centers strain local grids, which directly aligns with Bloom Energy’s core business of providing fuel cell based electricity solutions for power hungry AI facilities. We will now look at how Bloom...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-changed-ai-011325575.html?.tsrc=rss",
+   "published": "2026-11-24T01:13:25+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "6d657d65b9e42e2b",
@@ -120,6 +185,22 @@
     "관계자들은 엔비디아 칩에 대한 전 세계적인 수요가 급증하고 있다고 밝혔다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "3186a36f22f8b745",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Review & Preview: Reverse Uno",
+   "excerpt": "Markets bounced on the news that Jensen Huang is back as Nvidia CEO.",
+   "url": "https://finance.yahoo.com/m/9221467f-8919-3930-9152-19ec24ab93a5/review-%26-preview%3A-reverse-uno.html?.tsrc=rss",
+   "published": "2026-11-24T00:55:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "003a93f0874438b9",
@@ -3804,7 +3885,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "38d91314dea5ccdc",
@@ -3870,7 +3952,8 @@
     "GOOGL"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "5c577be92d1be8ed",
@@ -3885,7 +3968,8 @@
     "PANW"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "25b75ae14970706e",
@@ -3900,7 +3984,8 @@
     "NFLX"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "c6967e6b4a0f9e63",
@@ -3917,7 +4002,8 @@
     "QBTS"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "4209c3c3855624f8",
@@ -3932,7 +4018,8 @@
     "WMT"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "33fe985682f3b528",
@@ -3948,7 +4035,8 @@
     "PANW"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "4902de53db4de614",
@@ -3964,7 +4052,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "16edea9d05b8c6bb",
@@ -3980,7 +4068,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "c246785bb1eb3696",
@@ -3996,7 +4084,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "5613ef9bf06c5218",
@@ -82486,116 +82574,6 @@
    ],
    "summary_ko": [
     "일론 머스크는 래리 페이지의 AI 예측이 옳다고 언급했으며, 이 예측이 빅테크의 AI 데이터 센터 구축 위치를 바꿀 수 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "631b1b445cd23ebf",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The S&P 500 Just Missed a Rare Four-Peat",
-   "excerpt": "Turmoil at Nvidia has dragged the AI trade and the broader market lower, but Apple has been holding it together. Yahoo Finance's Jared Blikre breaks it down in charts: the S&P 500 just fell off pace for a rare fourth straight year of 10% gains, which last happened in the late 1990s, and Apple has added 124 points to the index this year while Nvidia has subtracted 77. Since the October peak, Apple has gained about $280 billion in market value while chip stocks have lost about $5.5 trillion. Timestamps 0:00 Apple holds the market together 0:33 The S&P 500 \"four-peat\" 1:39 Is this the late 1990s? 1:58 Apple's AI restraint 3:00 Winners and losers since October 3:53 The typical stock is doing fine #stockmarket #apple #nvidia == AlphaSpace by Yahoo Finance: A Professional-Grade Investment Platfo",
-   "url": "https://www.youtube.com/watch?v=PXXuUO4oj18",
-   "published": "2026-11-17T02:00:33+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL"
-   ],
-   "summary_ko": [
-    "엔비디아의 혼란으로 AI 관련 주식과 시장이 하락세를 보였다고 전했다.",
-    "반면 애플은 시장을 지탱하며 지수에 기여했다고 설명했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e9cf068c40c82b71",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Shopify Just Dropped 13% in a Month While Taking “Nearly Half” of US E-Commerce Growth",
-   "excerpt": "Key TakeawaysShopify stock has dropped 13% in the past month, as tech sold off and its third-quarter merchandise volume came in just short of estimates. Revenue still grew 32%, and Shopify says it’s taking nearly half of US e-commerce growth with a 14% share.",
-   "url": "https://www.tikr.com/blog/shopify-just-dropped-13-in-a-month-while-taking-nearly-half-of-us-e-commerce-growth?ref=yahoofinance&tlnk=yf-261117-f7fg78pg&.tsrc=rss",
-   "published": "2026-11-17T01:47:30+00:00",
-   "tickers": [
-    "SHOP"
-   ],
-   "summary_ko": [
-    "쇼피파이 주가는 기술주 매도세와 3분기 거래량이 예상치에 못 미치면서 지난 한 달간 13% 하락했다고 전했다.",
-    "매출은 32% 증가했으며 미국 이커머스 성장의 절반 가까이를 차지하고 있다고 밝혔다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "cf996e917a3eb099",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Rigetti Hits a 52-Week Low, Down 30% in a Week: Quantum Is “Very Much in R&D Phase”",
-   "excerpt": "Key TakeawaysRigetti Computing fell 30% in the past week to a 52-week low after third-quarter revenue of $1. 4 million missed estimates.",
-   "url": "https://www.tikr.com/blog/rigetti-hits-a-52-week-low-down-30-in-a-week-quantum-is-very-much-in-rd-phase?ref=yahoofinance&tlnk=yf-261117-m4hc7542&.tsrc=rss",
-   "published": "2026-11-17T01:46:34+00:00",
-   "tickers": [
-    "RGTI"
-   ],
-   "summary_ko": [
-    "리게티 컴퓨팅은 3분기 매출이 예상치를 밑돌면서 지난 일주일 동안 30% 하락해 52주 신저가를 기록했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "38fde4cce40a0d64",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "“The Single Best Replacement for Jensen”: Palo Alto CEO Nikesh Arora. There’s Only One Problem",
-   "excerpt": "Key TakeawaysSequoia’s Shaun Maguire and 20VC’s Harry Stebbings have named Palo Alto Networks CEO Nikesh Arora as their pick to replace Jensen Huang at Nvidia, which is searching for a new CEO. The louder the case for Arora gets, the more key-man risk Palo Alto carries, because its premium valuation depends on a deal-driven plan he is still carrying out.",
-   "url": "https://www.tikr.com/blog/the-single-best-replacement-for-jensen-palo-alto-ceo-nikesh-arora-theres-only-one-problem?ref=yahoofinance&tlnk=yf-261117-24g8xvv7&.tsrc=rss",
-   "published": "2026-11-17T01:33:34+00:00",
-   "tickers": [
-    "NVDA",
-    "PANW"
-   ],
-   "summary_ko": [
-    "일각에서는 팔로알토 네트웍스의 CEO 니케시 아로라를 엔비디아의 잠재적 CEO 후보로 거론했다고 전했다.",
-    "다만 프리미엄 밸류에이션이 아로라가 추진하는 계획에 의존하고 있어 핵심 인물 리스크가 존재한다고 지적했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9be871e9abcf6c7b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Anthropic IPO Overvalued? Hardly. Valuation Is “About Where Broadcom and AMD Trade,” Says Scott Galloway",
-   "excerpt": "Key TakeawaysAt $1. 5 trillion, Anthropic’s IPO would value the AI lab at about 19x its $81 billion revenue run rate.",
-   "url": "https://www.tikr.com/blog/anthropic-ipo-overvalued-hardly-valuation-is-about-where-broadcom-and-amd-trade-says-scott-galloway?ref=yahoofinance&tlnk=yf-261117-hcmrcr5h&.tsrc=rss",
-   "published": "2026-11-17T01:32:34+00:00",
-   "tickers": [
-    "AMD",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "스콧 갤러웨이는 앤스로픽의 IPO 가치가 브로드컴과 AMD의 거래 수준과 비슷하다고 언급했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d4d116c08f8149fa",
-   "kind": "youtube",
-   "source": "Financial Education",
-   "author": "Financial Education",
-   "title": "The Unthinkable will happen to your stocks‼️",
-   "excerpt": "My skill test on how to unlock your portfolios full potential ✅ Join My Private Stock & apply here → ❤️ Support the Channel & See Weekly Buys on Patreon 🔑 Grab Your Free Workshops. Pick the topic most relevant to your investing journey and dive in → __________________ SOCIALS: IG: X: FB: My Jeremy Lefebvre website 1000XStocks Instagram link 1000XStocks X link This is a Jeremy Lefebvre Production | Financial Education with Jeremy Lefebvre | Stock Market Investing | Stocks to Watch | Nasdaq | Tech Stocks | Tesla | Palantir | Nvidia | Jeremy Lefebvre Portfolio | Jeremy Lefebvre Private Stock Group Financial Education, Created by Jeremy Lefebvre",
-   "url": "https://www.youtube.com/watch?v=n1dXGMGkorY",
-   "published": "2026-11-17T01:32:04+00:00",
-   "tickers": [
-    "NVDA",
-    "TSLA",
-    "PLTR"
-   ],
-   "summary_ko": [
-    "개인 포트폴리오의 잠재력을 높이는 기술 테스트와 관련된 콘텐츠를 다뤘다."
    ],
    "tone": "neu"
   }
