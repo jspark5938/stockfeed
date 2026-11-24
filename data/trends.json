@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:30:32.493671+00:00",
+ "updated": "2026-11-24T00:00:44.604661+00:00",
  "trends": [
   {
    "ticker": "CRWD",
@@ -32,9 +32,9 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 473,
-   "mentions_prev_24h": 48,
-   "ratio": 9.85
+   "mentions_24h": 481,
+   "mentions_prev_24h": 49,
+   "ratio": 9.82
   },
   {
    "ticker": "DELL",
@@ -121,6 +121,13 @@
    "ratio": 5.0
   },
   {
+   "ticker": "APP",
+   "name_ko": "앱러빈",
+   "mentions_24h": 5,
+   "mentions_prev_24h": 1,
+   "ratio": 5.0
+  },
+  {
    "ticker": "ASML",
    "name_ko": "ASML",
    "mentions_24h": 5,
@@ -133,6 +140,13 @@
    "mentions_24h": 5,
    "mentions_prev_24h": 0,
    "ratio": 5.0
+  },
+  {
+   "ticker": "ORCL",
+   "name_ko": "오라클",
+   "mentions_24h": 19,
+   "mentions_prev_24h": 4,
+   "ratio": 4.75
   },
   {
    "ticker": "LLY",
@@ -154,13 +168,6 @@
    "mentions_24h": 4,
    "mentions_prev_24h": 0,
    "ratio": 4.0
-  },
-  {
-   "ticker": "ORCL",
-   "name_ko": "오라클",
-   "mentions_24h": 19,
-   "mentions_prev_24h": 5,
-   "ratio": 3.8
   },
   {
    "ticker": "INTC",
@@ -254,17 +261,17 @@
    "ratio": 2.71
   },
   {
-   "ticker": "PLTR",
-   "name_ko": "팔란티어",
+   "ticker": "NFLX",
+   "name_ko": "넷플릭스",
    "mentions_24h": 10,
    "mentions_prev_24h": 4,
    "ratio": 2.5
   },
   {
-   "ticker": "APP",
-   "name_ko": "앱러빈",
-   "mentions_24h": 5,
-   "mentions_prev_24h": 2,
+   "ticker": "PLTR",
+   "name_ko": "팔란티어",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 4,
    "ratio": 2.5
   },
   {
@@ -289,18 +296,18 @@
    "ratio": 2.42
   },
   {
+   "ticker": "AMZN",
+   "name_ko": "아마존",
+   "mentions_24h": 41,
+   "mentions_prev_24h": 17,
+   "ratio": 2.41
+  },
+  {
    "ticker": "AMD",
    "name_ko": "AMD",
    "mentions_24h": 26,
    "mentions_prev_24h": 11,
    "ratio": 2.36
-  },
-  {
-   "ticker": "AMZN",
-   "name_ko": "아마존",
-   "mentions_24h": 40,
-   "mentions_prev_24h": 17,
-   "ratio": 2.35
   },
   {
    "ticker": "HOOD",
@@ -313,8 +320,8 @@
    "ticker": "GOOGL",
    "name_ko": "알파벳(구글)",
    "mentions_24h": 30,
-   "mentions_prev_24h": 14,
-   "ratio": 2.14
+   "mentions_prev_24h": 13,
+   "ratio": 2.31
   },
   {
    "ticker": "AVGO",
@@ -343,13 +350,6 @@
    "mentions_24h": 2,
    "mentions_prev_24h": 0,
    "ratio": 2.0
-  },
-  {
-   "ticker": "NFLX",
-   "name_ko": "넷플릭스",
-   "mentions_24h": 8,
-   "mentions_prev_24h": 5,
-   "ratio": 1.6
   },
   {
    "ticker": "DIS",

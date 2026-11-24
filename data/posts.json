@@ -1,6 +1,161 @@
 {
- "updated": "2026-11-23T23:30:32.493671+00:00",
+ "updated": "2026-11-24T00:00:44.604661+00:00",
  "posts": [
+  {
+   "id": "8243bc6593f0cf5d",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Nvidia Board Faces Questions After Huang Reinstatement",
+   "excerpt": "\"Balance of Power\" focuses on the intersection of politics and global business. On today's show, Rep. Madeleine Dean, a member of the House Foreign Affairs Committee that will question Jensen Huang behind closed doors on Dec. 1, says his return to Nvidia raises serious concerns over national security and corporate governance. Marc Short, former chief of staff to Vice President Mike Pence, says congressional scrutiny of Jensen Huang is unlikely to end with his December appearances, predicting Democrats will revisit the Nvidia controversy after taking control of Congress in January. Terry Haines, founder of Pangaea Policy, says Nvidia and its board face potentially prolonged scrutiny over Jensen Huang. Chapters: 00:02:07 Bloomberg’s Ed Ludlow on Inside Huang’s Rapid Reinstatement 00:05:17 Bl",
+   "url": "https://www.youtube.com/watch?v=evperxY0l20",
+   "published": "2026-11-23T23:52:20+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 복귀가 국가안보와 기업 거버넌스 우려를 낳았다고 다뤘다.",
+    "내년 1월 민주당이 의회를 장악하면 청문회가 이어질 것이라고 전망했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "5418521eae8b5da5",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "'TREMENDOUS TAX': Trump LEVIES THREAT to companies regarding overseas data centers",
+   "excerpt": "'The Big Money Show' panelists discuss President Donald Trump urging companies to build U.S. data centers and discusses the politics behind the buildouts. 00:00 - Trump’s Warning to Data Center Developers 01:21 - Tax vs. Tariffs: The President's Authority 02:30 - Debunking Environmental Myths of Data Centers 04:08 - Economic Windfalls: 50,000 Dollar Teacher Bonuses 05:27 - The Rise of National Security Tech Interests 07:37 - Nvidia Guidance and Unlimited Computing Demand Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched i",
+   "url": "https://www.youtube.com/watch?v=xTzMrgXUfJc",
+   "published": "2026-11-23T23:45:32+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프 대통령이 기업들에 미국 내 데이터센터 구축을 촉구했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "8506a0119f99f3e8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures: Tech Stocks, Nvidia Snap Back On Jensen Huang's Return; Elon Musk-Led SpaceX, Tesla Rally",
+   "excerpt": "Dow Jones Futures: Tech stocks and Nvidia stock surged Monday on the return of Jensen Huang. Elon Musk-led SpaceX and Tesla rallied.",
+   "url": "https://finance.yahoo.com/m/be493228-4ecf-338d-9017-054d3d6efc36/dow-jones-futures%3A-tech.html?.tsrc=rss",
+   "published": "2026-11-23T23:40:09+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 복귀로 기술주와 엔비디아 주가가 급등했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "93f9395fcb025e6a",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Naveen Rao: Jensen Huang's Return \"Doesn't Look Great\" for Nvidia's Board",
+   "excerpt": "Jensen Huang is back as CEO of Nvidia, and Unconventional AI CEO Naveen Rao tells Deirdre Bosa the reversal doesn't look great for Nvidia's board. He explains why Jensen, who owns a small slice of the company, may reshape the board around him, why he sees Washington's role as closer to a banking-crisis rescue than favoritism, and what the return means for open-source AI and hardware startups. He also argues the saga left Nvidia a little weaker, with employees who never looked before now exploring other jobs. Presented by Factory. Timestamps 0:00 Jensen Huang returns to Nvidia 0:24 An unprecedented comeback 1:07 What happens to Nvidia's board? 2:25 Will founders demand more control? 3:16 Washington and political risk 4:45 Open source after Jensen's return 6:07 Does Jensen's return slow the ",
+   "url": "https://www.youtube.com/watch?v=LlybdOdq7D8",
+   "published": "2026-11-23T23:35:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 복귀가 엔비디아 이사회에 좋아 보이지 않는다고 주장했다.",
+    "이번 사태로 인해 회사가 다소 약화되었고 직원들이 이직을 모색 중이라고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "0a537875c9bd1607",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang’s Reinstatement — NVDA, NASA, TTWO, AMZN In Focus",
+   "excerpt": "Nvidia’s board reinstated Jensen Huang as Nvidia’s CEO following pressure from President Donald Trump.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-session-since-april-on-optimism-led-by-jensen-huang-s-reinstatement-nvda-nasa-ttwo-amzn-in-focus/cNbpKSnR9jY?.tsrc=rss",
+   "published": "2026-11-23T23:33:25+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "트럼프 대통령의 압박에 따라 엔비디아 이사회가 젠슨 황을 CEO로 재선임했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "4eaf4c66f7f235c3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Huang's return at Nvidia puts spotlight on chipmaker's board",
+   "excerpt": "Nvidia directors' decision to rehire Jensen Huang shows a \"lack of courage,\" according to one prominent governance expert.",
+   "url": "https://www.cbsnews.com/news/nvidia-board-reinstates-ceo-jensen-huang/?.tsrc=rss",
+   "published": "2026-11-23T23:33:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 이사회의 젠슨 황 재고용 결정이 용기 부족을 보여준다고 지적했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "0712b19a6a59099c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Retirees: Is Now the Time to Ditch S&P 500 Funds?",
+   "excerpt": "The recent Nvidia scandal underscores just how vulnerable the broad index can be to tech stocks.",
+   "url": "https://www.fool.com/investing/2026/11/23/retirees-is-now-the-time-to-ditch-s-and-p-500-funds/?.tsrc=rss",
+   "published": "2026-11-23T23:33:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "c92e96b5451408df",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Netflix Cuts About 1,000 Jobs and Its Content Chief. YouTube Already Has Twice Its TV Share",
+   "excerpt": "Key TakeawaysNetflix fired its chief content officer and about 1,000 employees in October as its growth slows. YouTube took 15.",
+   "url": "https://www.tikr.com/blog/netflix-cuts-about-1000-jobs-and-its-content-chief-youtube-already-has-twice-its-tv-share?ref=yahoofinance&tlnk=yf-261123-qvgmg437&.tsrc=rss",
+   "published": "2026-11-23T23:31:46+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b6ce797b24896978",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Haines: Nvidia Board Better ‘Lawyer Up’",
+   "excerpt": "Terry Haines, founder of Pangaea Policy, says Nvidia and its board face potentially prolonged scrutiny over Jensen Huang. Haines, who helped run congressional investigations into Enron and WorldCom, expects board members to be called to testify “repeatedly” as lawmakers examine national security and corporate oversight. He speaks with Kailey Leinz and Joe Mathieu on Bloomberg’s \"Balance of Power.\" -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: ",
+   "url": "https://www.youtube.com/watch?v=TELDnrsqoCU",
+   "published": "2026-11-23T23:30:23+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아와 이사회가 젠슨 황과 관련해 장기적인 조사를 마주할 것이라고 전했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "5c69ccae9915a66d",
    "kind": "youtube",
@@ -12,6 +167,24 @@
    "published": "2026-11-23T23:24:57+00:00",
    "tickers": [
     "NVDA"
+   ],
+   "summary_ko": [
+    "민주당이 1월에 의회를 장악한 후 엔비디아 논란을 다시 다룰 것이라고 전망했다.",
+    "트럼프 대통령의 개입이 위험한 선례가 된다고 주장했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "18a8d035f61667ed",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Investors May Respond To Netflix (NFLX) Big Investors Split",
+   "excerpt": "Netflix faces renewed scrutiny as high-profile investors Bill Ackman and Michael Burry take opposing valuation stances while the business manages slowing revenue growth, softer advertising expectations and potential live sports content costs. The real story for Netflix now is less about subscriber scale and more about how effectively management converts pricing, ads and buybacks into durable free cash flow despite rising competition. We will now look at how Netflix’s investment narrative is...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-netflix-nflx-232426716.html?.tsrc=rss",
+   "published": "2026-11-23T23:24:26+00:00",
+   "tickers": [
+    "NFLX"
    ],
    "summary_ko": null,
    "tone": null,
@@ -31,7 +204,8 @@
     "AMD"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "34e617b8cf411b96",
@@ -42,6 +216,23 @@
    "excerpt": "Rep. Madeleine Dean, a member of the House Foreign Affairs Committee that will question Jensen Huang behind closed doors on Dec. 1, says his return to Nvidia raises serious concerns over national security and corporate governance. “This will not end well for Mr. Huang,” Rep. Dean tells Kailey Leinz and Joe Mathieu on Bloomberg’s \"Balance of Power.\" -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bl",
    "url": "https://www.youtube.com/watch?v=AKznWR3QsUY",
    "published": "2026-11-23T23:22:18+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 복귀가 국가 안보와 기업 거버넌스에 심각한 우려를 제기한다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "06666d4a7ebac098",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang Is Back and Nvidia Just Soared 31%. Here’s What 6 Giant Stocks Did the Week and the Year After a Day Like This",
+   "excerpt": "Nvidia rose 31% on Jensen Huang's return. Only six times since 2007 had a company worth $500 billion or more gained 20% in a day. Five of the six stocks were lower a week later and five were higher a year later.",
+   "url": "https://247wallst.com/investing/2026/11/23/jensen-huang-is-back-and-nvidia-just-soared-31-heres-what-6-giant-stocks-did-the-week-and-the-year-after-a-day-like-this/?.tsrc=rss",
+   "published": "2026-11-23T23:22:00+00:00",
    "tickers": [
     "NVDA"
    ],
@@ -58,6 +249,23 @@
    "excerpt": "Wall Street is going wild after Jensen Huang returns to Nvidia as CEO. Brooke DiPalma breaks down the market recap. 🔁",
    "url": "https://www.youtube.com/watch?v=l9KhINUgukE",
    "published": "2026-11-23T23:18:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 CEO 복귀 이후 월스트리트가 크게 반응했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7a1298b74f20bd9b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Fastly Stock and Asia Pacific AI Infrastructure Names Outside U.S. Sanctions",
+   "excerpt": "U.S. sanctions are tightening around Megaspeed and Nvidia, and that is quietly rearranging who gets to sell the next wave of AI and cloud capacity. When one major buyer is hit with export controls, capital and workloads often look for a new home. This article walks through three Asia Pacific stocks exposed to that shift, drawn from our cloud and data center screener, and explains how each might be helped or hurt by the fallout. The three stocks covered next are just a sample, and the full...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/fastly-stock-asia-pacific-ai-231750500.html?.tsrc=rss",
+   "published": "2026-11-23T23:17:50+00:00",
    "tickers": [
     "NVDA"
    ],
@@ -78,7 +286,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "c7f9c302e7524c75",
@@ -93,7 +302,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "eb9e04e85c72cf24",
@@ -107,9 +317,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "젠슨 황의 엔비디아 복귀와 시장의 움직임에 대해 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ef0fb80306333cb5",
@@ -125,9 +336,10 @@
     "GOOGL",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아가 상당한 역풍에 직면해 있으며 알파벳이 수혜를 볼 것이라고 전망했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "4f7548f3a6f202c1",
@@ -141,9 +353,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "젠슨 황의 엔비디아 CEO 재선임으로 이어진 배경을 보도했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "d6cd0f1894fca774",
@@ -158,7 +371,8 @@
     "CRWD"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "7bdd78b8af025455",
@@ -172,9 +386,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "젠슨 황의 CEO 복귀 소식에 기술주가 상승하며 월스트리트가 반응했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "196f0afbf7d9c475",
@@ -189,7 +404,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "cda5ac616a1c1835",
@@ -206,7 +422,8 @@
     "AVGO"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "4d19d8ef553b2e06",
@@ -221,7 +438,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "3e7cb3951fad2258",
@@ -237,7 +455,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "aec3140bc2127ee0",
@@ -252,7 +470,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "fe5daaf370ea835f",
@@ -268,7 +487,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "e9e34546659e8cf3",
@@ -457,23 +676,6 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 3
-  },
-  {
-   "id": "8506a0119f99f3e8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dow Jones Futures: Tech Stocks, Nvidia Snap Back On Jensen Huang's Return; Elon Musk-Led SpaceX, Tesla Rally",
-   "excerpt": "Dow Jones Futures: Tech stocks and Nvidia stock surged Monday on the return of Jensen Huang. Elon Musk-led SpaceX and Tesla rallied.",
-   "url": "https://finance.yahoo.com/m/be493228-4ecf-338d-9017-054d3d6efc36/dow-jones-futures%3A-tech.html?.tsrc=rss",
-   "published": "2026-11-23T22:26:17+00:00",
-   "tickers": [
-    "NVDA",
-    "TSLA"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
   },
   {
    "id": "0a995794c8814d98",
@@ -2028,8 +2230,10 @@
     "CRWD",
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "앤스로픽의 IPO 여파와 AI세일오프 및 데이터센터 거품 등에 대해 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "840ab87aff1358a9",
@@ -81906,163 +82110,6 @@
     "브래드 거스트너는 현재 AI가 '구글의 2005년'과 같은 시기에 있다고 언급했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "f09c39fe1a615627",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Stock Market Today: NVDA CEO Uncertainty, MSTR Plunges, TSN Earnings #shorts",
-   "excerpt": "Nvidia (NVDA) continued its stock plunge as uncertainty around the Mag 7 giant's leadership persists. Strategy (MSTR) hit 3-month lows as Bitcoin retreats to $65,000. Tyson Foods (TSN) made a rare appearance as the biggest S&P 500 (SPX) winner after earnings. Marley Kayden takes investors through Monday's biggest stock market stories. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #strategy #jensenhuang #economy #finance #investing #marketnews #stock #stockmarket #trading #live #schwabnetwork #nvda #ai ",
-   "url": "https://www.youtube.com/watch?v=l3zyknJslZc",
-   "published": "2026-11-17T00:00:31+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN",
-    "MSTR"
-   ],
-   "summary_ko": [
-    "엔비디아는 최고경영자 관련 불확실성으로 주가 하락세가 이어졌다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "2399ea460905cc67",
-   "kind": "youtube",
-   "source": "Fox Business",
-   "author": "Fox Business",
-   "title": "Ex-trade rep highlights 'good thing' to come out of Nvidia 'catastrophe' #shorts",
-   "excerpt": "Former U.S. Trade Rep. Robert Lighthizer joins 'Kudlow' to call for government oversight to close trade loopholes. Lighthizer expresses hope that pending bills pass to ensure proper regulations going forward. Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news programm",
-   "url": "https://www.youtube.com/watch?v=VPRwjR759BA",
-   "published": "2026-11-17T00:00:27+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "전직 무역대표가 엔비디아 관련 상황에서 정부 규제와 감시가 필요하다고 주장했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6a2370e3bce78f91",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Strong Earnings, Shaky Prices: What's Holding the Stock Market Back?",
-   "excerpt": "Mark Gibbens says the market looks pretty good \"except the price action.\" Dan O'Brien with Futurum remains cautious with the uncertainty surrounding the market. He remains bullish on AI in the long-term because he believes the fundamentals are intact, but acknowledges there's some stalling as suppliers build out to meet demand. Mark is more optimistic, citing strong earnings and economic growth, and thinks valuations are par for the course. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #ai #earnings #bigtech #",
-   "url": "https://www.youtube.com/watch?v=qwfyp_uEo2E",
-   "published": "2026-11-17T00:00:26+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "시장의 주가 움직임이 불확실하다는 분석을 다뤘다.",
-    "일각에서는 AI의 장기적 펀더멘털이 건전하다고 전망했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3746b15170cdf232",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cisco's CEO says the AI doom narrative and Jensen Huang are both wrong | Sozzi Unleashed",
-   "excerpt": "Brian Sozzi asks Cisco chairman and chief executive Chuck Robbins whether he still trusts Nvidia's chips, and the answer turns into something else. Robbins points to Nvidia's 42,000 employees, then says of running Cisco that he knows how little of the actual work he does himself. He says he does not expect customers to change what they buy, and adds that he may be wrong. He says the AI doom narrative and Jensen Huang's optimism are both off, and the truth sits somewhere in between. Asked about succession, he says Cisco's board has reviewed it every year since his first day. Featuring Chuck Robbins, Chairman and Chief Executive Officer, Cisco Brian Sozzi, Yahoo Finance Executive Editor Timestamps 0:00 How little of the actual work a chief executive does 1:13 Why the AI doom narrative and Je",
-   "url": "https://www.youtube.com/watch?v=Fp0vrb2PzGc",
-   "published": "2026-11-17T00:00:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "시스코 CEO가 AI 파멸론과 젠슨 황의 낙관론 모두 지나치며 진실은 그 사이에 있다고 주장했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a96fb5b12bbfc313",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Kroger has a new plan to lower prices",
-   "excerpt": "The supermarket chain has a lot of ground to make up in its battle with Walmart and Costco.",
-   "url": "https://www.thestreet.com/retail/kroger-has-a-new-plan-to-lower-prices?.tsrc=rss",
-   "published": "2026-11-17T00:00:00+00:00",
-   "tickers": [
-    "COST",
-    "WMT"
-   ],
-   "summary_ko": [
-    "크로거가 월마트, 코스트코와의 경쟁에서 만회하기 위한 새로운 가격 인하 계획을 가지고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7d46c6710ffdd508",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Lew: US Needs To Be ‘Clear and Consistent’ with China",
-   "excerpt": "Former Treasury Secretary Jack Lew discusses tensions between Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick over China policy, the administration’s handling of chip export controls and the fallout surrounding Nvidia. He speaks with Kailey Leinz and Joe Mathieu on Bloomberg’s \"Balance of Power.\" -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomber",
-   "url": "https://www.youtube.com/watch?v=otCHCJwne70",
-   "published": "2026-11-16T23:41:35+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "전 재무장관이 미국이 중국에 대해 명확하고 일관된 태도를 취해야 한다고 말했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "899a08e163cde685",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Christian Muche of POSSIBLE Makes Room for Marketing’s Ever-Growing Guest List",
-   "excerpt": "The marketing industry may be wrestling with uncertainty, but Christian Muche has a more practical concern: getting everybody into the room. Preferably before another AI announcement forces someone to rewrite the entire conference agenda. Muche, co-founder and global president of event organizer POSSIBLE, outlined plans for Miami and Lisbon in an interview with Beet.TV at the DMS by LUMA digital media summit. Google is extending its involvement. The New York Stock Exchange and Beet.TV are teaming up on programming. The",
-   "url": "https://www.beet.tv/2026/11/christian-muche-of-possible-makes-room-for-marketings-ever-growing-guest-list.html?.tsrc=rss",
-   "published": "2026-11-16T23:41:19+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "POSSIBLE의 공동 창립자 크리스티안 무셰가 마이애미와 리스본에서 열릴 행사의 계획을 설명했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ddf50dda4aa77297",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Aviation Expert Warns Against FAA Upgrade Shortcuts",
-   "excerpt": "Kristy Kiernan, Associate Director of Embry-Riddle’s Boeing Center for Aviation and Aerospace Safety, discusses the fallout from Friday’s FAA outage, a separate United Airlines system outage, the risks of accelerating the agency’s technology overhaul and why travelers should still feel confident flying. She speaks with Kailey Leinz and Joe Mathieu on Bloomberg’s \"Balance of Power.\" -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More f",
-   "url": "https://www.youtube.com/watch?v=_PwiGkV9kQU",
-   "published": "2026-11-16T23:37:23+00:00",
-   "tickers": [
-    "BA"
-   ],
-   "summary_ko": [
-    "항공 안전 전문가가 FAA의 기술 개선 가속화에 따른 위험성을 경고했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "b2f66b7621d537c3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tech Leaders Want Jensen Huang to Return to Nvidia. Here’s What That Would Mean for the Stock Price.",
-   "excerpt": "Jensen Huang resigned last week amid turmoil.",
-   "url": "https://www.fool.com/investing/2026/11/16/tech-leaders-want-jensen-huang-to-return-to-nvidia-here-s-what-that-would-mean-for-the-stock-price/?.tsrc=rss",
-   "published": "2026-11-16T23:35:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "테크 리더들이 젠슨 황의 엔비디아 복귀를 원하고 있으며, 이는 주가에 영향을 미칠 수 있다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
