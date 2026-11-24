@@ -1,6 +1,264 @@
 {
- "updated": "2026-11-24T18:00:38.339103+00:00",
+ "updated": "2026-11-24T18:30:38.662444+00:00",
  "posts": [
+  {
+   "id": "a9a54260a25c5857",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Nasdaq Skids As Nvidia Dives; New Trump Tariffs Loom; Anthropic Plunges (Live Coverage)",
+   "excerpt": "Stock Market Today: The Dow Jones index rises but the Nasdaq falls Tuesday. Anthropic and Nvidia dive. New Trump tariffs are expected.",
+   "url": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+   "published": "2026-11-24T18:23:35+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "나스닥이 하락한 가운데 엔비디아와 앤스로픽의 주가가 급락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "8fb0d8d688b1a956",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Coinbase wins dismissal of four-year investor lawsuit",
+   "excerpt": "The exchange scored a legal victory in a lawsuit tied to a notorious stablecoin crash.",
+   "url": "https://www.thestreet.com/crypto/markets/coinbase-wins-dismissal-of-four-year-investor-lawsuit?.tsrc=rss",
+   "published": "2026-11-24T18:20:35+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스가 4년 동안 이어진 투자자 소송에서 기각 판결을 받아냈다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "c0c25d97ae71254b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla’s Robotaxi Business Could Generate $3-4B In Annual Recurring Revenue By 2027-End, Says Seaport Global",
+   "excerpt": "Seaport Global Securities initiated coverage of Tesla with a ‘Buy’ rating and a $475 price target, according to an Investing.com report.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/tesla-s-robotaxi-business-could-generate-3-4-b-in-annual-recurring-revenue-by-2027-end-says-seaport-global/cNbs0INR9kD?.tsrc=rss",
+   "published": "2026-11-24T18:16:13+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "시포트 글로벌은 테슬라의 로보택시 사업이 2027년 말까지 상당한 매출을 낼 것으로 전망했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "da5ea4b08270ae39",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
+   "excerpt": "Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates",
+   "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors?.tsrc=rss",
+   "published": "2026-11-24T18:16:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 랠리가 둔화되고 비트코인이 하락하면서 시장에 공포감이 확산되고 있다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6d3f1564e8ddef1b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Huang's return fails to dispel doubts as Nvidia shares drop",
+   "excerpt": "A rally sparked by Jensen Huang's return as Nvidia's chief executive faded on Tuesday, with the company's shares falling as doubts persisted over the probes he faces and the fate of the AI investment boom. Shares linked to the AI boom have fallen steeply in recent weeks amid fears that the AI bubble, that began with the launch of ChatGPT in 2022, was finally bursting.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/huangs-return-fails-dispel-doubts-164158462.html?.tsrc=rss",
+   "published": "2026-11-24T18:15:37+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 복귀에도 불구하고 조사 우려와 AI 거품론이 지속되며 엔비디아 주가가 하락했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "3f074103101608b0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell (DELL) Stock May Be 45% Below Fair Value Following AI Infrastructure News",
+   "excerpt": "Dell Technologies has turned into one of the strongest stories in large-cap tech over the past few years. The question now is whether the current share price lines up with the cash flows that the business can realistically generate. Over the past 5 years, Dell Technologies has delivered a very large share price gain of about 7x. This puts a lot of weight on whether its cash flow profile can carry that kind of market value. Recent announcements around AI servers, data platforms and...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dell-dell-stock-may-45-181300186.html?.tsrc=rss",
+   "published": "2026-11-24T18:13:00+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "델 테크놀로지는 AI 인프라 뉴스와 함께 대형 기술주 중 강한 주목을 받고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "279feb43031160c4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Groves 1 Approval Could Open NASA Opportunity For Oklo Stock",
+   "excerpt": "Oklo reported that the U.S. Department of Energy cleared the final operations hold point for its Groves-1 test reactor, allowing full research, testing, and training activities that support future isotope production and the Aurora fast fission reactors. The same Groves-1 milestone, together with NASA opening bids for its Lunar Reactor-1 project, highlights how Oklo’s reactor technology could serve both terrestrial isotope markets and off-planet power needs. This widens the potential use...",
+   "url": "https://finance.yahoo.com/energy/articles/groves-1-approval-could-open-181225173.html?.tsrc=rss",
+   "published": "2026-11-24T18:12:25+00:00",
+   "tickers": [
+    "OKLO"
+   ],
+   "summary_ko": [
+    "오클로는 미 에너지부로부터 그로브스-1 테스트 원자로의 최종 운영 승인을 받았다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "de6a8484a06f3670",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Marvell Stock Is Moving With Nvidia Fueled AI Chip Optimism",
+   "excerpt": "Marvell Technology entered a collaboration with Penguin Solutions to pair CXL-based memory expansion using recycled DDR4 modules with photonic memory pooling across racks, targeting petabyte-scale AI data center memory. The combination of direct-attach CXL cards and multi-rack photonic fabric suggests Marvell is tackling AI memory constraints at both server and cluster levels, which directly affects how efficiently large AI workloads can be run and monetized. We will examine how Marvell...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-moving-nvidia-181152431.html?.tsrc=rss",
+   "published": "2026-11-24T18:11:52+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "마벨 테크놀로지는 AI 데이터 센터 메모리 제약을 해결하기 위한 협력을 진행 중이라고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "5f8216f23a633b47",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Here's Why SpaceX Stock Slumped Today, And Why it Could Come Under More Pressure as Tesla Merger Talks Continue",
+   "excerpt": "Merger discussions between SpaceX and Tesla appear to be heating up, and investors are positioning themselves accordingly.",
+   "url": "https://www.fool.com/investing/2026/11/24/here-s-why-spacex-stock-slumped-today-and-why-it-could-come-under-more-pressure-as-tesla-merger-talks-continue/?.tsrc=rss",
+   "published": "2026-11-24T18:09:05+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "스페이스X와 테슬라 간의 합병 논의가 가열되는 양상을 보이고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f8654f413fb7c9b7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Will Decide Snowflake Stock Over The Next Six Months?",
+   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://www.trefis.com/stock/snow/articles/628289/what-will-decide-snowflake-stock-over-the-next-six-months/2026-11-24?.tsrc=rss",
+   "published": "2026-11-24T18:03:06+00:00",
+   "tickers": [
+    "SNOW"
+   ],
+   "summary_ko": [
+    "향후 6개월 동안 스노우플레이크의 주가를 결정할 요인들에 대해 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "506e63f110da9547",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Jim Cramer’s Trust Bought More Boeing After Its Post-Earnings Drop",
+   "excerpt": "We just published Don’t Panic, Buy These Instead: Jim Cramer’s Emergency 10-Stock Portfolio, and The Boeing Company (NYSE:BA) ranked 6th on this list. By November 18, the S&P 500 had fallen for five straight sessions, its longest losing streak since June. Yet the index was still up 7% for the year, according to the Associated […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-trust-bought-180241430.html?.tsrc=rss",
+   "published": "2026-11-24T18:02:41+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "summary_ko": [
+    "실적 발표 후 주가가 하락한 보잉을 짐 크레이머의 신탁이 매수한 이유를 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "770f603900726001",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Should Reddit Stock Owners Watch Now?",
+   "excerpt": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
+   "url": "https://www.trefis.com/stock/rddt/articles/628374/what-should-reddit-stock-owners-watch-now/2026-11-24?.tsrc=rss",
+   "published": "2026-11-24T18:02:38+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 하루 동안 거액을 추가한 가운데 레딧 주주들이 주목할 점을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f38c34d529da1672",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "California AG Rob Bonta on consequences if Nvidia deceived investors",
+   "excerpt": "California Attorney General Rob Bonta tells CNBC that Nvidia could face financial consequences if the company deceived investors.",
+   "url": "https://www.youtube.com/watch?v=ZwHNx-kL3w0",
+   "published": "2026-11-24T18:00:32+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "롭 본타 캘리포니아 법무장관은 엔비디아가 투자자를 기만한 경우 재정적 책임을 질 수 있다고 언급했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "8cba92c4fad49e71",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "The Big 3: NVDA, WMT, XOM",
+   "excerpt": "Tim Biggam expects trading action to turn sideways once volatility cools and the future of Nvidia (NVDA) and Jensen Huang becomes more certain. He believes there's a trade opportunity in the Mag 7 giant as implied volatility in options remains elevated. Turning to his other picks, Tim believes Walmart (WMT) has rallied too far to the upside and expects Exxon Mobil (XOM) to cool. Tim offers example options trades for all three of his stock picks while Rick Ducat dives into the technical trends in the charts. ======== Schwab Network ======== Empowering every investor and trader, every market day. Options involve risks and are not suitable for all investors. Before trading, read the Options Disclosure Document. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Am",
+   "url": "https://www.youtube.com/watch?v=RW5B3LyCWZY",
+   "published": "2026-11-24T18:00:24+00:00",
+   "tickers": [
+    "NVDA",
+    "WMT",
+    "XOM"
+   ],
+   "summary_ko": [
+    "팀 빅감은 변동성이 안정되면 엔비디아 거래가 횡보할 것으로 예상했다.",
+    "월마트는 주가가 너무 올랐고 엑손모빌은 열기가 식을 것으로 전망했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "40db2ee92c0e5d64",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Netflix Stock Worth More Than Its Competitors?",
+   "excerpt": "Netflix (NFLX) keeps more of each sales dollar than almost every company in its peer group. Yet its stock is one of the cheapest in that group. Among five companies, Netflix ranks second on operating margin. It has the fourth-highest price to earnings ratio, which makes it the second cheapest. So is Netflix stock worth more than its competitors.",
+   "url": "https://www.trefis.com/stock/nflx/articles/628356/is-netflix-stock-worth-more-than-its-competitors-2/2026-11-24?.tsrc=rss",
+   "published": "2026-11-24T17:58:54+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "넷플릭스가 동종 기업에 비해 높은 매출 마진을 기록하면서도 주가는 저렴한 편이라고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "d5cbb29d757333bc",
    "kind": "youtube",
@@ -13,9 +271,27 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "데이브 매코믹 상원의원은 선출직 공직자의 주식 거래 금지를 지지한다고 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "dc759a8d90ba6649",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Joby Aviation Drops 7%, Archer Aviation Slides 6% as Air Taxi Stocks Give Back Monday’s Rebound; EHang Falls 5% Ahead of Earnings",
+   "excerpt": "Three air taxi stocks are bleeding after a brief rally, and one of them still hasn't told investors what its year looks like. Why an upcoming earnings report in China could reset expectations for Joby, Archer, and the whole sector.",
+   "url": "https://247wallst.com/investing/2026/11/24/joby-aviation-drops-7-archer-aviation-slides-6-as-air-taxi-stocks-give-back-mondays-rebound-ehang-falls-5-ahead-of-earnings/?.tsrc=rss",
+   "published": "2026-11-24T17:55:30+00:00",
+   "tickers": [
+    "JOBY"
+   ],
+   "summary_ko": [
+    "반등 이후 에어택시 관련 주가들이 하락세를 보였다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "e2f48fb364c1fd8f",
@@ -23,7 +299,7 @@
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
    "title": "D-Wave Declines 9% as Quantum Stocks Reverse Monday’s Surge; Rigetti Drops 7%, IonQ Falls 5%",
-   "excerpt": "Quantum computing stocks are giving back a big piece of Monday’s surge, and D-Wave is leading the retreat. D-Wave Quantum (NASDAQ:QBTS) stock is at $6.67 in afternoon trading, down 9%. That pullback compounds a rough year, with D-Wave stock down 74% year to date (YTD). The selling reaches well beyond D-Wave. Speculative tech and artificial […]",
+   "excerpt": "One day after Jensen Huang's return sent quantum names soaring, the whole group is sliding together. With D-Wave's bookings jumping even as its margins shrink, can the bulls hold their ground against a growing chorus of hype critics?",
    "url": "https://247wallst.com/investing/2026/11/24/d-wave-declines-9-as-quantum-stocks-reverse-mondays-surge-rigetti-drops-7-ionq-falls-5/?.tsrc=rss",
    "published": "2026-11-24T17:52:13+00:00",
    "tickers": [
@@ -31,9 +307,10 @@
     "RGTI",
     "QBTS"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "양자 관련 주가들이 전날의 상승세를 뒤로하고 동반 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "c709da338fcada3b",
@@ -47,9 +324,27 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아의 주가 변동성이 커지면서 신용 위험이 기록적인 수준으로 치솟았다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "445b080887125116",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Qualcomm Stock As Cheap As It Looks Now?",
+   "excerpt": "If you have watched Qualcomm this year, the worry is easy to name. Its sales are shrinking. Over the six months to Monday, November 23, the stock returned -32.9%, counting dividends. The S&P 500 returned -3.2% over the same dates. On Monday alone, Qualcomm rose 10.3.",
+   "url": "https://www.trefis.com/stock/qcom/articles/628330/is-qualcomm-stock-as-cheap-as-it-looks-now/2026-11-24?.tsrc=rss",
+   "published": "2026-11-24T17:49:20+00:00",
+   "tickers": [
+    "QCOM"
+   ],
+   "summary_ko": [
+    "퀄컴의 매출 감소 우려와 최근 주가 변동 상황을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "522d94d17ea29d33",
@@ -63,8 +358,10 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "크라우드스트라이크의 주가 하락으로 질러와의 거래 가치가 줄어들며 주가가 낮아졌다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "174a5760e4041ba5",
@@ -78,8 +375,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "최고경영자 복귀 이후 엔비디아가 200달러에 도달할 수 있는 시점에 대해 논의했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "f422be852b5f9b9d",
@@ -93,8 +392,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "한 투자자가 엔비디아 대신 앤스로픽을 선택하며 지속적인 매수를 이어가고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "f5b78cd19567590b",
@@ -108,8 +409,10 @@
    "tickers": [
     "HOOD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "로빈후드 체인에서 밈 코인을 간편하게 출시할 수 있는 런치패드 서비스 폰스를 설명했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "89fe676cc5d23d5c",
@@ -123,8 +426,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "월스트리트의 인공지능 관련 랠리가 모멘텀을 잃으면서 엔비디아 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "eeab5f57f1dc4814",
@@ -138,8 +443,10 @@
    "tickers": [
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "델 테크놀로지스가 실적 발표를 앞두고 주가 하락세를 보였다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "fd4d6a8d83938c37",
@@ -153,8 +460,10 @@
    "tickers": [
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "델의 실적 발표를 앞두고 기술주 펀드와 인공지능 서버 사업의 위험성을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "0fa42cb043f9d74b",
@@ -168,8 +477,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "최고경영자 복귀의 영향으로 엔비디아 메모리 공급사인 에스케이하이닉스 주가가 상승했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "4c6d6b8e356b1b1b",
@@ -184,7 +495,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "8a627ac994078303",
@@ -201,7 +513,8 @@
     "MU"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "9b09e28e5f560739",
@@ -217,7 +530,8 @@
     "NKE"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "a6b48eb6b8fa3544",
@@ -232,7 +546,8 @@
     "TSLA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "103950e0d31a6b95",
@@ -247,7 +562,8 @@
     "TSM"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "396c83a5e6927df7",
@@ -263,7 +579,8 @@
     "MU"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "e346d7582ac91490",
@@ -279,7 +596,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "f786cb56d1a012f4",
@@ -295,7 +612,8 @@
     "XOM"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "786db4ac7911d248",
@@ -310,7 +628,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "52df26a500398c47",
@@ -325,7 +644,8 @@
     "AMD"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "a861e3759955cb1b",
@@ -340,7 +660,8 @@
     "NVDA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "9d15dd049f70cc4d",
@@ -355,9 +676,10 @@
     "AMZN",
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "코리 존슨은 HPE의 AI 성장 그림이 델의 실적과 유사할 것이라고 분석했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3084adce44d76ac9",
@@ -388,7 +710,8 @@
     "XOM"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "e852447e023ce64d",
@@ -404,7 +727,8 @@
     "CRM"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "f8a0fb8f5c3e644c",
@@ -419,7 +743,8 @@
     "ARM"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "763b4bfe19f6c4b9",
@@ -434,7 +759,8 @@
     "BA"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "6ea8054ed93beb89",
@@ -1185,21 +1511,6 @@
    "tickers": [
     "NVDA",
     "AMZN"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "6d3f1564e8ddef1b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Huang's return fails to dispel doubts as Nvidia shares drop",
-   "excerpt": "A rally sparked by Jensen Huang's return as Nvidia's chief executive faded on Tuesday, with the company's shares falling as doubts persisted over the probes he faces and the fate of the AI investment boom.The stock market in recent weeks has seen massive falls in shares linked to the AI boom, with fears growing that the AI bubble was finally coming to an end after four years of bullish growth sparked by the launch of ChatGPT in 2022.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/huangs-return-fails-dispel-doubts-164158462.html?.tsrc=rss",
-   "published": "2026-11-24T16:41:58+00:00",
-   "tickers": [
-    "NVDA"
    ],
    "summary_ko": null,
    "tone": null
@@ -2045,7 +2356,7 @@
    "kind": "news",
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
-   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
    "excerpt": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-decart-acquisition-bet-using-155107586.html?.tsrc=rss",
    "published": "2026-11-24T15:51:07+00:00",
@@ -2116,9 +2427,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "브라이언 소지는 엔비디아의 젠슨 황 복귀에 따른 시장의 상승세 유지 여부를 분석했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "288987f147259cb4",
@@ -3341,22 +3653,6 @@
    "tickers": [
     "NVDA",
     "MU"
-   ],
-   "summary_ko": null,
-   "tone": null
-  },
-  {
-   "id": "a9a54260a25c5857",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Market Today: Nasdaq Sells Off After Big Market Surge; AMD, Anthropic, Nvidia All Dive (Live Coverage)",
-   "excerpt": "The tech-heavy Nasdaq composite sells off Tuesday after Monday's stock market surge. AMD, Anthropic and Nvidia dive.",
-   "url": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-   "published": "2026-11-24T14:42:48+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
    ],
    "summary_ko": null,
    "tone": null
@@ -81333,717 +81629,6 @@
    ],
    "summary_ko": [
     "월트 디즈니의 스트리밍 수익은 급증했으나 아시아 테마파크 방문객 수는 부진했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "125824df8d55a8e5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Market Today: Dow Drops As Salesforce Dives; Nvidia Falls As Jensen Huang Says This (Live Coverage)",
-   "excerpt": "The Dow Jones index drops on the stock market today despite a retail sales surprise. Nvidia stock falls as a Jensen Huang date is set.",
-   "url": "https://finance.yahoo.com/m/0c9330f2-68c3-38ef-9244-7dbdfd0853b7/stock-market-today%3A-dow-drops.html?.tsrc=rss",
-   "published": "2026-11-17T18:30:30+00:00",
-   "tickers": [
-    "NVDA",
-    "CRM"
-   ],
-   "summary_ko": [
-    "소매 판매 지표 서프라이즈에도 불구하고 다우존스 지수가 하락했다고 보도했다.",
-    "젠슨 황 관련 일정 발표와 함께 엔비디아 주가가 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "11d6ab3b0a89daf4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Needs To Be True To Buy Dell Stock?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/dell/articles/625654/what-needs-to-be-true-to-buy-dell-stock/2026-11-17?.tsrc=rss",
-   "published": "2026-11-17T18:30:16+00:00",
-   "tickers": [
-    "NVDA",
-    "DELL"
-   ],
-   "summary_ko": [
-    "엔비디아 주가 하락 가능성과 관련 자금 흐름에 대한 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e1a9f5ccaa31f020",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft Stocks Move Lower Before Ignite as Anthropic Discloses $47.2 Billion Compute Floor",
-   "excerpt": "Nadella opens Ignite 2026 today as Anthropic, now days from its IPO, also pushes into Excel's turf with Claude Sheets.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-move-lower-ignite-182943462.html?.tsrc=rss",
-   "published": "2026-11-17T18:29:43+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "앤스로픽이 엑셀과 경쟁하는 클로드 시트를 출시하며 마이크로소프트 주가에 영향을 줬다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3e77992719820224",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla Stocks Decrease 0.51% Even as Texas Robotaxi Authorizations Jump 21% in 18 Days",
-   "excerpt": "Texas DMV data show 1,306 Tesla robotaxis authorized for driverless operation, closing in on Waymo's 1,321.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-decrease-0-51-182744286.html?.tsrc=rss",
-   "published": "2026-11-17T18:27:44+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "텍사스의 테슬라 로보택시 승인 건수가 증가했음에도 주가는 소폭 하락했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ec82b7ec67fc0d27",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Squawk Pod: DHS Secretary Mullin: We are not under attack 11/17/26 | Audio Only",
-   "excerpt": "After tech disruptions and outages at the FAA, Microsoft, United Airlines, and at major banks like JPMorgan Chase, Department of Homeland Security Secretary Markwayne Mullin has a message of reassurance to the public: the U.S. is not under cyber attack. Former NATO Supreme Allied Forces Commander and retired U.S. Navy Admiral James Stavridis has a different take, suspecting that so many incidents are more than coincidental. Plus, President Trump begins his trip to Asia today, and Wall Street awaits Nvidia’s earnings report this afternoon, the Street’s first opportunity to hear directly from interim CEO Colette Kress. In this episode: Admiral James Stavridis, USN, Ret., @stavridisj Sec. Markwayne Mullin, @SecMullinDHS Becky Quick, @BeckyQuick Joe Kernen, @JoeSquawk Cameron Costa, @CameronCo",
-   "url": "https://www.youtube.com/watch?v=bM0JZboNVAo",
-   "published": "2026-11-17T18:27:33+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT",
-    "JPM"
-   ],
-   "summary_ko": [
-    "국토안보부 장관은 최근의 기술 장애가 사이버 공격이 아니라고 밝혔다.",
-    "반면 제임스 스타브리디스는 우연으로 보기 어렵다는 의견을 제시했다.",
-    "월가는 엔비디아의 실적 발표를 주시하고 있다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c472cadae6c3a198",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Micron Stock Keeps On Going Down",
-   "excerpt": "Nvidia's CEO scandal keeps dragging Micron lower -- and that's not the only reason.",
-   "url": "https://www.fool.com/investing/2026/11/17/why-micron-stock-keeps-on-going-down/?.tsrc=rss",
-   "published": "2026-11-17T18:27:21+00:00",
-   "tickers": [
-    "NVDA",
-    "MU"
-   ],
-   "summary_ko": [
-    "엔비디아 최고경영자 관련 논란이 마이크론의 주가 하락에도 영향을 미치고 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "eea09ed85b018ba4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bank of America Stocks Move Lower as Berkshire Cuts Stake Another 5.7%",
-   "excerpt": "Berkshire sold 27.5 million shares in the third quarter and has trimmed 57.8 million since March, while nearly doubling its Lennar position.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-stocks-move-lower-182719762.html?.tsrc=rss",
-   "published": "2026-11-17T18:27:19+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "summary_ko": [
-    "버크셔 해서웨이가 뱅크오브아메리카 지분을 추가로 축소했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "10943b66cb1ec295",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba Stocks Fall 3.53% as US Closes Offshore AI Chip Access Days Before Earnings",
-   "excerpt": "A new BIS rule requires licenses for data centers selling large blocks of AI computing to China-headquartered firms, ahead of Alibaba's November 19 results.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-stocks-fall-3-53-182617960.html?.tsrc=rss",
-   "published": "2026-11-17T18:26:17+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "미국 상무부의 새로운 AI 칩 규정 여파로 알리바바 주가가 하락했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "d40debbffc99a68a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "ASML Stocks Fall 2.72% as New US Rule Tightens the Chip Supply Chain It Serves",
-   "excerpt": "The BIS rule adds licenses for five data center hubs and stricter foundry checks, while China makes up roughly 20% of ASML's 2026 revenue.",
-   "url": "https://finance.yahoo.com/technology/articles/asml-stocks-fall-2-72-182553629.html?.tsrc=rss",
-   "published": "2026-11-17T18:25:53+00:00",
-   "tickers": [
-    "ASML"
-   ],
-   "summary_ko": [
-    "미국의 새로운 반도체 공급망 규정 강화로 ASML 주가가 하락했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "cb5260b24069919b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Falls Ahead Of Earnings. Doubts On CEO Return. (Live Coverage)",
-   "excerpt": "Nvidia looks to calm investors with its fiscal third-quarter earnings report out late Tuesday.",
-   "url": "https://finance.yahoo.com/m/ef40b1a2-2bff-390f-b0d5-c281b4d503ef/nvidia-falls-ahead-of.html?.tsrc=rss",
-   "published": "2026-11-17T18:24:22+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아는 3분기 실적 발표를 앞두고 하락세를 보였다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2d7be0e3256088d6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
-   "excerpt": "The ousted Nvidia founder apologized for his conduct, offered to return if directors ask, and addressed supporters as the chipmaker presses ahead with its search for new leadership this week.",
-   "url": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance?.tsrc=rss",
-   "published": "2026-11-17T18:23:43+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황이 이사회 반대에도 불구하고 엔비디아 최고경영자로 복귀하는 것이 영광일 것이라고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "cbd3b623a9f5043a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nike Bets Its Comeback on Performance Sports",
-   "excerpt": "The first sign of progress could be smaller declines.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nike-bets-comeback-performance-sports-182315312.html?.tsrc=rss",
-   "published": "2026-11-17T18:23:15+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "나이키는 성과 중심 스포츠에 집중하여 반전을 노리고 있다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5fde68d747ac0d11",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How much Nvidia stock does interim CEO Colette Kress own?",
-   "excerpt": "Colette Kress began serving as Nvidia’s interim CEO on November 12, 2026, after co-founder Jensen Huang resigned following news of extramarital affairs. Here’s a look at her stake in the tech giant.",
-   "url": "https://www.thestreet.com/personalities/how-much-nvidia-stock-does-colette-kress-own?.tsrc=rss",
-   "published": "2026-11-17T18:23:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 사임 이후 콜레트 크레스가 임시 CEO로 취임했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3a115c60631dba55",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Qualcomm vs. SK Hynix: Stable Revenue vs. Rapid Acceleration",
-   "excerpt": "SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
-   "url": "https://www.fool.com/coverage/charts/2026/11/17/qualcomm-vs-sk-hynix-stable-revenue-vs-rapid-acceleration/?.tsrc=rss",
-   "published": "2026-11-17T18:20:02+00:00",
-   "tickers": [
-    "QCOM"
-   ],
-   "summary_ko": [
-    "SK하이닉스의 분기 매출이 급증한 반면 퀄컴의 매출은 정체 상태라고 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "87af27db47b3be0b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Where Will Nvidia Stock Be in 3 Years?",
-   "excerpt": "The chipmaker is at a critical crossroads.",
-   "url": "https://www.fool.com/investing/2026/11/17/where-will-nvidia-stock-be-in-3-years/?.tsrc=rss",
-   "published": "2026-11-17T18:17:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 중요한 기로에 서 있다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "16ce4b84cc459eff",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Steve Eisman: The AI neocloud stocks are in 'big trouble' from Nvidia fallout",
-   "excerpt": "Investor Steve Eisman said the so-called AI neocloud stocks will be the biggest losers from the unfolding Nvidia scandal.",
-   "url": "https://www.youtube.com/watch?v=NubAmIFFBVU",
-   "published": "2026-11-17T18:15:18+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "투자자 스티브 아이스먼은 AI 네오클라우드 주식이 큰 타격을 입을 것이라고 주장했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "f2a0a28c18d8e516",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
-   "excerpt": "Organizations can observe much of the activity around AI models, but they often cannot reconstruct what happened between a request and an outcome, making it difficult to independently verify model behavior. At Microsoft Ignite on Tuesday, Microsoft Chairman and CEO Satya Nadella announced the next phase of Microsoft's commitment to making AI safer: the AI Transparency Initiative, a collaborative effort with customers and partners to establish a common, open approach to security and governance ac",
-   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-organizations-across-industries-launch-181500607.html?.tsrc=rss",
-   "published": "2026-11-17T18:15:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트는 기업의 AI 모델 신뢰를 높이기 위한 AI 투명성 이니셔티브를 발표했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c1f7087c0b7d04ef",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
-   "excerpt": "Organizations can observe much of the activity around AI models, but they often cannot reconstruct what happened between a request and an outcome, making it difficult to independently verify model behavior. At Microsoft Ignite on Tuesday, Microsoft Chairman and CEO Satya Nadella announced the next phase of Microsoft's commitment to making AI safer: the AI Transparency Initiative, a collaborative effort with customers and partners to establish a common, open approach to security and governance ac",
-   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-organizations-across-industries-launch-181500425.html?.tsrc=rss",
-   "published": "2026-11-17T18:15:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트가 기업의 AI 신뢰도를 높이기 위한 AI 투명성 이니셔티브를 발표했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b448e4e9375edc30",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
-   "excerpt": "Organizations can observe much of the activity around AI models, but they often cannot reconstruct what happened between a request and an outcome, making it difficult to independently verify model behavior. At Microsoft Ignite on Tuesday, Microsoft Chairman and CEO Satya Nadella announced the next phase of Microsoft's commitment to making AI safer: the AI Transparency Initiative, a collaborative effort with customers and partners to establish a common, open approach to security and governance ac",
-   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-organizations-across-industries-launch-181500528.html?.tsrc=rss",
-   "published": "2026-11-17T18:15:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트는 기업의 AI 신뢰도 강화를 위해 AI 투명성 이니셔티브를 발표했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "4f1cdc1ea596c090",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump Demands a “350 Billion Dollar” Military Bill Before Democrats Take Over. Palantir Has a Stake",
-   "excerpt": "Key TakeawaysPalantir Technologies (PLTR) could benefit from President Donald Trump’s push for an additional $350 billion in military spending before Democrats take control of Congress. Senate appropriators proposed nearly $1.",
-   "url": "https://www.tikr.com/blog/trump-demands-a-350-billion-dollar-military-bill-before-democrats-take-over-palantir-has-a-stake?ref=yahoofinance&tlnk=yf-261117-cw4r6qhr&.tsrc=rss",
-   "published": "2026-11-17T18:13:45+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "summary_ko": [
-    "트럼프 대통령의 군사비 지출 확대 요구가 팔란티어에 호재가 될 수 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "292ed07f7ab33862",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron Drops Again. What Hedge Funds Are Doing With the Stock.",
-   "excerpt": "AI hedge fund Situational Awareness sells Micron stock in the third quarter. It could be a boon for the memory-chip company.",
-   "url": "https://finance.yahoo.com/m/8de18bcc-f636-3e12-8e8b-a141738198d9/micron-drops-again.-what.html?.tsrc=rss",
-   "published": "2026-11-17T18:12:00+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "헤지펀드 시추에이셔널 어웨어니스가 3분기에 마이크론 주식을 매도했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "12acf47e8ea12370",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bull market ‘has room to run’: 10 stocks to buy now",
-   "excerpt": "Victoria Fernandez of Crossmark Global Investments, says the bull market is “not dead yet” and shares 10 stocks to buy now, including Nvidia, Broadcom, ASML and others. She also explains how much tech to own and what to expect from stocks heading into 2027.",
-   "url": "https://www.thestreet.com/video/bull-market-has-room-to-run-10-stock-to-buy-now?.tsrc=rss",
-   "published": "2026-11-17T18:10:56+00:00",
-   "tickers": [
-    "NVDA",
-    "AVGO",
-    "ASML"
-   ],
-   "summary_ko": [
-    "강세장이 끝나지 않았으며 기술주 전망과 주목할 종목들을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "46d4b323db586036",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models",
-   "excerpt": "Microsoft AI CEO Mustafa Suleyman tells Axios the software giant is making significant progress toward building its own frontier general-purpose AI model, even as it introduces six specialized models that it claims rival leading offerings from OpenAI and Anthropic at a fraction of the cost.",
-   "url": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
-   "published": "2026-11-17T18:10:07+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트가 오픈AI와 앤스로픽에 대응하기 위해 저렴하고 전문화된 인공지능 모델을 개발 중이라고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "dd84a021813c39e3",
-   "kind": "youtube",
-   "source": "The Motley Fool",
-   "author": "The Motley Fool",
-   "title": "Nvidia's First Earnings Without Jensen: What Investors Need to Know (LIVE)",
-   "excerpt": "Podcast: Nvidia just reported its first quarter since Jensen Huang stepped down as CEO, and the whole AI trade is watching. Motley Fool analysts break down the results live: revenue and data center growth, guidance, margins, and what management said about leadership and the road ahead. We'll cover: • The headline numbers vs. expectations • Data center demand and the AI spending outlook • What the leadership change means for NVDA long term • Whether Nvidia stock is a buy, hold, or pass right now • Your live questions Drop your questions in the chat! ------------------------------------------------------------------------ This video is brought to you by The Motley Fool. The Motley Fool Stock Advisor returns are 927% as of 8/5/2026 and measured against the S&P 500 returns of 211% as of 8/5/20",
-   "url": "https://www.youtube.com/watch?v=L-vFgxcwWE0",
-   "published": "2026-11-17T18:09:22+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 젠슨 황의 퇴임 후 첫 분기 실적을 발표했다.",
-    "분석가들은 실적 결과와 데이터센터 수요 등을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d0fb238a3b0adc55",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Hired a Headhunter and Is Talking to Arm’s CEO, WSJ Reports. Rene Haas Ran One of Nvidia’s Biggest Businesses Until 2013",
-   "excerpt": "Nvidia hired a search firm for its next CEO and is talking to Arm's Rene Haas, the WSJ reported. Who Haas is, what Arm's stock did under him and how traders reacted.",
-   "url": "https://247wallst.com/investing/2026/11/17/nvidia-hired-a-headhunter-and-is-talking-to-arms-ceo-wsj-reports-rene-haas-ran-one-of-nvidias-biggest-businesses-until-2013/?.tsrc=rss",
-   "published": "2026-11-17T18:09:03+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 3
-  },
-  {
-   "id": "a1f66bed868324f8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SPCX Stock In Focus: SpaceX To Reportedly Launch $4B Bond Sale This Week",
-   "excerpt": "The bond sale is part of a larger $40 billion financing to buy Nvidia’s Vera Rubin chips.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-in-focus-spacex-to-reportedly-launch-4-b-bond-sale-this-week/cNbOcypR9hI?.tsrc=rss",
-   "published": "2026-11-17T18:07:04+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 3
-  },
-  {
-   "id": "c30648e17a49b47c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Intel Stock Is Falling After Parting Blow From Jensen Huang",
-   "excerpt": "The chip maker's shares have slumped more than 50% since the start of October.",
-   "url": "https://finance.yahoo.com/m/88a77f9e-b266-31cb-8d20-56c4fec6786d/intel-stock-is-falling-after.html?.tsrc=rss",
-   "published": "2026-11-17T18:07:00+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 3
-  },
-  {
-   "id": "8c7ed27d82adf5dc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SpaceX Extends Its Rocket Lead. Blue Origin Isn’t Catching Up.",
-   "excerpt": "Starship’s historic catch and Vulcan’s failed Amazon mission highlight SpaceX’s advantage—and the shortage of reliable launch alternatives.",
-   "url": "https://finance.yahoo.com/m/3fd926ea-0963-3217-b956-269321016c5d/spacex-extends-its-rocket.html?.tsrc=rss",
-   "published": "2026-11-17T18:07:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "스페이스X의 스타십 성공과 아마존의 발사 실패가 대조를 이룬다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b600cadb19767fd4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SpaceX Catches Starship While ULA, Blue Origin Stumble. No One Is Catching Musk.",
-   "excerpt": "Starship’s historic catch and Vulcan’s failed Amazon mission highlight SpaceX’s advantage—and the shortage of reliable launch alternatives.",
-   "url": "https://finance.yahoo.com/m/3fd926ea-0963-3217-b956-269321016c5d/spacex-catches-starship-while.html?.tsrc=rss",
-   "published": "2026-11-17T18:07:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "스페이스X가 로켓 회수에 성공한 반면 경쟁사들은 부진했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "77c24b02d2a99364",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $7.2 Billion Fund Dumps These 3 Stocks",
-   "excerpt": "Key TakeawaysA $7. 2 billion fund, Evergreen Quality Fund, sold all of its Micron, Lumentum and AMD shares in the third quarter, while Alphabet and Amazon became its two largest holdings.",
-   "url": "https://www.tikr.com/blog/a-7-2-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-536g3rmv&.tsrc=rss",
-   "published": "2026-11-17T18:05:53+00:00",
-   "tickers": [
-    "GOOGL",
-    "AMZN",
-    "AMD",
-    "MU"
-   ],
-   "summary_ko": [
-    "대형 펀드가 3분기에 마이크론, 루멘텀, AMD 주식을 전량 매도했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "f3b5fdeb0e735649",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Not Nvidia. Not Alphabet. This Is the AI Stock I’d Buy With the Next Dollar I Invest.",
-   "excerpt": "Cisco Systems just raised its forecast, and the market sold the stock anyway. Here's why it gets my next dollar.",
-   "url": "https://www.fool.com/investing/2026/11/17/not-nvidia-not-alphabet-this-is-the-ai-stock-id-buy-with-the-next-dollar-i-invest/?.tsrc=rss",
-   "published": "2026-11-17T18:05:02+00:00",
-   "tickers": [
-    "NVDA",
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "시스코가 실적 전망을 상향 조정했음에도 시장에서 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "dd2ada0963ff3498",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nike’s 2031 targets offer credible recovery path, says Jefferies",
-   "excerpt": "Nike Inc (NYSE:NKE, XETRA:NKE) has outlined a long-term recovery plan targeting higher revenue, operating margins and earnings by fiscal 2031, with Jefferies describing the framework as credible and saying fiscal 2027 is likely to mark the bottom of its downturn. The sportswear group is...",
-   "url": "https://www.proactiveinvestors.com/companies/news/1101950/nike-s-2031-targets-offer-credible-recovery-path-says-jefferies-1101950.html?.tsrc=rss",
-   "published": "2026-11-17T18:05:00+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "제프리스는 나이키의 2031년 장기 회복 계획이 신뢰할 만하다고 평가했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "63bcfd3bceb44a57",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dow Plunges 700 Points as S&P 500 and Nasdaq Fall Ahead of Nvidia Earnings",
-   "excerpt": "Nvidia's Worst Month Since 2022 . Chip Stocks Reel Ahead of Crucial Earnings",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/dow-plunges-700-points-p-180432792.html?.tsrc=rss",
-   "published": "2026-11-17T18:04:32+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 실적 발표를 앞두고 증시가 하락세를 보였다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ea972e3ce55dcd02",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Could Nvidia's leadership change fuel a new wave of chip rivals?",
-   "excerpt": "Siebert Financial chief investment officer Mark Malek and his panel of experts weigh in on Nvidia's (NVDA) vulnerability to rivals and the possibility of a new wave of venture-backed chip startups. Today's panel includes Yahoo Finance's Julie Hyman, Solidarity Wealth CEO Jeff McClean, Roundhill Investments ETF strategist Thomas DiFazio, and Alumni Ventures managing partner Laura Rippy.",
-   "url": "https://finance.yahoo.com/video/could-nvidias-leadership-change-fuel-a-new-wave-of-chip-rivals-180416783.html?.tsrc=rss",
-   "published": "2026-11-17T18:04:16+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 리더십 변화가 새로운 칩 경쟁사의 등장을 이끌 수 있는지 전문가들이 논의했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "15cc6a5995adbe0d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Uber Stocks Fall 2.87% Even as Zoox Robotaxis Go Live on Its Vegas App",
-   "excerpt": "Amazon's Zoox became the first outside robotaxi on Uber in Las Vegas, alongside a multi-year MGM Resorts deal and a 2027 Los Angeles plan.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/uber-stocks-fall-2-87-180251052.html?.tsrc=rss",
-   "published": "2026-11-17T18:02:51+00:00",
-   "tickers": [
-    "AMZN",
-    "UBER"
-   ],
-   "summary_ko": [
-    "아마존의 주크스 로보택시가 우버 앱에 도입되었음에도 우버 주가는 하락했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0fb163c7ad4c48c1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Super Micro Falls 4%, Dell and Hewlett Packard Enterprise Slide 2%: Do New U.S. Export Curbs Deepen Super Micro’s China Problem?",
-   "excerpt": "Washington just tightened the rules on AI chip shipments, and Super Micro already carries a federal diversion probe. Yet its bigger rivals are bleeding too, which raises a sharper question about who really has the thinnest cushion.",
-   "url": "https://247wallst.com/investing/2026/11/17/super-micro-falls-4-dell-and-hewlett-packard-enterprise-slide-2-do-new-u-s-export-curbs-deepen-super-micros-china-problem/?.tsrc=rss",
-   "published": "2026-11-17T18:02:33+00:00",
-   "tickers": [
-    "SMCI",
-    "DELL"
-   ],
-   "summary_ko": [
-    "미국의 강화된 AI 칩 수출 규제로 슈퍼마이크로를 비롯한 관련 기업들이 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "fa068bd2d8f037c0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bill Ackman Cut His Microsoft Stake. Your S&P 500 Fund Can’t.",
-   "excerpt": "A hedge fund can trim Microsoft the moment its view shifts. If you own it through a 401(k), an IRA, and a brokerage account, you may hold far more of the stock than you realize, with no way to step aside.",
-   "url": "https://247wallst.com/investing/etf/2026/11/17/bill-ackman-cut-his-microsoft-stake-your-sp-500-fund-cant/?.tsrc=rss",
-   "published": "2026-11-17T18:02:20+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "빌 애크먼이 마이크론 지분을 축소했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e8d4e9dd691c9a82",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Software Stocks Retreat Amid Inflation Worries, IT Outages",
-   "excerpt": "Software stocks sold off on Tuesday amid investor worries over inflation, turmoil at Nvidia and IT system outages.",
-   "url": "https://finance.yahoo.com/m/5119cb03-240a-3334-90c3-3c7e7b562646/software-stocks-retreat-amid.html?.tsrc=rss",
-   "published": "2026-11-17T18:02:07+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "인플레이션 우려와 IT 시스템 장애 등으로 소프트웨어 주식이 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "46603db812bcd307",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "WSC Sports Leads BDO's 2026 Analysis of Sports Content Solution Vendors",
-   "excerpt": "WSC Sports Leads BDO's 2026 Analysis of Sports Content Solution Vendors WSC Sports stands at the top of BDO's positioning map of 30+ vendors, including Adobe, FanDuel and Brightcove, with the widest product range, the most sports covered and the strongest tier-1 customer base. WSC Sports stands at the top of BDO's positioning map of 30+ vendors, including Adobe, FanDuel and Brightcove, with the widest product range, the most sports covered and the strongest tier-1 customer base. New York, Novemb",
-   "url": "https://finance.yahoo.com/media-advertising/articles/wsc-sports-leads-bdos-2026-180200322.html?.tsrc=rss",
-   "published": "2026-11-17T18:02:00+00:00",
-   "tickers": [
-    "ADBE"
-   ],
-   "summary_ko": [
-    "WSC 스포츠가 BDO의 2026년 스포츠 콘텐츠 솔루션 분석에서 선두를 차지했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b0c1c0bc4b8a064e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alphabet’s Google acquires AI scheduling startup Howie to bolster agent lineup",
-   "excerpt": "Alphabet Inc's (NASDAQ:GOOGL) Google has acquired Howie, an artificial intelligence-powered scheduling and calendar management startup, marking the technology giant’s latest effort to capture consumer and enterprise market share through autonomous AI agents. Google’s experimental division, Google Labs, confirmed the transaction in a social media post on X on Monday, though financial terms were not disclosed.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-google-acquires-ai-scheduling-180147675.html?.tsrc=rss",
-   "published": "2026-11-17T18:01:47+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "구글이 AI 일정 관리 스타트업 Howie를 인수했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "938488c637ae5b43",
-   "kind": "youtube",
-   "source": "Fox Business",
-   "author": "Fox Business",
-   "title": "Huang addresses calls to RETURN to Nvidia in first statement since resignation",
-   "excerpt": "FOX Business correspondent Lauren Simonetti reports on former Nvidia CEO Jensen Huang releasing a public statement since his resignation and addressing calls for his return on 'Varney & Co.' 00:00 Jensen Huang breaks silence after stepping down 00:12 Official statement on returning as Nvidia CEO 00:31 Navigating geopolitical and competitive dynamics 00:48 Nvidia stock price hits lowest level since 2025 01:02 DOJ and Commerce Department Megaspeed investigation Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 20",
-   "url": "https://www.youtube.com/watch?v=eWSIectZK4A",
-   "published": "2026-11-17T18:00:39+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "전 엔비디아 CEO 젠슨 황이 사임 이후 처음으로 공개 성명을 발표했다."
    ],
    "tone": "neu"
   }
