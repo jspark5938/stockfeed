@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:30:38.380482+00:00",
+ "updated": "2026-11-24T17:00:42.817866+00:00",
  "trends": [
   {
    "ticker": "ADBE",
@@ -30,60 +30,53 @@
    "ratio": 3.5
   },
   {
-   "ticker": "INTC",
-   "name_ko": "인텔",
-   "mentions_24h": 31,
-   "mentions_prev_24h": 11,
-   "ratio": 2.82
-  },
-  {
    "ticker": "BA",
    "name_ko": "보잉",
-   "mentions_24h": 11,
+   "mentions_24h": 12,
    "mentions_prev_24h": 4,
-   "ratio": 2.75
+   "ratio": 3.0
   },
   {
-   "ticker": "TSM",
-   "name_ko": "TSMC",
-   "mentions_24h": 19,
-   "mentions_prev_24h": 7,
-   "ratio": 2.71
+   "ticker": "SCHD",
+   "name_ko": "배당 ETF(SCHD)",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 0,
+   "ratio": 3.0
+  },
+  {
+   "ticker": "BABA",
+   "name_ko": "알리바바",
+   "mentions_24h": 13,
+   "mentions_prev_24h": 5,
+   "ratio": 2.6
+  },
+  {
+   "ticker": "INTC",
+   "name_ko": "인텔",
+   "mentions_24h": 30,
+   "mentions_prev_24h": 12,
+   "ratio": 2.5
   },
   {
    "ticker": "AMD",
    "name_ko": "AMD",
    "mentions_24h": 41,
-   "mentions_prev_24h": 16,
-   "ratio": 2.56
+   "mentions_prev_24h": 17,
+   "ratio": 2.41
   },
   {
-   "ticker": "GOOGL",
-   "name_ko": "알파벳(구글)",
-   "mentions_24h": 40,
-   "mentions_prev_24h": 16,
-   "ratio": 2.5
+   "ticker": "TSM",
+   "name_ko": "TSMC",
+   "mentions_24h": 19,
+   "mentions_prev_24h": 8,
+   "ratio": 2.38
   },
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 579,
-   "mentions_prev_24h": 233,
-   "ratio": 2.48
-  },
-  {
-   "ticker": "BABA",
-   "name_ko": "알리바바",
-   "mentions_24h": 12,
-   "mentions_prev_24h": 5,
-   "ratio": 2.4
-  },
-  {
-   "ticker": "MSFT",
-   "name_ko": "마이크로소프트",
-   "mentions_24h": 43,
-   "mentions_prev_24h": 18,
-   "ratio": 2.39
+   "mentions_24h": 576,
+   "mentions_prev_24h": 251,
+   "ratio": 2.29
   },
   {
    "ticker": "NKE",
@@ -93,11 +86,18 @@
    "ratio": 2.25
   },
   {
-   "ticker": "AMZN",
-   "name_ko": "아마존",
-   "mentions_24h": 54,
-   "mentions_prev_24h": 26,
-   "ratio": 2.08
+   "ticker": "MSFT",
+   "name_ko": "마이크로소프트",
+   "mentions_24h": 42,
+   "mentions_prev_24h": 19,
+   "ratio": 2.21
+  },
+  {
+   "ticker": "GOOGL",
+   "name_ko": "알파벳(구글)",
+   "mentions_24h": 38,
+   "mentions_prev_24h": 18,
+   "ratio": 2.11
   },
   {
    "ticker": "IONQ",
@@ -107,52 +107,59 @@
    "ratio": 2.0
   },
   {
-   "ticker": "SCHD",
-   "name_ko": "배당 ETF(SCHD)",
+   "ticker": "META",
+   "name_ko": "메타",
+   "mentions_24h": 6,
+   "mentions_prev_24h": 3,
+   "ratio": 2.0
+  },
+  {
+   "ticker": "ABNB",
+   "name_ko": "에어비앤비",
    "mentions_24h": 2,
    "mentions_prev_24h": 0,
    "ratio": 2.0
   },
   {
-   "ticker": "AVGO",
-   "name_ko": "브로드컴",
-   "mentions_24h": 19,
-   "mentions_prev_24h": 11,
-   "ratio": 1.73
-  },
-  {
    "ticker": "PLTR",
    "name_ko": "팔란티어",
-   "mentions_24h": 12,
+   "mentions_24h": 13,
    "mentions_prev_24h": 7,
-   "ratio": 1.71
+   "ratio": 1.86
   },
   {
-   "ticker": "DELL",
-   "name_ko": "델",
+   "ticker": "AVGO",
+   "name_ko": "브로드컴",
    "mentions_24h": 20,
-   "mentions_prev_24h": 12,
-   "ratio": 1.67
-  },
-  {
-   "ticker": "WMT",
-   "name_ko": "월마트",
-   "mentions_24h": 20,
-   "mentions_prev_24h": 12,
-   "ratio": 1.67
-  },
-  {
-   "ticker": "META",
-   "name_ko": "메타",
-   "mentions_24h": 5,
-   "mentions_prev_24h": 3,
-   "ratio": 1.67
+   "mentions_prev_24h": 11,
+   "ratio": 1.82
   },
   {
    "ticker": "UBER",
    "name_ko": "우버",
-   "mentions_24h": 9,
+   "mentions_24h": 10,
    "mentions_prev_24h": 6,
+   "ratio": 1.67
+  },
+  {
+   "ticker": "AMZN",
+   "name_ko": "아마존",
+   "mentions_24h": 51,
+   "mentions_prev_24h": 31,
+   "ratio": 1.65
+  },
+  {
+   "ticker": "DELL",
+   "name_ko": "델",
+   "mentions_24h": 19,
+   "mentions_prev_24h": 12,
+   "ratio": 1.58
+  },
+  {
+   "ticker": "PFE",
+   "name_ko": "화이자",
+   "mentions_24h": 6,
+   "mentions_prev_24h": 4,
    "ratio": 1.5
   },
   {
@@ -170,11 +177,11 @@
    "ratio": 1.5
   },
   {
-   "ticker": "ORCL",
-   "name_ko": "오라클",
-   "mentions_24h": 22,
-   "mentions_prev_24h": 15,
-   "ratio": 1.47
+   "ticker": "WMT",
+   "name_ko": "월마트",
+   "mentions_24h": 19,
+   "mentions_prev_24h": 13,
+   "ratio": 1.46
   },
   {
    "ticker": "COST",
@@ -184,20 +191,6 @@
    "ratio": 1.43
   },
   {
-   "ticker": "JPM",
-   "name_ko": "JP모건",
-   "mentions_24h": 17,
-   "mentions_prev_24h": 12,
-   "ratio": 1.42
-  },
-  {
-   "ticker": "MU",
-   "name_ko": "마이크론",
-   "mentions_24h": 28,
-   "mentions_prev_24h": 20,
-   "ratio": 1.4
-  },
-  {
    "ticker": "BAC",
    "name_ko": "뱅크오브아메리카",
    "mentions_24h": 7,
@@ -205,15 +198,15 @@
    "ratio": 1.4
   },
   {
-   "ticker": "TSLA",
-   "name_ko": "테슬라",
-   "mentions_24h": 46,
-   "mentions_prev_24h": 33,
-   "ratio": 1.39
-  },
-  {
    "ticker": "QBTS",
    "name_ko": "디웨이브",
+   "mentions_24h": 4,
+   "mentions_prev_24h": 3,
+   "ratio": 1.33
+  },
+  {
+   "ticker": "QCOM",
+   "name_ko": "퀄컴",
    "mentions_24h": 4,
    "mentions_prev_24h": 3,
    "ratio": 1.33
@@ -226,18 +219,39 @@
    "ratio": 1.33
   },
   {
-   "ticker": "PFE",
-   "name_ko": "화이자",
-   "mentions_24h": 5,
-   "mentions_prev_24h": 4,
-   "ratio": 1.25
+   "ticker": "MU",
+   "name_ko": "마이크론",
+   "mentions_24h": 29,
+   "mentions_prev_24h": 22,
+   "ratio": 1.32
+  },
+  {
+   "ticker": "TSLA",
+   "name_ko": "테슬라",
+   "mentions_24h": 45,
+   "mentions_prev_24h": 35,
+   "ratio": 1.29
+  },
+  {
+   "ticker": "JPM",
+   "name_ko": "JP모건",
+   "mentions_24h": 16,
+   "mentions_prev_24h": 13,
+   "ratio": 1.23
   },
   {
    "ticker": "CRWD",
    "name_ko": "크라우드스트라이크",
-   "mentions_24h": 43,
+   "mentions_24h": 45,
    "mentions_prev_24h": 37,
-   "ratio": 1.16
+   "ratio": 1.22
+  },
+  {
+   "ticker": "ORCL",
+   "name_ko": "오라클",
+   "mentions_24h": 20,
+   "mentions_prev_24h": 17,
+   "ratio": 1.18
   },
   {
    "ticker": "CRM",
@@ -268,13 +282,6 @@
    "ratio": 1.0
   },
   {
-   "ticker": "QCOM",
-   "name_ko": "퀄컴",
-   "mentions_24h": 3,
-   "mentions_prev_24h": 3,
-   "ratio": 1.0
-  },
-  {
    "ticker": "RGTI",
    "name_ko": "리게티",
    "mentions_24h": 3,
@@ -292,8 +299,15 @@
    "ticker": "AAPL",
    "name_ko": "애플",
    "mentions_24h": 20,
-   "mentions_prev_24h": 26,
-   "ratio": 0.77
+   "mentions_prev_24h": 27,
+   "ratio": 0.74
+  },
+  {
+   "ticker": "COIN",
+   "name_ko": "코인베이스",
+   "mentions_24h": 6,
+   "mentions_prev_24h": 9,
+   "ratio": 0.67
   },
   {
    "ticker": "LLY",
@@ -310,20 +324,6 @@
    "ratio": 0.62
   },
   {
-   "ticker": "COIN",
-   "name_ko": "코인베이스",
-   "mentions_24h": 5,
-   "mentions_prev_24h": 9,
-   "ratio": 0.56
-  },
-  {
-   "ticker": "NFLX",
-   "name_ko": "넷플릭스",
-   "mentions_24h": 5,
-   "mentions_prev_24h": 9,
-   "ratio": 0.56
-  },
-  {
    "ticker": "MSTR",
    "name_ko": "스트래티지",
    "mentions_24h": 3,
@@ -336,6 +336,13 @@
    "mentions_24h": 2,
    "mentions_prev_24h": 4,
    "ratio": 0.5
+  },
+  {
+   "ticker": "NFLX",
+   "name_ko": "넷플릭스",
+   "mentions_24h": 4,
+   "mentions_prev_24h": 10,
+   "ratio": 0.4
   },
   {
    "ticker": "DIS",
@@ -355,8 +362,8 @@
    "ticker": "SMCI",
    "name_ko": "슈퍼마이크로",
    "mentions_24h": 2,
-   "mentions_prev_24h": 7,
-   "ratio": 0.29
+   "mentions_prev_24h": 6,
+   "ratio": 0.33
   }
  ]
 }
