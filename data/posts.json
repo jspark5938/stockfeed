@@ -1,6 +1,428 @@
 {
- "updated": "2026-11-24T13:00:40.005886+00:00",
+ "updated": "2026-11-24T13:30:36.798829+00:00",
  "posts": [
+  {
+   "id": "e346d7582ac91490",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nasdaq Futures Fall as Questions Linger Over AI Trade",
+   "excerpt": "U.S. stock futures fell amid investor concerns around Jensen Huang’s return as Nvidia chief and the artificial-intelligence buildout after Monday’s stunning rally.",
+   "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?.tsrc=rss",
+   "published": "2026-11-24T13:28:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f9f1d7e05a136932",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan Treasury survey shows neutral positioning ahead of PCE data",
+   "excerpt": "Investing.com -- JPMorgan’s client poll of US Treasury note investors shows a small drop in bullishness, but the details point to fence-sitting more than a turn.",
+   "url": "https://finance.yahoo.com/markets/options/articles/jpmorgan-treasury-survey-shows-neutral-132259516.html?.tsrc=rss",
+   "published": "2026-11-24T13:22:59+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "35084f6fd2c25ec3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan and Bank of America Just Sold Off. One Looks Better for Retirees",
+   "excerpt": "One bank is cheaper and pays more today. The other has a thicker safety cushion and a dividend history that bounced back years sooner. For retirees, the real question is which advantage matters when the next downturn arrives.",
+   "url": "https://247wallst.com/investing/2026/11/24/jpmorgan-and-bank-of-america-just-sold-off-one-looks-better-for-retirees/?.tsrc=rss",
+   "published": "2026-11-24T13:17:50+00:00",
+   "tickers": [
+    "JPM",
+    "BAC"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "e19dd1d8c38156d9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart Raised Its Outlook and the Stock Fell Anyway. Here’s the New Price Target",
+   "excerpt": "Walmart beat estimates and lifted guidance for the second time this year, yet investors sold anyway. Advertising, marketplace and membership growth may explain why analysts still see room to run, but one valuation number gives bears real ammunition.",
+   "url": "https://247wallst.com/investing/2026/11/24/walmart-raised-its-outlook-and-the-stock-fell-anyway-heres-the-new-price-target/?.tsrc=rss",
+   "published": "2026-11-24T13:17:42+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "c0046e4e3d8a297e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Goldman Sachs says AI trade hinges on returns, not Nvidia",
+   "excerpt": "Investing.com -- The recent management changes at Nvidia Corp. will not significantly impact the artificial intelligence investment outlook, according to Goldman Sachs Group Inc.'s Sharon Bell, who emphasized that returns on capital expenditure remain the determining factor for the sector's performance.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-says-ai-trade-131510939.html?.tsrc=rss",
+   "published": "2026-11-24T13:15:10+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "4b1b0e2f42a90658",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry: Bear rallies averaged 22% in the 1929 and 2000 crashes. Is Nvidia’s bounce back fooling your nest egg?",
+   "excerpt": "Don’t count your chips before they're cashed.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-bear-rallies-averaged-131500246.html?.tsrc=rss",
+   "published": "2026-11-24T13:15:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b0b5fa08a41d9867",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "This 3x Short Nvidia Fund Collapsed By 92% in One Day",
+   "excerpt": "A leadership shake-up sent Nvidia soaring, and a London-listed bet against it was nearly wiped out before U.S. investors even woke up. The timing of one market opening explains why even built-in safeguards could not save holders.",
+   "url": "https://247wallst.com/investing/2026/11/24/this-3x-short-nvidia-fund-collapsed-by-92-in-one-day/?.tsrc=rss",
+   "published": "2026-11-24T13:13:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "6497a721cf55a025",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 Indian Founder Led Stocks With Revenue Growth Up To 32%",
+   "excerpt": "AI stocks just reminded investors how much leadership matters. Jensen Huang’s return to Nvidia calmed a wild global tech swing and put founder commitment back in the spotlight. For Indian investors, this shines a light on homegrown founders who still set the agenda, own meaningful stakes and think in decades rather than quarters. This article walks through three founder-led Indian stocks from our screener that are worth considering for your watchlist. The three stocks highlighted here offer a...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-indian-founder-led-stocks-131302254.html?.tsrc=rss",
+   "published": "2026-11-24T13:13:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "4b38ed65ec2d6eee",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Made Tesla Stock Jump On Monday?",
+   "excerpt": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
+   "url": "https://www.trefis.com/stock/tsla/articles/628598/what-made-tesla-stock-jump-on-monday/2026-11-24?.tsrc=rss",
+   "published": "2026-11-24T13:12:42+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "33d6bf79f66eeb34",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "What Senator McCormick Wants to Hear From Nvidia CEO Jensen Huang",
+   "excerpt": "Senator Dave McCormick, a Republican from Pennsylvania, discusses the questions he wants answered by Nvidia CEO Jensen Huang when he testifies publicly before a Senate committee on Dec. 3. McCormick speaks on “Bloomberg Surveillance” about his concerns over the US government intervening in private companies and the need to update legislation on export controls. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomb",
+   "url": "https://www.youtube.com/watch?v=p8AVqXXt_qY",
+   "published": "2026-11-24T13:12:30+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b3b92b3fa8e31f8b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 ETFs For Owning Palo Alto Networks Without The Same Bet",
+   "excerpt": "Owning Palo Alto Networks directly means living with its specific issues on your own, such as Simply Wall St’s note that profit margins at 3.7% are well below last year’s 11.7%, or its warning about large one off items affecting results. A fund that holds Palo Alto Networks alongside many other businesses can reduce how much those company specific swings affect your portfolio, and also reduces how much its success moves the needle. The latest twist is the proposed US$44b cybersecurity deal...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-etfs-owning-palo-alto-131058994.html?.tsrc=rss",
+   "published": "2026-11-24T13:10:58+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "efe83fed2e78a72b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Stock Rally Shines A Light On US Retail Brokerage Platforms",
+   "excerpt": "Nvidia’s sudden 31% jump after Jensen Huang’s return as CEO has pulled AI optimism back into the spotlight and reignited trading screens across US retail brokerage platforms. When a single stock can shift the mood of the whole market, trading apps and listed brokerages often see attention swing with it. This article explains how that sharp move is feeding into retail trading activity and highlights three stocks that are exposed to the same news pulse. The three stocks below are just a sample...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-rally-shines-light-131004656.html?.tsrc=rss",
+   "published": "2026-11-24T13:10:04+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "5020952785fb4a3b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Tech Futures Sell Off After Big Market Surge; AMD, Anthropic, Nvidia Dive (Live Coverage)",
+   "excerpt": "Tech futures sell off Tuesday after Monday's stock market surge. AMD, Anthropic and Nvidia dive.",
+   "url": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-tech.html?.tsrc=rss",
+   "published": "2026-11-24T13:07:59+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "6acac92488c5263a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TSX futures slip as caution takes hold after AI-fueled rally",
+   "excerpt": "Investing.com - Futures linked to Canada’s main stock index fell on Tuesday, as caution took hold after a global rally in equity markets fueled by Nvidia’s shock reinstatement of CEO Jensen Huang.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-futures-slip-caution-takes-130611183.html?.tsrc=rss",
+   "published": "2026-11-24T13:06:11+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1d6fded9c6ba8b04",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bernstein reverses Nvidia downgrade on Huang’s return, valuation",
+   "excerpt": "Investing.com -- Bernstein upgraded Nvidia to Outperform from Market Perform after the board reinstated Jensen Huang as chief executive, saying his exit was the primary reason for its earlier downgrade.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-reverses-nvidia-downgrade-huang-130442502.html?.tsrc=rss",
+   "published": "2026-11-24T13:04:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "2b61e08165fe7524",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "US Equity Futures Slide Pre-Bell as Traders Assess Nvidia-Led Market Rally",
+   "excerpt": "US equity futures were lower pre-bell Tuesday as traders assessed the Nvidia-led (NVDIA) market rall",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slide-pre-130353339.html?.tsrc=rss",
+   "published": "2026-11-24T13:03:53+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "ba1824ac19da5b4e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Own Humana Stock? Its Profit Cushion Is The Thinnest",
+   "excerpt": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
+   "url": "https://www.trefis.com/stock/unh/articles/628256/own-humana-stock-its-profit-cushion-is-the-thinnest/2026-11-24?.tsrc=rss",
+   "published": "2026-11-24T13:03:08+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "d7e519529faf3c8c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft Stock Jumps In Nvidia-Fueled Tech Surge; Is Microsoft A Buy Now?",
+   "excerpt": "Microsoft stock rises Monday amid a broader relief rally in tech stocks. Shares are still 11% below their all-time high.",
+   "url": "https://finance.yahoo.com/m/47e21d96-b242-3f68-9ea6-fbc095bafba1/microsoft-stock-jumps-in.html?.tsrc=rss",
+   "published": "2026-11-24T13:01:35+00:00",
+   "tickers": [
+    "NVDA",
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "469f29588a79409d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nuro and Uber launch driverless testing in San Francisco",
+   "excerpt": "Nuro and Uber have started testing fully driverless vehicles on public roads in the San Francisco Bay Area, an important step ahead of their commercial launch, now slated for early 2027.",
+   "url": "https://www.axios.com/2026/11/24/robotaxi-nuro-uber-lucid-testing-san-francisco#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+   "published": "2026-11-24T13:01:08+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "34c28ac4f1dac5d4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang is back at Nvidia. Should AMD be worried?",
+   "excerpt": "AMD is in focus as it sees its biggest rival take a huge step to going back to business as usual.",
+   "url": "https://finance.yahoo.com/markets/stocks/article/jensen-huang-is-back-at-nvidia-should-amd-be-worried-130012666.html?.tsrc=rss",
+   "published": "2026-11-24T13:00:12+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "948a5fa590d7427d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon To Pull Unauthorized Victoria's Secret Listings On Thanksgiving",
+   "excerpt": "Amazon will remove Victoria's Secret listings from third-party sellers on Amazon's marketplace on Thanksgiving, but will continue to allow authorized sellers to sell the Victoria's Secret brand.",
+   "url": "https://www.mediapost.com/publications/article/419642/amazon-to-pull-unauthorized-victorias-secret-list.html?.tsrc=rss",
+   "published": "2026-11-24T13:00:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "839b405c59eb3cb2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nuro, Lucid, and Uber Begin Driverless Testing on Public Roads in the San Francisco Bay Area",
+   "excerpt": "MOUNTAIN VIEW, Calif., November 24, 2026--Nuro, Inc. (\"Nuro\"), Lucid Group, Inc. (NASDAQ: LCID), and Uber Technologies, Inc. (NYSE: UBER) (\"Uber\") today announced the start of fully driverless testing on public roads across the San Francisco Bay Area. The companies also announced that employee rides in driverless vehicles will soon begin as the program moves into this next phase, ahead of the expected Q1 2027 public launch.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nuro-lucid-uber-begin-driverless-130000898.html?.tsrc=rss",
+   "published": "2026-11-24T13:00:00+00:00",
+   "tickers": [
+    "UBER",
+    "LCID"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "0da48bf083ff2f9a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart Leadership to Participate in Upcoming Investor Events",
+   "excerpt": "BENTONVILLE, Ark., November 24, 2026--Walmart Inc. (Nasdaq: WMT) announced today that company leadership will participate in upcoming investor events. Links to those with live webcasts can be found on Walmart’s investor relations website at stock.walmart.com.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-leadership-participate-upcoming-investor-130000815.html?.tsrc=rss",
+   "published": "2026-11-24T13:00:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "0e852f9ed0c35d53",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dan Niles: Why Pay “20 Times Trailing Revenues” for Anthropic When SK Hynix Trades at 2x Earnings?",
+   "excerpt": "Key TakeawaysSK hynix fell 13% on Nov. 20 to a new 52-week low as chip stocks sold off with Anthropic, in which Amazon holds a stake, then jumped 20% on Nov.",
+   "url": "https://www.tikr.com/blog/dan-niles-why-pay-20-times-trailing-revenues-for-anthropic-when-sk-hynix-trades-at-2x-earnings?ref=yahoofinance&tlnk=yf-261124-wv9jf564&.tsrc=rss",
+   "published": "2026-11-24T12:56:06+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "daed9161e62728ff",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Snowflake Has Slumped Ahead of Its Dec. 2 Report: Why TD Cowen Sees 66% Upside",
+   "excerpt": "Key TakeawaysTD Cowen reiterated its Buy rating and $450 price target on Snowflake, 66% above the stock’s Nov. 23 close of $271.",
+   "url": "https://www.tikr.com/blog/snowflake-has-slumped-ahead-of-its-dec-2-report-why-td-cowen-sees-66-upside?ref=yahoofinance&tlnk=yf-261124-g8gq5w8q&.tsrc=rss",
+   "published": "2026-11-24T12:54:48+00:00",
+   "tickers": [
+    "SNOW"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "43662f2bc51a8e84",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oppenheimer’s $250 Target Says NVIDIA’s Selloff Went Too Far",
+   "excerpt": "Key TakeawaysOppenheimer upgraded NVIDIA to Outperform with a $250 price target on Nov. 23, citing Jensen Huang’s return as CEO.",
+   "url": "https://www.tikr.com/blog/oppenheimers-250-target-says-nvidias-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261124-7w89wrm4&.tsrc=rss",
+   "published": "2026-11-24T12:53:40+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "3e0c0e29971344fa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Wonder Reportedly Shopping Grubhub to Potential Buyers",
+   "excerpt": "Wonder is exploring a potential sale of Grubhub less than two years after acquiring the third-party delivery platform for $650 million, according to The Wall Street Journal. The food technology company’s bankers have reportedly approached several major retailers, including Walmart, Target, and Kroger, to gauge their interest in acquiring Grubhub. There is no guarantee a […]",
+   "url": "https://www.qsrmagazine.com/story/wonder-reportedly-shopping-grubhub-to-potential-buyers/?.tsrc=rss",
+   "published": "2026-11-24T12:50:42+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
   {
    "id": "cb4f21c66ce70e05",
    "kind": "news",
@@ -83,6 +505,23 @@
    "summary_tries": 1
   },
   {
+   "id": "2c0f714673673c7b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell Just Dropped 26% in a Month. Steve Eisman Warns It Will “Slow Along With Nvidia.” Is He Right?",
+   "excerpt": "Key TakeawaysDell fell 27% in a month with Super Micro and Nvidia, even after Monday’s rebound. Estimates barely moved, so the selloff came out of the multiple, now back near its average.",
+   "url": "https://www.tikr.com/blog/dell-just-dropped-26-in-a-month-steve-eisman-warns-it-will-slow-along-with-nvidia-is-he-right?ref=yahoofinance&tlnk=yf-261124-jr476wwx&.tsrc=rss",
+   "published": "2026-11-24T12:35:36+00:00",
+   "tickers": [
+    "NVDA",
+    "SMCI",
+    "DELL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "696fcfd4a6cb1b19",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -128,7 +567,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "3270a57894cd247a",
@@ -210,6 +649,21 @@
    "tone": null
   },
   {
+   "id": "01fa4e00e62f6531",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Musk Targets Starlink in All Tesla Models “Towards the End of Next Year.” China Is the Catch",
+   "excerpt": "Key TakeawaysElon Musk said he hopes a built-in Starlink option reaches all Tesla models toward the end of 2027, except in China, where he says Starlink is illegal. The connection matters most for Tesla’s robotaxis, and Tesla would buy it from SpaceX, which runs Starlink.",
+   "url": "https://www.tikr.com/blog/musk-targets-starlink-in-all-tesla-models-towards-the-end-of-next-year-china-is-the-catch?ref=yahoofinance&tlnk=yf-261124-6mvwx5h6&.tsrc=rss",
+   "published": "2026-11-24T12:20:33+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "06ffeb3011b79ebf",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -255,7 +709,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "68712924f09d6b63",
@@ -431,6 +885,21 @@
    "tone": null
   },
   {
+   "id": "24b11c49a0a92040",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Gains From Strong Operating Margin Growth: Will it Last?",
+   "excerpt": "Intel's operating margin more than double in Q3 2026, driven by server CPU demand, manufacturing efficiencies and cost discipline. Can the momentum last?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-gains-strong-operating-margin-121100195.html?.tsrc=rss",
+   "published": "2026-11-24T12:11:00+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "b32cafb200da2d74",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -507,7 +976,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "26eb0a7f6a876fd6",
@@ -536,6 +1005,23 @@
    "tickers": [
     "NVDA",
     "BABA"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "80a3621011fbd43e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang’s Return “Could Be Negative for Anthropic,” David Faber Warns. That’s a Risk for Amazon and Alphabet",
+   "excerpt": "Key TakeawaysNvidia reinstated Jensen Huang as CEO on November 23, and CNBC’s David Faber warned his return could hurt Anthropic because Huang backs open-source AI. Open-weight models like Nvidia’s Nemotron threaten the premium prices Anthropic charges.",
+   "url": "https://www.tikr.com/blog/jensen-huangs-return-could-be-negative-for-anthropic-david-faber-warns-thats-a-risk-for-amazon-and-alphabet?ref=yahoofinance&tlnk=yf-261124-4vhfv7ww&.tsrc=rss",
+   "published": "2026-11-24T12:06:00+00:00",
+   "tickers": [
+    "NVDA",
+    "GOOGL",
+    "AMZN"
    ],
    "summary_ko": null,
    "tone": null
@@ -587,7 +1073,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "426b21662ff545fb",
@@ -700,6 +1186,21 @@
    "tone": null
   },
   {
+   "id": "badd25c3983bf2dd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CRWD Q3 Earnings Beat Estimates on Strong ARR & Falcon Flex Adoption",
+   "excerpt": "CrowdStrike tops Q3 earnings and revenue estimates on record net new ARR, robust Falcon Flex adoption and AI security demand, while raising FY27 guidance.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/crwd-q3-earnings-beat-estimates-120100191.html?.tsrc=rss",
+   "published": "2026-11-24T12:01:00+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "acd97bb01d7c8f78",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -756,6 +1257,21 @@
    "published": "2026-11-24T11:57:37+00:00",
    "tickers": [
     "PLTR"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "066324354354e5a3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CrowdStrike to Acquire Zscaler: Can it Boost Falcon Platform Growth?",
+   "excerpt": "CRWD's $43.9 billion Zscaler acquisition aims to expand Falcon's security capabilities, unlock cross-selling opportunities and accelerate long-term ARR growth.",
+   "url": "https://finance.yahoo.com/technology/articles/crowdstrike-acquire-zscaler-boost-falcon-115700050.html?.tsrc=rss",
+   "published": "2026-11-24T11:57:00+00:00",
+   "tickers": [
+    "CRWD"
    ],
    "summary_ko": null,
    "tone": null
@@ -1742,7 +2258,7 @@
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
    "title": "Chip stocks led a $3 trillion comeback on Monday — now comes Turnaround Tuesday: Chart of the Day",
-   "excerpt": "Nvidia and chip stocks sent the S&P 500 to its best day since April 2025, and history says the next week is usually rocky.",
+   "excerpt": "Nvidia and chip stocks sent the S&P 500 to its best day since April 2025. History says the next week is usually rocky.",
    "url": "https://finance.yahoo.com/markets/article/chip-stocks-led-a-3-trillion-comeback-on-monday--now-comes-turnaround-tuesday-chart-of-the-day-110000187.html?.tsrc=rss",
    "published": "2026-11-24T11:00:00+00:00",
    "tickers": [
@@ -3288,6 +3804,36 @@
     "다만 노키아와 ASML 등은 CEO 부재 중 입은 손실을 완전히 회복하지는 못했다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "22e4e6f3339d5e6f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Zscaler Soars 20% in a Week on CrowdStrike’s $43.9 Billion Stock Deal to Build “Cybersecurity’s Operating System”",
+   "excerpt": "Key TakeawaysZscaler stock is up 20% in the past week after CrowdStrike agreed to buy it in a $43. 9 billion all-stock deal.",
+   "url": "https://www.tikr.com/blog/zscaler-soars-20-in-a-week-on-crowdstrikes-43-9-billion-stock-deal-to-build-cybersecuritys-operating-system?ref=yahoofinance&tlnk=yf-261124-6rccm7c9&.tsrc=rss",
+   "published": "2026-11-24T05:52:09+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "d96101050e4af39d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "U.S. Blacklists Alibaba-Owned Company Over Chip Curbs",
+   "excerpt": "The U.S. Commerce Department added seven companies in Singapore, Thailand and Malaysia, including Alibaba-owned Apex Enterprise Solutions, to a blacklist.",
+   "url": "https://www.wsj.com/tech/u-s-blacklists-alibaba-owned-company-over-chip-curbs-cefc3246?.tsrc=rss",
+   "published": "2026-11-24T05:50:00+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "2b2eeff6fce8f747",
@@ -83810,530 +84356,6 @@
     "대신 넷플릭스를 새로운 상위 대형주 추천 종목으로 편입했다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "0b6b017f051811e6",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "NVDA Earnings, Tighter AI Chip Restrictions to Test SPX Bulls",
-   "excerpt": "A higher low in the S&P 500 (SPX) at the end of Tuesday's session may signal an end to the unwind in equities, says Kevin Green. A push lower is something he expects to bring more pain for bulls. Nvidia (NVDA) and its earnings will become a barometer for the index after hours, with KG telling investors to brace for an 8.5% move in the stock. It comes as the U.S. tightens its AI chip export restrictions as President Trump and China President Xi Jinping prepare to meet. KG then touches on outages in big banks. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – F",
-   "url": "https://www.youtube.com/watch?v=3VUPCdVgf0g",
-   "published": "2026-11-17T13:30:19+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "엔비디아의 실적 발표가 증시의 주요 가늠자가 될 것이라고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3d9a388204e95c85",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Disney (DIS) Reports Q4 Earnings: What Key Metrics Have to Say",
-   "excerpt": "The headline numbers for Disney (DIS) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/disney-dis-reports-q4-earnings-133003704.html?.tsrc=rss",
-   "published": "2026-11-17T13:30:03+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "summary_ko": [
-    "디즈니의 4분기 실적 발표 주요 수치를 월스트리트 예상치 및 전년 동기 실적과 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "383e9f548e26153e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Wall Street Analysts See Walmart (WMT) as a Buy: Should You Invest?",
-   "excerpt": "Based on the average brokerage recommendation (ABR), Walmart (WMT) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-walmart-133003972.html?.tsrc=rss",
-   "published": "2026-11-17T13:30:03+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월스트리트 분석가들의 평균 브로커리지 추천을 바탕으로 월마트를 다뤘다.",
-    "과도하게 낙관적인 추천이 효과성에 대한 의문을 낳는다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1018cfa93bf0e57d",
-   "kind": "youtube",
-   "source": "Stock Moe",
-   "author": "Stock Moe",
-   "title": "🚨 $130,000 BUYING ALL I CAN GET!",
-   "excerpt": "1️⃣ *🚨 Trade $25 Get $50!* ➡ 2️⃣ *🚨 Save 40% code MOE is back!* ➡ 3️⃣ *🎁 FREE month of Earner Plus + 12 free fractional shares worth up to $3,600 from Webull* ➡ 4️⃣ *🚨Stock Moe's Free Sunday Edition Newsletter* 4️⃣ *🚨 Stock Moe's 4 Step Framework Learning Webinar* ➡ Webull Stock Moe Promotion Terms and Conditions: NVIDIA (NVDA) CEO Jensen Huang is at the center of reported affair and possible Chinese spy allegations, and the stock is under pressure. In this video I break down what's actually confirmed, what's only alleged, and what's been denied, plus why President Trump came out defending him. Then we go to the data. I studied 10 companies whose CEOs went through scandals, and tracked how each stock did 1 month, 3 months, 6 months, 1 year, and 3 years later. The median was down 12% after ",
-   "url": "https://www.youtube.com/watch?v=wAyaR6AcOz0",
-   "published": "2026-11-17T13:30:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO를 둘러싼 의혹과 논란으로 주가가 압박을 받고 있다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ada2ac106f1a61dd",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Amazon to invest $7bn in Indian renewable energy projects by 2030",
-   "excerpt": "Amazon has committed to four new utility-scale wind and solar projects in India, totalling 934MW of capacity.",
-   "url": "https://www.power-technology.com/news/amazon-7bn-indian-renewable-projects-2030/?.tsrc=rss",
-   "published": "2026-11-17T13:29:18+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존은 2030년까지 인도 재생에너지 프로젝트에 70억 달러를 투자할 계획이다.",
-    "인도에서 총 934MW 규모의 신규 풍력 및 태양광 프로젝트 4건을 약정했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f4ef8384ab97f784",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bank of America vs. JPMorgan Chase: Which Financial Stock Is a Better Buy for 2027?",
-   "excerpt": "Bank of America trades at 1.1 times book value versus JPMorgan's 2.5, but JPMorgan's scale and net margin may justify the premium for some investors.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/17/bank-of-america-vs-jpmorgan-chase-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-   "published": "2026-11-17T13:29:02+00:00",
-   "tickers": [
-    "JPM",
-    "BAC"
-   ],
-   "summary_ko": [
-    "뱅크오브아메리카와 JP모간 체이스의 밸류에이션과 재무 지표를 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2f3ccaf042c76d55",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Happens to a 69-Year-Old’s $800,000 in Broadcom Stock When RMDs Start?",
-   "excerpt": "One chip stock now fills nearly 40% of this couple's IRA, and the IRS will eventually force them to sell. The surprise is how a traditional account changes the timing of the tax bill, and what they can still do before 2030.",
-   "url": "https://247wallst.com/investing/2026/11/17/what-happens-to-a-69-year-olds-800000-in-broadcom-stock-when-rmds-start/?.tsrc=rss",
-   "published": "2026-11-17T13:27:54+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "summary_ko": [
-    "브로드컴 주식이 은퇴자 부부의 IRA 자산에서 큰 비중을 차지하는 상황을 다뤘다.",
-    "IRS 규정에 따른 강제 매도와 세금 납부 시기 변화에 대해 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "050c23786a6f0d5f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Disney Stock Is Falling After CEO D’Amaro’s Magical Earnings",
-   "excerpt": "The theme park and streaming company beats estimates on fourth-quarter earnings and lays out a plan to cut costs by $3 billion by fiscal 2029.",
-   "url": "https://finance.yahoo.com/m/5038f047-1921-3c36-94c8-6577fa1ad761/why-disney-stock-is-falling.html?.tsrc=rss",
-   "published": "2026-11-17T13:26:00+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "summary_ko": [
-    "디즈니는 4분기 실적에서 예상치를 웃돌았으며 3어달러 비용 절감 계획을 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "59e1cfca1407b10f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Prediction: This Memory Stock Will Be 2027's Best-Performing AI Stock",
-   "excerpt": "Micron's AI memory demand, supply constraints, and low forward valuation could make it a standout AI stock in 2027, but cyclical risks remain.",
-   "url": "https://www.fool.com/investing/2026/11/17/prediction-this-memory-stock-will-be-2027s-best-pe/?.tsrc=rss",
-   "published": "2026-11-17T13:25:00+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론이 AI 메모리 수요와 낮은 밸류에이션을 바탕으로 주목받을 수 있다고 전망했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "ccfb907124d5e701",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Burq Earns Premier Partner in the Uber Partner Network",
-   "excerpt": "SAN FRANCISCO, November 17, 2026--Burq, the intelligence that decides how every order moves, has been named a Premier Partner in the Uber Partner Network (UPN).",
-   "url": "https://finance.yahoo.com/technology/articles/burq-earns-premier-partner-uber-132500200.html?.tsrc=rss",
-   "published": "2026-11-17T13:25:00+00:00",
-   "tickers": [
-    "UBER"
-   ],
-   "summary_ko": [
-    "버크가 우버 파트너 네트워크에서 프리미어 파트너로 선정되었다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a13196739499e5cf",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "ASML vs. Lam Research: Which Chipmaking Stock is the Better Buy Now?",
-   "excerpt": "ASML and LRCX are riding AI-driven chip demand, but differences in growth prospects, valuation and earnings estimates make one a better investment pick.",
-   "url": "https://finance.yahoo.com/technology/articles/asml-vs-lam-research-chipmaking-132500259.html?.tsrc=rss",
-   "published": "2026-11-17T13:25:00+00:00",
-   "tickers": [
-    "ASML"
-   ],
-   "summary_ko": [
-    "ASML과 램리서치는 AI 칩 수요 수혜를 입고 있으며 두 기업의 차이를 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1e7fbd98493947db",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $1.5 Billion Reason Why Eli Lilly Stock Is in Focus",
-   "excerpt": "Eli Lilly announces $1.5 billion deal to acquire Calytrix Bio. Here’s what the transaction really means for LLY shares.",
-   "url": "https://www.barchart.com/story/news/8874786/a-1-5-billion-reason-why-eli-lilly-stock-is-in-focus?.tsrc=rss",
-   "published": "2026-11-17T13:24:32+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "summary_ko": [
-    "일라이 릴리가 캘이트릭스 바이오를 인수하기 위해 15억 달러 규모의 계약을 체결했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d9d6814497b15d79",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What You Actually Own When You Buy Strategy (MSTR) Stock",
-   "excerpt": "Buying MSTR feels like buying bitcoin with extra horsepower, but the share sits behind noteholders and preferred investors who collect first. Before you treat it as a simple BTC proxy, find out who gets paid ahead of you and what that costs.",
-   "url": "https://247wallst.com/investing/2026/11/17/what-you-actually-own-when-you-buy-strategy-mstr-stock/?.tsrc=rss",
-   "published": "2026-11-17T13:22:36+00:00",
-   "tickers": [
-    "MSTR"
-   ],
-   "summary_ko": [
-    "스트래티지 주식 매수가 비트코인 투자와 유사하지만 채권자와 우선주 투자자가 먼저 자금을 회수한다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "068e65b5e96e1da3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Elon Musk Says Tesla’s $299 Cybercab Fee Is “Too High”",
-   "excerpt": "Musk just criticized his own robotaxi's pricing before a single customer has a car. Tesla's valuation leans on that recurring revenue, and one December date will show whether his comment was a real signal or just talk.",
-   "url": "https://247wallst.com/investing/2026/11/17/elon-musk-says-teslas-299-cybercab-fee-is-too-high/?.tsrc=rss",
-   "published": "2026-11-17T13:21:21+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "일론 머스크가 테슬라의 사이버캐브 요금이 너무 높다고 공개적으로 비판했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3cf35753f51b5ed9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Could Nvidia Be Berkshire's Next Big Tech Purchase?",
-   "excerpt": "Berkshire's been leaning more into tech lately, and Nvidia could be too appealing to pass up right now.",
-   "url": "https://www.fool.com/investing/2026/11/17/could-nvidia-be-berkshire-s-next-big-tech-purchase/?.tsrc=rss",
-   "published": "2026-11-17T13:20:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "버크셔 해서웨이가 최근 기술주 투자를 늘리는 가운데 엔비디아가 다음 투자 대상이 될 수 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "ec6a987c54928efb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Should You Buy Costco Stock for Its Special Dividend?",
-   "excerpt": "Costco recently announced yet another special dividend, this time at $30 per share -- double what it paid last time.",
-   "url": "https://www.fool.com/investing/2026/11/17/should-you-buy-costco-stock-for-its-special-dividend/?.tsrc=rss",
-   "published": "2026-11-17T13:16:02+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코가 주당 30달러 규모의 특별 배당을 발표했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "6af69474ea28c766",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SpeedyIndex Launches SEO MCP Server With 22 Tools for Claude, Cursor and VS Code",
-   "excerpt": "Helsinki, Finland--(Newsfile Corp. - November 17, 2026) - SpeedyIndex, a link indexing and index checking service, has launched an SEO MCP server, a Claude connector for SEO that lets AI assistants work with a SpeedyIndex account in plain language. In Claude, Claude Code, Cursor or VS Code, a user can ask the assistant to check whether pages are indexed in Google, Bing or Yandex, send unindexed URLs for indexing in Google or Yandex, check whether backlinks are still live and read Google...",
-   "url": "https://finance.yahoo.com/technology/articles/speedyindex-launches-seo-mcp-server-131600275.html?.tsrc=rss",
-   "published": "2026-11-17T13:16:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "SpeedyIndex가 Claude, Cursor 등에서 AI와 연동되는 SEO MCP 서버를 출시했다고 밝혔다.",
-    "사용자는 AI 어시스턴트를 통해 구글, 빙 등의 색인 여부와 백링크 상태를 확인할 수 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2219b2d598c04cb5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Forget QQQ: The Company Behind It Runs the Same Index for $30 Less a Year on a $100K Balance",
-   "excerpt": "Invesco runs two funds on the exact same Nasdaq index, but prices them differently. Before you assume the cheaper one is an obvious upgrade, there is a tax scenario where switching costs you far more than you save.",
-   "url": "https://247wallst.com/investing/etf/2026/11/17/forget-qqq-the-company-behind-it-runs-the-same-index-for-30-less-a-year-on-a-100k-balance-2/?.tsrc=rss",
-   "published": "2026-11-17T13:13:39+00:00",
-   "tickers": [
-    "QQQ"
-   ],
-   "summary_ko": [
-    "인베스코가 동일한 나스닥 지수를 추종하는 두 개의 펀드를 서로 다른 가격으로 운용하고 있다고 다뤘다.",
-    "저렴한 상품으로 갈아탈 때 절감 비용보다 세금 부담이 더 클 수 있는 시나리오가 존재한다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1e7c76c0b1852835",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft Is Making Voluntary Exit Offers to Engineers for the First Time",
-   "excerpt": "Microsoft is paying to shrink its engineering ranks while pouring record sums into AI. The savings look tidy, but the engineers most likely to take the money may be the ones the company can least afford to lose.",
-   "url": "https://247wallst.com/investing/2026/11/17/microsoft-is-making-voluntary-exit-offers-to-engineers-for-the-first-time/?.tsrc=rss",
-   "published": "2026-11-17T13:13:30+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트가 AI에 막대한 투자를 이어가는 동안 엔지니어를 대상으로 첫 자발적 퇴직 프로그램을 진행하고 있다고 밝혔다.",
-    "비용 절감 효과가 기대되지만 핵심 인재가 이탈할 우려도 제기된다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2dafc01adbb84f51",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Pattern Group (PTRN) Stock Fair Value Edges Higher After Split Analyst Revisions",
-   "excerpt": "Price targets for Pattern Group have shifted, with JPMorgan lifting its view to US$29, while Goldman Sachs now sits at US$27, anchoring a tighter range in the mid to high US$20s. This change lines up with recent analyst commentary that mixes confidence in the growth story with a more careful stance on valuation and estimate risk. As you read on, you will see how these differing targets fit into the evolving narrative around Pattern Group and what signals they may offer for your own research...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/pattern-group-ptrn-stock-fair-131107010.html?.tsrc=rss",
-   "published": "2026-11-17T13:11:07+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "패턴 그룹의 주가수익 전망과 관련해 JP모건은 29달러로, 골드만삭스는 27달러로 목표가를 조정했다고 전했다.",
-    "성장성에 대한 기대와 밸류에이션 및 추정치 리스크에 대한 신중한 입장이 엇갈리고 있다고 분석했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0660f282bc9f5482",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Comes Next For Dell Technologies After A 164% Gain",
-   "excerpt": "If Dell Technologies was on your watchlist rather than in your portfolio, the recent move may feel expensive in hindsight. Holding Dell Technologies over the past year would have returned 164.5%, including dividends. That outcome arrived after a year packed with AI server headlines and record order backlogs. In November 2025 investors only had analyst models and early AI demand signals to work with. If you rewind to that starting line, how confident could you really be that AI-driven margin...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/comes-next-dell-technologies-164-131006412.html?.tsrc=rss",
-   "published": "2026-11-17T13:10:06+00:00",
-   "tickers": [
-    "DELL"
-   ],
-   "summary_ko": [
-    "델 테크놀로지는 지난 1년간 배당을 포함해 164.5%의 수익률을 기록했다고 다뤘다.",
-    "AI 서버 관련 소식과 기록적인 수주 잔고가 이러한 성과를 이끌었다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "913fa4703537f1c9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft's Outage Barely Moved Its Stock, But a Bigger Risk May Be Building",
-   "excerpt": "A two-day Outlook and Teams outage left MSFT stock largely unscathed, but it could pressure Microsoft's enterprise pricing power and Copilot adoption ahead of its Ignite conference.",
-   "url": "https://www.marketbeat.com/articles/microsofts-outage-barely-moved-its-stock-but-a-bigger-risk-may-be-building/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-   "published": "2026-11-17T13:10:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트의 서비스 장애가 주가에 큰 영향을 주지 않았으나 향후 리스크가 될 수 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f02262b8d0a96266",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Update: Update: JPMorgan, Bank of America, Wells Fargo Site Users Report Connectivity Issues, Downdetector Says",
-   "excerpt": "(Updates with U.S. Bank's Response in the sixth paragraph.) JPMorgan Chase (JPM), Bank of America",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-bank-america-wells-fargo-130809246.html?.tsrc=rss",
-   "published": "2026-11-17T13:08:09+00:00",
-   "tickers": [
-    "JPM",
-    "BAC"
-   ],
-   "summary_ko": [
-    "다운디텍터에 따르면 JP모건 체이스, 뱅크오브아메리카 등 주요 은행 사이트 이용자들 사이에서 접속 장애가 보고되었다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "d7bc6ca16eec564f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Sam Altman Says It’s “Hard to Imagine the AI Revolution Without Jensen”",
-   "excerpt": "Sam Altman praised Jensen Huang on stage days after the NVIDIA chief resigned, yet the stock still slid. Behind the tribute sits a financing tie that makes OpenAI's biggest supporter also its most interested party.",
-   "url": "https://247wallst.com/investing/2026/11/17/sam-altman-says-its-hard-to-imagine-the-ai-revolution-without-jensen/?.tsrc=rss",
-   "published": "2026-11-17T13:07:29+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "샘 알트먼이 엔비디아 CEO 사임 며칠 만에 젠슨 황을 공개적으로 칭찬했다고 다뤘다.",
-    "오픈AI의 주요 지지자와 관련된 자금 조달 관계가 배경에 자리 잡고 있다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1436c75c1bfc89d5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "52 Analysts See This Much Upside for Nvidia Stock. Here’s My Take",
-   "excerpt": "Nvidia's CEO just resigned, the stock has sunk 30% in a month, and yet record orders keep pouring in. One analyst camp sees a far bigger rebound than the model does, so which side has the better read on the damage?",
-   "url": "https://247wallst.com/investing/2026/11/17/52-analysts-see-this-much-upside-for-nvidia-stock-heres-my-take/?.tsrc=rss",
-   "published": "2026-11-17T13:04:31+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 CEO 사임과 한 달간의 주가 하락에도 불구하고 기록적인 주문이 이어지고 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0876c39fdc8f6d4a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palantir Raised Guidance 3 Times This Year. 1 Number Explains Why the Stock Fell.",
-   "excerpt": "Palantir's valuation is getting in the way of the business.",
-   "url": "https://www.fool.com/investing/2026/11/17/palantir-raised-guidance-3-times-2026-different-number-explains-why-stock-fell/?.tsrc=rss",
-   "published": "2026-11-17T13:03:01+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "summary_ko": [
-    "팔란티어가 올해 가이던스를 세 차례 상향 조정했음에도 주가가 하락한 원인으로 밸류에이션 부담을 지목했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "a0e5744c0c4139f5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bank of America doubles down on Nvidia ahead of earnings",
-   "excerpt": "Bank of America is not waiting on Nvidia’s CEO search to make its call.",
-   "url": "https://www.thestreet.com/investing/stocks/bank-of-america-maintains-nvidia-buy-rating-ahead-of-q3-earnings?.tsrc=rss",
-   "published": "2026-11-17T13:03:00+00:00",
-   "tickers": [
-    "NVDA",
-    "BAC"
-   ],
-   "summary_ko": [
-    "뱅크오브아메리카가 엔비디아의 실적 발표를 앞두고 CEO 인선 결과와 무관하게 입장을 유지하고 있다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "392e34448ca865d5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "US Equity Futures Mixed Pre-Bell as Traders Prepare for Nvidia's Financial Results",
-   "excerpt": "US equity futures were mixed pre-bell Tuesday as traders prepare for Nvidia's (NVDA) quarterly resul",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-130133288.html?.tsrc=rss",
-   "published": "2026-11-17T13:01:33+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "트레이더들이 엔비디아의 실적 발표를 앞두고 화요일 개장 전 미국 주가지수 선물은 혼조세를 보였다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "28be4d47f3f0c11f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "TSM Plans $500M Investment in Anthropic IPO: Will the Pivot Pay Off?",
-   "excerpt": "Taiwan Semiconductor plans a $500M investment in Anthropic IPO, expanding its AI exposure alongside OpenAI while combating valuation woes and capital demands.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/tsm-plans-500m-investment-anthropic-130100066.html?.tsrc=rss",
-   "published": "2026-11-17T13:01:00+00:00",
-   "tickers": [
-    "TSM"
-   ],
-   "summary_ko": [
-    "대만반도체가 앤스로픽 IPO에 5억 달러를 투자할 계획이라고 밝혔다.",
-    "밸류에이션 우려와 자본 수요 속에서 AI 투자 포트폴리오를 확장하려는 움직임이라고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "8db58fc2ef55c051",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Analysts Expect 4 S&P 500 Stocks To Outgrow Nvidia Next Year",
-   "excerpt": "There's no question: Nvidia's revenue growth has been impressive. But, it looks like the AI chipmaker will get some competition.",
-   "url": "https://finance.yahoo.com/m/d0e43f79-3efc-3027-a503-da56643aeae4/analysts-expect-4-s%26p-500.html?.tsrc=rss",
-   "published": "2026-11-17T13:00:59+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 매출 성장이 인상적이었지만 내년에는 S&P 500 내 일부 기업들이 그보다 높은 성장세를 보일 것으로 분석가들이 예상한다고 전했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
