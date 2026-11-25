@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-25T20:00:43.702716+00:00",
+ "updated": "2026-11-25T20:11:43.417049+00:00",
  "posts": [
+  {
+   "id": "0755e9d376edf92c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "She Pays Costco’s Cash Price for Her $900-a-Month Brand-Name Prescription, Skipping Her Part D Copay. None of It Counts Toward Medicare’s $2,400 Out-of-Pocket Cap, So She Pays $10,800 a Year Instead of $2,400",
+   "excerpt": "A Medicare retiree thinks she beat the system by skipping her insurance at the Costco pharmacy counter. Her plan never sees those payments, and by December the shortcut has cost her far more than the warehouse price ever saved.",
+   "url": "https://247wallst.com/personal-finance/2026/11/25/she-pays-costcos-cash-price-for-her-900-a-month-brand-name-prescription-skipping-her-part-d-copay-none-of-it-counts-toward-medicares-2400-out-of-pocket-cap-so-she-pays-10800-a-year-instead/?.tsrc=rss",
+   "published": "2026-11-25T20:03:11+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "코스트코에서 처방약을 현금으로 구매한 은퇴자가 메디케어 본인부담 상한액 혜택을 받지 못해 비용이 크게 늘었다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "db1a3a47c73561a7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Mysterious traders made $340,000 betting on Huang’s Nvidia return",
+   "excerpt": "Some traders appeared unusually well-positioned before Nvidia’s dramatic leadership reversal.",
+   "url": "https://www.thestreet.com/crypto/markets/mysterious-traders-made-340000-betting-on-huangs-nvidia-return?.tsrc=rss",
+   "published": "2026-11-25T20:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "일부 트레이더들이 엔비디아의 리더십 교체 이전에 유리한 포지션을 취해 수익을 올렸다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "43e5dd3aab759ae5",
    "kind": "news",
@@ -51,6 +85,24 @@
     "월마트플러스 회원이 비회원보다 4배 많이 지출하며, 새로운 120달러 번들이 성장을 이끌 수 있다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "6d29160e8b3e801d",
+   "kind": "youtube",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang apologized, and this panel says the market is pricing the worst case | Market Hang",
+   "excerpt": "Jensen Huang apologized to Nvidia staff on Tuesday and told them he now spends 90 minutes a day in therapy. The stock fell anyway. Turney Duff's panel spends the first quarter of an hour arguing about why, and they do not agree. Matt Cerminaro thinks the market is pricing the worst case and ignoring a record quarter and raised guidance. Joy Yang thinks three years of double-digit returns had to give something back. Sean O'Hara compares the damage to the BP oil spill and says the bill does not add up. Then Cerminaro brings a chart that says the market was never only the AI trade. Featuring Turney Duff, Host, Market Hang, Yahoo Finance Julie Hyman, Anchor, Yahoo Finance Matt Cerminaro, Research Associate, Ritholtz Wealth Management Sean O'Hara, President, Pacer ETFs Joy Yang, Head of Index P",
+   "url": "https://www.youtube.com/watch?v=-2cAbQoJ0fg",
+   "published": "2026-11-25T19:39:24+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "패널들은 젠슨 황의 사과와 주가 하락 원인을 두고 의견이 엇갈렸다고 다뤘다.",
+    "시장이 최악의 시나리오를 선반영했다는 의견과 조정이 필요했다는 주장이 나왔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "b79e4459d17ea4f0",
@@ -433,6 +485,41 @@
    "summary_ko": [
     "아마존이 메타의 쇼핑 에이전트인 뮤즈의 차단 해제와 관련해 메타와 논의를 가졌다고 전했다.",
     "다만 아직 합의에 이르지는 않은 상태라고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "739379aed1b8e09e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Anthony Scaramucci Told Uber’s Founders to ‘Get The Hell Out of My Office’ Before Passing On $500,000 Investment: ‘I Totally Missed It’",
+   "excerpt": "Anthony Scaramucci, founder of SkyBridge Capital, declined an early chance to invest $500,000 in Uber Technologies Inc. at a $500 million valuation, a stake that would have equaled about 0.1% of the ride-hailing company. Scaramucci described the decision in a...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/anthony-scaramucci-told-uber-founders-190006039.html?.tsrc=rss",
+   "published": "2026-11-25T19:00:06+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": [
+    "스카이브릿지 캐피털의 앤서니 스카라무치는 과거 우버의 초기 투자 제안을 거절했던 일화를 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5e35d91a68237c34",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "QBTS vs. RGTI: Which Is the Better Quantum Computing Stock to Buy Now?",
+   "excerpt": "D-Wave and Rigetti face contrasting commercial momentum. Discover why QBTS's stronger bookings and revenue visibility give it an edge.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/qbts-vs-rgti-better-quantum-190000018.html?.tsrc=rss",
+   "published": "2026-11-25T19:00:00+00:00",
+   "tickers": [
+    "RGTI",
+    "QBTS"
+   ],
+   "summary_ko": [
+    "디웨이브와 리게티의 상업적 모멘텀을 비교하며 큐비츠의 수주와 매출 가시성이 우위에 있다고 다뤘다."
    ],
    "tone": "pos"
   },
@@ -919,6 +1006,23 @@
    ],
    "summary_ko": [
     "아이렌은 AI 데이터 센터 프로젝트를 추진 중이며 자금 조달 격차 등에 직면했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "93939eb09328ba4f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump Says a Huang Pardon Is “Always an Option.” Nvidia’s Legal Overhang Isn’t Going Away",
+   "excerpt": "Key TakeawaysPresident Trump said a pardon for Nvidia CEO Jensen Huang is “always an option,” a day after Nvidia’s board reinstated Huang. A pardon only covers federal crimes, and the SEC’s reported disclosure probe, California’s investigation and Congress’s questions all keep going.",
+   "url": "https://www.tikr.com/blog/trump-says-a-huang-pardon-is-always-an-option-nvidias-legal-overhang-isnt-going-away?ref=yahoofinance&tlnk=yf-261125-w8mpx6rr&.tsrc=rss",
+   "published": "2026-11-25T18:07:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프 대통령이 젠슨 황에 대한 사면이 옵션이라고 언급했으나 법적 리스크는 지속된다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -2264,9 +2368,10 @@
    "tickers": [
     "MSFT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "아이렌이 비트코인 채굴에서 벗어나 AI 칩 인프라를 갖췄음에도 주가는 하락세를 보인다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4c200423d19029f6",
@@ -2281,9 +2386,10 @@
     "NVDA",
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "인텔의 전직 AI 책임자는 엔비디아의 최대 강점이 향후 약점이 될 수 있다고 주장했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "c22cd619972a2f8b",
@@ -2297,9 +2403,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "엔비디아의 젠슨 황이 투자자들을 안심시키기 위해 특정 조치를 취해야 한다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "46089c0807e0bfdd",
@@ -2314,9 +2421,10 @@
     "HOOD",
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "광범위한 시장 하락세 속에서 은행과 중개사 등 금융주들이 수요일 오전 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "f06d33f9f4f2681b",
@@ -2330,9 +2438,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "AI 매도세가 심화되고 EU의 FSD 승인이 연기되면서 테슬라 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "80e6726e51f7ed6d",
@@ -2346,9 +2455,10 @@
    "tickers": [
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "델과 HPE가 호실적을 발표했으나 투자자들은 AI 수요의 지속성에 대해 우려하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "b294a691a8024eb2",
@@ -2362,9 +2472,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "아마존이 미국 외 지역으로 자동차 판매 사업을 확장하는 움직임을 보이고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "11e0d5a2a656ba9e",
@@ -2378,9 +2489,10 @@
    "tickers": [
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "신용시장에서 오라클과 코어위브를 향한 우려 섞인 경고가 나오고 있다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "7fa80e32f74fd014",
@@ -2394,9 +2506,10 @@
    "tickers": [
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 2
+   "summary_ko": [
+    "JP모간은 2027년 주식 시장의 가장 큰 리스크로 연방준비제도를 지목했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "72d7edfb382b44bc",
@@ -2413,7 +2526,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "fe16592b58ba6f74",
@@ -2429,7 +2542,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "a7a9a2820f47957e",
@@ -2446,7 +2559,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 2
+   "summary_tries": 3
   },
   {
    "id": "1501a0eff3d5063d",
@@ -2461,7 +2574,8 @@
     "HOOD"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "358c0d054ab78672",
@@ -2477,7 +2591,8 @@
     "SMCI"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "e01856fa07516509",
@@ -2509,7 +2624,8 @@
     "MU"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "c28eee52c1faab40",
@@ -2562,7 +2678,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "d41b7b96ed46e4a5",
@@ -2577,7 +2693,8 @@
     "UNH"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "f31f8ea14a7b6eaa",
@@ -2593,7 +2710,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "e75c526d52d18e6e",
@@ -2609,7 +2726,8 @@
     "DELL"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "4bcc711900b2ec3b",
@@ -2625,7 +2743,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "7759411307ffa467",
@@ -2640,7 +2758,8 @@
     "DELL"
    ],
    "summary_ko": null,
-   "tone": null
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "dff6284b5f6ab505",
@@ -2656,7 +2775,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "b605ce010dff034b",
@@ -2674,7 +2793,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "c7dac5000ad00c5a",
@@ -2691,7 +2810,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "93f5bf6d9d58b6bf",
@@ -77361,113 +77480,6 @@
    ],
    "summary_ko": [
     "트럼프 대통령의 아시아 순방 소식과 함께 엔비디아의 주가 하락 및 중국 관련 영향이 언급됐다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4433fa78edb2e1fb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft Copilot’s cost advantage claim: plausible but unproven",
-   "excerpt": "Investing.com -- Microsoft Corporation (MSFT) is pitching cost as its main weapon against rivals. The claim is that Copilot beats Anthropic (ANT)’s Claude and OpenAI (OAI)’s ChatGPT on price. The claim comes from Microsoft itself, so it needs scrutiny.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-copilot-cost-advantage-claim-201123346.html?.tsrc=rss",
-   "published": "2026-11-18T20:11:23+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트는 자사의 코파일럿이 경쟁사 대비 가격 경쟁력이 있다고 주장했다.",
-    "다만 해당 주장이 자체 발표에 기반한 만큼 검증이 필요하다는 지적이 제기됐다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "725678af7e3660a7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Should You Trim Or Add To Your Rivian Position Now?",
-   "excerpt": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://www.trefis.com/stock/rivn/articles/626168/should-you-trim-or-add-to-your-rivian-position-now/2026-11-18?.tsrc=rss",
-   "published": "2026-11-18T20:11:12+00:00",
-   "tickers": [
-    "RIVN"
-   ],
-   "summary_ko": [
-    "리비안 투자 포지션을 유지하거나 조정해야 할지에 대한 고민을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a99eb17089758fb1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Revenue Decline Outlook Might Change The Case For Investing In Nike Stock (NKE)",
-   "excerpt": "Nike used its November 2026 investor day to reaffirm fiscal 2027 guidance for a high single digit revenue decline and to signal that operating income will fall faster than sales as the business resets product, pricing and distribution. Management now expects revenue pressure to extend through fiscal 2028 before targeting market level growth in 2029 and aiming for faster expansion in 2030 to 2031, which puts execution in Greater China, Sportswear and Jordan under sharper scrutiny for anyone...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/revenue-decline-outlook-might-change-201107642.html?.tsrc=rss",
-   "published": "2026-11-18T20:11:07+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "나이키는 투자자의 날 행사에서 2027 회계연도까지 매출 감소 전망과 영업이익 하락을 재확인했다.",
-    "경영진은 회복을 위해 중화권 및 주요 제품군에서의 실행력이 더욱 중요해질 것이라고 시사했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "6abee4b7ccf02cdb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Super Micro Computer (SMCI) Ships PCIe Gen 6 Servers, Is It 57% Below Fair Value?",
-   "excerpt": "Super Micro Computer (SMCI) has begun shipping new AMD EPYC based all flash storage servers that support the PCIe Gen 6 standard. These products target AI scale data, analytics and high throughput storage workloads. For investors watching Super Micro Computer, the recent launch of PCIe Gen 6 storage arrives during a tough stretch in the share price. The stock is down about 34% on the 90 day share price return and roughly 25% on the 30 day share price return as legal questions and sector...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-ships-201020693.html?.tsrc=rss",
-   "published": "2026-11-18T20:10:20+00:00",
-   "tickers": [
-    "AMD",
-    "SMCI"
-   ],
-   "summary_ko": [
-    "슈퍼마이크로컴퓨터가 인공지능 및 고속 저장 워크로드를 겨냥한 신형 서버를 출하하기 시작했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5fd7ce7fc66093a1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Isn’t Alphabet Stock Taking Off After Reporting Record Cloud Growth?",
-   "excerpt": "The company's impressive Google Cloud gains and soaring profits weren’t enough to impress investors because the AI build-out is eating its cash.",
-   "url": "https://www.fool.com/investing/2026/11/18/why-isn-t-alphabet-stock-taking-off-after-reporting-record-cloud-growth/?.tsrc=rss",
-   "published": "2026-11-18T20:07:01+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "알파벳이 클라우드 부문에서 기록적인 성장과 이익을 거두었음에도 주가가 크게 오르지 않는 이유를 분석했다.",
-    "인공지능 인프라 구축에 막대한 현금이 소모되는 점이 투자자들의 우려를 샀다고 지적했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "eab3026ded669e27",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "NVIDIA Is Near Its 52-Week Low. Will NVDA Stock Hit $100 or $200 First?",
-   "excerpt": "A record quarter failed to stop the bleeding, and now a CEO exit, congressional hearings, and rising rival chip stocks have NVIDIA at a crossroads. The two price targets sit nearly equal distances away, so which shock lands first?",
-   "url": "https://247wallst.com/investing/2026/11/18/nvidia-is-near-its-52-week-low-will-nvda-stock-hit-100-or-200-first/?.tsrc=rss",
-   "published": "2026-11-18T20:03:09+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "최근 호실적에도 불구하고 최고경영자 퇴임과 청문회 등으로 엔비디아가 기로에 서 있다고 다뤘다.",
-    "향후 주가 향방을 두고 100달러와 200달러 중 어디에 먼저 도달할지 관심을 모으고 있다고 전했다."
    ],
    "tone": "neu"
   }
