@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-25T06:00:35.917318+00:00",
+ "updated": "2026-11-25T06:30:31.773431+00:00",
  "posts": [
+  {
+   "id": "8289e668fac0a8bd",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "AI Rout Spills Over Into Asia, US Readies Tariff Hike",
+   "excerpt": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. Chapters: 00:00:00 - Bloomberg: The Asia Trade begins 00:03:47 - Traders weigh AI trade as Nvidia-driven euphoria fades 00:08:45 - US readies tariff hike on China, EU goods 00:16:31 - Barnum Financial Group's Chris Kampitsis on AI trade, market outlook 00:25:51 - Asian stocks set to slide as AI trade doubts resurface 00:27:47 - Jensen Huang to testify before Senate on Dec. 3 00:35:20 - Republican Senator Dave McCormick on Huang's Nvidia comeback, national security concerns 00:47:3",
+   "url": "https://www.youtube.com/watch?v=moHPeN65X54",
+   "published": "2026-11-25T06:27:52+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "아시아 증시에서 AI 관련주 매도세가 확산되고 미국이 대중국 관세 인상을 준비 중인 상황을 다뤘다.",
+    "엔비디아 젠슨 황의 상원 증언과 AI 거래에 대한 시장의 의구심 등을 주요 소식으로 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "70f7ed7cf27cdf65",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "excerpt": "U.S. stock futures are sliding early Wednesday as Wall Street braces for a packed pre-Thanksgiving economic data dump—headlined by the Fed’s preferred PCE inflation gauge—alongside intensifying political and regulatory scrutiny surrounding Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang’s reinstatement. Polymarket traders,...",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63614091/stock-market-will-sp-500-open-up-or-down-today-85?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "published": "2026-11-25T06:06:17+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "추수감사절 이전 경제 지표 발표와 연준의 물가 지표를 앞두고 미국 주가지수 선물 하락세를 다뤘다.",
+    "엔비디아 CEO 젠슨 황 복귀를 둘러싼 정치 및 규제 감시 강화 소식을 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "238fb8070bc07684",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SpaceX, Anthropic IPOs Shut Out Retail Investors, Says Coinbase CEO — Brian Armstrong Resumes Buying Back COIN Shares",
+   "excerpt": "Armstrong said that people should be able to invest in private markets by passing a financial literacy test instead of a financial means test.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/space-x-anthropic-ip-os-shut-out-retail-investors-says-coinbase-ceo-brian-armstrong-resumes-buying-back-coin-shares/cNbHdA0R9lS?.tsrc=rss",
+   "published": "2026-11-25T06:01:44+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스 CEO가 스페이스X와 앤스로픽 IPO가 개인 투자자들을 배제하고 있다고 주장했다.",
+    "금융 자산 기준 대신 금융 이해력 테스트를 통해 비상장 시장에 투자할 수 있어야 한다고 언급했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "fd4f9e3fb0dee5df",
    "kind": "news",
@@ -80254,95 +80308,6 @@
     "블룸버그 방송에서 엔비디아의 실적 발표 이후 전망과 아시아 투자자들의 반응을 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "a6825ad1747305b8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Joby Aviation (JOBY) Stock May Be Overvalued Despite Air Force Contract News",
-   "excerpt": "Joby Aviation has had a rough stretch on the market, and the slide is pushing investors to ask whether the current share price lines up with what its sales can realistically support. With the stock trading in speculative territory and the business still working toward commercial air taxi operations, the link between revenue potential and valuation is front and center. Year to date, Joby Aviation has fallen about 69.5%, which puts sharper focus on whether the remaining valuation is still out...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-joby-stock-may-062014498.html?.tsrc=rss",
-   "published": "2026-11-18T06:20:14+00:00",
-   "tickers": [
-    "JOBY"
-   ],
-   "summary_ko": [
-    "조비 에비에이션의 주가 하락과 함께 현재 주가가 매출 실적에 비해 고평가되었는지 의문이 제기된다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "27b8ec81b1ce0e7b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Can Anthropic’s IPO Burn NVDA Stock Bears? Jim Cramer Thinks So — Jeff Bezos Weighs In On Jensen Huang’s Successor",
-   "excerpt": "SemiAnalysis favors an outsider, given scrutiny of China chip shipments and named Broadcom’s Charlie Kawwas and Apple’s Johny Srouji as its picks.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/can-anthropic-ipo-burn-nvda-bears-jim-cramer-jeff-bezos-weighs-jensen-huang-successor/cNbXs4oR9hv?.tsrc=rss",
-   "published": "2026-11-18T06:19:08+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "짐 크레이머는 앤스로픽의 IPO가 엔비디아 주가 하락론자들에게 타격을 줄 수 있다고 언급했다.",
-    "세미애널리시스는 중국 칩 선적 규제 등을 이유로 젠슨 황의 후임으로 외부 인사를 거론했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "b2eef8b8924992a1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Novo Nordisk (NVO) Stock May Be Undervalued On Raised 2026 Outlook",
-   "excerpt": "Novo Nordisk has seen its share price fall 57.9% over the past three years, even as its weight loss franchise remains central to the investment story. That slump now puts a sharper focus on whether the current price around US$40.70 can still be explained by the earnings power investors are paying for. The 57.9% decline over three years raises the question of how much of Novo Nordisk's earlier optimism has been stripped out of the valuation. Recent updates around Wegovy and the potential...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-stock-may-061727245.html?.tsrc=rss",
-   "published": "2026-11-18T06:17:27+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "summary_ko": [
-    "노보 노디스크의 주가 하락세 속에서 상향된 2026년 전망을 바탕으로 저평가되었을 가능성을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "5f1e3840a9fd36df",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Kalshi Will Start Offering Stock and ETF Trading. That’s a New Threat to Robinhood",
-   "excerpt": "Key TakeawaysKalshi plans to offer stock and ETF trading within two months, the Wall Street Journal reported, competing with Robinhood’s brokerage and Coinbase’s newer stock trading. Robinhood routes much of its event-contract business, which earned $173 million last quarter, to Kalshi, so a partner is becoming a rival.",
-   "url": "https://www.tikr.com/blog/kalshi-will-start-offering-stock-and-etf-trading-thats-a-new-threat-to-robinhood?ref=yahoofinance&tlnk=yf-261118-5vmg2crp&.tsrc=rss",
-   "published": "2026-11-18T06:14:53+00:00",
-   "tickers": [
-    "COIN",
-    "HOOD"
-   ],
-   "summary_ko": [
-    "칼시가 주식 및 ETF 거래를 제공할 계획이며 로빈후드에 새로운 위협이 될 수 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c5bc673d3c459b04",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nextpower (NXT) Just Got Hammered — These 2 Firms Hold The Reason",
-   "excerpt": "Nextpower Inc. (NASDAQ:NXT) is one of the 10 Stocks Investors Are Fleeing. Nextpower saw its share prices fall by 12.13 percent on Tuesday to finish at $78.48 apiece, as investors took path from two investment firms’ lower price targets for its stock. In separate market notes on the same day, JPMorgan and BMO Capital both […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-just-got-hammered-060420135.html?.tsrc=rss",
-   "published": "2026-11-18T06:04:20+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "넥스파워 주가는 JP모건과 BMO캐피털의 목표주가 하향 조정 여파로 12% 이상 하락했다."
-   ],
-   "tone": "neg"
   }
  ]
 }
