@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-25T09:00:36.689851+00:00",
+ "updated": "2026-11-25T09:30:31.824244+00:00",
  "posts": [
+  {
+   "id": "c1fb5885b4e2fb58",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Up 41% at Just Over Half Costco’s P/E: Inside Coca-Cola’s Quiet Rally",
+   "excerpt": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/41-just-over-half-costco-092400539.html?.tsrc=rss",
+   "published": "2026-11-25T09:24:00+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "summary_ko": [
+    "코스트코의 주가수익비율과 코카콜라의 상승세를 비교하는 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "39f968fb0caf3d49",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron Reports in December. Here's the 1 Number I'll Be Watching.",
+   "excerpt": "The memory maker's next revenue forecast should show if chip prices are still rising.",
+   "url": "https://www.fool.com/investing/2026/11/25/micron-reports-in-december-here-s-the-1-number-i-ll-be-watching/?.tsrc=rss",
+   "published": "2026-11-25T09:01:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "12월 실적 발표를 앞두고 칩 가격 상승세를 확인할 수 있는 매출 전망에 주목해야 한다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0a3b970341232589",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Scott Galloway Is Buying Nike’s Dip. He Says Its Injury Isn’t “Career Ending”",
+   "excerpt": "Key TakeawaysScott Galloway made the case for buying Nike on The Prof G Pod, calling its slump an injury that isn’t career-ending. Nike’s own plan has no return to market growth until fiscal 2029, and its 2031 targets still fall short of fiscal 2024’s results.",
+   "url": "https://www.tikr.com/blog/scott-galloway-is-buying-nikes-dip-he-says-its-injury-isnt-career-ending?ref=yahoofinance&tlnk=yf-261125-544jwmg2&.tsrc=rss",
+   "published": "2026-11-25T08:42:16+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "스콧 갤러웨이는 나이키의 부진이 치명적이지 않다고 평가하며 매수 의견을 밝혔다.",
+    "나이키의 자체 계획에 따르면 2029 회계연도까지 시장 성장 회복이 어려울 것으로 전망됐다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "b4e11829dec99154",
    "kind": "news",
@@ -193,6 +245,23 @@
    "summary_ko": [
     "최근 AI 관련 매도세로 인해 SK하이닉스의 주가가 하락했다고 다뤘다.",
     "이로 인해 저평가 서사가 다시 주목받고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "577a26e5aa2997de",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cathie Wood Just Sold $14 Million of Meta",
+   "excerpt": "Key TakeawaysCathie Wood’s ARK Invest sold 23,390 Meta Platforms shares from the ARK Innovation ETF on Tuesday, worth about $14 million at that day’s close. The sale is small next to the 489,941 Meta shares ARK held at Sept.",
+   "url": "https://www.tikr.com/blog/cathie-wood-just-sold-14-million-of-meta?ref=yahoofinance&tlnk=yf-261125-3qjvv3gp&.tsrc=rss",
+   "published": "2026-11-25T07:09:01+00:00",
+   "tickers": [
+    "META"
+   ],
+   "summary_ko": [
+    "캐시 우드의 ARK 인베스트가 메타 플랫폼스 주식 약 1400만 달러 상당을 매도했다고 전했다."
    ],
    "tone": "neu"
   },
@@ -758,6 +827,23 @@
    ],
    "summary_ko": [
     "스타벅스가 일본 사업 매각을 검토 중이라고 블룸버그가 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5d1ee4e3d0223a26",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Satya Nadella Says “Six Months Behind Is a Great Place to Be.” That’s a Warning for Anthropic",
+   "excerpt": "Key TakeawaysSatya Nadella says trailing the AI frontier by three to six months is “a great place to be” at a fraction of the compute. That’s a warning for Anthropic, which charges frontier prices and made about 48% of its sales through cloud marketplaces, Microsoft’s included.",
+   "url": "https://www.tikr.com/blog/satya-nadella-says-six-months-behind-is-a-great-place-to-be-thats-a-warning-for-anthropic?ref=yahoofinance&tlnk=yf-261125-m52c2qqr&.tsrc=rss",
+   "published": "2026-11-25T03:43:55+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "사티아 나델라는 AI 선두를 뒤쫓는 것이 적은 연산 비용으로 좋은 위치에 있는 것이라고 주장했다."
    ],
    "tone": "neu"
   },
@@ -80216,126 +80302,6 @@
     "나이키가 2030 회계연도까지 중국 내 판매 제품의 50%를 현지에서 제작하는 것을 목표로 한다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "6d9e5d792b64fb91",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nike outlines ‘Full Stride Ahead’ strategy and fiscal 2031 financial targets",
-   "excerpt": "The company’s long-term financial framework sets a target operating margin of 12% to 14% and adjusted EPS of $3.00 to $3.50 by fiscal 2031, using fiscal 2027 as the baseline.",
-   "url": "https://www.retail-insight-network.com/news/nike-full-stride-ahead-fiscal-2031-financial-targets/?.tsrc=rss",
-   "published": "2026-11-18T09:18:55+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "나이키가 '풀 스트라이드 어헤드' 전략과 2031 회계연도 재무 목표를 공개했다고 다뤘다.",
-    "2027 회계연도를 기준으로 영업이익률 12~14%, 조정 주당순이익 3.00~3.50달러를 목표로 설정했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "48e13458f19e4fe6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Investors Are Reacting To Starbucks (SBUX) Red Cup Day Launch",
-   "excerpt": "Starbucks held its annual Red Cup Day promotion on November 17, 2026, giving customers a free reusable cup with qualifying holiday or fall drinks and aiming to lift store visits across mobile, drive-thru, and in-store channels. The giveaway coincides with momentum from Starbucks' Back to Starbucks turnaround plan, where refreshed stores, labor investments, and margin-focused execution are central to holiday-season performance. We will look at how Starbucks' investment narrative intersects...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-starbucks-sbux-red-091724474.html?.tsrc=rss",
-   "published": "2026-11-18T09:17:24+00:00",
-   "tickers": [
-    "SBUX"
-   ],
-   "summary_ko": [
-    "스타벅스가 매장 방문객을 늘리기 위해 레드 컵 데이 행사를 진행했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f06069442dacdf42",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia's Troubles: 1 Crucial Lesson for Investors",
-   "excerpt": "There’s something you can do to protect your portfolio from excessive turbulence.",
-   "url": "https://www.fool.com/investing/2026/11/18/nvidia-troubles-1-crucial-lesson-for-investors/?.tsrc=rss",
-   "published": "2026-11-18T09:15:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 어려움을 통해 투자자가 포트폴리오를 보호하기 위해 취할 수 있는 교훈을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6d9b8946d65cefbf",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Samsung Electronics (KOSE:A005930) Nears Rare Multi Year DRAM Supply Deal",
-   "excerpt": "Samsung Electronics (KOSE:A005930) is reportedly close to a rare multi-year DRAM supply deal with Apple in November 2026. The prospective agreement would secure DRAM shipments for future Apple devices as AI hardware demand tightens memory availability. Multi-year supply commitments are uncommon for Apple procurement, which typically relies on shorter contracts and diversified suppliers. This prospective multi-year DRAM agreement between Apple and Samsung only captures part of the story for...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-kose-a005930-nears-091338091.html?.tsrc=rss",
-   "published": "2026-11-18T09:13:38+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "삼성전자가 애플과 드물게 다년 간의 DRAM 공급 계약 체결을 앞두고 있다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "9e0435db43300a3a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Market Chatter: Nvidia Co-Founder Jensen Huang Retains Right to Nominate Two Directors",
-   "excerpt": "Nvidia (NVDA) co-founder and former Chief Executive Jensen Huang retains the right to nominate up to",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-co-founder-091102982.html?.tsrc=rss",
-   "published": "2026-11-18T09:11:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 공동 창업자인 젠슨 황이 이사 2명을 지명할 권리를 유지하고 있다고 시장 소식을 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "cc34e48737f488c8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Nvidia clears hurdle, Anthropic prepares to price its IPO",
-   "excerpt": "US stock futures steadied after a turbulent start to the week as Nvidia cleared its earnings bar and investors awaited the next big AI catalyst: Anthropic's IPO.",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html?.tsrc=rss",
-   "published": "2026-11-18T09:06:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 실적 고비를 넘기고 앤트로픽의 기업공개를 앞두고 미국 주가지수 선물 상승세를 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "62aba1737caefb0b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla Is Now Taking Cybercab Orders. Here's Where I Think the Stock Will Be in 2030.",
-   "excerpt": "The robotaxi finally has a price. But how much profit is the stock already counting on?",
-   "url": "https://www.fool.com/investing/2026/11/18/tesla-is-now-taking-cybercab-orders-here-s-where-i-think-the-stock-will-be-in-2030/?.tsrc=rss",
-   "published": "2026-11-18T09:03:02+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라가 사이버캡 주문을 받기 시작했으며 2030년 주가 전망을 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
