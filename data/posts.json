@@ -1,6 +1,93 @@
 {
- "updated": "2026-11-25T08:00:36.356766+00:00",
+ "updated": "2026-11-25T08:30:30.234157+00:00",
  "posts": [
+  {
+   "id": "ad8cc950428cb976",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "1 Reason to Buy AMD Stock Before 2027",
+   "excerpt": "AMD has been caught in the AI chip sell-off despite surging demand, and its chiplet approach may give it an edge that the market is overlooking.",
+   "url": "https://www.fool.com/investing/2026/11/25/1-reason-to-buy-amd-stock-before-2027/?.tsrc=rss",
+   "published": "2026-11-25T08:26:02+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "AMD가 AI 칩 매도세에 영향을 받았으나, 칩렛 접근법이 시장이 간과하는 강점이 될 수 있다고 주장했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "aa5f953b3864a3b5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bank of America (BAC) Renews Long Term Card Tie Up With a Travel Partner",
+   "excerpt": "Bank of America (NYSE:BAC) and Allegiant Travel Company extended their co-branded credit card partnership under a new long-term agreement. The renewed pact keeps Allegiant’s Allways Rewards credit card on the Bank of America platform with continued loyalty program integration. The extension supports Bank of America’s focus on recurring non-interest income streams tied to travel and everyday spending. This fresh extension of the Allegiant Allways Rewards credit card alliance only captures one...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-renews-long-081218395.html?.tsrc=rss",
+   "published": "2026-11-25T08:12:18+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카와 얼리전트 트래블 컴퍼니가 제휴 신용카드 파트너십을 연장했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "bd3058a1952da9f4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SpaceX Could Fall Below $100 On A Tesla Bid, Gary Black Says — JPMorgan Sees The Same Deal As A Shortcut To The S&P 500",
+   "excerpt": "Black estimates a 25% premium would value Tesla at $481 per share and result in 52% dilution for SpaceX shareholders.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/spacex-fall-tesla-bid-gary-black-jp-morgan-shortcut-sp500/cNbH7PdR9lF?.tsrc=rss",
+   "published": "2026-11-25T08:07:08+00:00",
+   "tickers": [
+    "TSLA",
+    "JPM"
+   ],
+   "summary_ko": [
+    "개리 블랙은 테슬라 인수 제안 시 스페이스X 주가가 100달러 아래로 떨어질 수 있다고 전망했다.",
+    "JP모건은 동일한 거래를 S&P 500 편입을 위한 지름길로 바라본다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "84405a8396e6c4a1",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "Will the cloud over Nvidia slow down its ability to make deals?",
+   "excerpt": "American Action Forum President Douglas Holtz-Eakin and Unleash Prosperity Executive Director Tim Doescher debate the Nvidia board’s decision to bring back Jensen Huang as CEO on ‘Kudlow.’ #fox #foxbusiness #media Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news pro",
+   "url": "https://www.youtube.com/watch?v=o5VJo-XzzGo",
+   "published": "2026-11-25T08:00:27+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 젠슨 황 CEO 복귀 결정에 대해 전문가들이 토론을 진행했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "928b2db4c003a49a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Will Nvidia Exec Kimberly Powell Leave? Crypto Bettors Weigh Exit Odds Amid Alleged Jensen Huang Affair",
+   "excerpt": "Cryptocurrency punters are scaling back odds that Nvidia Corp. (NASDAQ:NVDA) executive Kimberly Powell will leave the company following reports of her alleged affair with CEO Jensen Huang. The Fate of Kimberly Powell Polygon (CRYPTO: POL)-based Polymarket currently prices a 23%...",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63614804/nvidia-vp-kimberly-powell-jensen-huang-affair-polymarket-prediction-market?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+   "published": "2026-11-25T07:59:05+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "암호화폐 베팅 시장에서 엔비디아 임원의 퇴사 가능성에 대한 확률을 낮춰 잡고 있다고 보도했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "f2b0ca5c5fced49f",
    "kind": "news",
@@ -80299,41 +80386,6 @@
     "엔비디아의 호실적으로 인한 상승세를 일부 상쇄했다고 언급했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "81144a3f3bec602e",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "US Strikes Iran’s Qeshm Island as Bahrain and Kuwait Face Fresh Drone Attacks",
-   "excerpt": "US-Iran clashes intensify as Washington says it struck Iran’s Qeshm Island in self-defense following renewed attacks on Bahrain. Bahrain and Kuwait report further drone interceptions, while vessel strikes around the Strait of Hormuz keep regional security and energy risks elevated. Oil holds near recent gains as traders weigh renewed fighting against recovering supply. Markets are also watching how any disruption through Hormuz could feed into prices, with even small supply losses capable of producing an outsized move in crude. Nvidia raises its outlook as it tries to reassure investors after Jensen Huang’s departure. The company lifts its 2028 revenue growth forecast, while reported commitments climb sharply. Management says it does not intend to reinstate Huang, even as his exit continue",
-   "url": "https://www.youtube.com/watch?v=1vahA4fYMJ0",
-   "published": "2026-11-18T08:24:06+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 젠슨 황의 퇴임 이후 투자자들을 안심시키기 위해 실적 전망을 상향했다고 다뤘다.",
-    "회사는 2028년 매출 성장 전망을 높이고 약속된 물량이 급증했다고 밝혔다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "44b6de496aba2c37",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Putin and Xi Close Ranks Ahead of High-Stakes Trump Summit?",
-   "excerpt": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. Chapters: 00:00:00 - Insight with Haslinda Amin Begins 00:02:29 - Trump makes AI push with Quad leaders as China rivalry grows 00:08:08 - Indian Trade Promotion Organization Chairman Jawed Ashraf on India's expanding ASEAN trade ties 00:14:44 - Jawed Ashraf on the outlook for US-India trade 00:18:15 - Xi warns against ‘rampant’ protectionism before Trump talks 00:27:11 - Nvidia boosts forecast while quashing idea of Huang’s return 00:30:28 - Apollo’s Rowan says insurance will power the $8T AI boom 00:31:37 - Former Deputy T",
-   "url": "https://www.youtube.com/watch?v=mNBJ5cJEdR8",
-   "published": "2026-11-18T08:06:07+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 황의 복귀 가능성을 일축하면서 실적 전망을 상향했다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
