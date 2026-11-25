@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-25T08:30:30.234157+00:00",
+ "updated": "2026-11-25T09:00:36.689851+00:00",
  "posts": [
+  {
+   "id": "b4e11829dec99154",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Adobe Stock Is About 67% Below Its 2021 Record. Here's What I Think It Will Be Worth in 2030.",
+   "excerpt": "Even if the software giant's profit growth keeps cooling, a falling share count could do a lot of the work.",
+   "url": "https://www.fool.com/investing/2026/11/25/adobe-stock-is-about-67-below-its-2021-record-here-s-what-i-think-it-will-be-worth-in-2030/?.tsrc=rss",
+   "published": "2026-11-25T08:33:02+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "summary_ko": [
+    "어도비 주가는 2021년 최고점 대비 약 67% 하락한 상태라고 언급했다.",
+    "이익 증가세가 둔화되더라도 주식 수 감소가 가치를 지탱하는 데 기여할 것이라고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "ad8cc950428cb976",
    "kind": "news",
@@ -55,6 +73,25 @@
    "tone": "neu"
   },
   {
+   "id": "8996bbdbd96465c6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "LIVE – Crypto News Today: Bitcoin Hit by Trump Tariff Threat and US Treasury Cyberattack as IBIT Bleeds Billions",
+   "excerpt": "Bitcoin is back below $60,000, and BlackRock’s Bitcoin ETF is having its worst month of outflows on record. But those are not all, a new Trump tariff threat also rattled markets, wiping out much of Bitcoin’s Nvidia-fueled rebound. Nearly $4 billion has left the IBIT crypto ETF in November, while ...",
+   "url": "https://cryptonews.com/news/crypto-news-bitcoin-trump-tariffs-ibit-etf-outflows/?.tsrc=rss",
+   "published": "2026-11-25T08:05:23+00:00",
+   "tickers": [
+    "NVDA",
+    "IBIT"
+   ],
+   "summary_ko": [
+    "트럼프의 관세 위협과 미국 재무부 사이버 공격 등의 악재로 비트코인이 6만 달러 아래로 하락했다고 보도했다.",
+    "블랙록의 비트코인 ETF인 IBIT에서 11월 동안 수십억 달러가 유출되는 등 자금 이탈이 이어지고 있다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "84405a8396e6c4a1",
    "kind": "youtube",
    "source": "Fox Business",
@@ -87,6 +124,24 @@
     "암호화폐 베팅 시장에서 엔비디아 임원의 퇴사 가능성에 대한 확률을 낮춰 잡고 있다고 보도했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "896c5f9edc4a335f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell Has 100,000 AI Agents at Work Daily: COO Jeff Clarke Says It Will 'Double That Number in the Next 90 Days'",
+   "excerpt": "View more earnings on DELL Dell Technologies Inc. (NYSE:DELL) has put artificial intelligence agents to work across its operations and expects the fleet to grow quickly over the next few months. Dell Runs 100,000 AI Agents a Day The company’s Chief Operating Officer and Vice Chairman Jeff Clarke told analysts on the company’s third-quarter earnings call Tuesday that agents are now part of daily work inside the company. “Any given day there are 100,000 agents spun up across our organization by ou",
+   "url": "https://finance.yahoo.com/technology/ai/articles/dell-100-000-ai-agents-073020682.html?.tsrc=rss",
+   "published": "2026-11-25T07:30:20+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "델의 최고운영책임자(COO) 제프 클라크는 매일 10만 개의 AI 에이전트를 업무에 활용하고 있다고 밝혔다.",
+    "향후 90일 안에 해당 AI 에이전트의 수를 두 배로 늘릴 것이라고 전망했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "f2b0ca5c5fced49f",
@@ -80281,111 +80336,6 @@
     "테슬라가 사이버캡 주문을 받기 시작했으며 2030년 주가 전망을 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "5a918950de853ee1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Could Jensen Huang Run Nvidia Again? Polymarket Bettors Think It’s Possible",
-   "excerpt": "Nvidia's board rules out a Jensen Huang return, yet Polymarket traders still give it about 34% odds by the end of 2027.",
-   "url": "https://beincrypto.com/nvidia-board-jensen-huang-return-odds/?.tsrc=rss",
-   "published": "2026-11-18T09:00:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 이사회는 젠슨 황의 복귀를 배제했지만 폴리마켓 베팅 참가자들은 복귀 가능성을 언급했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ca98078fc9957800",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia says no longer shipping 'Hopper' AI chips to China",
-   "excerpt": "Scandal-hit Californian chip giant Nvidia said Tuesday it has stopped shipping artificial intelligence chips from its \"Hopper\" series to China, as scrutiny grows over Beijing's access to powerful US semiconductors.This year, the Trump administration began allowing limited sales of the flagship \"H200\" chip from Nvidia's \"Hopper\" series to China.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-says-no-longer-shipping-085349050.html?.tsrc=rss",
-   "published": "2026-11-18T08:53:49+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 중국으로의 '호퍼' 시리즈 AI 칩 선적을 중단했다고 밝혔다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "42b302dff8167d32",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Market Chatter: Korea Regulator Cites Customer Complaints, Orders Apple, Google, Alibaba, OpenAI to Designate Legal Representatives by January",
-   "excerpt": "South Korea's antitrust regulator will require major overseas platforms, including Apple (AAPL), Alp",
-   "url": "https://finance.yahoo.com/technology/articles/market-chatter-korea-regulator-cites-085052188.html?.tsrc=rss",
-   "published": "2026-11-18T08:50:52+00:00",
-   "tickers": [
-    "AAPL",
-    "GOOGL",
-    "BABA"
-   ],
-   "summary_ko": [
-    "한국 규제 당국이 애플, 구글, 알리바바 등에 내년 1월까지 국내 대리인 지정을 요구했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2dcfaa882b6391bb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alphabet Stock Is Down 25% From Its High. History Suggests a $5,000 Investment Now Will Be Worth This Much by 2028.",
-   "excerpt": "Alphabet's stock has sold off due to long-term investments.",
-   "url": "https://www.fool.com/investing/2026/11/18/alphabet-stock-is-down-25-from-its-high-history-suggests-a-usd5-000-investment-now-will-be-worth-this-much-by-2028/?.tsrc=rss",
-   "published": "2026-11-18T08:45:02+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "알파벳 주가가 고점 대비 25% 하락한 배경으로 장기 투자가 꼽혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "bdacffa071fd0e13",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "INTC Stock Gains Overnight Amid Fresh Layoffs Buzz",
-   "excerpt": "The move is the latest in a series of cuts over the last two years as CEO Lip-Bu Tan looks to make the chipmaker leaner.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/intc-stock-gains-overnight-amid-fresh-layoffs-buzz/cNbXwbIR9L5?.tsrc=rss",
-   "published": "2026-11-18T08:43:22+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔 주가가 추가 구조조정 소문 속에 시간외 거래에서 상승했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "94734af3d8635b66",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "European shares slip on hot inflation and Anthropic IPO jitters",
-   "excerpt": "Investing.com - European equities struggled to find their footing on Wednesday, ultimately turning lower as investors digested a barrage of sticky inflation data and braced for the market debut of AI startup Anthropic, which effectively blunted a tech-led relief rally sparked by Nvidia’s strong earnings.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/europe-shares-steady-nvidia-results-084227390.html?.tsrc=rss",
-   "published": "2026-11-18T08:42:27+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "유럽 증시는 인플레이션 데이터와 앤스로픽의 상장 우려로 하락세를 보였다고 다뤘다.",
-    "엔비디아의 호실적으로 인한 상승세를 일부 상쇄했다고 언급했다."
-   ],
-   "tone": "neg"
   }
  ]
 }

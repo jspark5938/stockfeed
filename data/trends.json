@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:30:30.234157+00:00",
+ "updated": "2026-11-25T09:00:36.689851+00:00",
  "trends": [
   {
    "ticker": "SNOW",
@@ -12,8 +12,15 @@
    "ticker": "DELL",
    "name_ko": "델",
    "mentions_24h": 50,
-   "mentions_prev_24h": 18,
-   "ratio": 2.78
+   "mentions_prev_24h": 19,
+   "ratio": 2.63
+  },
+  {
+   "ticker": "UBER",
+   "name_ko": "우버",
+   "mentions_24h": 11,
+   "mentions_prev_24h": 5,
+   "ratio": 2.2
   },
   {
    "ticker": "NKE",
@@ -44,6 +51,13 @@
    "ratio": 2.0
   },
   {
+   "ticker": "IBIT",
+   "name_ko": "비트코인 현물 ETF",
+   "mentions_24h": 2,
+   "mentions_prev_24h": 0,
+   "ratio": 2.0
+  },
+  {
    "ticker": "JOBY",
    "name_ko": "조비",
    "mentions_24h": 2,
@@ -58,13 +72,6 @@
    "ratio": 2.0
   },
   {
-   "ticker": "UBER",
-   "name_ko": "우버",
-   "mentions_24h": 11,
-   "mentions_prev_24h": 6,
-   "ratio": 1.83
-  },
-  {
    "ticker": "INTC",
    "name_ko": "인텔",
    "mentions_24h": 27,
@@ -76,6 +83,13 @@
    "name_ko": "보잉",
    "mentions_24h": 15,
    "mentions_prev_24h": 9,
+   "ratio": 1.67
+  },
+  {
+   "ticker": "ADBE",
+   "name_ko": "어도비",
+   "mentions_24h": 5,
+   "mentions_prev_24h": 3,
    "ratio": 1.67
   },
   {
@@ -114,18 +128,25 @@
    "ratio": 1.28
   },
   {
-   "ticker": "TSLA",
-   "name_ko": "테슬라",
-   "mentions_24h": 53,
-   "mentions_prev_24h": 42,
-   "ratio": 1.26
-  },
-  {
    "ticker": "META",
    "name_ko": "메타",
    "mentions_24h": 6,
    "mentions_prev_24h": 5,
    "ratio": 1.2
+  },
+  {
+   "ticker": "TSLA",
+   "name_ko": "테슬라",
+   "mentions_24h": 51,
+   "mentions_prev_24h": 43,
+   "ratio": 1.19
+  },
+  {
+   "ticker": "JPM",
+   "name_ko": "JP모건",
+   "mentions_24h": 16,
+   "mentions_prev_24h": 14,
+   "ratio": 1.14
   },
   {
    "ticker": "AMZN",
@@ -149,25 +170,11 @@
    "ratio": 1.11
   },
   {
-   "ticker": "JPM",
-   "name_ko": "JP모건",
-   "mentions_24h": 16,
-   "mentions_prev_24h": 15,
-   "ratio": 1.07
-  },
-  {
    "ticker": "ORCL",
    "name_ko": "오라클",
    "mentions_24h": 19,
    "mentions_prev_24h": 18,
    "ratio": 1.06
-  },
-  {
-   "ticker": "MSFT",
-   "name_ko": "마이크로소프트",
-   "mentions_24h": 34,
-   "mentions_prev_24h": 33,
-   "ratio": 1.03
   },
   {
    "ticker": "WMT",
@@ -177,18 +184,18 @@
    "ratio": 1.0
   },
   {
-   "ticker": "ADBE",
-   "name_ko": "어도비",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 4,
-   "ratio": 1.0
-  },
-  {
    "ticker": "SHOP",
    "name_ko": "쇼피파이",
    "mentions_24h": 2,
    "mentions_prev_24h": 2,
    "ratio": 1.0
+  },
+  {
+   "ticker": "MSFT",
+   "name_ko": "마이크로소프트",
+   "mentions_24h": 33,
+   "mentions_prev_24h": 34,
+   "ratio": 0.97
   },
   {
    "ticker": "MU",
@@ -263,9 +270,9 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 391,
-   "mentions_prev_24h": 581,
-   "ratio": 0.67
+   "mentions_24h": 388,
+   "mentions_prev_24h": 584,
+   "ratio": 0.66
   },
   {
    "ticker": "RGTI",
@@ -280,13 +287,6 @@
    "mentions_24h": 7,
    "mentions_prev_24h": 12,
    "ratio": 0.58
-  },
-  {
-   "ticker": "HOOD",
-   "name_ko": "로빈후드",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 7,
-   "ratio": 0.57
   },
   {
    "ticker": "MSTR",
@@ -338,6 +338,13 @@
    "ratio": 0.43
   },
   {
+   "ticker": "HOOD",
+   "name_ko": "로빈후드",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 8,
+   "ratio": 0.38
+  },
+  {
    "ticker": "IONQ",
    "name_ko": "아이온큐",
    "mentions_24h": 3,
@@ -347,9 +354,9 @@
   {
    "ticker": "CRWD",
    "name_ko": "크라우드스트라이크",
-   "mentions_24h": 23,
-   "mentions_prev_24h": 66,
-   "ratio": 0.35
+   "mentions_24h": 22,
+   "mentions_prev_24h": 67,
+   "ratio": 0.33
   },
   {
    "ticker": "RKLB",
