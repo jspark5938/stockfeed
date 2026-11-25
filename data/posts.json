@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-25T03:30:29.938888+00:00",
+ "updated": "2026-11-25T04:00:34.804608+00:00",
  "posts": [
+  {
+   "id": "7ce3b271a1d06082",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla's $3.5 trillion merger talks have a surprising catch",
+   "excerpt": "Five directors must decide whether Elon Musk’s biggest corporate combination would reward ordinary shareholders.",
+   "url": "https://www.thestreet.com/investing/teslas-3-5-trillion-merger-talks-have-a-surprising-catch?.tsrc=rss",
+   "published": "2026-11-25T03:33:00+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라의 대규모 합병 논의 과정에서 5명의 이사가 주주 보상 여부를 결정해야 한다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "77d47bfa2d9ccc2b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Altimetrik Achieves the AWS Agentic AI Specialization",
+   "excerpt": "Altimetrik, an AI engineering company, has achieved the Amazon Web Services (AWS) Agentic AI Specialization in Agentic AI Consulting Services, a category within the AWS AI Competency. This specialization recognizes Altimetrik as an AWS Partner that enables customers to deploy smart, self-operating AI systems that can think, plan, and work independently to execute complex business processes.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/altimetrik-achieves-aws-agentic-ai-033000212.html?.tsrc=rss",
+   "published": "2026-11-25T03:30:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "알티메트릭이 AWS 에이전틱 AI 컨설팅 서비스 전문 자격을 획득했다고 밝혔다.",
+    "이를 통해 고객이 독립적으로 작동하는 스마트 AI 시스템을 구축하도록 지원한다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "e192a54c3c019fd7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "South Korea's chipmakers rally on Huang's return",
+   "excerpt": "IntelliNews summary: • Hyundai Motor rose more than 11% and LG Electronics 15. 8% on Nvidia's decision.",
+   "url": "http://www.intellinews.com/south-korea-s-chipmakers-rally-on-huang-s-return-488025/?.tsrc=rss",
+   "published": "2026-11-25T03:21:23+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 관련 결정에 힘입어 한국 반도체 관련 종목들이 상승했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7366e792ea71c4ac",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow, S&P 500, Nasdaq Futures Edge Lower Amid Tech Selloff Ahead Of Key Inflation Data: DELL, AMBA, SOXL, MSTR In Focus",
+   "excerpt": "U.S. stock markets closed another volatile session on Tuesday as technology stocks sold off amid declines in NVDA and ANT shares after a massive rally the day before.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-lower-amid-tech-selloff-ahead-of-key-inflation-data-dell-amba-soxl-mstr-in-focus/cNbHbLoR9lJ?.tsrc=rss",
+   "published": "2026-11-25T03:20:10+00:00",
+   "tickers": [
+    "NVDA",
+    "MSTR",
+    "DELL",
+    "SOXL"
+   ],
+   "summary_ko": [
+    "핵심 물가 지표 발표를 앞두고 기술주 매도세 속에서 미국 증시 선물 지수가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "843ea3f93fb6f427",
    "kind": "news",
@@ -191,6 +263,24 @@
     "젠슨 황이 엔비디아 CEO로 복귀하게 된 과정과 관련 내용을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "6d549d0e2e27bd21",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dan Ives Says ‘Base Case’ for Nvidia Stock Is $250 After Jensen Huang Returns as CEO: ‘China Loophole Issues’ Keep Him Short of $300",
+   "excerpt": "Dan Ives of Yorkville Ives raised his Nvidia Corp. (NASDAQ:NVDA) price target to $250 on Tuesday with CEO Jensen Huang back, but stopped short of $300 as China chip issues remain unresolved. The stock was down more than 2% in after-hours trading. Prices in CEO’s Return In a post on X Tuesday, Ives said the “base case is $250 for Nvidia with Jensen back,” about 61% above the stock’s Tuesday close. Our base case is $250 for Nvidia with Jensen back @CNBCClosingBell 🏆👇🐂 Dan",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-case-nvidia-022719368.html?.tsrc=rss",
+   "published": "2026-11-25T02:27:19+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "댄 아이브스는 젠슨 황의 복귀를 이유로 엔비디아의 목표주가를 250달러로 상향 조정했다고 밝혔다.",
+    "다만 중국 칩 관련 문제가 해결되지 않아 300달러에는 못 미친다고 전망했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "8317d5226a88057c",
@@ -80459,126 +80549,6 @@
     "엔비디아의 10-Q 보고서 제출 지연이 마이클 버리의 주목을 끌었다고 전했다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "a9a6cb5e0fb0da42",
-   "kind": "youtube",
-   "source": "Fox Business",
-   "author": "Fox Business",
-   "title": "‘SLIGHTLY SCARY’: Expert points out timing of multiple US outages, Nvidia CEO scandal",
-   "excerpt": "Rochefort Asset Management founder and co-CEO Kyle Bass discusses Nvidia's future in the AI race, the impact of U.S. chip curbs on China and more on ‘The Claman Countdown.’ #fox #foxbusiness #media #breakingnews #us #usa #new #news #breaking #theclamancountdown #nvidia #jensenhuang #ai #artificialintelligence #technology #tech #china #chips #semiconductors #chipmakers #exports #trade #business #economy #finance #stocks #stockmarket #investing #investment #wallstreet #outages #cybersecurity #security #innovation #competition #restrictions #global #markets Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall S",
-   "url": "https://www.youtube.com/watch?v=d0jNaDwNJwE",
-   "published": "2026-11-18T04:00:18+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "전문가가 미국 정전과 엔비디아 CEO 관련 이슈의 시점을 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "01664329f646c84b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nasdaq Futures Lead Wall Street Rebound After Nvidia’s Blowout Forecast, Anthropic IPO Looms: SLS, NKE, MU In Focus",
-   "excerpt": "Nvidia reported its third-quarter results after market hours on Tuesday, injecting optimism back into the AI trade after a strong print.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-lead-wall-street-rebound-after-nvidia-s-blowout-forecast-anthropic-ipo-looms-sls-nke-mu-in-focus/cNbX828R9hF?.tsrc=rss",
-   "published": "2026-11-18T03:46:27+00:00",
-   "tickers": [
-    "NVDA",
-    "NKE"
-   ],
-   "summary_ko": [
-    "엔비디아의 호실적 발표로 시장의 낙관론이 되살아나며 나스닥 선물 지수가 반등을 주도했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "eedc4585773f450a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Told Cloud Executives He “Could Just Give All This Capacity to Elon.” Bad News for CoreWeave",
-   "excerpt": "Key TakeawaysThe Wall Street Journal reported that Jensen Huang told cloud executives Nvidia “could just give all this capacity to Elon. ”On Nvidia’s Nov.",
-   "url": "https://www.tikr.com/blog/jensen-told-cloud-executives-he-could-just-give-all-this-capacity-to-elon-bad-news-for-coreweave?ref=yahoofinance&tlnk=yf-261117-gw4w2m4c&.tsrc=rss",
-   "published": "2026-11-18T03:45:48+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황이 클라우드 임원들에게 일론 머스크에게 용량을 줄 수 있다고 언급했다는 보도를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f34b69e3c6192f7f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "US futures point higher led by rebound for Nvidia",
-   "excerpt": "HONG KONG (AP) — Tech stocks are leading U. futures higher Wednesday after Nvidia easily exceeded Wall Street expectations as it deals with the abrupt departure of CEO Jensen Huang.",
-   "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-mostly-decline-wall-034546063.html?.tsrc=rss",
-   "published": "2026-11-18T03:45:46+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 예상을 웃도는 실적을 기록하며 미국 선물 시장의 상승을 이끌었다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "ea84f8f9bec8e22a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang agrees to testify before Senate, Politico reports",
-   "excerpt": "Investing.com-- Former NVIDIA Corporation (NASDAQ:NVDA) CEO Jensen Huang has agreed to testify before the Senate Banking Committee, Politico reported on Tuesday evening, citing a spokesperson for Chair Tim Scott.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-agrees-testify-senate-034305878.html?.tsrc=rss",
-   "published": "2026-11-18T03:43:05+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 젠슨 황이 상원 은행위원회 청문회에 증언하기로 합의했다고 폴리티코가 보도했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2e7ed815aaa792d3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia China access restrictions: these stocks are most exposed",
-   "excerpt": "Investing.com -- On Nov 16, 2026, the Commerce Department outlined rules blocking remote access to advanced Nvidia chips. Chips shipped to Singapore, Malaysia, Thailand, Indonesia and Brazil now need export licences. Overseas data centers serving significant compute to China-headquartered firms have 90 days, to roughly mid-February, to get licences. Until then it is a cost-and-access squeeze, not a hard cut-off. Read more (Nov 17, 2026)",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-china-access-restrictions-stocks-033856534.html?.tsrc=rss",
-   "published": "2026-11-18T03:38:56+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미 상무부가 엔비디아의 첨단 칩에 대한 원격 접근을 차단하는 수출 규정 규칙을 설명했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "58833d1f318f2ddb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Charlie Munger Said He’d ‘Never Sell a Share’ of Costco. $10,000 From 1997 Is Now Worth $833,000 and Gets a $22,535 Check on Dec. 4",
-   "excerpt": "Costco's $30 special dividend goes to holders of record Nov. 24. For a couple who bought $10,000 of Costco the month Charlie Munger joined its board, that is a $22,535 check on top of shares worth $833,863, and selling would cost about $149,640 in federal tax.",
-   "url": "https://247wallst.com/investing/2026/11/17/charlie-munger-said-hed-never-sell-a-share-of-costco-10000-from-1997-is-now-worth-833000-and-gets-a-22535-check-on-dec-4/?.tsrc=rss",
-   "published": "2026-11-18T03:33:00+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코가 특별 배당을 지급하며 찰리 멍거의 과거 투자 일화와 주가 성과를 조명했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
