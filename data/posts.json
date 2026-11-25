@@ -1,6 +1,140 @@
 {
- "updated": "2026-11-25T21:30:31.326670+00:00",
+ "updated": "2026-11-25T22:00:37.822907+00:00",
  "posts": [
+  {
+   "id": "00596361d2cc675d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
+   "excerpt": "The market went on a wild ride before Thanksgiving, but the Dow and Anthropic reversed higher while the Nasdaq and Nvidia came well off lows.",
+   "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures%3A-market.html?.tsrc=rss",
+   "published": "2026-11-25T21:55:28+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "561eb5410ff18eb1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palo Alto Networks sued over alleged accounting fraud claims",
+   "excerpt": "Investing.com -- Palo Alto Networks is facing a lawsuit from a former executive who says he was fired after raising concerns about accounting fraud at the cybersecurity company.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-sued-over-215144369.html?.tsrc=rss",
+   "published": "2026-11-25T21:51:44+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "30732cf385dcc515",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Nasdaq 100 Bounces Off Tech-Driven Lows",
+   "excerpt": "The Nasdaq 100 Index trimmed losses that had briefly tipped the gauge into bear-market territory and the S&P erased most of an earlier large decline, with dip buyers emerging even as doubts remained about the outlook for artificial intelligence. The Russia/Ukraine War is testing NATO’s plan for military action. Plus, Trump is targeting China, EU with new tariffs citing overcapacity. All on the latest episode of “Bloomberg Businessweek Daily.” Chapters: 00:00:00 Bloomberg Businessweek Daily 00:02:47 Markets Rebound From Sharp Selloff 00:04:05 Fed Beige Book & Economic Outlook 00:06:43 Fed Rate Hikes & Treasury Rally 00:08:18 What's Driving the Market Rebound? 00:09:49 AI Spending & Market Volatility 00:12:12 Nvidia, Anthropic & the AI Trade 00:13:24 Jensen Huang vs. Dario Amodei 00:15:02 An",
+   "url": "https://www.youtube.com/watch?v=iSSZRbNUfRI",
+   "published": "2026-11-25T21:51:17+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "89d4ca79470f39c1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December",
+   "excerpt": "Marvell's earnings growth is poised to accelerate sharply, making the stock a no-brainer buy ahead of its quarterly report.",
+   "url": "https://www.fool.com/investing/2026/11/25/not-micron-not-broadcom-this-is-my-top-oversold-artificial-intelligence-ai-stock-to-buy-in-december/?.tsrc=rss",
+   "published": "2026-11-25T21:51:01+00:00",
+   "tickers": [
+    "AVGO",
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "105c1e894a10522f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart quietly reverses major Apple Pay decision ahead of Black Friday",
+   "excerpt": "Walmart’s long-awaited embrace of Apple Pay faces an unexpected twist just days before the holiday shopping rush.",
+   "url": "https://www.thestreet.com/retail/walmart-quietly-reverses-major-apple-pay-decision-ahead-of-black-friday?.tsrc=rss",
+   "published": "2026-11-25T21:33:00+00:00",
+   "tickers": [
+    "AAPL",
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "fe4c54f1b68e9c06",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: AMD Stock Could Rally 58% as Analysts Maintain Strong Buy Rating",
+   "excerpt": "Advanced Micro Devices (AMD) shares have pulled back in recent weeks, but Wall Street remains bullish on the chipmaker. According to TipRanks data, AMD has a Strong Buy consensus rating, with analysts seeing nearly 58% upside from its November 24 closing price of $413.27 over the next 12 months. Recent analyst calls from StoneX and Bank of America (BAC) point to strong demand for AMD’s server chips and its growing role in the AI market. William Blair has also raised its rating to Buy, citing bet",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amd-stock-could-rally-213100517.html?.tsrc=rss",
+   "published": "2026-11-25T21:31:00+00:00",
+   "tickers": [
+    "AMD",
+    "BAC"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b4442c5bf2a5c44d",
+   "kind": "youtube",
+   "source": "The Motley Fool",
+   "author": "The Motley Fool",
+   "title": "Who Will Win the Robotaxi Race?",
+   "excerpt": "A year after their last autonomous driving debate, Travis Hoium, Lou Whiteman, and Rachel Warren revisit the progress of Waymo, Tesla, and the growing robotaxi industry. They explore the technical challenges still standing in the way of widespread self-driving cars and the economics of operating autonomous fleets. Could Uber, Lyft, and lesser-known competitors ultimately be the biggest winners in the autonomous driving revolution? Travis Hoium, Lou Whiteman, and Rachel Warren discuss: • Waymo’s rapid expansion • Tesla’s robotaxi ambitions • Autonomous driving challenges • Emerging robotaxi competitors • The economics of autonomy • Uber and Lyft’s opportunity *Companies discussed:* Alphabet (GOOGL), Tesla (TSLA), WeRide (WRD), Mobileye (MBLY), Rivian (RIVN), General Motors (GM), Uber (UBER)",
+   "url": "https://www.youtube.com/watch?v=b0txy5eejQQ",
+   "published": "2026-11-25T21:30:33+00:00",
+   "tickers": [
+    "TSLA",
+    "GOOGL",
+    "UBER",
+    "RIVN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "9d00a4bb4c2e9a18",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Blanchard: SPCX Math \"Doesn't Add Up\" #shorts",
+   "excerpt": "SpaceX (SPCX) has ambitions far beyond the stratosphere when it comes to future earnings. Olivier Blanchard doesn't quiet buy the math behind CEO Elon Musk's expectations. See Olivier's full interview on Market Matters with Marley Kayden here: ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #spacex #tesla #mergersandacquisitions #economy #finance #investing #marketnews #stock #stockmarket #trading #live #schwabnetwork #spcx #tsla #ai #artificialintelligence #rocket #rocketlaunch #starlink #satellite #space #spac",
+   "url": "https://www.youtube.com/watch?v=eQ--vzv8IMk",
+   "published": "2026-11-25T21:30:02+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "4ade4c4a8ab7cb86",
    "kind": "news",
@@ -17,6 +151,38 @@
     "엔비디아의 주가가 젠슨 황 CEO 복귀 이후의 열기가 식으며 흔들리는 양상을 보였다고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "ffd20471634bfe58",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Biggest Earnings Winners Grind Sandisk And Dell Into The Dust",
+   "excerpt": "Some of the biggest Q3 winners signaled bullish narrative shifts, including Pentair and Clorox.",
+   "url": "https://finance.yahoo.com/m/e45ffa23-8286-379b-b6e0-081e46a83f75/the-biggest-earnings-winners.html?.tsrc=rss",
+   "published": "2026-11-25T21:27:31+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 3
+  },
+  {
+   "id": "167cfa9c0f2431d0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Federal Court Rules in Favor of CPSC in Landmark E-Commerce Product Safety Case",
+   "excerpt": "The U.S. Consumer Product Safety Commission (CPSC) today welcomed an order by the United States District Court for the District of Maryland granting summary judgment in favor of the Commission and dismissing Amazon.com, Inc.'s challenge to the Commission's orders concerning more than 400,000 hazardous consumer products.",
+   "url": "https://finance.yahoo.com/economy/policy/articles/federal-court-rules-favor-cpsc-212500597.html?.tsrc=rss",
+   "published": "2026-11-25T21:25:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "cbe1fa65930c590a",
@@ -36,20 +202,20 @@
    "tone": "neg"
   },
   {
-   "id": "ffd20471634bfe58",
+   "id": "b23b65e12836a2dd",
    "kind": "news",
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
-   "title": "The Biggest Earnings Winners Grind Dell And Sandisk Into The Dust",
-   "excerpt": "Some of the biggest Q3 winners signaled bullish narrative shifts, including Pentair and Clorox.",
-   "url": "https://finance.yahoo.com/m/e45ffa23-8286-379b-b6e0-081e46a83f75/the-biggest-earnings-winners.html?.tsrc=rss",
-   "published": "2026-11-25T21:21:48+00:00",
+   "title": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
+   "excerpt": "Sandisk's revenue surged over 270%, driven by demand for cloud memory, while Qualcomm is branching into automotive and satellite connectivity. Which chip stock holds up better?",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/25/qualcomm-vs-sandisk-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-25T21:20:02+00:00",
    "tickers": [
-    "DELL"
+    "QCOM"
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 3
+   "summary_tries": 1
   },
   {
    "id": "96a3bece18872a65",
@@ -364,6 +530,22 @@
     "비트코인 하락과 함께 스트래티지의 자본 조달 모델이 압박을 받고 있다고 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "be9f077c18e0d2bd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Top Research Reports for CrowdStrike, Lockheed Martin & S&P",
+   "excerpt": "CrowdStrike's cybersecurity demand, Lockheed Martin's record backlog and S&P Global's balanced risk-reward profile headline today's top research reports.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-crowdstrike-lockheed-202700539.html?.tsrc=rss",
+   "published": "2026-11-25T20:27:00+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "4c842f97cf4711ae",
@@ -1489,6 +1671,38 @@
    "tone": "neu"
   },
   {
+   "id": "a19035bebd0810e5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TeraWulf’s CEO Says Anthropic Won’t “Walk Away From Deals.” Junk-Rating Talk Tests That",
+   "excerpt": "Key TakeawaysTeraWulf CEO Paul Prager defended his company’s $19 billion Anthropic lease as Anthropic’s stock fell below its $83 IPO price and bond investors braced for a junk rating. Prager is right about the rent: Alphabet’s Google backstops Anthropic’s lease obligations while Anthropic lacks an investment-grade rating.",
+   "url": "https://www.tikr.com/blog/terawulfs-ceo-says-anthropic-wont-walk-away-from-deals-junk-rating-talk-tests-that?ref=yahoofinance&tlnk=yf-261125-mwr2727m&.tsrc=rss",
+   "published": "2026-11-25T18:27:42+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "648da34152205cba",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Forget ASML: Tokyo Electron Has More China Sales at Stake in the MATCH Act",
+   "excerpt": "Key TakeawaysASML shares fell 5% today after Dutch lawmakers pushed back on the MATCH Act, a US bill that would press the Netherlands and Japan to match US chip-equipment curbs on China. China made up 34.",
+   "url": "https://www.tikr.com/blog/forget-asml-tokyo-electron-has-more-china-sales-at-stake-in-the-match-act?ref=yahoofinance&tlnk=yf-261125-h7wjhc27&.tsrc=rss",
+   "published": "2026-11-25T18:26:42+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
    "id": "b03ae87592a8b972",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1591,6 +1805,22 @@
     "인플레이션 데이터 여파로 다우 지수가 하락하고 엔비디아 등이 급락했다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "a4f42425c7b482be",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cathie Wood Just Sold $7 Million of Palantir Across 3 ARK Funds",
+   "excerpt": "Key TakeawaysCathie Wood’s ARK Invest sold 44,682 Palantir shares across three ETFs on Tuesday, worth about $7 million at the day’s close. Palantir’s figures don’t back the sale: analysts keep raising their earnings estimates, and the stock trades at 70x forward earnings against a five-year average of 102x.",
+   "url": "https://www.tikr.com/blog/cathie-wood-just-sold-7-million-of-palantir-across-3-ark-funds?ref=yahoofinance&tlnk=yf-261125-979hm5m9&.tsrc=rss",
+   "published": "2026-11-25T18:16:53+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "fa688c60b6a94cb2",
@@ -5220,7 +5450,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "36b09adef3aca2f2",
@@ -77154,331 +77384,6 @@
    ],
    "summary_ko": [
     "혼조세를 보이는 주택 시장 데이터와 52주 최저치를 기록한 금 가격 등 월스트리트의 마감 동향을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e8399ccc8eefc93e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Here's What Key Metrics Tell Us About Palo Alto (PANW) Q1 Earnings",
-   "excerpt": "Although the revenue and EPS for Palo Alto (PANW) give a sense of how its business performed in the quarter ended October 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-220001510.html?.tsrc=rss",
-   "published": "2026-11-18T22:00:01+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로 알토의 1분기 실적과 관련된 주요 지표들을 다뤘다.",
-    "월스트리트 예상치 및 전년 동기 대비 실적을 비교했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0c5d14b313659755",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Where Will Palantir Stock Be in 1 Year?",
-   "excerpt": "It's down right now, but there's reason to suspect that can change.",
-   "url": "https://www.fool.com/investing/2026/11/18/where-will-palantir-stock-be-in-1-year/?.tsrc=rss",
-   "published": "2026-11-18T21:59:02+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "summary_ko": [
-    "현재 하락세를 보이는 팔란티어 주가의 1년 뒤 전망에 대해 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "713a49a59a32b60e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron President on AI memory demand: \"We can't meet all requirements'",
-   "excerpt": "Micron (MU) President and Chief Technology and Products Officer, Scott J. DeBoer, joins Deirdre Bosa on Yahoo Finance's Deirdre Bosa Live to o discuss the \"great memory squeeze\" as surging demand for memory chips continues to outpace supply. DeBoer explains how Micron is navigating the shortage and prioritizing customer needs amid growing demand for AI infrastructure.",
-   "url": "https://finance.yahoo.com/video/micron-president-on-ai-memory-demand-we-cant-meet-all-requirements-215817196.html?.tsrc=rss",
-   "published": "2026-11-18T21:58:17+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론 임원이 AI 메모리 수요가 공급을 계속 앞지르고 있다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "15e9cc10d5520462",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron President on the AI gap: \"China is far behind in high-bandwidth memory\"",
-   "excerpt": "Micron (MU) President and Chief Technology and Products Officer, Scott J. DeBoer, joins Deirdre Bosa on Yahoo Finance's Deirdre Bosa Live to o discuss the memory gap in the global AI chip race and the competitive nature of the memory business.",
-   "url": "https://finance.yahoo.com/video/micron-president-on-the-ai-gap-china-is-far-behind-in-high-bandwidth-memory-220744101.html?.tsrc=rss",
-   "published": "2026-11-18T21:58:17+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론의 스콧 디보어 사장이 AI 칩 경쟁에서 중국이 고대역폭 메모리 분야에서 한참 뒤처져 있다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "8027ade5b00bb35c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Memory supply constraints will be even 'tighter' in 2027: Micron CTO",
-   "excerpt": "Micron (MU) president and CTO Scott DeBoer sits down with Deirdre Bosa to discuss his outlook on memory supply versus demand in the year ahead.",
-   "url": "https://finance.yahoo.com/video/memory-supply-constraints-will-be-even-tighter-in-2027-micron-cto-215815321.html?.tsrc=rss",
-   "published": "2026-11-18T21:58:15+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론 CTO가 2027년 메모리 공급 제약이 더욱 심화될 것이라고 전망했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "bbe842dfbf59a81a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Correction: Palo Alto Networks Q1 Adjusted Earnings, Revenue Rises; Lifts 2027 Outlook; Announces Applied Compute Acquisition",
-   "excerpt": "(Corrected to add deal value) Palo Alto Networks (PANW) reported fiscal Q1 adjusted earnings late",
-   "url": "https://finance.yahoo.com/technology/articles/correction-palo-alto-networks-q1-215313503.html?.tsrc=rss",
-   "published": "2026-11-18T21:53:13+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로알토 네트웍스가 1분기 실적 발표와 함께 2027년 전망을 상향 조정했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "0e0b2e39152773b9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Market Today: Dow Ends In Red On Rate 'Shock' Fears; Nvidia Sinks As Anthropic IPO Looms",
-   "excerpt": "The Dow Jones index falls Wednesday as a Fed official calls for a \"shock\" in rate hikes to cool inflation. Nvidia ends lower.",
-   "url": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-ends.html?.tsrc=rss",
-   "published": "2026-11-18T21:48:30+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "금리 인상 충격 우려로 다우 지수와 엔비디아가 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "cd3f73d0c4846add",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dow Drops 561 Points. Nvidia Reverses Rally As Fed Signals More Rate Hikes.",
-   "excerpt": "Wall Street ended mixed Wednesday, with the Dow losing 561 points and Nvidia reversing its post-earnings rally as investors weighed inflation risks and the Federal Reserve's interest rate outlook.",
-   "url": "https://www.ibtimes.com/us-stocks-dow-falls-nvidia-earnings-fed-rate-hikes-3809938?.tsrc=rss",
-   "published": "2026-11-18T21:48:05+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "연준의 금리 인상 신호 속에서 월스트리트가 혼조세로 마감했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "aa162dab6ebc4adf",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why PhillipCapital Stopped Short of a Buy on Airbnb (ABNB)",
-   "excerpt": "We just published a list of the 10 Stocks Analysts Upgraded On Monday and Airbnb (NASDAQ:ABNB) ranked 9th on this list. A broad selloff dragged US stocks lower on November 16, as Reuters reported that the exit of the founder of the world’s most closely watched AI chipmaker as chief executive had soured enthusiasm for […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/why-phillipcapital-stopped-short-buy-214715166.html?.tsrc=rss",
-   "published": "2026-11-18T21:47:15+00:00",
-   "tickers": [
-    "ABNB"
-   ],
-   "summary_ko": [
-    "AI 반도체 기업 최고경영자의 퇴진이 열정을 식게 만들었다고 보도했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "e63547ae5893c576",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto Networks Tops First-Quarter Views, Announces $4.5 Billion Deal to Buy Applied Compute",
-   "excerpt": "Palo Alto Networks (PANW) reported higher-than-expected fiscal first-quarter results late Wednesday,",
-   "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-tops-first-214650243.html?.tsrc=rss",
-   "published": "2026-11-18T21:46:50+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로 알토 네트웍스가 예상치를 웃도는 실적과 인수 계획을 발표했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "135e2b8fa11a848c",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Market Close: Mixed Day For Stocks, Rate Hike Warnings, Nvidia Stock Comeback Fizzles 11-18-2026",
-   "excerpt": "CNBC Business News Update with Peter Schacknow - Markets & Business News With Expert Analysis From Top Business Names. Visit CNBC.com For More. For access to live and exclusive video from CNBC subscribe to CNBC PRO: » Subscribe to CNBC TV: » Subscribe to CNBC: » Watch CNBC on the go with CNBC+: Turn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide. Connect with CNBC News Online Get the latest news: Follow CNBC on LinkedIn: Follow CNBC News on Instagram: Follow CNBC News on Facebook: Follow CNBC on Threads: Follow CNBC News on X: Follow CNBC on WhatsApp: #CNBC #CNBCTV",
-   "url": "https://www.youtube.com/watch?v=uYwrTzHt-NQ",
-   "published": "2026-11-18T21:46:38+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "금리 인상 경고와 엔비디아 주가 반등 실패 등을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e8d6e268149ce8af",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "NIO Inc. (NIO) Suffers a Larger Drop Than the General Market: Key Insights",
-   "excerpt": "NIO Inc. (NIO) concluded the recent trading session at $2.77, signifying a -1.42% move from its prior day's close.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nio-inc-nio-suffers-larger-214502008.html?.tsrc=rss",
-   "published": "2026-11-18T21:45:02+00:00",
-   "tickers": [
-    "NIO"
-   ],
-   "summary_ko": [
-    "니오가 전 거래일 종가 대비 하락 마감했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "9474b5878b782042",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Costco (COST) Declines More Than Market: Some Information for Investors",
-   "excerpt": "Costco (COST) concluded the recent trading session at $1, signifying a -1.21% move from its prior day's close.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-declines-more-market-214502148.html?.tsrc=rss",
-   "published": "2026-11-18T21:45:02+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코가 이전 거래일 종가 대비 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "be940be51e55aea1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "JPMorgan Chase & Co. (JPM) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-   "excerpt": "In the latest trading session, JPMorgan Chase & Co. (JPM) closed at $324.11, marking a -1.77% move from the previous day.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-sees-214502926.html?.tsrc=rss",
-   "published": "2026-11-18T21:45:02+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "제이피모간 체이스가 이전 거래일 대비 하락 마감했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "0e6f1758f833c748",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto to buy Applied Compute for $4.5 billion, while Q1 results beat estimates",
-   "excerpt": "Investing.com -- Palo Alto Networks said on Wednesday it would acquire artificial intelligence infrastructure company Applied Compute for $4.5 billion in an all-stock deal, as the cybersecurity company reported better-than-expected fiscal first-quarter results and raised its full-year revenue and earnings forecasts.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-buy-applied-compute-214334309.html?.tsrc=rss",
-   "published": "2026-11-18T21:43:34+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로알토 네트웍스가 AI 인프라 기업 어플라이드 컴퓨트를 45억 달러의 주식 교환 방식으로 인수한다고 밝혔다.",
-    "1분기 실적이 예상치를 웃돌았으며, 연간 매출과 순이익 전망치도 상향 조정했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "2568cecaa319bd0b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Disney Rises 5% as 10 Analysts Raise Targets on Earnings Beat and $3 Billion Savings Plan",
-   "excerpt": "Key TakeawaysDisney stock jumped 5% today after 10 firms raised their targets to between $130 and $143 on a fiscal fourth-quarter beat and a $3 billion savings plan. The new targets ask for little more than today’s multiple on fiscal 2028 earnings estimates.",
-   "url": "https://www.tikr.com/blog/disney-rises-5-as-10-analysts-raise-targets-on-earnings-beat-and-3-billion-savings-plan?ref=yahoofinance&tlnk=yf-261118-vp29h97r&.tsrc=rss",
-   "published": "2026-11-18T21:43:30+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "summary_ko": [
-    "실적 호조와 비용 절감 계획으로 디즈니 주가가 상승했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d4c4666945413c69",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto beats estimates, raises guidance and makes $4.5B AI bet",
-   "excerpt": "Palo Alto Networks Inc (NASDAQ:PANW, XETRA:5AP) reported first-quarter fiscal 2027 results ahead of Wall Street expectations and raised its full-year guidance, as the cybersecurity company looks to expand its artificial intelligence capabilities through a planned $4.5 billion...",
-   "url": "https://www.proactiveinvestors.com/companies/news/1102051/palo-alto-beats-estimates-raises-guidance-and-makes-4-5b-ai-bet-1102051.html?.tsrc=rss",
-   "published": "2026-11-18T21:42:00+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로 알토 네트웍스가 1분기 예상치를 상회하는 실적을 기록하고 가이던스를 상향했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "bf2636e7911826e0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Forget CoreWeave: Applied Digital Is the Real Loser as “The Bank of Nvidia” Pulls Back",
-   "excerpt": "Key TakeawaysCoreWeave fell 4% today after Nvidia said it would be more selective about which neoclouds it helps finance. CoreWeave’s Polaris Forge 1 lease is 30.",
-   "url": "https://www.tikr.com/blog/forget-coreweave-applied-digital-is-the-real-loser-as-the-bank-of-nvidia-pulls-back?ref=yahoofinance&tlnk=yf-261118-36f5785r&.tsrc=rss",
-   "published": "2026-11-18T21:40:54+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 지원 축소 움직임과 관련 기업들의 동향을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4699bef7343a740c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-   "excerpt": "\"[China knows] it makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-   "url": "https://finance.yahoo.com/technology/articles/palmer-luckey-thinks-china-thrilled-213121175.html?.tsrc=rss",
-   "published": "2026-11-18T21:31:21+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "앤두릴 CEO가 젠슨 황의 복귀를 바란다는 견해를 밝혔다."
    ],
    "tone": "neu"
   }
