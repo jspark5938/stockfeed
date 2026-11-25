@@ -1,6 +1,131 @@
 {
- "updated": "2026-11-25T04:30:29.947048+00:00",
+ "updated": "2026-11-25T05:00:36.711454+00:00",
  "posts": [
+  {
+   "id": "a7f985b72ab302bd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "COHR Stock Swings After Nvidia-Led AI Rally: $15M Insider Buy Draws Attention",
+   "excerpt": "AI stock swings, growing demand for infrastructure keep Coherent in investors' spotlight.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/cohr-stock-swings-after-nvidia-led-ai-rally-15-m-insider-buy-draws-attention/cNbHcl8R9lg?.tsrc=rss",
+   "published": "2026-11-25T04:40:37+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 중심의 AI 랠리 이후 코히어런트 주가가 변동성을 보였다.",
+    "1,500만 달러 규모의 내부자 매수가 투자자들의 주목을 끌었다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "12dc0394f3707b42",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "HOOD, COIN Get Wedbush Outperform Ratings: Here’s What The Firm Sees In Fintech’s Next Growth Phase",
+   "excerpt": "The financial firm also set a price target of $127 for Coinbase, representing a 25% upside from its latest close.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/robinhood-coinbase-circle-block-wedbush-price-targets-fintech-growth/cNbHcXzR9lX?.tsrc=rss",
+   "published": "2026-11-25T04:33:11+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "웨드부시는 HOOD와 COIN에 대해 아웃퍼폼 등급을 부여했다.",
+    "핀테크의 다음 성장 단계에서 기대되는 요인들을 분석했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f4b082a6bc38fc0b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jim Cramer resets Nvidia stock target as Jensen Huang returns as CEO",
+   "excerpt": "Wall Street is missing a crucial valuation detail.",
+   "url": "https://www.thestreet.com/investing/stocks/jim-cramer-nvidia-stock-target-jensen-huang?.tsrc=rss",
+   "published": "2026-11-25T04:33:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황이 CEO로 복귀한 가운데 짐 크레이머가 엔비디아 목표주가를 재설정했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "999cfce0d6a98fe0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CrowdStrike: 3 Key Takeaways for Long-Term Investors",
+   "excerpt": "Falcon Guardian's annual recurring revenue surpassed $100 million in under a year, showing how quickly AI agent protection is becoming a required purchase.",
+   "url": "https://www.fool.com/earnings/takeaways/2026/11/24/crowdstrike-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+   "published": "2026-11-25T04:32:39+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": [
+    "크라우드스트라이크의 장기 투자자를 위한 3가지 핵심 시사점을 다뤘다.",
+    "AI 에이전트 보호의 중요성이 커지고 있음을 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "59978cda4f4c418e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Could Netflix (NFLX) Gain From Owning The Radford Studio Center?",
+   "excerpt": "Netflix (NasdaqGS:NFLX) is in advanced talks to acquire the Radford Studio Center in Los Angeles, according to recent reports. The Radford Studio Center is a long established Hollywood production lot that currently hosts multiple television and film projects. This would be Netflix's first purchase of a full scale studio campus in California, shifting it from tenant to owner operator. The planned Radford Studio Center acquisition is only one piece of the broader story around how Netflix is...",
+   "url": "https://finance.yahoo.com/media-advertising/articles/could-netflix-nflx-gain-owning-042601498.html?.tsrc=rss",
+   "published": "2026-11-25T04:26:01+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "넷플릭스가 래드퍼드 스튜디오 센터 인수 협상을 진행 중이라고 전했다.",
+    "이번 인수가 성사되면 넷플릭스의 첫 캘리포니아 스튜디오 캠퍼스 소유가 된다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "412f8d15c5140dec",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Le Monde details suspected Nvidia chip diversion network through Southeast Asia",
+   "excerpt": "Investing.com -- A network of companies and intermediaries may have helped move restricted Nvidia AI servers through Singapore and Malaysia and potentially into China, according to a new investigation by French newspaper Le Monde.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/le-monde-details-suspected-nvidia-042239633.html?.tsrc=rss",
+   "published": "2026-11-25T04:22:39+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "르몽드는 동남아시아를 경유한 엔비디아 칩 우회 공급망 의혹을 보도했다.",
+    "싱가포르와 말레이시아를 거쳐 중국으로 서버가 이동했을 가능성을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "f7df73073c48eebb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba weighs offshore bond sale next year to fund AI expansion - Bloomberg",
+   "excerpt": "Investing.com-- Alibaba Group (HK:9988) is in preliminary discussions with banks about a potential offshore bond sale next year to finance its expanding artificial intelligence investments, Bloomberg News reported on Wednesday, citing people familiar with the matter.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-weighs-offshore-bond-sale-042159367.html?.tsrc=rss",
+   "published": "2026-11-25T04:21:59+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바가 AI 투자를 위해 내년 해외 채권 발행을 검토 중이라고 보도했다.",
+    "블룸버그를 인용해 은행들과 예비 논의를 진행 중이라고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "34663d26a48658cb",
    "kind": "youtube",
@@ -80379,144 +80504,6 @@
    "summary_ko": [
     "디즈니가 성장을 위한 자금을 마련하기 위해 30억 달러의 비용 절감을 단행했다고 다뤘다.",
     "절감된 자금은 주로 오리지널 프로그램 제작에 재투자될 것이라고 경영진이 밝혔다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "dd293a21a421e58a",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Apple Watch’s Always-Listening AI Features Provide Little Value",
-   "excerpt": "Your Apple Watch is listening. But it’s not always nailing exactly what you said. Natalie Lung gave her watch access to her every day conversations for a week and has thoughts about the usefulness of the function -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Politics: Bloomberg Originals: Watch more on YouTube: Bloomberg Technology: Bloomberg Originals: Bloomberg",
-   "url": "https://www.youtube.com/watch?v=6UzKH01ewrE",
-   "published": "2026-11-18T05:00:14+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "애플워치의 상시 청취 AI 기능이 실제로는 가치 있는 도움을 주지 못한다는 의견을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "bec97fbea320285e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Intel Just Dropped 39% in a Month. Can “Extraordinary Demand” for Its Server Chips Bring It Back?",
-   "excerpt": "Key TakeawaysIntel stock is down 39% in the past month, mostly on a fourth-quarter revenue guide about $1. 6 billion below consensus.",
-   "url": "https://www.tikr.com/blog/intel-just-dropped-39-in-a-month-can-extraordinary-demand-for-its-server-chips-bring-it-back?ref=yahoofinance&tlnk=yf-261118-gq495wf7&.tsrc=rss",
-   "published": "2026-11-18T04:56:49+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔 주가는 최근 한 달간 39% 하락했다고 전했다.",
-    "이는 4분기 매출 전망치가 시장 예상치를 밑돌았기 때문이라고 설명했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "5c966a47fbc0a7e1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Salesforce (CRM) Gets Hammered as Traders Hit Sell Button",
-   "excerpt": "Salesforce Inc. (NYSE:CRM) is one of the 10 Stocks Invetors Are Fleeing. Salesforce fell by 9.45 percent on Tuesday to end at $194.52 apiece, as investor focus shifted to reports of a new round of job cuts, shunning its newly clinched partnership with Microsoft Corp. A report by Business Insider citing internal letters to employees […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-gets-hammered-traders-045611127.html?.tsrc=rss",
-   "published": "2026-11-18T04:56:11+00:00",
-   "tickers": [
-    "MSFT",
-    "CRM"
-   ],
-   "summary_ko": [
-    "세일즈포스가 신규 감원 소식 등으로 트레이더들의 매도세를 맞았다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "906bb74f1b5105f1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Kevin O’Leary Says Nvidia Needs Leader Who Can Manage ‘International Pressure’ as Crypto Punters Raise Odds of NVDA Stock Hitting $180 By Month-End",
-   "excerpt": "Celebrity investor Kevin O’Leary on Tuesday endorsed NVIDIA Corp. (NASDAQ:NVDA) interim CEO Colette Kress as the right leader to guide the chipmaker through its post-Jensen Huang transition. ‘The Company Has a Strong Bench’ O’Leary shared a clip on X from...",
-   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63375714/kevin-o-leary-nvidia-ceo-jensen-huang-nvda-price-prediction-polymarket?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-   "published": "2026-11-18T04:40:40+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "케빈 오리어리는 엔비디아의 임시 CEO인 콜레트 크레스가 리더십을 발휘할 적임자라고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "69580244fe007684",
-   "kind": "youtube",
-   "source": "The Wall Street Journal",
-   "author": "The Wall Street Journal",
-   "title": "Nvidia Earnings: The Chip Company Enters Its Post-Huang Era | WSJ",
-   "excerpt": "WSJ's Asa Fitch breaks down the most recent quarter from Nvidia, which comes only days after longtime CEO and founder Jensen Huang was ousted from the chip company. #wsj #nvidia #jensenhuang",
-   "url": "https://www.youtube.com/watch?v=b1zUvYVXYac",
-   "published": "2026-11-18T04:36:11+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "WSJ은 엔비디아의 최근 실적과 젠슨 황 CEO 퇴임 이후의 국면을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "992b2abf37af0409",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Did ASTS, NFLX, RCAT Stocks Plunge To 52-Week Lows Today?",
-   "excerpt": "Operational challenges and setbacks weighed on investor confidence across space, streaming and defense stocks.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/why-did-asts-nflx-rcat-stocks-plunge-to-52-week-lows-today/cNbXYhRR9hr?.tsrc=rss",
-   "published": "2026-11-18T04:35:16+00:00",
-   "tickers": [
-    "NFLX"
-   ],
-   "summary_ko": [
-    "우주, 스트리밍, 방산 관련 종목들이 운영상 어려움으로 52주 신저가로 떨어졌다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "1e1ccbc8ade5551f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Peter Thiel makes new $161 million ETF bet, dethroning Amazon stock",
-   "excerpt": "The new leader isn’t a single stock.",
-   "url": "https://www.thestreet.com/investing/stocks/peter-thiel-161-million-dollar-ishares-semiconductor-etf?.tsrc=rss",
-   "published": "2026-11-18T04:33:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "피터 틸이 아마존 주식을 제치고 새로운 ETF에 거액을 투자했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c932d4f8e0fd7f32",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Is Joby Aviation (JOBY) Gaining From Its Expanded Air Force Backing?",
-   "excerpt": "Joby Aviation (NYSE:JOBY) announced an expanded U.S. Air Force commitment to advance autonomous flight technology and operational testing. The broadened partnership focuses on autonomy software and military logistics applications for Joby's electric vertical takeoff and landing aircraft. The new agreement adds further U.S. government funding specifically targeted at autonomous flight systems development. The expanded U.S. Air Force backing for Joby's autonomous flight systems is a meaningful...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-joby-gaining-expanded-043122388.html?.tsrc=rss",
-   "published": "2026-11-18T04:31:22+00:00",
-   "tickers": [
-    "JOBY"
-   ],
-   "summary_ko": [
-    "조비 에비에이션은 미 공군과의 파트너십 확대를 통해 자율飞行 기술과 자금을 확보했다고 밝혔다."
    ],
    "tone": "pos"
   }
