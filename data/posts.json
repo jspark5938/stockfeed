@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-25T01:30:30.546317+00:00",
+ "updated": "2026-11-25T01:36:17.431363+00:00",
  "posts": [
+  {
+   "id": "e28e6aaf67d7f0f7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Nvidia's rebound may not mean the S&P 500 has bottomed",
+   "excerpt": "Fundstrat technical strategist Mark Newton sees opportunity in beaten-down technology stocks but wants broader evidence before declaring a market bottom.",
+   "url": "https://www.thestreet.com/investing/why-nvidias-rebound-may-not-mean-the-sp-500-has-bottomed?.tsrc=rss",
+   "published": "2026-11-25T01:23:10+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "펀드스트랫의 마크 뉴턴은 하락한 기술주에서 기회를 보았다고 밝혔다.",
+    "다만 시장 바닥을 선언하기 전에 더 광범위한 증거가 필요하다고 주장했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "5e2c5cf11e1483f0",
    "kind": "news",
@@ -80907,24 +80925,6 @@
    "summary_ko": [
     "팟캐스트 출연진이 엔비디아 실적과 젠슨 황 퇴임 여파를 논의했다.",
     "반도체주 매도세가 매수 기회인지 여부와 리스크를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "704bc496c00de05d",
-   "kind": "youtube",
-   "source": "Fox Business",
-   "author": "Fox Business",
-   "title": "The market is ROTATING: Citi head of US equity strategy",
-   "excerpt": "Citi head of U.S. equity strategy Scott Chronert joins ‘Making Money’ to analyze the S&P 500 outlook, Nvidia's upcoming earnings and sustained AI capital spending. #fox #foxbusiness #media #breakingnews #us #usa #new #news #breaking #makingmoney #charlespayne #scottchronert #chronert #citi #citigroup #nvidia #nvda #stockmarket #stocks #wallstreet #investing #markets #marketrotation #sp500 #nasdaq #earnings #artificialintelligence #ai #technology #semiconductors #techstocks #capitalspending #economy #finance #retailsales #markettrends #investors #bigtech Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall St",
-   "url": "https://www.youtube.com/watch?v=1QBuzS-0Nvs",
-   "published": "2026-11-18T01:30:34+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "씨티의 미국 주식 전략 책임자가 S&P 500 전망을 분석했다.",
-    "엔비디아의 다가오는 실적과 지속적인 AI 자본 지출을 다뤘다."
    ],
    "tone": "neu"
   }
