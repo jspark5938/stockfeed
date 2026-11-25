@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-25T07:30:31.252875+00:00",
+ "updated": "2026-11-25T08:00:36.356766+00:00",
  "posts": [
+  {
+   "id": "f2b0ca5c5fced49f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet Has $251 Billion Invested In 2 of Its Biggest Artificial Intelligence Partners",
+   "excerpt": "Alphabet's successful investments leave it with substantial equity value on its balance sheet.",
+   "url": "https://www.fool.com/investing/2026/11/25/alphabet-has-251-billion-invested-in-2-of-its-biggest-artificial-intelligence-partners/?.tsrc=rss",
+   "published": "2026-11-25T07:29:02+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "Alphabet이 인공지능 파트너들에 막대한 금액을 투자했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "a846e5e1d31c6304",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Joby Aviation Stock After Dubai Air Taxi Route Launch Plans",
+   "excerpt": "Joby Aviation has been selected to operate commercial electric air taxi services on what is described as the world’s first permanent vertiport-to-vertiport eVTOL route between the certified Dubai Marina Vertiport and Dubai International Airport, with operations subject to further approvals. This Dubai route positions Joby Aviation as an early operating partner for a built-out urban vertiport network. It gives the business real-world data on passenger demand, infrastructure usage, and...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-stock-dubai-air-071141518.html?.tsrc=rss",
+   "published": "2026-11-25T07:11:41+00:00",
+   "tickers": [
+    "JOBY"
+   ],
+   "summary_ko": [
+    "Joby Aviation이 두바이에서 상업용 전기 에어택시 운항 노선 계획에 선정되었다고 전했다.",
+    "이를 통해 실제 승객 수요와 인프라 사용 등에 대한 데이터를 확보하게 된다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b5d79bcf8918781b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SK hynix (NasdaqGS:SKHY) Sell Off Puts Undervalued Narrative Back In Focus",
+   "excerpt": "SK hynix (NasdaqGS:SKHY) is back in focus after Nvidia’s board reversed course and reinstated Jensen Huang as CEO, a decision that sparked sharp moves across AI linked memory suppliers. SK hynix has been pulled into the broader AI sell off, with the share price down 9.90% over the last day and 18.27% over 30 days. This has contributed to a 33.35% year to date share price decline that signals fading momentum despite recent rallies around buyback plans and Nvidia linked headlines. Spot...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-nasdaqgs-skhy-sell-070941477.html?.tsrc=rss",
+   "published": "2026-11-25T07:09:41+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "최근 AI 관련 매도세로 인해 SK하이닉스의 주가가 하락했다고 다뤘다.",
+    "이로 인해 저평가 서사가 다시 주목받고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "37ce7e73c1ab0f33",
    "kind": "news",
@@ -15,6 +68,24 @@
    ],
    "summary_ko": [
     "팔란티어 테크놀로지스의 주가 상승이 실제 현금 흐름으로 뒷받침될 수 있는지에 대한 의문을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "25ad4b21394992eb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Snowflake (SNOW) Stock Looks Rich Relative To Future Cash Flow",
+   "excerpt": "Snowflake has delivered a 58.0% gain over the past three years, even as more recent returns have been choppy, and that kind of result naturally raises the question of whether the current share price still lines up with the cash the business is expected to generate. With investors now weighing fresh AI partnerships and product updates, the focus turns to what those developments really mean for Snowflake's long term cash flows rather than just its headline growth story. The 58.0% return over...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-looks-rich-070844186.html?.tsrc=rss",
+   "published": "2026-11-25T07:08:44+00:00",
+   "tickers": [
+    "SNOW"
+   ],
+   "summary_ko": [
+    "Snowflake 주가가 향후 창출할 것으로 예상되는 현금 흐름에 비해 높게 평가되어 보인다고 다뤘다.",
+    "새로운 AI 파트너십과 제품 업데이트가 장기적 현금 흐름에 미칠 영향에 초점이 맞춰지고 있다고 전했다."
    ],
    "tone": "neu"
   },
@@ -108,6 +179,24 @@
     "그럼에도 주가는 여전히 하락할 수 있다고 언급했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "2d5c2c34e5a4e6cd",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘Disastrous' for ASML: Dutch Lawmakers Revolt Against US Push to Tighten China Chip Curbs",
+   "excerpt": "Dutch lawmakers are urging the government to resist a proposed U.S. crackdown on China’s semiconductor industry, warning that tougher export restrictions could hurt ASML Holding’s (NASDAQ:ASML) business and threaten the Dutch economy. Dutch Lawmakers Push Back Against US MATCH Act The opposition comes as U.S. lawmakers consider attaching the bipartisan Multilateral Alignment of Technology Controls on Hardware (MATCH) Act to the annual National Defense Authorization Act before Congress concludes",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/disastrous-asml-dutch-lawmakers-revolt-064230741.html?.tsrc=rss",
+   "published": "2026-11-25T06:42:30+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "summary_ko": [
+    "네덜란드 의원들이 미국의 대중국 반도체 수출 규제 강화를 거부할 것을 정부에 촉구했다고 다뤘다.",
+    "더 강력한 규제가 ASML의 사업과 네덜란드 경제에 타격을 줄 수 있다고 경고했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "8289e668fac0a8bd",
@@ -281,6 +370,23 @@
    ],
    "summary_ko": [
     "코스토코의 주가 상승으로 인해 향후 주식 분할 가능성에 대한 투자자들의 궁금증을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ce60073480ee4ce7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Backed by Samsung, SK Hynix, and the Korean government, Rebellions CEO Sunghyun Park wants to prove sovereign AI pays off",
+   "excerpt": "The startup is part of a wave of challengers targeting Nvidia—focusing not on training AI models, but running them cheaply.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/backed-samsung-sk-hynix-korean-050100443.html?.tsrc=rss",
+   "published": "2026-11-25T05:01:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "스타트업 리벨리온이 모델 학습이 아닌 저렴한 구동에 초점을 맞춰 엔비디아에 대응하고 있다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -80226,40 +80332,6 @@
    ],
    "summary_ko": [
     "엔비디아가 황의 복귀 가능성을 일축하면서 실적 전망을 상향했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c6f9b0607d62c73c",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Trump Heads to China for Xi, Putin Summit",
-   "excerpt": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins. Global stocks failed to mount a meaningful rebound as the initial boost from Nvidia’s better-than-expected sales forecast faded, signaling lingering doubts over the artificial intelligence trade. Chinese President Xi Jinping warned against economic barriers and urged closer cooperation among Asia-Pacific nations ahead of talks with US President Donald Trump, as new US restrictions on China’s access to advanced AI chips strain a fragile trade truce. And Anthropic is guiding prospective investors in its ini",
-   "url": "https://www.youtube.com/watch?v=EKrTHfJKJgQ",
-   "published": "2026-11-18T07:47:47+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 실적 전망 호조에 따른 초기 상승세가 둔화되면서 글로벌 증시는 의미 있는 반등에 실패했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5708e422fea7f228",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Can Nvidia Maintain Its Washington Influence Without Jensen Huang? Colette Kress Dismisses ‘Blue Wave’ Fears",
-   "excerpt": "Nvidia Corp. (NASDAQ:NVDA) is facing questions about its political influence following Jensen Huang’s departure, but interim CEO Colette Kress remains confident that surging AI demand will extend beyond 2027 despite growing regulatory and infrastructure concerns. Nvidia Sees AI Demand Extending Into 2028 Speaking during Nvidia’s third-quarter earnings call on Tuesday, Kress pushed back against concerns that a Democratic wave in the 2026 midterm elections could slow AI infrastructure spending in",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-maintain-washington-influence-without-073310102.html?.tsrc=rss",
-   "published": "2026-11-18T07:33:10+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 정치적 영향력 우려에 직면한 가운데, AI 수요가 지속될 것이라는 경영진의 발언을 다뤘다."
    ],
    "tone": "pos"
   }
