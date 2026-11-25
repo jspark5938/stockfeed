@@ -1,13 +1,239 @@
 {
- "updated": "2026-11-25T17:00:40.251732+00:00",
+ "updated": "2026-11-25T17:30:32.497776+00:00",
  "posts": [
+  {
+   "id": "789ac020f89b9388",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Open Interest 11/25/2026",
+   "excerpt": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Another brutal day for the AI trade. The Nasdaq 100 enters bear-market territory as the global tech rout deepens. President Trump rebuilds his tariff wall, targeting China, Europe and other major trading partners. And Treasuries rally as fresh inflation data keeps a December Fed hike in play. White House economic adviser Kevin Hassett joins Bloomberg Open Interest on what he calls a “goldilocks” economy, rates and the road ahead. Chapters: 00:00:00 - Open Interest 00:01:43 - Dell Earnings, AI Demand, Nvidia's Return & Export Control Risks 00:05:17 - New China Tariffs, Trade Talks & Trump's Economic Strategy 00:08:43 - PCE Inflation, Treasury Haven Flows & Fed Hike Expectations 00:13:09 - High Interest | N",
+   "url": "https://www.youtube.com/watch?v=tRsc5cYj_WE",
+   "published": "2026-11-25T17:18:39+00:00",
+   "tickers": [
+    "NVDA",
+    "DELL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "0bfe794b0f5ed5d1",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Daily Trader: Wednesday's Data Dump & Volatility",
+   "excerpt": "Kevin Hincks dissects the important economic data prints stuffed into a holiday-shortened trading week seeing a significant spike in volatility. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #trade #trader #markets #stocks #stockmarket #marketnews #dailytrade #economy #inflation #dollar #fed #rates #jobs #schwabnetwork",
+   "url": "https://www.youtube.com/watch?v=7TBDiPBM9uU",
+   "published": "2026-11-25T17:15:21+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "fd482245e7c468b7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ASML Sinks 6% in Chip Rout as Dutch Lawmaker Warns MATCH Act Is “Disastrous for ASML”",
+   "excerpt": "Key TakeawaysASML fell 6% today, along with Applied Materials, Lam Research and KLA, as Dutch lawmakers warned against a US bill aimed at its China sales. The MATCH Act would push the Netherlands to tighten curbs on ASML’s immersion DUV tools or face US restrictions.",
+   "url": "https://www.tikr.com/blog/asml-sinks-6-in-chip-rout-as-dutch-lawmaker-warns-match-act-is-disastrous-for-asml?ref=yahoofinance&tlnk=yf-261125-c48vq838&.tsrc=rss",
+   "published": "2026-11-25T17:11:16+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "1ee172abb3147c2a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is NVIDIA (NVDA) Cheap After Jensen Huang’s Return Calmed Leadership Fears?",
+   "excerpt": "Leadership shock, market whiplash NVIDIA (NVDA) has just gone through one of the sharpest leadership U turns investors will ever see. Jensen Huang resigned, then was unanimously reinstated as CEO, President and director after U.S. officials said his return posed no national security risk. The reinstatement drama has played out against a brutal year for NVIDIA’s shareholders. The stock is now at US$155.38, with a 1 day share price return that declined 5.86% and a 30 day share price return that...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-cheap-jensen-huang-171040296.html?.tsrc=rss",
+   "published": "2026-11-25T17:10:40+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "a4559655410d5c6f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Mizuho Calls Rocket Lab’s Business Model “Among Our Favorites.” It Still Sees 6% Downside",
+   "excerpt": "Key TakeawaysMizuho initiated coverage of Rocket Lab with an Underperform rating and a $40 price target, 6% below the stock’s price. Mizuho likes Rocket Lab’s business but argues that its valuation already prices in much of its growth.",
+   "url": "https://www.tikr.com/blog/mizuho-calls-rocket-labs-business-model-among-our-favorites-it-still-sees-6-downside?ref=yahoofinance&tlnk=yf-261125-4ffhq3f5&.tsrc=rss",
+   "published": "2026-11-25T17:05:19+00:00",
+   "tickers": [
+    "RKLB"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "1f20f1ce9a5bca70",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Mohamed El-Erian Is Buying The Tech Dip ‘Very Slowly,’ Says Nvidia Is ‘Too Big to Wobble’",
+   "excerpt": "In an interview with CNBC, the economist said he believes the tech selloff could create a long-term buying opportunity, though rising credit stress and deteriorating market technicals could prolong volatility.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/mohamed-el-erian-is-buying-the-tech-dip-very-slowly-says-nvidia-is-too-big-to-wobble/cNbHNilR9mp?.tsrc=rss",
+   "published": "2026-11-25T17:04:48+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "ea77620d5de6738b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Billionaire Stephen Mandel’s Lone Pine Raised Its Alphabet Stake 901% to $743 Million",
+   "excerpt": "Lone Pine bet big on Alphabet while the stock slid and free cash flow turned negative. Cloud numbers may explain the conviction, but the AI spending bill lands on shareholders first, and retirement investors should see why.",
+   "url": "https://247wallst.com/investing/2026/11/25/billionaire-stephen-mandels-lone-pine-raised-its-alphabet-stake-901-to-743-million/?.tsrc=rss",
+   "published": "2026-11-25T17:04:15+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "93173a974950bef0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "This Is Why I Wouldn’t Ignore This Stock Heading Into 2027",
+   "excerpt": "Broadcom stock just got hit hard even as the world's top AI labs line up for its custom chips. Analysts see a huge rebound ahead, but the path there demands one bold move, and the risks are real.",
+   "url": "https://247wallst.com/investing/2026/11/25/this-is-why-i-wouldnt-ignore-this-stock-heading-into-2027/?.tsrc=rss",
+   "published": "2026-11-25T17:03:04+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "b2d7a8f6c35ea0da",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again",
+   "excerpt": "Nvidia, AMD Shares Sink as Wall Street's AI Rally Loses Steam",
+   "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-extend-brutal-170236621.html?.tsrc=rss",
+   "published": "2026-11-25T17:02:36+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD",
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "170007153b81f1c8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Netflix Stock in Focus After $380 Million Radford Studio Center Purchase",
+   "excerpt": "Netflix lands a Los Angeles studio for a fraction of what the last owner paid",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-focus-380-million-170053613.html?.tsrc=rss",
+   "published": "2026-11-25T17:00:53+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "06d7f9a63176eb81",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "The Big Picture: Tracking Sector, Small-Cap, Treasury Technicals",
+   "excerpt": "Rachel Dashiell dissects this week's market performance with technical insights. She notes that 7 of the 11 S&P 500 (SPX) sectors moved into a \"weakening\" position. She also looks at potential bearish signs in the 10-year Treasury yield Moving Average Convergence Divergence (MACD). Rachel then looks at the small-cap Russell 2000 (RUT) breaking below a \"neck line\" at $2720. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #markets #stocks #investing #trades #trading #economy #stockmarket #marketnews #stockmarketne",
+   "url": "https://www.youtube.com/watch?v=VvRliDsbX_c",
+   "published": "2026-11-25T17:00:11+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "2ed0ca3caab4925e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Last year Trump called Walmart’s $40 Thanksgiving deal proof prices were fine. Now it’s $35 — what’s really going on?",
+   "excerpt": "Turkey prices are up 12% to an all-time high, yet retailers are betting they can come out ahead.",
+   "url": "https://finance.yahoo.com/economy/articles/last-trump-called-walmart-40-170000360.html?.tsrc=rss",
+   "published": "2026-11-25T17:00:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "4f077d596e400a62",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Adobe $47.5 Billion in Online Spend Expected Over Black Friday + Cyber Monday",
+   "excerpt": "How strong will online shopping demand be during the critical holiday shopping season? In this NYSE Live interview, Vivek Pandya, Director of Digital Insights at Adobe (NASDAQ: ADBE), discusses Adobe's latest holiday shopping forecast, consumer spending trends, discount expectations, and the growing role of artificial intelligence in e-commerce. Ashley Mastronardi spoke with Pandya about Cyber Week spending, Black Friday and Cyber Monday trends, online shopping behavior, retailer promotions, and how AI is reshaping the customer journey. A major theme throughout the conversation is holiday spending strength. According to Adobe's latest analysis, Cyber Week is expected to generate approximately $47.5 billion in online spending, representing a significant increase from the prior year. The int",
+   "url": "https://finance.yahoo.com/video/adobe-47-5-billion-online-165804671.html?.tsrc=rss",
+   "published": "2026-11-25T16:58:04+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "623ccceb12ec01be",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Snowflake CMO NYSE Setting is 'Huge Inspiration' for Startup Campaign Finalists",
+   "excerpt": "How are startups using trusted data and artificial intelligence to solve real-world business problems? In this NYSE Live interview, Denise Persson, Chief Marketing Officer of Snowflake (NYSE: SNOW), discusses the company's Startup Challenge, the importance of trusted data in AI applications, and how artificial intelligence is transforming marketing, business operations, and innovation. Ashley Mastronardi spoke with Persson following Snowflake's Startup Challenge celebration at the New York Stock Exchange, where finalists showcased applications built on the company's AI Data Cloud platform. A major theme throughout the conversation is innovation. Snowflake's Startup Challenge highlights emerging companies that are leveraging data and artificial intelligence to address complex business chall",
+   "url": "https://finance.yahoo.com/video/snowflake-cmo-nyse-setting-huge-165804297.html?.tsrc=rss",
+   "published": "2026-11-25T16:58:04+00:00",
+   "tickers": [
+    "SNOW"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
   {
    "id": "d968a977d69481b7",
    "kind": "news",
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
    "title": "Oklo and NuScale Power Retreat 8% as AI Power Selloff Deepens; Energy Fuels Drops 6%",
-   "excerpt": "The selloff in artificial intelligence (AI) stocks is spreading to nuclear names whose bull case depends on future data center power demand. Oklo (NYSE:OKLO) stock is at $17.60, down 8% as the morning session wears on. The advanced nuclear developer doesn’t have revenue yet and is building its business around the Aurora powerhouse, a small […]",
+   "excerpt": "Nuclear stocks that rode the AI power boom are now bleeding, and hot inflation and fresh tariffs are only part of the story. Why do three nuclear names fall by different amounts when the same selloff hits them?",
    "url": "https://247wallst.com/investing/2026/11/25/oklo-and-nuscale-power-retreat-8-as-ai-power-selloff-deepens-energy-fuels-drops-6/?.tsrc=rss",
    "published": "2026-11-25T16:57:02+00:00",
    "tickers": [
@@ -23,7 +249,7 @@
    "source": "Yahoo Finance",
    "author": "Yahoo Finance",
    "title": "Nebius Plunges 12%, Oracle Sinks 8% as AI Cloud Selloff Deepens; IBM Rises 2%: Is IBM a Safer AI Play?",
-   "excerpt": "The AI cloud trade is coming apart fastest for the companies borrowing the most to build it. Nebius Group (NASDAQ:NBIS) stock is falling $76.56 in morning trading, down 12%. That drop extends a hard run, and Nebius stock is down 52% over the past month. Oracle (NYSE:ORCL) stock is slipping alongside Nebius as the biggest […]",
+   "excerpt": "While debt-fueled GPU builders get hammered, one century-old tech name is quietly holding its ground. What separates the AI spenders bleeding cash from the company investors are suddenly buying, and does that edge hold up?",
    "url": "https://247wallst.com/investing/2026/11/25/nebius-plunges-12-oracle-sinks-8-as-ai-cloud-selloff-deepens-ibm-rises-2-is-ibm-a-safer-ai-play/?.tsrc=rss",
    "published": "2026-11-25T16:56:01+00:00",
    "tickers": [
@@ -32,6 +258,21 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 1
+  },
+  {
+   "id": "a9b087e7ff4e0e1f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "104% Upside for Broadcom? Bernstein Thinks So, and Here’s How",
+   "excerpt": "Key TakeawaysBernstein kept its Outperform rating and $575 target on Broadcom on Nov. 23, 104% above the stock’s price after a 41% fall from its June high.",
+   "url": "https://www.tikr.com/blog/104-upside-for-broadcom-bernstein-thinks-so-and-heres-how?ref=yahoofinance&tlnk=yf-261125-w78gc9qw&.tsrc=rss",
+   "published": "2026-11-25T16:55:49+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "7e3a64e67935d0d6",
@@ -49,6 +290,68 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 1
+  },
+  {
+   "id": "5e7501c90a80a9a6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cathie Wood Just Bought $17 Million of Alphabet Across 2 ARK Funds",
+   "excerpt": "Key TakeawaysCathie Wood’s ARK Invest bought 62,681 Alphabet (GOOG) shares across two of its ETFs on Tuesday, worth about $17 million at Tuesday’s close. The buy comes with Alphabet 32% below its 52-week high and trading at 20x forward earnings, under its five-year average of 22x.",
+   "url": "https://www.tikr.com/blog/cathie-wood-ark-invest-buys-alphabet-stock-17-million?ref=yahoofinance&tlnk=yf-261125-vg34rx7r&.tsrc=rss",
+   "published": "2026-11-25T16:51:44+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "1c26ccccd906f480",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Robinhood Is Down 56% From Its High. Wall Street Still Sees $126",
+   "excerpt": "Key TakeawaysWedbush initiated coverage of Robinhood at Outperform with an $80 price target on Nov. 24, the same day it started Coinbase at Outperform.",
+   "url": "https://www.tikr.com/blog/robinhood-is-down-56-from-its-high-wall-street-still-sees-126?ref=yahoofinance&tlnk=yf-261125-jg5prpv5&.tsrc=rss",
+   "published": "2026-11-25T16:51:27+00:00",
+   "tickers": [
+    "COIN",
+    "HOOD"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "7a415fc99bbe8168",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oracle Is Down 60% From Its June High. J.P. Morgan Still Sees $200",
+   "excerpt": "Key TakeawaysJ. P. Morgan reiterated its Buy rating and $200 price target on Oracle on Nov.",
+   "url": "https://www.tikr.com/blog/oracle-is-down-60-from-its-june-high-j-p-morgan-still-sees-200?ref=yahoofinance&tlnk=yf-261125-q6w2wj6x&.tsrc=rss",
+   "published": "2026-11-25T16:50:56+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
+   "id": "fe28519af0c8a296",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bernstein’s $250 Target Says DoorDash’s Selloff Went Too Far",
+   "excerpt": "Key TakeawaysDoorDash stock is 31% below its August high after Amazon gave Prime members free Uber Eats delivery and the Justice Department reportedly moved to review DoorDash’s Instacart deal. Bernstein cut its DoorDash target to $250 from $270 and kept its Outperform rating, a target 53% above the stock.",
+   "url": "https://www.tikr.com/blog/bernsteins-250-target-says-doordashs-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261125-vv699fp3&.tsrc=rss",
+   "published": "2026-11-25T16:49:56+00:00",
+   "tickers": [
+    "AMZN",
+    "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "f5ded0fb7a32e5da",
@@ -96,7 +399,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "174aedcdd89eaada",
@@ -112,7 +415,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "13df26ca4716e954",
@@ -413,6 +716,22 @@
    "tone": null
   },
   {
+   "id": "358c0d054ab78672",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Zacks.com featured highlights include NVIDIA, Arrow Electronics, Super Micro Computer, BP and Ingram Micro",
+   "excerpt": "As NVIDIA reignites Wall Street's rally, Arrow Electronics, Super Micro Computer, BP and Ingram Micro stand out as PEG-based value stocks with growth potential.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-nvidia-162000475.html?.tsrc=rss",
+   "published": "2026-11-25T16:20:00+00:00",
+   "tickers": [
+    "NVDA",
+    "SMCI"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "e01856fa07516509",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -428,6 +747,21 @@
     "앤스로픽이 공모가를 밑돌았고 AMD는 주식 재판매 신고서 제출로 하락했다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "624015ddf8bee1b9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SK hynix vs Micron: Which AI Memory Player Has the Edge?",
+   "excerpt": "SKHY and MU rides on the AI-driven memory boom, but long-term customer agreements, earnings visibility and HBM expansion could give one an edge.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-vs-micron-ai-161700194.html?.tsrc=rss",
+   "published": "2026-11-25T16:17:00+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "c28eee52c1faab40",
@@ -481,6 +815,21 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 1
+  },
+  {
+   "id": "d41b7b96ed46e4a5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "UnitedHealth vs. Clover Health: Which Stock Offers Better Growth?",
+   "excerpt": "CLOV's faster growth, rising Medicare Advantage membership and AI-driven care model give it an edge over UNH.",
+   "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-vs-clover-health-stock-161200722.html?.tsrc=rss",
+   "published": "2026-11-25T16:12:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "f31f8ea14a7b6eaa",
@@ -597,6 +946,21 @@
    "summary_tries": 1
   },
   {
+   "id": "93f5bf6d9d58b6bf",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is UBER's Expansion in Auto Parts Delivery Business a Growth Catalyst?",
+   "excerpt": "UBER's partnership with AutoParts.com expands its delivery ecosystem, unlocking new revenue opportunities and strengthening its long-term growth prospects.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ubers-expansion-auto-parts-delivery-160300266.html?.tsrc=rss",
+   "published": "2026-11-25T16:03:00+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "da6d553ea79f40b3",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -708,6 +1072,21 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 1
+  },
+  {
+   "id": "9d7002d1c4ade174",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Can PINS's New Microsoft Advertising Deal Boost Its Competitive Edge?",
+   "excerpt": "Pinterest's Microsoft partnership expands advertising access, leveraging AI and commercial-intent searches to attract brands and boost monetization.",
+   "url": "https://finance.yahoo.com/media-advertising/articles/pinss-microsoft-advertising-deal-boost-155900901.html?.tsrc=rss",
+   "published": "2026-11-25T15:59:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "18309717ce236c2c",
@@ -77664,427 +78043,6 @@
    ],
    "summary_ko": [
     "오픈AI CEO 샘 알트먼이 젠슨 황의 사임으로 AI 업계를 상상하기 어렵다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6f836a4ee4915eaf",
-   "kind": "youtube",
-   "source": "Humphrey Yang",
-   "author": "Humphrey Yang",
-   "title": "When Is The Costco Executive Membership Worth It? Here's The Math",
-   "excerpt": "🏦 My Favorite High Yield Savings Accounts: ➡️ Sign up for Vanguard Brokerage Account: 🌟 Free Templates and Resources: 👾 Join the free Discord Community: 🐪 Hump Days Newsletter ➭ WHO AM I? Hello 👋 I’m Humphrey, I used to be a financial advisor, worked in gaming/tech, and started my own eCommerce business. I make practical, rational content on investing, personal finance, the news, and much more with a data-backed approach. My goal is to help you with financial literacy and creating wealth. PS: I am no longer a current Financial Advisor, any investment commentary are my opinions only. Some of the links in this description are affiliate links that I do receive a commission for & they help support the channel! SOCIALS: * Second Channel: * Instagram: * Twitter: * TikTok: * Spotify: ⏱️ Timestamp",
-   "url": "https://www.youtube.com/watch?v=Ez3NnwgA7d8",
-   "published": "2026-11-18T17:30:18+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코 이그제큐티브 멤버십의 가치를 분석하는 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "cdb172855f472c4f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Elizabeth Warren Targets CVS, UnitedHealth and Cigna, Says Healthcare Giants ‘Take a Cut at Every Step’ as She Calls for Breaking Up Conglomerates",
-   "excerpt": "Sen. Elizabeth Warren (D-Mass.) called for breaking up major healthcare conglomerates, saying CVS Health Corp, UnitedHealth Group Inc. and The Cigna Group \"take a cut at every step.\" Warren made the remarks in an X post on Monday, asking what...",
-   "url": "https://finance.yahoo.com/healthcare/articles/elizabeth-warren-targets-cvs-unitedhealth-173005376.html?.tsrc=rss",
-   "published": "2026-11-18T17:30:05+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "summary_ko": [
-    "엘리자베스 워런 상원의원이 대형 헬스케어 기업들의 분할을 촉구했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "5267a84382015c7f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Market Midday, Nov. 18: Nvidia Doubles Revenue, but Wall Street's Sell-Off Continues",
-   "excerpt": "Another round of impressive corporate earnings is doing little to reverse Wall Street's recent slide, as investors grapple with elevated valuations, mounting interest rate concerns, and growing uncertainty surrounding the AI boom.",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-midday-nov-18-nvidia-doubles-revenue-but-wall-street-s-sell-off-continues/?.tsrc=rss",
-   "published": "2026-11-18T17:30:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 매출을 두 배로 늘렸음에도 불구하고 밸류에이션 우려와 금리 불확실성 등으로 월가의 하락세가 지속되었다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "860e293b9c0f535f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Amazon and Alphabet Will Own Over 28% of Anthropic After Its IPO. Here’s What That Means for Their Stocks.",
-   "excerpt": "Amazon and Alphabet are heavily invested in Anthropic's future, not just its stock.",
-   "url": "https://www.fool.com/investing/2026/11/18/amazon-and-alphabet-will-own-28-percent-of-anthropic-after-ipo/?.tsrc=rss",
-   "published": "2026-11-18T17:30:02+00:00",
-   "tickers": [
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존과 알파벳이 앤트로픽 IPO 이후 상당한 지분을 소유하게 되며 이것이 주가에 미칠 의미를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a64c93c459a8308d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia shares turn lower despite record revenue as leadership uncertainty weighs",
-   "excerpt": "Nvidia Corp (NASDAQ:NVDA, XETRA:NVD) shares fell over 2% to $152.16 in mid-afternoon trading on Wednesday, November 18, reversing an earlier rally as investors focused on leadership uncertainty and regulatory scrutiny despite stronger-than-expected earnings. The stock had climbed as high as...",
-   "url": "https://www.proactiveinvestors.com/companies/news/1102036/nvidia-shares-turn-lower-despite-record-revenue-as-leadership-uncertainty-weighs-1102036.html?.tsrc=rss",
-   "published": "2026-11-18T17:30:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 예상을 뛰어넘는 실적을 기록했음에도 불구하고 리더십 불확실성과 규제 우려로 주가가 하락했다고 밝혔다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "9ddaaf704b36753e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia’s Supply Commitments Hit $390 Billion, Mostly Memory. SK Hynix Is the Real Winner",
-   "excerpt": "Key TakeawaysNvidia’s supply commitments rose to $390 billion from $279 billion in its fiscal third quarter, mostly for memory it’s buying over several years. SK hynix gets more of Nvidia’s memory spending than any other supplier, and Nvidia is already its biggest customer.",
-   "url": "https://www.tikr.com/blog/nvidias-supply-commitments-hit-390-billion-mostly-memory-sk-hynix-is-the-real-winner?ref=yahoofinance&tlnk=yf-261118-8qxfgxwp&.tsrc=rss",
-   "published": "2026-11-18T17:29:59+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 공급 약정이 증가한 가운데 메모리 지출의 상당 부분이 SK하이닉스로 향하고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "2d46fecfc551bd3c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "RiverMeadow Announces Support for Azure Local RackScale",
-   "excerpt": "RiverMeadow today announced support for Azure Local RackScale, extending its Workload Mobility Platform to Microsoft's multi-rack deployment model for Azure Local.",
-   "url": "https://finance.yahoo.com/technology/articles/rivermeadow-announces-support-azure-local-172600621.html?.tsrc=rss",
-   "published": "2026-11-18T17:26:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "리버메도우는 애저 로컬 랙스케일에 대한 지원을 발표했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "9c36754e3204dabc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia’s CEO Calls Customer Shifts “Just Not True.” Broadcom and AMD’s Frontier Deal Share Says Otherwise",
-   "excerpt": "Key TakeawaysNvidia interim CEO Colette Kress said the idea that its customers are shifting is “just not true,” after a $115. 8 billion quarter.",
-   "url": "https://www.tikr.com/blog/nvidias-ceo-calls-customer-shifts-just-not-true-broadcom-and-amds-frontier-deal-share-says-otherwise?ref=yahoofinance&tlnk=yf-261118-mm4558vf&.tsrc=rss",
-   "published": "2026-11-18T17:23:30+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "엔비디아 측은 고객사 변화 주장이 사실이 아니라고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f280c7d798af99bc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang Can Still Nominate Two Directors to Nvidia’s Board",
-   "excerpt": "Jensen Huang walked away from the CEO job and the boardroom, yet a little-noticed bylaw still lets him shape who sits there. The catch is a three-year ownership test, a hard cap, and a calendar that matters.",
-   "url": "https://247wallst.com/investing/2026/11/18/jensen-huang-can-still-nominate-two-directors-to-nvidias-board/?.tsrc=rss",
-   "published": "2026-11-18T17:22:21+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황이 이사 지명권을 행사할 수 있는 규정에 대해 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "54e4a8075df22076",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stocks Fall as Nvidia's Earnings Rally Sputters",
-   "excerpt": "Wall Street saw renewed volatility as Nvidia Corp.'s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade. John Mowrey, CIO at NFJ Investment Group, brings us into the market open and talks about what Nvidia and Anthropic mean for the AI trade and value investing.",
-   "url": "https://finance.yahoo.com/video/stocks-fall-nvidias-earnings-rally-172055068.html?.tsrc=rss",
-   "published": "2026-11-18T17:20:55+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 실적 이후 랠리가 약화되면서 증시 변동성이 커졌다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "a8a4f2c3312421da",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Oracle Warns Memory Shortages Could Constrain AI Infrastructure for Years",
-   "excerpt": "Oracle (NYSE:ORCL) expects memory capacity to remain a critical constraint on the expansion of artificial intelligence infrastructure for the next several years, CEO Clay Magouyrk told shareholders at the company’s annual meeting. Shareholders also elected all 13 director nominees, approved an advi",
-   "url": "https://www.marketbeat.com/instant-alerts/event-oracle-warns-memory-shortages-could-constrain-ai-infrastructure-for-years-2026-11-18/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-   "published": "2026-11-18T17:17:24+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "summary_ko": [
-    "오라클은 메모리 부족이 AI 인프라 확장을 제한할 수 있다고 경고했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "31d2ad8c0b5a4d78",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "NVDA Stock Set For Fifth Day Lower: House Committee Goes Steps Up Nvidia Investigation, Asks Kress To Testify",
-   "excerpt": "The House of Representatives Energy and Commerce Committee has sent a letter to Nvidia interim CEO Colette Kress.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-set-for-fifth-day-lower-house-committee-goes-steps-up-nvidia-investigation-asks-kress-to-testify/cNbg7AjR9LD?.tsrc=rss",
-   "published": "2026-11-18T17:17:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미 하원 위원회가 엔비디아에 서한을 보내고 조사를 진행 중이라고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "11ca0acc2aa3698e",
-   "kind": "youtube",
-   "source": "Fox Business",
-   "author": "Fox Business",
-   "title": "Anthropic to make HISTORIC market debut",
-   "excerpt": "'Wall Street Journal' reporter Anissa Gardizy analyzes Anthropic revenue growth preparing for a historic market debut. Gardizy also weighs in on Nvidia's ex-CEO Jensen Huang's attempt for reinstatement. #fox #foxbusiness #anissagardizy #wallstreetjournal #anthropic #anthropicrevenuegrowth #marketdebut #ipo #historicipo #artificialintelligence #aicompany #nvidia #jensenhuang #formernvidiaceo #reinstatementattempt #techstocks #stockmarket #technologyindustry #breakingnews Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in",
-   "url": "https://www.youtube.com/watch?v=hDQAX7lPJFA",
-   "published": "2026-11-18T17:15:24+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "앤트로픽의 매출 성장과 역사적인 시장 데뷔를 다뤘다.",
-    "엔비디아 전 CEO 젠슨 황의 복귀 시도에 대해 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d93ab8dc1ac720c4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Costco (COST) Stock Could Be Above Fair Value Despite Its Record $30 Dividend",
-   "excerpt": "Costco Wholesale has ridden a powerful multi year run in its stock price, and the question now is whether the current market value lines up with the earnings behind it. With the shares already pricing in a lot of optimism, investors are increasingly asking what today’s tag implies about the profits Costco is generating right now. Over the past 5 years the stock has returned 113.1%, which raises the stakes on whether Costco’s earnings can support the kind of valuation investors are currently...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-stock-could-above-171402339.html?.tsrc=rss",
-   "published": "2026-11-18T17:14:02+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코의 주가가 현재 공정 가치보다 높을 수 있다는 의문을 제기했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "50654fbe5c95ab47",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Oracle (ORCL) Is A Key Player In AI Logistics Through 2030",
-   "excerpt": "Oracle (NYSE:ORCL) has been identified as a key participant in AI-powered logistics automation and reverse logistics markets through 2030. The recognition focuses on Oracle’s role in robotic fulfillment systems and intelligent supply chain orchestration across global logistics networks. Analysts link Oracle’s exposure to reverse logistics with growing interest in circular economy practices across retail, manufacturing, and e-commerce operations. Oracle’s highlighted role in AI-driven...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-key-player-ai-171349447.html?.tsrc=rss",
-   "published": "2026-11-18T17:13:49+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "summary_ko": [
-    "오라클이 2030년까지 AI 물류 자동화 시장의 핵심 참여자로 지목되었다고 다뤘다.",
-    "로봇 기반 이행 시스템과 지능형 공급망 관리에서의 역할이 강조되었다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "9c50e7c04b3c7a97",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "CoreWeave Sinks 5% After Nvidia Earnings as Kress Vows “A Very Strong Look” at Neocloud Financing",
-   "excerpt": "Key TakeawaysCoreWeave fell 5% today after Nvidia’s beat-and-raise quarter. Nvidia’s interim CEO said it’s taking “a very strong look” at which companies it helps finance, and its neocloud agreements fell to $32 billion.",
-   "url": "https://www.tikr.com/blog/coreweave-sinks-5-after-nvidia-earnings-as-kress-vows-a-very-strong-look-at-neocloud-financing?ref=yahoofinance&tlnk=yf-261118-25647mpv&.tsrc=rss",
-   "published": "2026-11-18T17:09:09+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 실적 발표 후 코어위브 주가가 5% 하락했다고 보도했다.",
-    "엔비디아 임시 CEO가 네오클라우드 금융 지원 기업을 면밀히 검토하겠다고 밝혔다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "82dcf5d1bf3d0df6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Top Midday Stories: Nvidia Shares Fall Despite Strong Earnings Results; Anthropic Reportedly Considering Raising IPO Price Above $80",
-   "excerpt": "All three major US stock indexes were down in late-morning trading Wednesday, as investors look back",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-nvidia-shares-170851929.html?.tsrc=rss",
-   "published": "2026-11-18T17:08:51+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미국 주요 증시가 오전 거래에서 하락세를 보였다고 다뤘다.",
-    "엔비디아는 호실적에도 불구하고 주가가 하락했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "bbfe87083026e1e5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Disney Wants $3 Billion in Savings, and More Layoffs Are Coming",
-   "excerpt": "Disney beat earnings and promised big savings, yet the stock slid from its 52-week high. A calendar quirk flatters the quarter, and a coming disclosure change will make it harder to see where the money goes.",
-   "url": "https://247wallst.com/investing/2026/11/18/disney-wants-3-billion-in-savings-and-more-layoffs-are-coming/?.tsrc=rss",
-   "published": "2026-11-18T17:08:51+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "summary_ko": [
-    "디즈니가 실적 호조와 함께 대규모 비용 절감 및 해고를 예고했다고 다뤘다.",
-    "이로 인해 주가는 52주 최고가에서 하락했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0b71d1f86ed452d1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart Or Amazon: Which Is The Tech Stock Now?",
-   "excerpt": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
-   "url": "https://www.trefis.com/stock/wmt/articles/626060/walmart-or-amazon-which-is-the-tech-stock-now/2026-11-18?.tsrc=rss",
-   "published": "2026-11-18T17:08:40+00:00",
-   "tickers": [
-    "AMZN",
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트와 아마존 중 어느 쪽이 테크 주식에 가까운지 다뤘다.",
-    "앤트로픽의 IPO 시점에 대한 내용을 주요 소식으로 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e0ec0495a5865090",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "JPMorgan Reveals Cause of Banking Outage That Disrupted U.S. Customers",
-   "excerpt": "A technical failure disrupted online banking and transfers, with JPMorgan ruling out a cyberattack.",
-   "url": "https://finance.yahoo.com/technology/articles/jpmorgan-reveals-cause-banking-outage-170511772.html?.tsrc=rss",
-   "published": "2026-11-18T17:05:11+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "기술적 결함으로 인해 온라인 뱅킹과 송금이 중단되는 장애가 발생했다고 밝혔다.",
-    "JP모건은 이번 사태가 사이버 공격은 아니라고 선을 그었다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f405b26fbaa77062",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "FIRST and Qualcomm Technologies, Inc. Launch Next Generation of K-8 Robotics Education",
-   "excerpt": "The new program experience will be powered by the Arduino platform with Disney Imagineers helping bring annual game themes to life and REV Robotics engineering the hardware students will use to create their robotsMANCHESTER, NH / ACCESS Newswire / November 18, 2026 / FIRST®, the world's leading youth robotics community, today announces an expanded collaboration with Technologies, Inc. to develop the next generation of FIRST K-8 robotics programs that inspire innovation, build confidence, and pre",
-   "url": "https://finance.yahoo.com/technology/articles/first-qualcomm-technologies-inc-launch-170500925.html?.tsrc=rss",
-   "published": "2026-11-18T17:05:00+00:00",
-   "tickers": [
-    "QCOM",
-    "DIS"
-   ],
-   "summary_ko": [
-    "FIRST와 퀄컴이 차세대 K-8 로봇공학 교육 프로그램을 출시한다고 발표했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "35734accc1820b7d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron Sees Tighter Memory Supply Through 2028 as AI Demand Remains Strong, RBC Says",
-   "excerpt": "Micron Technology (MU) sees the memory supply environment to tighten in 2027 and 2028 as demand from",
-   "url": "https://finance.yahoo.com/technology/ai/articles/micron-sees-tighter-memory-supply-170420692.html?.tsrc=rss",
-   "published": "2026-11-18T17:04:20+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "RBC는 마이크론이 AI 수요로 인해 2028년까지 메모리 공급 부족을 겪을 것으로 전망했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "915b654157736df2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba Earnings Come at a Tough Time. Watch Its AI Chip Business.",
-   "excerpt": "Weak consumer demand in China and U.S. chip curbs cloud the outlook. Alibaba’s own chip business is moving toward a Hong Kong listing.",
-   "url": "https://finance.yahoo.com/m/ca47cdec-0ebe-3e4b-b5ce-f63b796f86f6/alibaba-earnings-come-at-a.html?.tsrc=rss",
-   "published": "2026-11-18T17:04:00+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바가 중국의 약한 소비 수요와 미국 반도체 규제 속에 실적을 맞이했다고 다뤘다.",
-    "알리바바의 자체 칩 사업은 홍콩 상장을 추진 중이라고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "082e171e979d2ca6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Has Plunged 32% From Its Peak. Here’s the Price at Which I’d Buy.",
-   "excerpt": "Never forget that time in the market beats trying to time the market.",
-   "url": "https://www.fool.com/investing/2026/11/18/nvidia-has-plunged-32-from-its-peak-heres-the-price-at-which-id-buy/?.tsrc=rss",
-   "published": "2026-11-18T17:03:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 주가가 고점 대비 32% 하락했다고 언급했다."
    ],
    "tone": "neu"
   }
