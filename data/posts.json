@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-24T23:30:31.252998+00:00",
+ "updated": "2026-11-25T00:00:39.857027+00:00",
  "posts": [
+  {
+   "id": "3583e1e2ca576bcd",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Stock Market Today: DELL Earnings, HPE Sell-Off, Retailers Surge #shorts",
+   "excerpt": "Dell Technologies (DELL) reported earnings after the stock sold off on HPE (HPE) and its post-report tumble. Meanwhile, retail giants like Dick's Sporting Goods (DKS) and Dollar Tree (DLTR) rallied. Marley Kayden carries investors through the biggest earnings movers of Tuesday's trading session. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #dell #hpe #nvidia #economy #finance #investing #marketnews #stock #stockmarket #trading #live #schwabnetwork #ai #artificialintelligence #chips #hardware #pc #aiserver #nv",
+   "url": "https://www.youtube.com/watch?v=CtG6HBEYvck",
+   "published": "2026-11-25T00:00:05+00:00",
+   "tickers": [
+    "AMZN",
+    "DELL"
+   ],
+   "summary_ko": [
+    "델의 실적 발표와 HPE의 주가 하락 및 소매업체들의 급등세를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "08e80aea9a8c0bc8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang Reveals 90 Minutes Of Daily Therapy. Nvidia CEO Apologizes To Staff After Scandal.",
+   "excerpt": "Huang acknowledged violating Nvidia's code of conduct during his first company-wide meeting since being reinstated as CEO, while promising to change his management style.",
+   "url": "https://www.ibtimes.com/jensen-huang-daily-therapy-after-misconduct-scandal-3810157?.tsrc=rss",
+   "published": "2026-11-24T23:42:48+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황 CEO가 복귀 후 첫 사내 회의에서 행동 강령 위반을 인정하고 사과했다고 다뤘다.",
+    "경영 방식을 바꾸겠다고 약속했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "044e095c65972d57",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Bonta Says Blanche ‘Prejudged’ Nvidia Conduct",
+   "excerpt": "California Attorney General Rob Bonta says his office will press ahead with its civil investigation of Nvidia, arguing US Attorney General Todd Blanche appeared to have “prejudged” the company’s conduct by calling it a “good corporate citizen.” Bonta says California has subpoenaed Nvidia to determine whether China obtained advanced chips or confidential information and whether the company misled investors and the public. He speaks with Kailey Leinz and Joe Mathieu on Bloomberg’s \"Balance of Power.\" -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television o",
+   "url": "https://www.youtube.com/watch?v=VH_EWEfRNEA",
+   "published": "2026-11-24T23:31:34+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캘리포니아주 법무장관이 엔비디아에 대한 민사 조사를 계속 진행할 것이라고 밝혔다.",
+    "중국에 첨단 칩이 유출되었는지와 투자자를 오인하게 했는지 등을 조사 중이라고 언급했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "2ff6966e0af737a5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell Technologies Q3 2027 Earnings: Recap of $DELL Earnings Call, Stock Forecast",
+   "excerpt": "Jeff Clarke, vice chairman and chief operating officer, said Dell’s Infrastructure Solutions Group (ISG) is “our most profitable business.”.",
+   "url": "https://www.thestreet.com/latest-news/dell-technologies-q3-2027-earnings-call-stock-updates?.tsrc=rss",
+   "published": "2026-11-24T23:30:53+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "델의 최고운영책임자가 인프라 솔루션 그룹이 가장 수익성 높은 사업이라고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "4a05b7ac3ae40aef",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Much Is Nvidia Stock Worth Now That Jensen Huang Is Back?",
+   "excerpt": "Nvidia stock soared more than 30% in one trading session.",
+   "url": "https://www.fool.com/investing/2026/11/24/how-much-is-nvidia-stock-worth-now-that-jensen-huang-is-back/?.tsrc=rss",
+   "published": "2026-11-24T23:30:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 복귀 이후 엔비디아 주가가 하루 거래에서 30% 이상 급등했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "6e45b9f3cbf29a7e",
    "kind": "youtube",
@@ -18,6 +106,75 @@
     "그는 테헤란에 대한 경제적 압박에 더 많은 시간이 필요하다고 주장했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "9e89a033fe0bd9d1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why AMD Stock Fell Today",
+   "excerpt": "Investors are deciding what Huang's return means.",
+   "url": "https://www.fool.com/investing/2026/11/24/why-amd-stock-fell-today/?.tsrc=rss",
+   "published": "2026-11-24T23:25:02+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "투자자들이 젠슨 황의 복귀가 의미하는 바를 평가하고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4a93ec62c3140215",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 British Growth Stocks With Earnings Growth Up To 83%",
+   "excerpt": "Jensen Huang’s sudden return to Nvidia and the sharp rebound in global equities have pushed growth stories back into the spotlight. Strong market interest in earnings expansion has increased appetite for fast growing British businesses that also keep their balance sheets in check. This article highlights three stocks from a UK high growth potential screener that combines forecast earnings strength with companies that are not stretched financially. The three stocks highlighted here offer a...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-growth-stocks-earnings-232414800.html?.tsrc=rss",
+   "published": "2026-11-24T23:24:14+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 복귀와 글로벌 증시 반등으로 성장주가 다시 주목받고 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "0cc19964e1c7d3d7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 Canadian Value Stocks For November 2026",
+   "excerpt": "After Jensen Huang’s return to Nvidia set off a huge global equity rally, investors have been reminded how quickly sentiment can swing when cash rich technology leaders regain market confidence. That kind of mood shift often leaves quieter Canadian businesses with solid cash generation and muted valuations in the shade. This article highlights three Canadian stocks that screen as attractively priced on future cash flows. The three companies below are just a starting sample. The full screen on...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-value-stocks-november-232403769.html?.tsrc=rss",
+   "published": "2026-11-24T23:24:03+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 관련 소식으로 글로벌 증시가 반등하면서 투자 심리 변화를 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2e0e1e9fe7699df6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell in Strong Position With No Signs of a Slowdown, CFO Says",
+   "excerpt": "Dell Technologies CFO David Kennedy says the company is in a strong position going into the fourth quarter. Dell boosted its fiscal year revenue sales outlook for the third time due to surging server sales fueled by the build-out of AI data centers. He speaks on \"Balance of Power: Evening Edition.\"",
+   "url": "https://finance.yahoo.com/video/dell-strong-position-no-signs-232228501.html?.tsrc=rss",
+   "published": "2026-11-24T23:22:28+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "델의 최고재무책임자가 4분기에 강력한 입장에 있으며 둔화 조짐이 없다고 밝혔다.",
+    "AI 데이터 센터 구축에 힘입어 서버 매출이 급증해 연간 매출 전망을 상향했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "f4dd3cdf76eec886",
@@ -6921,8 +7078,11 @@
     "MSFT",
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "인텔의 마이크로소프트 클라우드 계약이 패키징 및 제온 공급 기회를 연다고 다뤘다.",
+    "공급 제약과 자본 수요 증가로 성장이 복잡해질 수 있다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "7630bc4276359c9e",
@@ -6936,8 +7096,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "유럽에서 테슬라의 판매량이 크게 증가했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "3cab405d3e396d1f",
@@ -6951,9 +7113,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아의 최고재무책임자가 젠슨 황의 복귀 협상에서 배제되었다는 보도를 다뤘다.",
+    "황 CEO가 이사회에 알리지 않은 사생활 문제가 추가로 보도되었다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "2b523422c44f35ea",
@@ -6967,9 +7131,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "앤트로픽의 주가가 목표가에도 불구하고 하락세를 보였다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "875759ba493455fe",
@@ -6983,8 +7148,10 @@
    "tickers": [
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "BNP 파리바가 메모리 칩 공급 과잉 위험을 들어 마이크론 테크놀로지의 등급을 하향했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "61ce8312ff92fdc5",
@@ -6998,8 +7165,10 @@
    "tickers": [
     "NKE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "글로벌 축구 장비 시장이 향후 성장세를 보일 것이라는 전망을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "0cfd827458f591a7",
@@ -7014,8 +7183,11 @@
     "NVDA",
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 젠슨 황 복귀에 따른 반도체주 랠리 이후 마이크론 주가가 7% 하락했다고 전했다.",
+    "마이크론 측은 2027년 생산량의 75% 이상이 이미 계약되어 있다고 밝혔다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "eb6e581523b3655a",
@@ -7029,9 +7201,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "전문가들이 엔비디아의 젠슨 황 CEO 복귀 배경에 대해 논의했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "fff59ad86c9001ae",
@@ -7045,8 +7218,10 @@
    "tickers": [
     "UBER"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "우버 프레이트 CEO가 가트너의 매직 쿼드런트 평가에 더 이상 협조하지 않겠다고 공개적으로 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "28966022072359f1",
@@ -7061,8 +7236,10 @@
     "NKE",
     "PFE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "월스트리트가 외면한 배당주들의 하락과 수익률 상승 배경을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "be7293353371cf78",
@@ -7076,8 +7253,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "캐시 우드의 아크 인베스트가 스페이스 X와 앤트로픽을 매수하고 엔비디아 주식을 처분했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "fce82269c21e6fc5",
@@ -7091,8 +7270,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "BNP 파리바 분석가는 엔비디아의 베라 루빈 울트라에서 HBM 비중이 줄어들 수 있다고 지적했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "899e9023a46170d6",
@@ -7106,8 +7287,10 @@
    "tickers": [
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "마이크론 하향 조정과 게임스탑 신규 커버리지 등 월스트리트의 주요 분석가 의견을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5db4d342f0abf5f4",
@@ -7121,8 +7304,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "테슬라와 스페이스X가 3조 5천억 달러 규모의 합병을 위해 투자은행 등과 협력 팀을 꾸렸다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a4e69ef4b22e6ee9",
@@ -7152,8 +7337,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 복귀로 엔비디아가 급등한 후 반도체 섹터와 AI 관련 주가가 하락세를 보였다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "072db5e1df0d1794",
@@ -7167,8 +7354,10 @@
    "tickers": [
     "BA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "글로벌 위성통신 단말기 시장 보고서에서 주요 기업들의 동향을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "fcccdacd05bb5958",
@@ -7183,8 +7372,10 @@
     "NVDA",
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아가 하루 만에 엄청난 시가총액을 더한 가운데 젠슨 황의 영향력을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "9109f59cc9672304",
@@ -7198,8 +7389,10 @@
    "tickers": [
     "PLTR"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AI 기반 전장 관리 및 의사결정 지원 시스템 시장의 성장 전망을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "63ecf00d4bfc3f23",
@@ -7216,8 +7409,10 @@
     "GOOGL",
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "글로벌 신경망 처리장치 시장이 인공지능 채택 확대로 빠르게 성장하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b896e91c6776405e",
@@ -7231,8 +7426,10 @@
    "tickers": [
     "COST"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "코스트코 멤버십 종류와 이용 시 고려해야 할 점들을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "a3d31ffbad6a5bbd",
@@ -7246,8 +7443,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO 젠슨 황의 복귀가 AI 시장에 대한 시각을 바꿨다고 평가했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "7604622b2ce21e98",
@@ -7264,8 +7463,10 @@
     "TSM",
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AI 칩 수요 증가로 마이크로프로세서 제조 시장이 성장 중이라고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2dc18bd8371f9282",
@@ -7295,8 +7496,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황 복귀 이후 엔비디아 주가가 급등했다고 전했다.",
+    "미국 의회의 규제 가능성이 칩 산업에 미칠 영향을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "d60e563a902ad7ab",
@@ -7312,8 +7516,10 @@
     "AMD",
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "하이브리드 GPU-CPU 시장이 AI 데이터 센터 수요로 성장할 것이라고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "5526a9d3d264609e",
@@ -7328,8 +7534,10 @@
     "INTC",
     "QCOM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엣지 IoT 수요로 디지털 신호 프로세서 시장이 성장하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "20e9af0a8808c25c",
@@ -7343,8 +7551,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "아마존 웹서비스가 5년 만에 가장 빠른 성장세를 보이고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "5938a541af3e4fec",
@@ -7361,8 +7571,10 @@
     "INTC",
     "QCOM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엣지 AI와 IoT 성장에 따라 임베디드 MPU 시장이 커지고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "254e5614aea67879",
@@ -7376,8 +7588,10 @@
    "tickers": [
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "오라클이 실적과 잉여현금흐름 개선으로 반등할 수 있다고 전망했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ec6993a7ed1ca4f0",
@@ -7391,8 +7605,10 @@
    "tickers": [
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AI와 클라우드 성장에 따라 승계 계획 및 관리 소프트웨어 시장이 커지고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "4d565e3f567e1a95",
@@ -7422,8 +7638,10 @@
    "tickers": [
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "기업들의 자동화 및 AI 투자를 배경으로 워크플로 시장이 빠르게 확대 중이라고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "e0f2d51ba31408a0",
@@ -7437,8 +7655,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아가 하루 동안 크게 성장한 배경과 관련된 이야기를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c6b24658f379721b",
@@ -7452,8 +7672,10 @@
    "tickers": [
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AI와 클라우드 도입으로 커리어 개발 소프트웨어 시장이 성장하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ea514445e9e29dbd",
@@ -7483,8 +7705,10 @@
    "tickers": [
     "MSFT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "데이터 프라이버시 규제 준수를 위해 관련 소프트웨어 시장이 성장하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2cbb06b6d62587d8",
@@ -7532,8 +7756,10 @@
    "tickers": [
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AI와 클라우드 투자 증가로 클러스터링 소프트웨어 시장이 성장 중이라고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "db3b2aad7921cf1f",
@@ -7547,8 +7773,10 @@
    "tickers": [
     "NET"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "노바 레지스트리와 링크미가 디지털 아이덴티티 접근성을 높이기 위한 파트너십을 맺었다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "d9a2f6b6ad54c89a",
@@ -7562,8 +7790,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "루시드와 파트너들이 무인 로보택시 테스트를 시작했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "9ab1026dafd0eca1",
@@ -7577,8 +7807,11 @@
    "tickers": [
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "월마트의 자동화 투자와 타겟의 브랜드 파트너십이 서로 다른 방향으로 작용하고 있음을 다뤘다.",
+    "두 기업의 밸류에이션 격차가 투자 선택에 영향을 미칠 것이라고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ec41d13f3a0a05c0",
@@ -7594,8 +7827,10 @@
     "GOOGL",
     "ADBE"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AI와 클라우드 도입에 따라 문서 협업 시장이 빠르게 성장하고 있음을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "c80b67733b41d98a",
@@ -7610,8 +7845,10 @@
     "NVDA",
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "델의 950억 달러 백로그 중 절반 이상이 대기 중이라고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "cd537fd58d901005",
@@ -7626,8 +7863,10 @@
     "MSFT",
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AI와 멀티클라우드 도입 확산으로 통합 앱 시장이 급성장하고 있음을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "5ed0ac31c1633f12",
@@ -7641,8 +7880,11 @@
    "tickers": [
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "인텔 주가가 일주일 동안 14.1% 하락했다고 전했다.",
+    "서버 성장의 호조 속에서도 실적 압박과 제조 제약, 높은 밸류에이션이 리스크로 작용하고 있다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "6c9fb11472bc6578",
@@ -7656,8 +7898,10 @@
    "tickers": [
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "JP모건과 HSBC가 첫 디지털 골드 거래를 완료했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "60f4b5c2fddbf83d",
@@ -7671,8 +7915,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "미국이 대중국 수출에 대한 새로운 관세를 부과할 준비를 하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "b44895a193eb9e09",
@@ -7686,8 +7932,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "미국 정부가 엔비디아 칩을 중국으로 우회 유출한 것으로 의심되는 기업들을 블랙리스트에 올렸다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "b6599b01a2c11d6b",
@@ -7701,8 +7949,10 @@
    "tickers": [
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "타이거 글로벌이 알파벳 주가가 최저 P/E 비율을 기록했을 때 지분의 42%를 매각했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "260a2ac6f15623cc",
@@ -7718,8 +7968,11 @@
     "RGTI",
     "QBTS"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "아이온큐와 리게티가 2026년에 급락을 겪고 있다고 다뤘다.",
+    "정부 자금 지원과 상용화 진척 속에 퀸투텀과 D웨이브 퀀텀이 주목받고 있다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "6a55238508c0b9af",
@@ -7733,8 +7986,11 @@
    "tickers": [
     "UBER"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "노동부가 운전기사를 독립 계약자로 분류하기 쉽게 만드는 규칙을 확정했다고 밝혔다.",
+    "이로 인해 우버, 도어다시, 리프트의 비용 부담 리스크가 낮아졌다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "356febf622462e7d",
@@ -7750,9 +8006,10 @@
     "AMD",
     "AVGO"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "AI 관련주가 압박을 받으면서 엔비디아, AMD, 브로드컴 등 반도체 주가가 하락세를 주도했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "b35d121f1857d063",
@@ -7766,9 +8023,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "캐시 우드가 엔비디아 주가가 급등하기 전날 주식을 매각했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "82d4bf1edebf665c",
@@ -7784,9 +8042,10 @@
     "AMD",
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아와 인텔 주가가 6% 하락하고 AMD도 5% 내리는 등 랠리가 냉각되고 있음을 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "df11fba2e1ba085f",
@@ -7800,9 +8059,10 @@
    "tickers": [
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "티모바일이 블랙프라이데이를 맞아 다양한 기기와 액세서리 할인 행사를 진행한다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ee0912f938a7ff7f",
@@ -7816,9 +8076,11 @@
    "tickers": [
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "심보틱은 2026 회계연도 매출과 GAAP 순이익을 발표하며 실적이 애널리스트 예상치를 상회했다고 다뤘다.",
+    "월마트와의 자동화 계약 확대 등이 수주 잔고 증가로 이어질 것이라는 분석을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "68058791419abb36",
@@ -7833,9 +8095,10 @@
     "NVDA",
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아의 상승세가 일부 되돌려지면서 마이크론 주가가 7% 하락했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "cd3de7c100644f7f",
@@ -7849,8 +8112,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "애널리스트는 젠슨 황의 복귀가 AI 반도체 전반의 반등을 다시 이끌 수 있다고 전망했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6cb1f3c59c6022cb",
@@ -7864,8 +8129,10 @@
    "tickers": [
     "HOOD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "칼시의 높은 밸류에이션 전망과 비교할 때 로빈후드 주가가 저평가되어 있다는 주장을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "5e817035366b60c5",
@@ -7879,8 +8146,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "모네스 크레스피 앤 하르트는 테슬라 투자의견을 하향 조정한 반면, HSBC는 같은 날 상향 조정했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c7d0c1e52d85387f",
@@ -7894,8 +8163,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 복귀에도 불구하고 엔비디아의 반등이 불안정하며 추가 하락 가능성이 있다고 주장했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "63a9a0710bd57f45",
@@ -7909,8 +8180,10 @@
    "tickers": [
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "아카이브 인텔은 앤스로픽의 클로드 컴플라이언스 API 통합 및 MCP 서버 출시를 발표했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5796a75b17a9f355",
@@ -7925,8 +8198,10 @@
     "NVDA",
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 시가총액 증가와 젠슨 황 관련 내용을 주요 소식으로 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "d25bbf44548495a5",
@@ -7941,8 +8216,10 @@
     "NVDA",
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 대규모 시가총액 증가 소식을 주요 뉴스로 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5c0b21679e4c184c",
@@ -7956,8 +8233,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 시가총액 급증과 젠슨 황 관련 내용을 주요 소식으로 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1c491c121ec53d8f",
@@ -7971,8 +8250,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 시가총액 급증과 젠슨 황의 복귀 배경에 대한 내용을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "6dea9d96ffde734f",
@@ -8003,8 +8284,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "알티메트릭은 AWS 에이전틱 AI 컨설팅 서비스 분야에서 전문성을 획득했다고 밝혔다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ef6a8363a073ac08",
@@ -8018,9 +8301,10 @@
    "tickers": [
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "증시 상승세 지속으로 투자자들의 낙관론이 극에 달해 위험이 커졌다는 출판물의 주장을 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "5b2c7c99fe1a923d",
@@ -8035,8 +8319,10 @@
     "NVDA",
     "AMZN"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아의 급격한 시가총액 증가 소식을 주요 기사로 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "8be6ff31988eac70",
@@ -8050,9 +8336,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아 CEO 젠슨 황의 복귀 다음 날 증시가 하락세를 보였다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "823c161c2cd3f606",
@@ -8066,8 +8353,10 @@
    "tickers": [
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "AMD의 단기 기술적 설정이 하락 편향을 보이고 있으며 과매도 반등 가능성이 있다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "ef553af6390be74b",
@@ -8081,8 +8370,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아가 하루 동안 9,540억 달러를 추가한 것과 젠슨 황 CEO의 영향력에 대해 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6a804e75b161e98a",
@@ -8096,9 +8387,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "젠슨 황이 엔비디아에 복귀하여 두 번째 기회를 맞이했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "331b2b6c87f130e9",
@@ -8113,8 +8405,10 @@
     "NVDA",
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "테슬라 포지션을 축소하거나 추가해야 하는지에 대한 내용을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "96d60380f39e4f6a",
@@ -8129,8 +8423,10 @@
     "NVDA",
     "AAPL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "애플 주식의 스토리에서 어떤 점이 변했는지에 대해 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ff26611f89c1575a",
@@ -8144,9 +8440,10 @@
    "tickers": [
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "홀리데이 시즌 소매 판매 증가가 예상되나 인플레이션을 반영한 실질 성장은 낮을 것이라고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "fd4891da99820c62",
@@ -8160,8 +8457,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 주도 시장 랠리를 평가하면서 미국 주가지수 선물이 하락했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "5020952785fb4a3b",
@@ -8176,8 +8475,10 @@
     "NVDA",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "전일 시장 급등 이후 기술주 선물이 매도세를 보이며 AMD와 엔비디아 등이 하락했다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "60e67d087686af9c",
@@ -8191,8 +8492,10 @@
    "tickers": [
     "CRM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "세일즈포스 출신이 공동 창업한 시에라가 5개월 만에 연간 반복 매출을 두 배로 늘리며 투자 유치를 추진 중이라고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a8ccbb87686ccadc",
@@ -8206,8 +8509,10 @@
    "tickers": [
     "META"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "모건스탠리가 메타 플랫폼스의 목표주가를 하향 조정했으나 여전히 20%의 상승 여력이 있다고 보았다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "154e1afaa1dc795c",
@@ -8221,8 +8526,10 @@
    "tickers": [
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "억만장자 데이비드 테퍼가 오라클 지분을 매입했으며, 오라클은 2029 회계연도 잉여현금흐름 목표를 상향 제시했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "63e26f0eebe57d82",
@@ -8237,9 +8544,10 @@
     "NVDA",
     "PLTR"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "팔란티어의 주가가 경쟁사 대비 적정하게 평가되었는지에 대해 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "7b8f5cbe36883856",
@@ -8254,8 +8562,10 @@
     "NVDA",
     "GOOGL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "알파벳과 메타 중 어느 종목이 더 나은 매수 대상인지에 대해 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "925500a27e42f0e1",
@@ -8269,8 +8579,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "앤스로픽의 거친 출발에 대해 보유자들이 우려해야 하는지에 대해 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "469393a51e5a90c8",
@@ -8285,8 +8597,10 @@
     "NVDA",
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "크라우드스트라이크의 주식 보상이 소유주들에게 갖는 의미를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "3af5ad1640186de5",
@@ -8300,8 +8614,10 @@
    "tickers": [
     "ARM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "Arm 홀딩스 주가가 약 4.7% 하락하여 168달러를 기록했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "41f0efd2d199d3d0",
@@ -8315,9 +8631,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "도널드 트럼프가 엔비디아의 젠슨 황 복귀에 개입해 최대 1,500만 달러의 수익을 올렸다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4fcc2092de882cc2",
@@ -8331,9 +8648,11 @@
    "tickers": [
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "강세론자들은 데이터센터 성장에 힘입어 AMD의 내년 매출이 80% 성장할 것으로 기대한다고 다뤘다.",
+    "수출 규제와 메모리 비용 등이 여전히 위협 요인으로 작용한다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "739826625f1027c0",
@@ -8347,9 +8666,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "IREN 주가가 하락세를 보였음에도 일부 월스트리트 전문가들은 실적 하향 이후에도 높은 수익률을 전망했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "bb008a2f21ee83e2",
@@ -8363,9 +8683,10 @@
    "tickers": [
     "CRWD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "마블-루멘텀과 크라우드스트라이크-즈스칼라 간의 M&A 거래가 실적 호조에도 불구하고 주주들의 반발에 부딪혔다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "807dc15519ce883d",
@@ -8379,8 +8700,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "테슬라와 스페이스X의 합병 협상이 연내 성사를 목표로 하고 있으나 예상보다 마찰이 크다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "b816b241daf52c58",
@@ -8394,8 +8717,10 @@
    "tickers": [
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "마이크론 주가가 상승한 가운데, 이익 급감 가능성에 대한 의문을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "beb5e00ec095a132",
@@ -8410,8 +8735,10 @@
     "NVDA",
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아가 하루 만에 큰 폭의 시가총액을 더했다고 다루며 AMD 주가와 미판매 칩 상황을 주목할 점으로 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "21ba37f3012477de",
@@ -8425,8 +8752,10 @@
    "tickers": [
     "SBUX"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "콜게이트와 스타벅스의 소비재 사업 부문을 비교하며 리스크와 밸류에이션의 차이를 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "7d925c9d282e5141",
@@ -8456,8 +8785,10 @@
    "tickers": [
     "INTC"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "인텔 주가가 5.8% 하락하여 56달러를 기록했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "e6c052db15b727c8",
@@ -8471,8 +8802,10 @@
    "tickers": [
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "델 테크놀로지스 주가가 프리마켓에서 하락하며 전일 상승분을 일부 반납했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "ca51f9519bc21f77",
@@ -8486,8 +8819,10 @@
    "tickers": [
     "MU"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "마이크론 테크놀로지 주가가 6.4% 하락해 662달러를 기록했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "ad43b79c25753693",
@@ -8501,8 +8836,10 @@
    "tickers": [
     "QQQ"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "QQQ가 사상 최대의 개장 상승폭을 기록했으나 매수세가 이어질지는 지켜봐야 한다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "76bbeba0f6bf90bb",
@@ -8582,8 +8919,10 @@
    "tickers": [
     "NFLX"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "넷플릭스에 대한 월스트리트의 평균 추천 의견이 매수 수준이지만 낙관적인 전망의 실효성에 의문이 제기된다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "b1a3027c5b058e39",
@@ -8597,8 +8936,10 @@
    "tickers": [
     "ORCL"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "오라클 커모디티 홀딩스가 볼리비아 은 광산 프로젝트의 2% 로열티를 회복했다고 발표했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "ed7f6bb8cbd1a40f",
@@ -8613,8 +8954,11 @@
     "NVDA",
     "CRM"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "매도세가 실적 성장이 둔화된 세일즈포스에 타격을 주었는지 다뤘다.",
+    "엔비디아가 하루 동안 크게 성장한 배경과 젠슨 황 CEO 관련 내용을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "f9f1d7e05a136932",
@@ -8628,9 +8972,11 @@
    "tickers": [
     "JPM"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "JP모간의 미국 국채 투자자 설문조사 결과를 다뤘다.",
+    "PCE 물가 지표 발표를 앞두고 낙관론이 다소 줄었으나 중립적인 태세가 주를 이뤘다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4b621354e20e24e4",
@@ -8644,8 +8990,11 @@
    "tickers": [
     "SCHD"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "필자가 SCHD 외에 7% 배당 수익률을 주는 인컴 ETF를 보유한 이유를 설명했다.",
+    "해당 인컴 ETF들이 포트폴리오에서 상호 보완적인 역할을 한다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b373e782b89bb17f",
@@ -8659,8 +9008,11 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "일론 머스크가 테슬라의 성장 모드 복귀를 준비하고 있다고 언급했다고 다뤘다.",
+    "애널리스트들도 이미 성장을 예상하며 컨센서스 매출이 상승하고 있다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "35084f6fd2c25ec3",
@@ -8675,9 +9027,11 @@
     "JPM",
     "BAC"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "JP모간과 뱅크오브아메리카의 주가 하락을 다뤘다.",
+    "은퇴자 관점에서 두 은행의 가격 매력도와 배당 이력 등의 장점을 비교했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "e19dd1d8c38156d9",
@@ -8691,9 +9045,11 @@
    "tickers": [
     "WMT"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월마트가 실적 호조에 힘입어 가이던스를 상향했음에도 주가가 하락했다고 전했다.",
+    "광고와 멤버십 성장이 애널리스트들의 기대감을 높이는 요인으로 언급되었다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c0046e4e3d8a297e",
@@ -8707,9 +9063,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "골드만삭스는 AI 투자의 성패가 엔비디아가 아닌 자본 지출 수익률에 달려 있다고 분석했다.",
+    "엔비디아의 경영진 변화가 AI 투자 전망에 큰 영향을 주지 않을 것이라고 전망했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4b1b0e2f42a90658",
@@ -8723,9 +9081,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "마이클 버리가 1929년과 2000년 폭락 당시 약세장 반등의 평균치를 언급했다.",
+    "엔비디아의 주가 반등에 대한 경계의 목소리를 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "b0b5fa08a41d9867",
@@ -8739,9 +9099,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아 관련 3배 숏 펀드가 하루 만에 크게 하락했다고 전했다.",
+    "리더십 교체로 엔비디아 주가가 급등하면서 런던에 상장된 숏 베팅이 큰 타격을 입었다고 설명했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "6497a721cf55a025",
@@ -8755,9 +9117,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "엔비디아 젠슨 황의 복귀가 글로벌 기술주 변동성을 완화하고 창업자의 리더십을 부각했다고 다뤘다.",
+    "장기적인 안목을 가진 인도 기업의 창업자 주도 종목들을 소개했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "4b38ed65ec2d6eee",
@@ -8772,9 +9136,11 @@
     "NVDA",
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "월요일 테슬라 주가 상승 배경과 관련된 시장 동향을 다뤘다.",
+    "엔비디아의 시가총액 증가와 젠슨 황 관련 소식을 함께 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "33d6bf79f66eeb34",
@@ -8804,9 +9170,11 @@
    "tickers": [
     "PANW"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "팔로알토 네트웍스를 직접 보유할 때의 이익 마감 하락 등 개별 종목 리스크를 언급했다.",
+    "ETF를 통해 이러한 종목별 변동성을 줄이는 방안을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "efe83fed2e78a72b",
@@ -8820,8 +9188,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "젠슨 황의 복귀로 인한 엔비디아의 주가 급등이 미국 소매 브로커리지 플랫폼의 거래 활동에 미친 영향을 다뤘다.",
+    "동일한 뉴스에 노출된 주목할 만한 종목들을 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "999b67892421b458",
@@ -8835,8 +9206,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "샌디스크의 주가 하락 배경과 엔비디아의 젠슨 황 복귀 소식을 다뤘다.",
+    "황의 복귀로 AI 인프라 투자와 메모리 수요 기대감이 살아났다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "6acac92488c5263a",
@@ -8850,8 +9224,11 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null
+   "summary_ko": [
+    "엔비디아 CEO 복귀로 인한 글로벌 증시 랠리 이후 캐나다 증시 선물 하락을 다뤘다.",
+    "시장에서 경계감이 확산하고 있음을 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "1d6fded9c6ba8b04",
@@ -80602,233 +80979,6 @@
     "알리바바가 최고 성능의 모델을 유료 API로만 제공하여 클라우드 수익화에 나섰다고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "a4657daf6bb10d2f",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Stock Market Today: NVDA Earnings, Software Sells, HD & NKE Falls #shorts",
-   "excerpt": "Nvidia (NVDA) posted the most anticipated earnings report of the quarter as the company seeks direction following Jensen Huang's resignation as CEO. Software stocks like Salesforce (CRM) and ServiceNow (NOW) closed as the worst performers of the day. Home Depot (HD) shares slid after its earnings, as did Nike (NKE) after hosting its first investor day in 9 years. Marley Kayden takes investors through a massive Tuesday on Wall Street. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #earnings #salesforce #",
-   "url": "https://www.youtube.com/watch?v=8bwNCotm5yA",
-   "published": "2026-11-18T00:00:38+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN",
-    "CRM",
-    "NKE"
-   ],
-   "summary_ko": [
-    "엔비디아가 젠슨 황 사임 이후 큰 관심을 받는 가운데 실적 보고서를 공개했다.",
-    "홈데포와 나이키 등의 주가가 실적 및 투자자의 날 행사 이후 하락했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "d9898509843b6e21",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Nvidia will no longer be the AI tastemaker | Market Hang",
-   "excerpt": "Nvidia has been on the cap table for a long list of venture-backed startups, and Laura Rippy of Alumni Ventures says the companies it backed were oversubscribed because Nvidia was the tastemaker. That stops now. She thinks other money fills the early-stage gap easily, and that the handshake deals Jensen Huang was known for are the part that quietly disappears. Julie Hyman asks who poaches Nvidia's engineers. Thomas DiFazio of Roundhill Investments wonders what Nvidia does about it. And Mark Malek, who has not sold a share, names brain drain as his tail risk. Featuring Laura Rippy, Managing Partner, Alumni Ventures Julie Hyman, Yahoo Finance Thomas DiFazio, ETF Strategist, Roundhill Investments Mark Malek, Chief Investment Officer, Siebert Financial Jeff McClean, Chief Executive Officer, So",
-   "url": "https://www.youtube.com/watch?v=jPrJT0gKhMc",
-   "published": "2026-11-18T00:00:23+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 초기 스타트업 투자에서 이전과 같은 중심적인 역할을 하지 않을 것이라는 주장이 제기됐다.",
-    "전문가들은 엔비디아의 인재 유출과 리스크 요인들에 대해 우려를 표명했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "240e1b8eae99a763",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Disney: 3 Key Takeaways for Long-Term Investors",
-   "excerpt": "Capital discipline now decides which new theme park projects get built, a test that will shape Disney's returns long after 2026.",
-   "url": "https://www.fool.com/earnings/takeaways/2026/11/17/disney-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-   "published": "2026-11-17T23:58:40+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "summary_ko": [
-    "디즈니는 자본 규율을 통해 신규 테마파크 프로젝트의 진행 여부를 결정할 것이라고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e06a2af5bd57441a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Amazon Is Building a Massive Shopping Data Repository to Compete With AI Agents. Shareholders Should Welcome the Move.",
-   "excerpt": "Amazon is considering the World Product Graph to keep customers on its platform as AI agents shape more buying decisions.",
-   "url": "https://www.barchart.com/story/news/8886969/amazon-is-building-a-massive-shopping-data-repository-to-compete-with-ai-agents-shareholders-should-welcome-the-move?.tsrc=rss",
-   "published": "2026-11-17T23:57:05+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존이 AI 에이전트 시대에 대응하기 위해 방대한 쇼핑 데이터 저장소를 구축하고 있다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "6be945c7f6c61bce",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia’s Strong Earnings Let It Dodge the Jensen Huang Question, for Now",
-   "excerpt": "Nvidia clearly wants to move past the Jensen Huang era, but replacing its charismatic founder and former CEO is a continuing worry for investors.",
-   "url": "https://finance.yahoo.com/m/5718b86b-6ce6-3b91-9ca3-32db15372111/nvidia%E2%80%99s-strong-earnings-let.html?.tsrc=rss",
-   "published": "2026-11-17T23:51:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 강한 실적을 바탕으로 젠슨 황 관련 우려를 잠시 모면했다고 전했다.",
-    "카리스마 넘치는 창립자를 대체하는 것이 투자자들의 지속적인 걱정이라고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "b03f146048cd9273",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia's Q3 numbers were pretty good. Its earnings call optics were another story.",
-   "excerpt": "Yahoo Finance Executive Editor Brian Sozzi runs down Nvidia's (NVDA) third quarter earnings call, wondering why analysts didn't ask questions about former CEO Jensen Huang and how the company handled the call.",
-   "url": "https://finance.yahoo.com/video/nvidias-q3-numbers-were-pretty-good-its-earnings-call-optics-were-another-story-234451647.html?.tsrc=rss",
-   "published": "2026-11-17T23:44:51+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 3분기 실적은 양호했으나 실적 발표 컨퍼런스 콜의 진행 방식에 아쉬움이 제기됐다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "39ad08d282fb3653",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Sen. Tillis: Trump Better Served if Lutnick Moves On",
-   "excerpt": "Sen. Thom Tillis, a member of the Senate Banking Committee, says President Trump would be better served if Commerce Secretary Howard Lutnick stepped aside, citing concerns over his judgment in the Nvidia fallout and beyond. He speaks with Joe Mathieu on Bloomberg’s \"Balance of Power.\" -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Politics: Bloomberg Originals: Wa",
-   "url": "https://www.youtube.com/watch?v=ocG028418VE",
-   "published": "2026-11-17T23:44:27+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미국 상원 은행위원회 위원이 엔비디아 관련 사안 등을 언급하며 상무장관의 거취에 우려를 표명했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1801777f5af1c0aa",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-   "excerpt": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-abandoning-china-jensen-huang-233748229.html?.tsrc=rss",
-   "published": "2026-11-17T23:37:48+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 임시 CEO가 중국에 대한 칩 판매를 중단할 것이라고 밝혔다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "51aee935eb849ac0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia’s 103% Revenue Growth Took a Backseat to Its Internal Drama",
-   "excerpt": "The AI chipmaker is growing like wildfire, but its future is still in flux.",
-   "url": "https://www.fool.com/investing/2026/11/17/nvidias-103-revenue-growth-took-a-backseat-to-its-internal-drama/?.tsrc=rss",
-   "published": "2026-11-17T23:35:58+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 높은 매출 성장을 기록했음에도 불구하고 내부적인 논란으로 인해 미래가 불투명하다고 언급됐다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0d7e90bcc874a78d",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia will not be reinstating Jensen Huang as CEO.",
-   "excerpt": "Nvidia will not be reinstating Jensen Huang as CEO or address any questions about the investigation, or his resignation.",
-   "url": "https://www.youtube.com/watch?v=d4W5-miuAnk",
-   "published": "2026-11-17T23:34:40+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아는 젠슨 황을 CEO로 재선임하지 않을 것이라는 입장을 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1914f7406b6672e4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "No One Asked the Awkward Question About Asian Customers",
-   "excerpt": "The biggest near-term headwind from Jensen's Huang's sex-and-spying scandal is the issue of Nvidia customers in Asia that have been a conduit for Chinese companies to use Nvidia servers to evade U.S. export controls—either in the cloud or through smuggling to China.",
-   "url": "https://finance.yahoo.com/m/e0122ba8-b91a-3999-8786-63a7f06a0048/no-one-asked-the-awkward.html?.tsrc=rss",
-   "published": "2026-11-17T23:34:35+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "아시아 고객들이 중국의 대미 수출 통제 회피 수단으로 엔비디아 서버를 이용한 문제가 대두되었다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "b88f2aa41142d5a5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia just sent a powerful signal to SpaceX stock investors",
-   "excerpt": "A familiar name slipped from the top.",
-   "url": "https://www.thestreet.com/investing/stocks/nvidia-spacex-stake-q3-13f?.tsrc=rss",
-   "published": "2026-11-17T23:33:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 스페이스X 주주들에게 신호를 보냈다는 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4725fe962278d664",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia earnings special coverage: \"The street wants to believe in Nvidia after Jensen\"",
-   "excerpt": "Yahoo Finance Executive Editor Brian Sozzi covers the first Nvidia earnings call post-Jensen Huang. He covers what he heard about their search for a new CEO and talent retention after the scandal. As well as what he thinks the streets are expecting of Nvidia in this new era.",
-   "url": "https://finance.yahoo.com/video/nvidia-earnings-special-coverage-the-street-wants-to-believe-in-nvidia-after-jensen-233044562.html?.tsrc=rss",
-   "published": "2026-11-17T23:30:44+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황 사임 이후 첫 엔비디아 실적 발표와 CEO 탐색 과정을 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
