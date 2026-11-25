@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-25T06:30:31.773431+00:00",
+ "updated": "2026-11-25T07:00:36.797882+00:00",
  "posts": [
+  {
+   "id": "3fd499f05e5f0729",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NVDA Eyes Worst Month Since 2022 — Dip Buyers Are ‘Still Fighting To Break Even’ After Huang’s Return, Analyst Says",
+   "excerpt": "Last week’s buyers fared better. At an average entry of $148.40, they went from a 15% loss on Friday to an 11% gain on Monday, then a 5% gain on Tuesday.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nvda-dip-buyers-still-fighting-break-even-after-huang-return-analyst-says/cNbHEckR9lm?.tsrc=rss",
+   "published": "2026-11-25T06:52:33+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아는 2022년 이후 최악의 월간 부진을 겪고 있다고 애널리스트가 전했다.",
+    "최근 저가 매수자들은 평균 매수가를 기준으로 손실과 이익을 오가는 흐름을 보였다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "086e601456102c19",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Where Will Palantir Stock Be at the End of 2030?",
+   "excerpt": "The AI software company's profits might nearly triple by 2030 -- but its shares could still wind up lower.",
+   "url": "https://www.fool.com/investing/2026/11/25/where-will-palantir-stock-be-at-the-end-of-2030/?.tsrc=rss",
+   "published": "2026-11-25T06:47:02+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "팔란티어의 이익이 2030년까지 거의 세 배로 늘어날 수 있다고 다뤘다.",
+    "그럼에도 주가는 여전히 하락할 수 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "8289e668fac0a8bd",
    "kind": "youtube",
@@ -106,6 +142,24 @@
     "말레이시아항공 모회사인 말레이시아 항공 그룹이 보잉 787 10대를 구매할 계획이라고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "c8996306c51db1c6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘Not All Of It Was Forthcoming’: Singapore PM Lawrence Wong Knocks US Cooperation In Nvidia Megaspeed Chip Probe",
+   "excerpt": "Singapore Prime Minister Lawrence Wong said Tuesday that his government needs more information from U.S. authorities to trace chips Megaspeed bought from Nvidia Corp. (NASDAQ:NVDA) that were routed through the city-state to other countries. Chips Were Routed Through Singapore Speaking during a visit to Canberra, Australia, Wong said chips Megaspeed bought from Nvidia “did not even enter Singapore” but were routed through it to other countries, and Singapore cannot investigate what happens in thi",
+   "url": "https://finance.yahoo.com/technology/articles/not-forthcoming-singapore-pm-lawrence-052954958.html?.tsrc=rss",
+   "published": "2026-11-25T05:29:54+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "싱가포르 총리는 엔비디아 칩 조사와 관련해 미국 당국의 협조가 더 필요하다고 밝혔다.",
+    "해당 칩들은 싱가포르를 거쳐 다른 국가로 우회되었으며 싱가포르 내로 들어오지 않았다고 설명했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "616a39c06388fed1",
@@ -80223,91 +80277,6 @@
     "엔비디아의 3분기 실적 호조와 자사주 매입 계획 등이 AI 데이터센터 인프라 관련주에 대한 관심을 높였다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "99f9412c54bb32f2",
-   "kind": "youtube",
-   "source": "Fox Business",
-   "author": "Fox Business",
-   "title": "This is the KEY POINT of the Nvidia scandal: Ed Yardeni",
-   "excerpt": "Yardeni Research President Ed Yardeni discusses Nvidia's future amid scandal and the state of the U.S. economy under President Donald Trump on 'Kudlow.' #foxbusiness #fox #media #breakingnews #us #usa #new #news #breaking #kudlow #nvidia #ai #artificialintelligence #technology #tech #stocks #stockmarket #wallstreet #investing #investors #finance #business #economy #earnings #growth #markets #semiconductors #chips #trump #donaldtrump #president #politics #political #politicalnews #government #scandal #innovation #revenue #forecast #edyardeni Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headqua",
-   "url": "https://www.youtube.com/watch?v=j9V9dVhnlsE",
-   "published": "2026-11-18T07:00:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "Ed Yardeni가 엔비디아의 논란과 트럼프 행정부 하의 미국 경제에 대해 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f42709754813ddee",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Woodway Assurance finds European Commission anonymization measures need to be updated to ensure Google search data has low privacy risk",
-   "excerpt": "Woodway Assurance, the company behind EviData™, announced today that Google's end-user search query data could be considered anonymized under established contextual practices, provided certain gaps in the European Commission's anonymization measures are addressed first. Those gaps include specifying explicit criteria for the performance of tools to detect direct identifiers, such as names and email addresses, in search queries, and providing further measures to protect against sensitive informat",
-   "url": "https://finance.yahoo.com/technology/ai/articles/woodway-assurance-finds-european-commission-070000525.html?.tsrc=rss",
-   "published": "2026-11-18T07:00:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "우드웨이 어슈어런스는 구글 검색 데이터의 프라이버시 위험을 낮추기 위해 유럽위원회의 익명화 조치가 보완되어야 한다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "05d06f91e6f38646",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Samsung Electro-Mechanics shares jump on expanded Nvidia supply deal",
-   "excerpt": "Investing.com-- Samsung Electro-Mechanics (KS:009150) shares surged on Wednesday after the company announced an expanded partnership with Nvidia (NASDAQ:NVDA) to supply advanced semiconductor package substrates and multilayer ceramic capacitors (MLCCs).",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-electro-mechanics-shares-jump-065747188.html?.tsrc=rss",
-   "published": "2026-11-18T06:57:47+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "삼성전기와의 첨단 반도체 부품 공급 파트너십 확대 소식으로 주가가 급등했다고 보도했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f26a2bf0f83aa06c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "excerpt": "U.S. stock futures are trending modestly higher early Wednesday as Wall Street digests a massive earnings beat from Nvidia Corp. (NASDAQ:NVDA) alongside ongoing geopolitical tensions in the Middle East. The Polymarket traders, a Polygon (CRYPTO: POL) based prediction platform, are...",
-   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63376257/stock-market-will-sp-500-open-up-or-down-today-80?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-   "published": "2026-11-18T06:37:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 깜짝 실적과 중동 지정학적 긴장 속에서 미국 주가지수 선물이 소폭 상승세를 보였다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "215f5255cc086ebb",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Xi Jinping Speaks at APEC as Nvidia Posts Solid First Post-Huang Earnings",
-   "excerpt": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Avril Hong give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. Chapters: 00:00:00 - The China Show opens 00:06:16 - Mirae Asset Global Investments' Edward Chan on Nvidia's outlook after first post-Huang earnings 00:16:53 - Trump makes AI push with Quad leaders 00:17:28 - ASEAN seeks role in shaping AI development 00:26:53 - Asian investors digest Nvidia earnings, look ahead to Tencent 3Q report 00:30:07 - Goldman Sachs' Si Fu on China H-shares and A-shares 00:38:01 - UBS Asset Management's Kevin Zhao on upside from bond market volatility 00:51:47 - Breaking: Xi speaks ",
-   "url": "https://www.youtube.com/watch?v=oYIXQ82duFY",
-   "published": "2026-11-18T06:35:21+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "블룸버그 방송에서 엔비디아의 실적 발표 이후 전망과 아시아 투자자들의 반응을 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
