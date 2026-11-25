@@ -1,6 +1,195 @@
 {
- "updated": "2026-11-25T10:30:32.159753+00:00",
+ "updated": "2026-11-25T11:00:37.929138+00:00",
  "posts": [
+  {
+   "id": "d948495739fa499a",
+   "kind": "youtube",
+   "source": "The Compound",
+   "author": "The Compound",
+   "title": "The Stock Market Is Too Big to Fail | Animal Spirits 492",
+   "excerpt": "On episode 492 of Animal Spirits, Michael Batnick and Ben Carlson discuss: last week’s stock market crash, an AI fire drill for your portfolio, the AI trade blew up, valuations are crashing, the Anthropic IPO, Jensen is back, the growing importance of the stock market, government intervention risk, a reverse-1987 moment, market cycles moving at light speed, what comes next for the stock market, the housing market is still dead and more. This episode is sponsored by Eaton Vance. Discover how Eaton Vance helps investors with capital appreciation, portfolio diversification, and tax-free income at ► 00:00 - Eaton Vance Ad ► 00:38 - Intro ► 01:26 - Stock Market (Last Week's Crash) ► 17:00 - Nvidia's Valuation ► 18:25 - Impossible to Predict the Markets ► 21:20 - Anthropic IPO ► 26:24 - Jensen H",
+   "url": "https://www.youtube.com/watch?v=iqN5JoP9ZRU",
+   "published": "2026-11-25T11:00:26+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "팟캐스트 방송에서 최근의 증시 하락과 엔비디아, 앤스로픽 IPO 등을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "21c8251ce997773c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tell Schwab to Move $19,000 of Apple Stock to Your Son on December 30 and If the Shares Land January 4 the IRS Counts It as a 2027 Gift. This Year’s Exclusion Is Gone for Good",
+   "excerpt": "A retired dentist asks his broker to send stock to his son before year-end, and the transfer still backfires. His CPA points to one date on the paperwork that decides which year the gift belongs to, and it isn't the day he called.",
+   "url": "https://247wallst.com/personal-finance/2026/11/25/tell-schwab-to-move-19000-of-apple-stock-to-your-son-on-december-30-and-if-the-shares-land-january-4-the-irs-counts-it-as-a-2027-gift-this-years-exclusion-is-gone-for-good/?.tsrc=rss",
+   "published": "2026-11-25T10:52:08+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "은퇴한 치과의사가 연말에 아들에게 주식을 증여하려다 날짜 문제로 겪은 일을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2d5796f968ab76d1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Market Chatter: Amazon.com, Meta Platforms in Talks Over Allowing Muse AI Access Shopping Site",
+   "excerpt": "Amazon.com (AMZN) and Meta Platforms (META) are in talks to connect Meta's Muse AI agent to end a bl",
+   "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-amazon-com-meta-104905932.html?.tsrc=rss",
+   "published": "2026-11-25T10:49:05+00:00",
+   "tickers": [
+    "AMZN",
+    "META"
+   ],
+   "summary_ko": [
+    "아마존과 메타가 메타의 뮤즈 AI 에이전트를 쇼핑 사이트에 연동하는 방안을 논의 중이라고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "442061b5d4488e3c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia scandal reveals cracks in US corporate governance",
+   "excerpt": "After criticism over its initial response to the Jenson Huang scandal, Nvidia's board seemed to click into gear, taking actions familiar in the US corporate governance playbook.That approach went out the door Monday when the board reversed itself and reinstated Huang, prompting widespread criticism of the company and calls for board resignations, exacerbating questions about the state of US corporate governance.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-scandal-reveals-cracks-us-104339315.html?.tsrc=rss",
+   "published": "2026-11-25T10:43:39+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 이사회가 젠슨 황을 재선임한 결정을 두고 미국 기업 지배구조에 대한 비판과 우려가 제기되었다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "1d86890501ef208c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "16% Upside for Pfizer? Guggenheim Thinks So, and Here’s What It Would Take",
+   "excerpt": "Key TakeawaysGuggenheim rates Pfizer a Buy with a $33 target, 16% above the Nov. 24 close, after raising it from $31 following Pfizer’s Nov.",
+   "url": "https://www.tikr.com/blog/16-upside-for-pfizer-guggenheim-thinks-so-and-heres-what-it-would-take?ref=yahoofinance&tlnk=yf-261125-hxj7vw8w&.tsrc=rss",
+   "published": "2026-11-25T10:39:48+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "summary_ko": [
+    "구겐하임은 화이자에 대해 매수 등급을 유지하고 목표주가를 제시했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2bc5ab975c6657c7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell stock tanks after blowout earnings. Wall Street Just Isn't Impressed.",
+   "excerpt": "Dell's stock takes it on the chin despite a blowout quarter.",
+   "url": "https://finance.yahoo.com/markets/stocks/article/dell-stock-tanks-after-blowout-earnings-wall-street-just-isnt-impressed-103036530.html?.tsrc=rss",
+   "published": "2026-11-25T10:30:36+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "델의 실적 호조에도 불구하고 월스트리트는 깊은 인상을 받지 못해 주가가 하락했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "34cb297fd813dea2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Warren Buffett's Successor, Greg Abel, Has Quietly Purchased 3 Stocks Since the Start of the Fourth Quarter, Including Shares of a Legal Monopoly",
+   "excerpt": "The Oracle of Omaha’s protégé is getting greedy when others are fearful.",
+   "url": "https://www.fool.com/investing/2026/11/25/warren-buffett-successor-greg-abel-purchased-3-stocks-since-start-fourth-quarter-including-legal-monopoly/?.tsrc=rss",
+   "published": "2026-11-25T10:26:02+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "워런 버핏의 후임인 그렉 아벨이 4분기 시작 이후 3개 종목을 조용히 매수했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "c27e64855ff412e8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Salesforce Is 28% Off Its High: Why Guggenheim Still Sees 55% Upside Ahead of Earnings",
+   "excerpt": "Key TakeawaysGuggenheim reiterated its Buy rating and $300 target on Salesforce on Nov. 24, 55% above that day’s close, after surveying 50 Salesforce partners.",
+   "url": "https://www.tikr.com/blog/salesforce-is-28-off-its-high-why-guggenheim-still-sees-55-upside-ahead-of-earnings?ref=yahoofinance&tlnk=yf-261125-vqxvfcxq&.tsrc=rss",
+   "published": "2026-11-25T10:25:36+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "구겐하임은 파트너 설문을 바탕으로 세일즈포스에 대한 매수 의견과 목표주가를 유지했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "52443b02910e8938",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Not Tesla. Not Nvidia. This \"Magnificent Seven\" Stock Could Be Overdue for a Big Rally.",
+   "excerpt": "Wall Street is punishing this internet giant for its AI spending, but the business is performing well.",
+   "url": "https://www.fool.com/investing/2026/11/25/not-tesla-nvidia-magnificent-seven-stock-big-rally/?.tsrc=rss",
+   "published": "2026-11-25T10:25:00+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "summary_ko": [
+    "월스트리트가 AI 지출을 이유로 특정 인터넷 거대 기업을 처벌하고 있지만 사업은 양호하다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "339e8e53d94c8066",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Saylor Bought $100M In Bitcoin Before Strategy Did, Says The Man Who Convinced Him To Buy It — Now That Bet Is Around $589M",
+   "excerpt": "Weiss said Saylor predicted Apple's headset would fail while others in the room were eager to buy one.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/michael-saylor-100m-bitcoin-purchase-589m-bet/cNbHOY3R9lH?.tsrc=rss",
+   "published": "2026-11-25T10:22:23+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "마이클 세일러가 전략 회사보다 먼저 비트코인을 매수했으며 애플 헤드셋 실패를 예측했다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "d98b7ef34e72c3ce",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Will Nvidia Stock Continue to Soar Now That Jensen Huang Is Back? Here Are the Bull and Bear Cases.",
+   "excerpt": "Nvidia stock had dropped 24% during Huang’s brief absence.",
+   "url": "https://www.fool.com/investing/2026/11/25/will-nvidia-stock-continue-to-soar-now-that-jensen-huang-is-back-here-are-the-bull-and-bear-cases/?.tsrc=rss",
+   "published": "2026-11-25T10:22:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 복귀 이후 엔비디아 주가의 향방에 대한 강세론과 약세론의 주장을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "546bdc2999c1a00b",
    "kind": "news",
@@ -49,6 +238,23 @@
    ],
    "summary_ko": [
     "엔비디아의 주가 변동이 S&P 500 인덱스 펀드 투자자의 자산에 미친 영향을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "309c6e6a52e4572e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Palo Alto Networks (PANW) Above Fair Value On Strong Earnings And Raised Guidance?",
+   "excerpt": "Palo Alto Networks (PANW) just opened its new fiscal year with first quarter results that put fresh numbers behind the cybersecurity story investors have been tracking all year. The share price tells the story. Palo Alto Networks has a 7 day share price return of 14.13% and a year to date share price return of 96.79%. The 1 year total shareholder return of 89.50% and 5 year total shareholder return of 287.23% show momentum that has built over several years, as investors weigh strong recent...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-panw-above-100954637.html?.tsrc=rss",
+   "published": "2026-11-25T10:09:54+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": [
+    "팔로 알토 네트웍스가 강력한 1분기 실적과 상향된 가이던스를 발표했다고 전했다."
    ],
    "tone": "pos"
   },
@@ -412,6 +618,24 @@
     "이익 증가세가 둔화되더라도 주식 수 감소가 가치를 지탱하는 데 기여할 것이라고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "b7abc8607b72eb8b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart’s shopper base is shifting: High earners lead its gains as low-income shoppers turn to Amazon",
+   "excerpt": "Upper-income households led Walmart's market-share gains last quarter, while Numerator data shows lower-income shoppers shifting to Amazon and dollar stores.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-shopper-shifting-high-earners-083200748.html?.tsrc=rss",
+   "published": "2026-11-25T08:32:00+00:00",
+   "tickers": [
+    "AMZN",
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트는 고소득층 중심으로 점유율이 늘었고 저소득층은 아마존과 달러스토어로 이동했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "ad8cc950428cb976",
@@ -1030,6 +1254,23 @@
    "tone": "neu"
   },
   {
+   "id": "2ec1defa147aba6e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "HPE Won’t Finance “Neocloud or High-Risk Customers.” Dell Carries $4.4 Billion of Lower-Grade Receivables",
+   "excerpt": "Key TakeawaysHPE CEO Antonio Neri said Monday that HPE’s financing arm “has not provided financing to neocloud or high-risk customers. ”Dell’s lower-grade financing receivables rose to $4.",
+   "url": "https://www.tikr.com/blog/hpe-wont-finance-neocloud-or-high-risk-customers-dell-carries-4-4-billion-of-lower-grade-receivables?ref=yahoofinance&tlnk=yf-261125-8wjqcfxp&.tsrc=rss",
+   "published": "2026-11-25T04:37:46+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "HPE는 고위험 고객에게 금융을 제공하지 않는다고 밝혔으며 델은 저등급 채권을 보유하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "12dc0394f3707b42",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1205,6 +1446,23 @@
     "스타벅스가 일본 사업 매각을 검토 중이라고 블룸버그가 보도했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "982465394c24de4a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
+   "excerpt": "Asian stock market enthusiasm over the resurrection of Jensen Huang’s career evaporated Wednesday as investors refocused on worries around the global AI trade.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/huang-boost-fades-quickly-ai-040320019.html?.tsrc=rss",
+   "published": "2026-11-25T04:03:20+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": [
+    "젠슨 황 복귀에 대한 아시아 시장의 열기가 식고 글로벌 AI 거래 우려가 다시 부각되었다고 전했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "5d1ee4e3d0223a26",
@@ -80013,199 +80271,6 @@
     "여러 ETF가 마이크로소프트 주식을 매수했다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "a97a8083b481f048",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "55 ETFs Add to Apple (AAPL) Holdings on Nov. 16",
-   "excerpt": "ETFs bought a net $691.1 million of Apple stock on Monday, Nov. 16.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/55-etfs-add-apple-aapl-110037942.html?.tsrc=rss",
-   "published": "2026-11-18T11:00:37+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "다수의 ETF가 애플 주식을 순매수했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "57afc48cec500f98",
-   "kind": "youtube",
-   "source": "The Compound",
-   "author": "The Compound",
-   "title": "The Biggest Losers of the Year | Animal Spirits 490",
-   "excerpt": "On episode 491 of Animal Spirits, Michael Batnick and Ben Carlson discuss: Jensen’s resignation, what this means for Nvidia, why the stock market isn’t down more, hubris is a risk, the end of the AI bubble, semiconductor valuations, hedge fund herding is getting worse, how to bring inflation down, the crypto crash, we need to build more small houses, Bogleheads in Vegas, why action movies were better in the 1990s and more. This episode is sponsored by YCharts. Join Josh Brown and YCharts to break down what mattered for investors in 2026 and what to watch in 2027. Reserve your spot: ► 00:00 - YCharts Ad ► 00:48 - Intro ► 04:24 - 10 Biggest Losers of the Year ► 07:34 - The Big Winner is the S&P 500 Investor ► 10:14 - Jensen Huang and the Future of Nvidia ► 27:47 - Stock Market ► 36:26 - Econ",
-   "url": "https://www.youtube.com/watch?v=HZt1UsoIohE",
-   "published": "2026-11-18T11:00:29+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "팟캐스트 방송에서 엔비디아의 젠슨 황 사임과 향후 전망 등을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d183cfd79c56b066",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Buffett is donating $5.5B to 4 charities — The Gates Foundation, which he gave $47B over the years, isn’t one of them",
-   "excerpt": "The Oracle Of Omaha is staying true to his pledge to donate his remaining Berkshire Hathaway shares to charity.",
-   "url": "https://finance.yahoo.com/small-business/articles/buffett-donating-5-5b-4-110000852.html?.tsrc=rss",
-   "published": "2026-11-18T11:00:00+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "summary_ko": [
-    "워런 버핏이 남은 버크셔 해서웨이 주식을 자선단체에 기부할 계획이라고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "47a19a923d0d0058",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SMOOTHIE KING DELIVERS 8.7% Q3 SAME-STORE SALES GROWTH, OUTPACING STARBUCKS, CHIPOTLE AND CAVA AS DEMAND FOR HEALTH AND WELLNESS KEEPS GROWING",
-   "excerpt": "Smoothie King, whose vision is to make the world a better place by nourishing healthy habits, delivered strong Q3 sales growth and increased guest visits, outperforming several leading restaurant brands as consumers increasingly prioritize health, wellness and nutrition.",
-   "url": "https://finance.yahoo.com/small-business/articles/smoothie-king-delivers-8-7-110000105.html?.tsrc=rss",
-   "published": "2026-11-18T11:00:00+00:00",
-   "tickers": [
-    "SBUX"
-   ],
-   "summary_ko": [
-    "스무디킹은 3분기 동일 점포 매출이 8.7% 성장했다고 밝혔다.",
-    "건강과 영양에 대한 수요 증가로 일부 주요 외식 브랜드를 앞섰다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "63ba1df997047446",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Costco’s aisles are more packed than ever — and $3.2 billion in gas savings and 21% cheaper groceries explain why",
-   "excerpt": "Costco visits rose 5.6% in the third quarter of 2026 and paid memberships hit 84.1 million, despite a fee hike and a crackdown on card sharing.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/costco-aisles-more-packed-ever-110000513.html?.tsrc=rss",
-   "published": "2026-11-18T11:00:00+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코는 3분기 방문객이 5.6% 증가하고 유료 회원이 8,410만 명에 도달했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "da08d2d3bd2e046a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Apple’s Haven Status Makes It One of Priciest Stocks in Market",
-   "excerpt": "It’s been a wild few weeks for Big Tech, as the midterm elections and stunning ouster of Jensen Huang at Nvidia Corp. continue to rock Wall Street.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/apple-haven-status-makes-one-105728059.html?.tsrc=rss",
-   "published": "2026-11-18T10:57:28+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL"
-   ],
-   "summary_ko": [
-    "엔비디아의 변화 등 빅테크 시장의 변동성 속에서 애플의 지위가 주목받고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9f08fe29a8163efb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia, Dell, Sandisk, Take-Two, Target, and More Stocks That Explain Today’s Market",
-   "excerpt": "Nvidia’s rock-solid earnings reassure investors it will carry on funding the AI buildout. Coherent and Dell also rack up gains.",
-   "url": "https://finance.yahoo.com/m/415e4137-8850-333d-b848-d21e98bc6659/nvidia%2C-dell%2C-sandisk%2C.html?.tsrc=rss",
-   "published": "2026-11-18T10:56:00+00:00",
-   "tickers": [
-    "NVDA",
-    "DELL"
-   ],
-   "summary_ko": [
-    "엔비디아의 견고한 실적이 투자자들에게 AI 인프라 투자 지속에 대한 확신을 주었다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f9409e08d89ed3f5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "3 numbers explains why Nvidia stock is rising despite no Jensen Huang on the earnings call",
-   "excerpt": "Nvidia delivered several bullish numbers on its earning day,",
-   "url": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explains-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-105004324.html?.tsrc=rss",
-   "published": "2026-11-18T10:50:04+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 실적 발표에서 여러 호조세를 보였다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "52bbef0b02e44b90",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Market Chatter: Nvidia Sales Team Introduced Alibaba to Megaspeed Founder Before US Chip Export Restrictions",
-   "excerpt": "Nvidia's (NVDA) sales team connected Alibaba (BABA) with Alice Huang, the alleged Chinese spy with w",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-sales-team-104122362.html?.tsrc=rss",
-   "published": "2026-11-18T10:41:22+00:00",
-   "tickers": [
-    "NVDA",
-    "BABA"
-   ],
-   "summary_ko": [
-    "엔비디아 영업팀이 미국 칩 수출 제한 전에 알리바바와 중국 스파이 연루자를 연결했다고 보도했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4425055d69911eca",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The Zacks Analyst Blog Highlights Meta, Amazon's, Microsoft's and Alphabet's",
-   "excerpt": "Meta, Amazon's, Microsoft's and Alphabet's are included in this Analyst Blog.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-meta-103800669.html?.tsrc=rss",
-   "published": "2026-11-18T10:38:00+00:00",
-   "tickers": [
-    "MSFT",
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "메타, 아마존, 마이크로소프트, 알파벳이 애널리스트 블로그에 포함되었다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "8d71a227ab806d4b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Vanguard S&P 500 ETF vs. Schwab U.S. Dividend ETF: How Much You’d Need to Collect $1,000 a Month From Each.",
-   "excerpt": "While VOO and SCHD both pay dividends, one produces three times as much income per dollar invested.",
-   "url": "https://www.fool.com/investing/2026/11/18/vanguard-s-and-p-500-etf-vs-schwab-u-s-dividend-etf-how-much-you-d-need-to-collect-usd1-000-a-month-from-each/?.tsrc=rss",
-   "published": "2026-11-18T10:35:02+00:00",
-   "tickers": [
-    "SCHD"
-   ],
-   "summary_ko": [
-    "VOO와 SCHD의 배당 수익률 차이에 대해 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
