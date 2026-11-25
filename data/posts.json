@@ -1,6 +1,111 @@
 {
- "updated": "2026-11-25T01:00:36.315006+00:00",
+ "updated": "2026-11-25T01:30:30.546317+00:00",
  "posts": [
+  {
+   "id": "5e2c5cf11e1483f0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures Fall After AI Stocks Tumble; Trump Says 'Not Too Late' For Nvidia Stake",
+   "excerpt": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
+   "url": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall-after.html?.tsrc=rss",
+   "published": "2026-11-25T01:23:05+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "인공지능 관련 주식이 하락한 후 다우존스 선물도 내림세를 보였다고 전했다.",
+    "트럼프 대통령이 엔비디아 지분 보유 가능성을 언급했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "1c13a58974377e1b",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "CIA suffers cyber breach, senior US official says",
+   "excerpt": "Fox News chief national security correspondent Jennifer Griffin reports on the lingering national security concerns amid a cybersecurity breach at the CIA and Jensen Huang’s return to Nvidia on ‘Kudlow.’ #fox #foxbusiness #media Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead bu",
+   "url": "https://www.youtube.com/watch?v=HoV8JjxQkdI",
+   "published": "2026-11-25T01:15:26+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "CIA 사이버 침해 사태와 관련된 국가안보 우려를 다뤘다.",
+    "엔비디아의 젠슨 황이 복귀한 소식을 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e0dada2d1c25e13b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Your $300,000 in XLC Holds $130,206 in Just Meta and Alphabet",
+   "excerpt": "A fund labeled communication services sounds like a broad bet on telecom, media, and entertainment. The latest SEC filing shows something far narrower, and one company hides in plain sight by appearing on the holdings list twice.",
+   "url": "https://247wallst.com/investing/etf/2026/11/24/your-300000-in-xlc-holds-130206-in-just-meta-and-alphabet/?.tsrc=rss",
+   "published": "2026-11-25T01:04:06+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "커뮤니케이션 서비스 펀드가 실제로는 메타와 알파벳 비중이 높다는 점을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "75cacf83131e40ad",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What a $5,000 Investment in Shopify Stock Today Could Grow Into by 2030",
+   "excerpt": "The e-commerce business might more than double its cash flow per share by 2030. The stock's gain may be much lower.",
+   "url": "https://www.fool.com/investing/2026/11/24/what-a-usd5-000-investment-in-shopify-stock-today-could-grow-into-by-2030/?.tsrc=rss",
+   "published": "2026-11-25T01:03:02+00:00",
+   "tickers": [
+    "SHOP"
+   ],
+   "summary_ko": [
+    "전자상거래 기업의 주당 현금흐름이 2030년까지 두 배 이상 증가할 수 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "52e40c27383875a6",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "$50,000 Bitcoin Possible? Ray Salmond Says Crypto Bottom Not Confirmed",
+   "excerpt": "Crypto markets continue to show signs of weakening momentum, backed by significant outflows of crypto-tied ETFs, according to Ray Salmond. He believes AI trade volatility, paired with massive IPO launches in companies like SpaceX (SPCX) and Anthropic (ANT), contributed to the downside price action. Ray believes it's still too early to call a bottom in cryptocurrencies like Bitcoin, making the case $50,000 is still possible pending further weakness. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #bitcoin #crypto",
+   "url": "https://www.youtube.com/watch?v=K-3G7XWK4M0",
+   "published": "2026-11-25T01:00:31+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "레이 살몬드는 암호화폐 시장이 약세를 보이고 있다고 진단했다.",
+    "추가 약세가 이어질 경우 비트코인이 5만 달러까지 하락할 수 있다고 전망했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "1a6c61802ac6335b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Market Chatter: California AG Bonta to Press Nvidia Probe, Criticizes Federal Handling",
+   "excerpt": "Nvidia (NVDA) remains under investigation by California, with Attorney General Rob Bonta saying he w",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-california-ag-bonta-005828411.html?.tsrc=rss",
+   "published": "2026-11-25T00:58:28+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "캘리포니아주 법무장관이 엔비디아에 대한 조사를 이어갈 방침이라고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "b91ad3dcf9c00c28",
    "kind": "news",
@@ -80822,335 +80927,6 @@
     "엔비디아의 다가오는 실적과 지속적인 AI 자본 지출을 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "5818d62c85815a5d",
-   "kind": "youtube",
-   "source": "Meet Kevin",
-   "author": "Meet Kevin",
-   "title": "Nvidia DISASTER | Jensen *REJECTED*",
-   "excerpt": "🚀 ✅ 🍁 Code BlackFriday = LOWEST PRICE EVER on ReinvestOne LIFETIME ACCESS 👉 🚨 Last chance 🚨 Guaranteed: it never gets cheaper than this. Ends 11-27 @ 11:59pm PT. 🚀 ✅ 🍁 🔥 Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade! - (Sponsor)💥 Nvidia earnings crushed it: $115.8B quarterly revenue (5.9% beat), a $130B forecast, a $120B buyback expansion, and commitments up nearly 40% to $390B. But the call came with Jensen's resignation, a new board investigating exports, SEC disclosure questions, and China chip bans. I break down margins, Vera Rubin, hyperscaler demand, why Nvidia's forecast and Anthropic's performance are the new catalysts that matter, and my strategy: patience, no debt, cash-secured puts.➡️ Instagram: ----- 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀",
-   "url": "https://www.youtube.com/watch?v=cXMprxBM7Ug",
-   "published": "2026-11-18T01:25:27+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 호실적을 기록했으나 젠슨 황의 사임과 중국 칩 금지 등 우려가 제기되었다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e07f9498ffd4a5fd",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SoFi Is Targeting 100 Million Products by 2030. Here’s What $10,000 Invested Today Could Be Worth if It Gets There.",
-   "excerpt": "Mentioned on the latest earnings call, management’s explicit goal gives investors plenty to cheer about.",
-   "url": "https://www.fool.com/investing/2026/11/17/sofi-targeting-100-million-products-2030-what-10000-invested-today-could-be-worth-if-it-gets-there/?.tsrc=rss",
-   "published": "2026-11-18T01:25:02+00:00",
-   "tickers": [
-    "SOFI"
-   ],
-   "summary_ko": [
-    "소파이가 2030년까지 1억 개의 제품을 목표로 하고 있다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a4ade1869294353b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Target gives shoppers something Walmart and Kroger can't",
-   "excerpt": "The struggling retailer has one glaring weakness, and an industry expert says Costco offers a lesson it should have learned.",
-   "url": "https://www.thestreet.com/retail/target-gives-shoppers-something-walmart-and-kroger-cant?.tsrc=rss",
-   "published": "2026-11-18T01:21:58+00:00",
-   "tickers": [
-    "COST",
-    "WMT"
-   ],
-   "summary_ko": [
-    "타겟이 월마트와 크로거와는 다른 점유율 경쟁 요소를 갖고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "549583dd33d35a10",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Nvidia Chair Harvey Jones: Board does not intend to reinstate Jensen Huang as CEO",
-   "excerpt": "Nvidia's board and interim CEO address investors on first earnings call following departure of fmr. CEO Jensen Huang.",
-   "url": "https://www.youtube.com/watch?v=XjdqKUf5cUk",
-   "published": "2026-11-18T01:19:20+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 이사회와 임시 CEO가 젠슨 황의 퇴임 후 첫 실적 발표에서 입장을 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f54909a080d3ea85",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Could IBM (IBM) Reshape Scientific Computing With Its New Quantum Classical Platform?",
-   "excerpt": "IBM (NYSE:IBM), NVIDIA and Fermilab unveiled a modular quantum classical computing platform that pairs IBM Nighthawk quantum processors with NVIDIA systems. The collaboration places NVIDIA DGX B200 infrastructure in the same facility as IBM's latest quantum hardware to tighten system integration for research workloads. The new setup targets scientific computing tasks that previously could not be addressed using standalone quantum or classical architectures. The launch of this IBM, NVIDIA and...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/could-ibm-ibm-reshape-scientific-011708713.html?.tsrc=rss",
-   "published": "2026-11-18T01:17:08+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "IBM과 엔비디아 등이 새로운 양자-클래식 컴퓨팅 플랫폼을 공개했다.",
-    "이번 협력은 과학 컴퓨팅 연구 워크로드를 목표로 한다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "e00eb67b3555b8af",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Costco Is Up 22% in a Year. Mizuho Sees Another 4%",
-   "excerpt": "Key TakeawaysMizuho raised its Costco price target to $1,150 from $1,100 and kept its Outperform rating, but took the stock off its Top Pick list after its run. Mizuho’s case is about sales: it thinks Costco’s U.",
-   "url": "https://www.tikr.com/blog/costco-is-up-22-in-a-year-mizuho-sees-another-4?ref=yahoofinance&tlnk=yf-261118-3hc7jp9f&.tsrc=rss",
-   "published": "2026-11-18T01:15:18+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "미즈호는 코스트코의 목표주가를 1,150달러로 상향 조정하고 등급을 유지했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "e65014f8514f8cb7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Bought Into Anthropic Near $350 Billion. Gerstner Sees It Pricing at $1.4, $1.5 Trillion",
-   "excerpt": "Key TakeawaysBrad Gerstner expects Anthropic’s IPO on Wednesday to price at $1. 4 trillion to $1.",
-   "url": "https://www.tikr.com/blog/nvidia-bought-into-anthropic-near-350-billion-gerstner-sees-it-pricing-at-1-4-1-5-trillion?ref=yahoofinance&tlnk=yf-261118-8vqx9r76&.tsrc=rss",
-   "published": "2026-11-18T01:14:44+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "브래드 거스트너가 앤트로픽의 기업공개 가치 평가를 전망했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "cbdcfbf9c0b62f20",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Kohl's (KSS) Faces A 17% Premium Following Uber Eats Rollout",
-   "excerpt": "Uber Technologies has launched a nationwide partnership with Kohl's (KSS), putting the retailer's apparel, home goods, and select Sephora at Kohl's products on the Uber Eats app for scheduled or on demand delivery. Kohl's shares have pulled back recently, with a 1-day share price return of 1.20% lower and a 7-day move down 6.71%, even after a 90-day share price gain of 22.56% and a 1-year total shareholder return of 51.23%. In the short term, that loss of momentum hints at some hesitation...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/kohls-kss-faces-17-premium-011302646.html?.tsrc=rss",
-   "published": "2026-11-18T01:13:02+00:00",
-   "tickers": [
-    "UBER"
-   ],
-   "summary_ko": [
-    "우버 이츠가 콜스와 파트너십을 맺고 배달 서비스를 시작했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "78011a5dee0376f7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "NVIDIA Q3 Earnings Call Highlights",
-   "excerpt": "NVIDIA (NASDAQ:NVDA) raised its fiscal 2028 revenue growth forecast and reported record quarterly revenue as its Vera Rubin platform ramped up, even as the company searches for a permanent chief executive following Jensen Huang’s resignation. Revenue reached $116 billion in the third quarter of fis",
-   "url": "https://www.marketbeat.com/instant-alerts/transcript-nvidia-q3-earnings-call-highlights-2026-11-17/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-   "published": "2026-11-18T01:12:55+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 분기 사상 최대 매출을 기록하며 실적 전망을 상향했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "82b1f1de3608601a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SpaceX (SPCX) Merger Talks Advance As $74 Billion AI Campus Plan Takes Shape",
-   "excerpt": "Space Exploration Technologies (NasdaqGS:SPCX) and Tesla are reported to be in advanced talks over a potential merger that would combine their operations. People familiar with the discussions describe the potential deal as record breaking in size, with governance and regulatory structures seen as central negotiation points. SpaceX outlined plans to invest more than US$74b in two new AI supercomputing campuses located in Texas and Arizona as part of a large build out of computing...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-merger-talks-advance-011143094.html?.tsrc=rss",
-   "published": "2026-11-18T01:11:43+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "스페이스X와 테슬라의 합병 논의가 진전되고 있으며 대규모 AI 캠퍼스 투자가 계획되었다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d33718caba02f95b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News",
-   "excerpt": "AI data centers just hit a fresh plot twist. Nvidia’s leadership shakeup, blowout quarter and intense regulatory glare have pushed hyperscalers and their suppliers into the spotlight at the same time. That collision of growth expectations and uncertainty has created a live test of how investors price AI promise against real world risk. This article walks through three stocks exposed to that story from our Hyperscaler Focused AI Data Center Enablers screener. The three stocks highlighted below...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-data-center-stocks-011105971.html?.tsrc=rss",
-   "published": "2026-11-18T01:11:05+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 리더십 변화와 규제 환경 속에서 AI 데이터센터 관련주들이 주목받고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1e192860d0a67642",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Our customer base is still with us, we have a deep breadth of customers, says Nvidia Interim CEO",
-   "excerpt": "Colette Kress, Nvidia Interim CEO and CFO, joins 'Mad Money' host Jim Cramer in a wide ranging interview on Nvidia's Q3 performance, growth and demand opportunities, its business and shipping in southeast Asia, financing decisions made by her predecessor Jensen Huang and much more.",
-   "url": "https://www.youtube.com/watch?v=Uu-v3YJSgNY",
-   "published": "2026-11-18T01:10:22+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 임시 CEO가 고객 기반이 여전히 견고하다고 언급했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "98689e0c68ff5da2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Shots Fired: Musk Says SpaceX Assumes “Zero Sales to OpenAI.” AMD Can’t Say the Same",
-   "excerpt": "Key TakeawaysElon Musk said SpaceX is assuming “zero sales to OpenAI,” replying to Sam Altman’s warning about chipmakers counting on OpenAI’s demand. That puts the risk of double-counted demand on suppliers like AMD, whose OpenAI deal covers up to 6 gigawatts of GPUs.",
-   "url": "https://www.tikr.com/blog/shots-fired-musk-says-spacex-assumes-zero-sales-to-openai-amd-cant-say-the-same?ref=yahoofinance&tlnk=yf-261118-95q7hr6v&.tsrc=rss",
-   "published": "2026-11-18T01:09:50+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "일론 머스크는 스페이스X가 오픈에이아이와의 거래를 가정하지 않는다고 밝혔다고 언급했다.",
-    "이로 인해 AMD와 같은 공급업체들이 수요 중복 계상 리스크에 노출될 수 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e2bbec6a14a6529f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dell Has Tumbled Since September: Why Bernstein Still Sees 103% Upside",
-   "excerpt": "Key TakeawaysBernstein has kept its Outperform rating and $650 price target on Dell Technologies. That’s 103% above the Nov.",
-   "url": "https://www.tikr.com/blog/dell-has-tumbled-since-september-why-bernstein-still-sees-103-upside?ref=yahoofinance&tlnk=yf-261118-vffj424f&.tsrc=rss",
-   "published": "2026-11-18T01:05:54+00:00",
-   "tickers": [
-    "DELL"
-   ],
-   "summary_ko": [
-    "번스타인은 델 테크놀로지스에 대해 투자의견을 유지하고 목표주가를 제시했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "83a38d68e22e6b67",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks",
-   "excerpt": "Investing.com-- Shares of chipmakers and cloud computing firms rose sharply in aftermarket trade on Tuesday after blowout quarterly earnings from sector giant Nvidia helped restore faith in the artificial intelligence trade.",
-   "url": "https://finance.yahoo.com/technology/articles/nvidia-earnings-spark-hours-rally-010526744.html?.tsrc=rss",
-   "published": "2026-11-18T01:05:26+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 호실적 여파로 시간외 거래에서 반도체 및 클라우드 관련주가 급등했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b40f4257f695069b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Good News for Nvidia and Broadcom: Anthropic’s IPO Brings “$60, $80 Billion of New Capital”",
-   "excerpt": "Key TakeawaysAnthropic’s IPO is expected to price on Nov. 18, and Cerity Partners’ Jim Lebenthal estimates it could bring in $60 billion to $80 billion of new capital.",
-   "url": "https://www.tikr.com/blog/good-news-for-nvidia-and-broadcom-anthropics-ipo-brings-60-80-billion-of-new-capital?ref=yahoofinance&tlnk=yf-261118-4xvhpmf6&.tsrc=rss",
-   "published": "2026-11-18T01:04:56+00:00",
-   "tickers": [
-    "NVDA",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "앤스로픽의 IPO가 상당한 규모의 신규 자본을 유입시킬 것으로 예상되며 이는 엔비디아와 브로드컴에 호재가 될 수 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "e54c804bd1e3a3a0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Amazon Is Up 11% in a Year. UBS Sees Another 32%, Even After Cutting Its AWS Estimates",
-   "excerpt": "Key TakeawaysUBS assumed coverage of Amazon with a Buy rating and a $340 price target, 32% above the stock’s price and down from the firm’s previous $352. UBS lowered its AWS growth and margin estimates for 2027, but it still sees AWS making Amazon a defensive AI play.",
-   "url": "https://www.tikr.com/blog/amazon-is-up-11-in-a-year-ubs-sees-another-32-even-after-cutting-its-aws-estimates?ref=yahoofinance&tlnk=yf-261118-m42cgg8h&.tsrc=rss",
-   "published": "2026-11-18T01:03:47+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "UBS는 AWS의 성장 전망치를 하향 조정했음에도 불구하고 아마존에 대해 긍정적인 전망을 유지했다.",
-    "아마존이 방어적인 AI 관련주 역할을 할 것으로 내다봤다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "2ff19e0f637a3f15",
-   "kind": "youtube",
-   "source": "Stock Moe",
-   "author": "Stock Moe",
-   "title": "URGENT 🚨 CRYPTO NOW OR NEVER ‼️ XRP ETH BTC NVDA",
-   "excerpt": "1️⃣ *🚨 Trade $25 Get $50!* ➡ 2️⃣ *🚨 Save 40% code MOE is back!* ➡ 3️⃣ *🎁 FREE month of Earner Plus + 12 free fractional shares worth up to $3,600 from Webull* ➡ 4️⃣ *🚨Stock Moe's Free Sunday Edition Newsletter* 4️⃣ *🚨 Stock Moe's 4 Step Framework Learning Webinar* ➡ Webull Stock Moe Promotion Terms and Conditions: WHAT IS YOUR XRP TARGET? Put it in the comments. I read them. For those who stay on after the trial, code MOE saves you 40 percent. 📬 FREE SUNDAY NEWSLETTER, COSTS NOTHING 📈 WEBULL, WHERE I PLACE MY TRADES The only real bank target on XRP Standard Chartered, Geoff Kendrick, Global Head of Digital Assets Research, note dated February 16, 2026. End of 2026: $2.80, which is 88 percent above today. End of 2027: $7.00, which is 370 percent above today. 2028: $12.60. 2030: $28.00. Be f",
-   "url": "https://www.youtube.com/watch?v=zCnXNNaBNMA",
-   "published": "2026-11-18T01:02:32+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "암호화폐 및 관련 자산에 대한 전망을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ea02779921e3db0b",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "NVDA Earnings Impress Despite Jensen Huang’s Departure",
-   "excerpt": "Max Weinbach says Nvidia (NVDA) earnings exceeded his expectations despite Jensen Huang’s departure as CEO and tighter margins in the outlook. He downplays the need for additional guidance but remains concerned about losing Huang’s extensive semiconductor network. Still, Weinbach remains optimistic on the broader AI trade, pointing to Nvidia’s industry dominance and brand recognition. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #jensenhuang #earnings #economy #finance #investing #marketnews #stock #s",
-   "url": "https://www.youtube.com/watch?v=d4vPB9n8nZk",
-   "published": "2026-11-18T01:00:38+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "젠슨 황의 사임에도 불구하고 엔비디아의 실적이 예상을 뛰어넘었다고 평가했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
