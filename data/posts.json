@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-25T02:00:34.627440+00:00",
+ "updated": "2026-11-25T02:30:31.566976+00:00",
  "posts": [
+  {
+   "id": "e4f95b68f44b4608",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia’s Rebound, Falling Oil And A Strong Dollar: Three Signals Complicating The Fed’s December Decision",
+   "excerpt": "Data from the CME FedWatch tool puts the probability of a 25 bps rate hike in December at 96.4%, while the odds of a 50 bps hike are at 3.6%.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/fed-december-rate-hike-oil-prices-nvidia-rally-inflation/cNbuClGR9l5?.tsrc=rss",
+   "published": "2026-11-25T02:09:32+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 반등과 유가 하락, 강달러가 연준의 12월 결정을 복잡하게 만드는 신호라고 다뤘다.",
+    "CME FedWatch 데이터에 따르면 12월 25 bps 금리 인상 확률은 96.4%로 나타났다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "f467dbae6d12b5a6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "This Nasdaq ETF Pays a 19% Yield Without Writing a Single Covered Call. Here’s How",
+   "excerpt": "A yield near 20% usually hides something. This Calamos fund swaps option writing for structured notes tied to the Nasdaq-100, and the fine print on barriers, skipped coupons, and a JPMorgan swap decides who really wins.",
+   "url": "https://247wallst.com/investing/etf/2026/11/24/this-nasdaq-etf-pays-a-19-yield-without-writing-a-single-covered-call-heres-how/?.tsrc=rss",
+   "published": "2026-11-25T02:02:33+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "커버드콜 없이 19%의 수익률을 내는 나스닥 ETF의 구조를 다뤘다.",
+    "해당 펀드는 옵션 매도 대신 나스닥-100 연계 구조화 노트를 활용한다고 설명했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "e28e6aaf67d7f0f7",
    "kind": "news",
@@ -52,6 +88,24 @@
    "summary_ko": [
     "CIA 사이버 침해 사태와 관련된 국가안보 우려를 다뤘다.",
     "엔비디아의 젠슨 황이 복귀한 소식을 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "256fa8ef9e3404ae",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "‘Just Tell the Truth’: Trump Says Pardon ‘Always an Option’ for Jensen Huang, Urges Nvidia CEO Not to Plead the Fifth Before Congress",
+   "excerpt": "President Donald Trump reportedly left open the possibility of pardoning Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang and said he should not invoke the Fifth Amendment when he testifies before Congress next week. Pardon May Not Be ‘Necessary’ Asked about a pardon for any potential crimes in an interview with The New York Post on Tuesday, Trump said, “It’s always an option, I guess, but I don’t think it’ll be necessary.” He told the Post he wants Huang to “just tell the truth” to Congress and has",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/just-tell-truth-trump-says-011417145.html?.tsrc=rss",
+   "published": "2026-11-25T01:14:17+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프 전 대통령이 엔비디아 CEO 젠슨 황에 대한 사면이 항상 옵션이라고 언급했다고 보도했다.",
+    "또한 의회 증언을 앞둔 젠슨 황에게 진실을 말하라고 촉구했다고 전했다."
    ],
    "tone": "neu"
   },
@@ -123,6 +177,23 @@
     "캘리포니아주 법무장관이 엔비디아에 대한 조사를 이어갈 방침이라고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "5893c33c130157c6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Review & Preview: Tech’s Rough Day",
+   "excerpt": "The jubilation over Jensen Huang’s return to Nvidia hit a wall on Tuesday.",
+   "url": "https://finance.yahoo.com/m/dc63d2d7-de00-385c-9275-d1def80ac0af/review-%26-preview%3A-tech%E2%80%99s.html?.tsrc=rss",
+   "published": "2026-11-25T00:55:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 엔비디아 복귀에 대한 환호가 화요일에 난관에 부딪혔다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "b91ad3dcf9c00c28",
@@ -2612,6 +2683,24 @@
     "이로 인해 마이크론, SK하이닉스, 샌디스크의 주가가 하락했다고 보도했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "352fc50271f2cc26",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom Stock Could Have 70% Upside, Analysts Say. What AVGO’s Valuation Reveals.",
+   "excerpt": "Despite recent weakness in Broadcom’s share price, analysts see significant earnings growth ahead.",
+   "url": "https://www.barchart.com/story/news/8991255/broadcom-stock-could-have-70-upside-analysts-say-what-avgos-valuation-reveals?.tsrc=rss",
+   "published": "2026-11-24T20:10:17+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "일부 애널리스트들은 브로드컴 주가가 70% 상승 여력이 있을 수 있다고 전망했다.",
+    "최근 주가 약세에도 불구하고 향후 상당한 실적 성장이 예상된다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "aa3a243571fc37de",
@@ -80716,146 +80805,6 @@
     "엔비디아는 내년 75%의 성장을 예상한다고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "1112aff9bb7d9c63",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Uber Riders in Vegas Can Now Get Driverless Zoox Robotaxi",
-   "excerpt": "Uber Technologies Inc. on Monday launched Zoox robotaxi rides through its app in Las Vegas. The company also announced separate partnerships to expand electronics delivery in Canada and accelerate electric vehicle adoption in India. Uber Expands Autonomous Ride-Hailing Services Uber...",
-   "url": "https://finance.yahoo.com/technology/articles/uber-riders-vegas-now-driverless-023011406.html?.tsrc=rss",
-   "published": "2026-11-18T02:30:11+00:00",
-   "tickers": [
-    "UBER"
-   ],
-   "summary_ko": [
-    "우버가 라스베이거스에서 앱을 통해 주행 로보택시 서비스를 출시했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "547c286b25ef2a9a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft Stock Hits Seven-Week Low: Is a Bigger Drop Coming?",
-   "excerpt": "Microsoft stock hit a 2-month low as rate-hike bets, an Anthropic rival, and outages hit MSFT. See the key support levels.",
-   "url": "https://beincrypto.com/microsoft-stock-two-month-low-outages/?.tsrc=rss",
-   "published": "2026-11-18T02:26:43+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "금리 인상 전망과 경쟁사 등장, 서비스 중단 여파로 마이크로소프트 주가가 7주 만에 최저치를 기록했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "dac3fb5773663443",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dow Jones Futures Waver After Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
-   "excerpt": "Nvidia earnings beat after the stock market broke below recent lows. Target earnings are on tap, with the Anthropic IPO set to price Wednesday night.",
-   "url": "https://finance.yahoo.com/m/3b22ed8c-00c3-32f8-89f5-91bc21ccb366/dow-jones-futures-waver-after.html?.tsrc=rss",
-   "published": "2026-11-18T02:26:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 실적 호조 이후 다우존스 선물 지수가 흔들렸다고 다뤘다.",
-    "타겟 실적 발표와 앤스로픽의 IPO가 예정되어 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1063113db506d2f8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "3 U.S. AI Chip Stocks Facing Export Rules Investors Should Watch",
-   "excerpt": "Nvidia’s record US$116b quarter and firm stance on export control oversight have turned AI chips into a live test of how profit, policy and leadership all pull on a stock at once. This is where opportunity often hides, when prices swing and headlines focus on the wrong thing. The rest of this piece breaks down three U.S.-listed AI chip exporters most exposed to this news and what that could mean for your portfolio. The three stocks in this article are a starting sample, and the full screen...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/3-u-ai-chip-stocks-021457283.html?.tsrc=rss",
-   "published": "2026-11-18T02:14:57+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 기록적인 실적과 수출 통제 입장이 AI 칩 종목에 미치는 영향을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d1e176e1dd131fe1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Learn Why The Bull Case For Kohl's (KSS) Could Change Following Uber Eats Delivery Launch",
-   "excerpt": "Uber Technologies announced a nationwide partnership that puts Kohl's assortment from more than 1,100 stores on Uber Eats for on demand and scheduled delivery, including apparel, home goods and select Sephora at Kohl's beauty products. The tie up gives Kohl's another way to reach value focused shoppers who might be cutting back on trips to physical stores but still want convenient access to everyday essentials and gifting categories. Attention now turns to how this Uber Eats delivery access...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-kohls-021312121.html?.tsrc=rss",
-   "published": "2026-11-18T02:13:12+00:00",
-   "tickers": [
-    "UBER"
-   ],
-   "summary_ko": [
-    "우버는 콜스 제품을 우버 이츠를 통해 배송하는 파트너십을 발표했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "e0af142557e98667",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Will GPU Edge Launch Change Rockwell Automation's (ROK) Narrative",
-   "excerpt": "Rockwell Automation recently introduced GPU-enabled industrial PCs powered by NVIDIA RTX GPUs and integrated NVIDIA Omniverse, RTX and OpenUSD into its Emulate3D simulation software to support factory-scale visualization and AI workloads closer to production. The combination of GPU edge hardware and richer digital simulation tools gives Rockwell Automation more ways to connect control, visualization and AI within a single operational workflow for manufacturers. We will examine how Rockwell...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/gpu-edge-launch-change-rockwell-021124213.html?.tsrc=rss",
-   "published": "2026-11-18T02:11:24+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "로크웰 오토메이션이 GPU 기반 산업용 PC 등을 새롭게 도입했다고 밝혔다.",
-    "제조업체들을 위한 작업 흐름 연결 방식을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "21531db1f7ef28d1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Salesforce starts fresh round of job cuts, Business Insider reports",
-   "excerpt": "Investing.com -- Salesforce (NYSE:CRM) has begun another round of workforce reductions, according to internal employee communications reviewed by Business Insider, adding to the software company's restructuring activity this year as it faces mounting investor scrutiny over the impact of AI on traditional software businesses.",
-   "url": "https://finance.yahoo.com/technology/articles/salesforce-starts-fresh-round-job-021011575.html?.tsrc=rss",
-   "published": "2026-11-18T02:10:11+00:00",
-   "tickers": [
-    "CRM"
-   ],
-   "summary_ko": [
-    "세일즈포스가 인력 감축에 다시 돌입했다고 보도했다.",
-    "AI가 전통 소프트웨어 사업에 미치는 영향 속에서 구조조정이 진행 중이라고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "9aa929863469e0db",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jeff Bezos Warns Outsider CEO Replacing Jensen Huang Faces ‘Vanishingly Small Chance of Succeeding’ at Nvidia: ‘Too Complicated’",
-   "excerpt": "Amazon.com, Inc. (NASDAQ:AMZN) founder Jeff Bezos has urged Nvidia Corp.’s (NASDAQ:NVDA) board to prioritize internal candidates when selecting a permanent successor to Jensen Huang. Jeff Bezos Advises Nvidia Against Hiring An Outside CEO On Tuesday, speaking to Semafor’s Liz Hoffman at the Silicon Valley & The World conference, the Amazon founder said Nvidia should look within its ranks if the board does not bring Huang back. “If you don’t bring Jensen back, I would not hire an outsider,” Bezos",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-warns-outsider-ceo-020318354.html?.tsrc=rss",
-   "published": "2026-11-18T02:03:18+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존 창업자 제프 베조스가 엔비디아 이사회에 외부 출신 CEO 대신 내부 후보를 우선 고려할 것을 조언했다고 전했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
