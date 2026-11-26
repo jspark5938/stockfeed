@@ -1,6 +1,77 @@
 {
- "updated": "2026-11-26T00:30:33.123549+00:00",
+ "updated": "2026-11-26T01:00:36.899160+00:00",
  "posts": [
+  {
+   "id": "46c60bbac54b4b88",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures Rise; Market Goes On Wild Ride As Nasdaq Slashes Losses",
+   "excerpt": "The market went on a wild ride before Thanksgiving, but the Dow and Anthropic reversed higher while the Nasdaq and Nvidia came well off lows.",
+   "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B.html?.tsrc=rss",
+   "published": "2026-11-26T00:56:56+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "추추 감사절 전 시장이 큰 변동성을 겪었다고 다뤘다.",
+    "다우 지수와 엔비디아 등이 저점에서 반등했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "03e0cdbd40121a8b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Big AI Buyers Want a Second Source. Is AMD (AMD) It?",
+   "excerpt": "Advanced Micro Devices, Inc. (NASDAQ:AMD) ranks 6th on our list of the 10 Best Strong Buy Growth Stocks to Buy for 2027. By November 19, the wider market had slipped about 8.5% from its 52-week high, and chip stocks took the hardest hit, with the semiconductor sector down roughly 36% from its own peak. Concerns […]",
+   "url": "https://finance.yahoo.com/technology/ai/articles/big-ai-buyers-want-second-005602621.html?.tsrc=rss",
+   "published": "2026-11-26T00:56:02+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "인공지능 대형 바이어들의 대체 공급처로 AMD를 다뤘다.",
+    "반도체 섹터가 고점 대비 큰 조정을 받았다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "8808c0150a36f209",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ASML (ASML) Can’t Meet Demand. Is That a Strength or Risk?",
+   "excerpt": "We just published our list of the 10 Best Strong Buy Growth Stocks to Buy for 2027, and ASML Holding N.V. (NASDAQ:ASML) holds the 9th spot. By November 19, the wider market had slipped about 8.5% from its 52-week high, and chip stocks took the hardest hit, with the semiconductor sector down roughly 36% from […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/asml-asml-t-meet-demand-004924571.html?.tsrc=rss",
+   "published": "2026-11-26T00:49:24+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "summary_ko": [
+    "ASML의 수요 충족 실패가 강점인지 위험인지에 대해 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "b8d61eae4d55c669",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Elon Musk tells Tesla investors there is 'only one way' to eliminate poverty",
+   "excerpt": "Musk says poverty won’t end with government checks, and that Tesla is building the real answer.",
+   "url": "https://www.thestreet.com/investing/elon-musk-tells-tesla-investors-optimus-robots-will-eliminate-poverty?.tsrc=rss",
+   "published": "2026-11-26T00:37:00+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크가 빈곤을 없앨 유일한 방법이 있다고 주장했다.",
+    "테슬라가 그 해답을 구축하고 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "e5e0567e3bf39514",
    "kind": "youtube",
@@ -77101,113 +77172,6 @@
    ],
    "summary_ko": [
     "마이크론이 최근 발표된 샌디스크의 사례에 이어 주식 분할 가능성이 있음을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a6b5184ab0d34b21",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Corning CEO on working with Steve Jobs to make screens for the first iPhone",
-   "excerpt": "“Steve has a unique combination of being challenging but still convincing you you can do a thing.” At the F500 Innovation Forum, Corning CEO Wendell Weeks reflected on working with Apple cofounder Steve Jobs.",
-   "url": "https://finance.yahoo.com/video/corning-ceo-working-steve-jobs-010013740.html?.tsrc=rss",
-   "published": "2026-11-19T01:00:13+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "코닝의 CEO가 포럼에서 애플 창업자 스티브 잡스와 함께 첫 아이폰 화면을 만들었던 일화를 회상했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "58fea83ceda19f8a",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "NVDA Backlog Supports AI Demand Outlook Despite Margin Pressure",
-   "excerpt": "Sean Emory and Zeus Kerravala reflect on Nvidia’s (NVDA) earnings, with Sean highlighting revenue diversification and concerns about the company’s viability amid a potential leadership change. Following Wednesday’s pullback, Zeus argues that “AI made Jensen [Huang] as much as Jensen made AI,” and sees demand holding up with or without Jensen. Both acknowledge narrower profit margins but remain confident in Nvidia’s product backlog. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #nvidia #jensenhuang #earnings #e",
-   "url": "https://www.youtube.com/watch?v=BfcZdOkJt_o",
-   "published": "2026-11-19T01:00:04+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "전문가들은 엔비디아의 실적을 다루며 매출 다변화와 마진 압박 우려를 언급했다.",
-    "또한 제품 백로그를 바탕으로 AI 수요는 계속 유지될 것이라고 전망했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "aa2f46b01970a1b3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "UiPath vs. Palantir Technologies: Comparing Modest Revenue Growth vs. Rapid Expansion",
-   "excerpt": "Palantir's quarterly revenue has more than doubled over the past eight quarters, while UiPath's has stayed largely flat with recurring seasonal swings.",
-   "url": "https://www.fool.com/coverage/charts/2026/11/18/uipath-vs-palantir-technologies-comparing-modest-revenue-growth-vs-rapid-expansion/?.tsrc=rss",
-   "published": "2026-11-19T00:45:18+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "summary_ko": [
-    "팔란티어의 분기 매출은 최근 8분기 동안 두 배 이상 증가했다고 다뤘다.",
-    "반면 유아이패스의 매출은 계절적 변동을 보이며 정체 상태를 유지했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6b60abb080c05c68",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Nvidia and ASML still fit an underweight tech strategy",
-   "excerpt": "Crossmark Global Investments’ Victoria Fernandez sees room for a broader bull market, but she favors measured AI exposure, sector diversification, and intermediate-term bonds over an outsized technology bet.",
-   "url": "https://www.thestreet.com/investing/why-nvidia-and-asml-still-fit-an-underweight-tech-strategy?.tsrc=rss",
-   "published": "2026-11-19T00:44:54+00:00",
-   "tickers": [
-    "NVDA",
-    "ASML"
-   ],
-   "summary_ko": [
-    "전문가는 기술주 비중을 낮게 유지하는 전략에서 엔비디아와 ASML이 여전히 적합하다고 분석했다.",
-    "대규모 기술주 투자보다는 신중한 AI 노출과 다변화를 선호한다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e1e3b53c0946ab1c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-   "excerpt": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-satya-nadella-explains-004256847.html?.tsrc=rss",
-   "published": "2026-11-19T00:42:56+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "사티아 나델라 CEO가 6만 명의 직원에게 자발적 퇴사를 권유한 이유를 설명했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0450f1872ce3dc1a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "GE Vernova Down 24%: What Would Its CEO Say?",
-   "excerpt": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://www.trefis.com/stock/gev/articles/625753/ge-vernova-down-24-what-would-its-ceo-say/2026-11-18?.tsrc=rss",
-   "published": "2026-11-19T00:36:26+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "GE 베르노바의 주가 하락과 함께 엔비디아 주가 하락 가능성을 다뤘다."
    ],
    "tone": "neu"
   }
