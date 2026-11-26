@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:50:46.529067+00:00",
+ "updated": "2026-11-26T03:00:39.490478+00:00",
  "trends": [
   {
    "ticker": "JOBY",
@@ -149,6 +149,13 @@
    "ratio": 1.33
   },
   {
+   "ticker": "COIN",
+   "name_ko": "코인베이스",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 8,
+   "ratio": 1.25
+  },
+  {
    "ticker": "ADBE",
    "name_ko": "어도비",
    "mentions_24h": 5,
@@ -161,6 +168,13 @@
    "mentions_24h": 35,
    "mentions_prev_24h": 29,
    "ratio": 1.21
+  },
+  {
+   "ticker": "ORCL",
+   "name_ko": "오라클",
+   "mentions_24h": 21,
+   "mentions_prev_24h": 18,
+   "ratio": 1.17
   },
   {
    "ticker": "RKLB",
@@ -177,32 +191,18 @@
    "ratio": 1.14
   },
   {
-   "ticker": "AMZN",
-   "name_ko": "아마존",
-   "mentions_24h": 56,
-   "mentions_prev_24h": 50,
-   "ratio": 1.12
-  },
-  {
-   "ticker": "COIN",
-   "name_ko": "코인베이스",
-   "mentions_24h": 9,
-   "mentions_prev_24h": 8,
-   "ratio": 1.12
-  },
-  {
-   "ticker": "ORCL",
-   "name_ko": "오라클",
-   "mentions_24h": 20,
-   "mentions_prev_24h": 18,
-   "ratio": 1.11
-  },
-  {
    "ticker": "DELL",
    "name_ko": "델",
    "mentions_24h": 55,
    "mentions_prev_24h": 50,
    "ratio": 1.1
+  },
+  {
+   "ticker": "AMZN",
+   "name_ko": "아마존",
+   "mentions_24h": 55,
+   "mentions_prev_24h": 51,
+   "ratio": 1.08
   },
   {
    "ticker": "AAPL",
@@ -261,6 +261,13 @@
    "ratio": 0.79
   },
   {
+   "ticker": "MSFT",
+   "name_ko": "마이크로소프트",
+   "mentions_24h": 27,
+   "mentions_prev_24h": 35,
+   "ratio": 0.77
+  },
+  {
    "ticker": "JPM",
    "name_ko": "JP모건",
    "mentions_24h": 12,
@@ -275,11 +282,11 @@
    "ratio": 0.75
   },
   {
-   "ticker": "MSFT",
-   "name_ko": "마이크로소프트",
-   "mentions_24h": 26,
-   "mentions_prev_24h": 35,
-   "ratio": 0.74
+   "ticker": "TSM",
+   "name_ko": "TSMC",
+   "mentions_24h": 12,
+   "mentions_prev_24h": 17,
+   "ratio": 0.71
   },
   {
    "ticker": "BAC",
@@ -293,13 +300,6 @@
    "name_ko": "AMD",
    "mentions_24h": 26,
    "mentions_prev_24h": 39,
-   "ratio": 0.67
-  },
-  {
-   "ticker": "TSM",
-   "name_ko": "TSMC",
-   "mentions_24h": 12,
-   "mentions_prev_24h": 18,
    "ratio": 0.67
   },
   {
@@ -340,8 +340,8 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 215,
-   "mentions_prev_24h": 449,
+   "mentions_24h": 216,
+   "mentions_prev_24h": 446,
    "ratio": 0.48
   },
   {
