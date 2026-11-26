@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-26T04:30:36.873260+00:00",
+ "updated": "2026-11-26T05:00:41.136386+00:00",
  "posts": [
+  {
+   "id": "a719672666013e5a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "MegazoneCloud Launches Its Amazon Quick Center of Excellence to Turn Enterprise Data Into Autonomous Action",
+   "excerpt": "MegazoneCloud (CEO: Doug Yeum), a leading AI and cloud company, today announced the official launch of its Amazon Quick Center of Excellence (CoE). The dedicated delivery practice is built for the last mile of enterprise AI where most initiatives stall between a promising pilot and a governed production system people actually use. It directly addresses the defining question on every leadership agenda: how much work should run autonomously, and under whose oversight?",
+   "url": "https://finance.yahoo.com/technology/ai/articles/megazonecloud-launches-amazon-quick-center-042800157.html?.tsrc=rss",
+   "published": "2026-11-26T04:28:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "메가존클라우드가 기업 데이터를 자율형 실행으로 전환하기 위해 아마존 퀵 탁월성 센터를 출범했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "0f8d8fb83e8ef32c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
+   "excerpt": "TOKYO, November 26, 2026--Kioxia and NVIDIA collaborate to extend effective GPU memory capacity to petabyte scale using NVIDIA SCADA software and Kioxia SSDs.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/kioxia-nvidia-collaborate-expand-effective-041900475.html?.tsrc=rss",
+   "published": "2026-11-26T04:19:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "키오시아와 엔비디아가 SSD를 활용해 고대역폭 메모리 용량을 확장하기 위해 협력한다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "380b637d8b7badf5",
    "kind": "youtube",
@@ -13,9 +47,10 @@
    "tickers": [
     "TSLA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "아크 인베스트가 테슬라의 FSD 15와 로보택시 출시 등을 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "d337d6481ba25a2b",
@@ -29,9 +64,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "JD 밴스 부통령은 엔비디아 CEO 젠슨 황이 범죄를 저질렀다는 증거를 보지 못했다고 언급했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "c252944f769ae234",
@@ -45,9 +81,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "추수감사절 이전 시장이 변동성을 보인 가운데 다우와 엔비디아 등이 저점에서 반등했다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "2718c04da3d7b177",
@@ -219,9 +256,10 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "개리 블랙은 엔비디아가 10년 내 가장 저렴한 밸류에이션에 거래되고 있으며 성장이 이어질 것으로 전망했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "a30ef9027ea0060c",
@@ -1399,9 +1437,10 @@
    "tickers": [
     "AVGO"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "캐시 우드가 ARKK의 브로드컴 지분 대부분을 매각한 가운데 다가오는 실적이 이를 반박할지 주목된다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "00596361d2cc675d",
@@ -76861,75 +76900,6 @@
     "매출이 39% 급증했으며 45억 달러 규모의 인수 계획도 공개했다고 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "f9c32c7d2d8ab53d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Did Cathie Wood Sell Nvidia Before Earnings and Buy Crypto Stocks?",
-   "excerpt": "Cathie Wood's ARK sold $84.8M of Nvidia before earnings and bought crypto stocks. Three explanations fit the trade data.",
-   "url": "https://beincrypto.com/why-cathie-wood-sold-nvidia-crypto/?.tsrc=rss",
-   "published": "2026-11-19T05:00:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "캐시 우드의 ARK가 실적 발표 전 엔비디아 주식을 매각했다고 다뤘다.",
-    "대신 암호화폐 관련 주식을 매수한 배경을 설명하는 세 가지 분석을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ae4ad3e05c2e48f4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Wall St’s $500 bln pledge to Nvidia yet to be mobilized, WSJ reports",
-   "excerpt": "Investing.com-- Wall Street’s biggest banks and asset managers had pledged up to $500 billion to help Nvidia customers finance chip purchases earlier this year, but no capital has been deployed to date, the Wall Street Journal reported on Wednesday.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-500-bln-pledge-044504722.html?.tsrc=rss",
-   "published": "2026-11-19T04:45:04+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "월스트리트가 엔비디아 고객의 칩 구매를 위해 약속한 자금이 아직 집행되지 않았다고 WSJ가 보도했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "99a6ee8b0ebf6e13",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron (MU) Stock May Be 16% Undervalued Following Fresh AI Supply News",
-   "excerpt": "Micron Technology has swung from a sharp sector sell off in recent weeks to the center of the AI supply build out story. This puts a spotlight on a simple question for you as a shareholder or potential buyer: Is a price around US$705 per share adequately backed by the cash flows the memory producer can realistically generate over time, once the current excitement and anxiety around AI subsides? Over the past 3 years, Micron stock has delivered a return of a little more than 8x, which raises...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-may-16-043421943.html?.tsrc=rss",
-   "published": "2026-11-19T04:34:21+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론이 AI 공급망 구축 이야기의 중심에 서면서 주가 저평가 가능성을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "35f1298c718a8d16",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "iQIYI (IQ) Stock Sees Fair Value Cut After Analysts Lower Targets",
-   "excerpt": "iQIYI is back in focus after JPMorgan cut its price target from US$2.20 to US$1.20 and Goldman Sachs shifted from US$1.60 to US$1.40. With both firms now clustered in the US$1.20 to US$1.40 range and maintaining Neutral views, the tone around iQIYI has turned more measured, with risk and reward seen as more finely balanced at current levels. As you read on, you will see how these target moves fit into the wider story and what to watch as the iQIYI narrative evolves. Analyst Price Targets...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/iqiyi-iq-stock-sees-fair-043337461.html?.tsrc=rss",
-   "published": "2026-11-19T04:33:37+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "JP모건과 골드만삭스가 아이치이의 목표주가를 내린 후 주가 적정 가치도 하향 조정되었다고 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
