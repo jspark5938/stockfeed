@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-26T19:00:39.889990+00:00",
+ "updated": "2026-11-26T19:30:31.591188+00:00",
  "posts": [
+  {
+   "id": "d6e3be0829079ded",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nike Stock Is Down 42% in 2026, and Lululemon Is Doing Even Worse",
+   "excerpt": "Two athletic brands are staring at some of their worst years on record, yet one looks cheap and the other looks expensive for reasons the headline numbers hide. Which stumble is a bargain, and which is a trap?",
+   "url": "https://247wallst.com/investing/2026/11/26/nike-stock-is-down-42-in-2026-and-lululemon-is-doing-even-worse/?.tsrc=rss",
+   "published": "2026-11-26T19:18:14+00:00",
+   "tickers": [
+    "NKE"
+   ],
+   "summary_ko": [
+    "나이키와 룰루레몬이 부진한 한 해를 보내고 있다고 다뤘다.",
+    "표면적인 수치 뒤에 숨겨진 저렴함과 비쌈의 이유를 분석했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e3642a741deff447",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "U.S. retailers offer Thanksgiving deals even as meal costs, turkey prices rise",
+   "excerpt": "Investing.com -- Major U.S. companies such as Walmart have been offering Thanksgiving meal kits that are similar to or cheaper than last year’s prices, even as Farm Bureau data showed an uptick in the price of goods for Thanksgiving dinner for the first time since 2022.",
+   "url": "https://finance.yahoo.com/economy/articles/u-retailers-offer-thanksgiving-deals-190718507.html?.tsrc=rss",
+   "published": "2026-11-26T19:07:18+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "식품 물가가 상승했음에도 월마트 등 미국 소매업체들이 추수감사절 할인 행사를 제공했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d34dd6688a48836d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla Stocks Slip 1.18% as EU Delays Self-Driving Vote to December 15",
+   "excerpt": "The bloc's vehicle committee postponed a discussion on approving Tesla Assisted Driving, originally expected December 1, without giving a reason.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-slip-1-18-190357031.html?.tsrc=rss",
+   "published": "2026-11-26T19:03:57+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "EU가 테슬라의 자율주행 관련 투표를 연기하면서 테슬라 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "47bd41ab6fa32b2c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout",
+   "excerpt": "TSMC fell 3.59% in Taipei as the Taiex posted its sixth-largest point drop on record, a day after a 9% rally.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stocks-slip-1-190319001.html?.tsrc=rss",
+   "published": "2026-11-26T19:03:19+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": [
+    "대만 증시 하락과 반도체 약세 속에서 타이완 반도체 제조 주가가 하락했다고 보도했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "ee152b5b916c8ea0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "BofA resets Dell stock price target by $100 after record earnings",
+   "excerpt": "BofA cuts its DELL price target despite a record $54.9 billion quarter, questioning AI growth sustainability.",
+   "url": "https://www.thestreet.com/investing/stocks/dell-dell-technologies-bank-of-america-resets-dell-stock-price-target-by-100-after-record-q3-earnings?.tsrc=rss",
+   "published": "2026-11-26T19:03:00+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카가 역대급 실적에도 불구하고 델의 목표 주가를 조정했다고 전했다.",
+    "AI 성장 지속 가능성에 대한 의문을 제기했다고 덧붙였다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "681b4219ff54132e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Exxon Mobil Stocks Edge Lower as Brent Jumps 3.5% on Refinery Attack",
+   "excerpt": "Houthis claimed a strike on Saudi Arabia's Ras Tanura refinery, yet Exxon shares barely moved ahead of the OPEC+ meeting.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-stocks-edge-lower-190142696.html?.tsrc=rss",
+   "published": "2026-11-26T19:01:42+00:00",
+   "tickers": [
+    "XOM"
+   ],
+   "summary_ko": [
+    "정유 시설 공격 여파로 브렌트유가 상승했으나 엑슨모빌 주가는 소폭 하락했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "156a09ee13ee5812",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Apple Stocks Rise as AI Selloff Spares the iPhone Maker",
+   "excerpt": "Apple gained while the Nasdaq briefly fell 4.6%, as investors favored device-based AI over cloud spending despite rising memory costs.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-rise-ai-selloff-190038273.html?.tsrc=rss",
+   "published": "2026-11-26T19:00:38+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "나스닥 하락세 속에서도 AI 매도세의 영향을 피하며 애플 주가가 상승했다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "4dc0ea75749942d8",
    "kind": "youtube",
@@ -32,6 +153,57 @@
    ],
    "summary_ko": [
     "미국인의 소비 축소 계획에도 불구하고 코스트코 특정 매장의 매출이 두 배 이상 증가했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "4b4fbb8cb147e2ff",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Stocks Slip After Erasing a 10.3% Plunge Below $50",
+   "excerpt": "Shares hit $49.16 in the morning chip rout, then recovered almost all the loss as buyers defended the $50 level.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-slip-erasing-10-184536612.html?.tsrc=rss",
+   "published": "2026-11-26T18:45:36+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔 주가가 장중 급락세를 보였으나 매수세 유입으로 손실을 대부분 만회했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "de381f1f439fe9f9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft Stocks Slip 1.25% While Nadella Backs Cheaper In-House AI Models",
+   "excerpt": "Microsoft's CEO said trailing frontier labs by three to six months is fine if Microsoft spends a fraction of their compute.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-slip-1-25-184200035.html?.tsrc=rss",
+   "published": "2026-11-26T18:42:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트 CEO가 저렴한 자체 AI 모델 개발을 지지하는 가운데 주가가 하락했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "74aade21a2cdcba1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba Stocks Rise 1.65% as AI Cloud Growth of 53% Outweighs Tech Rout",
+   "excerpt": "The ADR gained against a falling Nasdaq as investors weighed cloud strength against a 60% capex jump and RMB10.5 billion AI lab losses.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-stocks-rise-1-65-184035587.html?.tsrc=rss",
+   "published": "2026-11-26T18:40:35+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "알리바바는 AI 클라우드 부문의 고성장에 힘입어 기술주 약세 속에서도 상승했다고 다뤘다."
    ],
    "tone": "pos"
   },
@@ -70470,423 +70642,6 @@
    ],
    "summary_ko": [
     "스페이스X가 엔비디아의 최대 고객이자 주요 보유 지분이라는 점을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "fd6955cd12855eb3",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Verdict Capital's Michael Fertik: 'He is Jensen Huang. He's not Jesus Christ'",
-   "excerpt": "Verdict Capital founder Michael Fertik weighs in on Jensen Huang’s departure from Nvidia on CNBC’s “Squawk Box.”",
-   "url": "https://www.youtube.com/watch?v=WBhy3F9VAf8",
-   "published": "2026-11-19T19:30:12+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "버딕 캐피털의 마이클 퍼틱은 젠슨 황의 엔비디아 이탈과 관련해 의견을 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9fbde5921c51260c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart Global Ad Sales Jump 25% YoY On 37% U.S. Increase",
-   "excerpt": "Global ad revenue grew 25% year-over-year, led by a 37% increase in Walmart U.S. advertising.",
-   "url": "https://www.mediapost.com/publications/article/419562/walmart-global-ad-sales-jump-25-yoy-on-37-us-i.html?.tsrc=rss",
-   "published": "2026-11-19T19:28:35+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트의 글로벌 광고 매출이 전년 동기 대비 증가했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "6ef077bab57f5022",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tariff Refunds Appear to Fund Price Cuts at Target, Walmart, But No Direct Payouts to Customers",
-   "excerpt": "Target booked $301 million in tariff refunds in Q3, with Walmart using recovered refunds to offset more than $2 billion in added fuel costs this year.",
-   "url": "https://wwd.com/sourcing-journal/logistics/target-walmart-tariff-refunds-price-cuts-q3-tammy-baldwin-elizabeth-warren-1239428399/?.tsrc=rss",
-   "published": "2026-11-19T19:26:55+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "타겟과 월마트가 관세 환급금을 활용해 비용 부담을 상쇄했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f3a8c511ef37ab49",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "UnitedHealth Stock Continues Slide on Medicare for All Push. What Lies Ahead for Insurers.",
-   "excerpt": "UnitedHealth and other insurer stocks were falling Thursday. Democrats’ sweep of Congress has breathed new life into the push for Medicare for All.",
-   "url": "https://finance.yahoo.com/m/94c5daa3-dbb2-3500-8639-d52a402ecc88/unitedhealth-stock-continues.html?.tsrc=rss",
-   "published": "2026-11-19T19:26:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "summary_ko": [
-    "민주당의 의회 장악으로 의료보험 관련 주가들이 하락세를 보였다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "3965cba16c79a4e5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nike Sinks 5%, Dick’s Sporting Goods Down 5% as Analyst Flags Jordan Allocation Cuts of Up to 50%",
-   "excerpt": "Key TakeawaysNike fell 5% after an analyst said it plans to cut Jordan allocations to Dick’s Sporting Goods’ Foot Locker by up to 50%. Analysts already expect Nike’s revenue to fall to $42.",
-   "url": "https://www.tikr.com/blog/nike-sinks-5-dicks-sporting-goods-down-5-as-analyst-flags-jordan-allocation-cuts-of-up-to-50?ref=yahoofinance&tlnk=yf-261119-r5m84fqw&.tsrc=rss",
-   "published": "2026-11-19T19:25:19+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "한 애널리스트가 나이키의 조던 물량 감축 가능성을 제기하면서 주가가 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "aefdb5ee8805d2b0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump Discloses Up to $380,000 in Nvidia Buys, Calls Huang’s Exit ‘Such a Tragedy’",
-   "excerpt": "President Donald Trump’s portfolio bought between $152,004 and $380,000 in Nvidia Corp. (NASDAQ:NVDA) stock in September, according to an ethics disclosure released Thursday. It sold up to $15,000 on Sept. 24. That evening, Nvidia’s then-CEO Jensen Huang sat at the...",
-   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63452585/trump-nvidia-stock?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-   "published": "2026-11-19T19:22:08+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "도널드 트럼프 대통령의 포트폴리오가 9월에 엔비디아 주식을 매수했다고 윤리 보고서가 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "7d386ae8d4c34360",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart’s CEO Revealed the Diesel Price That Could End the Company’s Low-Price Streak",
-   "excerpt": "Walmart budgeted for cheap fuel, but the trucks are burning something far pricier. Its CEO admitted the gap is seeping into the cost of goods, and one number on the shelves will show whether shoppers start paying for it.",
-   "url": "https://247wallst.com/personal-finance/2026/11/19/walmarts-ceo-revealed-the-diesel-price-that-could-end-the-companys-low-price-streak/?.tsrc=rss",
-   "published": "2026-11-19T19:19:32+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트 CEO가 저렴한 연료 예산과 달리 치솟은 디젤 가격이 상품 원가에 영향을 미치고 있다고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "97e8ceeb2dc01ef7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart, Costco see some panic-buying after tech outages",
-   "excerpt": "Outages at Apple, Chase, Microsoft, and US airlines could mean good news for Walmart.",
-   "url": "https://finance.yahoo.com/markets/article/walmart-costco-see-some-panic-buying-after-tech-outages-191922568.html?.tsrc=rss",
-   "published": "2026-11-19T19:19:22+00:00",
-   "tickers": [
-    "AAPL",
-    "MSFT",
-    "COST",
-    "WMT"
-   ],
-   "summary_ko": [
-    "일부 기술 기업의 서비스 중단 이후 월마트와 코스트코에서 사재기 현상이 나타났다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f2bfe8127b864088",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Fixing Netflix's Growing Subscriber Satisfaction Problem",
-   "excerpt": "The likelihood of users recommending Netflix or Net Promoter Score is now +51 vs. +53 a year ago, according to Worldpanel by Numerator, a consumer and shopper behavior researcher.",
-   "url": "https://www.mediapost.com/publications/article/419525/fixing-netflixs-growing-subscriber-satisfaction-p.html?.tsrc=rss",
-   "published": "2026-11-19T19:17:13+00:00",
-   "tickers": [
-    "NFLX"
-   ],
-   "summary_ko": [
-    "넷플릭스의 추천 지수가 전년 대비 소폭 하락했다고 소비자 행동 연구 기관이 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "444947195544f9e2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Missed the Anthropic IPO? These 3 Stocks Give You Immediate Exposure.",
-   "excerpt": "Nvidia, Amazon, and Alphabet are all benefiting from Anthropic's success.",
-   "url": "https://www.fool.com/investing/2026/11/19/missed-the-anthropic-ipo-these-3-stocks-give-you-immediate-exposure/?.tsrc=rss",
-   "published": "2026-11-19T19:17:02+00:00",
-   "tickers": [
-    "NVDA",
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "엔비디아, 아마존, 알파벳이 앤스로픽의 성공으로 혜택을 받고 있다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c88e924de44fdd9c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Apple (AAPL) Faces UK Backdoor Admission And French Obsolescence Trial",
-   "excerpt": "Apple (NasdaqGS:AAPL) is facing scrutiny after Britain acknowledged ordering the company to build a user data access backdoor. The UK admission follows a dispute over encryption requirements tied to public security powers and potential compliance expectations for Apple services. French prosecutors have moved Apple toward trial over alleged planned obsolescence linked to older iPhone performance and repair practices. The UK backdoor order and French planned obsolescence trial matter, but...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-faces-uk-backdoor-191555370.html?.tsrc=rss",
-   "published": "2026-11-19T19:15:55+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "애플이 영국으로부터 사용자 데이터 백도어 구축을 요구받아 조사를 받고 있다고 다뤘다.",
-    "또한 구형 아이폰 성능 및 수리 관행과 관련해 프랑스 검찰의 재판에 직면했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "43fd3518f5188bd0",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Amodei siblings on 'long and productive partnership' with Nvidia",
-   "excerpt": "Dario Amodei said Anthropic has had “a long and productive partnership” with Nvidia, but he and Daniela declined to comment on whether Jensen Huang should return as the company’s CEO.",
-   "url": "https://www.youtube.com/watch?v=JD8fpk8jH3Y",
-   "published": "2026-11-19T19:15:17+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "앤스로픽의 다리오 아모데이는 엔비디아와 오랜 협력 관계를 유지해 왔다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "209931b45ef7c0ed",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What's Happening To Intel's Factory Cash?",
-   "excerpt": "Today's big story: Could Anthropic Stock Fall 25.",
-   "url": "https://www.trefis.com/stock/intc/articles/626665/what-s-happening-to-intel-s-factory-cash/2026-11-19?.tsrc=rss",
-   "published": "2026-11-19T19:14:07+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔의 공장 현금 흐름과 관련된 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "55381068c105dc6f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bath & Body Works: 3 Key Takeaways for Long-Term Investors",
-   "excerpt": "Partnerships with Amazon and Ulta reach new shoppers without pulling sales from Bath & Body Works' own stores, a tension investors will want to watch.",
-   "url": "https://www.fool.com/earnings/takeaways/2026/11/19/bath-body-works-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-   "published": "2026-11-19T19:13:23+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존 및 울타와의 제휴가 배스앤바디웍스의 매장 판매를 잠식하지 않고 신규 고객에게 닿고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "09bfab1428973178",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Does Palantir Technologies (PLTR) FedStart Milestone Change Its Federal AI Case?",
-   "excerpt": "Palantir Technologies (NasdaqGS:PLTR) supported OLIGO Security in achieving FedRAMP Class D (High) certification through its FedStart program. The FedRAMP Class D (High) authorization represents the highest federal cloud security standard for handling sensitive U.S. government data. OLIGO Security's certified platform can now be used for more security critical workloads by U.S. federal government customers. The OLIGO Security FedRAMP Class D certification through FedStart is only one part of...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/does-palantir-technologies-pltr-fedstart-191135783.html?.tsrc=rss",
-   "published": "2026-11-19T19:11:35+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "summary_ko": [
-    "팔란티어는 올리고 시큐리티가 팹스타트 프로그램을 통해 최고 수준의 연방 클라우드 보안 인증을 획득하도록 지원했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "924e15cd22a344ce",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Salesforce (CRM) Lands Commerce Backing For Global Trusted AI Export Push",
-   "excerpt": "Salesforce (NYSE:CRM) has been selected by the U.S. Department of Commerce to lead an American Super Intelligence export consortium. The Commerce-designated group will promote priority global export of U.S. Super Intelligence technologies focused on trusted AI capabilities. The consortium role positions Salesforce at the center of government backed efforts to shape international AI and data governance standards. Salesforce's new leadership role in the American Super Intelligence export...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-lands-commerce-backing-191004635.html?.tsrc=rss",
-   "published": "2026-11-19T19:10:04+00:00",
-   "tickers": [
-    "CRM"
-   ],
-   "summary_ko": [
-    "세일즈포스는 미 상무부가 주도하는 미국 슈퍼 인텔리전스 수출 컨소시엄을 이끌도록 선정되었다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3e7964822f985663",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Intel (INTC) Stock Could Be 33% Undervalued On Chip Breakthrough News",
-   "excerpt": "Intel has delivered a 55.7% gain over the past year, even after a sharp recent pullback, which puts fresh focus on whether that share price is properly backed by the cash it can generate over time. With headlines swinging between chip breakthroughs, big cloud partnerships and restructuring moves, the key issue for you is how those stories translate into long term cash flows that support the current valuation. The 55.7% rise over the last 12 months means a lot of future cash flow is now...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-could-33-190844780.html?.tsrc=rss",
-   "published": "2026-11-19T19:08:44+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔은 지난 1년간 주가가 상승했으며, 칩 혁신과 클라우드 제휴 등이 장기 현금 흐름으로 어떻게 이어질지가 핵심이라고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "01af0842122f4056",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Analysts Are Bullish on This Blue Chip Stock: Should You Buy?",
-   "excerpt": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years and Intel Corporation (INTC) took the 8th spot on the list. Blue-chip stocks have traditionally appealed to long-term investors because of their established market positions, financial resources, and ability to withstand economic uncertainty. However, the rapid […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-bullish-blue-chip-stock-190838054.html?.tsrc=rss",
-   "published": "2026-11-19T19:08:38+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔이 3년 동안 보유하기 좋은 우량주 목록에 포함되었다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "dd4ee3883366a9ae",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Anthropic is public, and this panel is in no hurry to buy | Market Hang",
-   "excerpt": "Anthropic priced and started trading, and Market Hang spent 83 minutes on it. The panel is not rushing in: one guest says let it sit for a bit rather than buy the open. They go under the hood of the business, argue about whether a public company needs a financial manager beside its founder, and land on the one argument nobody else made today, that the Nvidia scandal may be good news for Anthropic because China gets harder access to the best chips. It ends somewhere else entirely, on what happens when you outsource your thinking to the models. Market Hang is live weekdays 12:30-1:30pm ET on Yahoo Finance. Timestamps 0:00 It's Anthropic day 1:43 He asked ChatGPT whether to buy, and it said no 6:00 Under the hood of the business 9:11 What the revenue did last year 13:55 Let this one sit for a",
-   "url": "https://www.youtube.com/watch?v=k6VLzFRcgQQ",
-   "published": "2026-11-19T19:07:42+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "패널들은 상장한 앤스로픽 주식에 대해 서둘러 매수할 필요가 없다는 의견을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "dae5e086f7c30b28",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump's New Filing Reveals Nvidia, SpaceX And Tesla Purchases. White House Says He Didn't Direct Trades.",
-   "excerpt": "Trump disclosed 751 securities transactions from September, including Nvidia, SpaceX, Tesla and Palantir purchases. The White House says independent managers control his investments.",
-   "url": "https://www.ibtimes.com/trump-financial-disclosure-nvidia-spacex-tesla-purchases-3809977?.tsrc=rss",
-   "published": "2026-11-19T19:03:57+00:00",
-   "tickers": [
-    "NVDA",
-    "TSLA",
-    "PLTR"
-   ],
-   "summary_ko": [
-    "트럼프의 새로운 자산 공개에서 엔비디아, 테슬라, 팔란티어 등의 거래 내역이 나타났다고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "be594e4eee11d4f1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "JPMorgan, Visa and Mastercard disclose cyberattack on third-party vendors",
-   "excerpt": "JPMorgan Chase, Visa and Mastercard said on Thursday that some select customer data, including emails, was accessed by attackers after a cyberattack on a vendor.",
-   "url": "https://finance.yahoo.com/markets/article/jpmorgan-visa-and-mastercard-disclose-cyberattack-on-third-party-vendors-190314490.html?.tsrc=rss",
-   "published": "2026-11-19T19:03:14+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "JP모건, 비자, 마스터카드가 협력업체 사이버 공격으로 고객 데이터가 노출됐다고 밝혔다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "903381f59fa8b88f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Morgan Stanley tweaks Nvidia price target after blowout earnings",
-   "excerpt": "Higher earnings estimates didn’t stop a cut.",
-   "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-nvidia-price-target-cut?.tsrc=rss",
-   "published": "2026-11-19T19:03:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "모건 스탠리는 호실적 발표 이후 엔비디아의 목표 주가를 조정했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2d724c0d710fa022",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD Is Still Up 125% This Year. Did Today Just Mark the Top for AMD Stock?",
-   "excerpt": "One of 2026’s biggest chip rallies just ran into a short seller. Advanced Micro Devices (NASDAQ:AMD) stock is up 125% year to date (YTD) to $481.21 in current trading. That price reflects a 9% drop on November 19, after Hunterbrook Media disclosed a short position in AMD and published a critical report. AMD opened higher […]",
-   "url": "https://247wallst.com/investing/2026/11/19/amd-is-still-up-125-this-year-did-today-just-mark-the-top-for-amd-stock/?.tsrc=rss",
-   "published": "2026-11-19T19:02:28+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "헌터브룩 미디어가 AMD에 대한 숏 포지션 공개와 비판적 보고서를 발표했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "1b5a6c590dcbd3b5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba Group Holding Ltd (BABA) (Q2 2027) Earnings Call Highlights: AI Cloud Surges 64% as ...",
-   "excerpt": "Alibaba Group Holding Ltd (BABA) delivered 10% revenue growth and a 260% jump in adjusted EBITDA, but new compute export controls cloud the fiscal 2028 outlook.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-ltd-baba-190102581.html?.tsrc=rss",
-   "published": "2026-11-19T19:01:02+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바는 AI 클라우드가 급증하고 매출과 조정 EBITDA가 증가했다고 밝혔다.",
-    "다만 새로운 컴퓨팅 수출 통제가 실적 전망에 불확실성을 더하고 있다고 전했다."
    ],
    "tone": "neu"
   }
