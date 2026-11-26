@@ -1,6 +1,79 @@
 {
- "updated": "2026-11-26T10:00:39.585931+00:00",
+ "updated": "2026-11-26T10:30:37.928725+00:00",
  "posts": [
+  {
+   "id": "9cb3b4463115aaaa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Investors May Respond To Arrow Electronics (ARW) AI Sales Portal Launch",
+   "excerpt": "Arrow Electronics recently introduced a limited release of an AI powered sales portal for the ArrowSphere Cloud platform, giving channel partners a cloud native way to manage Microsoft and AWS subscriptions, renewals, consumption based services and sales pipelines alongside existing CRM tools. The new portal pulls together data from Microsoft APEX and Cloud Ascent programs, the AWS ACE program and ArrowSphere Cloud to surface account specific renewal and upsell signals. This directly targets...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/investors-may-respond-arrow-electronics-100853526.html?.tsrc=rss",
+   "published": "2026-11-26T10:08:53+00:00",
+   "tickers": [
+    "MSFT",
+    "CRM"
+   ],
+   "summary_ko": [
+    "애로 엘렉트로닉스가 마이크로소프트 및 AWS 구독 등을 관리하는 AI 기반 영업 포털을 선보였다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "4ff464dcc2553513",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Shopify (NasdaqGS:SHOP) Rebound Rekindles The Debate Over Its Fair Value",
+   "excerpt": "Shopify (NasdaqGS:SHOP) jumped 8.96% on the S&P/TSX Composite after a broad technology rebound tied to Nvidia’s CEO reinstatement, drawing attention to how AI enthusiasm can ripple into this ecommerce platform. The recent Shopify spike comes after a tougher stretch. The 30 day share price return is down 20.68% and the year to date share price return is down 15.14%, while the 3 year total shareholder return is up 81.92% and the 5 year total shareholder return is down 8.61%. This suggests long...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/shopify-nasdaqgs-shop-rebound-rekindles-100844802.html?.tsrc=rss",
+   "published": "2026-11-26T10:08:44+00:00",
+   "tickers": [
+    "NVDA",
+    "SHOP"
+   ],
+   "summary_ko": [
+    "엔비디아 CEO 복귀에 따른 기술주 반등으로 쇼피파이 주가가 상승하며 적정 가치 논쟁을 재점화했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "10553e2a22c3fb3a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
+   "excerpt": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in",
+   "url": "https://finance.yahoo.com/technology/articles/vocal-cohort-tech-leaders-celebrates-100052004.html?.tsrc=rss",
+   "published": "2026-11-26T10:00:52+00:00",
+   "tickers": [
+    "NVDA",
+    "AAPL",
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "일론 머스크와 샘 알트먼 등 일부 기술 리더들은 황의 엔비디아 복귀를 반겼다.",
+    "반면 구글, 메타, 애플의 수장들은 이에 대해 입장을 밝히지 않았다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e8aeb039e0392752",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "Gordon Chang: This is just common sense",
+   "excerpt": "Gatestone Institute senior fellow Gordon Chang warns that the scandal surrounding Nvidia CEO Jensen Huang could shake up U.S.-China relations on ‘Kudlow.’ #fox #foxbusiness #media Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news programming, with each business day p",
+   "url": "https://www.youtube.com/watch?v=g0a5CP3roR8",
+   "published": "2026-11-26T10:00:19+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "고든 창은 엔비디아 CEO 젠슨 황과 관련된 스캔들이 미·중 관계를 흔들 수 있다고 경고했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "839e14dfe6047a40",
    "kind": "news",
@@ -32,6 +105,23 @@
    ],
    "summary_ko": [
     "미국의 대중국 규제 강화 여파로 엔비디아가 동남아 4개국에 대한 AI 서버 선적을 차단했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "79bc3398ee084b87",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia halts chip exports to south-east Asia",
+   "excerpt": "Nvidia has blocked shipments of powerful AI servers to four Asian countries as Washington cracks down on Chinese access to cutting-edge American technology.",
+   "url": "https://www.telegraph.co.uk/business/2026/11/26/nvidia-halts-chip-exports-to-south-east-asia-after-us-crack/?.tsrc=rss",
+   "published": "2026-11-26T09:17:19+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미국의 대중국 첨단 기술 접근 규제 강화 속에서 엔비디아가 동남아 4개국으로의 AI 서버 선적을 중단했다."
    ],
    "tone": "neg"
   },
@@ -76650,161 +76740,6 @@
    ],
    "summary_ko": [
     "메타 플랫폼스가 의결권 없는 신주 발행 계획을 중단했다고 시장 소식을 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f700592acf6dc015",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bull of the Day: Dell Technologies (DELL)",
-   "excerpt": "The AI bubble lost some air, but this server giant's backlog keeps inflating.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-dell-technologies-dell-103000839.html?.tsrc=rss",
-   "published": "2026-11-19T10:30:00+00:00",
-   "tickers": [
-    "DELL"
-   ],
-   "summary_ko": [
-    "AI 버블이 일부 꺼졌지만 이 서버 거인의 수주 잔고는 불어나고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3b8113784de5044c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Intel and Microsoft agree long-term deal on Azure cloud hardware",
-   "excerpt": "The expanded partnership brings advanced packaging, next-generation Xeon chips, and enhanced memory and security capabilities to Azure.",
-   "url": "https://www.verdict.co.uk/intel-microsoft-deal-azure-cloud/?.tsrc=rss",
-   "published": "2026-11-19T10:19:08+00:00",
-   "tickers": [
-    "MSFT",
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔과 마이크로소프트가 애저 클라우드 하드웨어 분야에서 장기 계약을 체결했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f36bbee01aabec32",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto Networks announces deal to buy Applied Compute for $4.5bn",
-   "excerpt": "The all-stock deal will help enterprise clients securely train, modify, and deploy open-weight AI models.",
-   "url": "https://www.verdict.co.uk/palo-alto-networks-to-buy-applied-compute/?.tsrc=rss",
-   "published": "2026-11-19T10:17:04+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로알토 네트웍스가 어라이드 컴퓨트를 45억 달러에 인수하는 계약을 발표했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a9f0f611480a6f33",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AlumiFuel Power And 2 More Hydrogen Fuel Cell Stocks To Watch",
-   "excerpt": "Google’s deal to buy superhot geothermal power for energy hungry data centers has put long term clean electricity contracts back in the spotlight. That focus on reliable low carbon power makes hydrogen fuel cell technology harder to ignore for anyone watching energy transition themes. This article walks through three hydrogen fuel cell stocks from the US market that could help you build targeted exposure to this corner of clean power. The three hydrogen fuel cell stocks below are just a...",
-   "url": "https://finance.yahoo.com/energy/articles/alumifuel-power-2-more-hydrogen-101627261.html?.tsrc=rss",
-   "published": "2026-11-19T10:16:27+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "구글의 지열 에너지 구매 계약으로 청정 전력과 수소 연료 전지 관련 주식들이 주목받고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "e0c1b5f90c575e89",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba: Fiscal Q2 Earnings Snapshot",
-   "excerpt": "HONG KONG (AP) — HONG KONG (AP) — Alibaba Group Holding Ltd. (BABA) on Thursday reported fiscal second-quarter profit of $9.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-fiscal-q2-earnings-snapshot-101400418.html?.tsrc=rss",
-   "published": "2026-11-19T10:14:00+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바 그룹이 목요일에 회계연도 2분기 실적을 보고했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6641815f0052583a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba (BABA) Unveils Qwen4 Max With 62% Lower API Costs",
-   "excerpt": "Alibaba Group Holding (NYSE:BABA) introduced its new flagship AI model, Qwen4-Max, targeting enterprise users through Alibaba Cloud APIs. The Qwen4-Max release focuses on higher performance across professional tasks and aims to cut API usage costs for developers. Alibaba is positioning Qwen4-Max against leading global AI providers to make its cloud platform more attractive to corporate clients. The Qwen4-Max launch is only part of the story around Alibaba's broader AI investment and cloud...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-unveils-qwen4-max-101329268.html?.tsrc=rss",
-   "published": "2026-11-19T10:13:29+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바가 API 비용을 낮춘 새로운 AI 모델 큐웬4 맥스를 공개했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "7387961563ef0f82",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba’s Revenue Beats Estimates During China’s AI Boom",
-   "excerpt": "Alibaba Group Holding Ltd. posted a stronger-than-projected 10% rise in revenue, reflecting the company’s pivotal role in providing computing and services to propel China’s AI development boom.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-revenue-beats-estimates-during-101314383.html?.tsrc=rss",
-   "published": "2026-11-19T10:13:14+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바의 매출이 예상치를 상회하며 10% 증가했다고 전했다.",
-    "이는 중국의 AI 개발 붐 속에서 컴퓨팅과 서비스 제공 역할을 반영한 결과라고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f87857d7ac2918b3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies",
-   "excerpt": "Cybersecurity giant keeps real on the alarming number of network outages.",
-   "url": "https://finance.yahoo.com/technology/article/palo-alto-networks-ceo-just-dropped-a-truth-bomb-on-the-network-outages-sweeping-through-major-companies-101129581.html?.tsrc=rss",
-   "published": "2026-11-19T10:11:29+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로알토 네트워크의 CEO가 최근 기업들의 대규모 네트워크 장애 사태에 대해 언급했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "cd6a8d75884f1b4c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Pfizer Will Pay Its 352nd Straight Quarterly Dividend on Dec. 7. Here's What It Would Take to Break the Streak.",
-   "excerpt": "Pfizer's dividend streak spans 88 years, and it would take a perfect storm to end it.",
-   "url": "https://www.fool.com/investing/2026/11/19/pfizer-will-pay-its-352nd-straight-quarterly-divid/?.tsrc=rss",
-   "published": "2026-11-19T10:04:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "summary_ko": [
-    "화이자가 352번째 분기 배당을 지급할 예정이며, 오랜 배당 기록을 다뤘다."
    ],
    "tone": "neu"
   }
