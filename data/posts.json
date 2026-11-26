@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-26T06:00:37.862240+00:00",
+ "updated": "2026-11-26T06:30:32.725601+00:00",
  "posts": [
+  {
+   "id": "0ba9ea076dc9ba8e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Joby Aviation (JOBY) Climbs Ahead of Major Dubai Milestone",
+   "excerpt": "Joby Aviation Inc. (NYSE:JOBY) is one of the 10 Stocks Stealing the Spotlight. Joby Aviation grew its share price by 11.11 percent on Wednesday to end at $3.9 apiece as investor optimism grew ahead of its upcoming electric air taxi test flight in Dubai. Earlier this year, Joby Aviation Inc. (NYSE:JOBY) revised its Dubai air […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-joby-climbs-ahead-061436621.html?.tsrc=rss",
+   "published": "2026-11-26T06:14:36+00:00",
+   "tickers": [
+    "JOBY"
+   ],
+   "summary_ko": [
+    "조비 에비에이션은 두바이 에어택시 시험 비행을 앞두고 주가가 상승했다고 다뤘다.",
+    "투자자들의 기대감이 커지면서 주가가 11.11퍼센트 올랐다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "223d327676c0609f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron faces Taiwan uncertainty as labor dispute threatens expansion, report warns",
+   "excerpt": "Investing.com -- Micron Technology (NASDAQ:MU) expansion plans in Taiwan could face further uncertainty as an escalating labor dispute raises the prospect of the U.S. memory chipmaker redirecting future investments to Singapore, Taiwan's Commercial Times reported on Thursday, citing Wealth Magazine chairman Hsieh Chin-ho.",
+   "url": "https://finance.yahoo.com/technology/articles/micron-faces-taiwan-uncertainty-labor-055543451.html?.tsrc=rss",
+   "published": "2026-11-26T05:55:43+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론 테크놀로지는 대만 내 노동 분쟁으로 인해 확장 계획에 불확실성이 커졌다고 다뤘다.",
+    "향후 투자를 싱가포르로 전환할 가능성이 제기되었다고 보도했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "80ba67b632413012",
    "kind": "news",
@@ -76843,59 +76879,6 @@
    "summary_ko": [
     "써밋 인사이츠가 엔비디아의 투자의견을 하향 조정한 점을 다뤘다.",
     "월스트리트는 여전히 긍정적인 전망을 유지하고 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "6af1c6f20ad13deb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "PANW Stock Surges 8% Overnight: Palo Alto Networks CEO Sees ‘Hundreds Of Billions Of Dollars’ Opportunity In Open-Weight AI Models Security",
-   "excerpt": "Palo Alto Networks plans to expand AI security capabilities, building over 100 megawatts of computing capacity through fiscal 2030.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/panw-stock-palo-alto-networks-ceo-open-weight-ai-security-applied-compute/cNbLCSDR9ik?.tsrc=rss",
-   "published": "2026-11-19T06:26:01+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로알토 네트웍스 주가가 시간 외 거래에서 8% 급등했다고 다뤘다.",
-    "CEO는 오픈웨이트 AI 모델 보안 분야에서 거대한 기회가 있다고 언급했다.",
-    "2030 회계연도까지 100메가와트 이상의 컴퓨팅 용량을 구축할 계획이라고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "1b9a24a00fed0768",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Kevin O’Leary Sees No Way Back for Jensen Huang at Nvidia: ‘Forget About the Affairs...There’s Another Problem’",
-   "excerpt": "Investor Kevin O’Leary sees little chance of Jensen Huang returning to Nvidia Corp (NASDAQ:NVDA), arguing that ongoing China-related investigations and political opposition could keep the former CEO from reclaiming the helm. China Investigation Could Complicate Huang’s Comeback On Wednesday, O’Leary warned that investigations into developments involving China could become a major overhang for Nvidia, pointing to Dec. 10 as the date when he expects scrutiny of the past two weeks to intensify. \"Th",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/kevin-o-leary-sees-no-062559128.html?.tsrc=rss",
-   "published": "2026-11-19T06:25:59+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "케빈 오리어리는 중국 관련 조사와 정치적 반대로 인해 젠슨 황의 복귀가 어려울 수 있다고 주장했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "f07e6bc82c996836",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "‘Unprecedented Results’: AMD Packs a Year of Chip Progress Into 5 Months Using OpenAI, Greg Brockman Says",
-   "excerpt": "OpenAI President Greg Brockman said the company’s artificial intelligence models helped Advanced Micro Devices Inc. (NASDAQ:AMD) achieve \"roughly an additional year of progress\" in chip development in less than five months, with improvements already incorporated into a manufacturing-ready design. Brockman Hails Unprecedented AMD Chip Breakthrough Brockman wrote in an X post on Wednesday that OpenAI’s models achieved \"roughly an additional year of progress on @AMD’s chip achieved in less than 5 m",
-   "url": "https://finance.yahoo.com/technology/ai/articles/unprecedented-results-amd-packs-chip-061204255.html?.tsrc=rss",
-   "published": "2026-11-19T06:12:04+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "오픈AI의 모델 덕분에 AMD가 칩 개발에서 큰 진전을 이뤘다고 전했다."
    ],
    "tone": "pos"
   }
