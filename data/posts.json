@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-26T01:30:29.271442+00:00",
+ "updated": "2026-11-26T02:00:37.590167+00:00",
  "posts": [
+  {
+   "id": "1a7aaf48932bdd35",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "'Closing Bell' panel weighs in on Wednesday's volatile trading as market heads into close",
+   "excerpt": "Tom Lee, Fundstrat, Jeremy Siegel, Wharton School of Business, and Stephanie Guild, Robinhood, joins 'Closing Bell' with reaction Wednesday's volatile tape.",
+   "url": "https://www.youtube.com/watch?v=GfCBrC6AIog",
+   "published": "2026-11-26T01:52:17+00:00",
+   "tickers": [
+    "HOOD"
+   ],
+   "summary_ko": [
+    "'Closing Bell' 패널들이 수요일의 변동성 장세에 대한 반응을 다뤘다.",
+    "Fundstrat의 톰 리, 와튼스쿨의 제러미 시겔, 로빈후드의 스테파니 길드가 참여했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "7af3ca4b010aeaf1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "RKLB Stock Rebounds Into Thanksgiving: CFO, COO And Other Execs Sell Nearly $4M In Shares Ahead Of Electron Launch",
+   "excerpt": "COO Frank Klein accounted for 58% of the sales, selling $2.23 million in shares.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/rklb-stock-cfo-coo-other-execs-sell-shares-ahead-of-electron-launch/cNbx33ZR9ZR?.tsrc=rss",
+   "published": "2026-11-26T01:50:14+00:00",
+   "tickers": [
+    "RKLB"
+   ],
+   "summary_ko": [
+    "추수감사절을 앞두고 RKLB 주가가 반등한 가운데 임원진의 주식 매도 소식을 다뤘다.",
+    "최고운영책임자(COO) 프랭크 클라인이 전체 매도액의 58%를 차지했다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "fa2258d0d88edada",
    "kind": "news",
@@ -77056,129 +77092,6 @@
     "오픈AI 모델의 AMD GPU 효율성 개선과 록스타 게임즈의 기술 채택 소식을 다뤘다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "6034706ac67051ef",
-   "kind": "youtube",
-   "source": "Fox Business",
-   "author": "Fox Business",
-   "title": "‘UNCERTAINTY’: Expert weighs in on investor sentiment surrounding AI",
-   "excerpt": "Partners Group chief investment strategist Anastasia Amoroso joins ‘Making Money’ to analyze shifting investor sentiment, growth stocks' narrow lead over value stocks and Wall Street's reaction to Nvidia's stronger-than-expected earnings. #fox #foxbusiness #media Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionall",
-   "url": "https://www.youtube.com/watch?v=pzRw5OrEoiI",
-   "published": "2026-11-19T02:00:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "AI 투자 심리와 성장주의 동향을 분석하는 전문가의 발언을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6603ed2419ab50fc",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is SpaceX About to Become the Biggest Player in AI Compute?",
-   "excerpt": "Silicon Data puts the going rate for an H100 GPU at $3.92 an hour, up over 4% in a week, and SpaceX is lining up $40 billion in financing from Apollo, Yahoo Finance's parent company, to rent GPUs, according to Semafor. In the Loop host Ejaaz Ahamadeen explains why he thinks SpaceX could gain ground if Nvidia pulls back on financing its customers, how Elon Musk's ability to set up GPUs at scale could make SpaceX a top AI cloud provider and how selling excess compute could help fund Starlink and Starship. Yahoo Finance is owned by Apollo. The Number is presented by Silicon Data. Timestamps 0:00 The Number: GPU rental prices 0:25 Ejaaz Ahamadeen 0:56 Where is all the money going? 1:21 SpaceX's neocloud pivot 2:08 Setting up GPUs at scale 2:33 Funding Starlink and Starship 2:56 If demand stays",
-   "url": "https://www.youtube.com/watch?v=MeNPZ0vYg_E",
-   "published": "2026-11-19T02:00:06+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "스페이스X가 대규모 자금 조달을 통해 GPU 임대 사업에 진출할 가능성을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "fa1b994d39ab6d66",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla And SpaceX ‘Better Together’? Musk Leans Yes — But Says Performance Must Drive His TSLA Pay",
-   "excerpt": "If a merger triggered a change in control, Tesla’s valuation alone would determine whether Musk earned additional shares.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-better-together-musk-performance-tsla-pay/cNbLsa5R9iJ?.tsrc=rss",
-   "published": "2026-11-19T01:56:19+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라와 스페이스X의 결합 가능성과 일론 머스크의 보상 문제를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4f381b876690b5dd",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Microsoft CEO Satya Nadella: Cyber defenses and infrastructure upgrades are all at a premium now",
-   "excerpt": "Microsoft CEO and Chairman Satya Nadella joins 'Mad Money' host Jim Cramer to talk the tech giant's AI ambitions, copilot usage, the Nvidia situation, the state of the global economy, and much more.",
-   "url": "https://www.youtube.com/watch?v=HkRemVx8UuM",
-   "published": "2026-11-19T01:45:36+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트 CEO 사티아 나델라가 매드 머니에 출연해 AI 야망과 코파일럿 사용 등을 다뤘다.",
-    "현재 사이버 방어와 인프라 업그레이드가 모두 프리미엄 상태라고 강조했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f08d3ecabddb4c99",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump Hails ‘Great’ Ties With Xi, Downplays Nvidia Spy Scandal",
-   "excerpt": "US President Donald Trump hailed his great “friendship” with Chinese counterpart Xi Jinping and downplayed a spying scandal involving Nvidia Corp., just hours before leaders of the world’s top two economies meet for talks in China.",
-   "url": "https://finance.yahoo.com/economy/policy/articles/trump-hails-great-ties-xi-014442789.html?.tsrc=rss",
-   "published": "2026-11-19T01:44:42+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "트럼프 대통령이 미중 관계를 언급하며 엔비디아 관련 스캔들을 축소했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f534fabae8cb0fe0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Elon Musk Says Nvidia Made a ‘Mistake’ by Parting Ways With Jensen Huang: Calls Ex-CEO ‘Michael Jordan Perhaps at His Peak Level’",
-   "excerpt": "Elon Musk compared former Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang to legendary NBA player Michael Jordan and said the company made a mistake parting ways with him. Musk Says Huang Isn’t ‘Disloyal’ Speaking with Andrew Ross Sorkin at The New York Times DealBook Summit on Wednesday, the CEO of Tesla Inc. (NASDAQ:TSLA) and Space Exploration Technologies Corp. (NASDAQ:SPCX) called Huang “an old friend of mine,” and added that he was like “Michael Jordan perhaps at his peak level” to a team. Musk",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-nvidia-made-014213735.html?.tsrc=rss",
-   "published": "2026-11-19T01:42:13+00:00",
-   "tickers": [
-    "NVDA",
-    "TSLA"
-   ],
-   "summary_ko": [
-    "일론 머스크는 엔비디아가 젠슨 황과의 관계를 정리한 것은 실수라고 언급했다.",
-    "그는 젠슨 황을 정점의 마이클 조던에 비유하며 높이 평가했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2952fb53a46327f1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump Suggests US Can Sell Blackwell Chips to China in Future",
-   "excerpt": "President Donald Trump said that the US could potentially allow the sale of Nvidia Corp.’s highly sought Blackwell chips to China in the future, when they were no longer among the most advanced on the market.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/trump-suggests-us-sell-blackwell-013901504.html?.tsrc=rss",
-   "published": "2026-11-19T01:39:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미국이 향후 최첨단 제품이 아닐 경우 블랙웰 칩의 대중국 판매를 허용할 수 있다고 시사했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
