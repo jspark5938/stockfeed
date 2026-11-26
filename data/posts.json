@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-26T08:30:36.942907+00:00",
+ "updated": "2026-11-26T09:00:40.240556+00:00",
  "posts": [
+  {
+   "id": "cb55ccab289f117d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
+   "excerpt": "Wall Street analysts upgraded Nvidia, CrowdStrike and Li Auto on leadership stability, AI growth and strong earnings.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nvda-jensen-huang-return-stock-upgrades-crwd-li-amba-dkng/cNbxi4aR9ZF?.tsrc=rss",
+   "published": "2026-11-26T08:43:12+00:00",
+   "tickers": [
+    "NVDA",
+    "CRWD"
+   ],
+   "summary_ko": [
+    "월스트리트 분석가들이 엔비디아, 크라우드스트라이크, 리오토를 상향 조정했다고 다뤘다.",
+    "리더십 안정성과 인공지능 성장, 실적 호조가 상향 조정의 배경이라고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "adf6012081801334",
    "kind": "news",
@@ -76737,61 +76756,6 @@
     "민주당의 의회 승리가 알파벳에게 의외의 수혜가 될 수 있다고 전망했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "37c3920a2d022fde",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "BABA Stock Dips Further After Hitting 22-Month Low — US AI Curbs Weigh Ahead Of Earnings, But Retail Bulls Aren’t Budging",
-   "excerpt": "Alibaba faces weakness as investors worry that AI spending, e-commerce price wars in China, and the country’s weak outlook are squeezing the business.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/baba-stock-dips-further-after-hitting-22-month-low-us-ai-curbs-weigh-ahead-of-earnings-but-retail-bulls-aren-t-budging/cNbiclUR9iY?.tsrc=rss",
-   "published": "2026-11-19T08:58:53+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바 주가가 22개월 만에 최저치를 기록하며 하락했다고 다뤘다.",
-    "AI 규제와 중국 내 경쟁 및 약세 전망이 부담으로 작용하고 있다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "7defbb8e360bc7ea",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Black Friday Is Nov. 27. Here's What Shopify Stock Did the Week After in Each of the Last 11 Years.",
-   "excerpt": "The holiday weekend's sales tally usually arrives a few days later. Has the stock cared?",
-   "url": "https://www.fool.com/investing/2026/11/19/black-friday-is-nov-27-here-s-what-shopify-stock-did-the-week-after-in-each-of-the-last-11-years/?.tsrc=rss",
-   "published": "2026-11-19T08:57:02+00:00",
-   "tickers": [
-    "SHOP"
-   ],
-   "summary_ko": [
-    "블랙프라이데이 이후 쇼피파이 주가의 과거 11년간 추이를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7369ab0d601fc400",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reach China Within 2-3 Years",
-   "excerpt": "Blackwell is Nvidia’s previous-generation AI GPU platform. Its successor, Vera Rubin, is now in production and beginning to ship.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/nvda-intc-stocks-ease-post-5-day-rout-after-meeting-xi-jinping-trump-says-nvidia-blackwell-chips-could-reach-china-within-2-3-years/cNbiTxFR9io?.tsrc=rss",
-   "published": "2026-11-19T08:33:56+00:00",
-   "tickers": [
-    "NVDA",
-    "INTC"
-   ],
-   "summary_ko": [
-    "엔비디아와 인텔 주식이 5일간의 하락세 이후 진정되는 모습을 보였다.",
-    "트럼프는 시진핑 주석과의 회동 후 엔비디아의 블랙웰 칩이 2~3년 내에 중국에 도달할 수 있다고 언급했다.",
-    "블랙웰은 엔비디아의 이전 세대 AI GPU 플랫폼이며 후속작인 베라 루빈은 생산 및 출하가 시작되었다."
-   ],
-   "tone": "neu"
   }
  ]
 }
