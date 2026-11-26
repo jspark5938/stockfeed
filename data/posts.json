@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-26T21:00:43.421465+00:00",
+ "updated": "2026-11-26T21:30:30.837088+00:00",
  "posts": [
+  {
+   "id": "a651b087aceb39af",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Needs to Modernize Travel Pushing More Americans to Drive for Holidays",
+   "excerpt": "The FAA ground stop and following travel disruption was \"historic,\" says Liam Dorsey, noting the need to \"modernize infrastructure\" across software in the travel sector. @gasbuddy's Patrick De Haan notes that more Americans may take the car when it comes to their Christmas travel plans as gasoline prices trickle down. However, as both panelists point out, the travel industry continues to see robust demand on just about every front. Segment originally aired Monday, November 23, 2026. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - Abo",
+   "url": "https://www.youtube.com/watch?v=MznUzbZs-MU",
+   "published": "2026-11-26T21:00:30+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "최근 여행 차질로 인해 여행 분야 전반의 인프라 현대화 필요성이 제기되었다고 다뤘다.",
+    "휘발유 가격 하락으로 크리스마스 여행 시 자동차 이용객이 늘어날 수 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4672a17059f39f06",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why It’s Hard to Write Off Micron (MU) Even with a Memory Peak in Sight",
+   "excerpt": "Micron Technology (MU) is hard to write off, even with a memory cycle peak in sight. I remain Bullish on the stock. Let me explain why. The global provider of semiconductor memory has lost nearly half its market value since June as fears of an approaching memory cycle peak gain traction. The funny thing is, despite some downward revisions in November, Wall Street still expects Micron to earn considerably more over the next three years than analysts projected six months ago. The real debate cente",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-hard-write-off-micron-210000375.html?.tsrc=rss",
+   "published": "2026-11-26T21:00:00+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "메모리 사이클 고점 우려에도 마이크론을 쉽게 배제하기 어렵다고 주장했다.",
+    "월가는 여전히 향후 몇 년간 마이크론의 실적 개선을 예상하고 있다고 설명했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "e1e16a34bd8e9e35",
    "kind": "news",
@@ -1809,6 +1845,23 @@
    "tone": "neu"
   },
   {
+   "id": "3f2604c074b24f4a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Kevin O’Leary Calls Anthropic ‘Sheer Genius’ for Running Amazon’s Playbook ‘At an Unprecedented Pace’",
+   "excerpt": "Kevin O'Leary called Anthropic's enterprise trust strategy \"sheer genius\" and compared it to Amazon's early playbook, just as shares fell 8.5% in their second day of trading after a record IPO.",
+   "url": "https://www.barchart.com/story/news/9020227/kevin-oleary-calls-anthropic-sheer-genius-for-running-amazons-playbook-at-an-unprecedented-pace?.tsrc=rss",
+   "published": "2026-11-26T15:00:02+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "케빈 오리어리가 앤스로픽의 엔터프라이즈 신뢰 전략을 높이 평가했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "3bc797b4469d31e9",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1822,6 +1875,24 @@
    ],
    "summary_ko": [
     "제너럴모터스는 나스닥 이전 등으로 한 달간 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "098c23d905f783a6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Apple Stock Outperforming the Nasdaq?",
+   "excerpt": "Apple stock has outperformed the Nasdaq over the past year and analysts are fairly bullish about its prospects.",
+   "url": "https://www.barchart.com/story/news/9020084/is-apple-stock-outperforming-the-nasdaq?.tsrc=rss",
+   "published": "2026-11-26T14:50:07+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "애플 주식이 지난 1년간 나스닥 지수보다 우수한 성과를 보였다고 언급했다.",
+    "애널리스트들은 애플의 향후 전망에 대해 비교적 긍정적인 시각을 보이고 있다고 전했다."
    ],
    "tone": "pos"
   },
@@ -69646,383 +69717,6 @@
     "우버가 10세 아동을 대상으로 한 차량 탑승 테스트를 진행 중이라고 전했다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "c7de3b0e313b46cf",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jensen Huang's Nvidia comeback: Why the math doesn't add up",
-   "excerpt": "Tamalpais Strategies Founder and Principal, Jim Prosser, joins Deirdre Bosa on Deirdre Bosa Live to discuss what it will actually take to bring Jensen Huang back as Nvidia (NVDA) CEO. Although \"vibes\" may be high, Huang's comeback does add up.",
-   "url": "https://finance.yahoo.com/video/jensen-huangs-nvidia-comeback-why-the-math-doesnt-add-up-213021034.html?.tsrc=rss",
-   "published": "2026-11-19T21:30:21+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 엔비디아 복귀 가능성과 관련된 시장의 시각을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d99a3fc39243e816",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Inside AI: BABA Boasts Revenue Growth, CapEx Weighs on Outlook #shorts",
-   "excerpt": "Alibaba (BABA) earnings flexed strength with its AI revenue growth, though as Nicole Petallides points out, it also faces steepening CapEx in a market environment that doesn't favor upticks in AI spend. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #alibaba #earnings #capex #economy #finance #investing #marketnews #stock #stockmarket #trading #live #schwabnetwork #baba #guidance #ai #artificialintelligence #software #ecommerce #onlineshopping #datacenter #china #international",
-   "url": "https://www.youtube.com/watch?v=U9EME45jSsE",
-   "published": "2026-11-19T21:30:07+00:00",
-   "tickers": [
-    "AMZN",
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바는 AI 매출 성장을 보였으나 증가하는 자본적 지출이 전망에 부담을 주고 있다고 언급됐다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4f24b370052d65b3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Google’s SpaceX Stake Lost More Than $10 Billion in Value Last Quarter While Its Share Count Edged Up",
-   "excerpt": "One stock makes up nearly all of Alphabet's disclosed portfolio, and its latest filing shows the company quietly adding to it while the price slid. Why is the business booming while the stake bleeds, and what should retirement investors copy?",
-   "url": "https://247wallst.com/investing/2026/11/19/googles-spacex-stake-lost-more-than-10-billion-in-value-last-quarter-while-its-share-count-edged-up/?.tsrc=rss",
-   "published": "2026-11-19T21:28:18+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "알파벳의 보유 지분 가치가 하락한 반면 지분 수는 소폭 증가했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d4dcf630567d43b0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The Biggest Fear Around Oracle Could Soon End. Wall Street Sees ORCL Stock Surging 100% From Here.",
-   "excerpt": "Oracle says its cash burn will end, with at least $30 billion in free cash flow by fiscal 2029, and Wall Street sees ORCL stock more than doubling after its Investor Day rally faded.",
-   "url": "https://www.barchart.com/story/news/8925367/the-biggest-fear-around-oracle-could-soon-end-wall-street-sees-orcl-stock-surging-100-from-here?.tsrc=rss",
-   "published": "2026-11-19T21:28:06+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "summary_ko": [
-    "오라클은 현금 유출이 종료될 것이라고 밝혔으며 월가는 주가 상승을 전망했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "1bce0ca770982dcb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "PenFed Kicks Off Holiday Celebration with Toys for Tots Drive",
-   "excerpt": "PenFed Credit Union, one of the nation's largest federal credit unions announced the kick-off of its Toys for Tots drive during the PenFed Holiday Celebration at PenFed Plaza at Tysons Corner Center. Members of the community are invited to bring new unwrapped toys to Washington region PenFed branch locations now through December 8 at 1:00 p.m. ET. Donations can also be made through the Amazon Wishlist.",
-   "url": "https://finance.yahoo.com/small-business/articles/penfed-kicks-off-holiday-celebration-212800662.html?.tsrc=rss",
-   "published": "2026-11-19T21:28:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "펜페드 신협이 토이즈 포 토츠 기부 캠페인을 시작하며 아마존 위시리스트를 통한 기부도 안내했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5dfbd5d30004e8fe",
-   "kind": "youtube",
-   "source": "Aswath Damodaran",
-   "author": "Aswath Damodaran",
-   "title": "The Value of Human Frailty: Nvidia faces a Jensen Test!",
-   "excerpt": "The story of Jensen Huang's first affair, with Alice Wu, broke on October 29, 2026, and its mix of personal foibles and security issues, has made it a front page story around the world. The revelation that Jensen had other affairs with Nvidia employees forced the board's hand and he stepped down on November 12. No matter what you think of that action, and there are supporter and critics, even Jensen's strongest opponents should concede that he has be an exceptional CEO, a founder who built a company in his image, and made it not only one of the world's most valuable firms, but also been a key part of the AI boom. In this session, I start with a general question of what CEOs do at companies, and use it to look at when CEOs matter the most to the companies they lead. I follow up with a frame",
-   "url": "https://www.youtube.com/watch?v=kldDGZ-C0MU",
-   "published": "2026-11-19T21:20:16+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 사생활 논란과 사임 과정을 다루며 기업에서 CEO의 중요성을 조명했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ded5a6de9396760c",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Watch CNBC's full interview with Hyundai CEO José Muñoz",
-   "excerpt": "CNBC's Phil LeBeau interviews Hyundai CEO José Muñoz from the LA Auto Show. He shares his thoughts on Hyundai’s growth, partnership with Waymo and whether Jensen Huang should be brought back as CEO of Nvidia.",
-   "url": "https://www.youtube.com/watch?v=Mn6oCHhbsZU",
-   "published": "2026-11-19T21:19:33+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "현대차 CEO 호세 무뇨스가 성장에 대한 생각과 엔비디아 CEO 복귀 관련 견해를 공유했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "756508aba3615c45",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Chip Stocks Waver On Anthropic IPO, AI Prospects, AMD Short",
-   "excerpt": "Chip stocks wobbled Thursday as investors debated the strength of the artificial intelligence megatrend.",
-   "url": "https://finance.yahoo.com/m/cc197e22-85d3-3a44-97b9-12111805ce48/chip-stocks-waver-on.html?.tsrc=rss",
-   "published": "2026-11-19T21:18:59+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "앤스로픽의 IPO와 AI 전망을 둘러싼 논쟁으로 반도체 주가가 흔들렸다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "77e03fa3493dc18a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD Shares Tumble 7% After Short Seller Questions China Ties. Chipmaker Denies Allegations.",
-   "excerpt": "Hunterbrook Media disclosed a short position in AMD while alleging regulatory and financial risks tied to the chipmaker's Chinese business relationships.",
-   "url": "https://www.ibtimes.com/amd-shares-fall-hunterbrook-china-export-risks-3809979?.tsrc=rss",
-   "published": "2026-11-19T21:18:46+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "공매도 업체의 중국 사업 관련 리스크 제기 이후 AMD 주가가 하락했다고 보도했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c1dc9c6a7f1f21a1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "ExxonMobil Holdings (XOM) Gets Mozambique Approval For $30 Billion Rovuma LNG Plan",
-   "excerpt": "ExxonMobil Holdings (NYSE:XOM) secured Mozambican government approval for its redesigned Rovuma LNG project, a roughly US$30b development. The revised Rovuma LNG plan includes higher production capacity and a layout aimed at materially lower emissions compared with the earlier concept. Regulatory clearance positions ExxonMobil to consider a final investment decision on Rovuma LNG by the end of this year. The approval of ExxonMobil's updated US$30b Rovuma LNG plan only captures one part of...",
-   "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-gets-mozambique-211612645.html?.tsrc=rss",
-   "published": "2026-11-19T21:16:12+00:00",
-   "tickers": [
-    "XOM"
-   ],
-   "summary_ko": [
-    "엑손모빌은 모잠비크 정부로부터 300억 달러 규모의 루부마 LNG 프로젝트 승인을 획득했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3873d9db6f6f912a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How ChatGPT Sales Plugin At DocuSign (DOCU) Has Changed Its Investment Story",
-   "excerpt": "DocuSign recently released its plugin for ChatGPT for Sales, letting sales teams pull signed terms, renewal deadlines, and commitments directly from DocuSign and connected CRMs like Salesforce to prepare renewals, generate contracts, and kick off Legal reviews inside the same conversation. The plugin is powered by DocuSign’s Model Context Protocol server. It feeds agreement intelligence and preset workflows into the tools sales reps already use, tightening the link between contract data and...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-sales-plugin-docusign-docu-211442803.html?.tsrc=rss",
-   "published": "2026-11-19T21:14:42+00:00",
-   "tickers": [
-    "CRM"
-   ],
-   "summary_ko": [
-    "도큐사인의 챗GPT 플러그인 출시가 영업 팀의 계약 및 검토 과정을 어떻게 바꿨는지 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "9c6137c1aa7b3756",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Strategy (MSTR) On Bitcoin Buying And MSCI Exit Still Looks Undervalued",
-   "excerpt": "Strategy (MSTR) is back in focus after a special call on November 12, set against fresh disclosures on its Bitcoin buying, preferred share buybacks, and upcoming removal from key MSCI indexes. The recent 1-day share price return of Strategy shows a decline of 6.4%, capping a 7-day fall of 26.2% and a 30-day slide of 33.6%, which lines up with headlines around fresh Bitcoin purchases, MSCI index removal, and preferred share buybacks. Despite this pressure and a year-to-date share price return...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-bitcoin-buying-msci-211424742.html?.tsrc=rss",
-   "published": "2026-11-19T21:14:24+00:00",
-   "tickers": [
-    "MSTR"
-   ],
-   "summary_ko": [
-    "비트코인 매수와 MSCI 지수 제외 소식 속에서 스트래티지의 주가 하락과 저평가 가능성을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "cf41be3c839e9617",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-   "excerpt": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
-   "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price?.tsrc=rss",
-   "published": "2026-11-19T21:12:06+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD",
-    "MU"
-   ],
-   "summary_ko": [
-    "앤스로픽이 상장 후 상승 마감한 가운데 엔비디아와 AMD 등 AI 주가가 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c1fec04a06682fac",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "3 British Lithium Stocks To Watch With Revenue Under $1 Million",
-   "excerpt": "Artificial intelligence needs huge amounts of reliable energy, and that puts long term battery materials in the spotlight. Google’s recent deal to buy superhot geothermal power underlines how serious big tech is about securing clean electricity. That same trend keeps attention on lithium focused miners and processors. This article walks through three London listed lithium related stocks from our screener that could help you position around that theme. The three stocks below are just a...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-lithium-stocks-watch-211154824.html?.tsrc=rss",
-   "published": "2026-11-19T21:11:54+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "인공지능의 안정적인 전력 수요로 인해 리튬 등 배터리 소재 관련주가 주목받고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "987ea4bf56bdc85b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Apple Nears a Rare Long-Term DRAM Supply Deal With Samsung Electronics. What This Means for AAPL Stock.",
-   "excerpt": "Apple is nearing a rare long-term DRAM supply deal with Samsung covering four to five years starting in 2027 to secure memory chips amid rising costs.",
-   "url": "https://www.barchart.com/story/news/8924969/apple-nears-a-rare-long-term-dram-supply-deal-with-samsung-electronics-what-this-means-for-aapl-stock?.tsrc=rss",
-   "published": "2026-11-19T21:10:52+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "애플이 비용 상승에 대응하기 위해 삼성전자와 4~5년 장기 DRAM 공급 계약을 앞두고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "89397c5dd2a81086",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla Robo-Taxi Expands to Dallas. It Isn’t Enough.",
-   "excerpt": "Pony AI’s results give Tesla investors a look at robo-taxi economics.",
-   "url": "https://finance.yahoo.com/m/bb73f711-c5b1-3f23-8b24-3dd6a248b942/tesla-robo-taxi-expands-to.html?.tsrc=rss",
-   "published": "2026-11-19T21:07:00+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라의 로보택시 확장 소식을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2a2f55dec1ec8c48",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Michael Burry Adds To Tesla Rival BYD At Five-Year Lows",
-   "excerpt": "Burry noted that BYD shares are at five-year lows and could fall further, but argued that most of the damage has already occurred.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-adds-to-tesla-rival-byd-at-five-year-lows/cNbiNbKR90M?.tsrc=rss",
-   "published": "2026-11-19T21:06:31+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "마이클 버리가 5년 내 최저치인 비야디(BYD) 지분을 추가로 매입했다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1b2cf9b907a0f48e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Claude Users Excited to Invest in Anthropic, Says Ann Berry",
-   "excerpt": "Ann Berry, founder and managing partner of Threadneedle, said that the ability to turn user behavior into an investment opportunity creates a 'different kind of buzz' for Anthropic. Berry said that she sees the AI company and its Claude model continuing to grab share from tech companies like Microsoft and shift users from traditional search engines.",
-   "url": "https://finance.yahoo.com/video/claude-users-excited-invest-anthropic-210615313.html?.tsrc=rss",
-   "published": "2026-11-19T21:06:15+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "앤트로픽이 사용자 행동을 투자 기회로 전환하는 과정에서 마이크로소프트 등의 점유율을 가져오고 있다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d745b6401311af21",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stanley Druckenmiller dumps entire $120M Alphabet stake to buy gold mining stock",
-   "excerpt": "Duquesne Family Office held 336,300 shares of Alphabet, valued at $120.2 million, on June 30 as indicated in its Q2 13F filing. By Sept. 30, it held none.",
-   "url": "https://www.thestreet.com/investing/stocks/nem-newmont-corporation-stanley-druckenmiller-dumps-entire-120-million-alphabet-stake-opens-43-9-million-newmont-position?.tsrc=rss",
-   "published": "2026-11-19T21:03:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "스탠리 드러켄밀러가 알파벳 지분 전량을 매각하고 금광 주식을 매입했다고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "55339fb17493736a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Brian Armstrong on bitcoin’s bottom, AI trading agents and Coinbase’s next act",
-   "excerpt": "Coinbase CEO Brian Armstrong joins Aoyon Ashraf from TomorrowX Summit where he breaks down why Coinbase is building financial accounts and payment rails for AI agents, why he believes 99.9% of all transactions will eventually be made by agents rather than humans, and why open weight models collaborating in teams are the antidote to a future dominated by a handful of all-powerful frontier labs.",
-   "url": "http://videos.coindesk.com/previews/bAKzCFKJ?.tsrc=rss",
-   "published": "2026-11-19T21:02:16+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "코인베이스 CEO 브라이언 암스트롱이 AI 에이전트를 위한 금융 계좌 구축 계획 등을 설명했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "4afa70357ab6adda",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron Technology to Report Fiscal First Quarter Results on December 17, 2026",
-   "excerpt": "BOISE, Idaho, Nov. 19, 2026 (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq: MU) announced today that it will hold its fiscal first quarter earnings conference call on Thursday, Dec. 17, 2026, at 2:30 p.m. Mountain time. The call will be webcast live at Webcast replays of presentations can be accessed from Micron’s Investor Relations website for approximately one year after the call. About Micron Technology, Inc. Micron Technology, Inc. is a global leader in sem",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-report-fiscal-first-210100248.html?.tsrc=rss",
-   "published": "2026-11-19T21:01:00+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론 테크놀로지가 회계연도 1분기 실적 발표 컨퍼런스 콜 일정을 공지했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6005a8cec79781e9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart Inc (WMT) (Q3 2027) Earnings Call Highlights: Raised Guidance, 23% US E-Commerce Growth ...",
-   "excerpt": "Walmart Inc (WMT) beats sales guidance with 4.4% constant-currency growth, lifts full-year outlook, and leans into advertising, marketplace and fast delivery to outpace rising costs.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-inc-wmt-q3-2027-210048614.html?.tsrc=rss",
-   "published": "2026-11-19T21:00:48+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트가 예상을 웃도는 매출 성장률을 기록하며 연간 전망을 상향 조정했다고 밝혔다."
-   ],
-   "tone": "pos"
   }
  ]
 }
