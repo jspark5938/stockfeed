@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-26T05:00:41.136386+00:00",
+ "updated": "2026-11-26T05:30:31.972532+00:00",
  "posts": [
+  {
+   "id": "df4c1cf24bc234e7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses",
+   "excerpt": "HONG KONG (AP) — Asian shares rebounded on Thursday led by artificial intelligence -related stocks after Wall Street pared its sharp losses Wednesday.Nvidia, one of Wall Street’s biggest drivers, fell 3.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rebound-led-ai-052153058.html?.tsrc=rss",
+   "published": "2026-11-26T05:21:53+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "월스트리트의 낙폭 축소에 힘입어 아시아 증시가 반등했다고 전했다.",
+    "인공지능 관련 종목들이 이번 반등세를 주도했다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "b6609f5761d4e03f",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Joanna Stern on Siri’s iOS 27 Issues and Her Viral ‘Apple Dad’ Review",
+   "excerpt": "Joanna Stern joins Mark Gurman on the Power On podcast to discuss her frustrations testing Siri in iOS 27 and why dressing up as an “Apple Dad” sent her review viral. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Politics: Bloomberg Originals: Watch more on YouTube: Bloomberg Technology: Bloomberg Originals: Bloomberg Quicktake: Bloomberg Espanol: Bloomberg Podca",
+   "url": "https://www.youtube.com/watch?v=9RZYy_8m6Qk",
+   "published": "2026-11-26T05:00:23+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "조안나 스턴이 팟캐스트에 출연해 iOS 시리 테스트 과정의 불만과 바이럴 리뷰 비하인드를 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "a719672666013e5a",
    "kind": "news",
@@ -76847,59 +76882,6 @@
     "단일 소프트웨어 버그가 은행 시스템의 취약성을 드러내면서 JP모건 체이스가 새로운 조사를 받고 있다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "7c9e04834f2fd45f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Could Coinbase Global (COIN) Gain From Tokenized US Stocks Onchain?",
-   "excerpt": "Coinbase Global (NasdaqGS:COIN) is issuing tokenized US stocks on the Base network for use on Wirex infrastructure. The new tokens give users global, onchain access to major US equities on a 24/7 basis without traditional brokerage channels. Wirex plans to integrate these stock tokens into its wealth and payments apps, expanding how retail users interact with US shares. The launch of tokenized US stocks on Base is only one part of the broader Coinbase Global story. We have also spotted 1...",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/could-coinbase-global-coin-gain-051748464.html?.tsrc=rss",
-   "published": "2026-11-19T05:17:48+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "코인베이스가 Base 네트워크에서 토큰화된 미국 주식을 발행하여 24시간 연중무휴 접근성을 제공한다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "23f467e2c413a0e1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia (NVDA) Rules Out Jensen Huang Return As Record Q3 Reshapes Leadership",
-   "excerpt": "Nvidia (NasdaqGS:NVDA) confirmed that Jensen Huang will not return as CEO following his resignation over code of conduct and national security concerns. The board created a National Security and Export Control Oversight Committee to address geopolitical and compliance risks tied to sensitive technologies. The company reported record-breaking Q3 earnings and sales that came in above analyst expectations and raised its fiscal 2028 outlook while expanding share buybacks and shifting further...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-rules-jensen-huang-051505790.html?.tsrc=rss",
-   "published": "2026-11-19T05:15:05+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 젠슨 황의 CEO 복귀를 배제하고 사임 배경을 밝혔다.",
-    "기록적인 3분기 실적을 발표하고 2028 회계연도 전망을 상향 조정했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3abfb917e218c79d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto Networks Inc (PANW) Q1 2027 Earnings Call Highlights: Revenue Surges 39% as AI ...",
-   "excerpt": "Palo Alto Networks Inc (PANW) beat guidance across every metric with NGS ARR up 66%, while unveiling a $4.5 billion Applied Compute acquisition to lead the secure AI market.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-inc-panw-050050394.html?.tsrc=rss",
-   "published": "2026-11-19T05:00:50+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로알토 네트웍스가 모든 지표에서 가이던스를 상회했다고 전했다.",
-    "매출이 39% 급증했으며 45억 달러 규모의 인수 계획도 공개했다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
