@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-26T09:00:40.240556+00:00",
+ "updated": "2026-11-26T09:30:36.016302+00:00",
  "posts": [
+  {
+   "id": "6ac7aaabb90dcb26",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia halts chip exports to south-east Asia after US crackdown",
+   "excerpt": "Nvidia has blocked shipments of powerful AI servers to four Asian countries as Washington cracks down on Chinese access to cutting-edge American technology.",
+   "url": "https://uk.finance.yahoo.com/news/nvidia-halts-chip-exports-south-091719498.html?.tsrc=rss",
+   "published": "2026-11-26T09:17:19+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "44407feb3d7de6a8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "DELL Stock Heads For Worst Month Since 2021: Morningstar Sees Risk Ahead For Dell Despite AI-Led Earnings Beat",
+   "excerpt": "Dell increased its fiscal 2027 outlook on strong AI server demand, but Morningstar warned that future growth may slow.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/dell-stock-heads-for-worst-month-since-2021-morningstar-sees-risk-ahead-for-dell-despite-ai-led-earnings-beat/cNbx0U7R9Zo?.tsrc=rss",
+   "published": "2026-11-26T09:10:04+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "cb55ccab289f117d",
    "kind": "news",
@@ -19,6 +51,39 @@
     "리더십 안정성과 인공지능 성장, 실적 호조가 상향 조정의 배경이라고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "56333edc68f731ed",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ASML Sinks 7% in a Week: Dutch Lawmaker Warns the MATCH Act Is “Disastrous for ASML.” Time to Buy?",
+   "excerpt": "Key TakeawaysASML stock fell 7% in the past week in a chip selloff, and Applied Materials fell even more. A Dutch lawmaker called the US MATCH Act disastrous for ASML.",
+   "url": "https://www.tikr.com/blog/asml-sinks-7-in-a-week-dutch-lawmaker-warns-the-match-act-is-disastrous-for-asml-time-to-buy?ref=yahoofinance&tlnk=yf-261126-5mg6h437&.tsrc=rss",
+   "published": "2026-11-26T08:28:50+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "f97beb08e7da8e78",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palantir Is Down 22% From Its October High. Dan Ives Puts It Among the Sell-Off’s “Clear Areas of Safety”",
+   "excerpt": "Key TakeawaysPalantir has fallen 22% from its October high, mostly in the AI and tech sell-offs of October and November, even as third-quarter revenue rose 96%. Dan Ives of Yorkville Ives named Palantir and Snowflake among the sell-off’s safer AI software names, and Palantir’s results back him up.",
+   "url": "https://www.tikr.com/blog/palantir-is-down-22-from-its-october-high-dan-ives-puts-it-among-the-sell-offs-clear-areas-of-safety?ref=yahoofinance&tlnk=yf-261126-xw5cpjr4&.tsrc=rss",
+   "published": "2026-11-26T08:26:16+00:00",
+   "tickers": [
+    "PLTR",
+    "SNOW"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "adf6012081801334",
@@ -1538,6 +1603,22 @@
    "tone": "neu"
   },
   {
+   "id": "4f90d17b473ff80e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Even After a Cut, UBS’s $625 Target Says AMD’s Selloff Went Too Far",
+   "excerpt": "Key TakeawaysUBS cut its AMD price target to $625 from $700 on Nov. 25 and kept its Buy rating.",
+   "url": "https://www.tikr.com/blog/even-after-a-cut-ubss-625-target-says-amds-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261126-8fgrcr56&.tsrc=rss",
+   "published": "2026-11-25T22:58:17+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
    "id": "948c94fb1dd2f197",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -1554,6 +1635,22 @@
     "이번 방문은 TSMC의 컴퓨터 반도체 공장 확장과 관련이 있다고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "97fff35c8f24cfc3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell Has Slumped Since September. After a Record Quarter, Bernstein Still Sees 113% Upside",
+   "excerpt": "Key TakeawaysBernstein cut its Dell Technologies price target to $580 from $650 but kept its Outperform rating, and $580 is 113% above Wednesday’s close. The cut came the morning after a record quarter.",
+   "url": "https://www.tikr.com/blog/dell-has-slumped-since-september-after-a-record-quarter-bernstein-still-sees-113-upside?ref=yahoofinance&tlnk=yf-261126-6q3vcx98&.tsrc=rss",
+   "published": "2026-11-25T22:45:45+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
   },
   {
    "id": "959d35392499d0ec",
@@ -76651,109 +76748,6 @@
    ],
    "summary_ko": [
     "센서타워에 따르면 GTA VI는 전 세계적으로 1,700만 장 이상 판매되며 매출 16억 달러를 넘어섰고 마이크로소프트와 소니의 주가는 상승했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "4f27d7d81ed39746",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palantir just posted a record quarter—so why did the stock sink?",
-   "excerpt": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-just-posted-record-quarter-092745487.html?.tsrc=rss",
-   "published": "2026-11-19T09:27:45+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "summary_ko": [
-    "팔란티어가 최고 실적 분기를 기록한 후 주가가 하락한 배경을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "331903746fa8b002",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $95 billion backlog at 18x P/E: What Dell dip-buyers are missing",
-   "excerpt": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-   "url": "https://finance.yahoo.com/technology/articles/95-billion-backlog-18x-p-092736584.html?.tsrc=rss",
-   "published": "2026-11-19T09:27:36+00:00",
-   "tickers": [
-    "DELL"
-   ],
-   "summary_ko": [
-    "델의 950억 달러 규모 수주 잔고와 18배의 주가수익비율(P/E)을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "acbc8ec95cac4171",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Campaign Urges Ripple to Burn $30B in XRP as Analyst Cites Tesla in $70 XRP Call",
-   "excerpt": "The Make XRP Great Again campaign urged Ripple to burn 31.1 billion escrowed XRP by the end of March 2027. Chart analyst EGRAG Crypto separately…",
-   "url": "https://www.ccn.com/news/crypto/campaign-urges-ripple-to-burn-30b-in-xrp-as-analyst-cites-tesla-in-70-xrp-call/?.tsrc=rss",
-   "published": "2026-11-19T09:19:34+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "일부 캠페인은 리플에 30바이블(311억 개)의 XRP 소각을 촉구했으며 한 애널리스트는 테슬라를 언급하며 XRP 전망을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "1ad989da651a691e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "2 Words From Nvidia’s Colette Kress That Should Reassure Investors",
-   "excerpt": "Kress was named interim CEO last week after Jensen Huang resigned.",
-   "url": "https://www.fool.com/investing/2026/11/19/2-words-from-nvidia-s-colette-kress-that-should-reassure-investors/?.tsrc=rss",
-   "published": "2026-11-19T09:15:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 콜레트 크레스가 지난주 임시 CEO로 임명되었다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9ba543cf9083e76b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Amazon (AMZN) Stock Trades Below Fair Value As Its 82% Run Continues",
-   "excerpt": "Amazon.com has ridden a powerful three year upswing and sits in the middle of heavy debate about AI spending, logistics build out and new ventures. The key issue now is whether that share price can be explained by the cash the business is expected to generate over time. The stock has returned 82.5% over the past three years, which puts real pressure on the underlying cash flows to justify how far sentiment has already moved. Fresh scrutiny from the Federal Reserve and European Central Bank...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-trades-below-090928160.html?.tsrc=rss",
-   "published": "2026-11-19T09:09:28+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존 주가가 적정 가치 아래에서 거래되고 있다는 점을 다뤘다.",
-    "주가 상승 이후 현금 흐름과 규제에 대한 관심이 이어진다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "cf2596f25c06a600",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Democrats Just Won Congress. Here's Why Alphabet Could Be a Surprise Winner.",
-   "excerpt": "A Democrat-controlled government could impose AI limits that ultimately help the Google parent.",
-   "url": "https://www.fool.com/investing/2026/11/19/democrats-just-won-congress-heres-why-alphabet-cou/?.tsrc=rss",
-   "published": "2026-11-19T09:05:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "민주당의 의회 승리가 알파벳에게 의외의 수혜가 될 수 있다고 전망했다."
    ],
    "tone": "pos"
   }
