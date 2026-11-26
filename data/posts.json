@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-26T19:30:31.591188+00:00",
+ "updated": "2026-11-26T20:00:39.676458+00:00",
  "posts": [
+  {
+   "id": "44834952f199338b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Astera Labs, Inc. (ALAB) One of the Best Oversold AI Semiconductor Stocks to Buy?",
+   "excerpt": "We just published our list, 10 Most Oversold Semiconductor Stocks to Buy for 2027, and Arm Holdings plc ranked 10th on this list. The semiconductor sector has experienced heightened volatility in 2026, with several stocks retreating significantly from their 52-week highs. These deep pullbacks reflect heightened profit-taking and valuation concerns. They have also been exacerbated […]",
+   "url": "https://finance.yahoo.com/technology/ai/articles/astera-labs-inc-alab-one-194946194.html?.tsrc=rss",
+   "published": "2026-11-26T19:49:46+00:00",
+   "tickers": [
+    "ARM"
+   ],
+   "summary_ko": [
+    "반도체 섹터의 변동성과 주가 하락 배경을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bc4dcb2495f20faa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Arm Holdings plc (ARM) Is Down 63%: Why the Stock Could Rebound in 2027",
+   "excerpt": "We just published our list, 10 Most Oversold Semiconductor Stocks to Buy for 2027, and Arm Holdings plc ranked 10th on this list. The semiconductor sector has experienced heightened volatility in 2026, with several stocks retreating significantly from their 52-week highs. These deep pullbacks reflect heightened profit-taking and valuation concerns. They have also been exacerbated […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-plc-arm-down-194930844.html?.tsrc=rss",
+   "published": "2026-11-26T19:49:30+00:00",
+   "tickers": [
+    "ARM"
+   ],
+   "summary_ko": [
+    "반도체 섹터의 변동성과 주가 하락 배경을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "e6b798fbefe6106f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Salesforce wants to get paid per answer, not per worker",
+   "excerpt": "Salesforce is rewriting how it bills, and one new product earns nothing unless the bot fixes your problem. Wall Street is watching closely.",
+   "url": "https://www.thestreet.com/investing/salesforce-crm-ai-pricing-shift-bank-of-america-bofa?.tsrc=rss",
+   "published": "2026-11-26T19:47:00+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "세일즈포스의 새로운 과금 방식 변화를 다뤘다.",
+    "월스트리트가 이 움직임을 주목하고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "fb3af2171784a435",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Goldman Sachs resets Broadcom's 12-month price target before earnings",
+   "excerpt": "AVGO AI funding and 2028 data center concerns grow.",
+   "url": "https://www.thestreet.com/investing/stocks/avgo-broadcom-stock-goldman-sachs-resets-avgo-stock-12-month-price-target-before-earnings?.tsrc=rss",
+   "published": "2026-11-26T19:33:15+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "골드만삭스가 실적 발표를 앞두고 브로드컴의 목표주가를 재설정했다고 다뤘다.",
+    "AI 자금 조달 및 2028년 데이터 센터 관련 우려가 커지고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "d6e3be0829079ded",
    "kind": "news",
@@ -70438,212 +70508,6 @@
     "베세머 벤처 파트너스의 바이런 디터는 앤스로픽의 상장을 구글의 순간에 비유했다고 언급했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "3a6d2aa00865c6a5",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Bull v. Bear: GOOGL Earnings, Product Diversification Can't Fend Off AI Volatility",
-   "excerpt": "Characteristics and Risks of Standardized Options: Kevin Green and Kevin Hincks weigh in on Alphabet (GOOGL) amid AI volatility in the stock market. KG is encouraged by the company's most recent earnings report but shares concern of AI exposure, saying it's taking a hit from its affiliation in TPU production. Hincks views the Mag 7 stock with more bullishness due to its product diversification, which includes its legacy Google products. Both Kevins offer their own example options trades for Alphabet. ======== Schwab Network ======== Empowering every investor and trader, every market day. Options involve risks and are not suitable for all investors. Before trading, read the Options Disclosure Document. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fi",
-   "url": "https://www.youtube.com/watch?v=x50JxhyVBtE",
-   "published": "2026-11-19T20:00:29+00:00",
-   "tickers": [
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "전문가들은 알파벳의 실적과 AI 변동성 노출 및 제품 다변화에 대해 서로 다른 평가를 내놓았다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9173b8e4cac38946",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Market Today: Anthropic Up 14% From IPO Price, But AMD, Chip Stocks Slide Fast (Live Coverage)",
-   "excerpt": "The Dow Jones index flipped lower with other indexes Thursday as Anthropic's splashy IPO debut failed to sustain bullish vibes on Wall Street.",
-   "url": "https://finance.yahoo.com/m/81d1d9ec-afbb-3e6f-882b-7e094a9a305e/stock-market-today%3A-anthropic.html?.tsrc=rss",
-   "published": "2026-11-19T20:00:26+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "앤스로픽의 IPO 데뷔 이후에도 월스트리트의 낙관론이 지속되지 못하면서 증시가 하락했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ce701ed33021d42a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cathie Wood Says Nvidia’s Interim CEO Is “Not a Tech Expert.” Kevin O’Leary Disagrees. Who’s Right?",
-   "excerpt": "Key TakeawaysNVIDIA reported $115. 8 billion of revenue in its first quarter since Jensen Huang left, and interim CEO Colette Kress raised the fiscal 2028 growth outlook to about 75%.",
-   "url": "https://www.tikr.com/blog/cathie-wood-says-nvidias-interim-ceo-is-not-a-tech-expert-kevin-oleary-disagrees-whos-right?ref=yahoofinance&tlnk=yf-261119-m83jmp3h&.tsrc=rss",
-   "published": "2026-11-19T19:58:49+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 임시 CEO 체제와 연간 성장 전망 상향 조정을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "258b1c6846ca7c6d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump Cheers the “Biggest Drop in Gasoline in 18 Years.” Not Good for Exxon and Chevron",
-   "excerpt": "Key TakeawaysPresident Trump cheered gasoline’s biggest drop in 18 years, and Brent crude is down 22% in November. ExxonMobil and Chevron rode the Iran war’s spike in crude to a huge 2026, and that windfall is now reversing.",
-   "url": "https://www.tikr.com/blog/trump-cheers-the-biggest-drop-in-gasoline-in-18-years-not-good-for-exxon-and-chevron?ref=yahoofinance&tlnk=yf-261119-mpr266r3&.tsrc=rss",
-   "published": "2026-11-19T19:58:17+00:00",
-   "tickers": [
-    "XOM"
-   ],
-   "summary_ko": [
-    "휘발유 가격 급락과 유가 하락이 엑손모빌과 셰브론에 미치는 영향을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "e9439c6533d597df",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Doomsday Deals: Mizuho Hikes Its Costco Stock Price Target as Panic-Buying Spikes on Apocalypse Fears",
-   "excerpt": "Mizuho sees greater tailwinds for Costco due to outage-led panic-buying.",
-   "url": "https://www.barchart.com/story/news/8923671/doomsday-deals-mizuho-hikes-its-costco-stock-price-target-as-panic-buying-spikes-on-apocalypse-fears?.tsrc=rss",
-   "published": "2026-11-19T19:57:05+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "미즈호가 정전 사태로 인한 패닉 바잉을 이유로 코스트코의 목표주가를 상향했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "475f8d82ba47441a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Coinbase Plans to Bring Prediction Markets In-House, Cutting Reliance on Kalshi",
-   "excerpt": "Coinbase Global (NASDAQ: $COIN) is targeting the first half of 2027 to begin offering its own event contracts in th...",
-   "url": "https://www.cryptoprowl.com/releases/coinbase-plans-to-bring-prediction-markets-in-house-cutting-reliance-on-kalshi-7994?.tsrc=rss",
-   "published": "2026-11-19T19:56:00+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "코인베이스가 칼시への 의존도를 낮추고 자체 이벤트 계약을 제공할 계획이라고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4a28ca416d259d69",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla Expands Cybercab To Dallas In First Move Outside Austin",
-   "excerpt": "While the company previously operated robotaxis in Dallas, they were limited to Model Y vehicles.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/tesla-expands-cybercab-to-dallas-in-first-move-outside-austin/cNbik2YR90r?.tsrc=rss",
-   "published": "2026-11-19T19:55:17+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라가 오스틴 외 지역인 댈러스로 로보택시 서비스를 확장한다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b9aed3449dabd67b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Offshore yuan dip looks like a liquidity blip, not a trend shift",
-   "excerpt": "Investing.com -- The offshore yuan slipped modestly on Nov. 19, but the move appears driven by thin liquidity rather than any fundamental deterioration — and the link to AMD’s selloff is a stretch.",
-   "url": "https://finance.yahoo.com/markets/currencies/articles/offshore-yuan-dip-looks-liquidity-195425979.html?.tsrc=rss",
-   "published": "2026-11-19T19:54:25+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "역외 위안화 하락은 펀더멘털 악화가 아닌 유동성 요인에 따른 것으로 보인다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "32c5e8183e9c70dc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Salesforce vs. Palantir Technologies: Which Software Stock Is a Better Buy for 2027?",
-   "excerpt": "Salesforce's AI agent push and Palantir's commercial surge carry very different price tags, and that gap may decide the debate.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/19/salesforce-vs-palantir-technologies-which-software-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-   "published": "2026-11-19T19:52:04+00:00",
-   "tickers": [
-    "PLTR",
-    "CRM"
-   ],
-   "summary_ko": [
-    "세일즈포스의 AI 에이전트와 팔란티어의 상업적 성장을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ae9c0335678b966b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Short Seller Raises Questions About Nvidia's Former Top Sales Executive. $2.5 Billion China Chip Case In Focus.",
-   "excerpt": "A short seller's report has drawn Nvidia's former top sales executive into scrutiny surrounding an alleged $2.5 billion China chip-diversion scheme. The reported personal connection remains unverified.",
-   "url": "https://www.ibtimes.com/former-nvidia-sales-chief-china-ai-server-scheme-3809981?.tsrc=rss",
-   "published": "2026-11-19T19:49:17+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "공매도 보고서가 엔비디아의 전직 고위 영업 임원과 관련된 중국 칩 관련 의혹을 제기했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "a2afd2f13839045b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Billionaire Stanley Druckenmiller Cut TSMC 94% in One Quarter, Leaving Just $14.9 Million",
-   "excerpt": "TSMC's revenue kept surging while one of Wall Street's sharpest macro minds headed for the exit. His new buys in storage, gold and space hint at what spooked him, and his own words about the next 12 months add another clue.",
-   "url": "https://247wallst.com/investing/2026/11/19/billionaire-stanley-druckenmiller-cut-tsmc-94-in-one-quarter-leaving-just-14-9-million/?.tsrc=rss",
-   "published": "2026-11-19T19:46:51+00:00",
-   "tickers": [
-    "TSM"
-   ],
-   "summary_ko": [
-    "스탠리 드러켄밀러가 TSMC 지분의 대부분을 매각했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "d0afd41647d1b8d2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "‘SpaceX Has Gone All In With Nvidia’: Nvidia’s Biggest Customer Is Also Its Biggest Stock Holding at $19.7B",
-   "excerpt": "SpaceX can bet big on a single chip supplier because it controls its own financing. Your brokerage account has no such safety net, and NVIDIA's recent slide shows how quickly one concentrated position can drag down an entire portfolio.",
-   "url": "https://247wallst.com/personal-finance/2026/11/19/spacex-has-gone-all-in-with-nvidia-nvidias-biggest-customer-is-also-its-biggest-stock-holding-at-19-7b/?.tsrc=rss",
-   "published": "2026-11-19T19:42:17+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "스페이스X가 엔비디아의 최대 고객이자 주요 보유 지분이라는 점을 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
