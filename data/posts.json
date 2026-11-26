@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-26T02:30:30.629213+00:00",
+ "updated": "2026-11-26T02:50:46.529067+00:00",
  "posts": [
+  {
+   "id": "b328be0b9df834e2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Asian stocks enjoy another bounce as tech holds court",
+   "excerpt": "Asian stocks staged another rebound Thursday from another hard day of selling as trading in the tech sector stabilised, while investors took in their stride a fresh round of proposed US tariffs.Beaten-down Asian tech firms led the gains Thursday, with Seoul, Tokyo and Taipei again at the centre of the action, having seen wild swings this week amid concerns about the AI boom, while the euphoria over Jensen Huang's reinstatement at Nvidia has worn off.",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-enjoy-another-bounce-023024729.html?.tsrc=rss",
+   "published": "2026-11-26T02:30:24+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "아시아 증시는 기술주 거래가 안정세를 찾으며 반등했다고 전했다.",
+    "서울, 도쿄, 타이베이의 기술주가 상승세를 주도했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "77fbf8550626dba8",
    "kind": "news",
@@ -88,6 +106,42 @@
    "summary_ko": [
     "추수감사절을 앞두고 RKLB 주가가 반등한 가운데 임원진의 주식 매도 소식을 다뤘다.",
     "최고운영책임자(COO) 프랭크 클라인이 전체 매도액의 58%를 차지했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "8dd1f7e34444fd7c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Put on Negative Credit Watch by S&P Over ‘Key Man’ Risk: Moody’s Says Jensen Huang’s Return as CEO ‘Reduces Near-Term Uncertainty’",
+   "excerpt": "Nvidia Corp. (NASDAQ:NVDA) faces a possible credit downgrade as S&P Global Ratings cites board independence and heavy reliance on CEO Jensen Huang, while Moody’s kept its rating unchanged. S&P Could Downgrade Nvidia Within 90 Days S&P said on Wednesday that “recent events undermine our view” of Nvidia’s management and governance, adding that the long tenure of certain board members “may have compromised their independence.” Weak executive oversight and a lack of succession planning “have brought",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-put-negative-credit-watch-013558626.html?.tsrc=rss",
+   "published": "2026-11-26T01:35:58+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "S&P는 경영진 및 이사회 독립성 우려로 엔비디아를 부정적 신용 관찰 대상에 올렸다고 전했다.",
+    "무디스는 CEO 젠슨 황의 복귀가 단기적 불확실성을 줄였다고 평가했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6e0f60c68be62875",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Pete Hegseth, Trump Officials Reportedly Floated Wartime Law to Force Jensen Huang’s Return as Nvidia CEO, But Pentagon Says It ‘Never Happened’",
+   "excerpt": "The Donald Trump administration reportedly considered invoking emergency powers under a decades-old defense law to pressure Nvidia Corp. (NASDAQ:NVDA) to reinstate Jensen Huang as CEO. Pentagon Considered Using Defense Production Act Senior Pentagon officials, including Defense Secretary Pete Hegseth and Deputy Secretary Steve Feinberg, discussed using the Defense Production Act to influence Nvidia’s board over the weekend, the Washington Post reported on Wednesday, citing people familiar with t",
+   "url": "https://finance.yahoo.com/technology/articles/pete-hegseth-trump-officials-reportedly-013224994.html?.tsrc=rss",
+   "published": "2026-11-26T01:32:24+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "트럼프 행정부 일부 인사가 젠슨 황의 엔비디아 CEO 복귀를 위해 비상권한 사용을 논의했다고 보도되었다.",
+    "펜타곤은 그러한 일이 결코 없었다고 밝혔다고 전했다."
    ],
    "tone": "neu"
   },
@@ -1789,6 +1843,23 @@
     "테슬라와의 합병 추측과 GPU 렌탈 가격 약세 등으로 스페이스X 주가가 압박을 받고 있다고 전했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "1d29f6db2cbbd0a5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How to Play Coinbase Stock Ahead of Its Prediction Markets Launch",
+   "excerpt": "Coinbase is betting on prediction markets to drive its next phase of growth, but is COIN stock worth buying after its steep selloff?",
+   "url": "https://www.barchart.com/story/news/9009607/how-to-play-coinbase-stock-ahead-of-its-prediction-markets-launch?.tsrc=rss",
+   "published": "2026-11-25T20:31:08+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스가 성장을 위해 예측 시장에 기대를 걸고 있다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "7de525860ababc23",
@@ -77006,24 +77077,6 @@
     "앤스로픽의 IPO에도 불구하고 엔비디아 관련 여파로 아시아 증시가 하락했다고 전했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "a5e0ee054f939335",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Coatue Builds $1.8 Billion Salesforce Stake, Its Biggest New Bet, as the Stock Sinks 17%",
-   "excerpt": "Coatue's 13F shows a new 8,032,477-share Salesforce stake worth $1.84 billion on September 30, the largest new position in its $54.50 billion portfolio. The stock has fallen 17% since, including a 9.5% drop on November 17, its worst day since May 2024, as software stocks sold off before Anthropic's IPO.",
-   "url": "https://247wallst.com/investing/2026/11/18/coatue-builds-1-8-billion-salesforce-stake-its-biggest-new-bet-as-the-stock-sinks-17/?.tsrc=rss",
-   "published": "2026-11-19T02:47:06+00:00",
-   "tickers": [
-    "CRM"
-   ],
-   "summary_ko": [
-    "Coatue는 13F 공시를 통해 18억 4천만 달러 규모의 세일즈포스 지분을 새로 취득했다고 밝혔다.",
-    "소프트웨어주 매도세 속에서 세일즈포스 주가는 이후 17% 하락했다고 언급했다."
-   ],
-   "tone": "neu"
   }
  ]
 }
