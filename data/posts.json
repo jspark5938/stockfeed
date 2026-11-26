@@ -1,6 +1,79 @@
 {
- "updated": "2026-11-26T08:00:38.251640+00:00",
+ "updated": "2026-11-26T08:30:36.942907+00:00",
  "posts": [
+  {
+   "id": "adf6012081801334",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Reportedly Halts AI Server Shipments To Southeast Asia Ahead Of Jensen Huang's Congress Testimony",
+   "excerpt": "Dell and Super Micro informed buyers that pending orders cannot be shipped, according to a report in The Financial Times.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-reportedly-halts-ai-server-shipments-to-southeast-asia-ahead-of-jensen-huang-s-congress-testimony/cNbxLXJR9ZN?.tsrc=rss",
+   "published": "2026-11-26T08:11:47+00:00",
+   "tickers": [
+    "NVDA",
+    "SMCI",
+    "DELL"
+   ],
+   "summary_ko": [
+    "파이낸셜타임스 보도에 따르면 델과 슈퍼마이크로는 구매자에게 보류 중인 주문을 배송할 수 없다고 알렸다.",
+    "엔비디아가 젠슨 황의 의회 증언을 앞두고 동남아시아로 향하는 AI 서버 선적을 중단했다고 전해졌다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "ed03647852c32811",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CoreWeave (CRWV) Debt Sale Wins Investment Grade Ratings",
+   "excerpt": "CoreWeave (NasdaqGS:CRWV) is marketing a planned US$4.5b debt sale secured by GPU assets tied to a Meta Platforms contract. The GPU-backed financing is expected to be rated investment grade even though CoreWeave itself currently holds a junk credit rating. Deal structure links lender protection to specific hardware and contract cash flows rather than CoreWeave’s broader corporate balance sheet. The investment grade treatment of this GPU-backed Meta contract financing signals a wider shift...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-debt-sale-wins-080908581.html?.tsrc=rss",
+   "published": "2026-11-26T08:09:08+00:00",
+   "tickers": [
+    "META"
+   ],
+   "summary_ko": [
+    "코어위브는 메타 플랫폼스 계약과 연계된 GPU 자산으로 뒷받침되는 45억 달러 규모의 부채 발행을 추진 중이다.",
+    "해당 GPU 담보 금융은 기업 자체의 신용등급이 낮음에도 투자 등급을 받을 것으로 예상된다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "61d302ba50d580fe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Is JPMorgan Chase (JPM) Saying With Its $450 Billion AI Debt Call?",
+   "excerpt": "JPMorgan Chase (NYSE:JPM) analysts project that AI related capital expenditure will drive US$450b in investment grade debt issuance in 2027. The bank links this expected borrowing to funding for artificial intelligence infrastructure and hardware across corporate issuers. JPMorgan Chase frames the potential 2027 AI funding wave as a key theme for debt capital markets and sector funding models. This projected US$450b AI funding spike through investment grade bonds fits into a wider capital...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-chase-jpm-saying-450-080838063.html?.tsrc=rss",
+   "published": "2026-11-26T08:08:38+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "제이피모간체이스 분석가들은 AI 관련 지출이 2027년에 4,500억 달러어치의 투자 등급 채권 발행을 이끌 것으로 전망했다.",
+    "은행은 이번 차입이 기업 발행사들의 인공지능 인프라 및 하드웨어 자금 조달과 연결되어 있다고 설명했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "3beed7ed21deb598",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "S&P Weighs Nvidia Downgrade Despite Huang's Return. What Would a Cut Mean?",
+   "excerpt": "S&P Global Ratings may cut Nvidia's AA credit rating within 90 days over board oversight concerns after Huang's return.",
+   "url": "https://beincrypto.com/sp-nvidia-credit-rating-downgrade-watch/?.tsrc=rss",
+   "published": "2026-11-26T08:00:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "에스앤피 글로벌 레이팅스는 황의 복귀 이후 이사회 감독 우려를 들어 엔비디아의 신용등급을 낮출 수 있다고 언급했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "f42577420df675c3",
    "kind": "news",
@@ -76717,77 +76790,6 @@
     "엔비디아와 인텔 주식이 5일간의 하락세 이후 진정되는 모습을 보였다.",
     "트럼프는 시진핑 주석과의 회동 후 엔비디아의 블랙웰 칩이 2~3년 내에 중국에 도달할 수 있다고 언급했다.",
     "블랙웰은 엔비디아의 이전 세대 AI GPU 플랫폼이며 후속작인 베라 루빈은 생산 및 출하가 시작되었다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "61f63a7b9bbf81a9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Okta (OKTA) Fully Valued Following Its Cybersecurity Fueled Rally?",
-   "excerpt": "What sparked the latest move in Okta stock Okta (OKTA) jumped 12.07% to close at US$195.61, with an extra 3.27% move after hours, after investors rotated into cybersecurity stocks following Palo Alto Networks' earnings update. The sharp swing put Okta back on traders' screens and set up a fresh debate over how the identity security specialist is priced ahead of its December 1 earnings release. That one day jump sits on top of a powerful run for Okta, with a 7 day share price return of 7.33%,...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-fully-valued-following-081248720.html?.tsrc=rss",
-   "published": "2026-11-19T08:12:48+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로알토 네트웍스의 실적 발표 이후 사이버보안주로 자금이 유입되면서 옥타 주가가 급등했다고 다뤘다.",
-    "주가 급등으로 12월 1일 실적 발표를 앞두고 옥타의 적정 가치에 대한 논쟁이 재점화됐다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "072012a33d15a53c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Oracle And 2 Other Crypto Stocks To Own",
-   "excerpt": "Anthropic’s record breaking IPO, with a valuation reported around US$1.5b, has pushed digital infrastructure and transaction technology back into the spotlight. Crypto and blockchain platforms sit close to this debate because they aim to move value as easily as information. That gap between old rails and new pipes is where potential opportunity lives. This piece highlights three stocks from our curated crypto and blockchain universe. The three stocks below are just a starting sample from the...",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/oracle-2-other-crypto-stocks-081122122.html?.tsrc=rss",
-   "published": "2026-11-19T08:11:22+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "summary_ko": [
-    "앤스로픽의 대규모 기업공개로 디지털 인프라와 암호화폐 관련 기술이 주목받고 있다고 다뤘다.",
-    "블록체인 플랫폼이 가치 전송 측면에서 기회를 제공할 수 있다며 관련 주식들을 조명했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e383b06708d4b3a2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Qualcomm (QCOM) Stock May Be Below Fair Value After AI Revenue Targets",
-   "excerpt": "QUALCOMM has seen a mixed few years on the market, with the share price moving but the real story sitting in the cash that the business can generate. The question for you now is whether the current US$159.81 price tag lines up with what its future cash flows suggest, especially after the latest swings in the wider chip sector. Over the past 3 years, QUALCOMM has delivered a total return of about 33.6%, which puts real weight on whether that share price now reflects its underlying cash...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-may-below-081010117.html?.tsrc=rss",
-   "published": "2026-11-19T08:10:10+00:00",
-   "tickers": [
-    "QCOM"
-   ],
-   "summary_ko": [
-    "퀄컴 주가는 지난 몇 년간 혼조세를 보였으나 현금 창출력에 관심이 집중되고 있다고 다뤘다.",
-    "최근 칩 섹터의 변동성 속에서 현재 주가가 미래 현금 흐름을 적절히 반영하는지 의문이 제기된다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "eaf1f3550c8371b0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "EA cofounder once compared interview questions with Amazon’s Andy Jassy—Jassy’s was so ruthless that no instant answer ends the interview",
-   "excerpt": "EA cofounder once compared interview questions with Amazon’s Andy Jassy—Jassy’s was so ruthless that no instant answer ends the interview on the spot",
-   "url": "https://finance.yahoo.com/small-business/articles/ea-cofounder-once-compared-interview-080200120.html?.tsrc=rss",
-   "published": "2026-11-19T08:02:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "EA 공동 창업자가 아마존 앤디 재시의 면접 질문이 매우 엄격했다고 언급한 내용을 다뤘다."
    ],
    "tone": "neu"
   }
