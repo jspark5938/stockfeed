@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-26T07:30:31.077285+00:00",
+ "updated": "2026-11-26T08:00:38.251640+00:00",
  "trends": [
-  {
-   "ticker": "APP",
-   "name_ko": "앱러빈",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 0,
-   "ratio": 4.0
-  },
   {
    "ticker": "LCID",
    "name_ko": "루시드",
@@ -20,6 +13,13 @@
    "name_ko": "조비",
    "mentions_24h": 6,
    "mentions_prev_24h": 2,
+   "ratio": 3.0
+  },
+  {
+   "ticker": "APP",
+   "name_ko": "앱러빈",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 1,
    "ratio": 3.0
   },
   {
@@ -51,11 +51,11 @@
    "ratio": 3.0
   },
   {
-   "ticker": "SMCI",
-   "name_ko": "슈퍼마이크로",
-   "mentions_24h": 8,
+   "ticker": "RKLB",
+   "name_ko": "로켓랩",
+   "mentions_24h": 7,
    "mentions_prev_24h": 3,
-   "ratio": 2.67
+   "ratio": 2.33
   },
   {
    "ticker": "PANW",
@@ -72,18 +72,11 @@
    "ratio": 2.0
   },
   {
-   "ticker": "RKLB",
-   "name_ko": "로켓랩",
+   "ticker": "SMCI",
+   "name_ko": "슈퍼마이크로",
    "mentions_24h": 7,
    "mentions_prev_24h": 4,
    "ratio": 1.75
-  },
-  {
-   "ticker": "META",
-   "name_ko": "메타",
-   "mentions_24h": 12,
-   "mentions_prev_24h": 7,
-   "ratio": 1.71
   },
   {
    "ticker": "NVO",
@@ -114,17 +107,17 @@
    "ratio": 1.43
   },
   {
+   "ticker": "META",
+   "name_ko": "메타",
+   "mentions_24h": 11,
+   "mentions_prev_24h": 8,
+   "ratio": 1.38
+  },
+  {
    "ticker": "PLTR",
    "name_ko": "팔란티어",
    "mentions_24h": 12,
    "mentions_prev_24h": 9,
-   "ratio": 1.33
-  },
-  {
-   "ticker": "IONQ",
-   "name_ko": "아이온큐",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 3,
    "ratio": 1.33
   },
   {
@@ -135,11 +128,11 @@
    "ratio": 1.33
   },
   {
-   "ticker": "QBTS",
-   "name_ko": "디웨이브",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 3,
-   "ratio": 1.33
+   "ticker": "AAPL",
+   "name_ko": "애플",
+   "mentions_24h": 27,
+   "mentions_prev_24h": 21,
+   "ratio": 1.29
   },
   {
    "ticker": "MU",
@@ -170,13 +163,6 @@
    "ratio": 1.22
   },
   {
-   "ticker": "AAPL",
-   "name_ko": "애플",
-   "mentions_24h": 26,
-   "mentions_prev_24h": 22,
-   "ratio": 1.18
-  },
-  {
    "ticker": "AMZN",
    "name_ko": "아마존",
    "mentions_24h": 55,
@@ -189,6 +175,13 @@
    "mentions_24h": 20,
    "mentions_prev_24h": 19,
    "ratio": 1.05
+  },
+  {
+   "ticker": "AVGO",
+   "name_ko": "브로드컴",
+   "mentions_24h": 14,
+   "mentions_prev_24h": 14,
+   "ratio": 1.0
   },
   {
    "ticker": "COST",
@@ -217,13 +210,6 @@
    "mentions_24h": 51,
    "mentions_prev_24h": 53,
    "ratio": 0.96
-  },
-  {
-   "ticker": "AVGO",
-   "name_ko": "브로드컴",
-   "mentions_24h": 14,
-   "mentions_prev_24h": 15,
-   "ratio": 0.93
   },
   {
    "ticker": "GOOGL",
@@ -261,6 +247,20 @@
    "ratio": 0.75
   },
   {
+   "ticker": "IONQ",
+   "name_ko": "아이온큐",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 4,
+   "ratio": 0.75
+  },
+  {
+   "ticker": "QBTS",
+   "name_ko": "디웨이브",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 4,
+   "ratio": 0.75
+  },
+  {
    "ticker": "MSFT",
    "name_ko": "마이크로소프트",
    "mentions_24h": 26,
@@ -275,18 +275,11 @@
    "ratio": 0.71
   },
   {
-   "ticker": "TSM",
-   "name_ko": "TSMC",
-   "mentions_24h": 11,
-   "mentions_prev_24h": 16,
-   "ratio": 0.69
-  },
-  {
    "ticker": "AMD",
    "name_ko": "AMD",
-   "mentions_24h": 26,
-   "mentions_prev_24h": 38,
-   "ratio": 0.68
+   "mentions_24h": 25,
+   "mentions_prev_24h": 39,
+   "ratio": 0.64
   },
   {
    "ticker": "BA",
@@ -306,8 +299,15 @@
    "ticker": "TSLA",
    "name_ko": "테슬라",
    "mentions_24h": 32,
-   "mentions_prev_24h": 55,
-   "ratio": 0.58
+   "mentions_prev_24h": 54,
+   "ratio": 0.59
+  },
+  {
+   "ticker": "TSM",
+   "name_ko": "TSMC",
+   "mentions_24h": 10,
+   "mentions_prev_24h": 17,
+   "ratio": 0.59
   },
   {
    "ticker": "UBER",
@@ -319,9 +319,9 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 214,
-   "mentions_prev_24h": 412,
-   "ratio": 0.52
+   "mentions_24h": 215,
+   "mentions_prev_24h": 405,
+   "ratio": 0.53
   },
   {
    "ticker": "INTC",
@@ -355,8 +355,8 @@
    "ticker": "CRWD",
    "name_ko": "크라우드스트라이크",
    "mentions_24h": 9,
-   "mentions_prev_24h": 24,
-   "ratio": 0.38
+   "mentions_prev_24h": 23,
+   "ratio": 0.39
   },
   {
    "ticker": "NKE",
