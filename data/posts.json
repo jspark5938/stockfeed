@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-26T05:30:31.972532+00:00",
+ "updated": "2026-11-26T06:00:37.862240+00:00",
  "posts": [
+  {
+   "id": "80ba67b632413012",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "ANT, NVDA Slide Tests Investor Resolve, Software Firms Post Sharp Growth",
+   "excerpt": "Investors faced intense volatility in the Thanksgiving week.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/ant-nvda-slide-tests-investor-resolve-software-firms-post-sharp-growth/cNbxO5FR9ZX?.tsrc=rss",
+   "published": "2026-11-26T05:33:34+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "추수감사절 주간 동안 투자자들은 극심한 변동성을 겪었다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bda9503f266edc5d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SpaceX Reportedly Slashes Some Nvidia Chip Rents — AI Researcher Sees Musk’s Edge In A GPU Glut",
+   "excerpt": "SpaceX is reportedly seeking a new renter for 50,000 H200 chips leased to Anthropic.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/spacex-reportedly-slashes-nvidia-chip-rents-ai-researcher-musk-edge-gpu-glut/cNbxOPgR9ZQ?.tsrc=rss",
+   "published": "2026-11-26T05:32:55+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "스페이스엑스가 앤스로픽에 임대했던 엔비디아 칩의 새로운 임차인을 찾고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a84ebc2f646179b1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger",
+   "excerpt": "Investing.com -- Most Asian stocks rose on Thursday as a recovery in technology shares and improving sentiment around U.S. trade policy helped markets regain some footing after a volatile November, although concerns over Nvidia's governance continued to temper confidence.",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-taiwan-south-053137366.html?.tsrc=rss",
+   "published": "2026-11-26T05:31:37+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "기술주 반등 등으로 아시아 증시가 상승했다고 다뤘다.",
+    "엔비디아의 지배구조 관련 우려가 투자 심리를 제한하고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "df4c1cf24bc234e7",
    "kind": "news",
@@ -16,6 +68,40 @@
    "summary_ko": [
     "월스트리트의 낙폭 축소에 힘입어 아시아 증시가 반등했다고 전했다.",
     "인공지능 관련 종목들이 이번 반등세를 주도했다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "13877660e7050ab9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "2 Ways Anthropic's IPO Pays Off for Alphabet Investors",
+   "excerpt": "A large equity stake and nearly guaranteed cloud sales make Anthropic's future success a boon for Alphabet.",
+   "url": "https://www.fool.com/investing/2026/11/26/2-ways-anthropic-s-ipo-pays-off-for-alphabet-investors/?.tsrc=rss",
+   "published": "2026-11-26T05:20:02+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "앤스로픽의 미래 성공이 알파벳 투자자들에게 호재가 될 수 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "c4ede7ecb7f5a6ef",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Do IonQ (IONQ) Quantum Sensing Wins Mean For Its Broader Growth Story?",
+   "excerpt": "IonQ (NYSE: IONQ) subsidiary Vector Atomic received a DARPA Phase II Option award to develop an airborne quantum gravimeter. Vector Atomic completed a 51 day maritime deployment of its Evergreen-30 optical atomic clock to test performance at sea. The Evergreen-30 trial focused on resilient timing and navigation in GPS denied maritime conditions using optical atomic clock technology. The DARPA gravimeter work and Evergreen-30 sea deployment frame a broader picture of IonQ's quantum sensing...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/ionq-ionq-quantum-sensing-wins-051527062.html?.tsrc=rss",
+   "published": "2026-11-26T05:15:27+00:00",
+   "tickers": [
+    "IONQ"
+   ],
+   "summary_ko": [
+    "아이온큐의 자회사 벡터 아토믹이 DARPA 계약을 수주하고 해상 테스트를 완료했다고 다뤘다."
    ],
    "tone": "pos"
   },
@@ -52,6 +138,23 @@
     "메가존클라우드가 기업 데이터를 자율형 실행으로 전환하기 위해 아마존 퀵 탁월성 센터를 출범했다고 밝혔다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "230049ef4a864b94",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Reportedly Sold Its Most Advanced AI Chips to US Firms Controlled by Chinese Parents as Jensen Huang Set to Face Congress",
+   "excerpt": "Nvidia Corp. (NASDAQ:NVDA) has reportedly sold its most advanced chips to at least two U.S. companies controlled by Chinese-owned firms, as CEO Jensen Huang prepares to face lawmakers next week. Firms Hold Nvidia Partner Status Ricloud AI Inc., Nvidia’s cloud partner headquartered in San Jose, is controlled by Yuxing InfoTech Investment Holdings, based in Shenzhen and listed in Hong Kong, while Aivres Systems Inc., based in Fremont, was formerly known as Inspur, after its Chinese parent, accordi",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-sold-most-advanced-042255874.html?.tsrc=rss",
+   "published": "2026-11-26T04:22:55+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 중국계 모기업이 통제하는 미국 기업들에 최첨단 칩을 판매했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "0f8d8fb83e8ef32c",
@@ -76795,93 +76898,6 @@
     "오픈AI의 모델 덕분에 AMD가 칩 개발에서 큰 진전을 이뤘다고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "b92bf9ecf6b00311",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "ASTS Stock Jumps Overnight Despite New Shares For Engines And Spectrum — Bulls Cheer ULA’s Amazon Launch Clue",
-   "excerpt": "Bulls welcomed early findings from ULA because Blue Origin’s New Glenn, slated to carry three AST BlueBirds in early 2027, uses the same BE-4 engines.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/asts-new-shares-engines-spectrum-bulls-ula-amazon-launch-clue/cNbLyqER9iS?.tsrc=rss",
-   "published": "2026-11-19T05:57:36+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "신주 발행 등에도 불구하고 ASTS 주가가 시간 외로 상승했다고 전했다.",
-    "강세론자들은 블루오리진의 로켓 엔진과 관련된 ULA의 초기 발견을 반겼다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "694d1bceee91b6aa",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Anthropic's record IPO lands as Nvidia suffers its worst run since 2008",
-   "excerpt": "Anthropic priced its record IPO at $83 a share ahead of Thursday's debut, as Nvidia heads for a seventh weekly loss and Washington tightens AI chip exports.View on euronews",
-   "url": "https://www.euronews.com/2026/11/19/anthropics-record-ipo-lands-as-nvidia-suffers-its-worst-run-since-2008?.tsrc=rss",
-   "published": "2026-11-19T05:53:05+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 7주 연속 하락세를 기록하며 워싱턴의 AI 반도체 수출 규제 강화 상황에 직면했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c02830d55300d694",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Anthropic’s Cash Pile Tops Amazon And Nvidia Combined After Record IPO – Meet The New ETF Tracking ANT-Linked Companies",
-   "excerpt": "Anthropic’s IPO was roughly 7 times oversubscribed, according to Bloomberg.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-cash-pile-tops-amazon-and-nvidia-combined-after-record-ipo-meet-the-new-etf-tracking-ant-linked-companies/cNbLyKgR9i1?.tsrc=rss",
-   "published": "2026-11-19T05:47:57+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "블룸버그에 따르면 앤스로픽의 기업공개(IPO)가 약 7배 초과 청약되었다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5a0609dbc82b262a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Elon Musk Doubles Down On Autonomy: Tesla Plans Wheel-Less, Pedal-Less Model Y To Sit Alongside Two-Seat Cybercab",
-   "excerpt": "Tesla Inc. (NASDAQ:TSLA) CEO Elon Musk doubled down on his vision for autonomous vehicles on Wednesday, saying the automaker will release the Model Y without a steering wheel and pedals in the future. Model Y Without Traditional Vehicle Controls? During his appearance at the Dealbook Summit, Musk was asked about whether Tesla’s business model will focus solely on autonomy going forward. “It’s going to make sense for us to make cars that can seat different amounts of people,” he said, adding that",
-   "url": "https://finance.yahoo.com/technology/articles/elon-musk-doubles-down-autonomy-053905404.html?.tsrc=rss",
-   "published": "2026-11-19T05:39:05+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "일론 머스크는 테슬라가 핸들과 페달이 없는 모델 Y를 출시할 계획이라고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "e2d6a439bf924d74",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "JPMorgan Chase faces fresh scrutiny after banking disruption",
-   "excerpt": "A single software bug exposed a vulnerability in the banking system.",
-   "url": "https://www.thestreet.com/technology/jpmorgan-chase-outage-zelle-payment-delays?.tsrc=rss",
-   "published": "2026-11-19T05:37:00+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "단일 소프트웨어 버그가 은행 시스템의 취약성을 드러내면서 JP모건 체이스가 새로운 조사를 받고 있다고 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
