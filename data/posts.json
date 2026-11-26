@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-26T09:30:36.016302+00:00",
+ "updated": "2026-11-26T10:00:39.585931+00:00",
  "posts": [
+  {
+   "id": "839e14dfe6047a40",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Truist Sees 52% Upside in Zscaler, and the Reason Has Nothing to Do With Zscaler’s Valuation",
+   "excerpt": "Key TakeawaysTruist kept its Buy rating on Zscaler and raised its price target to $340 from $250, 52% above Wednesday’s close. The $340 matches Truist’s $300 CrowdStrike target times 1.",
+   "url": "https://www.tikr.com/blog/truist-sees-52-upside-in-zscaler-and-the-reason-has-nothing-to-do-with-zscalers-valuation?ref=yahoofinance&tlnk=yf-261126-f75j8rm7&.tsrc=rss",
+   "published": "2026-11-26T09:20:27+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": [
+    "Truist는 Zscaler에 대해 매수 의견을 유지하고 목표주가를 340달러로 상향 조정했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "6ac7aaabb90dcb26",
    "kind": "news",
@@ -13,9 +30,27 @@
    "tickers": [
     "NVDA"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "미국의 대중국 규제 강화 여파로 엔비디아가 동남아 4개국에 대한 AI 서버 선적을 차단했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "e6c14ae72497127f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart (WMT) Brings Direct AI Shopping And a 3,000 Store Beauty Box Launch",
+   "excerpt": "Walmart (NasdaqGS:WMT) is partnering with Meta's Muse AI shopping assistant to support direct purchasing through the conversational tool. The retailer is working with subscription brand FabFitFun on a limited edition beauty box that will appear in thousands of Walmart stores. The FabFitFun collaboration represents the brand's first retail box launch outside its existing subscription channel, focused on beauty and wellness products. The new Muse AI shopping link and FabFitFun beauty box...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/walmart-wmt-brings-direct-ai-091223863.html?.tsrc=rss",
+   "published": "2026-11-26T09:12:23+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트는 메타의 뮤즈 AI 쇼핑 어시스턴트를 도입하고 파프핏펀 뷰티 박스를 매장에 선보일 것이라고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "44407feb3d7de6a8",
@@ -29,9 +64,27 @@
    "tickers": [
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "델은 AI 서버 수요로 회계연도 2027년 전망을 상향했으나 모닝스타는 향후 성장 둔화 위험을 경고했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d2483875e367ad11",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Musk Confirms He Pushed Trump to Bring Back Jensen Huang. The White House Had Anthropic in Mind",
+   "excerpt": "Key TakeawaysElon Musk confirmed he spoke with President Trump before NVIDIA reinstated Jensen Huang as CEO, and the White House reportedly backed Huang partly as a champion of open AI models over closed labs like Anthropic. Anthropic closed below its $83 IPO price the day after Huang returned, as AI stocks gave back Monday’s rally.",
+   "url": "https://www.tikr.com/blog/musk-confirms-he-pushed-trump-to-bring-back-jensen-huang-the-white-house-had-anthropic-in-mind?ref=yahoofinance&tlnk=yf-261126-66q3rrhh&.tsrc=rss",
+   "published": "2026-11-26T08:59:12+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "일론 머스크는 젠슨 황의 엔비디아 복귀를 트럼프 대통령에게 권했다고 확인했다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "cb55ccab289f117d",
@@ -53,6 +106,41 @@
    "tone": "pos"
   },
   {
+   "id": "7a667f5783c03609",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom Sinks 15% in a Week to a 52-Week Low as Google Reportedly Cuts TPU Orders. Is the Selling Overdone?",
+   "excerpt": "Key TakeawaysBroadcom fell 15% in the past week and hit a 52-week low, mostly after analyst Ming-Chi Kuo said Alphabet’s Google cut 2027 shipments of one Broadcom-designed TPU line by about 20%. Marvell fell too, and Anthropic’s slide below its IPO price added to the selling.",
+   "url": "https://www.tikr.com/blog/broadcom-sinks-15-in-a-week-to-a-52-week-low-as-google-reportedly-cuts-tpu-orders-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261126-c892j8cp&.tsrc=rss",
+   "published": "2026-11-26T08:30:34+00:00",
+   "tickers": [
+    "GOOGL",
+    "AVGO"
+   ],
+   "summary_ko": [
+    "구글의 TPU 주문 축소 관측 여파로 브로드컴 주가가 1주일간 15% 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "1c600bed7f22b12a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "CrowdStrike Sinks 12% in a Week on Its $43.9 Billion Zscaler Deal: Kurtz Says They “Only Overlap in 2,000 Accounts”",
+   "excerpt": "Key TakeawaysCrowdStrike shares fell nearly 12% in the past week, mostly on its $43. 9 billion all-stock deal for Zscaler, announced Nov.",
+   "url": "https://www.tikr.com/blog/crowdstrike-sinks-12-in-a-week-on-its-43-9-billion-zscaler-deal-kurtz-says-they-only-overlap-in-2000-accounts?ref=yahoofinance&tlnk=yf-261126-vphvjq98&.tsrc=rss",
+   "published": "2026-11-26T08:29:42+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": [
+    "크라우드스트라이크는 439억 달러 규모의 Zscaler 인수 발표 여파로 주가가 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "56333edc68f731ed",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -64,9 +152,10 @@
    "tickers": [
     "ASML"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "반도체 매도세 속에서 ASML 주가가 1주일간 7% 하락했으며 네덜란드 의원은 미국의 매치법을 경고했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "f97beb08e7da8e78",
@@ -81,9 +170,10 @@
     "PLTR",
     "SNOW"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "팔란티어 주가는 10월 고점 대비 하락했으나 댄 아이브스는 이를 안전한 AI 소프트웨어 종목으로 꼽았다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "adf6012081801334",
@@ -839,6 +929,23 @@
     "소파이 테크놀로지스 주가가 52주 신저가를 기록한 후 반등했다고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "9dd611ef905c6424",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is BNP Paribas Wrong to Give Up on Micron? Wall Street Still Sees $1,530",
+   "excerpt": "Key TakeawaysBNP Paribas Exane downgraded Micron to Neutral from Outperform on Nov. 24 and cut its price target to $775 from $1,700, warning of a memory oversupply by 2028.",
+   "url": "https://www.tikr.com/blog/is-bnp-paribas-wrong-to-give-up-on-micron-wall-street-still-sees-1530?ref=yahoofinance&tlnk=yf-261126-w377r3gg&.tsrc=rss",
+   "published": "2026-11-26T02:18:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "BNP 파리바 엑산은 마이크론 투자의견을 하향하고 2028년 메모리 공급 과잉을 경고했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "6ddd8a1e5e408e0d",
@@ -1614,9 +1721,10 @@
    "tickers": [
     "AMD"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "UBS는 AMD의 목표주가를 낮췄으나 이번 매도세가 지나치다는 입장을 보였다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "948c94fb1dd2f197",
@@ -1648,9 +1756,10 @@
    "tickers": [
     "DELL"
    ],
-   "summary_ko": null,
-   "tone": null,
-   "summary_tries": 1
+   "summary_ko": [
+    "번스타인은 델의 목표주가를 낮췄으나 아웃퍼폼 등급을 유지하며 상승 여력이 있다고 전망했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "959d35392499d0ec",
@@ -76698,58 +76807,6 @@
     "화이자가 352번째 분기 배당을 지급할 예정이며, 오랜 배당 기록을 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "7a078ec17c6f67de",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Market Chatter: Tesla to Continue Boosting Production at China Factory",
-   "excerpt": "Tesla (TSLA) Chief Executive Elon Musk said the company plans to keep increasing production at its S",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-tesla-continue-boosting-094949764.html?.tsrc=rss",
-   "published": "2026-11-19T09:49:49+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라의 최고경영자 일론 머스크는 중국 공장의 생산량을 계속 늘릴 계획이라고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "2c5342feff7d7fcd",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A philandering chief is not Nvidia’s worst problem. It’s the legal chip smuggling mess that comes next.",
-   "excerpt": "Nvidia faces scrutiny over suspected AI chip diversions to China, raising concerns about US export controls and restricted chip access.",
-   "url": "https://www.digitaltrends.com/computing/a-philandering-chief-is-not-nvidias-worst-problem-its-the-legal-chip-smuggling-mess-that-comes-next/?.tsrc=rss",
-   "published": "2026-11-19T09:37:41+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 중국으로의 AI 칩 우회 수출 의혹과 관련해 조사를 받고 있다고 다뤘다.",
-    "이로 인해 미국의 수출 통제와 칩 접근 제한에 대한 우려가 제기되고 있다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "688276628fb34e4a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "GTA VI Sales Top $1.6B — Take-Two, Console Partners Microsoft And Sony Shares Rise",
-   "excerpt": "Over 17 million copies of the game were sold worldwide as of Thursday morning, according to Sensor Tower.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/gta-vi-sales-top-1-6-b-take-two-console-partners-microsoft-and-sony-shares-rise/cNbiPZlR9is?.tsrc=rss",
-   "published": "2026-11-19T09:36:42+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "센서타워에 따르면 GTA VI는 전 세계적으로 1,700만 장 이상 판매되며 매출 16억 달러를 넘어섰고 마이크로소프트와 소니의 주가는 상승했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
