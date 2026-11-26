@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-26T20:30:32.465054+00:00",
+ "updated": "2026-11-26T21:00:43.421465+00:00",
  "posts": [
+  {
+   "id": "e1e16a34bd8e9e35",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia halts server shipments to 4 countries just weeks after Jensen Huang’s affair with alleged spy was exposed",
+   "excerpt": "It was unclear whether the halt would be temporary as Nvidia and its partners work through compliance requirements under new US export controls, the FT reported.",
+   "url": "https://nypost.com/2026/11/26/business/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report/?.tsrc=rss",
+   "published": "2026-11-26T20:30:14+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "파이낸셜타임스는 엔비디아가 4개국으로의 서버 선적을 중단했다고 보도했다.",
+    "이번 중단이 일시적인지 여부는 미국 수출 통제 규정 준수를 검토하는 과정에서 불확실하다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "23252cd4e42ae776",
    "kind": "news",
@@ -18,6 +36,23 @@
     "최근 주가 상승세가 이어지며 투자자들의 관심이 쏠렸다고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "075e874c6258689d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+   "url": "https://finance.yahoo.com/technology/articles/nvidia-hits-pause-chip-shipments-200354308.html?.tsrc=rss",
+   "published": "2026-11-26T20:03:54+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미국의 대중국 AI 칩 유입 차단 강화 조치에 따라 엔비디아가 동남아 4개국으로의 칩 선적을 일시 중단했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "44834952f199338b",
@@ -1824,6 +1859,24 @@
     "나이키 주가가 하락한 반면 다른 의류 종목은 상승했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "6af88e6d2761f7f7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Amazon Stock Outperforming the S&P 500?",
+   "excerpt": "Amazon has slightly outperformed the broader S&P 500 Index over the past three months, and Wall Street analysts remain upbeat on AMZN stock.",
+   "url": "https://www.barchart.com/story/news/9019932/is-amazon-stock-outperforming-the-s-p-500?.tsrc=rss",
+   "published": "2026-11-26T14:36:36+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존이 지난 3개월 동안 S&P 500 지수를 소폭 상회하는 성과를 보였다고 언급했다.",
+    "월스트리트 애널리스트들은 아마존 주식에 대해 낙관적인 시각을 유지하고 있다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "652327b4ad4c9804",
@@ -69968,144 +70021,6 @@
    ],
    "summary_ko": [
     "월마트가 예상을 웃도는 매출 성장률을 기록하며 연간 전망을 상향 조정했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "562fa553b39901d0",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Will Stock Market Volatility Push Investors Back into Crypto?",
-   "excerpt": "@CharlesSchwab's Director of Equity Research, Adam Lynch, says cryptocurrency is “holding strong” amid Thursday’s stock market volatility. Although Bitcoin is still down roughly 50% below all-time highs, Adam sees upside if interest rates from the Fed remain steady. He notes that investor sentiment has stayed negative, though further losses in speculative equities could prompt rotation back into crypto. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #bitcoin #crypto #volatility #economy #finance #investing #mar",
-   "url": "https://www.youtube.com/watch?v=0G7C7fKW_XA",
-   "published": "2026-11-19T21:00:14+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "주식 시장의 변동성 속에서도 암호화폐가 견조한 모습을 보이고 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "19fb835e0715f58e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Pfizer Is Shopping for China’s Biotech Breakthroughs",
-   "excerpt": "The agreement with Starna Therapeutics gives Pfizer access to a new generation of cancer-inspired immune therapies",
-   "url": "https://app.moby.co/home/news/news-pfizer-is-shopping-for-chinas-biotech-breakthroughs?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-   "published": "2026-11-19T20:56:55+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "summary_ko": [
-    "화이자가 중국 스타나 테라퓨틱스와의 계약을 통해 면역 치료제 기술에 접근하게 됐다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "9766dd61ac814b20",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "This Is Incredible News for AMD Stock Investors (Hint: It’s Bad News for Intel)",
-   "excerpt": "AMD continues to chip away at Intel's dominance in the server CPU market.",
-   "url": "https://www.fool.com/investing/2026/11/19/this-is-incredible-news-for-amd-stock-investors-hint-it-s-bad-news-for-intel/?.tsrc=rss",
-   "published": "2026-11-19T20:56:02+00:00",
-   "tickers": [
-    "AMD",
-    "INTC"
-   ],
-   "summary_ko": [
-    "AMD가 서버 CPU 시장에서 인텔의 지배력을 계속해서 줄여나가고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "65f863b4da2baa4a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba earnings analysis: questions answered and next catalysts",
-   "excerpt": "Investing.com -- Alibaba Group Holdings Ltd ADR (BABA) reported its September quarter (FY2026 Q3) on Nov 19, 2026. Revenue was a small beat. Non-GAAP EPS missed. The stock sits near its lows despite a sharp profit jump.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-earnings-analysis-questions-answered-205334878.html?.tsrc=rss",
-   "published": "2026-11-19T20:53:34+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바가 9월 분기 실적을 발표했다고 다뤘다.",
-    "매출은 예상치를 소폭 웃돌았으나 비일반회계기준 주당순이익은 밑돌았다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "36e6942a2526dcc8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Coinbase Reportedly Plans To Launch In-House Prediction Markets In Early 2027",
-   "excerpt": "Coinbase plans to bypass third-party partners like Kalshi and debut its own proprietary event contracts for American investors in early 2027.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/coinbase-reportedly-plans-to-launch-in-house-prediction-markets-in-early-2027/cNbimnNR90t?.tsrc=rss",
-   "published": "2026-11-19T20:53:07+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "코인베이스가 2027년 초 자체 예측 시장을 출시할 계획이라고 보도했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "8352a9921a03e80a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Market Storylines: Chip Giant Earnings Beat, AI IPO's + Equity Selloff",
-   "excerpt": "Michael Reinking, Senior Market Strategist at the NYSE, reviews a volatile holiday-shortened week in which the S&P 500 sold off sharply and slipped to test its early June lows. Nvidia delivered a strong earnings beat and raised its growth guidance, but the shares still slid as succession and funding worries lingered. Anthropic’s upsized IPO priced above its range and drew robust demand, yet early rallies faded as weakness spread across every sector. Retail earnings were solid, while the US dollar surged and gold, silver, and crypto were hit hard. Looking ahead, PCE and late-cycle tech and retail earnings take center stage as volumes thin into Thanksgiving.",
-   "url": "https://finance.yahoo.com/video/market-storylines-chip-giant-earnings-205016561.html?.tsrc=rss",
-   "published": "2026-11-19T20:50:16+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 호실적과 함께 성장 전망을 상향했으나 주가는 하락했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d3c9bf950dba3a27",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Could $1,000 in Oklo Stock Set You Up for Life by 2035?",
-   "excerpt": "Oklo stock is as jittery as an electron. Can this volatile nuclear stock deliver explosive gains by 2035?",
-   "url": "https://www.fool.com/investing/2026/11/19/could-in-oklo-stock-set-you-up-for-life-by-2035/?.tsrc=rss",
-   "published": "2026-11-19T20:50:02+00:00",
-   "tickers": [
-    "OKLO"
-   ],
-   "summary_ko": [
-    "옥로 주식이 변동성이 큰 가운데 2035년까지 폭발적인 상승세를 보일 수 있을지 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d42069a5487a9c17",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Up 8.9% After a Strong Anthropic IPO? That’s What Tilt’s New Investing Tool Modeled",
-   "excerpt": "Anthropic (NASDAQ:ANT) opened at $111.50 on Thursday, 34% above its $83 IPO price. Investing startup Tilt had modeled what a strong debut might mean for shareholders in two other tech giants. Over 20 days, it put Nvidia Corp. (NASDAQ:NVDA) up...",
-   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63457684/anthropic-ipo-nvidia?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-   "published": "2026-11-19T20:44:06+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "앤스로픽의 성공적인 IPO 데뷔 이후 엔비디아 주가가 상승할 수 있다는 투자 도구의 모델링 결과를 다뤘다."
    ],
    "tone": "pos"
   }
