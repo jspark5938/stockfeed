@@ -1,6 +1,231 @@
 {
- "updated": "2026-11-26T11:30:35.217751+00:00",
+ "updated": "2026-11-26T12:00:39.445168+00:00",
  "posts": [
+  {
+   "id": "821b715a2e881554",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Makes A Record $115.8 Billion In Revenue. Now S&P Warns Its Credit Rating Could Be Cut In 90 Days.",
+   "excerpt": "S&P Global Ratings placed Nvidia's AA credit rating on negative CreditWatch, warning of a possible downgrade within 90 days as governance concerns persist despite record AI chip revenue.",
+   "url": "https://www.ibtimes.com/nvidia-credit-downgrade-governance-concerns-3810220?.tsrc=rss",
+   "published": "2026-11-26T11:53:40+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "d0ee7d048f05a53c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan Says S&P Could Waive Its Rules for a Tesla-SpaceX Merger. That’s Good News for SpaceX Holders",
+   "excerpt": "Key TakeawaysTesla and SpaceX sank early on Nov. 25 before paring losses; SpaceX closed up 1.",
+   "url": "https://www.tikr.com/blog/jpmorgan-says-sp-could-waive-its-rules-for-a-tesla-spacex-merger-thats-good-news-for-spacex-holders?ref=yahoofinance&tlnk=yf-261126-gpc9wr29&.tsrc=rss",
+   "published": "2026-11-26T11:45:59+00:00",
+   "tickers": [
+    "TSLA",
+    "JPM"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "af33f927485dd5b4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron's $50 Billion Taiwan Investment Faces Fresh Labor Risk",
+   "excerpt": "The memory chipmaker could redirect future investments to Singapore amid stalled wage negotiations.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/microns-50-billion-taiwan-investment-113553440.html?.tsrc=rss",
+   "published": "2026-11-26T11:35:53+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "1422a8ae11addb76",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "MiniMax Faces Revenue Risks as Apple Removes Talkie AI Chatbot",
+   "excerpt": "The removal puts pressure on MiniMax as scrutiny of AI chatbot safety intensifies.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/minimax-faces-revenue-risks-apple-113357968.html?.tsrc=rss",
+   "published": "2026-11-26T11:33:57+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "bb5fbda478171245",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Oracle Bond Yields Hit 9% as AI Debt Fears Deepen",
+   "excerpt": "Rising borrowing costs highlight investor concerns over Oracle's artificial intelligence infrastructure spending.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/oracle-bond-yields-hit-9-113300522.html?.tsrc=rss",
+   "published": "2026-11-26T11:33:00+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "d5b44ede7bbf2c41",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Turns Bullish, Exits Nasdaq Shorts but Eyes Nvidia at $200",
+   "excerpt": "The Big Short investor unwinds Nasdaq 100 put options while retaining Nvidia calls that have doubled in value.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-turns-bullish-exits-113036657.html?.tsrc=rss",
+   "published": "2026-11-26T11:30:36+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "3337b2db407036d9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Does Black Friday Ever Move Amazon Stock?",
+   "excerpt": "Black Friday is tomorrow. The weekend is when shoppers spend and retailers count sales. This article looks at the stock instead.",
+   "url": "https://www.trefis.com/stock/amzn/articles/629188/does-black-friday-ever-move-amazon-stock/2026-11-26?.tsrc=rss",
+   "published": "2026-11-26T11:29:56+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "aa363ddc5cb66920",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Wins Three Wall Street Upgrades as Jensen Huang Returns as CEO",
+   "excerpt": "Bernstein, Oppenheimer and StoneX restore bullish ratings as leadership uncertainty eases.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-wins-three-wall-street-112625833.html?.tsrc=rss",
+   "published": "2026-11-26T11:26:25+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "05a35cb6b54c5087",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron and Sandisk Are Two of the Cheapest AI Chip Stocks to Own",
+   "excerpt": "Micron and Sandisk Are Emerging as Undervalued AI Winners",
+   "url": "https://finance.yahoo.com/technology/ai/articles/micron-sandisk-two-cheapest-ai-112351523.html?.tsrc=rss",
+   "published": "2026-11-26T11:23:51+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "d5f5362b65038fa3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is The Client Unit Still Carrying AMD Stock?",
+   "excerpt": "If you own Advanced Micro Devices, you likely think of it as a data center stock. Yet in fiscal 2025 its Client unit grew faster. Client revenue rose 50.8% to $10.6 billion. The rest of the company grew about 28.",
+   "url": "https://www.trefis.com/stock/amd/articles/629201/is-the-client-unit-still-carrying-amd-stock/2026-11-26?.tsrc=rss",
+   "published": "2026-11-26T11:23:39+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "ab5dc9d4f684ff66",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Has Buying Apple At A High Paid Off?",
+   "excerpt": "\"Buy low, never at the top\" is one of the oldest rules in investing. Apple closed at a 52-week high of $356.27 on Friday, November 13. It closed just below that, at $355.58, on Wednesday. By the old rule, this is the wrong time to buy. Does the rule hold for this stock.",
+   "url": "https://www.trefis.com/stock/aapl/articles/629200/has-buying-apple-at-a-high-paid-off/2026-11-26?.tsrc=rss",
+   "published": "2026-11-26T11:21:35+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "e3b31d44fee945fa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron Stock Has Lost Half Its Value Since June",
+   "excerpt": "Micron Technology stock closed at $601.25 on Wednesday, Nov 25. It fell 4.5% that day. The stock now sits 50.5% below its record close of $1,213.56 on June 25. A reader of our piece on Micron at under ten times earnings asked for more. Since that request on Nov 19, the stock has dropped another 12.9.",
+   "url": "https://www.trefis.com/stock/mu/articles/629190/micron-stock-has-lost-half-its-value-since-june/2026-11-26?.tsrc=rss",
+   "published": "2026-11-26T11:17:24+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "e735823f905f92ef",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Own Palo Alto Stock? Watch Its Deferred Revenue",
+   "excerpt": "Palo Alto Networks closed at $356.14 on Wednesday, Nov 25, up 0.9%. The SPDR S&P 500 ETF fell 0.3% the same day. On Nov 18, after the market closed, the company reported results. It also said it plans to buy Applied Compute for $4.5 billion, paid in stock. The stock jumped 6.4% the next day. This article looks past the price, at the company's own cash and contracts.",
+   "url": "https://www.trefis.com/stock/panw/articles/629187/own-palo-alto-stock-watch-its-deferred-revenue/2026-11-26?.tsrc=rss",
+   "published": "2026-11-26T11:15:19+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "a17335e74a98406f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is HPE's 18-Quarter Inventory High A Warning?",
+   "excerpt": "Dell Technologies and Hewlett Packard Enterprise both reported this week. Dell ended its October quarter with a record $132.3 billion backlog of AI server orders. HPE raised its revenue growth outlook for fiscal 2027, the year ending October 2027, to a midpoint of 31.",
+   "url": "https://www.trefis.com/stock/dell/articles/629185/is-hpe-s-18-quarter-inventory-high-a-warning/2026-11-26?.tsrc=rss",
+   "published": "2026-11-26T11:13:13+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
   {
    "id": "c51e0c10fdf0e89b",
    "kind": "news",
@@ -18,6 +243,38 @@
     "한쪽은 주가 하락 후 매수했고, 다른 쪽은 전량 매각했다고 언급했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "32e023b2ce4e8228",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Is 37.6% Below Its Record. Trim Or Hold?",
+   "excerpt": "Nvidia closed at $149.30 on Wednesday, Nov 25. Its record close was $239.24 on Tuesday, Oct 6. Wednesday's close was 37.6% below it. The QQQ fund fell 16.6% over the same stretch.",
+   "url": "https://www.trefis.com/stock/nvda/articles/629192/nvidia-is-37-6-below-its-record-trim-or-hold/2026-11-26?.tsrc=rss",
+   "published": "2026-11-26T11:11:08+00:00",
+   "tickers": [
+    "NVDA",
+    "QQQ"
+   ],
+   "summary_ko": null,
+   "tone": null,
+   "summary_tries": 1
+  },
+  {
+   "id": "95d5c4a0e40ffc42",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Taiwan Semiconductor Manufacturing (TSM) May Make Its $22.6 Billion Texas Plant Conditional",
+   "excerpt": "Taiwan Semiconductor Manufacturing (NYSE:TSM) is weighing a US$22.6b chip fabrication plant in Texas tied to new tax rules. The proposed facility in Austin depends on pending state property tax breaks and federal incentives still under consideration. Local legislators in Texas are working on new measures that would define how far property tax relief for TSMC can go. TSMC's Texas plan, which hinges on tax legislation, captures only one piece of what investors need to weigh on this...",
+   "url": "https://finance.yahoo.com/technology/articles/taiwan-semiconductor-manufacturing-tsm-may-111054914.html?.tsrc=rss",
+   "published": "2026-11-26T11:10:54+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "d12f3a9dea2434b6",
@@ -29964,6 +30221,22 @@
    "tone": "neg"
   },
   {
+   "id": "eb30f2918f140c88",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Charged: Wall Street warms to Tesla as merger review takes center stage",
+   "excerpt": "Institutional investors and professional traders rely on The Fly to keep up-to-the-second on breaking news in the electric vehicle and clean energy space, as well as which stocks in these sectors that the best analysts on Wall Street are saying to buy and sell. From the hotly-debated high-flier Tesla (TSLA), Wall Street’s newest darling Rivian (RIVN), traditional-stalwarts turned EV-upstarts GM (GM) and Ford (F) to the numerous SPAC-deal makers that have come public in this red-hot space, The Fl",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/charged-wall-street-warms-tesla-000523740.html?.tsrc=rss",
+   "published": "2026-11-24T00:05:23+00:00",
+   "tickers": [
+    "TSLA",
+    "RIVN"
+   ],
+   "summary_ko": null,
+   "tone": null
+  },
+  {
    "id": "e7bb249f48fc632b",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -30898,6 +31171,23 @@
     "젠슨 황 복귀 소식에 엔비디아 주가가 급등했다고 언급했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "4f8b1e9a2eaf42ac",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Morning Movers: Nvidia skyrockets following reinstatement of CEO Jensen Huang",
+   "excerpt": "Stock futures are sharply higher as technology and semiconductor shares lead a broad premarket rebound. Nvidia, Broadcom and AMD are among the notable gainers. The rally followed a bruising week that pushed the S&P 500 and Dow into correction territory, while the Nasdaq also suffered a significant retreat. The rebound comes as investors look to buy beaten-down AI and technology stocks following concerns about elevated valuations, enormous infrastructure spending and the sustainability of AI dema",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/morning-movers-nvidia-skyrockets-following-222119736.html?.tsrc=rss",
+   "published": "2026-11-23T22:21:19+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD",
+    "AVGO"
+   ],
+   "summary_ko": null,
+   "tone": null
   },
   {
    "id": "ab64f7c69017c448",
@@ -76173,287 +76463,6 @@
     "알리바바는 AI 클라우드 매출이 급증했으나 조정 이익은 예상치를 밑돌았다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "06c676cf38f16f60",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "GTA VI: Why the 13-year wait could be worth $8 billion",
-   "excerpt": "After more than 13 years, Grand Theft Auto VI finally launches on November 19, and it's about a lot more than a video game. Yahoo Finance Senior Reporter Pras Subramanian follows the money: why Take-Two is telling investors to expect $8 billion-plus in bookings this year but only about $109 million to $142 million in profit, how GTA Online's recurring spending became the real prize, and why Sony and Microsoft can cash in without making the game at all.",
-   "url": "https://finance.yahoo.com/video/gta-vi-why-13-wait-120000877.html?.tsrc=rss",
-   "published": "2026-11-19T12:00:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "GTA 6가 11월 19일에 출시되며 올해 80억 달러 이상의 예약 판매를 예상한다고 전했다.",
-    "GTA 온라인의 반복 지출이 핵심이며, 소니와 마이크로소프트도 수혜를 입을 수 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "2195f8f219ce8b33",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "NexusIgnite Plans Sovereign AI Cloud in Jordan, Starting With Its Universities",
-   "excerpt": "AMMAN, Jordan, November 19, 2026--NexusIgnite today announced plans for a sovereign AI cloud in Jordan. NexusIgnite’s Jordanian operating subsidiary will run it, and it is designed to initially serve up to five of the country’s universities. The platform is planned on AMD Instinct™ GPUs and Spectro Cloud’s PaletteAI platform. Service is targeted for 2027, subject to final agreements.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nexusignite-plans-sovereign-ai-cloud-120000648.html?.tsrc=rss",
-   "published": "2026-11-19T12:00:00+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "넥서스이그나이트가 요르단 대학들을 위한 소버린 AI 클라우드 구축을 계획했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "39d905141421b2a7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Mythics Named a Major Player in 2026 IDC MarketScape as Oracle Services Momentum Grows",
-   "excerpt": "Mythics announced it has been named a Major Player in the IDC MarketScape: Worldwide Oracle Implementation Services 2026 Vendor Assessment. This recognition comes amid continued investment and growth across the company's Oracle consulting, implementation, modernization, and managed services capabilities.",
-   "url": "https://finance.yahoo.com/technology/articles/mythics-named-major-player-2026-120000135.html?.tsrc=rss",
-   "published": "2026-11-19T12:00:00+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "summary_ko": [
-    "미틱스가 IDC 시장조사에서 오라클 서비스 주요 플레이어로 선정되었다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c8fe322b11faee44",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart reports revenue growth of 5.2%, up 4.5% in constant currency (cc)",
-   "excerpt": "BENTONVILLE, Ark., November 19, 2026--Walmart Inc. (Nasdaq: WMT):",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-reports-revenue-growth-5-120000596.html?.tsrc=rss",
-   "published": "2026-11-19T12:00:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트가 매출 성장률 5.2%를 기록했다고 발표했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "4119a6c2bfff5ac6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bank of America CPO Sheri Bronstein: ‘The traditional definition of a working parent is too narrow’",
-   "excerpt": "Eighty-three percent of parents at Bank of America say the company offers special and unique benefits, compared with 59% of parents at a typical U.S. workplace.",
-   "url": "https://finance.yahoo.com/small-business/articles/bank-america-chro-sheri-bronstein-120000646.html?.tsrc=rss",
-   "published": "2026-11-19T12:00:00+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "summary_ko": [
-    "뱅크오브아메리카 임원이 전통적인 일하는 부모의 정의가 너무 협소하다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "6616a7c7b1692568",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto Networks Shares Jump 9% on $4.5 Billion AI Acquisition and Raised FY2027 Guidance",
-   "excerpt": "Palo Alto Networks (NASDAQ:PANW) shares surged more than 9% in pre-market trading on Thursday after the cybersecurity company announced a $4. 5 billion acquisition of artificial intelligence infrastructure provider Applied Compute and reported stronger-than-expected fiscal first-quarter results.",
-   "url": "https://investorshub.advfn.com/market-news/article/40345/palo-alto-networks-shares-jump-9-on-4-5-billion-ai-acquisition-and-raised-fy2027-guidance?.tsrc=rss",
-   "published": "2026-11-19T11:56:22+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로알토 네트웍스는 AI 인프라 기업 인수와 1분기 실적 발표 이후 주가가 상승했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "86e0c92e23e02048",
-   "kind": "youtube",
-   "source": "Everything Money",
-   "author": "Everything Money",
-   "title": "If You’re Buying Micron Stock After a 45% Crash… Get Ready! $MU",
-   "excerpt": "Micron stock just crashed. But here’s the crazy part: even after that brutal crash, Micron is still up more than 150% this year. So what on earth is going on? Its latest revenue nearly quadrupled, its profit margins hit record highs… and yet investors are dumping the stock. Something strange is clearly going on. Is this a once-in-a-decade bargain, or a warning sign flashing right before your eyes? Let’s dig in. ✅Today's video sponsor - Kalshi Head over to or use code \"em\" for a $50 Bonus Just remember. Trading on Kalshi involves risk and may not be appropriate for everyone. Kalshi is subject to U.S. regulatory oversight by the CFTC. ⬇️ Download your FREE Guide on EM's 22 Key Metrics & Micron Stock: 📊 Want to know what a stock is actually worth before you buy? Try the Everything Money stock",
-   "url": "https://www.youtube.com/watch?v=PnXpg8jfzek",
-   "published": "2026-11-19T11:55:21+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론 주가가 급락했음에도 올해 여전히 150% 이상 상승한 상태라고 언급했다.",
-    "매출이 거의 4배로 늘고 이익률이 최고치를 기록했음에도 투자자들이 매도하는 상황을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ac6d00144899b93e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Are Netflix Stock Bears Missing?",
-   "excerpt": "Today's big story: Could Anthropic Stock Fall 25.",
-   "url": "https://www.trefis.com/stock/nflx/articles/626821/what-are-netflix-stock-bears-missing/2026-11-19?.tsrc=rss",
-   "published": "2026-11-19T11:51:28+00:00",
-   "tickers": [
-    "NFLX"
-   ],
-   "summary_ko": [
-    "넷플릭스 주식 하락론자들이 놓치고 있는 점을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "87cdd16b5a6cf70e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Netflix Is 48% Below Its High While Guiding to Record Revenue of $51.1 Billion, Up 13%, for 2026",
-   "excerpt": "Key TakeawaysNetflix hit a new 52-week low this week, 48% below its high a year ago, while guiding 2026 revenue to a record $51. 1 billion.",
-   "url": "https://www.tikr.com/blog/netflix-is-48-below-its-high-while-guiding-to-record-revenue-of-51-1-billion-up-13-for-2026?ref=yahoofinance&tlnk=yf-261119-c55xxvxf&.tsrc=rss",
-   "published": "2026-11-19T11:47:58+00:00",
-   "tickers": [
-    "NFLX"
-   ],
-   "summary_ko": [
-    "넷플릭스가 52주 신저가를 기록하며 고점 대비 48% 하락했다고 전했다.",
-    "동시에 2026년 매출을 13% 증가한 511억 달러로 전망했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "609fa31eaf0112d6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Is Airbnb Building That Investors Should Watch?",
-   "excerpt": "Today's big story: Could Anthropic Stock Fall 25.",
-   "url": "https://www.trefis.com/stock/abnb/articles/626779/what-is-airbnb-building-that-investors-should-watch/2026-11-19?.tsrc=rss",
-   "published": "2026-11-19T11:47:16+00:00",
-   "tickers": [
-    "ABNB"
-   ],
-   "summary_ko": [
-    "투자자들이 주목해야 할 에어비앤비의 신규 프로젝트를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e01ed7561926f7ea",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "HOOD Adds Live IPO Pricing Tools: Will Anthropic Drive Engagement?",
-   "excerpt": "Robinhood rolls out live IPO pricing tools as Anthropic's Nasdaq debut approaches. Can enhanced transparency boost retail trading and platform engagement?",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/hood-adds-live-ipo-pricing-114500252.html?.tsrc=rss",
-   "published": "2026-11-19T11:45:00+00:00",
-   "tickers": [
-    "HOOD"
-   ],
-   "summary_ko": [
-    "로빈후드가 실시간 IPO 가격 책정 도구를 추가하며 앤스로픽의 상장을 앞두고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "024648e9eb7f1d69",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Broadcom “a Momentum Stock Wearing a Value Costume”? Its December 9 Report Will Tell",
-   "excerpt": "Key TakeawaysBroadcom’s revenue rose 86% last quarter, and management expects AI revenue to double to about $115 billion in fiscal 2027. One investor questions Broadcom’s roughly 45x trailing GAAP multiple, but on adjusted earnings it trades at 36x trailing and 20x forward.",
-   "url": "https://www.tikr.com/blog/is-broadcom-a-momentum-stock-wearing-a-value-costume-its-december-9-report-will-tell?ref=yahoofinance&tlnk=yf-261119-37x7qjg4&.tsrc=rss",
-   "published": "2026-11-19T11:38:37+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "summary_ko": [
-    "브로드컴의 지난 분기 매출이 86% 증가했으며 2027 회계연도 AI 매출이 두 배로 늘어날 것으로 전망했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "760137f8a04a9bd3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Affirm Just Dropped 13% in a Week. Is It Time to Sell, or Load Up?",
-   "excerpt": "Key TakeawaysAffirm fell 13% in a week with no news of its own, as Upstart and SoFi slid too. A hot October inflation report all but locked in a December Fed hike, which would lift Affirm’s funding costs.",
-   "url": "https://www.tikr.com/blog/affirm-just-dropped-13-in-a-week-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261119-92jmgrgg&.tsrc=rss",
-   "published": "2026-11-19T11:36:04+00:00",
-   "tickers": [
-    "SOFI"
-   ],
-   "summary_ko": [
-    "어펌 주가가 일주일 동안 13% 하락했다고 다뤘다.",
-    "물가 지표로 인한 연방준비제도의 금리 인상 가능성이 자금 조달 비용을 높일 것이라고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "37c4827280e6c621",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dell Is Down 16% in a Week. Steve Eisman Warns It “Will Also Slow Along With Nvidia.” Time to Buy?",
-   "excerpt": "Key TakeawaysDell stock fell 16% in the past week as AI hardware sold off after Jensen Huang resigned as Nvidia’s CEO, and Super Micro and CoreWeave fell too. Steve Eisman warns Dell will slow along with Nvidia, but Cisco just raised its AI forecast and analysts have raised Dell’s earnings estimates slightly.",
-   "url": "https://www.tikr.com/blog/dell-is-down-16-in-a-week-steve-eisman-warns-it-will-also-slow-along-with-nvidia-time-to-buy?ref=yahoofinance&tlnk=yf-261119-36xcv89h&.tsrc=rss",
-   "published": "2026-11-19T11:34:45+00:00",
-   "tickers": [
-    "NVDA",
-    "SMCI",
-    "DELL"
-   ],
-   "summary_ko": [
-    "델 주가가 일주일간 16% 하락했다고 전했다.",
-    "전문가는 델이 엔비디아와 함께 둔화될 것이라고 경고했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "5aad39f5fba36945",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Anthropic, Google, Palo Alto, Walmart, and More Stocks That Explain Today’s Market",
-   "excerpt": "The AI trade gets a shot in the arm as investors await Anthropic’s IPO, as the Claude developer aims for a $1.5 trillion valuation.",
-   "url": "https://finance.yahoo.com/m/65710a12-1ba7-3685-a3c3-30d9e0878af7/anthropic%2C-google%2C-palo-alto%2C.html?.tsrc=rss",
-   "published": "2026-11-19T11:33:00+00:00",
-   "tickers": [
-    "GOOGL",
-    "WMT"
-   ],
-   "summary_ko": [
-    "앤스로픽의 IPO 기대감과 1.5조 달러 가치 목표가 AI 투자에 활력을 불어넣었다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b574456d91c812ec",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD Has Ripped 130% in a Year. Lisa Su Sees Growth “Accelerate Further.” Is It Too Late to Buy?",
-   "excerpt": "Key TakeawaysAMD stock is up 130% in the past year after record quarters. Third-quarter Data Center revenue rose 97% to $8.",
-   "url": "https://www.tikr.com/blog/amd-has-ripped-130-in-a-year-lisa-su-sees-growth-accelerate-further-is-it-too-late-to-buy?ref=yahoofinance&tlnk=yf-261119-wqx7cr5g&.tsrc=rss",
-   "published": "2026-11-19T11:33:00+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "AMD 주가가 지난 1년간 130% 상승했다고 다뤘다.",
-    "3분기 데이터센터 매출이 크게 증가했다고 언급했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
