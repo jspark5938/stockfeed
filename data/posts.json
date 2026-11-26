@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-26T23:00:38.191015+00:00",
+ "updated": "2026-11-26T23:30:32.465575+00:00",
  "posts": [
+  {
+   "id": "d329e449f9ec5d9a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It.",
+   "excerpt": "Taiwan Semiconductor offers a compelling way to capitalize on the artificial intelligence (AI) chip revolution without having to pick a winner among competing chip designers.",
+   "url": "https://www.fool.com/investing/2026/11/26/not-nvidia-not-micron-if-i-could-buy-and-hold-only-1-artificial-intelligence-ai-semiconductor-stock-through-2030-this-would-be-it/?.tsrc=rss",
+   "published": "2026-11-26T23:14:44+00:00",
+   "tickers": [
+    "NVDA",
+    "TSM",
+    "MU"
+   ],
+   "summary_ko": [
+    "대만 반도체(TSM)가 2030년까지 보유할 유망한 AI 반도체 주식으로 소개되었다.",
+    "경쟁하는 칩 설계사 중 승자를 고르지 않고도 AI 칩 혁신에 투자할 수 있다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "607915007a53ec56",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Did Jensen Huang’s Alleged Chinese Spy Get Him to Do Anything Nvidia Didn’t Want?",
+   "excerpt": "Kain Warwick, founder of Infinex and Synthetix, says Jensen Huang’s alleged spy scandal is far worse than the affairs, while security expert Taylor Monahan argues the spy never got him to act against Nvidia. From Unchained, the no-hype resource for all things crypto.",
+   "url": "https://unchainedcrypto.com/did-jensen-huangs-alleged-chinese-spy-get-him-to-do-anything-nvidia-didnt-want/?.tsrc=rss",
+   "published": "2026-11-26T23:00:49+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 연루 의혹 스캔들에 대해 전문가들의 엇갈린 시각을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "b5d4ff5543056372",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Is the Worst-Performing \"Magnificent Seven\" Stock This Year. Is It a Buy Before 2027?",
+   "excerpt": "Even with Jensen Huang back as CEO, Nvidia is drastically underperforming the S&P 500 and Nasdaq this year.",
+   "url": "https://www.fool.com/investing/2026/11/26/nvidia-is-the-worst-performing-magnificent-seven-stock-this-year-is-it-a-buy-before-2027/?.tsrc=rss",
+   "published": "2026-11-26T22:50:49+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 올해 매그니피센트 세븐 종목 중 가장 부진한 실적을 기록하고 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "46970446ae653748",
    "kind": "news",
@@ -68863,216 +68917,6 @@
     "핵심 펀드를 통해 엔비디아 보유 효과를 내는 방식과 배당 중심 펀드의 차이를 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "2387cdcbb96797f8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "California AG subpoenas Nvidia over China leak risks and investor disclosures",
-   "excerpt": "Investing.com -- California Attorney General Rob Bonta served an investigative subpoena on NVIDIA Corporation (NASDAQ:NVDA) on Thursday, escalating regulatory scrutiny into whether the chipmaker misled investors regarding potential leaks of advanced technology and confidential information to China. The California Department of Justice inquiry stems from revelations surrounding former Chief Executive Officer Jensen Huang’s alleged affair with an individual suspected of acting as a Chinese intelli",
-   "url": "https://finance.yahoo.com/news/california-ag-subpoenas-nvidia-over-232352666.html?.tsrc=rss",
-   "published": "2026-11-19T23:23:52+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "캘리포니아 법무장관이 엔비디아를 상대로 중국 기술 유출 및 투자자 공시 관련 소환장을 발부했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "e301765c4f2bb417",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dow Jones Futures: Ugly Market Reversal To New Lows As Anthropic IPO Debuts, AMD Dives",
-   "excerpt": "The stock market suffered an ugly reversal as AMD dived and the Anthropic IPO debuted. The S&P 500 and Nasdaq hit new lows.",
-   "url": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-ugly.html?.tsrc=rss",
-   "published": "2026-11-19T23:19:33+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "앤스로픽 IPO 데뷔와 AMD 주가 하락 속에서 증시가 새로운 저점으로 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "5c8b5320a73bd619",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto Networks (PANW) Stock Jumps As Q1 Results Boost ARR Confidence",
-   "excerpt": "Palo Alto Networks stock jumped 6.4% to about US$361 after the Q1 FY27 release, a sharp move for a large cybersecurity company that already trades on rich expectations. The quarter just reported delivered a clear headline. Revenue reached US$3.45b and non GAAP operating margin hit 30.7%, showing the profit engine still has real muscle. Short term traders may focus on the green price screen. Long term investors will likely care more that next generation security annual recurring revenue...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-panw-stock-231511575.html?.tsrc=rss",
-   "published": "2026-11-19T23:15:11+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팰로앨토네트웍스가 1분기 호실적을 발표한 후 주가가 상승했다고 보도했다.",
-    "매출과 영업이익률이 탄탄한 수익성을 보여줬다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "5b36cb89d7d78258",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump’s $17 Billion Asia Deals Lean on a $12 Billion Aircraft Sale. That’s 1.6% of Boeing’s Backlog",
-   "excerpt": "Key TakeawaysBoeing and GE Aerospace finalized a $12 billion sale of up to 20 787s to Philippine Airlines, the biggest of more than $17 billion in deals from Trump’s Asia trip. The sale is about 1.",
-   "url": "https://www.tikr.com/blog/trumps-17-billion-asia-deals-lean-on-a-12-billion-aircraft-sale-thats-1-6-of-boeings-backlog?ref=yahoofinance&tlnk=yf-261120-9vx69f3p&.tsrc=rss",
-   "published": "2026-11-19T23:12:53+00:00",
-   "tickers": [
-    "BA"
-   ],
-   "summary_ko": [
-    "보잉 등이 필리핀항공과의 항공기 판매 계약을 최종 체결했다고 보도했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f745721ac749e779",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Google Quietly Winning the AI Model Race Again?",
-   "excerpt": "Anthropic is now a public company after the largest IPO on record, so who can still compete at the frontier of AI? Ejaaz joins Deirdre Bosa to break down the debut against a falling Nasdaq, then makes the case that Google is back after a string of new Gemini releases. He explains why Microsoft could still catch up thanks to its OpenAI rights and enterprise reach, and why he expects every frontier lab to design its own chips. Timestamps 0:00 Reading Anthropic's debut 1:11 An IPO in a rocky AI market 3:13 Is Google back on top? 5:58 Can Microsoft build a frontier model? 7:55 Why AI labs want their own chips #AI #Google #Anthropic == AlphaSpace by Yahoo Finance: A Professional-Grade Investment Platform Built for Everyday Investors. 👉",
-   "url": "https://www.youtube.com/watch?v=-XMvIvfGGBE",
-   "published": "2026-11-19T23:12:13+00:00",
-   "tickers": [
-    "MSFT",
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "제미니 신제품을 근거로 구글이 AI 경쟁에서 다시 우위를 차지했다고 주장했다.",
-    "마이크로소프트는 오픈아이엔아이 협력과 기업용 시장을 통해 추격할 수 있다고 보았다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "514bca817b554aa3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Jeff Bezos says 2 policies drive up housing costs, and it's 'not hard to figure out'",
-   "excerpt": "The Amazon founder says the causes of sky-high home prices are simpler than politicians make them sound.",
-   "url": "https://www.thestreet.com/real-estate/jeff-bezos-says-2-policies-drive-up-housing-costs-subsidize-demand-constrain-supply?.tsrc=rss",
-   "published": "2026-11-19T23:07:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존 창업자가 주택 비용 상승을 유발하는 2가지 정책에 대해 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a3f27009123ba037",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft Bought Into Anthropic Around $350 Billion. The IPO Says “Almost Exactly $1.5 Trillion”",
-   "excerpt": "Key TakeawaysAnthropic priced its IPO at $83 a share and raised a record $81. 3 billion, for a fully diluted value of about $1.",
-   "url": "https://www.tikr.com/blog/microsoft-bought-into-anthropic-around-350-billion-the-ipo-says-almost-exactly-1-5-trillion?ref=yahoofinance&tlnk=yf-261120-g55x67qh&.tsrc=rss",
-   "published": "2026-11-19T23:06:40+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "앤스로픽이 기업공개(IPO)를 통해 기록적인 자금을 조달했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d0d14bf5af3b47e9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake",
-   "excerpt": "Strong corporate earnings and a landmark IPO are providing pockets of optimism, but mounting interest rate and valuation concerns continue to undermine investor confidence.",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/?.tsrc=rss",
-   "published": "2026-11-19T23:05:02+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "앤스로픽의 나스닥 상장으로 구글 지분 가치가 부각된 가운데 알파벳 주가가 하락했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e68ce73ee5e2e75e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "California subpoenas Nvidia as questions about CEO affair, AI chips mount",
-   "excerpt": "Atty. Gen. Rob Bonta's office said information gleaned from the subpoenas 'will help the California Department of Justice evaluate whether Nvidia's actions violated California law.'",
-   "url": "https://finance.yahoo.com/technology/ai/articles/california-subpoenas-nvidia-questions-ceo-230444672.html?.tsrc=rss",
-   "published": "2026-11-19T23:04:44+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "캘리포니아주 법무부가 엔비디아를 상대로 소환장을 발부했다고 밝혔다.",
-    "엔비디아의 행동이 주법을 위반했는지 평가하기 위한 정보 수집 목적이라고 설명했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "b299a60631ef1968",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Forget Walmart: Campbell’s Has More Riding on Walmart’s Beat and Raise",
-   "excerpt": "Key TakeawaysWalmart beat third-quarter forecasts with $188. 8 billion of revenue and raised its full-year outlook for the third time this year.",
-   "url": "https://www.tikr.com/blog/forget-walmart-campbells-has-more-riding-on-walmarts-beat-and-raise?ref=yahoofinance&tlnk=yf-261120-hfg5c579&.tsrc=rss",
-   "published": "2026-11-19T23:04:28+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트가 3분기 실적 호조를 보이며 연간 전망을 상향 조정했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a3351f0c42c0245d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence — ANT, META, AAPL, GME In Focus",
-   "excerpt": "Anthropic closed its debut trading session 17% higher from its listing price of $83 a share.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-lower-as-anthropic-trading-debut-fails-to-provide-adequate-confidence/cNbio2mR90v?.tsrc=rss",
-   "published": "2026-11-19T23:01:05+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "앤스로픽의 거래 데뷔에도 불구하고 S&P500과 나스닥 등 주요 지수가 하락 마감했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5b7bf7a507a030f1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tesla’s Cybercab “Has Arrived” in Dallas. That’s a Growing Threat to Uber",
-   "excerpt": "Key TakeawaysTesla brought its Cybercab to Dallas on Nov. 19, two days after Alphabet’s Waymo paused freeway rides across its US markets.",
-   "url": "https://www.tikr.com/blog/teslas-cybercab-has-arrived-in-dallas-thats-a-growing-threat-to-uber?ref=yahoofinance&tlnk=yf-261120-m4qj6rjf&.tsrc=rss",
-   "published": "2026-11-19T23:00:55+00:00",
-   "tickers": [
-    "TSLA",
-    "GOOGL",
-    "UBER"
-   ],
-   "summary_ko": [
-    "테슬라의 사이버캐브가 댈러스에 도착했으며 우버에 위협이 되고 있다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
