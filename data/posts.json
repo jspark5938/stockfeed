@@ -1,6 +1,92 @@
 {
- "updated": "2026-11-26T06:30:32.725601+00:00",
+ "updated": "2026-11-26T07:00:37.688513+00:00",
  "posts": [
+  {
+   "id": "f101d5a2cbc27d7a",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "US Proposes New Tariffs, Asian Stocks Rise As AI Trade Rebounds",
+   "excerpt": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. Chapters: 00:00:00 - Bloomberg: The Asia Trade begins 00:02:34 - Stocks, Nasdaq futures climb as AI trade rebounds 00:08:17 - Final US tariff action could come in January 2027 00:13:08 - United States Studies Centre's Hayley Channer on Trump's tariffs 00:20:38 - National Economic Council Director Kevin Hassett on US economic outlook 00:26:19 - Lighthouse Canton and Keenai Global CIO Sunil Garg on AI trade, Nvidia outlook 00:33:04 - EXCLUSIVE: Former Chinese Vice Finance Minister Z",
+   "url": "https://www.youtube.com/watch?v=BUqb4zskT7c",
+   "published": "2026-11-26T06:34:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "블룸버그 아시아 트레이드 방송은 미국 신규 관세 추진과 AI 관련주의 반등 소식을 다뤘다.",
+    "방송에서는 AI 거래와 엔비디아 전망 등에 대해 전문가들의 분석을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "1680106f000a899f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "MU, SNDK, SKHY Jump As Nvidia Tests Kioxia Memory Fix — Analyst Presses Memory Giants For ‘Massive’ Buybacks",
+   "excerpt": "Nvidia and Kioxia tested 144 flash drives in one AI rack. Kioxia estimates the setup could support a database of up to 2 trillion vectors.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-skhy-nvidia-kioxia-memory-fix-analyst-memory-giants-buybacks/cNbxQFgR9ZK?.tsrc=rss",
+   "published": "2026-11-26T06:30:51+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 키옥시아 메모리 수정을 테스트하면서 관련 종목들이 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "e8a8a8197c53ddc8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia stops shipping AI servers to 4 Southeast Asian countries- FT",
+   "excerpt": "Investing.com-- Nvidia has told its manufacturing partners to halt server shipments to four Southeast Asian countries amid tighter U.S. export controls, the Financial Times reported on Thursday.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stops-shipping-ai-servers-062916311.html?.tsrc=rss",
+   "published": "2026-11-26T06:29:16+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "파이낸셜타임스는 엔비디아가 미국의 강화된 수출 통제 속에서 동남아 4개국으로의 AI 서버 선적을 중단했다고 보도했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "ddfff9bda9a4e2aa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
+   "excerpt": "Investing.com -- Kioxia Holdings shares surged on Thursday, extending a sharp rebound in Japanese semiconductor stocks after the memory chipmaker announced a collaboration with Nvidia to expand effective GPU memory capacity using its solid-state drives.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html?.tsrc=rss",
+   "published": "2026-11-26T06:28:44+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "키옥시아는 엔비디아와의 협업 발표 이후 주가가 급등했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "a47d48b90855dd2a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "IonQ Stock Has The Bull Case Changed After Raised Revenue Guidance",
+   "excerpt": "IonQ reported its sixth consecutive record quarter, with third quarter revenue of US$173.8 million and higher 2026 guidance of US$505 million to US$515 million, supported by a stronger backlog, government contracts such as a DARPA agreement, and continued investment in quantum hardware, networking and sensing. The company coupled this operational momentum with technical progress, including a reported 99.99% two qubit gate fidelity and government validation through DARPA’s Quantum...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-stock-bull-case-changed-061727547.html?.tsrc=rss",
+   "published": "2026-11-26T06:17:27+00:00",
+   "tickers": [
+    "IONQ"
+   ],
+   "summary_ko": [
+    "아이온큐는 3분기 매출과 향후 가이던스를 상향 조정하며 6분기 연속 최대 실적을 기록했다고 밝혔다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "0ba9ea076dc9ba8e",
    "kind": "news",
@@ -76807,78 +76893,6 @@
    "summary_ko": [
     "짐 크레이머는 로켓랩 주식이 너무 저렴하다고 평가했다고 전했다.",
     "일렉트론은 팰컨9보다 빠른 속도로 100회 발사를 달성했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "6bf305b8727f96e9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Josh Brown: “No Greater Beneficiary Than Apple” if Nvidia Stops Hoarding Memory. Nvidia Just Did the Opposite",
-   "excerpt": "Key TakeawaysNvidia’s supply commitments rose $111 billion to $390 billion, mostly on memory. Josh Brown says Apple gains most if Nvidia buys less memory.",
-   "url": "https://www.tikr.com/blog/josh-brown-no-greater-beneficiary-than-apple-if-nvidia-stops-hoarding-memory-nvidia-just-did-the-opposite?ref=yahoofinance&tlnk=yf-261119-fjp489cx&.tsrc=rss",
-   "published": "2026-11-19T06:58:54+00:00",
-   "tickers": [
-    "NVDA",
-    "AAPL"
-   ],
-   "summary_ko": [
-    "조시 브라운은 엔비디아의 메모리 확보가 중단될 경우 애플이 가장 큰 수혜를 볼 것이라고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "cb61b34a44cbd594",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Xi Hosts Trump at APEC Summit in Shenzhen",
-   "excerpt": "\"Bloomberg: The China Show\" is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. Chapters: 00:01:38 - Anthropic IPO set to top SpaceX's record debut 00:04:49 - Trump, Xi set to meet for bilateral talks at APEC 00:15:23 - Tencent's 3Q earnings miss weighs on China tech trade 00:18:16 - Morningstar's Lorraine Tan on Tencent and Alibaba 00:26:59 - Morningstar's Lorraine Tan on China AI stocks 00:34:05 - Exclusive: OKX's Gracie Lin on crypto regulation 00:43:04 - Breaking: Tencent drops in heavy volume in Hong Kong 00:45:49 - Breaking: Xi speaks at APEC Economic Leaders' Meeting 00:52:53 ",
-   "url": "https://www.youtube.com/watch?v=etl_8fvPxls",
-   "published": "2026-11-19T06:49:33+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "블룸버그 방송에서 트럼프와 시진핑의 APEC 정상회담 개최 소식을 다뤘다.",
-    "텐센트의 3분기 실적 부진이 중국 기술주 거래에 부담을 주었다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "48f84202dd34cb1c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The “Bank of Nvidia” Is Pulling Back. SpaceX’s CFO Says Cash Flow Funds Most of Its 10GW Build",
-   "excerpt": "Key TakeawaysSpaceX’s CFO said “a large portion” of its compute build will be funded by the business itself. SpaceX is leasing about $47 billion of Nvidia chips as Nvidia is expected to rein in customer financing.",
-   "url": "https://www.tikr.com/blog/the-bank-of-nvidia-is-pulling-back-spacexs-cfo-says-cash-flow-funds-most-of-its-10gw-build?ref=yahoofinance&tlnk=yf-261119-pcg3qpw9&.tsrc=rss",
-   "published": "2026-11-19T06:49:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "스페이스X는 자체 현금 흐름으로 연산 인프라 구축 자금을 조달할 것이라고 밝혔다.",
-    "엔비디아의 고객 자금 지원 축소 예상 속에 스페이스X는 칩을 대여하고 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "131b2b383369ddca",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Summit Insights Wrong to Give Up on NVIDIA? Wall Street Still Sees $251",
-   "excerpt": "Key TakeawaysSummit Insights Group cut NVIDIA to Hold on Nov. 18, a day after third-quarter revenue rose 103% and NVIDIA raised its outlook for next year.",
-   "url": "https://www.tikr.com/blog/is-summit-insights-wrong-to-give-up-on-nvidia-wall-street-still-sees-251?ref=yahoofinance&tlnk=yf-261119-26g4w6wq&.tsrc=rss",
-   "published": "2026-11-19T06:33:56+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "써밋 인사이츠가 엔비디아의 투자의견을 하향 조정한 점을 다뤘다.",
-    "월스트리트는 여전히 긍정적인 전망을 유지하고 있다고 언급했다."
    ],
    "tone": "pos"
   }
