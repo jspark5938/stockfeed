@@ -1,6 +1,75 @@
 {
- "updated": "2026-11-27T19:30:32.050070+00:00",
+ "updated": "2026-11-27T20:00:38.561886+00:00",
  "posts": [
+  {
+   "id": "dd65cfc23d02abb9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TSLA Stock Clocks Best Week In 18 Months: Tesla Reportedly Eyes Buying German Toolmaker Amid Cybercab, Optimus Scaling Plans",
+   "excerpt": "The company has submitted deal plans to Germany’s competition authority without providing details of the transaction, Automotive World reported on Friday.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-clocks-best-week-in-18-months-tesla-reportedly-eyes-buying-german-toolmaker-amid-cybercab-optimus-scaling-plans/cNb6PBlR9VL?.tsrc=rss",
+   "published": "2026-11-27T19:55:54+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라 주가가 18개월 만에 최고 주간 성적을 기록했다고 보도했다.",
+    "사이버캡과 옵티머스 확충 계획 속에서 독일 공구업체 인수를 추진 중이라고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "18afbea214a97311",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3?",
+   "excerpt": "Huang is set to testify before Congress next week, both publicly and behind closed doors.",
+   "url": "https://www.fool.com/investing/2026/11/27/should-you-buy-nvidia-stock-before-ceo-jensen-huang-testifies-in-front-of-congress-on-dec-1-and-dec-3/?.tsrc=rss",
+   "published": "2026-11-27T19:48:09+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 CEO 젠슨 황이 12월 1일과 3일에 의회 증언에 나설 예정이라고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d2bee9f87e706cb0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Caterpillar is quietly making plans for a bigger 2027",
+   "excerpt": "Bank of America says the market is underpricing Caterpillar’s construction business.",
+   "url": "https://www.thestreet.com/investing/stocks/caterpillar-is-quietly-making-plans-for-a-bigger-2027?.tsrc=rss",
+   "published": "2026-11-27T19:47:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "뱅크오브아메리카는 시장이 캐터필러의 건설 사업을 저평가하고 있다고 진단했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "4274933396cdf1c5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Is The Biggest Threat To Eli Lilly Stock?",
+   "excerpt": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+   "url": "https://www.trefis.com/stock/lly/articles/629360/what-is-the-biggest-threat-to-eli-lilly-stock/2026-11-27?.tsrc=rss",
+   "published": "2026-11-27T19:26:03+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": [
+    "일라이릴리 주식의 가장 큰 위협이 무엇인지에 대한 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "5e0ab35a0a5db8e6",
    "kind": "news",
@@ -168,6 +237,24 @@
    ],
    "summary_ko": [
     "팟캐스트에서 엔비디아 집중 투자 비중을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "1b302b39af983fc3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "IREN (NasdaqGS:IREN) Stock Sees Modest Fair Value Cut After AI Cloud Sentiment Swings",
+   "excerpt": "The analyst fair value estimate for IREN has shifted from US$56.69 to US$52.74, pointing to a modest reset in the price target used in current valuation work. This updated view comes against a backdrop of sharp share price swings following IREN’s Q1 update, moves in Microsoft’s capex guidance, and sentiment shifts around AI cloud infrastructure tied to Nvidia’s GPU ecosystem. As you read on, you will see how these valuation changes fit into the broader IREN story and what to watch as the...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/iren-nasdaqgs-iren-stock-sees-190922720.html?.tsrc=rss",
+   "published": "2026-11-27T19:09:22+00:00",
+   "tickers": [
+    "NVDA",
+    "MSFT"
+   ],
+   "summary_ko": [
+    "AI 클라우드 심리 변화 등에 따라 IREN의 애널리스트 적정 가치가 하향 조정되었다고 전했다."
    ],
    "tone": "neu"
   },
@@ -358,6 +445,24 @@
    ],
    "summary_ko": [
     "팔란티어가 폴란드와 3억 달러 규모의 국방 계약을 체결하며 최근 호조를 보였다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ac068738cee866b7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Top Stock Reports for Alphabet, Meta & Bank of America",
+   "excerpt": "Top stock reports for Alphabet, Meta and Bank of America spotlight AI-driven growth, advertising gains and rising interest income amid mounting cost pressures.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-alphabet-meta-184100991.html?.tsrc=rss",
+   "published": "2026-11-27T18:41:00+00:00",
+   "tickers": [
+    "GOOGL",
+    "BAC"
+   ],
+   "summary_ko": [
+    "알파벳, 메타, 뱅크오브아메리카의 보고서는 AI 성장과 광고 이익 등을 조명했다고 밝혔다."
    ],
    "tone": "pos"
   },
@@ -65941,268 +66046,6 @@
    ],
    "summary_ko": [
     "BTIG의 분석가가 애플의 주가와 시장 변동성에 대해 논의했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "688e6a95d0a3167c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia, Nasdaq Slide Deepens After Report of SEC Accounting Probe",
-   "excerpt": "A stock market practically begging for some good news got more bad news instead.",
-   "url": "https://finance.yahoo.com/m/cff37c7c-0ca9-37b0-a414-8f2a8d6939e4/nvidia%2C-nasdaq-slide-deepens.html?.tsrc=rss",
-   "published": "2026-11-20T19:57:50+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "SEC 회계 조사 보도가 전해진 후 엔비디아와 나스닥의 하락세가 깊어졌다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "78ce1baa2668281e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia shares fall 11.5% as report of SEC accounting probe adds to pressure",
-   "excerpt": "Investing.com -- Nvidia shares were down 11.5% amid broader weakness in technology stocks as a report of a U.S. Securities and Exchange Commission investigation added to scrutiny of the chipmaker.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-fall-11-5-195436759.html?.tsrc=rss",
-   "published": "2026-11-20T19:54:36+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "SEC 조사 보도의 영향으로 기술주 전반의 약세 속에서 엔비디아 주가가 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "72527c1327f9cb7e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump Calls for Nvidia to Rehire Jensen Huang",
-   "excerpt": "President Trump expressed continued support for former Nvidia CEO Jensen Huang, who was ousted after his affair with a suspected Chinese intelligence asset came to light.",
-   "url": "https://finance.yahoo.com/video/trump-calls-nvidia-rehire-jensen-195200772.html?.tsrc=rss",
-   "published": "2026-11-20T19:52:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "트럼프 대통령이 젠슨 황의 엔비디아 복귀를 지지했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2561915ed06cfa49",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cerebras Stock Looks Like a Buy as Customer Base Expands",
-   "excerpt": "Cerebras stock climbed after adding Microsoft as a customer.",
-   "url": "https://www.fool.com/investing/2026/11/20/cerebras-stock-looks-like-a-buy-as-customer-base-expands/?.tsrc=rss",
-   "published": "2026-11-20T19:50:02+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트를 고객사로 확보하며 세레브라스 주가가 상승했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3a8f192361c6788a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Coatue Management Just Bought 8 Million Shares of Salesforce Stock. Why Investors Should Care.",
-   "excerpt": "Coatue established a substantial position in Salesforce during Q3, even as CRM stock remains under pressure.",
-   "url": "https://www.barchart.com/story/news/8941412/coatue-management-just-bought-8-million-shares-of-salesforce-stock-why-investors-should-care?.tsrc=rss",
-   "published": "2026-11-20T19:48:44+00:00",
-   "tickers": [
-    "CRM"
-   ],
-   "summary_ko": [
-    "코투 매니지먼트가 3분기 동안 세일즈포스 주식 8백만 주를 매입했다고 전했다.",
-    "세일즈포스 주가가 압박을 받는 상황에서도 대규모 포지션을 구축했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "99ddae30e36dd485",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Snowflake's biggest growth opportunity could create a new risk",
-   "excerpt": "Demand is strong, but customers are using AI to trim their own data bills.",
-   "url": "https://www.thestreet.com/investing/stocks/snow-snowflake-ai-could-help-customers-spend-less-creating-a-new-risk?.tsrc=rss",
-   "published": "2026-11-20T19:47:00+00:00",
-   "tickers": [
-    "SNOW"
-   ],
-   "summary_ko": [
-    "스노플레이크의 성장 기회가 새로운 리스크가 될 수 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2255f26f72bb2060",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Could Send Rocket Lab Stock Higher?",
-   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
-   "url": "https://www.trefis.com/stock/rklb/articles/627244/what-could-send-rocket-lab-stock-higher/2026-11-20?.tsrc=rss",
-   "published": "2026-11-20T19:46:53+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "로켓랩 주가가 상승할 수 있는 요인에 대해 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "440baf6e50d12d4d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia’s accounting practices are focus of probe by Wall Street regulators: report",
-   "excerpt": "The SEC probe is the latest of Nvidia's legal woes.",
-   "url": "https://nypost.com/2026/11/20/business/nvidias-accounting-practices-are-focus-of-probe-by-sec-report/?.tsrc=rss",
-   "published": "2026-11-20T19:45:32+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "월스트리트 규제 당국이 엔비디아의 회계 관행에 대해 조사 중이라고 보도했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "05fc80fa2baf8c8d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia stock extends $2.5 trillion rout as SEC probe reportedly investigates its accounting",
-   "excerpt": "Nvidia's record sell-off deepened as Reuters reported that SEC investigators are examining its accounting.",
-   "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html?.tsrc=rss",
-   "published": "2026-11-20T19:42:54+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "SEC가 엔비디아의 회계 조사를 벌이고 있다는 보도가 나왔다.",
-    "이로 인해 엔비디아의 주가 하락세가 심화되었다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "d564dd221784045c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "$17B Tesla manufacturing plant led October’s construction starts rebound",
-   "excerpt": "Without the boost from manufacturing construction, total groundbreakings would have ticked down over the month, said Eric Gaus, chief economist at Dodge Construction Network.",
-   "url": "https://www.constructiondive.com/news/tesla-manufacturing-plant-october-construction-starts-rebound/875377/?.tsrc=rss",
-   "published": "2026-11-20T19:42:00+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라의 대규모 제조 공장 착공이 10월 건설 시작 반등을 이끌었다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "dfd4d509623ff44f",
-   "kind": "youtube",
-   "source": "The Compound",
-   "author": "The Compound",
-   "title": "The Stock Market Has Officially Lost Its Mind",
-   "excerpt": "On episode 269 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by Jenny Harrington and Bryn Talkington to discuss: Anthropic’s record-breaking IPO, whether the AI bubble has finally burst, Nvidia’s future without Jensen Huang, the massive rotation from tech into value and dividend stocks, and the battle between OpenAI, Claude, and Google Gemini. Plus, the crew shares their favorite stock picks, including Tesla, Visa, Cisco, Freeport-McMoRan, and Kimberly-Clark, discusses covered-call ETFs, Jenny and Bryn’s new book Investment Wisdom for Our Friends and Loved Ones, and the winner of Josh and Jenny’s Netflix vs. Disney bet. 👕 Check out The Compound shop: 🎙️Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: The Compound Newsletter: Linkedin: Instag",
-   "url": "https://www.youtube.com/watch?v=UQQhDK9Ti9o",
-   "published": "2026-11-20T19:39:31+00:00",
-   "tickers": [
-    "NVDA",
-    "TSLA",
-    "GOOGL",
-    "NFLX",
-    "DIS"
-   ],
-   "summary_ko": [
-    "팟캐스트에서 앤트로픽 IPO와 AI 버블 여부 등을 다뤘다.",
-    "테슬라와 비자 등 출연진의 선호 종목도 함께 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "2cc38399f30bba4b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart’s sub-30-minute delivery volume surges in Q3",
-   "excerpt": "The retailer could speed up deliveries even further with faster pick times at stores, U.S. President and CEO David Guggina said.",
-   "url": "https://www.supplychaindive.com/news/walmarts-sub-30-minute-delivery-volume-surges-in-q3/875339/?.tsrc=rss",
-   "published": "2026-11-20T19:38:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트의 30분 미만 배송 물량이 3분기에 급증했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "9503647396334e45",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump on Jensen Huang: 'We're a country of second chances'",
-   "excerpt": "President Trump told reporters that former Nvidia (NVDA) CEO Jensen Huang should be given a second chance and allowed to return to the company.",
-   "url": "https://finance.yahoo.com/video/trump-on-jensen-huang-were-a-country-of-second-chances-193647938.html?.tsrc=rss",
-   "published": "2026-11-20T19:36:47+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "트럼프 대통령은 젠슨 황이 엔비디아로 복귀해야 한다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "37029f18f83d845e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump Bought At Least $5 Million Of This Dividend ETF Before AI Sell-Off",
-   "excerpt": "Weeks before the AI stock rout hit, the president quietly made his biggest purchase in a new federal filing, and it looked nothing like a tech bet. Nvidia has since bled, so how has his pick held up?",
-   "url": "https://247wallst.com/investing/etf/2026/11/20/trump-bought-at-least-5-million-of-this-dividend-etf-before-ai-sell-off/?.tsrc=rss",
-   "published": "2026-11-20T19:33:55+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "트럼프 대통령이 AI 주가 급락 전에 배당 ETF를 매수했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f49440d22e318dcb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Target, Walmart Earnings Tell Us About Retail and Consumers",
-   "excerpt": "Walmart and Target–and other retailers–are having to work harder than ever because consumers are hungry for value.",
-   "url": "https://finance.yahoo.com/m/5b440eae-c472-3914-a394-596d02040cd0/what-target%2C-walmart-earnings.html?.tsrc=rss",
-   "published": "2026-11-20T19:32:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트와 타겟의 실적이 소비자의 가치 지향적 성향을 보여준다고 다뤘다."
    ],
    "tone": "neu"
   }
