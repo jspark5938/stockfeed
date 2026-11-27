@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:30:34.899121+00:00",
+ "updated": "2026-11-27T06:00:40.137147+00:00",
  "trends": [
   {
    "ticker": "NFLX",
@@ -65,6 +65,13 @@
    "ratio": 1.12
   },
   {
+   "ticker": "BA",
+   "name_ko": "보잉",
+   "mentions_24h": 9,
+   "mentions_prev_24h": 10,
+   "ratio": 0.9
+  },
+  {
    "ticker": "QQQ",
    "name_ko": "나스닥100 ETF",
    "mentions_24h": 5,
@@ -84,13 +91,6 @@
    "mentions_24h": 11,
    "mentions_prev_24h": 14,
    "ratio": 0.79
-  },
-  {
-   "ticker": "BA",
-   "name_ko": "보잉",
-   "mentions_24h": 9,
-   "mentions_prev_24h": 12,
-   "ratio": 0.75
   },
   {
    "ticker": "XOM",
@@ -156,13 +156,6 @@
    "ratio": 0.6
   },
   {
-   "ticker": "MU",
-   "name_ko": "마이크론",
-   "mentions_24h": 22,
-   "mentions_prev_24h": 37,
-   "ratio": 0.59
-  },
-  {
    "ticker": "WMT",
    "name_ko": "월마트",
    "mentions_24h": 13,
@@ -175,6 +168,13 @@
    "mentions_24h": 8,
    "mentions_prev_24h": 14,
    "ratio": 0.57
+  },
+  {
+   "ticker": "MU",
+   "name_ko": "마이크론",
+   "mentions_24h": 21,
+   "mentions_prev_24h": 38,
+   "ratio": 0.55
   },
   {
    "ticker": "META",
@@ -233,18 +233,18 @@
    "ratio": 0.44
   },
   {
-   "ticker": "NVDA",
-   "name_ko": "엔비디아",
-   "mentions_24h": 90,
-   "mentions_prev_24h": 215,
-   "ratio": 0.42
-  },
-  {
    "ticker": "JPM",
    "name_ko": "JP모건",
    "mentions_24h": 5,
    "mentions_prev_24h": 12,
    "ratio": 0.42
+  },
+  {
+   "ticker": "NVDA",
+   "name_ko": "엔비디아",
+   "mentions_24h": 87,
+   "mentions_prev_24h": 217,
+   "ratio": 0.4
   },
   {
    "ticker": "PFE",
