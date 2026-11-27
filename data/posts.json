@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-27T09:00:40.332708+00:00",
+ "updated": "2026-11-27T09:30:34.150451+00:00",
  "posts": [
+  {
+   "id": "eb8ff8bd02855c57",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A Palantir Co-Founder Bought $122 Million of the Stock on Nov. 20. Here's What I Think of Palantir Stock Now.",
+   "excerpt": "Shares have already risen around 14% over what the co-founder paid.",
+   "url": "https://www.fool.com/investing/2026/11/27/a-palantir-co-founder-bought-usd122-million-of-the-stock-on-nov-20-here-s-what-i-think-of-palantir-stock-now/?.tsrc=rss",
+   "published": "2026-11-27T09:07:02+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "팔란티어 공동 창업자가 1억 2,200만 달러어치 주식을 매수했다고 다뤘다.",
+    "이후 주가는 공동 창업자의 매수 단가보다 약 14% 상승했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7b764e5847a1d4e3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SPHD Lagged SCHD for a Decade. Here’s Why It Wins If Tech Breaks",
+   "excerpt": "SCHD has crushed its higher-yielding rival for ten years, yet one dividend ETF could flip the script if AI spending sours and investors stop paying up for growth. The catch is a fee five times higher and a few risks worth weighing first.",
+   "url": "https://247wallst.com/investing/etf/2026/11/27/sphd-lagged-schd-for-a-decade-heres-why-it-wins-if-tech-breaks/?.tsrc=rss",
+   "published": "2026-11-27T09:06:03+00:00",
+   "tickers": [
+    "SCHD"
+   ],
+   "summary_ko": [
+    "SPHD가 10년 동안 SCHD보다 성과가 부진했다고 다뤘다.",
+    "AI 투자 열기가 식고 성장주 선호가 꺾이면 SPHD가 유리할 수 있다고 전망했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "c90f34e3d1b8b42d",
    "kind": "news",
@@ -15,6 +51,24 @@
    ],
    "summary_ko": [
     "우버가 딜리버리 히어로의 공개 매수 최종 결과 지분 약 87%를 확보했다고 발표했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0f09d557fcba22c2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia, AI Fears Jolt Markets: Market Snapshot",
+   "excerpt": "Nvidia reinstated Jensen Huang as CEO, sending tech stocks soaring. But it wasn't enough to quell jitters in the artificial intelligence trade. Bloomberg's \"The Opening Trade\" spoke to global strategists and tech leaders about whether recent volatility signals a new era for AI investment.",
+   "url": "https://finance.yahoo.com/video/nvidia-ai-fears-jolt-markets-082748065.html?.tsrc=rss",
+   "published": "2026-11-27T08:27:48+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 젠슨 황을 CEO로 재선임한 소식이 전해졌다.",
+    "시장 전문가들과 함께 최근의 변동성과 AI 투자 흐름을 점검했다고 다뤘다."
    ],
    "tone": "neu"
   },
@@ -68194,130 +68248,6 @@
     "엔비디아가 AI 생태계의 중심에 있어 글로벌 공급망에 미칠 영향이 주목된다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "e5220850aa237133",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Anthropic's Blockbuster IPO Dominated Headlines This Week – AI Anxiety Eased, While Investors And Employees Reaped A Windfall",
-   "excerpt": "In other news, Nvidia remained under pressure despite issuing a strong Q3 report.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-blockbuster-ipo-dominated-headlines-this-week-ai-anxiety-eased-while-investors-and-employees-reaped-a-windfall/cNbSajAR9Kk?.tsrc=rss",
-   "published": "2026-11-20T09:28:46+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "앤스로픽의 대규모 IPO가 주목받은 반면 엔비디아는 실적 발표 이후에도 압박을 받았다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "17f246d956c41c21",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock market today: Dow, S&P 500, Nasdaq futures continue to sell-off after Anthropic IPO fails to quell AI worries",
-   "excerpt": "Stocks are on track to post weekly losses after Nvidia earnings and Anthropic's IPO weren't enough for investors to shake off AI angst.",
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-volatility-092827348.html?.tsrc=rss",
-   "published": "2026-11-20T09:28:27+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "앤스로픽 기업공개와 엔비디아 실적에도 투자자들의 인공지능 우려가 해소되지 않았다고 전했다.",
-    "이에 따라 다우, S&P 500, 나스닥 선물 지수가 하락세를 지속하고 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "25b1cafdd01fc2d6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Has Lost More Than the Market Value of 495 S&P 500 Companies in 6 Weeks -- and Its Downtrend May Be Just Beginning",
-   "excerpt": "The face of the artificial intelligence (AI) infrastructure build-out has seen its market cap contract by $2.03 trillion.",
-   "url": "https://www.fool.com/investing/2026/11/20/nvidia-lost-more-than-market-value-of-495-sp-500-companies-downtrend-just-beginning/?.tsrc=rss",
-   "published": "2026-11-20T09:26:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "AI 인프라 구축의 중심인 엔비디아의 시가총액이 크게 감소했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "f2ffe26c78515044",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Warren Buffett’s Successor Just Bought $10 Billion of This AI Stock, and It’s Not Apple",
-   "excerpt": "During the past year, Greg Abel has ramped up Berkshire's position in this AI-focused \"Magnificent Seven\" stock.",
-   "url": "https://www.fool.com/investing/2026/11/20/warren-buffetts-successor-just-bought-10-billion-of-this-ai-stock-and-its-not-apple/?.tsrc=rss",
-   "published": "2026-11-20T09:20:02+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "버크셔의 후계자가 AI 관련 매그니피센트 세븐 종목의 지분을 확대했다고 보도했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "cd191a4a260a43cc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "D-Wave Quantum Just Hit a New 52-Week Low, Down 38% in a Month. Is the Selling Overdone?",
-   "excerpt": "Key TakeawaysD-Wave Quantum shares fell 38% over the past month to a new 52-week low in a quantum selloff that also hit IonQ and Rigetti Computing. Not counting a few big orders, D-Wave’s bookings so far this year came in below last year’s, and ten firms cut their price targets this month.",
-   "url": "https://www.tikr.com/blog/d-wave-quantum-just-hit-a-new-52-week-low-down-38-in-a-month-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261120-22fg52mm&.tsrc=rss",
-   "published": "2026-11-20T09:16:13+00:00",
-   "tickers": [
-    "IONQ",
-    "RGTI",
-    "QBTS"
-   ],
-   "summary_ko": [
-    "디웨이브 퀀텀의 주가가 한 달 동안 38% 하락해 52주 신저가를 기록했다고 다뤘다.",
-    "올해 수주액이 작년보다 부진하며 여러 기업이 목표주가를 낮췄다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c33fd7f68c14952c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "ExxonMobil Sinks 11% in a Month as Oil Slides. Darren Woods Says Its Earnings Power Comes From “Lasting Improvements”",
-   "excerpt": "Key TakeawaysExxonMobil shares are down 11% in the past month as oil prices fell on hopes for an end to the Iran war, alongside a broad market selloff. Refining earned more than half of Exxon’s third-quarter adjusted profit, and the market treats that kind of windfall as temporary.",
-   "url": "https://www.tikr.com/blog/exxonmobil-sinks-11-in-a-month-as-oil-slides-darren-woods-says-its-earnings-power-comes-from-lasting-improvements?ref=yahoofinance&tlnk=yf-261120-mpqj7wp5&.tsrc=rss",
-   "published": "2026-11-20T09:08:39+00:00",
-   "tickers": [
-    "XOM"
-   ],
-   "summary_ko": [
-    "유가 하락 등으로 엑슨모빌 주가가 한 달간 하락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "b8908505fd828c0c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Oracle Stock Just Closed at Its Lowest Price Since April 2024. Is It a Buy Now?",
-   "excerpt": "The cloud giant's shares now trade under the $116 its latest investors paid. Is that a bargain?",
-   "url": "https://www.fool.com/investing/2026/11/20/oracle-stock-just-closed-at-its-lowest-price-since-april-2024-is-it-a-buy-now/?.tsrc=rss",
-   "published": "2026-11-20T09:07:02+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "summary_ko": [
-    "오라클 주가가 2024년 4월 이후 최저가로 마감했다고 다뤘다.",
-    "최신 투자자들이 지불한 주가 수준을 언급하며 저렴한 가격인지에 대해 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
