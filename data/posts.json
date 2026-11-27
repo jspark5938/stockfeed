@@ -1,6 +1,295 @@
 {
- "updated": "2026-11-27T15:30:31.843282+00:00",
+ "updated": "2026-11-27T16:00:40.188625+00:00",
  "posts": [
+  {
+   "id": "0aeae46074232fc3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang Said Nvidia’s Blackwell Chips Were Too Big to Smuggle. Bloomberg Just Found Them in China.",
+   "excerpt": "I’m conservative on NVIDIA (NASDAQ:NVDA). A Nov. 27 Bloomberg report identified restricted Blackwell AI hardware at a Shanghai data center linked to Alice Huang. Jensen Huang previously suggested such equipment was too large to smuggle, and a fully equipped GB300 rack weighs approximately 3,300 pounds. Bloomberg has not established how the hardware got to China. […]",
+   "url": "https://247wallst.com/investing/2026/11/27/jensen-huang-said-nvidias-blackwell-chips-were-too-big-to-smuggle-bloomberg-just-found-them-in-china/?.tsrc=rss",
+   "published": "2026-11-27T15:50:22+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "블룸버그 보도에 따르면 상하이 데이터 센터에서 제한된 블랙웰 AI 하드웨어가 식별되었다.",
+    "과거 젠슨 황은 해당 장비가 밀수하기에는 너무 크다고 언급한 바 있다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "b36df53f08a1af34",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Trump Is Heading to Arizona to Break Ground on TSMC’s Newest Chip Plant",
+   "excerpt": "A presidential ceremony is coming to the Arizona desert, yet TSMC's stock barely flinched after a brutal month. Behind the pageantry sit unanswered questions about chips, costs, and politics that could decide whether this expansion pays off.",
+   "url": "https://247wallst.com/investing/2026/11/27/trump-is-heading-to-arizona-to-break-ground-on-tsmcs-newest-chip-plant/?.tsrc=rss",
+   "published": "2026-11-27T15:48:35+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": [
+    "트럼프가 TSMC의 신규 반도체 공장 착공식에 참석할 예정이다.",
+    "어려운 한 달을 보낸 후 TSMC 주가는 거의 변동이 없었다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "231cb89e7c00932a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How AI is driving record holiday spending",
+   "excerpt": "Yahoo Finance Executive Editor Brian Sozzi outlines what Adobe Analytics' holiday spending data reveals about the state of the US consumer.",
+   "url": "https://finance.yahoo.com/video/how-ai-is-driving-record-holiday-spending-154808415.html?.tsrc=rss",
+   "published": "2026-11-27T15:48:08+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "summary_ko": [
+    "야후 파이낸스 브라이언 소지는 어도비 애널리틱스의 데이터를 다뤘다.",
+    "이를 통해 AI가 기록적인 홀리데이 지출을 어떻게 이끌고 있는지 설명했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "721171dfd52b9bea",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Anthropic Just Hit an $81 Billion Run Rate—Why Wall Street’s Post-IPO Jitters Are a Gift",
+   "excerpt": "Anthropic's stock has slid back to its IPO price, and headlines are calling it a dud. One investor sees something else in the numbers, and he keeps buying while Microsoft and Alphabet fail to tempt him.",
+   "url": "https://247wallst.com/investing/2026/11/27/anthropic-just-hit-an-81-billion-run-rate-why-wall-streets-post-ipo-jitters-are-a-gift/?.tsrc=rss",
+   "published": "2026-11-27T15:45:29+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "앤트로픽의 주가가 IPO 가격 수준으로 하락했다고 다뤘다.",
+    "한 투자자는 숫자에 주목하며 매수세를 이어가고 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7b921afd6531f94a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "No Threat to TSMC Before 2028: Intel’s Foundry Gap Is Still Huge",
+   "excerpt": "Intel just posted its best data center growth in 15 years, yet its foundry still bleeds cash while TSMC says AI demand outruns supply. One missing signature from a big customer could change the story, and Intel has promised to deliver soon.",
+   "url": "https://247wallst.com/investing/2026/11/27/no-threat-to-tsmc-before-2028-intels-foundry-gap-is-still-huge/?.tsrc=rss",
+   "published": "2026-11-27T15:45:12+00:00",
+   "tickers": [
+    "TSM",
+    "INTC"
+   ],
+   "summary_ko": [
+    "인텔은 지난 15년 내 최고의 데이터센터 성장을 기록했다고 밝혔다.",
+    "다만 인텔의 파운드리는 여전히 손실을 내고 있으며 TSMC는 수요가 공급을 초과한다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "ca305e86daf9f6d4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Walmart Stock Priced Like 1999 Again?",
+   "excerpt": "Today's big story: How Much Of Big Tech's AI Spending Reaches Nvidia.",
+   "url": "https://www.trefis.com/stock/wmt/articles/629160/walmart-is-priced-almost-like-1999-holders-then-waited-12-years/2026-11-27?.tsrc=rss",
+   "published": "2026-11-27T15:42:20+00:00",
+   "tickers": [
+    "NVDA",
+    "WMT"
+   ],
+   "summary_ko": [
+    "빅테크의 AI 지출 중 얼마큼이 엔비디아에 도달하는지 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "8bef93ba37d2061b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Down 50%, is Micron stock a bargain buy or a value trap?",
+   "excerpt": "Micron stock is down about 50%, despite record earnings and AI contracts in fiscal 2026.",
+   "url": "https://www.thestreet.com/investing/stocks/micron-stock-down-50-bargain-or-value-trap?.tsrc=rss",
+   "published": "2026-11-27T15:37:00+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "마이크론 주가는 2026 회계연도 실적과 계약에도 불구하고 약 50퍼센트 하락했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2727be341ae300d2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Alphabet No Longer Telling You Something?",
+   "excerpt": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+   "url": "https://www.trefis.com/stock/googl/articles/629385/is-alphabet-no-longer-telling-you-something/2026-11-27?.tsrc=rss",
+   "published": "2026-11-27T15:36:01+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "앤트로픽이 IPO 가격을 하회한 이후의 상황을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "828de9236c58e019",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "KG: Tech \"Still Has a Lot of Headwinds\"",
+   "excerpt": "Kevin Green is watching the AI trade, semiconductors, and the VIX at 28, with light volume Friday. Nvidia (NVDA) is pressuring the S&P 500 (SPX) with CEO Jensen Huang speaking before Congress next week. That is likely \"a market moving event,\" KG says. He notes a Bloomberg report on two Chinese firms with ties to Megaspeed installing Nvidia Blackwell chips. Tech still has a lot of headwinds, KG says. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #economy #finance #investing #marketnews #stock #stockmarket #trad",
+   "url": "https://www.youtube.com/watch?v=0kNeQAI6aJc",
+   "published": "2026-11-27T15:35:27+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "케빈 그린은 기술주가 여전히 많은 역풍을 마주하고 있다고 언급했다.",
+    "엔비디아 CEO 젠슨 황의 의회 연증이 시장을 움직일 이벤트가 될 것이라고 보았다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "35a5644c47ca0df3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: This Overlooked AI Stock Could Be a Big Winner in Nvidia’s Shadow",
+   "excerpt": "Every advanced GPU starts as software before it becomes silicon, and one company sells the tools that make that possible. Record results haven't stopped its stock from sliding, which raises a question about what the market is missing.",
+   "url": "https://247wallst.com/investing/2026/11/27/prediction-this-overlooked-ai-stock-could-be-a-big-winner-in-nvidias-shadow/?.tsrc=rss",
+   "published": "2026-11-27T15:33:24+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "고급 GPU는 실리콘이 되기 전에 소프트웨어로 시작한다고 언급했다.",
+    "기록적인 실적에도 불구하고 주가가 하락한 이유에 대해 의문을 제기했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a40b3396ab159a68",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "SoFi’s 500-Stock ETF Doesn’t Weight Strictly by Size. SFY Tilts America’s Biggest Companies Toward Growth",
+   "excerpt": "Two funds each hold 500 of the largest US companies, yet one quietly bets on growth and charges less to own it. After a rough stretch for tech, the gap between them is getting hard to ignore.",
+   "url": "https://247wallst.com/investing/etf/2026/11/27/sofis-500-stock-etf-doesnt-weight-strictly-by-size-sfy-tilts-americas-biggest-companies-toward-growth/?.tsrc=rss",
+   "published": "2026-11-27T15:32:40+00:00",
+   "tickers": [
+    "SOFI"
+   ],
+   "summary_ko": [
+    "소피의 500개 종목 ETF와 대형주 펀드의 특징을 다뤘다.",
+    "두 펀드의 성장주 투자 성향과 비용 차이를 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "89de5e8a1a8ef2ff",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dan Ives Calls Nvidia's China Risk 'Containable', While Gene Munster Says AI Trade Is In The 'Penalty Box'",
+   "excerpt": "Dan Ives said Nvidia CEO Jensen Huang \"carries the weight of the entire tech sector\" in his Washington sessions next week.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/dan-ives-calls-nvidia-china-risk-containable-while-gene-munster-says-ai-trade-is-in-the-penalty-box/cNbCUJtR9V4?.tsrc=rss",
+   "published": "2026-11-27T15:32:23+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "댄 아이브스는 엔비디아의 중국 리스크가 통제 가능하다고 주장했다.",
+    "진 먼스터는 AI 거래가 현재 페널티 박스에 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e447ddf27edad568",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "Former Walmart CEO: Black Friday shifting to online deals better for retailers and consumers",
+   "excerpt": "Bill Simon, former Walmart president and CEO, joins “Squawk Box” to discuss Black Friday shopping and how it has changed over the years.",
+   "url": "https://www.youtube.com/watch?v=zzbswX3KGKM",
+   "published": "2026-11-27T15:30:35+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "전 월마트 CEO 빌 사이먼은 블랙프라이데이 쇼핑의 변화를 다뤘다.",
+    "온라인 거래 중심의 변화가 유통사와 소비자 모두에게 유리하다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "e8314e5f69056db0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Nuclear Stock AI Investors Loved Is Down 33% This Year. Is Constellation Energy a Buy Now?",
+   "excerpt": "Amazon and Google signed 20-year nuclear deals, earnings beat by a wide margin, and guidance moved higher, yet Constellation's shares keep sinking. One number in its cash flow may explain why Wall Street stopped paying up for the AI power story.",
+   "url": "https://247wallst.com/investing/2026/11/27/the-nuclear-stock-ai-investors-loved-is-down-33-this-year-is-constellation-energy-a-buy-now/?.tsrc=rss",
+   "published": "2026-11-27T15:28:29+00:00",
+   "tickers": [
+    "GOOGL",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존과 구글의 계약 및 호실적에도 콘스텔레이션 에너지의 주가가 하락했다고 다뤘다.",
+    "현금 흐름의 특정 숫자가 월스트리트의 반응을 설명할 수 있다고 보았다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "8b33b3a99d81b942",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Surges As Jensen Huang Returns As Nvidia CEO; Abercrombie Leads Retail Winners: Weekly Review",
+   "excerpt": "The stock market surged in a wild, holiday-shortened week, largely on Jensen Huang returning as Nvidia CEO. A rally attempt is underway.",
+   "url": "https://finance.yahoo.com/m/82f15783-4cdf-3fac-b3ea-8874aa7f1b48/stock-market-surges-as-jensen.html?.tsrc=rss",
+   "published": "2026-11-27T15:27:38+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 엔비디아 CEO 복귀와 함께 주식시장이 급등했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "a69391b1a8e01774",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Uber takeover bid for Delivery Hero clears key shareholder hurdle",
+   "excerpt": "Uber Technologies Inc (NYSE:UBER, XETRA:UT8) said Friday it had secured approximately 87.13% of Delivery Hero (XETRA:DHER, OTCQX:DLVHF) share capital in the final tally of its takeover bid for the German company. The deal is expected to close in the second half of 2027. Uber identified merger...",
+   "url": "https://www.proactiveinvestors.com/companies/news/1102590/uber-takeover-bid-for-delivery-hero-clears-key-shareholder-hurdle-1102590.html?.tsrc=rss",
+   "published": "2026-11-27T15:25:00+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "summary_ko": [
+    "우버가 딜리버리 히어로 인수 입찰에서 약 87.13%의 지분을 확보했다고 밝혔다.",
+    "해당 거래는 2027년 하반기에 완료될 것으로 예상된다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "e69d3737792ac42e",
    "kind": "news",
@@ -123,6 +412,24 @@
    "tone": "pos"
   },
   {
+   "id": "ecb2ffcc6d1be02e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia halts sales to SE Asia, SpaceX surges on Musk's share promise",
+   "excerpt": "Nvidia has halted sales to Southeast Asia following the U.S. government's decision to tighten restrictions on China. SpaceX shares are popping after Elon Musk promised two shares of the company to every child in America with an active Trump Account. Julie Hyman and Jake Conley are joined by Washington Crossing Advisors Senior Portfolio Manager Chad Morganlander to discuss.",
+   "url": "https://finance.yahoo.com/video/nvidia-halts-sales-to-se-asia-spacex-surges-on-musks-share-promise-151001061.html?.tsrc=rss",
+   "published": "2026-11-27T15:10:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 미국 정부의 대중국 규제 강화 여파로 동남아시아 판매를 중단했다고 다뤘다.",
+    "일론 머스크의 주식 약속 발언 이후 스페이스엑스 주가가 급등했다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "14ffacd3e8d93ed4",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -173,6 +480,23 @@
     "알트리아 그룹이 임페리얼 브룩스 인수 제안을 고려 중이라고 언급했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "815b07bb45204e68",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Neocloud firms face tighter terms than Nvidia’s old 50% AI chip cutoff",
+   "excerpt": "Neocloud (NASDAQ/APLD) providers risk losing access to Nvidia Corp (NASDAQ:NVDA, XETRA:NVD) AI chips if they rent any computing capacity to Chinese companies, CNBC reported Thursday, citing warnings from chip suppliers. The warnings follow a Commerce Department rule restricting remote access to...",
+   "url": "https://www.proactiveinvestors.com/companies/news/1102588/neocloud-firms-face-tighter-terms-than-nvidia-s-old-50-ai-chip-cutoff-1102588.html?.tsrc=rss",
+   "published": "2026-11-27T15:04:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "네오클라우드 기업들이 중국 기업에 컴퓨팅 자원을 대여할 경우 엔비디아 AI 칩 접근을 잃을 위험이 있다고 보도했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "619fb07b06292876",
@@ -66469,304 +66793,6 @@
    "summary_ko": null,
    "tone": null,
    "summary_tries": 3
-  },
-  {
-   "id": "5248608ddf7c5b2d",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Lossdog CEO Tom Sosnoff: Bitcoin, ETH and Solana have held up 'pretty well'",
-   "excerpt": "Tom Sosnoff, co-founder and CEO of Lossdog, discusses Bitcoin weakness and liquidity risks at MicroStrategy and Coinbase.",
-   "url": "https://www.youtube.com/watch?v=a2ldTfRrpEI",
-   "published": "2026-11-20T16:00:32+00:00",
-   "tickers": [
-    "COIN",
-    "MSTR"
-   ],
-   "summary_ko": [
-    "로스독 CEO 톰 소스노프가 비트코인 등의 흐름을 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "642f2f1bb127a846",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "D-WAVE QUANTUM (QBTS) Upgraded to Buy: Here's Why",
-   "excerpt": "D-WAVE QUANTUM (QBTS) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/d-wave-quantum-qbts-upgraded-160005256.html?.tsrc=rss",
-   "published": "2026-11-20T16:00:05+00:00",
-   "tickers": [
-    "QBTS"
-   ],
-   "summary_ko": [
-    "디웨이브 퀀텀의 실적 전망에 대한 낙관론이 커지며 매수 등급으로 상향 조정되었다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c7708567c147128e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tech Outages Spur Emergency Buying: Costco-Heavy ETFs in Focus",
-   "excerpt": "Tech outages are triggering emergency buying at Costco. Explore ETFs offering exposure to the retailer amid elevated valuations.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tech-outages-spur-emergency-buying-160000511.html?.tsrc=rss",
-   "published": "2026-11-20T16:00:00+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "기술적 중단 사태로 코스트코에서 비상 매수세가 발생했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "cb713066a3979a75",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "What’s Next for Intuit (INTU) After Earnings?",
-   "excerpt": "Marley Kayden discusses analyst price targets on Intuit (INTU), shares, which are lower Friday after it reported earnings and lowered its fiscal year revenue outlook. With AI jitters as a backdrop, Dan Deming walks through an example trade. ======== Schwab Network ======== Empowering every investor and trader, every market day. Options involve risks and are not suitable for all investors. Before trading, read the Options Disclosure Document. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #economy #finance #investing #marketnews #stock #stockmarket #trading #live #schwabnetwork #intuit #intu #earnin",
-   "url": "https://www.youtube.com/watch?v=1JDGuLBC6L8",
-   "published": "2026-11-20T15:59:08+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "인투이트가 실적 발표 후 연간 매출 전망을 하향 조정했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "7854f20c677c4416",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia falls below Alphabet to become fourth most valuable U.S. company",
-   "excerpt": "Investing.com - Nvidia shares touched their lowest level since June 2025, extending a recent selloff that dragged the chip giant down to fourth on the list of the most valuable U.S. public companies at one point on Friday, surrendering the position to Google-parent Alphabet.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-below-alphabet-become-155838605.html?.tsrc=rss",
-   "published": "2026-11-20T15:58:38+00:00",
-   "tickers": [
-    "NVDA",
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "엔비디아 주가가 하락하며 시가총액 순위에서 구글 모회사 알파벳에 밀려 4위가 되었다고 보도했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "4058359a701deb2f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "TD Cowen lifts UnitedHealth, Humana to Buy on improved earnings outlook",
-   "excerpt": "Investing.com -- TD Cowen upgraded UnitedHealth Group (NYSE: UNH) and Humana (NYSE: HUM) to Buy in notes on Friday. Telling investors that both health insurers have a clearer path to stronger earnings now that pricing in Medicare Advantage, the private alternative to traditional Medicare, has become more rational.",
-   "url": "https://finance.yahoo.com/healthcare/articles/td-cowen-lifts-unitedhealth-humana-155813927.html?.tsrc=rss",
-   "published": "2026-11-20T15:58:13+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "summary_ko": [
-    "TD 코웬은 메디케어 어드밴티지 가격 책정이 합리화되었다며 유나이티드헬스와 휴마나의 등급을 상향했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "1f3019de62f08fba",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Snowflake vs. Adobe: Which Enterprise AI Stock Is a Better Buy?",
-   "excerpt": "Snowflake and Adobe compete in enterprise AI, but stronger revenue growth, rising AI adoption, and earnings momentum give Snowflake an edge despite its premium valuation.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/snowflake-vs-adobe-enterprise-ai-155800527.html?.tsrc=rss",
-   "published": "2026-11-20T15:58:00+00:00",
-   "tickers": [
-    "ADBE",
-    "SNOW"
-   ],
-   "summary_ko": [
-    "스노우플레이크와 어도비의 엔터프라이즈 AI 경쟁을 다뤘다.",
-    "스노우플레이크가 더 강한 매출 성장과 AI 채택률로 우위에 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d5001be74fb69713",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SDMC's Third Consecutive Year at Google's TV Summit, Showcasing Home Physical AI",
-   "excerpt": "At Google's 2026 TV Summit in Bangkok, SDMC (00901.HK) returned as an invited speaker for the third consecutive year, advancing its AI Home strategy under the theme \"Building the Future of Home Physical AI with Google\".",
-   "url": "https://finance.yahoo.com/technology/ai/articles/sdmcs-third-consecutive-googles-tv-155700409.html?.tsrc=rss",
-   "published": "2026-11-20T15:57:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "SDMC가 구글 TV 서밋에서 3년 연속 초청 연사로 참여했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7ee1a0cb45190ea2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Micron's Record Inventory A Risk For The Stock?",
-   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
-   "url": "https://www.trefis.com/stock/mu/articles/627203/is-micron-s-record-inventory-a-risk-for-the-stock/2026-11-20?.tsrc=rss",
-   "published": "2026-11-20T15:55:14+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론의 기록적인 재고가 주식에 위험인지 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "846721bc535f85ea",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Falls Behind Alphabet, Loses $2.3 Trillion In Market Value Since October Peak",
-   "excerpt": "Alphabet’s market value stood at approximately $3.44 trillion, compared with $3.41 trillion for Nvidia, a difference of about $30 billion.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-falls-behind-alphabet-loses-2-3-trillion-in-market-value-since-october-peak/cNbSlqeR91T?.tsrc=rss",
-   "published": "2026-11-20T15:51:23+00:00",
-   "tickers": [
-    "NVDA",
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "엔비디아가 알파벳에 밀려 시가총액 4위로 내려앉았다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "6e8612beb67f21ac",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Costco Just Made a New All-Time High After Announcing a $30-Per-Share Special Dividend. Is the Stock a Buy Before Dec. 10?",
-   "excerpt": "The $30-per-share special dividend is unprecedented, but it may take more than an extra cash payout to make Costco stock a buy.",
-   "url": "https://www.fool.com/investing/2026/11/20/costco-just-made-a-new-all-time-high-after-announcing-a-30-per-share-special-dividend-is-the-stock-a-buy-before-dec-10/?.tsrc=rss",
-   "published": "2026-11-20T15:50:02+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코가 특별 배당을 발표한 후 최고가를 기록했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "5a8f7cfc0484fe8e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart Is Up 24% in a Year. Truist Sees Another 6%",
-   "excerpt": "Key TakeawaysTruist raised its Walmart price target to $134 from $114 after the third-quarter report and kept its Buy rating. That’s 6% above today’s price.",
-   "url": "https://www.tikr.com/blog/walmart-is-up-24-in-a-year-truist-sees-another-6?ref=yahoofinance&tlnk=yf-261120-693473pw&.tsrc=rss",
-   "published": "2026-11-20T15:48:56+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "트루이스트는 월마트의 목표주가를 상향하고 매수 등급을 유지했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "4dcc471627f7f47f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Between IREN and CoreWeave Here’s Who Has the Cleaner Path to a Sustained 30% Rebound",
-   "excerpt": "Both AI cloud darlings tumbled after NVIDIA flashed a warning on financing, yet one sits on billions in customer prepayments while the other still hunts a $6B funding gap. Which stock can actually power a lasting comeback?",
-   "url": "https://247wallst.com/investing/2026/11/20/between-iren-and-coreweave-heres-who-has-the-cleaner-path-to-a-sustained-30-rebound/?.tsrc=rss",
-   "published": "2026-11-20T15:45:35+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 자금 조달 경고 이후 AI 클라우드 관련주들의 하락세를 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "8d616fe3ce18118d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why the markets are being hit with a 'perfect storm' for AI",
-   "excerpt": "Yahoo Finance Executive Editor Brian Sozzi breaks down the bigger market story investors may have missed amid the frenzy surrounding Anthropic's (ANT) IPO: a broad sell-off in tech stocks. With the Nasdaq Composite (^IXIC) falling 2%, the S&P 500 (^GSPC) closing lower, and chipmakers Nvidia (NVDA) and AMD (AMD) taking hits, Sozzi examines what's driving the weakness and what it could signal for investors",
-   "url": "https://finance.yahoo.com/video/why-the-markets-are-being-hit-with-a-perfect-storm-for-ai-154128015.html?.tsrc=rss",
-   "published": "2026-11-20T15:41:28+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "기술주 전반의 매도세와 AI 관련 시장 상황을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "2886f4e4f0241873",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Lossdog CEO Tom Sosnoff: Bitcoin, ETH and Solana have held up pretty well",
-   "excerpt": "Tom Sosnoff, Co-Founder and CEO of Lossdog, discusses Anthropic's IPO, retail investor selling, AI stock buying opportunities, Bitcoin weakness and liquidity risks at MicroStrategy and Coinbase.",
-   "url": "https://www.youtube.com/watch?v=5RirIOGyYCw",
-   "published": "2026-11-20T15:36:38+00:00",
-   "tickers": [
-    "COIN",
-    "MSTR"
-   ],
-   "summary_ko": [
-    "로스독 CEO 톰 소스노프가 가상자산 및 AI 투자 기회 등을 논의했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3bbd04bcfe32aee2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The Weekly Closeout: NYC bans surveillance pricing, FabFitFun lands in Walmart",
-   "excerpt": "The ban prevents companies from using personal data to tailor prices, while the subscription company is offering a beauty box in 3,000 of the mass merchant’s stores.",
-   "url": "https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/?.tsrc=rss",
-   "published": "2026-11-20T15:35:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "뉴욕시의 감시 가격 책정 금지 조치와 월마트의 파트너십 소식을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0f68a58c5e88fe2c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump Bought Up to $265,000 of NVIDIA Stock. Here’s Where the Price Target Stands",
-   "excerpt": "A presidential stock purchase lands the same week NVIDIA loses its CEO and sinks toward a 52-week low. Behind the chaos sits a record quarter and a valuation that looks oddly cheap next to AMD and Broadcom.",
-   "url": "https://247wallst.com/investing/2026/11/20/trump-bought-up-to-265000-of-nvidia-stock-heres-where-the-price-target-stands/?.tsrc=rss",
-   "published": "2026-11-20T15:33:17+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "트럼프의 엔비디아 주식 매입 소식과 함께 최근 주가 하락 및 밸류에이션 상황을 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
