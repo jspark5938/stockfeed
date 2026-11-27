@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-27T08:00:38.566725+00:00",
+ "updated": "2026-11-27T08:30:32.895193+00:00",
  "posts": [
+  {
+   "id": "a3e525571dd11a4f",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Nvidia, AI Fears Jolt Markets: Market Snapshot",
+   "excerpt": "Nvidia reinstated Jensen Huang as CEO, sending tech stocks soaring. But it wasn't enough to quell jitters in the artificial intelligence trade. Bloomberg's \"The Opening Trade\" spoke to global strategists and tech leaders about whether recent volatility signals a new era for AI investment. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from Bloomberg: Bloomberg Radio: Bloomberg Surveillance: Bloomberg Politics: Bloomberg Originals",
+   "url": "https://www.youtube.com/watch?v=GN2Xo9WhZ00",
+   "published": "2026-11-27T08:26:40+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 젠슨 황을 CEO로 재선임하면서 기술주가 급등했다고 전했다.",
+    "그러나 최근의 변동성이 AI 투자에 새로운 국면을 의미하는지 우려가 이어진다고 보도했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "a5702a7c36cc6e6b",
    "kind": "news",
@@ -68355,76 +68373,6 @@
     "페이스북과 구글 관련 내용을 다룬 게시물이다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "8a7deeaefceb5c3f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Joby Aviation Just Hit a New 52-Week Low, Down 13% in a Month. Is the Selling Overdone?",
-   "excerpt": "Key TakeawaysJoby Aviation stock is down 13% in the past month and hit a new 52-week low this week, falling with Archer Aviation and Beta Technologies. Joby’s own news was good: third-quarter revenue beat estimates, and it raised its 2026 revenue outlook 15% to $135 million-$140 million.",
-   "url": "https://www.tikr.com/blog/joby-aviation-just-hit-a-new-52-week-low-down-13-in-a-month-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261120-phqx38rm&.tsrc=rss",
-   "published": "2026-11-20T08:29:23+00:00",
-   "tickers": [
-    "JOBY"
-   ],
-   "summary_ko": [
-    "조비 에비에이션은 주가가 52주 신저가를 기록하며 하락했으나, 3분기 매출 호조와 함께 2026년 매출 전망치를 상향 조정했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7bf4e5e5b652f807",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Salesforce Lost 16% in a Week as AI Fears Hit Software. Piper Sandler Sees 53% Upside",
-   "excerpt": "Key TakeawaysSalesforce stock fell 16% in a week as investors sold software ahead of Anthropic’s IPO, and ServiceNow fell less. Salesforce will probably sell its Anthropic stake to pay down the debt from its $25 billion buyback.",
-   "url": "https://www.tikr.com/blog/salesforce-lost-16-in-a-week-as-ai-fears-hit-software-piper-sandler-sees-53-upside?ref=yahoofinance&tlnk=yf-261120-4x47cwqr&.tsrc=rss",
-   "published": "2026-11-20T08:27:53+00:00",
-   "tickers": [
-    "CRM"
-   ],
-   "summary_ko": [
-    "AI 우려로 소프트웨어 주식이 매도세를 보이며 세일즈포스가 일주일간 하락했다고 다뤘다.",
-    "파이퍼 샌들러는 53%의 상승 여력이 있다고 전망했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e0a97ef78fcd897f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto Networks Soars 12% in a Week as the Nasdaq Sinks: “An Unprecedented Threat Environment”",
-   "excerpt": "Key TakeawaysPalo Alto Networks is up 12% in a week the Nasdaq 100 fell, on a cyber-stock rally and then a quarter that beat every line of its guidance. The demand looks real, and Palo Alto raised its fiscal 2027 revenue and adjusted EPS guidance.",
-   "url": "https://www.tikr.com/blog/palo-alto-networks-soars-12-in-a-week-as-the-nasdaq-sinks-an-unprecedented-threat-environment?ref=yahoofinance&tlnk=yf-261120-h7wxcprj&.tsrc=rss",
-   "published": "2026-11-20T08:25:41+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "나스닥이 하락한 한 주 동안 팔로알토 네트워크스는 가이던스를 상회하는 실적에 힘입어 상승했다고 다뤘다.",
-    "회사는 2027 회계연도 매출과 조정 주당순이익 가이던스를 상향 조정했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "d0f44b93caf3d37f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Disney’s sports profit jumped 53% as it bets on live games. It also wants $3 billion in cost cuts",
-   "excerpt": "ESPN’s first Super Bowl and a 24-team playoff anchor Disney’s sports push. A $3 billion savings plan, including more layoffs, will help pay for what comes next.",
-   "url": "https://finance.yahoo.com/media-advertising/articles/disney-sports-profit-jumped-53-080600552.html?.tsrc=rss",
-   "published": "2026-11-20T08:06:00+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "summary_ko": [
-    "디즈니의 스포츠 이익이 증가했으며 30억 달러의 비용 절감을 계획하고 있다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
