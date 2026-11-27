@@ -1,6 +1,228 @@
 {
- "updated": "2026-11-27T19:00:40.170787+00:00",
+ "updated": "2026-11-27T19:30:32.050070+00:00",
  "posts": [
+  {
+   "id": "5e0ab35a0a5db8e6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Micron Stocks Climb 4.29% as Chip Rebound Meets Tight 2027 Memory Supply",
+   "excerpt": "Shares bounce with the sector, backed by 26 take-or-pay deals carrying $32 billion in customer cash and commitments.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-climb-4-29-192447627.html?.tsrc=rss",
+   "published": "2026-11-27T19:24:47+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "메모리 공급 부족과 계약에 힘입어 주가가 상승했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2c46c806f57bbdfe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alibaba Stocks Climb 4.38% as Beijing Calls on State Funds to Steady Markets",
+   "excerpt": "A State Council push on Central Huijin, dividends and buybacks lifted China tech, with Alibaba's chip plans adding fuel.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-stocks-climb-4-38-192409354.html?.tsrc=rss",
+   "published": "2026-11-27T19:24:09+00:00",
+   "tickers": [
+    "BABA"
+   ],
+   "summary_ko": [
+    "중국 정부의 시장 안정화 조치로 기술주가 상승했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "64393b91ebe4da7c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Palantir Stocks Climb 3.72% on $300 Million Poland Defense AI Deal",
+   "excerpt": "Poland's defense minister confirmed a five-year software contract covering the country's defense and security infrastructure.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stocks-climb-3-72-192323429.html?.tsrc=rss",
+   "published": "2026-11-27T19:23:23+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "폴란드와의 방산 계약 소식에 주가가 올랐다고 보도했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "de17ca213eed6a4d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Intel Stocks Climb 2.86% as Court Filings Detail Washington's 10% Stake Push",
+   "excerpt": "Documents in a Delaware shareholder suit show Commerce told Intel its equity deal was not a negotiation; a hearing is set for December 10.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-climb-2-86-192124489.html?.tsrc=rss",
+   "published": "2026-11-27T19:21:24+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "summary_ko": [
+    "법원 서류에서 정부의 지분 참여 추진 내용이 드러났다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a8365ed5cedd57d6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years",
+   "excerpt": "The Dow Jones index and the Nasdaq composite rose in Friday's post-Thanksgiving session. Anthropic, SpaceX and Tesla gain.",
+   "url": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-indexes.html?.tsrc=rss",
+   "published": "2026-11-27T19:19:22+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "추수감사절 주간에 지수들이 강세를 보였다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "0eb6bbd34da2b56b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon’s AWS Profit Rose 55%. Can It Absorb a $220 Billion Capex Bill?",
+   "excerpt": "We recently published 10 Stocks That Should Double in 3 Years, where Amazon.com, Inc. (NASDAQ:AMZN) took the 10th spot. A stock can nearly double in three years without tapping into huge market hype. If investors are still willing to pay a similar price for each dollar of profit at the end, the business can deliver […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-aws-profit-rose-55-191859418.html?.tsrc=rss",
+   "published": "2026-11-27T19:18:59+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "AWS의 이익 증가와 막대한 투자 비용 간의 관계를 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5f21d5ae4360bd1b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet Stocks Move Lower as Record Credit Spreads Shadow AI Spending",
+   "excerpt": "Shares lag a tech rebound near a 52-week low, after $51.4 billion of quarterly capex pushed free cash flow negative.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-move-lower-record-191839414.html?.tsrc=rss",
+   "published": "2026-11-27T19:18:39+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "AI 지출 여파로 잉여현금흐름이 마이너스를 기록하며 하락했다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "0409f868acfd13e6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Shopify Generated $816 Million in Free Cash Flow. Can Commerce Growth Carry Its Valuation?",
+   "excerpt": "10 Stocks That Should Double in 3 Years is now live, with Shopify Inc. (NASDAQ:SHOP) in sixth place. The strongest compounding companies usually have more than one engine. For example, a drugmaker can reach a much larger patient population while new manufacturing capacity relieves supply constraints, a commerce platform can add merchants, process more transactions […]",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/shopify-generated-816-million-free-191830451.html?.tsrc=rss",
+   "published": "2026-11-27T19:18:30+00:00",
+   "tickers": [
+    "SHOP"
+   ],
+   "summary_ko": [
+    "현금 흐름 창출 능력이 밸류에이션을 감당할 수 있는지 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "87f15805164e0c30",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AMD Stocks Rise Despite Erste Group Downgrade on Valuation",
+   "excerpt": "Erste cut the chipmaker to Hold from Buy, citing a P/E near 87 times, as an early 4% gain faded through the morning.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-rise-despite-erste-191808508.html?.tsrc=rss",
+   "published": "2026-11-27T19:18:08+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "밸류에이션 우려로 투자의견이 하향 조정되었음에도 상승했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "344da15fe2cfd601",
+   "kind": "youtube",
+   "source": "The Compound",
+   "author": "The Compound",
+   "title": "Don’t Let Your Biggest Winner Become Your Biggest Regret",
+   "excerpt": "On episode 250 of Ask The Compound, Ben Carlson and Duncan Hill discuss what to do with a concentrated Nvidia position, the best financial books and podcasts for NFL players, and whether trend-following strategies can make leveraged ETFs less risky. Plus, balancing active trading with long-term index investing, the importance of consistent investing, and the best advice for young investors just getting started. Compound Merch: Submit your Ask The Compound questions to askthecompoundshow@gmail.com! FOLLOW US ON SOCIAL MEDIA instagram: Twitter: TikTok: Linkedin: Sign up for The Compound newsletter: Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: Talking Wealth: Talk with us about your portfolio or financial plan here: Investing involves the risk of loss. This podcast is for i",
+   "url": "https://www.youtube.com/watch?v=9PBW1FQMTB0",
+   "published": "2026-11-27T19:10:20+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "팟캐스트에서 엔비디아 집중 투자 비중을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "567e57c3ab27d41f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon Stocks Climb 2.96% as Thanksgiving Online Spending Hits $7.1 Billion",
+   "excerpt": "Adobe data shows U.S. shoppers beat forecasts on Thanksgiving Day, setting up a projected $12.9 billion Black Friday online.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stocks-climb-2-96-190908869.html?.tsrc=rss",
+   "published": "2026-11-27T19:09:08+00:00",
+   "tickers": [
+    "AMZN",
+    "ADBE"
+   ],
+   "summary_ko": [
+    "추수감사절 온라인 쇼핑 실적이 호조를 보이며 주가가 올랐다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f1a130557b63e95e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jeff Bezos makes a $200 million move involving Amazon stock",
+   "excerpt": "The SEC filing shows this was no ordinary transaction.",
+   "url": "https://www.thestreet.com/investing/jeff-bezos-amazon-stock-charitable-donation?.tsrc=rss",
+   "published": "2026-11-27T19:03:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "제프 베이조스의 대규모 주식 거래가 공시되었다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "a7c9d42873250f50",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dell Stocks Jump 5.28% as $132.3 Billion AI Backlog Keeps Buyers Coming",
+   "excerpt": "Revenue doubled to $54.9 billion last quarter, and Dell lifted its fiscal 2027 outlook to $202 billion alongside a new $25 billion buyback.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stocks-jump-5-28-190215807.html?.tsrc=rss",
+   "published": "2026-11-27T19:02:15+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "AI 수주 잔고 증가와 실적 전망 상향에 힘입어 주가가 급등했다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "01cb1d5eea88bd20",
    "kind": "youtube",
@@ -4035,6 +4257,23 @@
     "크라우드스트라이크가 최근 주목받는 종목 중 하나라고 전했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "01f9ab955abbbb3a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Analysts Raise Palantir's Revenue, FCF and Stock Price Targets - Is PLTR Too Cheap?",
+   "excerpt": "Analysts have raised their 2027 Palantir Technologies revenue forecasts, implying higher adjusted free cash flow (FCF). Price targets are also higher, despite PLTR's dip. As a result, is PLTR too cheap here?",
+   "url": "https://www.barchart.com/story/news/9031846/analysts-raise-palantir-technologies-revenue-fcf-and-stock-price-targets-is-pltr-too-cheap?.tsrc=rss",
+   "published": "2026-11-27T13:00:04+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "애널리스트들이 매출과 잉여현금흐름 전망치를 상향했다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "091eea795e8342c5",
@@ -65966,162 +66205,6 @@
     "월마트와 타겟의 실적이 소비자의 가치 지향적 성향을 보여준다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "3d40cfefbe29d31c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Are Investors Ignoring Qualcomm Stock's High Cash Yield?",
-   "excerpt": "Today’s big story: Will 2027 Be A 2022 Repeat For Stocks.",
-   "url": "https://www.trefis.com/stock/qcom/articles/627180/why-are-investors-ignoring-qualcomm-stocks-high-cash-yield/2026-11-20?.tsrc=rss",
-   "published": "2026-11-20T19:22:44+00:00",
-   "tickers": [
-    "QCOM"
-   ],
-   "summary_ko": [
-    "퀄컴 주식의 높은 현금 수익률을 투자자들이 무시하는 이유를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "32482b2015690afc",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Nvidia's legal woes are adding up: What you should know",
-   "excerpt": "CNBC's Seema Mody joins 'The Exchange' to discuss Nivida's legal woes and how Wall Street is responding.",
-   "url": "https://www.youtube.com/watch?v=djyc-rPqBV4",
-   "published": "2026-11-20T19:18:01+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 법적 문제와 월스트리트의 반응을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "6988bc6c6eba2db9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Broadcom Stock Plunges 12% and Loses $191 Billion After a Report That Google Cut Its Plans for Broadcom AI Chips",
-   "excerpt": "Broadcom fell 12% Friday afternoon after analyst Ming-Chi Kuo said Google cut about 1 million Broadcom-designed AI chips from its 2027 plans. The stock is headed for its worst day since June and sits 36% below its record. Earnings are Dec. 9.",
-   "url": "https://247wallst.com/investing/2026/11/20/broadcom-stock-plunges-12-and-loses-191-billion-after-a-report-that-google-cut-its-plans-for-broadcom-ai-chips/?.tsrc=rss",
-   "published": "2026-11-20T19:13:04+00:00",
-   "tickers": [
-    "GOOGL",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "구글의 AI 칩 계획 축소 보도로 브로드컴 주가가 급락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "16cd011f3936fea8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Exclusive Research: JPMorgan’s AI strategy puts governance to the test",
-   "excerpt": "American Banker research shows banks with stronger AI governance are better at quantifying financial impact and scaling adoption.",
-   "url": "https://www.americanbanker.com/news/exclusive-research-jpmorgan-s-ai-strategy-puts-governance-to-the-test?.tsrc=rss",
-   "published": "2026-11-20T19:11:47+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "JP모간의 AI 전략과 거버넌스에 관한 연구 결과를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9a81030054c12353",
-   "kind": "youtube",
-   "source": "Andrei Jikh",
-   "author": "Andrei Jikh",
-   "title": "Why America Is Breaking",
-   "excerpt": "Emails, airplanes, banks, phones and the NSA all went down in the same week. Officials say it wasn't a cyberattack, so what was it? Microsoft went dark in more than 70 countries, every plane in the US was grounded, and online banking froze, followed by United, Apple and Charles Schwab. Everything came back online, but this week showed exactly where the cracks are and how people react when the systems they rely on stop working. That reaction might matter more than the outages themselves. Find the full story in my video: Why America Is Breaking",
-   "url": "https://www.youtube.com/watch?v=aRmpqGQ2t8c",
-   "published": "2026-11-20T19:11:15+00:00",
-   "tickers": [
-    "AAPL",
-    "MSFT"
-   ],
-   "summary_ko": [
-    "미국 전역에서 발생한 주요 시스템 마비 사태를 다뤘다.",
-    "마이크로소프트와 애플 등이 영향을 받았다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "58d15dcb9f8d1e65",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Stock Market Today: Nasdaq Turns Negative For 2026 As Fear Gauge Spikes; Walmart Advances (Live Coverage)",
-   "excerpt": "The Nasdaq composite tumbles Friday after Thursday's market sell-off. Anthropic stock plunges after its IPO.",
-   "url": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-   "published": "2026-11-20T19:10:42+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "나스닥이 하락세로 돌아섰고 앤트로픽 주가가 급락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ae8f57f43f360c11",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Nvidia's $81 Billion Receivables Pile A Risk?",
-   "excerpt": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
-   "url": "https://www.trefis.com/stock/nvda/articles/627205/is-nvidia-s-81-billion-receivables-pile-a-risk/2026-11-20?.tsrc=rss",
-   "published": "2026-11-20T19:06:16+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 810억 달러 규모 미수금이 리스크인지 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "69e6ee211b94b0dc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Labour’s ‘unfair’ bank tax will have consequences, warns JP Morgan boss",
-   "excerpt": "The boss of JP Morgan has warned that John Healey’s bank tax raid will have consequences for Britain, as he vowed to set an “example” by finding ways to claw back the levy.",
-   "url": "https://uk.finance.yahoo.com/news/labour-unfair-bank-tax-consequences-190058863.html?.tsrc=rss",
-   "published": "2026-11-20T19:00:58+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "JP모간 최고경영자는 영국의 불공정한 은행세가 결과를 낳을 것이라고 경고했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "920413f0a79d193a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Labour’s ‘unfair’ bank tax will have consequences, warns JP Morgan boss",
-   "excerpt": "The boss of JP Morgan has warned that John Healey’s bank tax raid will have consequences for Britain, as he vowed to set an “example” by finding ways to claw back the levy.",
-   "url": "https://www.telegraph.co.uk/business/2026/11/20/labour-unfair-bank-tax-consequences-jp-morgan/?.tsrc=rss",
-   "published": "2026-11-20T19:00:58+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "JP모간 최고경영자가 영국의 은행세 부과에 대해 경고했다고 전했다."
-   ],
-   "tone": "neg"
   }
  ]
 }
