@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-27T09:30:34.150451+00:00",
+ "updated": "2026-11-27T10:00:37.692819+00:00",
  "posts": [
+  {
+   "id": "b58c3045b54d8c19",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Chinese Cloud Order Cuts At Micron Stock Has Changed Its Investment Story",
+   "excerpt": "Micron Technology is contending with weaker AI related memory visibility after TrendForce reported order cuts from Chinese cloud providers, alongside industry forecasts that point to softer NAND pricing and a potential oversupply later in the decade. The squeeze comes at the operating level, where concerns about future demand for DRAM and NAND collide with Micron’s capital spending plans and its recent profitability. This raises fresh questions about how resilient its AI driven memory cycle...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/chinese-cloud-order-cuts-micron-090948480.html?.tsrc=rss",
+   "published": "2026-11-27T09:09:48+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "summary_ko": [
+    "중국 클라우드 업체의 주문 축소와 AI 메모리 가시성 약화로 마이크론의 투자 스토리가 변화했다고 다뤘다.",
+    "NAND 가격 약세 전망과 공급 과잉 우려 속에서 마이크론의 영업 마진과 자본 지출 계획에 의문이 제기되었다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "eeb80726a3d6deda",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Microsoft (MSFT) Fully Valued Following Its Atos Sovereign Cloud Deal?",
+   "excerpt": "Microsoft (MSFT) is back in focus after extending its collaboration with Atos to build sovereign cloud and AI environments for European public sector and regulated clients, raising fresh questions about how this partnership fits into the recent pullback in the stock. The recent pullback has left Microsoft’s 30‑day share price return down 7.74% and its 90‑day share price return down 4.60%, even though the year to date share price return is 3.59% and the 5‑year total shareholder return is...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-fully-valued-following-090939545.html?.tsrc=rss",
+   "published": "2026-11-27T09:09:39+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트가 아토스와 협력해 유럽 공공 부문용 소버린 클라우드와 AI 환경을 구축한다고 전했다.",
+    "최근 주가 하락세 속에서 이번 파트너십의 의미와 주가 변동 상황을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "eb8ff8bd02855c57",
    "kind": "news",
@@ -124,6 +160,23 @@
     "AI 랠리가 엔비디아 규제와 트럼프 관세 등 새로운 시험대에 직면했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "c1418478a22f7bc9",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Former SEC Chair Gensler: Nvidia Has “a Disclosure Vulnerability.” The White House’s Huang Assurances May Have to Be Filed",
+   "excerpt": "Key TakeawaysFormer SEC Chair Gary Gensler says NVIDIA has “a disclosure vulnerability” and that Washington’s assurances on Huang belong in a filing. Those assurances cover Huang, not the SEC’s reported probe of NVIDIA’s own disclosures.",
+   "url": "https://www.tikr.com/blog/former-sec-chair-gensler-nvidia-has-a-disclosure-vulnerability-the-white-houses-huang-assurances-may-have-to-be-filed?ref=yahoofinance&tlnk=yf-261127-h7247f3q&.tsrc=rss",
+   "published": "2026-11-27T06:54:18+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "개리 겐슬러 전 SEC 위원장이 엔비디아에 공시 취약점이 있다고 주장한 내용을 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "4c7b74c776604f27",
@@ -462,6 +515,23 @@
     "양자 컴퓨팅 기업들이 상업적 문제 해결을 위한 시스템 개발에 집중하고 있다고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "db700ede5b6dac37",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Cold Water for Grok: Musk Says SpaceX Is “Not Yet Even on the Podium” in AI",
+   "excerpt": "Key TakeawaysElon Musk wrote on Nov. 26 that SpaceX is “not yet even on the podium” in AI, days after praising Google’s Gemini 4 Neon.",
+   "url": "https://www.tikr.com/blog/cold-water-for-grok-musk-says-spacex-is-not-yet-even-on-the-podium-in-ai?ref=yahoofinance&tlnk=yf-261127-vwccc637&.tsrc=rss",
+   "published": "2026-11-27T03:22:03+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "일론 머스크가 스페이스X가 AI 분야에서 아직 순위에 들지 못했다고 언급한 내용을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "18337980cd14ee93",
@@ -67971,283 +68041,6 @@
     "머스크가 스페이스X와 테슬라의 합병을 원하고 있으나 투표 수학이 까다롭다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "ab3bfc721ab9f976",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Microsoft CEO explains why the company asked 60K workers to quit. How to know when to accept a buyout or turn it down",
-   "excerpt": "Three weeks after Microsoft offered voluntary buyout packages to 60,000 employees, Satya Nadella explained why the company chose this route over layoffs.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-explains-why-company-100000431.html?.tsrc=rss",
-   "published": "2026-11-20T10:00:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마이크로소프트 CEO가 6만 명의 직원에게 희망퇴직을 요구한 이유를 설명했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f483158a3c851437",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "To build loyalty and awareness, some brands are turning to delight",
-   "excerpt": "EV maker Rivian sought to drive brand awareness with its splashy software-enabled Halloween experience.",
-   "url": "https://www.marketingbrew.com/stories/rivian-slack-matic-delightful-software?utm_source=&utm_medium=syndication&utm_campaign=feed&.tsrc=rss",
-   "published": "2026-11-20T10:00:00+00:00",
-   "tickers": [
-    "RIVN"
-   ],
-   "summary_ko": [
-    "전기차 제조사 리비안이 할로윈 체험을 통해 브랜드 인지도를 높이려 했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c52d8192afcb8fd8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nike Promised Free Sneakers to Every Valedictorian in America: We Did the Math on the Bill",
-   "excerpt": "Nike just promised custom Air Force 1s to valedictorians nationwide, but it has not said who qualifies, how many pairs it will make, or what it will spend. We built our own estimate, and one wrinkle could push it higher.",
-   "url": "https://247wallst.com/investing/2026/11/20/nike-promised-free-sneakers-to-every-valedictorian-in-america-we-did-the-math-on-the-bill/?.tsrc=rss",
-   "published": "2026-11-20T09:53:07+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "나이키가 전국의 우등 졸업생들에게 맞춤형 운동화를 약속했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "37aa96b3125e7d66",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "TSMC Is 28% Below Its High. Another Director Just Bought $500,000 of Stock as Demand Stays “Extremely Robust”",
-   "excerpt": "Key TakeawaysTSMC director Ursula Burns bought 1,375 American depositary shares (ADSs) for $500,039 on Nov. 17.",
-   "url": "https://www.tikr.com/blog/tsmc-is-28-below-its-high-another-director-just-bought-500000-of-stock-as-demand-stays-extremely-robust?ref=yahoofinance&tlnk=yf-261120-c583cp2q&.tsrc=rss",
-   "published": "2026-11-20T09:50:51+00:00",
-   "tickers": [
-    "TSM"
-   ],
-   "summary_ko": [
-    "TSMC의 수요가 매우 탄탄한 가운데, 한 이사가 주식을 매입했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "225349985ff345a6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Amazon vs. Alphabet: Which Cloud Computing Stock Is the Better Buy?",
-   "excerpt": "Both stocks are critical players in the artificial intelligence trade.",
-   "url": "https://www.fool.com/investing/2026/11/20/amazon-vs-alphabet-which-cloud-computing-stock-is-the-better-buy/?.tsrc=rss",
-   "published": "2026-11-20T09:50:02+00:00",
-   "tickers": [
-    "GOOGL",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "아마존과 알파벳이 인공지능 관련 거래에서 핵심적인 역할을 하고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "580b9ead9bd23b7b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nike Sees Sales Falling Through Fiscal 2028. That’s Bad News for Dick’s Sporting Goods",
-   "excerpt": "Key TakeawaysNike shares fell 6. 3% on Nov.",
-   "url": "https://www.tikr.com/blog/nike-sees-sales-falling-through-fiscal-2028-thats-bad-news-for-dicks-sporting-goods?ref=yahoofinance&tlnk=yf-261120-qph6j782&.tsrc=rss",
-   "published": "2026-11-20T09:48:35+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "나이키가 2028 회계연도까지 매출이 감소할 것으로 예상했다고 전했다.",
-    "이는 딕스 스포팅 굿즈에도 악재가 될 수 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "fe1b6610b55b8e70",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Forget UnitedHealth: Humana Has More to Lose From CMS’s Medicare Advantage Audit Crackdown",
-   "excerpt": "Key TakeawaysUnitedHealth fell 5% on Tuesday after CMS proposed applying Medicare Advantage audit findings to whole contracts, going back to payment year 2018. Humana and CVS Health fell with it, and Humana dropped another 13% on Wednesday.",
-   "url": "https://www.tikr.com/blog/forget-unitedhealth-humana-has-more-to-lose-from-cmss-medicare-advantage-audit-crackdown?ref=yahoofinance&tlnk=yf-261120-vwvwp829&.tsrc=rss",
-   "published": "2026-11-20T09:45:57+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "summary_ko": [
-    "메디케어 어드밴티지 감사 규제 강화로 인해 휴마나 등이 타격을 입었다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "9351d500c0be5a26",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Snowflake Has Cooled Off This Fall: Why Oppenheimer Sees 77% Upside",
-   "excerpt": "Key TakeawaysOppenheimer kept its $475 price target on Snowflake on Nov. 18.",
-   "url": "https://www.tikr.com/blog/snowflake-has-cooled-off-this-fall-why-oppenheimer-sees-77-upside?ref=yahoofinance&tlnk=yf-261120-c473ggxm&.tsrc=rss",
-   "published": "2026-11-20T09:39:45+00:00",
-   "tickers": [
-    "SNOW"
-   ],
-   "summary_ko": [
-    "오펜하이머가 스노우플레이크에 대한 가격 목표치를 유지했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "da928329d8a30861",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Coinbase Plans to Launch Its Own US Prediction Market Contracts in Early 2027",
-   "excerpt": "Coinbase plans to launch its own US prediction market contracts for retail and institutional traders in the first half of 2027. Issuing its own contracts…",
-   "url": "https://www.ccn.com/news/crypto/coinbase-us-prediction-market-contracts-2027/?.tsrc=rss",
-   "published": "2026-11-20T09:39:00+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "코인베이스가 2027년 초에 자체 미국 예측 시장 계약을 출시할 계획이라고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "174f02c7fc2f310a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Could Alibaba Actually Climb 112%? Or Is Goldman Sachs Totally Wrong?",
-   "excerpt": "Key TakeawaysGoldman Sachs kept its Buy rating and $177 target on Alibaba after the Nov. 19 report, 112% above that day’s close and after a 53% fall from January’s high.",
-   "url": "https://www.tikr.com/blog/could-alibaba-actually-climb-112-or-is-goldman-sachs-totally-wrong?ref=yahoofinance&tlnk=yf-261120-mh79x6w7&.tsrc=rss",
-   "published": "2026-11-20T09:35:23+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "골드만삭스가 알리바바에 대해 매수 등급과 목표가를 유지했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c3e1effc06d7fc87",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Boeing Is Down 37% From Its High, and Its Jet Unit Is in an “Overstaffed Position.” Is the Selling Overdone?",
-   "excerpt": "Key TakeawaysBoeing just hit a fresh 52-week low, 37% below its January high, because its 737 production ramp keeps slipping and its cash targets keep moving to later years. A 5% cut to its jet workforce and lower October deliveries show the slower ramp is real, and it also matters for engine maker GE Aerospace and for Southwest Airlines, which flies only 737s.",
-   "url": "https://www.tikr.com/blog/boeing-is-down-37-from-its-high-and-its-jet-unit-is-in-an-overstaffed-position-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261120-rmg594r6&.tsrc=rss",
-   "published": "2026-11-20T09:35:21+00:00",
-   "tickers": [
-    "BA"
-   ],
-   "summary_ko": [
-    "보잉이 생산 차질과 인력 과다 문제 등으로 52주 신저가를 기록했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "f3b7ec0b6604028f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Here's How Many Shares of SCHD You'd Need to Generate $1,000 in Monthly Passive Income",
-   "excerpt": "The Schwab U.S. Dividend Equity ETF (SCHD) is one of the best funds available for high passive dividend income.",
-   "url": "https://www.fool.com/investing/2026/11/20/how-many-shares-schd-need-generate-1000-income/?.tsrc=rss",
-   "published": "2026-11-20T09:35:00+00:00",
-   "tickers": [
-    "SCHD"
-   ],
-   "summary_ko": [
-    "SCHD가 높은 배당 소득을 얻기에 좋은 펀드 중 하나라고 소개했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "82c0336f0b2a9c55",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Added $111 Billion of Supply Commitments in a Quarter, Mostly Memory. Micron Is Still Priced Like a Bust",
-   "excerpt": "Key TakeawaysNVIDIA’s supply commitments rose to $390 billion from $279 billion in one quarter, mostly for multi-year memory purchases. Micron trades at 4.",
-   "url": "https://www.tikr.com/blog/nvidia-added-111-billion-of-supply-commitments-in-a-quarter-mostly-memory-micron-is-still-priced-like-a-bust?ref=yahoofinance&tlnk=yf-261120-v94hx7gc&.tsrc=rss",
-   "published": "2026-11-20T09:34:18+00:00",
-   "tickers": [
-    "NVDA",
-    "MU"
-   ],
-   "summary_ko": [
-    "엔비디아의 공급 약정 규모가 한 분기 만에 크게 증가했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "dd113447f5004f2e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nike Sinks 6.3% as Its CFO Admits Results Don’t “Reflect the Full Potential” of Its Brands",
-   "excerpt": "Key TakeawaysNike shares fell 6. 3% after its first investor day in nine years, which targeted adjusted EPS of $3.",
-   "url": "https://www.tikr.com/blog/nike-sinks-6-3-as-its-cfo-admits-results-dont-reflect-the-full-potential-of-its-brands?ref=yahoofinance&tlnk=yf-261120-2q9q9wfp&.tsrc=rss",
-   "published": "2026-11-20T09:32:17+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "나이키 주가가 6.3% 하락했다고 전했다.",
-    "CFO가 현재 실적이 브랜드의 잠재력을 온전히 반영하지 못한다고 인정했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "2de151744c976225",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "US Chip Curbs Ignite Fresh AI Jitters: Market Snapshot",
-   "excerpt": "Investors sought to navigate a choppy week for equities, starting with a fresh bout of volatility for the AI trade when the US introduced new restrictions on China's access to high-end AI chips following a spying controversy dogging Nvidia. The fresh curbs presented President Xi Jinping and President Donald Trump with a dilemma, threatening a fragile trade truce as the two met at the APEC leaders' summit in Shenzhen. As investors grappled with the reality that Nvidia sits at center of the AI ecosystem, questions are emerging about how a shift in leadership at the company and global AI policy could cause a shake-up in the stability of global semiconductor supply chains. The Opening Trade spoke to market experts and leading geopolitical voices throughout the week.",
-   "url": "https://finance.yahoo.com/video/us-chip-curbs-ignite-fresh-093202928.html?.tsrc=rss",
-   "published": "2026-11-20T09:32:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미국의 대중국 고성능 AI 반도체 규제로 인해 AI 투자 관련 변동성이 커졌다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "e4538a5393a23439",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "US Chip Curbs Ignite Fresh AI Jitters: Market Snapshot",
-   "excerpt": "Investors sought to navigate a choppy week for equities, starting with a fresh bout of volatility for the AI trade when the US introduced new restrictions on China's access to high-end AI chips following a spying controversy dogging Nvidia. The fresh curbs presented President Xi Jinping and President Donald Trump with a dilemma, threatening a fragile trade truce as the two met at the APEC leaders' summit in Shenzhen. As investors grappled with the reality that Nvidia sits at center of the AI ecosystem, questions are emerging about how a shift in leadership at the company and global AI policy could cause a shake-up in the stability of global semiconductor supply chains. The Opening Trade spoke to market experts and leading geopolitical voices throughout the week. -------- More on Bloomberg ",
-   "url": "https://www.youtube.com/watch?v=9PdzpdcCP2o",
-   "published": "2026-11-20T09:31:08+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "미국의 대중국 AI 칩 규제 도입으로 시장에 변동성이 커졌다고 보도했다.",
-    "엔비디아가 AI 생태계의 중심에 있어 글로벌 공급망에 미칠 영향이 주목된다고 다뤘다."
-   ],
-   "tone": "neg"
   }
  ]
 }
