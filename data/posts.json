@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-27T05:00:39.197148+00:00",
+ "updated": "2026-11-27T05:30:34.899121+00:00",
  "posts": [
+  {
+   "id": "4ea24f01c5869f11",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
+   "excerpt": "Nvidia reinstated founder Jensen Huang as CEO and president in late November while multiple US investigations into export controls, governance and disclosure practices continue. Kioxia also announced a collaboration with Nvidia to use SCADA software and high performance SSDs to extend effective GPU memory capacity to roughly 1.1 PB at rack scale. The Kioxia partnership around Nvidia’s Storage Next initiative highlights how the business is trying to tackle AI data bottlenecks at the system...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-nvidia-051409281.html?.tsrc=rss",
+   "published": "2026-11-27T05:14:09+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아는 11월 말 젠슨 황을 CEO 겸 사장으로 재선임했다고 밝혔다.",
+    "키옥시아와의 협력을 통해 AI 데이터 병목 현상을 해결하고자 한다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e44587d4dc43c657",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should AI Pricing Change Require Action From Salesforce Stock Investors?",
+   "excerpt": "Salesforce has changed pricing for its AI Help Agent, moving from per seat licenses to charging customers for each successful AI answer delivered. This shift puts more of Salesforce’s revenue opportunity on actual AI usage, tying cash generation directly to how often enterprises lean on automation. The focus now turns to how Salesforce’s usage based AI pricing could affect the broader investment narrative and its long term cash engine. Spot opportunities beyond Salesforce by scanning hand...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ai-pricing-change-require-action-051123357.html?.tsrc=rss",
+   "published": "2026-11-27T05:11:23+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "세일즈포스는 AI 헬프 에이전트의 가격 정책을 좌석 기준에서 성공적인 답변 건당 과금으로 변경했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "aef12e25d412ed0f",
    "kind": "news",
@@ -50,6 +85,23 @@
    ],
    "summary_ko": [
     "싱가포르는 엔비디아의 첨단 칩 공급 중단 여부를 아직 확인하지 못했다고 부총리가 밝혔다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d65e70006ef4c9c2",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Neoclouds Told To Choose: Nvidia Chips Or Chinese Customers",
+   "excerpt": "Nvidia Corp. (NASDAQ:NVDA) chip sellers are reportedly barring neoclouds from buying GPUs if Chinese firms rent any capacity, after a Commerce Department rule restricting remote access to AI chips took effect Nov. 19. Commerce Rule Targets Remote Access Loophole Chip sellers relayed the message to neoclouds after the rule was announced Nov. 16, CNBC reported on Thursday, citing sources. Neoclouds are specialized cloud providers that rent out computing power built on graphics processing units (GP",
+   "url": "https://finance.yahoo.com/technology/articles/neoclouds-told-choose-nvidia-chips-041120920.html?.tsrc=rss",
+   "published": "2026-11-27T04:11:20+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 칩 판매사가 중국 기업이 용량을 임대할 경우 네오클라우드의 GPU 구매를 제한하고 있다고 전했다."
    ],
    "tone": "neu"
   },
@@ -68462,78 +68514,6 @@
     "엔비디아가 중국 관련 리스크로 캘리포니아 조사를 받는다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "edb362a48c5e755c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Does Mastercard (MA) Joining The AI Transparency Initiative Mean For Investors?",
-   "excerpt": "Mastercard (NYSE: MA) has joined Microsoft and more than 40 organizations in a new AI Transparency Initiative. The group plans to create shared standards for transparency, security, and governance of AI systems across multiple industries. The initiative aims to shape how large enterprises validate, monitor, and document AI models used in critical business processes. This move by Mastercard to co launch the AI Transparency Initiative with Microsoft is important to weigh against the rest of...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/does-mastercard-ma-joining-ai-052240359.html?.tsrc=rss",
-   "published": "2026-11-20T05:22:40+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "마스터카드가 AI 투명성 이니셔티브에 합류했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0dfb6cc6486dd2fb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cathie Wood’s ARK Invest Loads Up $90M In Anthropic Shares, Dumps Nvidia As China Chip Sale Woes Deepen",
-   "excerpt": "Cathie Wood’s ARK made a 935,000-share bet on Anthropic across six ETFs on its record-setting Nasdaq debut day",
-   "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-s-ark-invest-loads-up-anthropic-shares-dumps-nvidia-as-china-chip-sale-woes-deepen/cNbS5zBR9KI?.tsrc=rss",
-   "published": "2026-11-20T05:22:06+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "캐시 우드의 ARK 인베스트가 앤트로픽 주식을 대거 매수하고 엔비디아 주식을 처분했다고 다뤘다.",
-    "중국향 칩 판매 우려가 심화되는 가운데 이 같은 거래가 이루어졌다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "f8ffa7136493e565",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "CrowdStrike (CRWD) Brings Apple Device Automation Into Falcon Foundry Through A New Tie Up",
-   "excerpt": "CrowdStrike Holdings (NasdaqGS:CRWD) and Jamf announced a new integration that links Jamf device management with the Falcon Foundry platform. The partnership brings Jamf workflows for Apple device configuration, compliance checks, and remediation into CrowdStrike security automation pipelines. Enterprises using Mac, iPhone, and iPad fleets can now coordinate security and management actions directly through Falcon Foundry playbooks. This new Jamf and CrowdStrike Falcon Foundry integration is...",
-   "url": "https://finance.yahoo.com/technology/articles/crowdstrike-crwd-brings-apple-device-051725940.html?.tsrc=rss",
-   "published": "2026-11-20T05:17:25+00:00",
-   "tickers": [
-    "AAPL",
-    "CRWD"
-   ],
-   "summary_ko": [
-    "크라우드스트라이크가 잼프와 협력해 애플 기기 자동화를 도입했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "fda62c001628ef9d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Intel’s Chipmaking Biz Ramps Up with New Mystery Client",
-   "excerpt": "Nabbing a major client would be a boon for the legacy US tech firm, as it takes on Taiwan-based TSMC’s near-monopoly on advanced chipmaking.",
-   "url": "https://www.thedailyupside.com/technology/semiconductors/intels-chipmaking-biz-ramps-up-with-new-mystery-client/?.tsrc=rss",
-   "published": "2026-11-20T05:01:00+00:00",
-   "tickers": [
-    "TSM",
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔의 칩 제조 사업이 새로운 미스터리 고객과 함께 확대되고 있다고 다뤘다.",
-    "주요 고객 확보는 TSMC의 독점에 대응하는 데 도움이 될 것이라고 전했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
