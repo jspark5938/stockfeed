@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-27T06:00:40.137147+00:00",
+ "updated": "2026-11-27T06:30:32.908637+00:00",
  "posts": [
+  {
+   "id": "17a42dfbdcc80a71",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Qantas set to award Boeing bulk of 20-jet order, Bloomberg reports",
+   "excerpt": "Investing.com -- Qantas Airways is close to selecting Boeing for the bulk of an order for about 20 long-range aircraft, with the Australian carrier also expected to include some Airbus jets, Bloomberg reported on Friday, citing people familiar with the matter.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/qantas-set-award-boeing-bulk-062523850.html?.tsrc=rss",
+   "published": "2026-11-27T06:25:23+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "summary_ko": [
+    "블룸버그 통신은 콴타스항공이 20대의 장거리 항공기 주문 중 대부분을 보잉사에 맡길 것으로 보인다고 보도했다.",
+    "이번 계약에는 일부 에어버스 제트기도 포함될 것으로 예상된다고 전해졌다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "4ea24f01c5869f11",
    "kind": "news",
@@ -68425,77 +68443,6 @@
     "트루이스트의 목표주가 상향과 전자상거래 매출 강세가 긍정적 평가를 이끌었다고 언급했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "2f5036d2830fa5f1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Wenge AI Adds Google and Apple Sign-In Options for ScienceOra International Users",
-   "excerpt": "Wenge AI (1956.HK) today announced that ScienceOra, its AI-powered scientific research and decision-support platform, has enhanced registration and sign-in for its international site with Google and Apple sign-in options. The update is designed to give overseas researchers a faster, more convenient way to access the AI for Science platform.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/wenge-ai-adds-google-apple-063000704.html?.tsrc=rss",
-   "published": "2026-11-20T06:30:00+00:00",
-   "tickers": [
-    "AAPL",
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "Wenge AI가 해외 연구원을 위해 자사 플랫폼에 구글과 애플 로그인 기능을 추가했다고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "aa71c6b95a309adc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Elon Musk’s Dream Meets Wall Street Reality: SpaceX Lenders Don’t Want Nvidia Chips Leaving Earth",
-   "excerpt": "Lenders backing a $43 billion debt deal for Elon Musk-led Space Exploration Technologies Corp. (NASDAQ:SPCX) are reportedly trying to stop the company from sending valuable Nvidia Corp. (NASDAQ:NVDA) AI chips into space, fearing they could lose the assets securing their loans. Lenders Fear Losing Access To Chip Collateral Lenders fear they may not recover or resell the semiconductors if SpaceX launches them into space and subsequently defaults, the Financial Times reported on Thursday, citing pe",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-dream-meets-wall-062433324.html?.tsrc=rss",
-   "published": "2026-11-20T06:24:33+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "스페이스X의 대출 기관들이 엔비디아 AI 칩의 우주 발송을 막으려 한다고 전해졌다.",
-    "이는 칩이 담보로서 가치를 잃을 것을 우려하기 때문이라고 보도되었다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "951987b7352b343f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Could Tesla Become The Next Lumentum? Gary Black Warns A SpaceX Stock Deal Could Send TSLA Down 25%",
-   "excerpt": "Lumentum CEO Michael Hurlston said upcoming earnings and a merger filing could help win back shareholders.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/could-tesla-become-next-lumentum-gary-black-spacex-stock-deal-send-tsla-down/cNbSEW5R9K7?.tsrc=rss",
-   "published": "2026-11-20T06:15:59+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "개리 블랙은 테슬라가 스페이스X와 거래할 경우 주가가 하락할 수 있다고 경고했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "6fe7c019de1a5b0b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Does JPMorgan Chase (JPM) Naming A New CFO Mean For Investors?",
-   "excerpt": "JPMorgan Chase (NYSE:JPM) said Bregje de Best will become group CFO, succeeding Jeremy Barnum after Q1 2027. De Best currently serves as CFO of JPMorgan's Commercial & Investment Bank, a role that spans key global trading and advisory operations. Barnum is set to shift into a Vice Chairman position, extending his involvement in senior leadership beyond his CFO tenure. The decision to appoint Bregje de Best as future CFO is worth weighing against all the other factors discussed here. We have...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/does-jpmorgan-chase-jpm-naming-060933124.html?.tsrc=rss",
-   "published": "2026-11-20T06:09:33+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "summary_ko": [
-    "JP모건 체이스는 브레게 데 베스트를 2027년 1분기 이후에 그룹 CFO로 임명할 것이라고 밝혔다.",
-    "현 CFO인 제러미 바넘은 부회장직으로 이동할 예정이라고 전했다."
-   ],
-   "tone": "neu"
   }
  ]
 }

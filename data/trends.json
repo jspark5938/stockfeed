@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:00:40.137147+00:00",
+ "updated": "2026-11-27T06:30:32.908637+00:00",
  "trends": [
   {
    "ticker": "NFLX",
@@ -44,13 +44,6 @@
    "ratio": 1.33
   },
   {
-   "ticker": "IONQ",
-   "name_ko": "아이온큐",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 3,
-   "ratio": 1.33
-  },
-  {
    "ticker": "RIVN",
    "name_ko": "리비안",
    "mentions_24h": 4,
@@ -67,9 +60,9 @@
   {
    "ticker": "BA",
    "name_ko": "보잉",
-   "mentions_24h": 9,
+   "mentions_24h": 10,
    "mentions_prev_24h": 10,
-   "ratio": 0.9
+   "ratio": 1.0
   },
   {
    "ticker": "QQQ",
@@ -91,6 +84,13 @@
    "mentions_24h": 11,
    "mentions_prev_24h": 14,
    "ratio": 0.79
+  },
+  {
+   "ticker": "IONQ",
+   "name_ko": "아이온큐",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 4,
+   "ratio": 0.75
   },
   {
    "ticker": "XOM",
@@ -240,13 +240,6 @@
    "ratio": 0.42
   },
   {
-   "ticker": "NVDA",
-   "name_ko": "엔비디아",
-   "mentions_24h": 87,
-   "mentions_prev_24h": 217,
-   "ratio": 0.4
-  },
-  {
    "ticker": "PFE",
    "name_ko": "화이자",
    "mentions_24h": 2,
@@ -254,10 +247,24 @@
    "ratio": 0.4
   },
   {
+   "ticker": "NVDA",
+   "name_ko": "엔비디아",
+   "mentions_24h": 85,
+   "mentions_prev_24h": 217,
+   "ratio": 0.39
+  },
+  {
    "ticker": "AMZN",
    "name_ko": "아마존",
    "mentions_24h": 21,
    "mentions_prev_24h": 56,
+   "ratio": 0.38
+  },
+  {
+   "ticker": "COIN",
+   "name_ko": "코인베이스",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 8,
    "ratio": 0.38
   },
   {
@@ -279,13 +286,6 @@
    "name_ko": "팔로알토",
    "mentions_24h": 4,
    "mentions_prev_24h": 12,
-   "ratio": 0.33
-  },
-  {
-   "ticker": "COIN",
-   "name_ko": "코인베이스",
-   "mentions_24h": 3,
-   "mentions_prev_24h": 9,
    "ratio": 0.33
   },
   {
