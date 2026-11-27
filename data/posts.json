@@ -1,6 +1,111 @@
 {
- "updated": "2026-11-27T20:00:38.561886+00:00",
+ "updated": "2026-11-27T20:30:36.946763+00:00",
  "posts": [
+  {
+   "id": "9efc9764f22b3408",
+   "kind": "youtube",
+   "source": "Fox Business",
+   "author": "Fox Business",
+   "title": "'BIG HEADACHE': Nvidia's Capitol Hill showdown could send SHOCKWAVES through Wall Street",
+   "excerpt": "'The Big Money Show' panel analyzes Nvidia as CEO Jensen Huang prepares for Capitol Hill hearings. Subscribe to Fox Business: Watch more Fox Business Video: Watch Fox Business Network Live: FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news programming, with each business day program placing among the top 15 shows, while FBN delivered its highest-rated mont",
+   "url": "https://www.youtube.com/watch?v=cIzPT8NBBn8",
+   "published": "2026-11-27T20:15:12+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 CEO 젠슨 황의 의회 청문회를 앞두고 시장에 미칠 영향력을 분석했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "0e06778dc5daa7ee",
+   "kind": "youtube",
+   "source": "CNBC Television",
+   "author": "CNBC Television",
+   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "excerpt": "OpenAI has launched a new legal action against Apple, accusing the Big Tech giant of stealing its trade secrets and blocking its access to hardware suppliers, the Financial Times reported on Friday. The ChatGPT maker filed the lawsuit in a California court on Friday, according to the report.",
+   "url": "https://www.youtube.com/watch?v=xmqTNKoRg_g",
+   "published": "2026-11-27T20:15:04+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "오픈AI가 애플을 상대로 영업비밀 도용 및 하드웨어 공급 차단 혐의로 소송을 제기했다고 보도했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "de18da12620d0e7c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Broadcom Stock's Google Chip Order Cut Means For Shareholders",
+   "excerpt": "Reports in late November indicated that Alphabet plans to trim 2027 shipments of Broadcom designed TPU AI chips by about 20%, which came alongside wider concern about whether heavy AI data center spending will generate adequate returns. The development highlights how Broadcom’s AI semiconductor outlook depends on a concentrated group of hyperscale buyers, leaving its custom chip pipeline sensitive to even incremental changes in orders from one key client. This raises questions about how...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-google-chip-order-201047235.html?.tsrc=rss",
+   "published": "2026-11-27T20:10:47+00:00",
+   "tickers": [
+    "GOOGL",
+    "AVGO"
+   ],
+   "summary_ko": [
+    "알파벳이 브로드컴의 TPU AI 칩 출하량을 줄일 계획이라는 보도가 나왔다고 다뤘다.",
+    "주요 고객사의 주문 변화에 따른 브로드컴의 맞춤형 칩 파이프라인 민감성을 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "8e56c5065852a661",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Risky Is IonQ Stock If The Market Turns?",
+   "excerpt": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+   "url": "https://www.trefis.com/stock/ionq/articles/629325/how-risky-is-ionq-stock-if-the-market-turns/2026-11-27?.tsrc=rss",
+   "published": "2026-11-27T20:09:18+00:00",
+   "tickers": [
+    "IONQ"
+   ],
+   "summary_ko": [
+    "시장 하락 시 아이온큐 주식의 위험성을 다루는 기사 제목과 주요 뉴스를 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "d7bd8a3dc208236b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why DELL Stock Is Rising Today — and Why Analysts Still See 70%+ Upside",
+   "excerpt": "Dell Technologies (DELL) stock is rising in premarket trading on Friday. After sharp swings earlier this week, the stock has found support as investors focus on the company’s strong fiscal Q3 results and higher full-year outlook. Wall Street has a Moderate Buy consensus rating on DELL stock, with an average 12-month price target of $511.10. This suggests 72.05% upside from current levels. Analyst price targets range from $325 to $735 per share. DELL Stock Performance DELL stock fell 10.5% in the",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-dell-stock-rising-today-200125895.html?.tsrc=rss",
+   "published": "2026-11-27T20:01:25+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "summary_ko": [
+    "델 주가가 프리마켓에서 상승한 배경으로 탄탄한 3분기 실적과 연간 전망 상향을 꼽았다.",
+    "월스트리트 애널리스트들의 평균 목표가와 상승 여력 전망을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "87f5c330e0339795",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Should You Pick Palantir Over Its Big Tech Rivals?",
+   "excerpt": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+   "url": "https://www.trefis.com/stock/pltr/articles/629344/should-you-pick-palantir-over-its-big-tech-rivals/2026-11-27?.tsrc=rss",
+   "published": "2026-11-27T19:59:21+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "summary_ko": [
+    "팔란티어와 빅테크 라이벌들의 선택에 관한 내용을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "dd65cfc23d02abb9",
    "kind": "news",
@@ -18,6 +123,41 @@
     "사이버캡과 옵티머스 확충 계획 속에서 독일 공구업체 인수를 추진 중이라고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "7140ad3ef52165ce",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon, Target and Walmart Chase Holiday Toy Spending",
+   "excerpt": "Popular toys, gaming consoles and electronic devices are driving competition among retailers during the holiday shopping season.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-target-walmart-chase-holiday-195308961.html?.tsrc=rss",
+   "published": "2026-11-27T19:53:08+00:00",
+   "tickers": [
+    "AMZN",
+    "WMT"
+   ],
+   "summary_ko": [
+    "아마존, 타겟, 월마트가 연말 쇼핑 시즌 장난감 판매를 두고 경쟁하고 있다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "116bdedf9e3515fe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Stocks Slip 1.66% as S&P Weighs Downgrade Over Key-Man Risk",
+   "excerpt": "Jensen Huang is back as CEO, but a possible cut to AA- puts board oversight and succession planning under a 90-day spotlight.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-slip-1-66-194936975.html?.tsrc=rss",
+   "published": "2026-11-27T19:49:36+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "핵심 인물 리스크 등으로 엔비디아 주가가 하락했다고 보도했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "18afbea214a97311",
@@ -50,6 +190,40 @@
    ],
    "summary_ko": [
     "뱅크오브아메리카는 시장이 캐터필러의 건설 사업을 저평가하고 있다고 진단했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2dfa0499e000e128",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom Stocks Climb 2.19% as $1 Billion Anthropic Stake Turns Positive",
+   "excerpt": "Broadcom bought into Anthropic's $26 billion placement at $83 a share, and its exposure runs far deeper through a five-year chip lease.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-climb-2-19-194642288.html?.tsrc=rss",
+   "published": "2026-11-27T19:46:42+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴의 앤트로픽 지분 가치가 상승하며 주가가 올랐다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "0f7f715447793c0d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "TSMC Stocks Climb 1.84% as U.S. Tariff Proposal Leaves Chips Off the List",
+   "excerpt": "USTR proposed duties of up to 15% on Taiwanese goods, but semiconductors and servers appear exempt, with public comments due January 5.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-climb-1-84-194609822.html?.tsrc=rss",
+   "published": "2026-11-27T19:46:09+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "summary_ko": [
+    "미국무역대표부의 대만산 관세 제안에서 반도체와 서버가 제외되면서 TSMC 주가가 올랐다고 전했다."
    ],
    "tone": "pos"
   },
@@ -65839,213 +66013,6 @@
    ],
    "summary_ko": [
     "애플이 메타의 뮤즈에 대항할 AI 에이전트를 개발 중이라고 보도했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7ff83b195d5ce549",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "California AG Targets Nvidia: What You Need To Know Now",
-   "excerpt": "California's attorney general, Rob Bonta, subpoenaed Nvidia over whether its chips or confidential information reached China. The same day, House Foreign Affairs chairman Brian Mast published the export licence records: Alibaba cleared for 75,000 chips, Tencent for all 150,000 it asked for. Pras Subramanian does the back-of-the-envelope and makes it a $26 billion hole. Julie Hyman and Jake Conley argue it was never big enough to matter, because China was about a tenth of sales before the controls and $2.4 billion last quarter. Nvidia answers all of it with no permanent chief executive. Featuring Julie Hyman, Host, Yahoo Finance Jake Conley, Breaking Business News Reporter, Yahoo Finance Pras Subramanian, Senior Autos Reporter, Yahoo Finance Timestamps 0:00 California subpoenas Nvidia, and ",
-   "url": "https://www.youtube.com/watch?v=ZfhlwokYmv8",
-   "published": "2026-11-20T20:30:16+00:00",
-   "tickers": [
-    "NVDA",
-    "BABA"
-   ],
-   "summary_ko": [
-    "캘리포니아 법무장관이 엔비디아를 상대로 소서나를 발부한 내용을 다뤘다.",
-    "중국 관련 매출과 수출 라이선스 기록을 두고 영향이 제한적일 것이라는 시각을 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c7253d8f14b7df10",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Wall Street Thinks Oklo Is a Buy. Here’s Why I’m Not So Sure.",
-   "excerpt": "Nearly every Wall Street analyst is bullish on Oklo stock.",
-   "url": "https://www.fool.com/investing/2026/11/20/wall-street-thinks-oklo-is-a-buy-here-s-why-i-m-not-so-sure/?.tsrc=rss",
-   "published": "2026-11-20T20:25:02+00:00",
-   "tickers": [
-    "OKLO"
-   ],
-   "summary_ko": [
-    "월가 분석가들이 오클로 주식에 대해 낙관하고 있는 상황을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "209e1e391cc2a6aa",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nasdaq Slide Deepens After Report of Nvidia SEC Accounting Probe",
-   "excerpt": "A stock market practically begging for some good news got more bad news instead.",
-   "url": "https://finance.yahoo.com/m/cff37c7c-0ca9-37b0-a414-8f2a8d6939e4/nasdaq-slide-deepens-after.html?.tsrc=rss",
-   "published": "2026-11-20T20:24:47+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 관련 SEC 회계 조사 보도로 인해 나스닥 하락세가 심화되었다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "e16b3a45731ff32a",
-   "kind": "youtube",
-   "source": "Amit Kukreja",
-   "author": "Amit Kukreja",
-   "title": "NVIDIA GETS DESTROYED, WORST DAY FOR MARKETS IN 2026 | MARKET CLOSE",
-   "excerpt": "",
-   "url": "https://www.youtube.com/watch?v=MJxc-J0ITlk",
-   "published": "2026-11-20T20:23:07+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 주가가 급락했으며 시장이 부진한 흐름을 보였다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "d30e375e658789b0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting. It’s Nvidia’s Worst Day Since DeepSeek and It Has Lost $2.7 Trillion Since October",
-   "excerpt": "Nvidia fell 12% after Reuters reported that SEC enforcement staff are examining potential accounting issues. It's on track for its worst day since DeepSeek and is 46% below its October record.",
-   "url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-plunges-12-after-reuters-reports-an-sec-probe-of-its-accounting-its-nvidias-worst-day-since-deepseek-and-it-has-lost-2-7-trillion-since-october/?.tsrc=rss",
-   "published": "2026-11-20T20:17:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "로이터의 회계 조사 보도 이후 엔비디아 주가가 12% 급락했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "5cd61601a104e7ad",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Eli Lilly (LLY) After ObesityWeek Is The Stock Still Undervalued",
-   "excerpt": "Eli Lilly (LLY) is back in focus after ObesityWeek 2026, where the company released fresh clinical data on its obesity and sleep apnea pipeline, including EloraTZP, retatrutide and Foundayo. The latest ObesityWeek data arrived in a choppy tape for Eli Lilly. The share price has slipped about 2% in the last session and 5% over the past week, yet still shows a 25% year to date share price return and a 1 year total shareholder return of 30%, with multi year total shareholder returns above 4x...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-obesityweek-stock-201358942.html?.tsrc=rss",
-   "published": "2026-11-20T20:13:58+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "summary_ko": [
-    "일라이릴리가 비만 치료 관련 신규 임상 데이터를 공개했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "ecc6a647e27b0f31",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Adobe (ADBE) Joins 40 Plus Groups Launching The AI Transparency Initiative",
-   "excerpt": "Adobe (NasdaqGS:ADBE) joined Microsoft and more than 40 organizations to launch the AI Transparency Initiative in November 2026. The coalition aims to create independently verifiable standards so enterprises can monitor and control how AI systems behave. New guidelines focus on AI accountability and data security for businesses that use Adobe's creative and document software in regulated sectors. The AI Transparency Initiative is only one part of Adobe's broader story on AI and enterprise...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-joins-40-plus-201324152.html?.tsrc=rss",
-   "published": "2026-11-20T20:13:24+00:00",
-   "tickers": [
-    "MSFT",
-    "ADBE"
-   ],
-   "summary_ko": [
-    "어도비가 마이크로소프트 등과 함께 AI 투명성 이니셔티브에 참여했다고 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "927f9310df78bfe0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Coinbase Global Bears Saw Before A 54% Drop",
-   "excerpt": "If you followed Coinbase Global through a year of regulatory headlines, bank charters and product launches, the payoff did not match the drama. Investors who held Coinbase Global over the past year are down 54.3%, including dividends. If you had bought on 19 November 2025, trusting analyst models built on 8.3% revenue growth, 24.3% profit margins and a future 62.8x P/E, what exactly did that original thesis miss about how this business really behaves in practice? On Simply Wall St, a...",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-bears-saw-54-201247395.html?.tsrc=rss",
-   "published": "2026-11-20T20:12:47+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "코인베이스가 지난 1년간 규제 및 실적 흐름 속에서 주가 하락을 겪었다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "1aefff85b0163b3b",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Navigating a falling market: The Investment Committee's strategy",
-   "excerpt": "The Investment Committee debate how to trade a falling market following the historic Anthropic IPO and Nvidia's continued weakness amid it's various scandals.",
-   "url": "https://www.youtube.com/watch?v=7yuxLar3WEA",
-   "published": "2026-11-20T20:04:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "앤스로픽의 역사적인 IPO와 엔비디아의 약세 속에서 하락장 대응 전략을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "a9c0582323c58ba2",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Strategy Is Down 44% in a Month as Crypto Stocks Crumble: Can MSTR Stock Get Back to $100 This Year?",
-   "excerpt": "Strategy borrowed heavily to stack Bitcoin, and now the coin's slide is magnifying every loss while preferred dividends and debt keep coming due. With six weeks left in the year, what would have to go right for shareholders?",
-   "url": "https://247wallst.com/investing/2026/11/20/strategy-is-down-44-in-a-month-as-crypto-stocks-crumble-can-mstr-stock-get-back-to-100-this-year/?.tsrc=rss",
-   "published": "2026-11-20T20:02:35+00:00",
-   "tickers": [
-    "MSTR"
-   ],
-   "summary_ko": [
-    "암호화폐 관련주들의 하락 속에서 스트래티지의 주가가 한 달 동안 큰 폭으로 내렸다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "9f31ebec3707c51b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AI Stocks are on Sale: A Generational Buying Opportunity",
-   "excerpt": "If you ever wanted to get into the AI trade, then now might be the time. But you need to know the difference between buying opportunities and traps. Tracey Ryniec offers two key ways to improve your odds of finding the next Amazon.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-sale-generational-buying-200200664.html?.tsrc=rss",
-   "published": "2026-11-20T20:02:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "AI 주식들이 할인된 가격에 거래되는 기회일 수 있다는 내용을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "6dda91929aab857a",
-   "kind": "youtube",
-   "source": "CNBC Television",
-   "author": "CNBC Television",
-   "title": "Would be unprecedented to see final bottom on S&P with Apple where it is: BTIG’s Jonathan Krinsky",
-   "excerpt": "Jonathan Krinsky, BTIG chief market technician, joins 'The Exchange' to discuss Apple stock, market volatility and more.",
-   "url": "https://www.youtube.com/watch?v=P-Aej5E1S0A",
-   "published": "2026-11-20T20:01:02+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "BTIG의 분석가가 애플의 주가와 시장 변동성에 대해 논의했다고 다뤘다."
    ],
    "tone": "neu"
   }
