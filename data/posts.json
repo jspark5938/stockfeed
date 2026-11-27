@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-27T04:00:36.734396+00:00",
+ "updated": "2026-11-27T04:14:17.534526+00:00",
  "posts": [
+  {
+   "id": "bf532ae697b4667f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon Lost 40 Satellites on a Boeing-Lockheed Rocket in November. SpaceX Is the Only Company That Can Fix Amazon’s Problem. Is the Stock a Buy Near $130?",
+   "excerpt": "The failed launch is a blow to Amazon's plans, but SpaceX isn't going out of its way to help other companies.",
+   "url": "https://www.fool.com/investing/2026/11/26/amazon-lost-40-satellites-on-a-boeing-lockheed-rocket-in-november-spacex-is-the-only-company-that-can-fix-amazon-s-problem-is-the-stock-a-buy-near-usd130/?.tsrc=rss",
+   "published": "2026-11-27T03:53:02+00:00",
+   "tickers": [
+    "AMZN",
+    "BA"
+   ],
+   "summary_ko": [
+    "아마존은 11월 로켓 발사 실패로 위성 40기를 잃는 타격을 입었다고 다뤘다.",
+    "스페이스X만이 아마존의 문제를 해결할 수 있는 유일한 기업이라고 언급했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "f51fdb3d4803bd58",
    "kind": "news",
@@ -68588,24 +68607,6 @@
     "짐 크레이머가 코스트코 투자자들이 주목해야 하는 이유를 설명했다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "45adcdffaa0aadbd",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba HK shares rise as Q2 topline beat invites some bargain buying",
-   "excerpt": "Investing.com-- Alibaba’s Hong Kong shares rose on Friday as stronger-than-expected second fiscal quarter revenue invited some bargain buying into the battered Chinese tech giant.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-hk-shares-rise-q2-040722533.html?.tsrc=rss",
-   "published": "2026-11-20T04:07:22+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바의 2분기 매출이 예상을 웃돌았다.",
-    "이로 인해 저가 매수세가 유입되며 홍콩 주가가 상승했다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
