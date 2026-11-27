@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-26T23:30:32.465575+00:00",
+ "updated": "2026-11-27T00:00:40.042626+00:00",
  "posts": [
+  {
+   "id": "90427b960181e449",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon tried to kill Musk’s plan for 1 million AI satellites. The FCC chair scolded it and gave SpaceX the green light",
+   "excerpt": "Musk says moving AI data centers into space could save money and energy, but critics warn his plan could threaten scientific research and the environment.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/amazon-tried-kill-musk-plan-233000718.html?.tsrc=rss",
+   "published": "2026-11-26T23:30:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존이 머스크의 인공위성 계획을 저지하려 했으나 FCC가 스페이스X의 손을 들어주었다고 다뤘다.",
+    "머스크는 우주 데이터센터가 비용과 에너지를 절감할 것이라고 주장했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "79cf651f10e36448",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "A $600,000 Portfolio in EPR Properties, Pfizer and Park Hotels & Resorts Pays $36,967 a Year in Dividends. Here’s What Happens if One Cuts",
+   "excerpt": "Key TakeawaysA $600,000 portfolio split evenly across EPR Properties, Pfizer and Park Hotels & Resorts pays about $3,080 a month in dividends at today’s prices, a 6. 2% yield.",
+   "url": "https://www.tikr.com/blog/a-600000-portfolio-in-epr-properties-pfizer-and-park-hotels-resorts-pays-37310-a-year-in-dividends-heres-what-happens-if-one-cuts?ref=yahoofinancedividend&tlnk=yf-261126-g4qr6mw9&.tsrc=rss",
+   "published": "2026-11-26T23:20:21+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "summary_ko": [
+    "특정 종목들로 구성된 포트폴리오의 연간 배당금 지급 현황을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "d329e449f9ec5d9a",
    "kind": "news",
@@ -68792,131 +68827,6 @@
     "앤스로픽이 나스닥 상장 첫날 상승세를 보인 가운데, 애널리스트는 향후 마진이 대형 클라우드 업체를 상회할 것으로 전망했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "d52eea3ddab31b11",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Stock Market Today: ANT Begins Public Trading, AMD Sells, PANW Earnings Rally #shorts",
-   "excerpt": "Tech continues to dominate market headlines, though Anthropic (ANT) and its public trading debut made its impact very clear on Thursday's session. AMD Inc. (AMD) sold off after Hunterbrook issued a short report on the stock. Palo Alto Networks (PANW) rallied after earnings. Marley Kayden takes investors through the biggest stories of the trading day. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network:",
-   "url": "https://www.youtube.com/watch?v=bjicyN_2FoA",
-   "published": "2026-11-20T00:00:04+00:00",
-   "tickers": [
-    "AMZN",
-    "AMD",
-    "PANW"
-   ],
-   "summary_ko": [
-    "앤스로픽의 상장과 AMD의 주가 하락, 팰로앨토네트웍스의 실적 호조에 따른 주가 상승 소식을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "be3a21d25951d2d7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Guyana Oil Boom Rekindles Frontier Drilling Appetite",
-   "excerpt": "Exxon’s success is reigniting Big Oil’s appetite for high-risk frontier exploration, demonstrating the potential rewards of long-term investment in new oil discoveries.",
-   "url": "https://finance.yahoo.com/energy/articles/guyana-oil-boom-rekindles-frontier-000000725.html?.tsrc=rss",
-   "published": "2026-11-20T00:00:00+00:00",
-   "tickers": [
-    "XOM"
-   ],
-   "summary_ko": [
-    "엑슨모빌의 성공이 대형 석유 기업들로 하여금 고위험 프런티어 탐사에 대한 관심을 다시 높이고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "fda7ea786514058e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Apple May Try to Challenge Meta for Personal Agent Supremacy",
-   "excerpt": "Apple has been posting job openings that reveal its interest in agents, but a new one this week was pretty explicit about what Apple is working toward.",
-   "url": "https://finance.yahoo.com/m/218adf20-fceb-3955-ab5b-5c4bc9cf9107/apple-may-try-to-challenge.html?.tsrc=rss",
-   "published": "2026-11-19T23:51:00+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "애플이 채용 공고를 통해 개인용 에이전트 분야에서 메타와 경쟁할 가능성을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "7e2ae24607ae4113",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "NYC lawmakers weigh compromise on Amazon delivery worker bill, Bloomberg reports",
-   "excerpt": "Investing.com -- New York City lawmakers are weighing substantial revisions to proposed legislation that would force Amazon.com Inc (NASDAQ:AMZN) to directly employ thousands of outsourced delivery drivers, according to a Bloomberg report. The potential overhaul signals a strategic compromise in a high-stakes regulatory battle pitting the e-commerce giant against Mayor Zohran Mamdani and a City Council majority.",
-   "url": "https://finance.yahoo.com/economy/policy/articles/nyc-lawmakers-weigh-compromise-amazon-234713116.html?.tsrc=rss",
-   "published": "2026-11-19T23:47:13+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "뉴욕시 의원들이 아마존 배송 기사의 직접 고용을 요구하는 법안 수정을 검토 중이라고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "962dec5707d6f5bb",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Fmr. Amb. Criticizes Trump-Xi-Putin Summit Optics",
-   "excerpt": "Nicholas Burns, who served as US Ambassador to China under President Biden and previously as US Ambassador to NATO, says President Trump’s trilateral meeting with Xi Jinping and Vladimir Putin sent the wrong message to US allies, while warning that tensions over Nvidia and chip exports could further strain relations with Beijing. He speaks with Kailey Leinz and Joe Mathieu on Bloomberg’s \"Balance of Power.\" -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok",
-   "url": "https://www.youtube.com/watch?v=6X3VQnu1scU",
-   "published": "2026-11-19T23:40:35+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "전 미국 대사의 발언을 인용해 트럼프 전 대통령의 정상회담이 그릇된 신호를 보냈다고 다뤘다.",
-    "엔비디아와 반도체 수출 관련 긴장이 베이징과의 관계를 악화시킬 수 있다고 경고했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "377f125fa041da57",
-   "kind": "youtube",
-   "source": "Meet Kevin",
-   "author": "Meet Kevin",
-   "title": "Stock Up NOW: We're Under Attack.",
-   "excerpt": "🚀 ✅ 🍁 Code BlackFriday = LOWEST PRICE EVER on ReinvestOne LIFETIME ACCESS 👉 🚨 Last chance 🚨 Guaranteed. Ends 11-27 @ 11:59pm PT. 💎💎💎 Get a $200 bonus and 5% cash back with our sponsor, Chime®: (Sponsor) 💎 Microsoft 365, the FAA, Chase, United, the NSA and Apple all went down within six days. Costco generators sold out, and water warnings hit South Carolina and California. Washington says there's \"zero evidence\" it's coordinated. Here's what that leaves out: Iran hitting US water and food systems, North Korea's $6B Binance hack, a Russia-linked network moving the money, China sitting inside US infrastructure, and AI finding flaws faster than anyone can patch. Plus what to stock and what to skip. ----- 🏡 Reinvest Inquiries 🏡 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ➡️ Latest Reinvest (formerly HouseHack) ",
-   "url": "https://www.youtube.com/watch?v=hdIdY3l96BA",
-   "published": "2026-11-19T23:33:46+00:00",
-   "tickers": [
-    "AAPL",
-    "MSFT",
-    "COST"
-   ],
-   "summary_ko": [
-    "최근 주요 기관들의 시스템 장애와 인프라 문제를 언급하며 관련 정황과 배경을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c02f733a96529c0f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A 66-Year-Old With $600,000 in VOO Owns Nvidia Without Ever Buying a Share. SCHD Owns None.",
-   "excerpt": "One simple core fund quietly hands a retiree a stake in the market's biggest tech name, while a dividend-focused rival leaves that company out entirely. Which approach has the edge depends on when you start counting.",
-   "url": "https://247wallst.com/investing/etf/2026/11/19/a-66-year-old-with-600000-in-voo-owns-nvidia-without-ever-buying-a-share-schd-owns-none/?.tsrc=rss",
-   "published": "2026-11-19T23:32:51+00:00",
-   "tickers": [
-    "NVDA",
-    "SCHD"
-   ],
-   "summary_ko": [
-    "핵심 펀드를 통해 엔비디아 보유 효과를 내는 방식과 배당 중심 펀드의 차이를 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
