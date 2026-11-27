@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-27T07:30:36.815690+00:00",
+ "updated": "2026-11-27T08:00:38.566725+00:00",
  "posts": [
+  {
+   "id": "a5702a7c36cc6e6b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: This Will Be Anthropic’s Stock Price by the End of 2026",
+   "excerpt": "Anthropic is getting caught up in the Nvidia sell-off.",
+   "url": "https://www.fool.com/investing/2026/11/27/prediction-this-will-be-anthropic-s-stock-price-by-the-end-of-2026/?.tsrc=rss",
+   "published": "2026-11-27T07:23:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "앤스로픽의 주가 전망을 다룬 게시물이다.",
+    "앤스로픽이 엔비디아 매도세에 휘말리고 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "b578109313b9da54",
    "kind": "youtube",
@@ -15,6 +33,41 @@
    ],
    "summary_ko": [
     "AI 랠리가 엔비디아 규제와 트럼프 관세 등 새로운 시험대에 직면했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4c7b74c776604f27",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Zacks Analyst Blog Highlights CrowdStrike, Lockheed Martin, S&P Global, The Eastern and AmeriServ Financial",
+   "excerpt": "CrowdStrike and Lockheed Martin outperform their respective industries, while S&P Global faces financial risks despite promising long-term growth drivers.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-crowdstrike-064800574.html?.tsrc=rss",
+   "published": "2026-11-27T06:48:00+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "summary_ko": [
+    "크라우드스트라이크와 록히드마틴이 각 산업에서 우수한 성과를 내고 있다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "dace381e3a961d57",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Elon Musk Offers Samsung Long-Term Chip Deals and Factory Funding, Gets Brushed Off: 'Everyone Else Was Offering That'",
+   "excerpt": "Samsung Electronics Co. Ltd. (OTC:SSNLF) was reportedly unmoved by offers from Tesla Inc. CEO Elon Musk (NASDAQ:TSLA) for long-term chip purchase commitments and guarantees to fund new factories. Capital Group Recalls Musk’s Samsung Talks Musk offered Samsung a long-term chip purchase commitment, but executive chairman Lee Jae-yong replied that “everyone else was offering him that,” according to a Wall Street Journal report on Wednesday that cited Carl Kawaja, a Capital Group portfolio manager.",
+   "url": "https://finance.yahoo.com/technology/articles/elon-musk-offers-samsung-long-064455133.html?.tsrc=rss",
+   "published": "2026-11-27T06:44:55+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "일론 머스크가 삼성전자 측에 장기 칩 구매 계약과 공장 자금 지원을 제안했다고 보도했다.",
+    "삼성전자는 다른 곳에서도 그런 제안을 받고 있다며 받아들이지 않았다고 전했다."
    ],
    "tone": "neu"
   },
@@ -35,6 +88,25 @@
     "마이크로소프트 코파일럿을 활용한 에이전틱 AI 구축 시연을 진행했다고 전했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "0c142376544b78ae",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Michael Burry Shares Stark Warning About AI Boom, as Nvidia, Oracle and Meta Face Surging Debt Insurance Costs",
+   "excerpt": "\"The Big Short\" investor Michael Burry has drawn attention to concerns that rising borrowing risks among major AI companies and data center developers could threaten the financing behind the industry’s massive infrastructure expansion. AI Credit Risks Rise as CDS Spreads Widen The warning comes from a Groundbreaker analysis titled \"Mark to Swap: How the Market is Mispricing the AI Boom,\" which Burry shared on X while clarifying that it was not his own work. \"Must read. This is not me. But it mus",
+   "url": "https://finance.yahoo.com/technology/ai/articles/michael-burry-shares-stark-warning-063128312.html?.tsrc=rss",
+   "published": "2026-11-27T06:31:28+00:00",
+   "tickers": [
+    "NVDA",
+    "ORCL"
+   ],
+   "summary_ko": [
+    "마이클 버리가 AI 붐과 관련해 차입 위험에 대한 경고를 공유했다고 전했다.",
+    "주요 AI 기업들의 부채 보험 비용이 증가하면서 인프라 확장에 위협이 될 수 있다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "17a42dfbdcc80a71",
@@ -68351,41 +68423,6 @@
    ],
    "summary_ko": [
     "디즈니의 스포츠 이익이 증가했으며 30억 달러의 비용 절감을 계획하고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f96e8e2f92288510",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Warby Parker is betting its next chapter on smart glasses people actually want to wear",
-   "excerpt": "With growth slowing, the eyewear brand has partnered with Google on $395 AI glasses designed to look like ordinary frames, putting it head-to-head with Meta and Ray-Ban.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/warby-parker-betting-next-chapter-080000244.html?.tsrc=rss",
-   "published": "2026-11-20T08:00:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "와비 파커가 구글과 손잡고 AI 안경을 선보이며 메타 및 레이밴과 경쟁한다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "7fd0202cca32a0e9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Kevin O’Leary Bets Anthropic Could Be the Next Amazon: Why the Shark Tank Star Calls Its Strategy ‘Sheer Genius’",
-   "excerpt": "Investor Kevin O’Leary believes Anthropic PBC’s (NASDAQ:ANT) focus on enterprise AI, trust and security could give it an edge over competitors as its record-breaking IPO tests Wall Street’s appetite for artificial intelligence. Kevin O’Leary Calls Anthropic’s AI Strategy ‘Sheer Genius’ On Thursday, O’Leary praised Anthropic’s business strategy in a post on X, arguing that the company has identified what other AI players have overlooked: enterprise customers will pay a premium for trusted, secure",
-   "url": "https://finance.yahoo.com/technology/ai/articles/kevin-o-leary-bets-anthropic-073253240.html?.tsrc=rss",
-   "published": "2026-11-20T07:32:53+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "케빈 오리어리는 앤트로픽의 기업용 AI 전략을 높이 평가했다.",
-    "그는 보안과 신뢰에 집중하는 전략이 경쟁 우위를 줄 것이라고 주장했다."
    ],
    "tone": "pos"
   }
