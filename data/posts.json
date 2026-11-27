@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-27T06:30:32.908637+00:00",
+ "updated": "2026-11-27T07:00:38.730185+00:00",
  "posts": [
+  {
+   "id": "43e7e6fcce286945",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Miles Masterclass Launches the World's First AI Labs for Accountants at the World Congress of Accountants in Seoul",
+   "excerpt": "Miles Masterclass, the NASBA-registered provider of AI-in-Accounting continuing education, announced the global launch of Miles AI Labs, the world's first hands-on AI lab built for accountants, at the World Congress of Accountants (WCOA) 2026. Founder & CEO Varun Jain, CPA, CMA, delivered the keynote 'The Art of the Impossible: Building Agentic AI with Microsoft Copilot,' and his team built and deployed a working AI agent live on stage, without writing a line of code.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/miles-masterclass-launches-worlds-first-063400104.html?.tsrc=rss",
+   "published": "2026-11-27T06:34:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마일스 마스터클래스가 세계 회계사 대회에서 회계사용 AI 실습실을 공개했다고 밝혔다.",
+    "마이크로소프트 코파일럿을 활용한 에이전틱 AI 구축 시연을 진행했다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "17a42dfbdcc80a71",
    "kind": "news",
@@ -68388,59 +68406,6 @@
    "summary_ko": [
     "월마트는 글로벌 광고 매출이 25% 증가했다고 밝혔다.",
     "경영진은 광고 성장의 배경으로 TV 제휴와 AI 기반 도구를 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "bce93bfabceb763a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SpaceX Holds Its Orbit As Space Stocks Fall Back To Earth — Inside A Rough Week For FLY, ASTS, RKLB And RDW",
-   "excerpt": "Rocket Lab completed its 100th Electron launch, and CEO Peter Beck explained how its larger Neutron rocket could approach a 50% gross margin.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/spacex-holds-orbit-space-stocks-fall-back-earth-rough-week-fly-asts-rklb-rdw/cNbS4SbR9KQ?.tsrc=rss",
-   "published": "2026-11-20T06:58:31+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "로켓랩이 100번째 일렉트론 발사를 완료했다고 다뤘다.",
-    "피터 벡 CEO가 대형 뉴트론 로켓의 50%에 가까운 매출총이익 접근 가능성에 대해 설명했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7c0f82c02fe92ab9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Goldman Sachs’ $177 Target Says Alibaba’s Selloff Went Too Far",
-   "excerpt": "Key TakeawaysGoldman Sachs kept its Buy rating and $177 target on Alibaba into the Nov. 19 report, 112% above a stock 53% below its January high.",
-   "url": "https://www.tikr.com/blog/goldman-sachs-177-target-says-alibabas-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261120-hfh887rj&.tsrc=rss",
-   "published": "2026-11-20T06:44:40+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "골드만삭스가 알리바바의 매도세가 지나치다는 의견을 냈다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "5a9260093ae1c859",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "WMT Stock Ticks Higher Overnight: Analyst Says Walmart Deserves Rich Valuation, CEO Stands By ‘Low Price’ Game",
-   "excerpt": "Walmart gains analyst confidence as Truist raises its price target, while stronger e-commerce sales evoke optimism.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/wmt-stock-ticks-higher-overnight-analyst-says-walmart-deserves-rich-valuation-ceo-stands-by-low-price-game/cNbSEHDR9Kf?.tsrc=rss",
-   "published": "2026-11-20T06:33:43+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트(WMT) 주가가 시간외 거래에서 소폭 상승했다고 전했다.",
-    "트루이스트의 목표주가 상향과 전자상거래 매출 강세가 긍정적 평가를 이끌었다고 언급했다."
    ],
    "tone": "pos"
   }
