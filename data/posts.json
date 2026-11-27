@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-27T04:30:32.191026+00:00",
+ "updated": "2026-11-27T05:00:39.197148+00:00",
  "posts": [
+  {
+   "id": "aef12e25d412ed0f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
+   "excerpt": "Analysts have reset their fair value estimate for Nvidia from about US$320 to about US$242, which marks a clear change in how the stock’s long term potential is being framed. This shift comes alongside fresh Street research that points to renewed confidence in Jensen Huang’s leadership and AI execution, while still flagging governance and regulatory risks that could influence how closely market prices track these updated targets. As you read on, you will see how these moving pieces fit...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-fair-value-042301514.html?.tsrc=rss",
+   "published": "2026-11-27T04:23:01+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "애널리스트들은 엔비디아의 적정 주가 추정치를 낮추며 장기적 잠재력 평가를 조정했다고 다뤘다.",
+    "경영진 리더십과 AI 실행력에 대한 신뢰를 언급하면서도 거버넌스 및 규제 리스크를 지적했다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "385f72dcb4c42172",
    "kind": "youtube",
@@ -91,6 +109,24 @@
    "tone": "neu"
   },
   {
+   "id": "82cb54ca5521f0df",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "AI Risk Is 'Moving Somewhere Harder to See': Citigroup, JPMorgan Reportedly Look to Offload AI Debt as Investors Grow Wary of Buildout",
+   "excerpt": "Banks have reportedly put portfolios of artificial intelligence-related loans on the market to shed risk or free up capacity to lend more, as investor appetite for the debt behind the buildout tests. Banks Shop Their AI Loans Citigroup Inc. (NYSE:C) and JPMorgan Chase & Co. (NYSE:JPM) are among the banks trying to “offload some of their exposure to AI-related debt,” according to a Semafor report, citing people familiar with the deals. In some cases, they are also trying to “ready themselves to t",
+   "url": "https://finance.yahoo.com/technology/ai/articles/ai-risk-moving-somewhere-harder-033352825.html?.tsrc=rss",
+   "published": "2026-11-27T03:33:52+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "summary_ko": [
+    "일부 은행들이 AI 관련 대출 포트폴리오를 매각하여 리스크를 줄이려 한다고 보도했다.",
+    "AI 인프라 구축을 위한 부채에 대한 투자자들의 경계감이 커지는 상황을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
    "id": "2d256cc7797136c4",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -107,6 +143,23 @@
     "양자 컴퓨팅 기술이 상업적 문제를 해결할 수 있는 시스템으로 전환되는 시기라고 다뤘다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "4fd4f44f7b16d716",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Microsoft’s Brad Smith Says ‘We Didn’t Know’ $10 Million Trump Ballroom Donation Would Involve Demolition of the East Wing: ’We Never Expect to Get Everything Perfect",
+   "excerpt": "Microsoft Corp. Vice Chair and President Brad Smith said the company partners with every administration it can, but was not aware that its reported $10 million donation to the new White House ballroom would involve demolishing the East Wing. MSFT...",
+   "url": "https://finance.yahoo.com/technology/articles/microsoft-brad-smith-says-didn-033007136.html?.tsrc=rss",
+   "published": "2026-11-27T03:30:07+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "summary_ko": [
+    "마이크로소프트의 브래드 스미스는 트럼프 무도회장 기부금이 동쪽 별관 철거와 관련될 줄 몰랐다고 밝혔다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "bc7b6c841df328ae",
@@ -68479,60 +68532,6 @@
    "summary_ko": [
     "인텔의 칩 제조 사업이 새로운 미스터리 고객과 함께 확대되고 있다고 다뤘다.",
     "주요 고객 확보는 TSMC의 독점에 대응하는 데 도움이 될 것이라고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "72b3e63b87a128ed",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "‘Bright Red Flags’: Nvidia Subpoenaed By California, Attorney General Also Probing Jensen Huang’s ‘Actions’",
-   "excerpt": "California served Nvidia Corp. (NASDAQ:NVDA) with an investigative subpoena on Thursday after former CEO Jensen Huang resigned amid an affair with an alleged Chinese spy. Conduct Raises ‘Bright Red Flags‘ Attorney General Rob Bonta‘s office is investigating whether China obtained Nvidia’s advanced chips or confidential information, and whether the company misled investors and the public about the risk, the California Department of Justice said in a statement. The department added that informatio",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/bright-red-flags-nvidia-subpoenaed-045550463.html?.tsrc=rss",
-   "published": "2026-11-20T04:55:50+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "캘리포니아주 법무부 등은 엔비디아와 전 CEO 젠슨 황의 행동에 대해 조사에 착수했다고 밝혔다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c27521efa2bb3755",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Micron CEO’s Nvidia message comes with warning for 2027",
-   "excerpt": "Micron’s chief says customers are locking in supply for years that haven’t started, a shift that could change how investors read the stock.",
-   "url": "https://www.thestreet.com/investing/micron-ceo-nvidia-warning-2027-supply-already-sold-out?.tsrc=rss",
-   "published": "2026-11-20T04:33:00+00:00",
-   "tickers": [
-    "NVDA",
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론 CEO는 고객들이 시작되지 않은 연도의 공급까지 미리 확보하고 있다고 언급했다.",
-    "이러한 공급망 변화가 투자자들의 주식 평가 방식에 영향을 줄 수 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "eafd7a03fafaeef7",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Tesla (TSLA)'s Shanghai Expansion Means For Shareholders",
-   "excerpt": "Tesla has been pushing ahead with higher output at its Shanghai Gigafactory, while rolling out Cybercab and robotaxi services across select cities and expanding autonomous vehicle manufacturing capacity in the U.S. and Europe. The pairing of Shanghai as a high volume export hub and dedicated Cybercab and Model Y autonomy programs gives Tesla a clearer split between cash generating EV production and capital intensive AI and robotics bets. We will look at how Tesla's investment narrative is...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-shanghai-expansion-means-043058154.html?.tsrc=rss",
-   "published": "2026-11-20T04:30:58+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "테슬라는 상하이 공장의 생산량을 늘리고 자율주행 및 로보택시 서비스를 추진하고 있다고 다뤘다.",
-    "현금 창출 전기차 생산과 AI 및 로보틱스 투자가 구분되는 투자 서사를 다뤘다."
    ],
    "tone": "pos"
   }
