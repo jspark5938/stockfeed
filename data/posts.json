@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-27T07:00:38.730185+00:00",
+ "updated": "2026-11-27T07:30:36.815690+00:00",
  "posts": [
+  {
+   "id": "b578109313b9da54",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "AI Rally Faces Fresh Test: Nvidia Curbs & Trump Tariffs",
+   "excerpt": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. Chapters: 00:00:00 - Insight with Haslinda Amin begins 00:01:04 - Asian stocks rise for a second day along with US equity-index futures 00:04:13 - Bank of Singapore Global CIO Jean Chia on the rebound in equities 00:08:18 - Jean Chia on copper prices and the AI trade 00:12:09 - Jean Chia on China and President Trump's latest tariff plans 00:20:12 - Ford CEO Jim Farley on competition from China 00:24:03 - Oil set for weekly gain amid attacks on Middle East energy infrastructure 00:26:34 - Energy Aspects Founder and Director ",
+   "url": "https://www.youtube.com/watch?v=-Zb0K56sPeU",
+   "published": "2026-11-27T07:11:07+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "AI 랠리가 엔비디아 규제와 트럼프 관세 등 새로운 시험대에 직면했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "43e7e6fcce286945",
    "kind": "news",
@@ -68369,43 +68386,6 @@
    "summary_ko": [
     "케빈 오리어리는 앤트로픽의 기업용 AI 전략을 높이 평가했다.",
     "그는 보안과 신뢰에 집중하는 전략이 경쟁 우위를 줄 것이라고 주장했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "1ee57bb77a1b5165",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Trump Admin Approved Nearly 900,000 AI Chips For China, House Data Shows: Nvidia Says H200 Shipments Were ‘Legal And Authorized’",
-   "excerpt": "President Donald Trump‘s administration approved licenses for Nvidia Corp. (NASDAQ:NVDA) and Advanced Micro Devices Inc. (NASDAQ:AMD) to sell nearly 900,000 artificial intelligence chips to Chinese companies. House Committee Releases Export License Data The House Foreign Affairs Committee released the data Thursday in what Chairman Brian Mast called “the most detailed public disclosure in the history of the Export Control Reform Act.” A Commerce Department Bureau of Industry and Security summary",
-   "url": "https://finance.yahoo.com/technology/ai/articles/trump-admin-approved-nearly-900-071623846.html?.tsrc=rss",
-   "published": "2026-11-20T07:16:23+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "트럼프 행정부가 엔비디아와 AMD의 AI 칩 중국 판매를 승인했다고 하원 데이터가 밝혔다.",
-    "엔비디아는 H200 선적이 합법적이고 승인된 것이라고 입장을 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a2f8401e7aed7e1e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart (WMT) Ad Revenue Jumped 25% As AI And TV Deals Gain Traction",
-   "excerpt": "Walmart (NasdaqGS:WMT) reported a 25% rise in global advertising revenue, with U.S. ad sales up 37% in the latest period. Management linked the advertising gains to recent moves in connected TV, including acquisitions involving Vizio and Vibe.co. The retailer highlighted new AI powered retail media tools and conversational commerce features as part of its advertising push. The 25% advertising jump supported by AI tools and connected TV deals feeds into a broader pattern our research has...",
-   "url": "https://finance.yahoo.com/media-advertising/articles/walmart-wmt-ad-revenue-jumped-071351195.html?.tsrc=rss",
-   "published": "2026-11-20T07:13:51+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트는 글로벌 광고 매출이 25% 증가했다고 밝혔다.",
-    "경영진은 광고 성장의 배경으로 TV 제휴와 AI 기반 도구를 언급했다."
    ],
    "tone": "pos"
   }
