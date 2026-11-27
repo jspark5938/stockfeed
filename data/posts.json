@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-27T23:00:39.739132+00:00",
+ "updated": "2026-11-27T23:30:31.459340+00:00",
  "posts": [
+  {
+   "id": "5b82b9ce237437f1",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Why Jensen Huang’s Return to Nvidia Matters for China",
+   "excerpt": "After a week of whiplash over Jensen Huang’s future and new US chip curbs, Beijing sent a clear message to Washington about their trade truce: China is holding up its side of the bargain — for now. Nectar Gan explains why China may be playing the long game.",
+   "url": "https://www.youtube.com/watch?v=uY48HGqjFVQ",
+   "published": "2026-11-27T23:00:14+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 거취와 새로운 미국 반도체 규제 속에 베이징이 워싱턴에 무역 휴전 관련 메시지를 보냈다고 다뤘다.",
+    "중국이 당장은 합의를 지키고 있으며 장기적인 관점을 취하고 있을 수 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "b3995c1eb2e28dbd",
    "kind": "news",
@@ -64693,179 +64711,6 @@
     "증권거래위원회(SEC)가 엔비디아의 회계 관행을 조사 중이라는 보도를 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "f3009893dee27ba5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "David Ellison Calls Elon Musk’s $1 Billion Investment ‘an Honor and a Privilege,’ Open to Future Starlink Collaboration",
-   "excerpt": "Skydance Corp. CEO David Ellison confirmed that Elon Musk invested in the media conglomerate formed by Paramount’s takeover of Warner Bros. Discovery, calling the Tesla Inc. and Space Exploration Technologies Corp. chief \"the greatest entrepreneur of our time.\" Ellison Praises...",
-   "url": "https://finance.yahoo.com/media-advertising/articles/david-ellison-calls-elon-musk-233006805.html?.tsrc=rss",
-   "published": "2026-11-20T23:30:06+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "데이비드 엘리슨 스카이댄스 CEO가 일론 머스크의 투자를 언급하며 협력 가능성을 열어두었다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c7c98b9bce5b895c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Data Center AI Chips Could Change the Winners: Broadcom and Marvell",
-   "excerpt": "Broadcom and Marvell stand to benefit as hyperscalers expand custom AI processors alongside merchant GPUs. AI training and inference impose different demands on computing, memory bandwidth, power and cost. The Information Network’s HBM model shows how processor architecture and memory content change demand. Introduction The selloff in semiconductor stocks has intensified questions about the sustainability […]",
-   "url": "https://247wallst.com/investing/2026/11/20/data-center-ai-chips-could-change-the-winners-broadcom-and-marvell/?.tsrc=rss",
-   "published": "2026-11-20T23:25:54+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "summary_ko": [
-    "하이퍼스케일러들의 맞춤형 AI 프로세서 확장에 따라 브로드컴과 마벨이 수혜를 입을 수 있다고 다뤘다.",
-    "AI 학습과 추론의 서로 다른 요구 사항이 프로세서 아키텍처와 메모리 수요에 영향을 미친다고 분석했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "8c252d9329162eae",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "PayPal vs. SoFi Technologies: Which Financial Stock Is a Better Buy for 2027?",
-   "excerpt": "PayPal's global reach and SoFi's shift to profitability pull in opposite directions, and the valuation gap between them may tip the debate for 2027 investors.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/20/paypal-vs-sofi-technologies-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-   "published": "2026-11-20T23:25:39+00:00",
-   "tickers": [
-    "SOFI"
-   ],
-   "summary_ko": [
-    "페이팔과 소파이 테크놀로지의 글로벌 도달 범위와 수익성 전환 등을 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e12b12a1741a9cec",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Can Rebound to $200, Analyst Says. Plus, L3Harris and 4 More Stocks.",
-   "excerpt": "Analysts report on Nvidia, L3Harris, Viking Holdings, Dolby Laboratories, Microsoft, Nvidia, and Lowe’s.",
-   "url": "https://finance.yahoo.com/m/d30b4016-add4-3d50-90e3-6716f9e7de29/nvidia-can-rebound-to-%24200%2C.html?.tsrc=rss",
-   "published": "2026-11-20T23:25:00+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT"
-   ],
-   "summary_ko": [
-    "분석가들이 엔비디아의 주가가 200달러까지 반등할 수 있다고 언급한 내용을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a9c0e0d5ecc0b876",
-   "kind": "youtube",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "President Trump would love to see Nvidia give Jensen Huang a second chance.",
-   "excerpt": "“That’s a very important company to us … we have to protect our brilliant people. Jensen is one of them,” Trump said to the press on Friday.",
-   "url": "https://www.youtube.com/watch?v=qK2Z_0go_Ek",
-   "published": "2026-11-20T23:19:38+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "트럼프 전 대통령은 엔비디아와 젠슨 황을 보호해야 할 중요한 기업과 인물로 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "eb30def5628a4bbf",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The Case for Buying Nvidia Stock Now",
-   "excerpt": "Letters to the editor on Nvidia, Anthropic, and Walt Disney.",
-   "url": "https://finance.yahoo.com/m/f3fc6a40-f533-3e3c-91f4-b28fb796c736/the-case-for-buying-nvidia.html?.tsrc=rss",
-   "published": "2026-11-20T23:15:00+00:00",
-   "tickers": [
-    "NVDA",
-    "DIS"
-   ],
-   "summary_ko": [
-    "엔비디아 주식 매수에 대한 독자들의 의견과 주장을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7741b6d827ae0b72",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "International Business Machines (IBM) Opens Lightwell Access On Microsoft Marketplace, Is It Still Undervalued?",
-   "excerpt": "International Business Machines (IBM) is back in the headlines after IBM and Red Hat opened up wider access to their Lightwell Network security offering through Microsoft’s cloud marketplace, putting open source software supply chain risk in sharper focus for investors. For International Business Machines, the headlines have not translated into short term gains. The 7 day share price return is down 9.18% and the 30 day share price return is down 10.75%. However, the 3 year total shareholder...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-opens-231452605.html?.tsrc=rss",
-   "published": "2026-11-20T23:14:52+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "IBM이 마이크로소프트 마켓플레이스에서 보안 서비스를 제공하기 시작한 소식을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3eecfe8c939c645d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cloudflare And 2 Other Top Cybersecurity Stocks",
-   "excerpt": "Banks are scrambling to fix fresh cyber weak spots as AI tools help attackers find flaws faster than defenders can patch them. That arms race puts digital security providers in the spotlight, because every outage or breach risk pushes budgets toward protection. For investors, that is where this screener comes in, highlighting globally listed cybersecurity stocks with high growth expectations and stronger balance sheets. This article walks through three of them. The three cybersecurity stocks...",
-   "url": "https://finance.yahoo.com/technology/articles/cloudflare-2-other-top-cybersecurity-231450526.html?.tsrc=rss",
-   "published": "2026-11-20T23:14:50+00:00",
-   "tickers": [
-    "NET"
-   ],
-   "summary_ko": [
-    "AI 도구 확산에 따른 사이버 보안 수요 증가와 관련 상장 종목들을 조명했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "21e59cc3a8932624",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba (BABA) Stock Price Faces Q2 Results Cash Flow Strain",
-   "excerpt": "Alibaba stock closed at US$81.08 on Friday, down 2.7% on the day and lower over the past week, month and quarter. The headline that sparked the move is harder to dismiss. For Q2 2027, the group booked revenue of ¥271.5b and net income of ¥64.5b, powered by a sharp jump in adjusted earnings before interest, tax, depreciation and amortisation from its AI focused cloud arm. Short term traders see a red screen. Long term investors see a business pouring cash into chips, models and data centres...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-baba-stock-price-faces-231434323.html?.tsrc=rss",
-   "published": "2026-11-20T23:14:34+00:00",
-   "tickers": [
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바의 2분기 실적과 클라우드 부문의 성과 및 현금 흐름 상황을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "d163431d2ca0a740",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart (WMT) Q3 Results Meet Sales Growth But Profitability Cools",
-   "excerpt": "Walmart came into this earnings print priced for near perfection, trading on a rich P/E multiple and sitting on a roughly 23.5% gain over the past three months. Q3 FY27 results did not break the story on the top line, with revenue of US$188.8b, but the real tension sits in profitability. Net income from ongoing operations landed at US$4.9b and basic EPS was US$0.62, softer than the prior quarter, even as the stock jumped 1.6% on the day. The market cheered. The margin picture looked more...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-q3-results-meet-231353428.html?.tsrc=rss",
-   "published": "2026-11-20T23:13:53+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트의 3분기 매출 성장과 완화된 수익성 지표를 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
