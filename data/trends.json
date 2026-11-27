@@ -1,9 +1,16 @@
 {
- "updated": "2026-11-27T01:00:39.348940+00:00",
+ "updated": "2026-11-27T01:30:32.508171+00:00",
  "trends": [
   {
    "ticker": "ARM",
    "name_ko": "ARM",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 1,
+   "ratio": 3.0
+  },
+  {
+   "ticker": "SHOP",
+   "name_ko": "쇼피파이",
    "mentions_24h": 3,
    "mentions_prev_24h": 1,
    "ratio": 3.0
@@ -35,13 +42,6 @@
    "mentions_24h": 7,
    "mentions_prev_24h": 4,
    "ratio": 1.75
-  },
-  {
-   "ticker": "SHOP",
-   "name_ko": "쇼피파이",
-   "mentions_24h": 3,
-   "mentions_prev_24h": 2,
-   "ratio": 1.5
   },
   {
    "ticker": "RIVN",
@@ -86,13 +86,6 @@
    "ratio": 0.83
   },
   {
-   "ticker": "AVGO",
-   "name_ko": "브로드컴",
-   "mentions_24h": 10,
-   "mentions_prev_24h": 13,
-   "ratio": 0.77
-  },
-  {
    "ticker": "XOM",
    "name_ko": "엑슨모빌",
    "mentions_24h": 3,
@@ -126,6 +119,13 @@
    "mentions_24h": 23,
    "mentions_prev_24h": 35,
    "ratio": 0.66
+  },
+  {
+   "ticker": "AVGO",
+   "name_ko": "브로드컴",
+   "mentions_24h": 9,
+   "mentions_prev_24h": 14,
+   "ratio": 0.64
   },
   {
    "ticker": "COST",
@@ -177,6 +177,13 @@
    "ratio": 0.52
   },
   {
+   "ticker": "GOOGL",
+   "name_ko": "알파벳(구글)",
+   "mentions_24h": 13,
+   "mentions_prev_24h": 26,
+   "ratio": 0.5
+  },
+  {
    "ticker": "TSM",
    "name_ko": "TSMC",
    "mentions_24h": 6,
@@ -191,32 +198,18 @@
    "ratio": 0.5
   },
   {
-   "ticker": "TSLA",
-   "name_ko": "테슬라",
-   "mentions_24h": 16,
-   "mentions_prev_24h": 33,
-   "ratio": 0.48
-  },
-  {
-   "ticker": "GOOGL",
-   "name_ko": "알파벳(구글)",
-   "mentions_24h": 13,
-   "mentions_prev_24h": 27,
-   "ratio": 0.48
-  },
-  {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 103,
-   "mentions_prev_24h": 219,
+   "mentions_24h": 101,
+   "mentions_prev_24h": 217,
    "ratio": 0.47
   },
   {
-   "ticker": "PLTR",
-   "name_ko": "팔란티어",
-   "mentions_24h": 6,
-   "mentions_prev_24h": 13,
-   "ratio": 0.46
+   "ticker": "TSLA",
+   "name_ko": "테슬라",
+   "mentions_24h": 15,
+   "mentions_prev_24h": 34,
+   "ratio": 0.44
   },
   {
    "ticker": "INTC",
@@ -266,6 +259,13 @@
    "mentions_24h": 21,
    "mentions_prev_24h": 56,
    "ratio": 0.38
+  },
+  {
+   "ticker": "PLTR",
+   "name_ko": "팔란티어",
+   "mentions_24h": 5,
+   "mentions_prev_24h": 14,
+   "ratio": 0.36
   },
   {
    "ticker": "CRWD",

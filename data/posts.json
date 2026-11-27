@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:00:39.348940+00:00",
+ "updated": "2026-11-27T01:30:32.508171+00:00",
  "posts": [
   {
    "id": "77c7229fcb7a1808",
@@ -16,7 +16,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "7ed0ea51271925fd",
@@ -32,7 +32,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "45fc31630c253bcc",
@@ -49,7 +49,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "90427b960181e449",
@@ -714,7 +714,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "f93a27bcbeabb64f",
@@ -730,7 +730,7 @@
    ],
    "summary_ko": null,
    "tone": null,
-   "summary_tries": 1
+   "summary_tries": 2
   },
   {
    "id": "8fbd88f3db737ab7",
@@ -68583,131 +68583,6 @@
    "summary_ko": [
     "캘리포니아주 법무부가 엔비디아를 상대로 조사 소환장을 발부했다고 다뤘다.",
     "칩과 기밀의 중국 유출 여부 및 투자자 오인 여부를 조사 중이라고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "31e072363bb54756",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why CrowdStrike Holdings Stock Flew While the Market Flopped Today",
-   "excerpt": "A fellow cybersecurity company posted a very encouraging quarterly earnings report.",
-   "url": "https://www.fool.com/investing/2026/11/19/why-crowdstrike-holdings-stock-flew-while-the-market-flopped-today/?.tsrc=rss",
-   "published": "2026-11-20T01:27:55+00:00",
-   "tickers": [
-    "CRWD"
-   ],
-   "summary_ko": [
-    "시장 하락 속에서도 크라우드스트라이크 주가가 상승한 이유를 다뤘다.",
-    "다른 사이버보안 기업의 긍정적인 실적 보고서가 영향을 미쳤다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f5e68b5960f1d467",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Nvidia's sell-off could be a buying opportunity (with a catch)",
-   "excerpt": "Worth Charting CEO and founder Carter Worth explains why Nvidia’s sharp decline could present a buying opportunity, but cautions that a rebound doesn’t necessarily mean a recovery.",
-   "url": "https://www.thestreet.com/investing/stocks/why-nvidias-sell-off-could-be-a-buying-opportunity-with-a-catch?.tsrc=rss",
-   "published": "2026-11-20T01:25:30+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 주가 급락이 매수 기회가 될 수 있다는 분석을 다뤘다.",
-    "다만 반등이 곧바로 회복을 뜻하는 것은 아니라고 경고했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "1b823d7d24fe62af",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Peter Thiel Now Has as Much Money in an Argentine Oil Stock as in Amazon. It’s Down 23% Since September 30",
-   "excerpt": "Peter Thiel's hedge fund bought 697,043 more shares of Vista Energy last quarter, and on September 30 its $123.3 million stake in the Argentine shale driller matched its $123.3 million in Amazon to within $24,583. Brent crude has fallen 25% from its October 30 price since, and Vista 23% since September 30. Here is what Vista is and why an investor might bet on Vaca Muerta.",
-   "url": "https://247wallst.com/investing/2026/11/19/peter-thiel-now-has-as-much-money-in-an-argentine-oil-stock-as-in-amazon-its-down-23-since-september-30/?.tsrc=rss",
-   "published": "2026-11-20T01:17:06+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "피터 틸의 헤지펀드가 아르헨티나 석유 기업 비스타 에너지 주식을 매수했다고 다뤘다.",
-    "해당 지분 가치는 아마존 투자금과 유사한 수준이라고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "316d31d88b98376e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Rigetti Computing (RGTI) Pricing In Too Much Balance Sheet Hope?",
-   "excerpt": "Rigetti Computing has seen its share price swing sharply in recent years, and that volatility now raises a clear question about how today’s valuation lines up with the company’s book value. After such a dramatic journey for the stock, investors are asking whether the current market price still has a solid balance sheet foundation behind it or if expectations have run ahead of the underlying assets. Over roughly three years Rigetti Computing has delivered a share price gain of about 7x, which...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/rigetti-computing-rgti-pricing-too-011333947.html?.tsrc=rss",
-   "published": "2026-11-20T01:13:33+00:00",
-   "tickers": [
-    "RGTI"
-   ],
-   "summary_ko": [
-    "리게티 컴퓨팅의 주가 변동성과 밸류에이션에 대한 의문을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "59999cc480586c16",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Alibaba Group Holding Accused of Hiding Ties to Suspected Spy in Nvidia Scandal, Lawsuit Says",
-   "excerpt": "Alibaba Group Holding (BABA) was sued in a proposed securities class action by shareholders who accu",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-accused-hiding-010413571.html?.tsrc=rss",
-   "published": "2026-11-20T01:04:13+00:00",
-   "tickers": [
-    "NVDA",
-    "BABA"
-   ],
-   "summary_ko": [
-    "알리바바 그룹 홀딩이 주주들로부터 증권 집단소송을 당했다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "ca67624d6d88448e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Michael Burry Says He Tried to Warn You About Nvidia, CoreWeave and Nebius. Here's What the 'Big Short' Investor Saw",
-   "excerpt": "The famed investor took a victory lap as AI stocks slid again on Thursday.",
-   "url": "https://www.fool.com/investing/2026/11/19/michael-burry-says-he-tried-to-warn-you-about-nvidia-coreweave-and-nebius-stocks-here-s-what-the-big-short-investor-saw/?.tsrc=rss",
-   "published": "2026-11-20T01:03:36+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "마이클 버리는 엔비디아, 코어위브, 네비우스에 대해 경고해왔다고 주장했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "9f0a55335fb04714",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "The market could fall 10-12% — stocks to buy and sell now",
-   "excerpt": "Carter Worth, CEO, Worth Charting warns that overcrowded defensive trades have left the S&P 500 vulnerable to a 10% to 12% year-end drop—and shares why he’s taking profits on consumer staples like Coca-Cola and Costco while buying oversold bounces in Nvidia and Caterpillar alongside strong charts ...",
-   "url": "https://www.thestreet.com/video/the-market-could-fall-10-12-stock-to-buy-and-sell-now?.tsrc=rss",
-   "published": "2026-11-20T01:00:46+00:00",
-   "tickers": [
-    "NVDA",
-    "COST"
-   ],
-   "summary_ko": [
-    "카터 워스는 S&P 500 지수가 연말에 10~12% 하락할 가능성이 있다고 경고했다.",
-    "방어주 비중을 줄이고 엔비디아와 캐터필러 등을 매수하고 있다고 언급했다."
    ],
    "tone": "neg"
   }
