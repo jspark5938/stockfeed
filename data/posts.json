@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-27T10:00:37.692819+00:00",
+ "updated": "2026-11-27T10:30:32.948503+00:00",
  "posts": [
+  {
+   "id": "afc88fcff1cc8e01",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Market Chatter: Nvidia Stops Southeast Asia Chip Sales Following Proposed US Restrictions",
+   "excerpt": "Nvidia (NVDA) has stopped some sales of its highest-end artificial intelligence microchips to Malays",
+   "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-stops-southeast-102254508.html?.tsrc=rss",
+   "published": "2026-11-27T10:22:54+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미국의 제안된 규제에 따라 엔비디아가 동남아시아 일부 지역에 대한 AI 칩 판매를 중단했다고 전했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "2bc3013e4083cd9b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Forecast $130 Billion in Revenue and Added $150 Billion to Its Buyback. Should You Buy the Stock?",
+   "excerpt": "The market is unprepared if Nvidia ends up being fine.",
+   "url": "https://www.fool.com/investing/2026/11/27/nvidia-forecast-usd130-billion-in-revenue-and-added-usd150-billion-to-its-buyback-should-you-buy-the-stock/?.tsrc=rss",
+   "published": "2026-11-27T10:20:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 1300억 달러의 매출을 전망하고 자사주 매입을 1500억 달러 늘렸다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "b58c3045b54d8c19",
    "kind": "news",
@@ -123,6 +157,25 @@
    "summary_ko": [
     "엔비디아가 젠슨 황을 CEO로 재선임하면서 기술주가 급등했다고 전했다.",
     "그러나 최근의 변동성이 AI 투자에 새로운 국면을 의미하는지 우려가 이어진다고 보도했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "1cf7181e48325cb0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Airbnb CEO Brian Chesky says staff call him a ‘control freak’—but that he learned it from Apple’s Steve Jobs",
+   "excerpt": "Aribnb's billionaire CEO Brian Chesky called Apple’s Steve Jobs a 'control freak,' before admitting Airbnb workers probably say the same about him.",
+   "url": "https://finance.yahoo.com/small-business/articles/airbnb-ceo-brian-chesky-says-080100881.html?.tsrc=rss",
+   "published": "2026-11-27T08:01:00+00:00",
+   "tickers": [
+    "AAPL",
+    "ABNB"
+   ],
+   "summary_ko": [
+    "에어비앤비 CEO 브라이언 체스키가 애플의 스티브 잡스에게서 통제 광적인 성향을 배웠다고 언급했다.",
+    "자신도 직원들로부터 그런 말을 듣는다고 인정했다고 전했다."
    ],
    "tone": "neu"
   },
@@ -267,6 +320,24 @@
     "이번 계약에는 일부 에어버스 제트기도 포함될 것으로 예상된다고 전해졌다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "39a6ccfe5ff3b16f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Mohamed El-Erian Says Nvidia Is “Too Big to Wobble.” Its Customers’ Data Center Plans Aren’t",
+   "excerpt": "Key TakeawaysNVIDIA gave back about 40% of its post-Huang rally this week and trades at about 10x forward earnings, despite open backing from the Trump administration. Mohamed El-Erian says NVIDIA is “too big to wobble,” but agreed 2027 looks tough for the data center build-out.",
+   "url": "https://www.tikr.com/blog/mohamed-el-erian-says-nvidia-is-too-big-to-wobble-its-customers-data-center-plans-arent?ref=yahoofinance&tlnk=yf-261127-5fxwjrgg&.tsrc=rss",
+   "published": "2026-11-27T05:48:26+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "모하메드 엘에라이언은 엔비디아가 흔들리기엔 너무 크다고 주장했다.",
+    "다만 2027년 데이터센터 구축 전망은 어려워 보인다는 점에 동의했다고 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "4ea24f01c5869f11",
@@ -67903,142 +67974,6 @@
    ],
    "summary_ko": [
     "코인베이스가 규제 당국에 예측 시장 스왑 규칙과 관련된 의견서를 제출했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c511082645ad8f77",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Why Is AMD Down 5% In Premarket Today?",
-   "excerpt": "AMD extended its slide for a second day after reports questioned its China business even though analysts see little merit in the allegations.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/why-is-amd-down-5-in-premarket-today/cNbSfC3R9KV?.tsrc=rss",
-   "published": "2026-11-20T10:22:33+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "중국 사업 관련 의혹 보도로 인해 AMD 주가가 하락세를 보였다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c7449a76145f73b9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia’s SEC Probe Isn’t Going Away, Even as a Blowout Quarter and a CEO Shake-Up Steal the Spotlight",
-   "excerpt": "Key TakeawaysNVIDIA reported $115. 8 billion of quarterly revenue, up 103%, as the Wall Street Journal reported an SEC civil probe into whether its disclosures misled investors.",
-   "url": "https://www.tikr.com/blog/nvidias-sec-probe-isnt-going-away-even-as-a-blowout-quarter-and-a-ceo-shake-up-steal-the-spotlight?ref=yahoofinance&tlnk=yf-261120-69rqpvg4&.tsrc=rss",
-   "published": "2026-11-20T10:20:31+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아의 SEC 조사와 함께 분기 매출이 103% 증가했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "71bfa7ea4eaae07a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Apple Is “Buying Back Stock at 40 Times Earnings.” Cash in Treasuries Would Earn More",
-   "excerpt": "Key TakeawaysApple trades at 37. 4x forward earnings, near its 10-year high, after $901 billion of buybacks from 2012 through September 2026.",
-   "url": "https://www.tikr.com/blog/apple-is-buying-back-stock-at-40-times-earnings-cash-in-treasuries-would-earn-more?ref=yahoofinance&tlnk=yf-261120-48qj5666&.tsrc=rss",
-   "published": "2026-11-20T10:19:33+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "애플이 높은 밸류에이션에서 자사주를 매입하고 있다는 내용을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "4c787aeb67b38c97",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Google Stock Is Back Near Its 2025 Bottom Valuation. Can It Rebound Again?",
-   "excerpt": "Google stock trades near 15 times earnings, close to its spring 2025 valuation low, as Alphabet’s AI spending climbs.",
-   "url": "https://beincrypto.com/google-stock-valuation-2025-bottom/?.tsrc=rss",
-   "published": "2026-11-20T10:14:07+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "알파벳의 AI 지출이 증가하는 가운데 구글 주가가 저점 부근에서 거래되고 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "32f340c44d3ebdd3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "NIO (NIO) Brings Three Minute Battery Swaps To Extreme Subzero Conditions",
-   "excerpt": "NIO (NYSE:NIO) announced a new battery swapping breakthrough that keeps three minute swaps operating in extreme subzero conditions. The company reported that its latest swap stations maintain full swapping functionality during deep freeze tests in harsh winter climates. NIO said the updated system targets drivers in regions with prolonged severe winters where conventional fast charging can face performance limits. The subzero three minute battery swap breakthrough is part of a broader...",
-   "url": "https://finance.yahoo.com/technology/articles/nio-nio-brings-three-minute-101353734.html?.tsrc=rss",
-   "published": "2026-11-20T10:13:53+00:00",
-   "tickers": [
-    "NIO"
-   ],
-   "summary_ko": [
-    "니오가 극심한 저온 환경에서도 3분 만에 배터리 교체가 가능한 시스템을 발표했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "32b6710d68b79e29",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Starbucks Is Up 16% Since September as Holiday Merch Becomes “a Cultural Phenomenon”",
-   "excerpt": "Key TakeawaysStarbucks says its November 5 holiday launch was its highest U. S.",
-   "url": "https://www.tikr.com/blog/starbucks-is-up-16-since-september-as-holiday-merch-becomes-a-cultural-phenomenon?ref=yahoofinance&tlnk=yf-261120-pj8cvv3x&.tsrc=rss",
-   "published": "2026-11-20T10:10:59+00:00",
-   "tickers": [
-    "SBUX"
-   ],
-   "summary_ko": [
-    "스타벅스는 9월 이후 홀리데이 상품이 문화적 현상이 되며 상승했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "5472c9deb1dd079a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD stock gets drilled again in the wake of surprise short seller report",
-   "excerpt": "AMD shares continue to be under pressure after a short seller takes aim.",
-   "url": "https://finance.yahoo.com/markets/stocks/article/amd-stock-gets-drilled-again-in-the-wake-of-surprise-short-seller-report-100450073.html?.tsrc=rss",
-   "published": "2026-11-20T10:04:50+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "공매도 보고서의 여파로 AMD 주가가 계속해서 압박을 받고 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "b9b22b2298429562",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A SpaceX-Tesla Merger Needs \"Yes\" From 50% of All Tesla Shares, Not Just Votes Cast. Here's Why That Math Is Harder Than Wall Street Thinks.",
-   "excerpt": "Musk wants to merge SpaceX and Tesla, but the voting math is tougher than it looks.",
-   "url": "https://www.fool.com/investing/2026/11/20/a-spacex-tesla-merger-needs-yes-from-50-of-all-tes/?.tsrc=rss",
-   "published": "2026-11-20T10:04:00+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "summary_ko": [
-    "머스크가 스페이스X와 테슬라의 합병을 원하고 있으나 투표 수학이 까다롭다고 다뤘다."
    ],
    "tone": "neu"
   }
