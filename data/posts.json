@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-28T08:30:33.386709+00:00",
+ "updated": "2026-11-28T09:00:37.748847+00:00",
  "posts": [
+  {
+   "id": "4804b8ee9ff5c85d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "OpenAI’s 457 MW TensorWave Deal Could Be Worth Up To $9.1B, Say Analysts: What It Means For AMD Stock",
+   "excerpt": "The six-year agreement between OpenAI and TensorWave covers 457 megawatts of dedicated AI infrastructure powered by AMD's Instinct MI455X GPUs.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/openai-tensorwave-deal-amd-9-1b-what-it-means-for-amd-stock/cNRRu5WR9Vw?.tsrc=rss",
+   "published": "2026-11-28T08:29:50+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "애널리스트들은 OpenAI와 텐서웨이브의 계약이 최대 91억 달러 가치일 수 있다고 분석했다.",
+    "6년간의 이번 계약은 AMD의 칩으로 구동되는 AI 인프라를 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "be6b3fba218548d7",
    "kind": "news",
@@ -64503,41 +64521,6 @@
    "summary_ko": [
     "에어비앤비 주가는 최근 하락세를 보였으나 연초 이후로는 상승세를 유지하고 있다.",
     "최근 주가 하락과 단기적인 투자 심리 냉각에 주목했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "85e681c3d54df7de",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Memory Was “a Commodity Even Five Years Ago,” Micron’s President Says. Its Stock Still Trades Like One",
-   "excerpt": "Key TakeawaysMicron’s president says memory is no longer a commodity, yet the stock trades at about 3. 4x fiscal 2027 consensus earnings.",
-   "url": "https://www.tikr.com/blog/memory-was-a-commodity-even-five-years-ago-microns-president-says-its-stock-still-trades-like-one?ref=yahoofinance&tlnk=yf-261121-4p44hrjp&.tsrc=rss",
-   "published": "2026-11-21T08:50:14+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "마이크론 사장은 메모리가 더 이상 범용 제품이 아니라고 주장했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9d20f059b08521cb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD vs. Nvidia: Which AI Chip Stock Is the Better Buy on the Dip?",
-   "excerpt": "AMD and Nvidia both got hammered this month. Only one is the better bargain.",
-   "url": "https://www.fool.com/investing/2026/11/21/amd-vs-nvidia-which-ai-chip-stock-is-the-better-buy-on-the-dip/?.tsrc=rss",
-   "published": "2026-11-21T08:50:02+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "이달 하락세를 겪은 AMD와 엔비디아 중 어느 AI 칩 주식이 더 나은 저가 매수 기회인지 다뤘다."
    ],
    "tone": "neu"
   }
