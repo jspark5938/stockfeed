@@ -1,6 +1,80 @@
 {
- "updated": "2026-11-28T20:00:37.706704+00:00",
+ "updated": "2026-11-28T20:30:32.505164+00:00",
  "posts": [
+  {
+   "id": "61338debf1f59fb7",
+   "kind": "youtube",
+   "source": "The Motley Fool",
+   "author": "The Motley Fool",
+   "title": "Is the AI Rally Over? 4 Stocks You Need to See",
+   "excerpt": "Podcast: Is the rally for AI stocks over? We look at four companies to consider now that NVIDIA stock has fallen from its peak. NVIDIA has seen a significant drop in its share price recently, leading investors to question the future of the sector. We analyze the current landscape to identify potential investment opportunities for those looking beyond the most popular names in the trade. If the market leader continues to lose market share, other competitors may be positioned to capture that value. We discuss why AMD is a compelling candidate in this shifting environment and what you should watch for in the charts. Which of these companies are you watching most closely right now? Subscribe for weekly market breakdowns and let us know your thoughts in the comments. This video is brought to yo",
+   "url": "https://www.youtube.com/watch?v=AHgzn14GF_w",
+   "published": "2026-11-28T20:25:14+00:00",
+   "tickers": [
+    "NVDA",
+    "AMD"
+   ],
+   "summary_ko": [
+    "엔비디아 주가 하락 속에서 AI 랠리가 끝났는지 분석을 다뤘다.",
+    "시장 리더가 주춤할 때 AMD가 대안이 될 수 있다고 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5ca1ad9005a21548",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Reddit (RDDT) Could Be 52% Undervalued As Google Referral Risks Grow",
+   "excerpt": "Reddit (RDDT) is in the spotlight after management flagged a drop in Google referrals linked to AI Overviews, warning that daily active users could fall by a low double-digit percentage this quarter. Recent headlines around Google referrals come on top of a sharp reset in Reddit’s share price, with the 30-day share price return down 30.34% and the year-to-date share price return down 61.21%, while the 1-year total shareholder return has declined 56.65% from earlier levels. This contrasts with...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-could-52-undervalued-200812970.html?.tsrc=rss",
+   "published": "2026-11-28T20:08:12+00:00",
+   "tickers": [
+    "GOOGL",
+    "RDDT"
+   ],
+   "summary_ko": [
+    "구글 AI 오버뷰로 인한 유입 감소로 일간 활성 사용자 감소 우려를 다뤘다.",
+    "그럼에도 레딧이 저평가되었을 가능성을 함께 언급했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "9836f5a6a5f83d75",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Netflix (NFLX) Faces An Earnings Test On A Narrative That Still Looks Undervalued",
+   "excerpt": "Investor attention around Netflix (NFLX) has picked up ahead of its next earnings report, as the streaming group leans harder into live programming, sports rights and ongoing share buybacks. Recent trading shows a split picture. Netflix’s share price is up 2.56% over the last day and 7.40% over the week, yet the 90 day share price return is down 25.44% and the year to date share price return is down 33.04%. The 3 year total shareholder return of 30.82% points to momentum that has cooled...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-faces-earnings-test-200735576.html?.tsrc=rss",
+   "published": "2026-11-28T20:07:35+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "실적 발표를 앞둔 넷플릭스의 라이브 프로그래밍과 자사주 매입 등을 다뤘다.",
+    "단기 변동성에도 불구하고 여전히 저평가된 서사라는 시각을 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "1a0bf2a433de3301",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Bull v. Bear: Will Amazon Shopping Boost Shares?",
+   "excerpt": "Characteristics and Risks of Standardized Options: Alex Coffey says Amazon (AMZN) has been relatively resilient, but the consumer and retail are the \"engine that drives the ship.\" He warns a blowout holiday season may not be in the cards with inflation-adjusted holiday spending growth of 2.8% and questions high-net-worth household spending intent. Kevin Hincks, however, thinks people shop more on Amazon than ever, and notes third-party sales margins are strong. As someone who breaks down Amazon boxes as his family spends, Kevin sees Amazon's role as only getting bigger. Alex and Kevin offer sample trades. ======== Schwab Network ======== Empowering every investor and trader, every market day. Options involve risks and are not suitable for all investors. Before trading, read the Options Dis",
+   "url": "https://www.youtube.com/watch?v=kCmVrsUK-iI",
+   "published": "2026-11-28T20:00:34+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존 주가에 대해 인플레이션을 감안한 연말 소비 둔화 우려를 제기했다.",
+    "반면 지속적인 쇼핑 수요와 강한 마진을 근거로 역할이 커질 것이라고 보았다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "133a253f2f6c01cd",
    "kind": "youtube",
