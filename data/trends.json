@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T20:54:35.723929+00:00",
+ "updated": "2026-11-28T21:00:44.369990+00:00",
  "trends": [
   {
    "ticker": "META",
@@ -121,18 +121,18 @@
    "ratio": 0.5
   },
   {
+   "ticker": "AMZN",
+   "name_ko": "아마존",
+   "mentions_24h": 17,
+   "mentions_prev_24h": 37,
+   "ratio": 0.46
+  },
+  {
    "ticker": "GOOGL",
    "name_ko": "알파벳(구글)",
    "mentions_24h": 11,
    "mentions_prev_24h": 24,
    "ratio": 0.46
-  },
-  {
-   "ticker": "AMZN",
-   "name_ko": "아마존",
-   "mentions_24h": 17,
-   "mentions_prev_24h": 38,
-   "ratio": 0.45
   },
   {
    "ticker": "NVDA",
@@ -226,6 +226,13 @@
    "ratio": 0.18
   },
   {
+   "ticker": "MU",
+   "name_ko": "마이크론",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 22,
+   "ratio": 0.14
+  },
+  {
    "ticker": "AVGO",
    "name_ko": "브로드컴",
    "mentions_24h": 2,
@@ -237,13 +244,6 @@
    "name_ko": "마이크로소프트",
    "mentions_24h": 4,
    "mentions_prev_24h": 31,
-   "ratio": 0.13
-  },
-  {
-   "ticker": "MU",
-   "name_ko": "마이크론",
-   "mentions_24h": 3,
-   "mentions_prev_24h": 23,
    "ratio": 0.13
   }
  ]
