@@ -1,6 +1,92 @@
 {
- "updated": "2026-11-28T01:00:36.493976+00:00",
+ "updated": "2026-11-28T01:30:31.071517+00:00",
  "posts": [
+  {
+   "id": "c613b01f4c76f4cb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
+   "excerpt": "Investing.com -- U.S. online spending on Black Friday is expected to exceed $13 billion, according to Adobe Analytics, as shoppers pursue holiday discounts amid persistent inflation and elevated gasoline prices.",
+   "url": "https://finance.yahoo.com/economy/articles/u-black-friday-online-sales-012646652.html?.tsrc=rss",
+   "published": "2026-11-28T01:26:46+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "summary_ko": [
+    "어도비 애널리틱스는 미국의 블랙프라이데이 온라인 매출이 13억 달러를 넘어설 것으로 예상했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "2e8bd6d84d24c055",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Stock Is Still Down 38% From Its Peak Despite Jensen Huang's Return. History Suggests a $10,000 Investment Today Will Be Worth This Much by Year-End 2027.",
+   "excerpt": "Nvidia's accelerating earnings growth and historically cheap valuation could help investors double their money by the end of 2027.",
+   "url": "https://www.fool.com/investing/2026/11/27/nvidia-stock-is-still-down-38-from-its-peak-despite-jensen-huang-s-return-history-suggests-a-usd10-000-investment-today-will-be-worth-this-much-by-year-end-2027/?.tsrc=rss",
+   "published": "2026-11-28T01:11:20+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 가속화된 실적 성장과 저렴해진 밸류에이션이 2027년 말까지 투자금을 두 배로 만들 수 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "a358d3e1c0203cf8",
+   "kind": "youtube",
+   "source": "Meet Kevin",
+   "author": "Meet Kevin",
+   "title": "The Market is Crashing like it's 1962.",
+   "excerpt": "🚀 Code BlackFriday = LOWEST PRICE GUARANTEED on ReinvestOne & Terminal ✅ LIFETIME ACCESS 👉 (ends 11-27, 11:59pm PT) Are we living through 1962 all over again? In December 1961 the S&P 500 sat at $72.64. Six months later it was $52.34, a 28% drop in 196 days, with no recession, falling unemployment and GDP growing over 6%. They called it the Kennedy Slide. In this video I break down the Deutsche Bank comparison everyone is talking about: the three things nearly every bear market has had (a recession, recession expectations, or a Fed hiking cycle), why 1962 was the last one with none of them, and how today lines up. Then the differences. In 1961 you paid 24 times earnings, and Xerox, Hewlett-Packard and IBM traded at 80 to 122 times before getting crushed. Today Nvidia trades around 30 times",
+   "url": "https://www.youtube.com/watch?v=AXiZXG365tI",
+   "published": "2026-11-28T01:06:42+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "현재 시장 상황을 1962년의 급락세와 비교하는 도이체방크의 분석을 다뤘다.",
+    "1962년 당시와 현재 엔비디아의 주가수익비율 등을 비교하며 차이점을 분석했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "51f052fbd9242ff1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "OpenAI says a spy handed Apple secret plans for AI devices that could 'outcompete' the iPhone maker on its 'own turf'",
+   "excerpt": "OpenAI and Apple are suing each other for stealing as the race to develop AI products fuels competition for talent and technology.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/openai-says-spy-handed-apple-010000370.html?.tsrc=rss",
+   "published": "2026-11-28T01:00:00+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "오픈AI와 애플이 인재와 기술 확보 경쟁 속에서 서로를 상대로 소송을 제기했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "5d71192b3fc14e8b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "3 Reasons I Might Buy More Nvidia in December",
+   "excerpt": "The stock is down nearly 30% over the past month, even as its fundamentals have only improved.",
+   "url": "https://www.fool.com/investing/2026/11/27/3-reasons-i-might-buy-more-nvidia-in-december/?.tsrc=rss",
+   "published": "2026-11-28T00:58:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 펀더멘털이 개선되었음에도 최근 한 달간 주가가 크게 하락한 점을 언급했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "2491e8416919dbc8",
    "kind": "news",
@@ -195,6 +281,41 @@
    "tone": "neu"
   },
   {
+   "id": "0a28fb351698699a",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dutch Trade Minister: “The US Is Not the Boss of Veldhoven.” That’s Good News for ASML’s China Sales",
+   "excerpt": "Key TakeawaysThe Dutch trade minister said the Netherlands will resist the MATCH Act, a US bill that would extend America’s curbs on selling and servicing chipmaking tools in China to ASML. With the Dutch government itself refusing, Washington will have a harder time cutting off ASML’s China business, which the company expects to be about 20% of its 2026 sales.",
+   "url": "https://www.tikr.com/blog/dutch-trade-minister-the-us-is-not-the-boss-of-veldhoven-thats-good-news-for-asmls-china-sales?ref=yahoofinance&tlnk=yf-261127-j78q9rgp&.tsrc=rss",
+   "published": "2026-11-27T23:24:58+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "summary_ko": [
+    "네덜란드 무역 장관이 미국의 대중국 반도체 장비 규제 법안에 반대 입장을 밝혔다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "a6c2f32eb12aac5c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Plot Twist: Nvidia’s Vera Rubin Gets 2-6.5x GB300’s Tokens per Dollar. Amazon’s Trainium Edge Was Against the Old Chip",
+   "excerpt": "Key TakeawaysSemiAnalysis found that Nvidia’s Vera Rubin NVL72 rack delivers 2x to 6. 5x the tokens per dollar of total cost of its GB300 NVL72 rack.",
+   "url": "https://www.tikr.com/blog/plot-twist-nvidias-vera-rubin-gets-2-6-5x-gb300s-tokens-per-dollar-amazons-trainium-edge-was-against-the-old-chip?ref=yahoofinance&tlnk=yf-261127-2mxwqf36&.tsrc=rss",
+   "published": "2026-11-27T23:23:55+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN"
+   ],
+   "summary_ko": [
+    "세미애널리시스의 분석을 인용해 엔비디아의 베라 루빈 랙이 GB300 랙보다 비용 대비 토큰 성능이 더 뛰어나다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "b739572b1fe4aa12",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -211,6 +332,40 @@
     "막대한 자본적 지출 이후 AI 투자를 수익화하려 한다고 언급했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "f5f69dfad4763f67",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Amazon Hits Its Lowest P/E Ever. Jim Cramer Predicts It Will “Prove to Be the Winner”",
+   "excerpt": "Key TakeawaysAmazon’s forward P/E has fallen to about 24x, near its lowest in a decade, even as analysts expect its normalized EPS to nearly double from 2025 to 2028. Voters are turning against new data centers, which makes the capacity AWS already owns worth more.",
+   "url": "https://www.tikr.com/blog/amazon-hits-its-lowest-p-e-ever-jim-cramer-predicts-it-will-prove-to-be-the-winner?ref=yahoofinance&tlnk=yf-261127-6f785p32&.tsrc=rss",
+   "published": "2026-11-27T23:22:41+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존의 선행 주가수익비율이 최저 수준으로 하락했으며, 짐 크레이머가 승자가 될 것이라고 예측했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "40d32900621c3ef5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Warning for Alphabet Investors: MScience Data Show Q4 Search Revenue Tracking Below Consensus",
+   "excerpt": "Key TakeawaysMScience data have Alphabet’s fourth-quarter ad revenue tracking 2. 4% below consensus, with Search & other growth slowing to 7.",
+   "url": "https://www.tikr.com/blog/warning-for-alphabet-investors-mscience-data-show-q4-search-revenue-tracking-below-consensus?ref=yahoofinance&tlnk=yf-261127-64qqmx2j&.tsrc=rss",
+   "published": "2026-11-27T23:21:23+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "MScience 데이터를 인용해 알파벳의 4분기 광고 매출이 시장 컨센서스에 미치지 못하고 있다고 경고했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "bad6ae4ac76ad42e",
@@ -244,6 +399,23 @@
    "summary_ko": [
     "젠슨 황의 거취와 새로운 미국 반도체 규제 속에 베이징이 워싱턴에 무역 휴전 관련 메시지를 보냈다고 다뤘다.",
     "중국이 당장은 합의를 지키고 있으며 장기적인 관점을 취하고 있을 수 있다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "cc04798b671e00c7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Many Shares of Microchip or Qualcomm Pay $1,000 a Month in Dividends?",
+   "excerpt": "Key TakeawaysAt today’s prices, about 6,594 shares of Microchip Technology, costing about $398,100, or about 3,261 shares of Qualcomm, costing about $584,600, would each pay $1,000 a month in dividends. Microchip’s 3.",
+   "url": "https://www.tikr.com/blog/how-many-shares-of-microchip-or-qualcomm-pay-1000-a-month-in-dividends?ref=yahoofinancedividend&tlnk=yf-261127-84mggvf4&.tsrc=rss",
+   "published": "2026-11-27T22:35:20+00:00",
+   "tickers": [
+    "QCOM"
+   ],
+   "summary_ko": [
+    "마이크로칩 테크놀로지와 퀄컴의 주식을 기준으로 월 1,000달러의 배당금을 받기 위해 필요한 주식 수와 비용을 계산했다."
    ],
    "tone": "neu"
   },
@@ -7589,6 +7761,23 @@
     "이 소식에 크라우드스트라이크 주가가 9% 하락했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "4cdc027cf7939508",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Not Good: Nvidia Halts Southeast Asia Shipments as Banks Freeze Data Center Loans There",
+   "excerpt": "Key TakeawaysNvidia has reportedly told partners to stop shipping its servers to four Southeast Asian countries after a new US export rule. Banks have paused billions in data center loans tied to Chinese tech giants.",
+   "url": "https://www.tikr.com/blog/not-good-nvidia-halts-southeast-asia-shipments-as-banks-freeze-data-center-loans-there?ref=yahoofinance&tlnk=yf-261127-px7f26rj&.tsrc=rss",
+   "published": "2026-11-27T06:37:05+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "미국의 새로운 수출 규정 여파로 엔비디아가 동남아시아 지역으로의 서버 선적을 중단하라고 파트너사에 통보했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "43e7e6fcce286945",
@@ -64634,186 +64823,6 @@
     "소파이 주가가 한 달 동안 15% 하락하며 신저점을 기록했다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "710b57b8ec9075b6",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus",
-   "excerpt": "Anthropic closed 8.5% lower on Friday, a day after gaining 17% in its debut.",
-   "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-worst-week-since-2020-s-and-p-500-in-correction-territory-as-ai-rout-sours-sentiment-ant-nvda-ttwo-zs-crwd-in-focus/cNbm3xQR91W?.tsrc=rss",
-   "published": "2026-11-21T01:30:25+00:00",
-   "tickers": [
-    "NVDA",
-    "CRWD"
-   ],
-   "summary_ko": [
-    "나스닥 100 지수가 2020년 이후 최악의 한 주를 마감했다고 보도했다.",
-    "AI 관련 하락세로 인해 S&P 500이 조정 영역에 진입했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "6bb47778140de281",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "BlackRock ETF approaching third anniversary just had its worst day",
-   "excerpt": "Data shows IBIT has posted outflows on all but one trading day in November.",
-   "url": "https://www.thestreet.com/crypto/markets/blackrock-etf-approaching-third-anniversary-just-had-its-worst-day?.tsrc=rss",
-   "published": "2026-11-21T01:30:00+00:00",
-   "tickers": [
-    "IBIT"
-   ],
-   "summary_ko": [
-    "출범 3주년을 앞둔 블랙록 ETF가 최악의 하루를 보냈다고 다뤘다.",
-    "데이터에 따르면 IBIT는 11월 대부분의 거래일 동안 자금 유출을 기록했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "c4c8f1a70783ba4e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Does Rocket Lab (RKLB) Achieving A Mars Burn Milestone Mean Now?",
-   "excerpt": "Rocket Lab (NasdaqGS:RKLB) completed trans-Mars injection burns for NASA’s twin ESCAPADE spacecraft, enabling their journey toward Mars. The spacecraft were designed, built and operated by Rocket Lab for NASA and UC Berkeley as part of the ESCAPADE mission. The successful autonomous propulsion maneuvers extend Rocket Lab’s work beyond launch vehicles into complex deep-space mission operations for a government client. The completion of the ESCAPADE trans-Mars injection burns could be a key...",
-   "url": "https://finance.yahoo.com/technology/articles/does-rocket-lab-rklb-achieving-011345764.html?.tsrc=rss",
-   "published": "2026-11-21T01:13:45+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "summary_ko": [
-    "로켓랩이 NASA 탐사선을 위해 화성 전이 궤도 진입 분사를 완료했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "b189ff2c3591e56f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Apple (AAPL) Grows at 12% and Trades at 37 Times Earnings. Is It Worth It?",
-   "excerpt": "We just published a list of the Top 10 Stocks to Buy According to Billionaire George Soros, and Apple Inc. (NASDAQ:AAPL) ranked 6th on this list. George Soros made his name betting against currencies and central banks, and that record is still the reference point for macro investing decades later. Born in Budapest in 1930, […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-grows-12-trades-011327437.html?.tsrc=rss",
-   "published": "2026-11-21T01:13:27+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "애플이 조지 소로스의 10대 투자 종목 중 6위에 올랐다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5debf3ed51729660",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Synchrony Financial Puts Lending Discipline First, Sees Walmart as Growth Opportunity",
-   "excerpt": "Synchrony Financial (NYSE:SYF) is prioritizing lending discipline over faster loan growth as it navigates consumer affordability pressures, Chief Financial Officer Brian Wenzel said at TD’s Financials & Fintech Conference. Wenzel said the company aims to maintain a loss rate of 5.5% to 6% and d",
-   "url": "https://www.marketbeat.com/instant-alerts/event-synchrony-financial-puts-lending-discipline-first-sees-walmart-as-growth-opportunity-2026-11-20/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-   "published": "2026-11-21T01:12:10+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "신크로니 파이낸셜이 대출 성장보다 대출 건전성을 우선시한다고 밝혔다.",
-    "월마트를 성장의 기회로 보고 있다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "a0b1e94257d65a16",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "3 Stocks to Watch as Coinbase and Trading Platforms Face a Volatility Test",
-   "excerpt": "Anthropic’s blockbuster IPO pulled about US$107b into a single AI story, yet the Nasdaq, S&P 500 and Dow all slipped, and AI infrastructure stocks came under pressure. That mix of frothy enthusiasm and risk-off selling often reshapes where trading volume and hedging demand go. This piece walks through three stocks that appear closely tied to this surge in volatility, and explains why their reaction to the Anthropic listing might matter to you. The three stocks below are only a starter set...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-watch-coinbase-trading-011040032.html?.tsrc=rss",
-   "published": "2026-11-21T01:10:40+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "앤트로픽의 IPO 이후 시장 변동성과 거래 플랫폼의 영향을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9a6f8d97307be336",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "George Soros Raised His Meta (META) Stake by 596%. Then the Stock Fell",
-   "excerpt": "We just published a list of the Top 10 Stocks to Buy According to Billionaire George Soros, and Meta Platforms, Inc. (NASDAQ:META) ranked 7th on this list. George Soros made his name betting against currencies and central banks, and that record is still the reference point for macro investing decades later. Born in Budapest in […]",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/george-soros-raised-meta-meta-011000430.html?.tsrc=rss",
-   "published": "2026-11-21T01:10:00+00:00",
-   "tickers": [
-    "META"
-   ],
-   "summary_ko": [
-    "조지 소로스가 메타 플랫폼스 지분을 대폭 늘렸으나 주가는 하락했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9a33561b8793bded",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dell Technologies (DELL) Stock Gets Fair Value Trim As Analysts Weigh AI Demand",
-   "excerpt": "The blended fair value estimate for Dell Technologies has shifted from US$594.16 to US$578.88, which signals a slightly more conservative central case in the current model. This adjustment sits against a backdrop of Street research that ranges from price targets in the low US$400s to the mid US$700s, reflecting both confidence in AI related demand and caution about how much is already priced in. As you read on, you will see how to track these moving targets and keep up with the evolving...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-stock-gets-010926718.html?.tsrc=rss",
-   "published": "2026-11-21T01:09:26+00:00",
-   "tickers": [
-    "DELL"
-   ],
-   "summary_ko": [
-    "델 테크놀로지의 적정 가치 추정치가 소폭 하향 조정되었다고 다뤘다.",
-    "AI 수요에 대한 기대와 주가 반영 정도에 대한 신중론이 공존한다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "0625cdcb45d407e8",
-   "kind": "youtube",
-   "source": "The Compound",
-   "author": "The Compound",
-   "title": "Did Trump Accidentally Save the Stock Market?",
-   "excerpt": "On episode 269 of The Compound and Friends, Downtown Josh Brown and Michael Batnick are joined by Jenny Harrington and Bryn Talkington to discuss: Anthropic’s record-breaking IPO, whether the AI bubble has finally burst, Nvidia’s future without Jensen Huang, the massive rotation from tech into value and dividend stocks, and the battle between OpenAI, Claude, and Google Gemini. Plus, the crew shares their favorite stock picks, including Tesla, Visa, Cisco, Freeport-McMoRan, and Kimberly-Clark, discusses covered-call ETFs, Jenny and Bryn’s new book Investment Wisdom for Our Friends and Loved Ones, and the winner of Josh and Jenny’s Netflix vs. Disney bet. 👕 Check out The Compound shop: 🎙️Listen to our podcasts: TCAF: Animal Spirits: Ask The Compound: The Compound Newsletter: Linkedin: Instag",
-   "url": "https://www.youtube.com/watch?v=bVZCy4eO0a8",
-   "published": "2026-11-21T01:05:43+00:00",
-   "tickers": [
-    "NVDA",
-    "TSLA",
-    "GOOGL",
-    "NFLX",
-    "DIS"
-   ],
-   "summary_ko": [
-    "팟캐스트 방송에서 앤트로픽의 IPO와 AI 거품 여부 등을 다뤘다.",
-    "테슬라, 비자, 시스코 등을 유망 종목으로 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e2dd947e8bd7bc14",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Morgan Stanley sends a strong signal to Google stock investors",
-   "excerpt": "Google is entering a new phase, and Wall Street is paying attention to what it could mean for the stock.",
-   "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-strong-signal-to-google-stock-investors?.tsrc=rss",
-   "published": "2026-11-21T01:03:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "모건 스탠리가 구글 주가 투자자들에게 중요한 신호를 보냈다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
