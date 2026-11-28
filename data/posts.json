@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-28T07:00:37.331618+00:00",
+ "updated": "2026-11-28T07:30:31.647951+00:00",
  "posts": [
+  {
+   "id": "8b198b5b5bb2105d",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dan Ives Sees ‘Rollercoaster Ride’ Ahead For AI Stocks, But Says Nvidia Bull Case Remains Intact — ‘Our Stress Test Stands’",
+   "excerpt": "Ives argued that even a combination of adverse scenarios would not derail the AI revolution over the next several years.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/dan-ives-ai-stocks-rollercoaster-ride-nvidia-bull-case-intact/cNRRs2jR9Vt?.tsrc=rss",
+   "published": "2026-11-28T07:13:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "댄 아이브스는 AI 주식이 앞으로 롤러코스터 같은 흐름을 겪을 것으로 보았다.",
+    "그럼에도 여러 악재가 겹쳐도 향후 몇 년간 AI 혁명은 꺾이지 않는다고 주장했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "11e23a75b76853d5",
    "kind": "news",
@@ -64540,78 +64558,6 @@
    ],
    "summary_ko": [
     "엔비디아와 함께 주목할 만한 AI 관련 종목으로 브로드컴을 꼽았다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "edc20287a922a0c3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "What Could Airbnb (ABNB) Need To Disclose About Its Chinese AI Use?",
-   "excerpt": "Airbnb (NasdaqGS:ABNB) is facing new US scrutiny over its use of Chinese artificial intelligence models in core services. US officials are weighing rules that would require Airbnb and peers to disclose any reliance on Chinese AI systems such as Alibaba's Qwen. Republican lawmakers have sent formal inquiries to Airbnb that question data handling and transparency around Chinese technology suppliers. The fresh review of Airbnb's use of Alibaba's Qwen AI model sits alongside wider policy and...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/could-airbnb-abnb-disclose-chinese-071725368.html?.tsrc=rss",
-   "published": "2026-11-21T07:17:25+00:00",
-   "tickers": [
-    "ABNB",
-    "BABA"
-   ],
-   "summary_ko": [
-    "에어비앤비가 중국산 AI 모델 사용과 관련해 미국 당국의 조사를 받고 있다고 다뤘다.",
-    "의원들이 데이터 처리와 투명성에 대해 공식적인 질의를 보냈다고 언급했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "2c3b3f9267490668",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Zscaler (ZS) Draws Takeover Interest In Reported Acquisition Talks",
-   "excerpt": "CrowdStrike Holdings is reportedly in talks to acquire Zscaler (NasdaqGS: ZS) in a major cybersecurity sector deal. The potential transaction would be one of the largest mergers in cloud and AI driven security so far. Discussions reportedly focus on combining Zscaler's zero trust network security platform with CrowdStrike's endpoint and AI security tools. This reported CrowdStrike bid for Zscaler is only one piece of the story investors need to weigh. We have also spotted 3 other big wins...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-draws-takeover-interest-071557894.html?.tsrc=rss",
-   "published": "2026-11-21T07:15:57+00:00",
-   "tickers": [
-    "CRWD"
-   ],
-   "summary_ko": [
-    "크라우드스트라이크가 즈스칼러 인수를 위한 협상에 나섰다고 보도했다.",
-    "양사의 보안 플랫폼과 AI 보안 도구의 결합 가능성을 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c6c83640a705afa5",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "UnitedHealth Keeps Sliding on Washington’s Audit Plan: Why TD Cowen Sees 34% Upside",
-   "excerpt": "Key TakeawaysTD Cowen upgraded UnitedHealth to Buy on Nov. 20 with a $455 target, 34% above the Nov.",
-   "url": "https://www.tikr.com/blog/unitedhealth-keeps-sliding-on-washingtons-audit-plan-why-td-cowen-sees-34-upside?ref=yahoofinance&tlnk=yf-261121-9hx39pjw&.tsrc=rss",
-   "published": "2026-11-21T07:13:20+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "summary_ko": [
-    "워싱턴의 감사 계획으로 유나이티드헬스 주가가 하락세를 보였다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f669bb1ba20301bc",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Wall Street Has Cut Its Oklo Target Nearly in Half. Guggenheim Still Sees 91% Upside",
-   "excerpt": "Key TakeawaysGuggenheim upgraded Oklo to Buy with a $38 target, 91% above the Nov. 20 close.",
-   "url": "https://www.tikr.com/blog/wall-street-has-cut-its-oklo-target-nearly-in-half-guggenheim-still-sees-91-upside?ref=yahoofinance&tlnk=yf-261121-m6hj4mwq&.tsrc=rss",
-   "published": "2026-11-21T07:04:14+00:00",
-   "tickers": [
-    "OKLO"
-   ],
-   "summary_ko": [
-    "월스트리트가 오클로의 목표주가를 거의 절반으로 낮췄다고 전했다.",
-    "구겐하임은 91%의 상승 여력이 있다고 보았다고 언급했다."
    ],
    "tone": "pos"
   }

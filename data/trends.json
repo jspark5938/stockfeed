@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:00:37.331618+00:00",
+ "updated": "2026-11-28T07:30:31.647951+00:00",
  "trends": [
   {
    "ticker": "ADBE",
@@ -165,9 +165,9 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 122,
-   "mentions_prev_24h": 88,
-   "ratio": 1.39
+   "mentions_24h": 121,
+   "mentions_prev_24h": 89,
+   "ratio": 1.36
   },
   {
    "ticker": "CRWD",
@@ -212,18 +212,18 @@
    "ratio": 1.17
   },
   {
+   "ticker": "MU",
+   "name_ko": "마이크론",
+   "mentions_24h": 21,
+   "mentions_prev_24h": 20,
+   "ratio": 1.05
+  },
+  {
    "ticker": "AAPL",
    "name_ko": "애플",
    "mentions_24h": 30,
    "mentions_prev_24h": 29,
    "ratio": 1.03
-  },
-  {
-   "ticker": "MU",
-   "name_ko": "마이크론",
-   "mentions_24h": 21,
-   "mentions_prev_24h": 21,
-   "ratio": 1.0
   },
   {
    "ticker": "DELL",
