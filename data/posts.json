@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-28T10:00:38.557766+00:00",
+ "updated": "2026-11-28T10:30:32.238878+00:00",
  "posts": [
+  {
+   "id": "d657c38c2c5b79c4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Prediction: Here's the Netflix Stock Price I Expect at the End of 2030",
+   "excerpt": "Even while its sales growth slows, the streaming giant's earnings per share might climb over 75% by 2030.",
+   "url": "https://www.fool.com/investing/2026/11/28/prediction-here-s-the-netflix-stock-price-i-expect-at-the-end-of-2030/?.tsrc=rss",
+   "published": "2026-11-28T10:07:02+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "summary_ko": [
+    "매출 성장 둔화에도 2030년까지 주당순이익이 75% 이상 증가할 수 있다고 전망했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "a369931a92356196",
    "kind": "news",
@@ -194,6 +211,24 @@
    "summary_ko": [
     "미국의 엔비디아 칩 수출 통제와 상하이 데이터 센터의 제재 하드웨어 발견 사건을 다뤘다.",
     "이러한 규제와 허점 관련 뉴스가 관련 수혜주들에 어떤 영향을 미칠지 분석했다고 전했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "7180d68e2597b18f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Are Goldman Sachs and Morgan Stanley “Over Earning” on the AI Boom? Both Fell 20%+ in 3 Months",
+   "excerpt": "Key TakeawaysGoldman Sachs, Morgan Stanley and Bank of America each fell more than 20% in three months as AI stocks sold off. Goldman has been earning well above its own long-run target.",
+   "url": "https://www.tikr.com/blog/are-goldman-sachs-and-morgan-stanley-over-earning-on-the-ai-boom-both-fell-20-in-3-months?ref=yahoofinance&tlnk=yf-261128-wf2m8fmf&.tsrc=rss",
+   "published": "2026-11-28T06:45:05+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "AI 관련 주식이 하락하면서 골드만삭스, 모건스탠리, 뱅크오브아메리카 주가가 3개월간 20% 이상 내렸다고 다뤘다.",
+    "골드만삭스는 자체 장기 목표치를 크게 상회하는 실적을 기록해 왔다고 언급했다."
    ],
    "tone": "neu"
   },
@@ -64470,128 +64505,6 @@
    ],
    "summary_ko": [
     "제프 베이조스가 AI 덕분에 가정에서 두 개의 급여가 필요하지 않을 수 있다고 주장했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a155e91df6b3176f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Here’s How Many Shares of Walmart You Need for $250 in Yearly Dividends",
-   "excerpt": "Walmart's Dividend King status almost ensures dividend income will continue to rise over time.",
-   "url": "https://www.fool.com/investing/2026/11/21/heres-how-many-shares-of-walmart-youd-need-for-250-in-yearly-dividends/?.tsrc=rss",
-   "published": "2026-11-21T10:20:02+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트의 배당킹 지위가 배당금의 지속적인 상승을 뒷받침한다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "94366be6cd25350c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "BofA Cut Its Snowflake Target to $400 From $470. It Still Sees 56% Upside",
-   "excerpt": "Key TakeawaysBank of America cut its Snowflake price target to $400 from $470 on Nov. 20 and kept its Buy rating, leaving 56% upside.",
-   "url": "https://www.tikr.com/blog/bofa-cut-its-snowflake-target-to-400-from-470-it-still-sees-56-upside?ref=yahoofinance&tlnk=yf-261121-mm4rm5cq&.tsrc=rss",
-   "published": "2026-11-21T10:18:28+00:00",
-   "tickers": [
-    "SNOW"
-   ],
-   "summary_ko": [
-    "뱅크오브아메리카가 스노우플레이크의 목표주가를 470달러에서 400달러로 하향 조정했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "f79001b772d07b9e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "BMO Raises Its Palo Alto Networks Target to $425. Is It Still Too Low?",
-   "excerpt": "Key TakeawaysBMO Capital raised its Palo Alto Networks price target to $425 from $415 after a fiscal first quarter in which revenue grew 39% and management raised its full-year guidance. At the $4.",
-   "url": "https://www.tikr.com/blog/bmo-raises-its-palo-alto-networks-target-to-425-is-it-still-too-low?ref=yahoofinance&tlnk=yf-261121-6rjxgcqx&.tsrc=rss",
-   "published": "2026-11-21T10:17:27+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "BMO 캐피털은 팔로알토 네트웍스의 목표주가를 425달러로 상향 조정했다고 밝혔다.",
-    "1분기 매출이 39% 성장하고 연간 실적 전망이 상향된 점을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "5ae30cbcf8a4a715",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Stock Is Down 35% From Its High. History Suggests a $5,000 Investment Now Will Be Worth This Much by 2028.",
-   "excerpt": "Nvidia has had a rough few days, but the future is still bright.",
-   "url": "https://www.fool.com/investing/2026/11/21/nvidia-stock-is-down-35-from-its-high-history-suggests-a-usd5-000-investment-now-will-be-worth-this-much-by-2028/?.tsrc=rss",
-   "published": "2026-11-21T10:15:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아 주가가 고점 대비 35% 하락했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c16ec533f06a6e97",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nike Is Down 46% in a Year and Calls Fiscal 2028 a “Challenging Year Financially.” Time to Sell, or Load Up?",
-   "excerpt": "Key TakeawaysNike stock is down 46% over the past year as weak reports kept pushing its turnaround out, and its Nov. 17 Investor Day set fiscal 2029 as the year growth returns.",
-   "url": "https://www.tikr.com/blog/nike-is-down-46-in-a-year-and-calls-fiscal-2028-a-challenging-year-financially-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261121-fm7f782c&.tsrc=rss",
-   "published": "2026-11-21T10:14:29+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "나이키 주가는 1년간 46% 하락했으며 2028 회계연도가 재정적으로 도전적인 해가 될 것이라고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "0f8706ce6758894d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Super Micro Just Dropped 33% in a Month After a Record Quarter. Is It Time to Sell, or Load Up?",
-   "excerpt": "Key TakeawaysSuper Micro stock is down 33% in the past month, even after record fiscal first-quarter revenue of $19. 9 billion and a fiscal 2027 revenue outlook raised to $72 billion to $82 billion.",
-   "url": "https://www.tikr.com/blog/super-micro-just-dropped-33-in-a-month-after-a-record-quarter-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261121-xjw76j5j&.tsrc=rss",
-   "published": "2026-11-21T10:08:33+00:00",
-   "tickers": [
-    "SMCI"
-   ],
-   "summary_ko": [
-    "슈퍼마이크로 주가가 한 달 만에 33% 하락했다고 다뤘다.",
-    "1분기 기록적인 매출과 함께 2027 회계연도 매출 전망을 상향했다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3256ddf5b9bc4e2b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "TSMC Sinks 20% in a Week on Nvidia Jitters and New US Chip Curbs on China. Time to Buy?",
-   "excerpt": "Key TakeawaysTSMC stock fell 20% in a week on Nvidia jitters and a new US rule that paused some of its shipments to China. Customers based in China were just 5% of TSMC’s third-quarter revenue.",
-   "url": "https://www.tikr.com/blog/tsmc-sinks-20-in-a-week-on-nvidia-jitters-and-new-us-chip-curbs-on-china-time-to-buy?ref=yahoofinance&tlnk=yf-261121-mwhr248c&.tsrc=rss",
-   "published": "2026-11-21T10:07:29+00:00",
-   "tickers": [
-    "NVDA",
-    "TSM"
-   ],
-   "summary_ko": [
-    "엔비디아 우려와 미국의 대중국 반도체 규제로 TSMC 주가가 일주일간 20% 하락했다고 전했다."
    ],
    "tone": "neu"
   }
