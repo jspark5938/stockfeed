@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-28T15:30:32.268937+00:00",
+ "updated": "2026-11-28T16:00:39.049683+00:00",
  "posts": [
+  {
+   "id": "5380c4b46b3e25cc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Gemini Neon Names the Year Bitcoin Could Reclaim Its $126,000 All-Time High",
+   "excerpt": "Google's newest AI model put a date on Bitcoin's comeback, but it also sees a painful slide first. What has to go right with the Fed, ETF flows, and a key moving-average signal before the rebound can begin?",
+   "url": "https://247wallst.com/investing/cryptocurrency/2026/11/28/gemini-neon-names-the-year-bitcoin-could-reclaim-its-126000-all-time-high/?.tsrc=rss",
+   "published": "2026-11-28T15:27:02+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "구글의 AI 모델이 비트코인이 최고가를 회복할 시기와 반등 전 하락 가능성을 언급했다고 다뤘다.",
+    "반등의 선결 조건으로 연준, ETF 자금 흐름, 이동평균선 신호를 꼽았다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "7a6a5aed8ce89bd0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Bloom Energy Rose Nearly 7% as AI Stocks Rebounded. Here’s the Oracle Number That Matters",
+   "excerpt": "Key TakeawaysBloom Energy shares rose 6. 63% on Nov.",
+   "url": "https://www.tikr.com/blog/bloom-energy-rose-nearly-7-as-ai-stocks-rebounded-heres-the-oracle-number-that-matters?ref=yahoofinance&tlnk=yf-261128-2374mpmc&.tsrc=rss",
+   "published": "2026-11-28T15:20:19+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "AI 주식 반등과 함께 블룸에너지 주가가 상승한 배경과 주목해야 할 오라클 관련 수치를 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "e3a15e1a5099a349",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "“AI Does Not Exist as We Know It Without Reddit”: So Why Is Reddit Down 11% in a Week?",
+   "excerpt": "Key TakeawaysReddit stock is down 11% in the past week after a report that its traffic fell 13% from a year earlier, blamed on Google’s AI Overviews. CEO Steve Huffman says AI depends on Reddit’s content, but Alphabet’s Google can use it without sending visitors.",
+   "url": "https://www.tikr.com/blog/ai-does-not-exist-as-we-know-it-without-reddit-so-why-is-reddit-down-11-in-a-week?ref=yahoofinance&tlnk=yf-261128-cc28j5jm&.tsrc=rss",
+   "published": "2026-11-28T15:20:16+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "구글 AI 오버뷰 영향으로 레딧의 트래픽이 감소하면서 주가가 하락했다고 전했다.",
+    "레딧 CEO는 AI가 콘텐츠에 의존하지만 구글은 방문자 유입 없이 이를 사용한다고 언급했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "975b7402021ffb44",
    "kind": "news",
@@ -17,6 +70,24 @@
     "Anthropic의 새로운 생산성 도구가 마이크로소프트 오피스를 겨냥했다고 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "4a63d664523afce8",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why Is Advanced Micro Devices (AMD) Powering A New U.S. AI Factory?",
+   "excerpt": "Advanced Micro Devices (NasdaqGS:AMD) hardware now powers the Lux SI + HPC supercomputer at Oak Ridge National Laboratory. Lux is described as the first dedicated U.S. AI Factory for the Department of Energy's Genesis Mission. The system combines AMD EPYC CPUs, Instinct GPUs, Pensando networking, and ROCm software in a single AI and HPC platform. The Lux SI + HPC deployment for the Genesis Mission gives AMD new visibility in U.S. government scale AI infrastructure, but the wider AMD story...",
+   "url": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-151109684.html?.tsrc=rss",
+   "published": "2026-11-28T15:11:09+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "summary_ko": [
+    "AMD 하드웨어가 오크리지 국립연구소의 새로운 AI 팩토리 슈퍼컴퓨터에 탑재되었다고 다뤘다.",
+    "이번 도입으로 AMD가 미국 정부 규모의 AI 인프라에서 주목받게 되었다고 언급했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "b66a8b264156a7db",
@@ -462,6 +533,24 @@
     "이번 계약에는 EMIB 패키징과 맞춤형 제온 칩 공급 등이 포함되었다고 언급했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "b888cc3149a9aed0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Huang’s reported affairs rattled Nvidia, echoing scandals that hit Bill Gates and Jeff Bezos",
+   "excerpt": "Nvidia's board reinstated Jensen Huang 11 days after he resigned over reported affairs. Gates, Bezos and Musk show how founders' private lives reach the boardroom.",
+   "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-reported-affairs-rattled-130600603.html?.tsrc=rss",
+   "published": "2026-11-28T13:06:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 사생활 관련 보도 이후 엔비디아 이사회가 그를 복귀시켰다고 전했다.",
+    "창립자의 사생활 이슈가 기업 경영진에 미치는 영향에 대해 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "73cd91b00f66552a",
@@ -922,6 +1011,24 @@
     "이 테스트로 플래시가 AI 서버에서 새로운 역할을 맡을 수 있다고 언급했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "6152570619f32329",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Is Broadcom’s Stock Performance Compared to Other Semiconductor Stocks?",
+   "excerpt": "Broadcom stock has lagged behind other semiconductor stocks over the past year, but analysts are still bullish about its prospects.",
+   "url": "https://www.barchart.com/story/news/9041654/how-is-broadcoms-stock-performance-compared-to-other-semiconductor-stocks?.tsrc=rss",
+   "published": "2026-11-28T09:26:10+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "summary_ko": [
+    "브로드컴의 지난 1년간 주가 수익률이 다른 반도체 주식에 비해 부진했다고 다뤘다.",
+    "그럼에도 분석가들은 여전히 향후 전망에 대해 긍정적인 입장을 유지하고 있다고 전했다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "300e99c1a8f3815c",
@@ -5122,6 +5229,24 @@
     "실적 추정치를 통해 향후 주가 흐름을 전망했다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "3bc3bf1d483bcdc6",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Rigetti Computing Has Lost More Than 85% of Its Value—But It Still Isn't Cheap",
+   "excerpt": "Rigetti Computing shares hit a 52-week low after a Q3 earnings miss, as widening operating losses, heavy R&D spending, and share dilution raise concerns about its path to profitability.",
+   "url": "https://www.marketbeat.com/articles/rigetti-computing-has-lost-more-than-85-of-its-valuebut-it-still-isnt-cheap/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+   "published": "2026-11-27T15:30:00+00:00",
+   "tickers": [
+    "RGTI"
+   ],
+   "summary_ko": [
+    "리게티 컴퓨팅이 3분기 실적 부진으로 52주 신저가를 기록했다고 다뤘다.",
+    "영업손실 확대와 R&D 지출 등이 수익성 우려를 키우고 있다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "e8314e5f69056db0",
@@ -64066,57 +64191,6 @@
     "일론 머스크가 구글의 제미나이 4 네온을 긍정적으로 평가했다고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "f9bf2777a3623176",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $1,200,000 Portfolio in Prudential, Nike and Invitation Homes Pays $57,248 a Year in Dividends. Here’s What Happens if One Cuts",
-   "excerpt": "Key TakeawaysA $1. 2 million portfolio split evenly across Prudential Financial, Nike and Invitation Homes pays about $57,200 a year in dividends at today’s prices, or about $4,770 a month.",
-   "url": "https://www.tikr.com/blog/a-1200000-portfolio-in-prudential-nike-and-invitation-homes-pays-54568-a-year-in-dividends-heres-what-happens-if-one-cuts?ref=yahoofinancedividend&tlnk=yf-261121-wm2j9qmj&.tsrc=rss",
-   "published": "2026-11-21T15:51:26+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "특정 종목들로 구성된 포트폴리오의 연간 배당금 지급 현황을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "b1e4655156a0aa01",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $2.6 Billion Fund Just Bought These 3 Stocks",
-   "excerpt": "Key TakeawaysSora Investors, which manages $2. 6 billion, added most to Nvidia, Mastercard and MKS in the third quarter, its latest 13F shows.",
-   "url": "https://www.tikr.com/blog/a-2-6-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-w3mhcgf8&.tsrc=rss",
-   "published": "2026-11-21T15:51:15+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "26억 달러 규모의 펀드가 3분기에 엔비디아, 마스터카드, MKS 주식을 매수했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "2f9e938bf5594fba",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "After Plummeting 62% This Year, Could Buying Intel Stock Today Set You Up for Life?",
-   "excerpt": "Intel now sells at a considerable discount from its high, but setting small investors up for life could be a challenge.",
-   "url": "https://www.fool.com/investing/2026/11/21/after-plummeting-62-this-year-could-buying-intel-stock-today-set-you-up-for-life/?.tsrc=rss",
-   "published": "2026-11-21T15:50:02+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "summary_ko": [
-    "인텔 주가가 큰 폭으로 하락한 가운데 투자에 대한 어려움을 언급했다."
-   ],
-   "tone": "neg"
   }
  ]
 }
