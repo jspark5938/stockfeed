@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:00:41.871396+00:00",
+ "updated": "2026-11-28T06:30:30.608606+00:00",
  "trends": [
   {
    "ticker": "ADBE",
@@ -173,8 +173,8 @@
    "ticker": "NVDA",
    "name_ko": "엔비디아",
    "mentions_24h": 125,
-   "mentions_prev_24h": 88,
-   "ratio": 1.42
+   "mentions_prev_24h": 87,
+   "ratio": 1.44
   },
   {
    "ticker": "ORCL",
@@ -189,6 +189,13 @@
    "mentions_24h": 5,
    "mentions_prev_24h": 4,
    "ratio": 1.25
+  },
+  {
+   "ticker": "WMT",
+   "name_ko": "월마트",
+   "mentions_24h": 16,
+   "mentions_prev_24h": 13,
+   "ratio": 1.23
   },
   {
    "ticker": "COST",
@@ -210,13 +217,6 @@
    "mentions_24h": 14,
    "mentions_prev_24h": 12,
    "ratio": 1.17
-  },
-  {
-   "ticker": "WMT",
-   "name_ko": "월마트",
-   "mentions_24h": 15,
-   "mentions_prev_24h": 13,
-   "ratio": 1.15
   },
   {
    "ticker": "AAPL",
@@ -254,6 +254,13 @@
    "ratio": 1.0
   },
   {
+   "ticker": "IONQ",
+   "name_ko": "아이온큐",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 3,
+   "ratio": 1.0
+  },
+  {
    "ticker": "PFE",
    "name_ko": "화이자",
    "mentions_24h": 2,
@@ -270,13 +277,6 @@
   {
    "ticker": "DIS",
    "name_ko": "디즈니",
-   "mentions_24h": 3,
-   "mentions_prev_24h": 4,
-   "ratio": 0.75
-  },
-  {
-   "ticker": "IONQ",
-   "name_ko": "아이온큐",
    "mentions_24h": 3,
    "mentions_prev_24h": 4,
    "ratio": 0.75
@@ -331,13 +331,6 @@
    "ratio": 0.5
   },
   {
-   "ticker": "BA",
-   "name_ko": "보잉",
-   "mentions_24h": 4,
-   "mentions_prev_24h": 9,
-   "ratio": 0.44
-  },
-  {
    "ticker": "META",
    "name_ko": "메타",
    "mentions_24h": 3,
@@ -350,6 +343,13 @@
    "mentions_24h": 3,
    "mentions_prev_24h": 7,
    "ratio": 0.43
+  },
+  {
+   "ticker": "BA",
+   "name_ko": "보잉",
+   "mentions_24h": 3,
+   "mentions_prev_24h": 10,
+   "ratio": 0.3
   }
  ]
 }
