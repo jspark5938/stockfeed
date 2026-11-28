@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-28T16:30:32.191761+00:00",
+ "updated": "2026-11-28T17:00:39.824120+00:00",
  "posts": [
+  {
+   "id": "e627ea04a9381aed",
+   "kind": "youtube",
+   "source": "The Motley Fool",
+   "author": "The Motley Fool",
+   "title": "3 Magnificent Seven Stocks That Look Surprisingly Cheap",
+   "excerpt": "Podcast: NVIDIA stock, Alphabet (GOOGL), and Meta Platforms (META) could be three of the most interesting AI investments right now. But are investors overlooking their biggest opportunities? Jose Najarro and Neil Rozen break down three Magnificent Seven stocks with significant AI growth potential, attractive valuations, and risks investors need to understand. First, NVIDIA (NVDA): Jensen Huang is back as CEO, and the company has raised its next fiscal year's growth guidance to at least 75%. With continued supply constraints, expanding AI infrastructure demand, and forward P/E estimates in the low teens, could NVIDIA be positioned for another major run? Next, Alphabet (GOOGL): Google Cloud revenue more than doubled last quarter, while Gemini continues gaining traction. Could Google eventual",
+   "url": "https://www.youtube.com/watch?v=0SL4dQlozSk",
+   "published": "2026-11-28T17:00:18+00:00",
+   "tickers": [
+    "NVDA",
+    "GOOGL",
+    "META"
+   ],
+   "summary_ko": [
+    "팟캐스트에서 엔비디아, 알파벳, 메타 등 매그니피센트 7 종목의 AI 성장 잠재력과 가치를 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "7e08c5e2f9cc32d0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Disney’s $200 Million “Hexed” Is Missing Its Thanksgiving Box Office Targets",
+   "excerpt": "Three forecast cuts in a single week have Disney's biggest original animated bet sliding behind a franchise and a comedy. A strong audience grade and a looming Marvel release complicate what happens next, and Wall Street is watching the stock.",
+   "url": "https://247wallst.com/investing/2026/11/28/disneys-200-million-hexed-is-missing-its-thanksgiving-box-office-targets/?.tsrc=rss",
+   "published": "2026-11-28T16:43:30+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "summary_ko": [
+    "디즈니의 애니메이션 신작이 추수감사절 박스오피스 목표치에 미치지 못하고 있다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "530aba866d24f2b1",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Bull Case for Eli Lilly Stock Goes Beyond Zepbound and Mounjaro",
+   "excerpt": "Weight-loss blockbusters get the headlines, but Lilly's fastest growth is coming from drugs most investors never mention. A record high, a guidance raise, and a pricing squeeze set up a high-stakes question about what comes next.",
+   "url": "https://247wallst.com/investing/2026/11/28/the-bull-case-for-eli-lilly-stock-goes-beyond-zepbound-and-mounjaro/?.tsrc=rss",
+   "published": "2026-11-28T16:37:42+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "summary_ko": [
+    "일라이 릴리의 체중감량 치료제 외에 가장 빠른 성장을 보이는 다른 약물들에 대해 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "8c04c1aca6d92646",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Novo Nordisk vs. Vertex Pharmaceuticals: Which Pharma Stock Is a Better Buy for 2027?",
+   "excerpt": "Novo Nordisk's obesity drugs and Vertex's cystic fibrosis franchise pull in very different directions, and the valuation gap between them is wide enough to change the answer.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/28/novo-nordisk-vs-vertex-pharmaceuticals-which-pharma-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-28T16:32:02+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "summary_ko": [
+    "노보 노디스크와 버텍스 파마슈티컬스의 사업 방향과 밸류에이션 차이를 비교했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e1a40473ac0f9ccb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Billionaire Rob Citrone’s Discovery Capital More Than Doubled Its Amazon Stake to $114 Million",
+   "excerpt": "Discovery Capital churned through dozens of positions in one quarter, yet a few names never moved. Behind the Amazon bet sit a booming cloud unit and a staggering spending bill, and two numbers in the next earnings report will test the thesis.",
+   "url": "https://247wallst.com/investing/2026/11/28/billionaire-rob-citrones-discovery-capital-more-than-doubled-its-amazon-stake-to-114-million/?.tsrc=rss",
+   "published": "2026-11-28T16:29:13+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "억만장자 롭 시트론의 디스커버리 캐피털이 아마존 지분을 대폭 늘렸다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ee8e4cb3e57fb457",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Qualcomm Is Betting Its Stock Can Nearly Triple. Its CEO Gets Paid If It Does",
+   "excerpt": "Qualcomm's board just built a five-year scoreboard for its CEO, and every hurdle has a deadline. Hit a price too early or too late and the payout vanishes, while handset sales shrink and debt climbs.",
+   "url": "https://247wallst.com/investing/2026/11/28/qualcomm-is-betting-its-stock-can-nearly-triple-its-ceo-gets-paid-if-it-does/?.tsrc=rss",
+   "published": "2026-11-28T16:27:08+00:00",
+   "tickers": [
+    "QCOM"
+   ],
+   "summary_ko": [
+    "퀄컴 이사회가 CEO의 성과 보수를 연계한 5년 계획을 설정했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "17654d136fb1122f",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How Many Shares of Wells Fargo or Bank of America Pay $1,000 a Month in Dividends?",
+   "excerpt": "Key TakeawaysAt today’s prices, $1,000 a month in dividends takes 6,000 shares of Wells Fargo, about $493,700, or 9,375 shares of Bank of America, about $460,000. Both dividends are well-covered: Wells Fargo paid out 27% of its fiscal 2025 normalized EPS, and Bank of America paid out 28%.",
+   "url": "https://www.tikr.com/blog/how-many-shares-of-wells-fargo-or-bank-of-america-pay-1000-a-month-in-dividends?ref=yahoofinancedividend&tlnk=yf-261128-gg46g2gj&.tsrc=rss",
+   "published": "2026-11-28T16:20:21+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "summary_ko": [
+    "웰스파고와 뱅크오브아메리카 주식으로 월 1,000달러 배당금을 받기 위해 필요한 주식 수를 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "5b36831ed8306c56",
    "kind": "youtube",
@@ -64000,110 +64121,6 @@
     "최근의 기술적 장애로 인해 코스트코에서 비상 용품 사재기 현상이 발생했다고 전했다."
    ],
    "tone": "pos"
-  },
-  {
-   "id": "00e005de0fb73207",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "How Many Shares of McDonald’s, Starbucks or Darden Pay $1,000 a Month in Dividends?",
-   "excerpt": "Key TakeawaysAt today’s prices, $1,000 a month in dividends takes about $424,900 of McDonald’s stock, about $418,100 of Darden Restaurants or about $491,100 of Starbucks. McDonald’s paid out 70% of its free cash flow as dividends over the last 12 months, and analysts expect 69% for fiscal 2026.",
-   "url": "https://www.tikr.com/blog/how-many-shares-of-mcdonalds-starbucks-or-darden-pay-1000-a-month-in-dividends?ref=yahoofinancedividend&tlnk=yf-261121-j3ghhfff&.tsrc=rss",
-   "published": "2026-11-21T16:51:23+00:00",
-   "tickers": [
-    "SBUX"
-   ],
-   "summary_ko": [
-    "월 1,000달러의 배당금을 받기 위해 필요한 주식 투자 규모를 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a157d7dfdc7f9d13",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "SK hynix Sinks 21% in a Week With Micron and Sandisk. Its U.S. Premium Is an “Extra Special Case”",
-   "excerpt": "Key TakeawaysSK hynix’s U. S.",
-   "url": "https://www.tikr.com/blog/sk-hynix-sinks-21-in-a-week-with-micron-and-sandisk-its-u-s-premium-is-an-extra-special-case?ref=yahoofinance&tlnk=yf-261121-947vrx38&.tsrc=rss",
-   "published": "2026-11-21T16:50:56+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "summary_ko": [
-    "SK하이닉스가 마이크론 등과 함께 일주일간 하락세를 보였다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "47a535d5f7482497",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Google Is Paying Elon Musk’s SpaceX $30 Billion. Jim Cramer Just Revealed Why",
-   "excerpt": "Anchor Number: Roughly $30 Billion for Rented AI Power Under a new agreement, Alphabet (NASDAQ:GOOGL) will have Google pay Elon Musk’s SpaceX (NASDAQ:SPCX) $920 million per month for AI computing capacity. Over the life of the deal, that comes to approximately $30.4 billion across 33 months. SpaceX’s June 5 SEC filing shows the agreement running […]",
-   "url": "https://247wallst.com/investing/2026/11/21/google-is-paying-elon-musks-spacex-30-billion-jim-cramer-just-revealed-why/?.tsrc=rss",
-   "published": "2026-11-21T16:48:17+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "알파벳이 일론 머스크의 스페이스X와 AI 컴퓨팅 자원 사용 계약을 맺었다고 다뤘다.",
-    "짐 크레이머가 이에 대한 배경을 공개했다고 언급했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "5afce741d2fc44de",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "ASML vs. SK Hynix: Which Artificial Intelligence Stock Is a Better Buy for 2027?",
-   "excerpt": "ASML's near-monopoly on EUV lithography stands against SK Hynix's surging AI memory business, but their valuation gap is wider than either company's fundamentals suggest.",
-   "url": "https://www.fool.com/coverage/better-buy/2026/11/21/asml-vs-sk-hynix-which-artificial-intelligence-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-   "published": "2026-11-21T16:45:01+00:00",
-   "tickers": [
-    "ASML"
-   ],
-   "summary_ko": [
-    "ASML과 SK하이닉스를 2027년 AI 관련 주식으로 비교했다.",
-    "두 기업의 밸류에이션 차이가 펀더멘털이 시사하는 것보다 크다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "11358a0a6dac7669",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "US Dollar Beats Bitcoin, Gold and Stocks as Fed Rate Hike Fears Grow",
-   "excerpt": "The US dollar was the only gainer among 14 assets in a Coinbase Institutional report as real yields neared an 18-year high.",
-   "url": "https://beincrypto.com/us-dollar-beats-bitcoin-gold-stocks-what-next/?.tsrc=rss",
-   "published": "2026-11-21T16:33:50+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "summary_ko": [
-    "금리 인상 우려 속에서 미국 달러가 주요 자산 중 유일한 상승세를 보였다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f4ec312e474048be",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Costco makes a tough store closure decision",
-   "excerpt": "The company faces a balancing act every year.",
-   "url": "https://www.thestreet.com/retail/costco-makes-a-tough-store-closure-decision?.tsrc=rss",
-   "published": "2026-11-21T16:33:00+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "코스트코가 어려운 매장 폐쇄 결정을 내렸다고 다뤘다."
-   ],
-   "tone": "neu"
   }
  ]
 }
