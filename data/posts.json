@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-28T08:00:36.206623+00:00",
+ "updated": "2026-11-28T08:30:33.386709+00:00",
  "posts": [
+  {
+   "id": "be6b3fba218548d7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
+   "excerpt": "When the Oracle of Omaha speaks, it can pay to listen.",
+   "url": "https://www.fool.com/investing/2026/11/28/if-a-stock-market-crash-is-coming-warren-buffett-s/?.tsrc=rss",
+   "published": "2026-11-28T08:20:00+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "워런 버핏의 발언을 통해 주식 시장 하락에 대비한 현명한 대처 방법을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "a3652745f9886afd",
    "kind": "news",
@@ -64521,61 +64538,6 @@
    ],
    "summary_ko": [
     "이달 하락세를 겪은 AMD와 엔비디아 중 어느 AI 칩 주식이 더 나은 저가 매수 기회인지 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "67b11ab675fae557",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Prediction: Here’s Where Alphabet Stock Will Be in 5 Years",
-   "excerpt": "Will Alphabet keep burning cash, or will AI data centers pay off?",
-   "url": "https://www.fool.com/investing/2026/11/21/prediction-heres-where-alphabet-stock-will-be-in-5-years/?.tsrc=rss",
-   "published": "2026-11-21T08:10:02+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "알파벳 주식의 5년 뒤 전망을 다뤘다.",
-    "AI 데이터 센터 투자와 현금 지출 문제를 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "9c31de40a850d439",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "South Korea’s Lee urges faster AI investment during $5.2bn data center visit",
-   "excerpt": "Investing.com -- South Korean President Lee Jae Myung called for faster investment in artificial intelligence infrastructure Saturday during a visit to a $5.2 billion data center project being developed by SK Group and Amazon Web Services.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/south-korea-lee-urges-faster-080834640.html?.tsrc=rss",
-   "published": "2026-11-21T08:08:34+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "한국 대통령이 AI 인프라 투자의 가속화를 촉구했다고 전했다.",
-    "SK그룹과 아마존웹서비스의 데이터 센터 방문 사실을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3adf126e0beb6700",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia’s latest chip scandal has an Alibaba connection, new report claims",
-   "excerpt": "Nvidia's sales team reportedly connected Alibaba with Alice Huang in 2022, helping establish a chip-rental business relationship that later came under scrutiny amid US investigations into suspected semiconductor smuggling.",
-   "url": "https://www.digitaltrends.com/computing/nvidias-latest-chip-scandal-has-an-alibaba-connection-new-report-claims/?.tsrc=rss",
-   "published": "2026-11-21T08:04:54+00:00",
-   "tickers": [
-    "NVDA",
-    "BABA"
-   ],
-   "summary_ko": [
-    "엔비디아 영업팀이 2022년 알리바바와 앨리스 황을 연결해 칩 임대 사업 관계 형성을 도왔다고 보도됐다.",
-    "이 관계는 이후 미국의 반도체 밀반입 의혹 조사 과정에서 조사를 받게 되었다고 전해졌다."
    ],
    "tone": "neu"
   }
