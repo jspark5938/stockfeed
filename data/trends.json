@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:00:43.036508+00:00",
+ "updated": "2026-11-28T13:02:24.578704+00:00",
  "trends": [
   {
    "ticker": "ADBE",
@@ -95,9 +95,9 @@
   {
    "ticker": "AMZN",
    "name_ko": "아마존",
-   "mentions_24h": 35,
+   "mentions_24h": 36,
    "mentions_prev_24h": 23,
-   "ratio": 1.52
+   "ratio": 1.57
   },
   {
    "ticker": "RGTI",
@@ -105,13 +105,6 @@
    "mentions_24h": 3,
    "mentions_prev_24h": 2,
    "ratio": 1.5
-  },
-  {
-   "ticker": "AMD",
-   "name_ko": "AMD",
-   "mentions_24h": 15,
-   "mentions_prev_24h": 11,
-   "ratio": 1.36
   },
   {
    "ticker": "TSLA",
@@ -135,6 +128,13 @@
    "ratio": 1.2
   },
   {
+   "ticker": "AMD",
+   "name_ko": "AMD",
+   "mentions_24h": 14,
+   "mentions_prev_24h": 12,
+   "ratio": 1.17
+  },
+  {
    "ticker": "WMT",
    "name_ko": "월마트",
    "mentions_24h": 14,
@@ -144,9 +144,9 @@
   {
    "ticker": "GOOGL",
    "name_ko": "알파벳(구글)",
-   "mentions_24h": 17,
+   "mentions_24h": 18,
    "mentions_prev_24h": 16,
-   "ratio": 1.06
+   "ratio": 1.12
   },
   {
    "ticker": "JPM",
@@ -191,6 +191,13 @@
    "ratio": 1.0
   },
   {
+   "ticker": "MU",
+   "name_ko": "마이크론",
+   "mentions_24h": 14,
+   "mentions_prev_24h": 16,
+   "ratio": 0.88
+  },
+  {
    "ticker": "MSFT",
    "name_ko": "마이크로소프트",
    "mentions_24h": 16,
@@ -203,13 +210,6 @@
    "mentions_24h": 10,
    "mentions_prev_24h": 12,
    "ratio": 0.83
-  },
-  {
-   "ticker": "MU",
-   "name_ko": "마이크론",
-   "mentions_24h": 14,
-   "mentions_prev_24h": 17,
-   "ratio": 0.82
   },
   {
    "ticker": "RKLB",
