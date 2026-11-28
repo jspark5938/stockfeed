@@ -1,6 +1,62 @@
 {
- "updated": "2026-11-28T00:00:39.065558+00:00",
+ "updated": "2026-11-28T00:30:31.564907+00:00",
  "posts": [
+  {
+   "id": "188751d76ab6e8be",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart bets shoppers won't notice its holiday price increases",
+   "excerpt": "The retail giant made a big change heading into Black Friday, and one expert warns it can only get away with it for so long.",
+   "url": "https://www.thestreet.com/retail/walmart-quietly-cancels-thousands-of-discounts-as-the-holidays-approach?.tsrc=rss",
+   "published": "2026-11-28T00:17:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트가 블랙프라이데이를 앞두고 가격을 인상했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e4aadaf661625a4b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins",
+   "excerpt": "Tesla’s Cybercab fleet topped 1,000 units in Texas as it expanded in Dallas, while Lucid began fully driverless testing and U.S.-listed Chinese EV makers reported improving margins and modest growth outlooks.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-cybercab-fleet-tops-1-000-in-texas-lucid-starts-fully-driverless-tests-and-chinese-ev-maker-posts-stronger-margins/cNRRKv9R9Vl?.tsrc=rss",
+   "published": "2026-11-28T00:12:27+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라의 텍사스 내 사이버캡이 1천대를 돌파했다고 전했다.",
+    "루시드는 완전 자율주행 테스트를 시작했다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "09ae3f324eb55fbb",
+   "kind": "youtube",
+   "source": "Schwab Network",
+   "author": "Schwab Network",
+   "title": "Stock Market This Week: NVDA’s Wild Week, DELL’s AI Boom & CRWD’s $44B ZS Deal #shorts",
+   "excerpt": "Diane King Hall recaps a volatile holiday-shortened week that ended with major averages higher. Nvidia (NVDA) surged following Jensen Huang’s return as CEO, while new China chip headlines emerged. Dell (DELL) rallied on AI server demand, and CrowdStrike (CRWD) announced a nearly $44 billion all-stock deal for Zscaler (ZS). Plus, a look ahead to next week’s earnings and November jobs report. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #economy #finance #investing #marketnews #stock #stockmarket #trading #live",
+   "url": "https://www.youtube.com/watch?v=gY9QMI_5y8U",
+   "published": "2026-11-28T00:00:27+00:00",
+   "tickers": [
+    "NVDA",
+    "AMZN",
+    "DELL",
+    "CRWD"
+   ],
+   "summary_ko": [
+    "엔비디아는 CEO 복귀와 중국 칩 관련 소식 속에 급등했다고 다뤘다.",
+    "델은 AI 서버 수요로 상승했으며, 크라우드스트라이크는 44억 달러 규모의 딜을 발표했다고 전했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "190897e1d291e1bb",
    "kind": "youtube",
@@ -218,6 +274,41 @@
    "tone": "neu"
   },
   {
+   "id": "c4c4ecd982ec71d3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus",
+   "excerpt": "Meanwhile, the Dow Jones index recorded its best week since October 2022.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK?.tsrc=rss",
+   "published": "2026-11-27T21:29:46+00:00",
+   "tickers": [
+    "TSLA",
+    "ADBE"
+   ],
+   "summary_ko": [
+    "AI 낙관론이 다시 고개 들며 S&P 500과 나스닥이 1년여 만에 최고의 주간 성적을 기록했다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "f00d4a73e34bd1fa",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply",
+   "excerpt": "Chinese videos are advertising banned Nvidia chips for sale at $3 million apiece, more than five times the US price. Prices have spiked amid a crackdown by both Washington and...",
+   "url": "https://nypost.com/2026/11/27/tech/chinese-ads-selling-banned-nvidia-servers-for-3m-as-jensen-huang-scandal-chokes-supply-market-is-crazy/?.tsrc=rss",
+   "published": "2026-11-27T21:18:40+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "중국에서 금지된 엔비디아 칩이 미국 가격의 5배 넘는 가격에 광고되고 있다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "e0a71fc43faf8a32",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -389,6 +480,23 @@
     "오픈AI가 애플을 상대로 영업비밀 도용 및 하드웨어 공급 차단 혐의로 소송을 제기했다고 보도했다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "89462a86d3afdf82",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "OpenAI Reportedly Fires Back At Apple Over Trade Secrets And Hardware Suppliers",
+   "excerpt": "OpenAI has countersued Apple in California, the FT reported, alleging trade secret theft and supplier coercion.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-reportedly-fires-back-at-apple-over-trade-secrets-and-hardware-suppliers/cNb65s2R9Vi?.tsrc=rss",
+   "published": "2026-11-27T20:13:53+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "summary_ko": [
+    "오픈에이아이완이 영업비밀 유출과 공급업체 강요를 주장하며 애플을 맞소송했다고 전했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "de18da12620d0e7c",
@@ -1519,6 +1627,23 @@
    "tone": "neu"
   },
   {
+   "id": "65e3e4139e89a470",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is UnitedHealth Group Stock Underperforming the S&P 500?",
+   "excerpt": "UnitedHealth has underperformed the S&P 500 index over the past three months.",
+   "url": "https://www.barchart.com/story/news/9035771/is-unitedhealth-group-stock-underperforming-the-s-p-500?.tsrc=rss",
+   "published": "2026-11-27T18:00:52+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "summary_ko": [
+    "유나이티드헬스 그룹 주식이 지난 3개월간 S&P 500 지수보다 저조한 성적을 냈다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
    "id": "05e34c83edb9575a",
    "kind": "youtube",
    "source": "Schwab Network",
@@ -1713,6 +1838,23 @@
     "중국 기업들이 엔비디아 칩을 설치했다는 소식과 알트리아의 임페리얼 브랜즈 인수 협상 소식을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "e63902ebbaf9027b",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Walmart Stock Outperforming the Dow?",
+   "excerpt": "Walmart’s stock has outperformed the Dow Jones index over the past three months.",
+   "url": "https://www.barchart.com/story/news/9035581/is-walmart-stock-outperforming-the-dow?.tsrc=rss",
+   "published": "2026-11-27T17:42:44+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트 주식이 지난 3개월 동안 다우 존스 지수를 웃도는 성과를 냈다고 다뤘다."
+   ],
+   "tone": "pos"
   },
   {
    "id": "1ca5b66aa7bb2e5c",
@@ -64567,111 +64709,6 @@
    ],
    "summary_ko": [
     "조지 소로스를 포함한 대형 펀드들이 지난 분기 퀄컴을 매수했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "e5b1de374b48135a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto Sees Rising Cyber Budgets Amid AI Threats As Firms Tap ‘Emergency Funds’; CEO Nikesh Arora Says Applied Compute Bet Could Dwarf Cybersecurity Business",
-   "excerpt": "Palo Alto Networks Inc. Chairman and CEO Nikesh Arora said companies are drawing on emergency funds for AI defense and expects cybersecurity budgets to rise. He also said the Applied Compute acquisition “could be bigger” than Palo Alto’s existing cybersecurity...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-sees-rising-cyber-003005491.html?.tsrc=rss",
-   "published": "2026-11-21T00:30:05+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로알토 네트웍스 CEO는 AI 위협 속에서 기업들이 비상 자금을 끌어쓰고 있다고 밝혔다.",
-    "사이버 보안 예산이 증가할 것이며 관련 인수합병 규모가 기존 사업보다 커질 수 있다고 전망했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "608ce950cf637056",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Here's How Much Nvidia Stock Is Worth Without Jensen Huang, According to Dan Ives",
-   "excerpt": "Dan Ives revised his price target on Nvidia stock following Jensen Huang's resignation as CEO.",
-   "url": "https://www.fool.com/investing/2026/11/20/here-s-how-much-nvidia-stock-is-worth-without-jensen-huang-according-to-dan-ives/?.tsrc=rss",
-   "published": "2026-11-21T00:30:04+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "댄 아이브스가 젠슨 황의 CEO 사임 이후 엔비디아 목표 주가를 수정했다고 밝혔다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "54b60cc63cbf8bec",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Generac Stock In Focus After Earnings Beat And Amazon Supply Deal",
-   "excerpt": "Generac Holdings reported Q3 2026 results with 16.2% revenue growth, better than expected adjusted EPS and EBITDA, and highlighted rapid data center demand. A long term Amazon supply agreement and a larger data center backlog illustrate how Generac Holdings is focusing on large scale power needs despite weaker residential energy storage. This article examines how Generac Holdings' investment narrative is shaped by the Amazon data center agreement and stronger Q3 earnings. Scan how Generac...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/generac-stock-focus-earnings-beat-001937973.html?.tsrc=rss",
-   "published": "2026-11-21T00:19:37+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "summary_ko": [
-    "제너랙 홀딩스가 3분기 실적 호조와 아마존 공급 계약을 발표했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "460de185bfc6f9ad",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart has a surprising update on grocery prices",
-   "excerpt": "The company is working hard to lower prices, but it faces challenges in doing so.",
-   "url": "https://www.thestreet.com/retail/walmart-has-a-surprising-update-on-grocery-prices?.tsrc=rss",
-   "published": "2026-11-21T00:17:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트가 식료품 가격을 낮추기 위해 노력 중이라고 전했다.",
-    "다만 이 과정에서 여러 도전에 직면해 있다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7aded6efe8e833cb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Allooloo Tops 100M Capital Markets AI Agent Traffic a Month",
-   "excerpt": "Allooloo Technologies Corp. (Allooloo), maker of agentic datasets for capital markets artificial intelligence (AI) agents, today reported 100M AI agent traffic a month. That is 39 calls a second, 3.4 million a day, across getissuer.ai and Issuerwire.ai, running on 24 Microsoft Azure hyperscale locations globally with always-on Amazon Web Services (AWS) redundancy.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/allooloo-tops-100m-capital-markets-000600422.html?.tsrc=rss",
-   "published": "2026-11-21T00:06:00+00:00",
-   "tickers": [
-    "MSFT",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "알롤루 테크놀로지스가 월간 AI 에이전트 트래픽 1억 건을 돌파했다고 발표했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3663b29cdb3ad903",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History",
-   "excerpt": "Nvidia is searching for a new CEO following Jensen Huang's abrupt resignation.",
-   "url": "https://www.fool.com/investing/2026/11/20/prediction-nvidia-stock-will-do-this-in-the-6-months-after-a-new-ceo-takes-over-according-to-history/?.tsrc=rss",
-   "published": "2026-11-21T00:02:51+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "젠슨 황의 갑작스러운 사임 이후 엔비디아가 새로운 CEO를 물색하고 있다고 다뤘다."
    ],
    "tone": "neu"
   }
