@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-28T05:30:31.161896+00:00",
+ "updated": "2026-11-28T06:00:41.871396+00:00",
  "posts": [
+  {
+   "id": "43cd4afd6cad10d4",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NVDA Stock Could Hit A Bottom Next Week As Jensen Huang Faces Congress, Says Analyst — 'I Would Buy It With Both Hands'",
+   "excerpt": "During an interview with CNBC, Freedom Capital Markets’ Paul Meeks said he believes the recent pessimism could present a buying opportunity.",
+   "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-hit-bottom-jensen-haung-congress/cNRRYXMR9Vp?.tsrc=rss",
+   "published": "2026-11-28T05:31:54+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "한 애널리스트는 젠슨 황의 의회 청문회와 함께 엔비디아 주가가 다음 주 바닥을 칠 수 있다고 전망했다.",
+    "그는 최근의 비관론이 매수 기회를 제공할 수 있다고 언급했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "69ee6db2caaa3ed7",
    "kind": "news",
@@ -19,6 +37,24 @@
     "이번 사이클의 저점이 지난 사이클 저점의 약 4배 수준이라고 언급했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "361c24f32c76ebbe",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla Stock And Other Tariff Protected Manufacturers Investors Are Watching",
+   "excerpt": "Tariffs are back in the headlines, and this round of U.S. moves on Chinese imports is reshaping where factories, profits and risks sit. That shift creates fresh openings for investors who want exposure to companies that may gain as production and trade routes adjust, and it also raises questions about which stocks to avoid chasing. This article reveals 3 stocks tied to these tariff shocks and explains how the news touches each one. The three stocks below are just a sample, and the full tariff...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-other-tariff-protected-051504941.html?.tsrc=rss",
+   "published": "2026-11-28T05:15:04+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "미국의 대중국 수입 관세 조치가 공장과 이익의 위치를 재편하며 투자자들의 관심을 모으고 있다고 다뤘다.",
+    "이번 관세 충격과 연관된 세 종목을 소개하며 관련 뉴스에 대한 영향을 설명했다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "aaa5e2b5a9ce2827",
@@ -64626,23 +64662,6 @@
    ],
    "summary_ko": [
     "캔터 피츠제럴드는 나이키의 목표주가를 하향 조정하고 중립 의견을 유지했다고 전했다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "b753e1ca8bbfcddb",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD Stock Crashes Another 13% – What’s Driving This Crisis?",
-   "excerpt": "AMD shares plunged 13% in a brutal selloff. Here are the three key factors behind the chipmaker’s latest decline.",
-   "url": "https://beincrypto.com/amd-stock-price-crash-key-reasons/?.tsrc=rss",
-   "published": "2026-11-21T06:00:00+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "칩 메이커 주식이 급락한 배경에 세 가지 요인이 있다고 다뤘다."
    ],
    "tone": "neg"
   }
