@@ -1,6 +1,93 @@
 {
- "updated": "2026-11-28T17:30:31.121757+00:00",
+ "updated": "2026-11-28T18:00:38.993328+00:00",
  "posts": [
+  {
+   "id": "df0224a0b4030549",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Is Back: 5 AI Stocks Poised to Soar After Nvidia’s Shocking Reversal",
+   "excerpt": "Jensen Huang’s return turned November 23 into a relief rally for the AI trade. The chipmaker he co-founded announced his reinstatement as chief executive, president, and director, reversing its leadership upheaval. Its shares finished 31.48% higher, while the S&P 500 gained 4.7%. The rebound spread well beyond one company, lifting businesses that supply the chips, […]",
+   "url": "https://finance.yahoo.com/technology/ai/articles/jensen-back-5-ai-stocks-173347195.html?.tsrc=rss",
+   "published": "2026-11-28T17:33:47+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 복귀로 엔비디아 주가가 급등하며 AI 관련주 전반에 훈풍이 불었다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "cd0fa2cc5d32eea0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tesla Stock Price Prediction: Is a 30% Rally Possible in 2027?",
+   "excerpt": "Elon Musk promises the grind is over, yet Tesla shares keep sliding while the valuation stays sky-high. Robotaxis, Megapacks and Optimus all promise growth, but one hurdle could decide whether 2027 delivers the payoff.",
+   "url": "https://247wallst.com/investing/2026/11/28/tesla-stock-price-prediction-is-a-30-rally-possible-in-2027/?.tsrc=rss",
+   "published": "2026-11-28T17:33:26+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "테슬라 주가의 향방과 2027년 전망을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4f455c09b5c53fb7",
+   "kind": "youtube",
+   "source": "Patrick Boyle",
+   "author": "Patrick Boyle",
+   "title": "A $1 Trillion Phone Call Saved Nvidia's CEO",
+   "excerpt": "They can't harm you, if they can't find you! Use code boyle at the link below and get 60% off an annual plan: Jensen Huang is back as Nvidia's CEO, just eleven days after resigning over a spy scandal, and Nvidia's stock jumped 31% in a single day, adding close to $1 trillion in market value. The board had said it wouldn't bring him back, then reversed itself after \"input from senior levels of the United States government,\" a weekend lobbying campaign by Silicon Valley investors, and calls from President Trump and Vice President JD Vance. In this video, Patrick Boyle looks at what the stock market actually paid for: Huang's leadership, or political protection from export-control and SEC investigations. Patrick Boyle compares this \"single-stock put\" with the GM rescue in 2009 and the Silicon",
+   "url": "https://www.youtube.com/watch?v=bUG55deqDXE",
+   "published": "2026-11-28T17:32:50+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 엔비디아 CEO 복귀와 주가 급등 배경을 다뤘다.",
+    "미국 정부 고위층의 개입과 로비가 복귀에 영향을 미쳤다고 언급했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "aa84381a82d31976",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Broadcom vs. Intel: Which Technology Stock Is a Better Buy for 2027?",
+   "excerpt": "Broadcom's networking dominance and Intel's costly foundry pivot pull in opposite directions, and the numbers behind each make the choice sharper than it looks.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/28/broadcom-vs-intel-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-28T17:32:02+00:00",
+   "tickers": [
+    "AVGO",
+    "INTC"
+   ],
+   "summary_ko": [
+    "브로드컴과 인텔의 기술주 실적과 사업 방향성을 비교했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "34c77cd6cedd56b5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Jensen Is Back: These 10 AI Stocks Are Riding Nvidia’s Rebound",
+   "excerpt": "Jensen Huang’s return turned November 23 into a relief rally for the AI trade. The chipmaker he co-founded announced his reinstatement as chief executive, president, and director, reversing its leadership upheaval. Its shares finished 31.48% higher, while the S&P 500 gained 4.7%. The rebound spread well beyond one company, lifting businesses that supply the chips, […]",
+   "url": "https://finance.yahoo.com/technology/ai/articles/jensen-back-10-ai-stocks-172943500.html?.tsrc=rss",
+   "published": "2026-11-28T17:29:43+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "젠슨 황의 복귀로 엔비디아와 AI 관련 종목들이 수혜를 입었다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "8422cfc7723e6ee3",
    "kind": "news",
@@ -2710,6 +2797,24 @@
    "tone": "neg"
   },
   {
+   "id": "22f859dd825165ad",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "JPMorgan says Meta’s key AI advantage is overlooked",
+   "excerpt": "JPMorgan lowered its Meta Platforms price target from $940 to $775 while maintaining an overweight rating, arguing that investors are disproportionately focused on the company's AI infrastructure spending and underestimating…",
+   "url": "https://blockspace.media/short/jpmorgan-says-metas-key-ai-advantage-is-overlooked/?.tsrc=rss",
+   "published": "2026-11-27T21:08:13+00:00",
+   "tickers": [
+    "META",
+    "JPM"
+   ],
+   "summary_ko": [
+    "JP모간은 메타의 목표주가를 낮추면서도 핵심 AI 경쟁력이 저평가되어 있다고 주장했다."
+   ],
+   "tone": "pos"
+  },
+  {
    "id": "7561d127c3bfe813",
    "kind": "news",
    "source": "Yahoo Finance",
@@ -2726,6 +2831,23 @@
     "복귀 소식에 주가가 급등했으며 장기적으로 긍정적으로 전망했다."
    ],
    "tone": "pos"
+  },
+  {
+   "id": "41303d1912b054d0",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "How NVIDIA’s new export restrictions could impact neoclouds like CoreWeave, Nebius",
+   "excerpt": "NVIDIA suppliers have reportedly suspended AI server shipments to Singapore, Malaysia, Thailand, and Indonesia following new US export restrictions targeting Chinese access to advanced computing infrastructure overseas. The measures could…",
+   "url": "https://blockspace.media/short/how-nvidias-new-export-restrictions-could-impact-neoclouds-like-coreweave-nebius/?.tsrc=rss",
+   "published": "2026-11-27T21:03:59+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "새로운 미국 수출 제한 조치로 인해 엔비디아 공급업체들이 동남아 지역 서버 선적을 중단했다고 다뤘다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "721f5af17a324191",
@@ -2829,6 +2951,23 @@
     "알파벳 주가가 거의 20% 하락한 상황과 앤트로픽의 주가 흐름을 다뤘다."
    ],
    "tone": "neg"
+  },
+  {
+   "id": "8071b59eead10715",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "NVIDIA Export Controls, SpaceX Cleared for Orbital Data Centers, META’s Hidden AI Advantage",
+   "excerpt": "Today, we open up with how NVIDIA’s new export controls on Southeast Asian neoclouds could impact US-based neoclouds. We also cover the FCC’s approval for SpaceX to launch 1 million…",
+   "url": "https://blockspace.media/podcast/nvidia-export-controls-spacex-cleared-for-orbital-data-centers-metas-hidden-ai-advantage/?.tsrc=rss",
+   "published": "2026-11-27T20:23:10+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아의 새로운 수출 통제가 미칠 영향과 스페이스X의 궤도 데이터센터 승인 소식을 다뤘다."
+   ],
+   "tone": "neu"
   },
   {
    "id": "228b8882c6dc5b0e",
@@ -64138,78 +64277,6 @@
     "오라클의 자바 보안 취약점 패치와 신규 AI 제품 출시를 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "f0b9a92403741d03",
-   "kind": "youtube",
-   "source": "Schwab Network",
-   "author": "Schwab Network",
-   "title": "Tech Corner: NVDA’s Blockbuster Quarter vs. a Deepening Sell-Off",
-   "excerpt": "Nvidia (NVDA) posted another blockbuster quarter as Vera Rubin demand fueled data center growth. George Tsilis examines its competitive moat, AMD Inc. (AMD) and Broadcom (AVGO) competition, margin and China headwinds, and whether a 19% YTD decline has left the stock poised for a technical recovery. ======== Schwab Network ======== Empowering every investor and trader, every market day. Subscribe to the Market Minute newsletter - Download the iOS app - Download the Amazon Fire Tv App - Watch on Sling - Watch on Vizio - Watch on DistroTV - Follow us on X – Follow us on Facebook – Follow us on LinkedIn - About Schwab Network: #economy #finance #investing #marketnews #stock #stockmarket #trading #live #schwabnetwork #technology #tech #ai #nvdia #nvda #amd #braodcom #avgo",
-   "url": "https://www.youtube.com/watch?v=lHu6H9aE130",
-   "published": "2026-11-21T18:00:31+00:00",
-   "tickers": [
-    "NVDA",
-    "AMZN",
-    "AMD",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "엔비디아의 호실적과 베라 루빈 수요를 다뤘다.",
-    "경쟁사 구도와 마진 및 중국 역풍을 점검했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "74e54a7b262a19e8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "UnitedHealth Is Suing the Government Over Medicare Advantage Star Ratings",
-   "excerpt": "A half-star swing could unlock bonus money for millions of seniors, and UnitedHealth is betting a Georgia judge who already sided with one insurer will agree. But suing the agency that sets those bonuses carries a risk of its own.",
-   "url": "https://247wallst.com/investing/2026/11/21/unitedhealth-is-suing-the-government-over-medicare-advantage-star-ratings/?.tsrc=rss",
-   "published": "2026-11-21T17:58:39+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "summary_ko": [
-    "유나이티드헬스가 메디케어 어드밴티지 등급과 관련해 정부를 상대로 소송을 제기했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "60973c134f030b47",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Uber’s Drones Officially Have a Rival: DoorDash CEO Says Its Dots Robots Handle “Close to 10%” of Phoenix Volume",
-   "excerpt": "Key TakeawaysDoorDash CEO Tony Xu says its Dot robots now complete close to 10% of orders in Phoenix, the same week Uber started delivering Uber Eats orders by drone in Texas. DoorDash builds its own robots and drones while Uber relies on partners, which could give DoorDash the better shot at a lower cost per order.",
-   "url": "https://www.tikr.com/blog/ubers-drones-officially-have-a-rival-doordash-ceo-says-its-dots-robots-handle-close-to-10-of-phoenix-volume?ref=yahoofinance&tlnk=yf-261121-9xprx5r7&.tsrc=rss",
-   "published": "2026-11-21T17:51:35+00:00",
-   "tickers": [
-    "UBER"
-   ],
-   "summary_ko": [
-    "도어대시 CEO가 피닉스에서 로봇이 주문의 약 10%를 처리한다고 밝혔다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c5e14d5eeb81ca8c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Eli Lilly's Next Big Growth Opportunity Could Be Hiding in Plain Sight",
-   "excerpt": "Lilly’s famous weight-loss drug may be about to get younger.",
-   "url": "https://www.fool.com/investing/2026/11/21/eli-lilly-s-next-big-growth-opportunity-could-be-hiding-in-plain-sight/?.tsrc=rss",
-   "published": "2026-11-21T17:37:02+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "summary_ko": [
-    "일라이릴리의 유명 체중 감량 치료제가 더 어린 연령층으로 확대될 가능성을 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
