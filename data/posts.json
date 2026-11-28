@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-28T16:00:39.049683+00:00",
+ "updated": "2026-11-28T16:30:32.191761+00:00",
  "posts": [
+  {
+   "id": "5b36831ed8306c56",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Busiest Weekend For Holiday Shopping",
+   "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Walmart Chief Merchant Julie Barber, “Vodka Politics” Author Mark Lawrence Schrad, The Metropolitan Museum of Art Director & CEO Max Hollein, Flighty Aviation & Travel Correspondent Katy Nastro, Bulletin of the Atomic Scientists Editor-in-Chief & “Valley of Death” Author” Sharon Weinberger, “How to Rule the World” Author Theo Baker and Terez Founder & CEO Zara Terez Tisch. 1)Chapters: 00:00:00 - Bloomberg This Weekend Begins 00:00:43 - News Now with Lisa Mateo 00:03:59 - Busiest Weekend For Holiday Shopping 00:05:33 - Low-Income Consumers Want to Buy More Less 00:06:25 - AI Expected To Be Ins",
+   "url": "https://www.youtube.com/watch?v=dZKohph6YYs",
+   "published": "2026-11-28T16:15:28+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트 최고상품책임자 등이 출연해 홀리데이 쇼핑 시즌의 주요 동향을 다뤘다.",
+    "저소득층 소비자의 구매 성향과 AI 관련 전망 등을 논의했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "40eef4ca779abe33",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "The Cost of Insuring SpaceX and Oracle Against Default Just Hit Record Highs. Wall Street Is Pricing Their Debt Like Junk.",
+   "excerpt": "Credit traders now treat two household-name giants like risky borrowers, yet only one of them pays you a dividend. We compared SpaceX and Oracle on credit risk, income, and growth to see which deserves a place in a retirement portfolio.",
+   "url": "https://247wallst.com/investing/2026/11/28/the-cost-of-insuring-spacex-and-oracle-against-default-just-hit-record-highs-wall-street-is-pricing-their-debt-like-junk/?.tsrc=rss",
+   "published": "2026-11-28T16:07:34+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "summary_ko": [
+    "오라클과 스페이스X의 디폴트 대비 보험 비용이 최고치를 기록했다고 전했다.",
+    "월스트리트가 이들의 부채를 정크 수준으로 평가하고 있다고 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "e22a257da3ee70bc",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Exxon Stock Is on Pace for Its Worst Month Since March 2020",
+   "excerpt": "Exxon doubled its quarterly earnings, generates heavy free cash flow and carries almost no debt, yet its shares keep sliding from a record high. One Monday close could decide how this month's drop gets remembered.",
+   "url": "https://247wallst.com/investing/2026/11/28/exxon-stock-is-on-pace-for-its-worst-month-since-march-2020/?.tsrc=rss",
+   "published": "2026-11-28T16:07:33+00:00",
+   "tickers": [
+    "XOM"
+   ],
+   "summary_ko": [
+    "엑슨모빌 주가가 2020년 3월 이후 가장 부진한 한 달을 보낼 가능성이 크다고 전했다.",
+    "분기 실적과 현금 흐름이 양호함에도 주가가 사상 최고치에서 하락하고 있음을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "eab35bb01b8f2f71",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Firefly Aerospace vs. Rocket Lab: Which Space Infrastructure Stock Is a Better Buy for 2027?",
+   "excerpt": "Rocket Lab's vertically integrated model pairs launch services with satellite manufacturing, while Firefly Aerospace bets on lunar delivery and in-space mobility.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/28/firefly-aerospace-vs-rocket-lab-which-space-infrastructure-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-28T16:02:01+00:00",
+   "tickers": [
+    "RKLB"
+   ],
+   "summary_ko": [
+    "로켓랩과 파이어플라이 에어로스페이스의 사업 모델을 비교했다.",
+    "로켓랩의 수직 계열화 모델과 파이어플라이의 달 배송 사업 등을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "bad781aff6707ea5",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Elon Musk’s SpaceX Could Fall Below $100 on Tesla Merger, Former Goldman Sachs CIO Warn",
+   "excerpt": "A longtime Tesla bull with a Goldman Sachs pedigree has set a specific entry price for SpaceX, and he blames a hidden cost of the proposed Tesla deal. The math on dilution and merger arbitrage may change how you view the rally.",
+   "url": "https://247wallst.com/investing/2026/11/28/elon-musks-spacex-could-fall-below-100-on-tesla-merger-former-goldman-sachs-cio-warn/?.tsrc=rss",
+   "published": "2026-11-28T16:01:48+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "summary_ko": [
+    "골드만삭스 출신 전문가가 테슬라와 스페이스X의 합병 가능성과 관련해 주가 전망을 언급했다.",
+    "합병에 따른 희석 효과와 숨겨진 비용 문제를 다뤘다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "5380c4b46b3e25cc",
    "kind": "news",
@@ -64014,183 +64104,6 @@
     "코스트코가 어려운 매장 폐쇄 결정을 내렸다고 다뤘다."
    ],
    "tone": "neu"
-  },
-  {
-   "id": "2992b1f4bfde9cc3",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Anthropic Owes $71 Billion for Compute Within a Year, “87% of Current Run Rate Revenue,” per Scott Galloway",
-   "excerpt": "Key TakeawaysScott Galloway says $71 billion of Anthropic’s compute commitments come due within a year, a bill that reaches Amazon, Alphabet and Broadcom. With over $200 billion of cash after its IPO, Anthropic can pay it, so the bigger worry is its slowing revenue growth.",
-   "url": "https://www.tikr.com/blog/anthropic-owes-71-billion-for-compute-within-a-year-87-of-current-run-rate-revenue-per-scott-galloway?ref=yahoofinance&tlnk=yf-261121-97jx5h99&.tsrc=rss",
-   "published": "2026-11-21T16:20:47+00:00",
-   "tickers": [
-    "GOOGL",
-    "AMZN",
-    "AVGO"
-   ],
-   "summary_ko": [
-    "앤트로픽이 1년 내에 막대한 연산 비용을 지불해야 한다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "7318816e43f6bbf0",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Buy Microsoft and Amazon at More Than 70x 2028 Free Cash Flow? Here’s What Their Capex Must Return",
-   "excerpt": "Key TakeawaysAt the Nov. 20 close, Microsoft traded at about 77x the free cash flow analysts expect for fiscal 2028, and Amazon traded at about 75x.",
-   "url": "https://www.tikr.com/blog/buy-microsoft-and-amazon-at-more-than-70x-2028-free-cash-flow-heres-what-their-capex-must-return?ref=yahoofinance&tlnk=yf-261121-crqwjg7c&.tsrc=rss",
-   "published": "2026-11-21T16:20:38+00:00",
-   "tickers": [
-    "MSFT",
-    "AMZN"
-   ],
-   "summary_ko": [
-    "마이크로소프트와 아마존의 2028년 예상 잉여현금흐름 대비 밸류에이션을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "23fa6da23dc0ba85",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Feds arrest 14-person 'train robbery crew' accused of stealing $22M in Nike shoes and tools from 36 freight trains",
-   "excerpt": "Prosecutors say 14 people used Instagram to sell stolen sneakers and tools. Here's how shoppers can avoid buying stolen goods.",
-   "url": "https://finance.yahoo.com/economy/policy/articles/feds-arrest-14-person-train-161500690.html?.tsrc=rss",
-   "published": "2026-11-21T16:15:00+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "summary_ko": [
-    "인스타그램을 통해 훔친 운동화를 판매한 일당이 체포되었다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "85196634965be6fa",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Dow Jones Futures: After Nvidia, Anthropic Fuel Worst Week Since Covid, Look For These 'Absolute Losers'",
-   "excerpt": "The Dow Jones and Nasdaq had their worst week since March 2020, fueled by Nvidia and Anthropic. A fear gauge is soaring. Good news?",
-   "url": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures%3A-after.html?.tsrc=rss",
-   "published": "2026-11-21T16:14:18+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아와 앤스로픽 여파로 다우와 나스닥이 부진한 한 주를 보냈다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "557543e660d725a9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is Shopify (SHOP) Facing New Risks From Its AI Partner's Security Issues?",
-   "excerpt": "Shopify (NasdaqGS:SHOP) uses Fireworks AI services that are now under scrutiny after recent security incidents at the provider. Fireworks AI disclosed customer data exposures that have prompted questions about how third party systems handle sensitive information. Investors are assessing whether Fireworks AI tools are embedded in parts of Shopify's infrastructure that touch merchant or shopper data. The Fireworks AI security issues only tell part of Shopify's story, so it helps to weigh them...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/shopify-shop-facing-risks-ai-160858281.html?.tsrc=rss",
-   "published": "2026-11-21T16:08:58+00:00",
-   "tickers": [
-    "SHOP"
-   ],
-   "summary_ko": [
-    "쇼피파이가 사용하는 AI 파트너의 보안 문제로 위험성이 제기되고 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "da2de1dfce004dfd",
-   "kind": "youtube",
-   "source": "Jerry Romine Stocks",
-   "author": "Jerry Romine Stocks",
-   "title": "Don't Buy The Wrong Dividend ETF! (SCHD vs. VYM vs. DGRO vs. JEPI)",
-   "excerpt": "✅ MY PATREON – My Portfolio, My Trades, Deep Dives, Q&A, Community: 🔥 MY WEALTH ACCELERATION SYSTEM – For serious investors ready to build a real framework: ================ TODAY'S VIDEO ================ Buying the wrong dividend ETF looks harmless in year one, yet over 30 years it can quietly cost you hundreds of thousands of dollars in lost retirement wealth. In this head-to-head stock market dividend ETF comparison of SCHD vs VYM vs DGRO vs JEPI, we put all four funds through 5 objective rounds to find the best dividend ETF for a long-term portfolio. We score the Schwab U.S. Dividend Equity ETF (SCHD), Vanguard High Dividend Yield ETF (VYM), iShares Core Dividend Growth ETF (DGRO), and JPMorgan Equity Premium Income ETF (JEPI) using a 3-2-1 point system across trailing dividend yield, ",
-   "url": "https://www.youtube.com/watch?v=3YOJufPgQTY",
-   "published": "2026-11-21T16:07:58+00:00",
-   "tickers": [
-    "JPM",
-    "SCHD"
-   ],
-   "summary_ko": [
-    "SCHD, VYM, DGRO, JEPI 등 네 가지 배당 ETF를 비교했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "c673538f3e97fc6c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Mark Gurman Says Apple Is “Not Set Up to Move at the Pace of These AI Companies”",
-   "excerpt": "Apple just launched its biggest AI push in years, yet a top Apple reporter says the company's whole operating model is wrong for this race. The real risk may be which assistant your habits settle into next, and what that means for AAPL holders.",
-   "url": "https://247wallst.com/investing/2026/11/21/mark-gurman-says-apple-is-not-set-up-to-move-at-the-pace-of-these-ai-companies/?.tsrc=rss",
-   "published": "2026-11-21T16:07:26+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "summary_ko": [
-    "애플의 운영 모델이 AI 경쟁 속도에 맞지 않는다는 분석을 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "904a33801e699b62",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bank of America doubles down on Amazon stock ahead of 2027",
-   "excerpt": "Bank of America went further than usual to make this case.",
-   "url": "https://www.thestreet.com/investing/stocks/bank-of-america-doubles-down-on-amazon-stock-ahead-of-2027?.tsrc=rss",
-   "published": "2026-11-21T16:07:00+00:00",
-   "tickers": [
-    "AMZN",
-    "BAC"
-   ],
-   "summary_ko": [
-    "뱅크오브아메리카가 2027년을 앞두고 아마존 주식에 대한 입장을 강조했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "270b5517dc5b109a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Snowflake Just Dropped 12% in a Week. RBC Still Sees “Clear AI Leadership.” Time to Load Up?",
-   "excerpt": "Key TakeawaysSnowflake fell 12% in the past week as the AI trade sold off, and the company itself had no bad news. RBC’s Matthew Hedberg put Snowflake among the few software companies he sees with real AI acceleration, along with Cloudflare and CrowdStrike.",
-   "url": "https://www.tikr.com/blog/snowflake-just-dropped-12-in-a-week-rbc-still-sees-clear-ai-leadership-time-to-load-up?ref=yahoofinance&tlnk=yf-261121-cj78w42g&.tsrc=rss",
-   "published": "2026-11-21T16:06:52+00:00",
-   "tickers": [
-    "SNOW",
-    "CRWD",
-    "NET"
-   ],
-   "summary_ko": [
-    "스노우플레이크의 하락세 속에서 RBC는 회사의 AI 리더십을 높게 평가했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "673a6a0c22014692",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Musk Calls Google’s Gemini 4 Neon “a Banger” After Its Third Zapier Record. Bad Timing for Anthropic",
-   "excerpt": "Key TakeawaysGoogle’s Gemini 4 Neon set a new high of 56. 3% on Zapier’s AutomationBench, Google’s third record there in seven weeks, and Elon Musk said it “seems to be a banger.",
-   "url": "https://www.tikr.com/blog/musk-calls-googles-gemini-4-neon-a-banger-after-its-third-zapier-record-bad-timing-for-anthropic?ref=yahoofinance&tlnk=yf-261121-j963j487&.tsrc=rss",
-   "published": "2026-11-21T16:05:34+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "summary_ko": [
-    "일론 머스크가 구글의 제미나이 4 네온을 긍정적으로 평가했다고 전했다."
-   ],
-   "tone": "pos"
   }
  ]
 }
