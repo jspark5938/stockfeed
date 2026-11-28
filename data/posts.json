@@ -1,6 +1,181 @@
 {
- "updated": "2026-11-28T17:00:39.824120+00:00",
+ "updated": "2026-11-28T17:30:31.121757+00:00",
  "posts": [
+  {
+   "id": "8422cfc7723e6ee3",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Walmart Is Now a $1 Trillion Stock at 51 Times Earnings. Time to Take Profits?",
+   "excerpt": "Walmart just logged its best month in over 25 years, yet the numbers beneath the rally tell a more complicated story. Thin cash flow, a swelling debt load, and a surprise earnings drop raise a pointed question for anyone holding the stock.",
+   "url": "https://247wallst.com/investing/2026/11/28/walmart-is-now-a-1-trillion-stock-at-51-times-earnings-time-to-take-profits/?.tsrc=rss",
+   "published": "2026-11-28T17:22:03+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트가 최고 월간 실적을 기록했으나 현금 흐름과 부채 등 복잡한 문제가 있다고 언급했다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "6a44d54a5f9a568c",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Spelling Out Intrinsic Value Using the Alphabet",
+   "excerpt": "The team tackles the complicated and nuanced topic of intrinsic value, the “logical” valuation equalizer championed by famed investor Warren Buffett.",
+   "url": "https://www.fool.com/investing/2026/11/28/spelling-out-intrinsic-value-using-the-alphabet/?.tsrc=rss",
+   "published": "2026-11-28T17:20:02+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "워런 버핏이 강조한 내재 가치의 개념과 평가 방식을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "4286bfb3144b973a",
+   "kind": "youtube",
+   "source": "The Motley Fool",
+   "author": "The Motley Fool",
+   "title": "Costco vs. Apple: Which Stock Wins the Basket?",
+   "excerpt": "Podcast: Costco, Walmart, Apple, Google, or Berkshire Hathaway: which stock goes in your basket? Emily and Lou weigh in. Emily worries about Google's search business, Lou questions whether Berkshire can beat the market, and Emily leans Costco for its value during economic downturns. Find Hidden Gems Investing on Apple Podcasts. #Shorts #Costco #Google #Investing ------------------------------------------------------------------------ This video is brought to you by The Motley Fool. The Motley Fool Stock Advisor returns are 927% as of 8/5/2026 and measured against the S&P 500 returns of 211% as of 8/5/2026. Past performance is not an indicator of future results. All investing involves a risk of loss. Individual investment results may vary, not all Motley Fool Stock Advisor picks have perfor",
+   "url": "https://www.youtube.com/watch?v=GJmJw0WlcFk",
+   "published": "2026-11-28T17:17:29+00:00",
+   "tickers": [
+    "AAPL",
+    "GOOGL",
+    "COST",
+    "WMT"
+   ],
+   "summary_ko": [
+    "팟캐스트에서 코스트코와 애플 등 여러 종목의 투자 매력도를 비교했다고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "e5cf9bc1f117f515",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Why SoFi Technologies Fell 51% Even As Profit Rose",
+   "excerpt": "SoFi Technologies has packed 2026 with headlines, from record revenue quarters to aggressive insider buying and bold moves into stablecoins, AI investing and tokenized deposits. Investors who held SoFi Technologies from the start of the year are down 51.3%, including dividends. If you had put money to work on 1 January, that gap between upbeat news and harsh portfolio math would sting. The real question is whether today’s product expansion justifies revisiting the original thesis on SoFi’s...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-sofi-technologies-fell-51-171002227.html?.tsrc=rss",
+   "published": "2026-11-28T17:10:02+00:00",
+   "tickers": [
+    "SOFI"
+   ],
+   "summary_ko": [
+    "소파이 테크놀로지의 실적과 신사업 추진에도 불구하고 주가가 하락한 배경을 다뤘다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "d2974a9745265c97",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Does Retailer Deals Change The Bull Case For Meta (META)?",
+   "excerpt": "JD Sports Fashion plc recently announced a partnership with Meta Platforms to plug its Muse AI shopping agent into JD’s UK ecommerce, letting users discover, compare and buy products directly through Muse’s personalised assistants. The rollout of Muse across partners like JD Sports, Walmart and potential Amazon links points to Meta’s AI agents moving from experiment to real transaction infrastructure that could matter for future commerce-related revenue. Next, the focus will be on how Meta...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/does-retailer-deals-change-bull-170936205.html?.tsrc=rss",
+   "published": "2026-11-28T17:09:36+00:00",
+   "tickers": [
+    "META",
+    "WMT"
+   ],
+   "summary_ko": [
+    "메타의 AI 쇼핑 에이전트 도입이 커머스 매출에 미칠 영향 가능성을 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "57e6363b17a7ad42",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Coinbase Global (COIN) Is Scanning All Production Code With AI",
+   "excerpt": "Coinbase Global (NasdaqGS:COIN) is using AI to scan all production code, according to CEO Brian Armstrong in recent comments. Security firm Blockaid announced a partnership with Coinbase to provide real-time blockchain transaction simulation aimed at flagging fraud before execution. The collaboration focuses on screening user transactions for malicious contracts and phishing attempts across supported crypto networks in real time. AI-driven code review and Blockaid's live transaction checks...",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-scanning-production-170825075.html?.tsrc=rss",
+   "published": "2026-11-28T17:08:25+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스가 AI를 이용해 프로덕션 코드를 검사하고 사기 방지 협력을 진행 중이라고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "6f0e2b99aad65289",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Meta Soars 12% in a Week as Talks With Amazon Could Reopen Its Store to Muse. Time to Buy?",
+   "excerpt": "Key TakeawaysThe stock rose 12% in the past week as Amazon reportedly held talks to let the company’s Muse agent back into its store. A deal would show that Muse has grown too big for Amazon to keep out.",
+   "url": "https://www.tikr.com/blog/meta-soars-12-in-a-week-as-talks-with-amazon-could-reopen-its-store-to-muse-time-to-buy?ref=yahoofinance&tlnk=yf-261128-mx523wcq&.tsrc=rss",
+   "published": "2026-11-28T17:06:05+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존과의 협상설 등으로 메타 주가가 최근 상승세를 보였다고 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "6c31b54851e92940",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Tech Stock Sell-Off: Down 13%, Is Amazon a Buy Now?",
+   "excerpt": "Amazon's $220 billion AI spending plan looks less risky when you see the cloud business and the $578 billion backlog behind it.",
+   "url": "https://www.fool.com/investing/2026/11/28/tech-stock-sell-off-down-13-is-amazon-a-buy-now/?.tsrc=rss",
+   "published": "2026-11-28T17:05:02+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "summary_ko": [
+    "아마존의 대규모 AI 지출이 클라우드 사업과 수주 잔고를 통해 정당화될 수 있다고 주장했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "604a078110f21111",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Eli Lilly vs. Pfizer: Which Healthcare Stock Is a Better Buy for 2027?",
+   "excerpt": "Eli Lilly's 45.5% revenue jump and Pfizer's 9.3x forward P/E frame a sharp contrast, with valuation doing much of the talking.",
+   "url": "https://www.fool.com/coverage/better-buy/2026/11/28/eli-lilly-vs-pfizer-which-healthcare-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+   "published": "2026-11-28T17:02:02+00:00",
+   "tickers": [
+    "LLY",
+    "PFE"
+   ],
+   "summary_ko": [
+    "일라이 릴리의 매출 증가와 화이자의 밸류에이션을 비교했다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "818b8216210abd63",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What To Do When You Receive a Student Loan Refinance Offer — The Reddit Solution",
+   "excerpt": "A lower monthly payment can hide a longer loan. See how a SoFi refi at 8.87% compares to the current loan, and what to check before signing.",
+   "url": "https://moneylion.com/trending/money/receive-student-loan-refinance-offer-reddit-solution?.tsrc=rss",
+   "published": "2026-11-28T17:00:39+00:00",
+   "tickers": [
+    "SOFI"
+   ],
+   "summary_ko": [
+    "학자금 대출 리파이낸싱 제안을 검토할 때 유의할 점을 다뤘다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "e627ea04a9381aed",
    "kind": "youtube",
@@ -17,6 +192,40 @@
    ],
    "summary_ko": [
     "팟캐스트에서 엔비디아, 알파벳, 메타 등 매그니피센트 7 종목의 AI 성장 잠재력과 가치를 다뤘다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "eb474dcb91866ca7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "What Nvidia Investors Should Watch During Jensen Huang's Senate Hearing",
+   "excerpt": "Jensen Huang's testimony is about export controls, not just one executive. Here is what an owner of the stock can listen for.",
+   "url": "https://www.fool.com/investing/2026/11/28/what-nvidia-investors-should-watch-during-jensen-huang-s-senate-hearing/?.tsrc=rss",
+   "published": "2026-11-28T16:55:06+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 CEO의 청문회에서 수출 통제와 관련해 주목해야 할 점을 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "2b4e18bc09d0c0ae",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Alphabet Stock Is Near a 52-Week Low. Here's Why I'd Buy the Dip.",
+   "excerpt": "Wall Street is fixated on Alphabet's capex spending, but it may be overlooking what that money is building.",
+   "url": "https://www.fool.com/investing/2026/11/28/alphabet-stock-near-52-week-low-why-i-d-buy-the-dip/?.tsrc=rss",
+   "published": "2026-11-28T16:55:02+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "summary_ko": [
+    "알파벳의 자본 지출에 가려진 투자 가치를 살펴봐야 한다고 주장했다."
    ],
    "tone": "pos"
   },
@@ -63999,126 +64208,6 @@
    ],
    "summary_ko": [
     "일라이릴리의 유명 체중 감량 치료제가 더 어린 연령층으로 확대될 가능성을 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "df43f541ddd7547a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $1.3 Billion Fund Just Bought These 3 Stocks",
-   "excerpt": "Key TakeawaysInsight Holdings Group’s newest 13F shows its three biggest new or added positions last quarter were Microsoft, Bloom Energy and a third stock. All three have fallen since Sept.",
-   "url": "https://www.tikr.com/blog/a-1-3-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-5m5mfwj7&.tsrc=rss",
-   "published": "2026-11-21T17:21:55+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "인사이트 홀딩스 그룹의 13F 보고서를 통해 지난 분기 마이크로소프트 등 3개 종목을 매수했다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "84a7f04b429db4d8",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is IonQ Stock a Buy Right Now?",
-   "excerpt": "IonQ has a long way to go before becoming a viable company.",
-   "url": "https://www.fool.com/investing/2026/11/21/is-ionq-stock-a-buy-right-now/?.tsrc=rss",
-   "published": "2026-11-21T17:20:02+00:00",
-   "tickers": [
-    "IONQ"
-   ],
-   "summary_ko": [
-    "아이온큐가 생존 가능한 기업이 되기까지는 갈 길이 멀다고 언급했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "15643c4c0b28ac0c",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Walmart shares delivery update consumers need to know about",
-   "excerpt": "The company is taking big steps to make shopping more convenient, and its efforts are paying off.",
-   "url": "https://www.thestreet.com/retail/walmart-shares-delivery-update-consumers-need-to-know-about?.tsrc=rss",
-   "published": "2026-11-21T17:17:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "summary_ko": [
-    "월마트가 쇼핑 편의성을 높이기 위한 노력을 기울이고 있다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "0b557c0071f3a89d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Bank of America (BAC) Could Be 25% Undervalued On Bylaw Reset And Share Price Slide",
-   "excerpt": "Bank of America (BAC) has quietly reshaped its bylaws after a November 19 board meeting, tightening timelines for shareholder proposals and director nominations while clarifying how meetings, voting standards, and director terms will work from 2027 onward. Recent trading has been rough for Bank of America, with the share price declining 3.15% in the last session and down 23.75% over 90 days. At the same time, multi year total shareholder returns of 70.02% over three years and 16.18% over five...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-could-25-170738362.html?.tsrc=rss",
-   "published": "2026-11-21T17:07:38+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "summary_ko": [
-    "뱅크오브아메리카가 정관을 개정하고 최근 주가 하락을 겪었다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "a2380be67a3f8e0e",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Billionaire Investor Philippe Laffont Just Highlighted 2 Companies He Expects to Be Big Winners of the Agentic AI Era",
-   "excerpt": "The rise of agentic AI could boost plenty of businesses, but Laffont is putting his money into Intel and Meta Platforms.",
-   "url": "https://www.fool.com/investing/2026/11/21/billionaire-investor-philippe-laffont-just-highlighted-2-companies-he-expects-to-be-big-winners-of-the-agentic-ai-era/?.tsrc=rss",
-   "published": "2026-11-21T17:04:02+00:00",
-   "tickers": [
-    "META",
-    "INTC"
-   ],
-   "summary_ko": [
-    "필립 라퐁이 에이전틱 AI 시대의 수혜주로 인텔과 메타를 꼽았다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "3d9da646b1af98e2",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Anthropic IPO Fails to Halt AI Selloff, Ditching the Kitchen for Thanksgiving",
-   "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman & Spike Mendelsohn, Seaport Research Partners Managing Director & Chief Equity Strategist Jonathan Golub, The New Yorker Staff Writer Jon Lee Anderson and The Atlantic Contributing Writer & “The Best Kind of American” Author Kim Ghattas. 1)Chapters: 00:00:00 - Bloomberg This Weekend Begins 00:01:22 - News Now with Lisa Mateo 00:02:58 - Tech Rout Deepens After Anthropic’s Record IPO 00:07:46 - Anthropic CFO: “A Lot of Options” For Buying Compute 00:13:48 - Nvidia Plunges 48% From Peak Amid Huang Scandal 00:15:07 - Huang Says He’s Willing to Return as Nvidi",
-   "url": "https://www.youtube.com/watch?v=7AkWiMDPAio",
-   "published": "2026-11-21T17:02:13+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "앤트로픽의 IPO에도 불구하고 AI 관련 주식 매도세가 이어졌다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "59ed0c9a16b13b60",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Tech Outages Drive Costco Surge: How Much Emergency Prep Should You Buy?",
-   "excerpt": "Recent tech outages prompted a surge in panic buying at Costco. How much emergency preparation is necessary?",
-   "url": "https://moneylion.com/trending/money/tech-outages-drive-costco-surge-emergency-prep?.tsrc=rss",
-   "published": "2026-11-21T17:00:42+00:00",
-   "tickers": [
-    "COST"
-   ],
-   "summary_ko": [
-    "최근의 기술적 장애로 인해 코스트코에서 비상 용품 사재기 현상이 발생했다고 전했다."
    ],
    "tone": "pos"
   }
