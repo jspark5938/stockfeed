@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-28T12:30:31.441861+00:00",
+ "updated": "2026-11-28T13:00:43.036508+00:00",
  "posts": [
+  {
+   "id": "fc9610b7451cb4e8",
+   "kind": "youtube",
+   "source": "Bloomberg Television",
+   "author": "Bloomberg Television",
+   "title": "Walmart Leans on Value and AI for Holidays",
+   "excerpt": "Walmart says shoppers remain resilient but are being thoughtful about holiday spending, seeking value on everything from meals and toys to fashion and beauty. On Bloomberg This Weekend, Walmart Chief Merchandising Officer Julie Barber tells host Lisa Mateo how the retailer is using its Sparky AI assistant to help customers research gifts, plan meals and shop more conveniently. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Business on: X: Facebook: Instagram: TikTok: Reddit: LinkedIn: More from B",
+   "url": "https://www.youtube.com/watch?v=ELyfKlUNWKQ",
+   "published": "2026-11-28T12:52:58+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "summary_ko": [
+    "월마트 임원이 소비자들이 연말 쇼핑에서 가치를 중시하고 있다고 블룸버그에서 밝혔다.",
+    "회사는 고객의 선물 검색과 식단 계획을 돕기 위해 AI 비서 스파키를 활용하고 있다고 전했다."
+   ],
+   "tone": "pos"
+  },
+  {
+   "id": "ddcd0ae6c87497f7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Dow Jones Futures: Tesla Leads 7 Buys After Bullish Market Move; Nvidia's Jensen Huang On Capitol Hill",
+   "excerpt": "In a wild, powerful market week, Tesla stock leads new buys. Nvidia's Jensen Huang is heading to Capitol Hill.",
+   "url": "https://finance.yahoo.com/m/5b917298-e5b5-3d87-b1fa-f7cad345af64/dow-jones-futures%3A-tesla.html?.tsrc=rss",
+   "published": "2026-11-28T12:26:16+00:00",
+   "tickers": [
+    "NVDA",
+    "TSLA"
+   ],
+   "summary_ko": [
+    "변동성 큰 시장 주간에 테슬라가 매수 종목들을 주도하고 있다고 전했다.",
+    "엔비디아의 젠슨 황이 의회에 방문할 예정이라고 다뤘다."
+   ],
+   "tone": "neu"
+  },
+  {
+   "id": "269db887c354504e",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Nvidia Faces Yet Another Risk. Here's What It Means for Investors.",
+   "excerpt": "A credit rating cut may be on the way.",
+   "url": "https://www.fool.com/investing/2026/11/28/nvidia-faces-yet-another-risk-here-s-what-it-means-for-investors/?.tsrc=rss",
+   "published": "2026-11-28T12:25:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아가 또 다른 위험에 직면해 있다고 다뤘다.",
+    "신용등급 강하가 다가올 수 있음을 시사했다."
+   ],
+   "tone": "neg"
+  },
   {
    "id": "fb0db421cd3ce01a",
    "kind": "news",
@@ -64302,167 +64357,6 @@
    "summary_ko": [
     "석유 공급 과잉 전망과 중동 리스크가 맞물리면서 에너지 시장과 전기차 관련주에 관심이 쏠린다고 전했다.",
     "미국에 상장된 전기 교통 및 배터리 생태계 관련 종목 3가지를 주목할 리스트로 소개했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "bd6c9f3d9552134f",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Is AMD the Stock to Buy With Nvidia in Limbo?",
-   "excerpt": "AMD may be the popular pick, but is it the right one?",
-   "url": "https://www.fool.com/investing/2026/11/21/is-amd-the-stock-to-buy-with-nvidia-in-limbo/?.tsrc=rss",
-   "published": "2026-11-21T13:00:02+00:00",
-   "tickers": [
-    "NVDA",
-    "AMD"
-   ],
-   "summary_ko": [
-    "엔비디아가 불확실성에 직면한 상황에서 AMD가 대안으로 꼽히는지에 대해 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "5cb69f3726688363",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Here's How Many Shares of Starbucks You’d Need to Cover $744 in Coffee Using Dividends Alone",
-   "excerpt": "Making a five-figure investment for free coffee may prove to be a tall order, especially after this stock's recent rally.",
-   "url": "https://www.fool.com/investing/2026/11/21/heres-how-many-shares-of-starbucks-youd-need-to-cover-744-in-coffee-using-dividends-alone/?.tsrc=rss",
-   "published": "2026-11-21T13:00:02+00:00",
-   "tickers": [
-    "SBUX"
-   ],
-   "summary_ko": [
-    "배당금만으로 744달러어치 커피값을 충당하려면 스타벅스 주식이 얼마나 필요한지 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "eb6fc9b95575a381",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
-   "excerpt": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections.",
-   "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-asks-save-ai-130000489.html?.tsrc=rss",
-   "published": "2026-11-21T13:00:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "앤스로픽 관련 충격 등으로 월가가 AI 거래의 향방을 주시하고 있다고 다뤘다."
-   ],
-   "tone": "neg"
-  },
-  {
-   "id": "41c713821e70fada",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Kalshi Says New York Could Shut It Down Nationwide",
-   "excerpt": "A judge just sent New York's case against Kalshi back to state court, and one headquarters address could turn a local fight into a national one. Robinhood is racing to shift its prediction-market flow before a single order lands.",
-   "url": "https://247wallst.com/investing/2026/11/21/kalshi-says-new-york-could-shut-it-down-nationwide/?.tsrc=rss",
-   "published": "2026-11-21T12:57:13+00:00",
-   "tickers": [
-    "HOOD"
-   ],
-   "summary_ko": [
-    "뉴욕주의 소송이 주 법원으로 환송되면서 칼시가 전국적인 영업 중단 위기에 처할 수 있다고 전했다.",
-    "로빈후드는 예측 시장 흐름을 발빠르게 전환하려 한다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "60bdfa47d70ca528",
-   "kind": "youtube",
-   "source": "Bloomberg Television",
-   "author": "Bloomberg Television",
-   "title": "Anthropic Makes Its Public Market Debut",
-   "excerpt": "Bloomberg’s Ed Ludlow tells Bloomberg This Weekend that Anthropic’s landmark IPO tested investor appetite for frontier AI, giving the company fresh capital for its enormous computing needs as OpenAI considers its own path to the public markets. Speaking with hosts David Gura and Christina Ruffini, Ludlow also examines the turmoil at Nvidia following Jensen Huang’s departure and the uncertainty surrounding the chipmaker’s search for new leadership. -------- More on Bloomberg Television and Markets Like this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: Visit for business news & analysis, up-to-the-minute market data, features, profiles and more. Connect with Bloomberg Television on: X: Facebook: Instagram: Connect with Bloomberg Bu",
-   "url": "https://www.youtube.com/watch?v=BXeSGFq5QMw",
-   "published": "2026-11-21T12:57:04+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "블룸버그의 에드 루들로는 앤스로픽의 공개 시장 데뷔가 AI 분야에 대한 투자자들의 관심을 시험했다고 전했다.",
-    "또한 젠슨 황의 이탈 이후 엔비디아의 혼란과 새로운 리더십 탐색의 불확실성을 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "f091af1d4c01776a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Anthropic's Record IPO Could Ease a Major Concern for Broadcom Investors",
-   "excerpt": "Anthropic's IPO and private placement raised about $117.6 billion, strengthening its ability to fund $161.2 billion in chip commitments to Broadcom, a key AI semiconductor supplier.",
-   "url": "https://www.marketbeat.com/articles/anthropics-record-ipo-could-ease-a-major-concern-for-broadcom-investors/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-   "published": "2026-11-21T12:55:00+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "summary_ko": [
-    "앤스로픽의 대규모 자금 조달이 브로드컴 투자자들의 주요 우려를 완화할 수 있다고 전망했다.",
-    "약 1,176억 달러를 조달해 브로드컴과의 칩 공급 계약에 필요한 자금 마련 능력을 강화했다고 전했다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "6874715e879b8fbd",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "A $3.8 Billion Fund Just Bought These 3 Stocks",
-   "excerpt": "Key TakeawaysAvala Global, which manages $3. 8 billion, opened stakes in Microsoft and Sandisk and raised its Intel stake 431% in the third quarter, its latest 13F shows.",
-   "url": "https://www.tikr.com/blog/a-3-8-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-g555pj6m&.tsrc=rss",
-   "published": "2026-11-21T12:50:37+00:00",
-   "tickers": [
-    "MSFT",
-    "INTC"
-   ],
-   "summary_ko": [
-    "38억 달러 규모의 펀드를 운용하는 아발라 글로벌이 3분기에 마이크로소프트와 샌디스크 지분을 신규 매수했다고 전했다.",
-    "또한 인텔 지분을 431% 늘렸다고 13F 공시를 통해 밝혔다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "c3e710782b18d04b",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Nvidia Is CoreWeave’s “Key Sole Supplier” and $6.3 Billion Backstop. Congress Is Now Looking",
-   "excerpt": "Key TakeawaysA bipartisan Senate bill would make public companies disclose major AI financing, and Sen. Mark Warner pointed to Nvidia’s backing of its own chip buyers.",
-   "url": "https://www.tikr.com/blog/nvidia-is-coreweaves-key-sole-supplier-and-6-3-billion-backstop-congress-is-now-looking?ref=yahoofinance&tlnk=yf-261121-4qc52p65&.tsrc=rss",
-   "published": "2026-11-21T12:49:57+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "엔비디아가 코어위브의 핵심 공급사이자 자금 지원 배경으로 꼽히는 가운데 의회가 이를 주시하고 있다고 다뤘다.",
-    "초당파적 상원 법안은 상장사들이 주요 AI 자금 조달 내역을 공시하도록 만들 전망이라고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "41f735457c5f3e23",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "AMD Is “A Direct Stakeholder in Anthropic.” That’s Up to $5 Billion Riding on Its IPO",
-   "excerpt": "Key TakeawaysAnthropic fell 8. 5% on its second day of trading, and AMD, which bought $2.",
-   "url": "https://www.tikr.com/blog/amd-is-a-direct-stakeholder-in-anthropic-thats-up-to-5-billion-riding-on-its-ipo?ref=yahoofinance&tlnk=yf-261121-5x6px635&.tsrc=rss",
-   "published": "2026-11-21T12:38:07+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "AMD가 앤스로픽의 직접적인 이해관계자로서 지분을 보유하고 있다고 전했다.",
-    "상장 둘째 날 앤스로픽 주가가 8.5% 하락했다고 언급했다."
    ],
    "tone": "neu"
   }
