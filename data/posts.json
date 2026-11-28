@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-28T05:00:42.793290+00:00",
+ "updated": "2026-11-28T05:30:31.161896+00:00",
  "posts": [
+  {
+   "id": "69ee6db2caaa3ed7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Coinbase CEO Brian Armstrong Scales Back Bitcoin Prediction, Still Sees Nearly 7x Upside By 2030",
+   "excerpt": "Armstrong said the low of this cycle is still approximately four times the low of the last cycle.",
+   "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/coinbase-ceo-brian-armstrong-scales-back-bitcoin-prediction-still-sees-nearly-7x-upside-by-2030/cNRRYbqR9Vo?.tsrc=rss",
+   "published": "2026-11-28T05:18:47+00:00",
+   "tickers": [
+    "COIN"
+   ],
+   "summary_ko": [
+    "코인베이스 CEO 브라이언 암스트롱이 비트코인 가격 전망치를 하향 조정했다고 다뤘다.",
+    "그럼에도 2030년까지 거의 7배 상승할 여력이 있다고 전망했다.",
+    "이번 사이클의 저점이 지난 사이클 저점의 약 4배 수준이라고 언급했다."
+   ],
+   "tone": "pos"
+  },
   {
    "id": "aaa5e2b5a9ce2827",
    "kind": "youtube",
@@ -64626,61 +64645,6 @@
     "칩 메이커 주식이 급락한 배경에 세 가지 요인이 있다고 다뤘다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "07e242f84aacc538",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Follow the Smart Money: 4 AI Stocks Billionaire Dan Loeb Just Bought",
-   "excerpt": "Hedge fund manager Dan Loeb was buying shares of Nvidia, Space Exploration Technologies, Microsoft, and Meta Platforms in Q3 2026.",
-   "url": "https://www.fool.com/investing/2026/11/21/follow-the-smart-money-4-ai-stocks-billionaire-dan-loeb-just-bought/?.tsrc=rss",
-   "published": "2026-11-21T05:20:02+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT",
-    "META"
-   ],
-   "summary_ko": [
-    "억만장자 댄 롭의 헤지펀드가 2026년 3분기에 엔비디아, 마이크로소프트, 메타플랫폼스 등의 주식을 매수했다고 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "44ac337bebe1b4d9",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Did Microsoft AI Partnership Just Shift Danaher's (DHR) Investment Narrative?",
-   "excerpt": "Danaher announced a partnership with Microsoft to build AI assisted, cloud based scientific instruments and lab software, with early tools such as MetaXpress Acquire AI Assistant already moving toward commercial rollout. The push toward an interoperable agent platform suggests Danaher is trying to embed its hardware more deeply into customers’ workflows, which could reinforce recurring software and consumables usage over time. Now the focus shifts to how this AI centric tie up with Microsoft...",
-   "url": "https://finance.yahoo.com/technology/ai/articles/did-microsoft-ai-partnership-just-051538591.html?.tsrc=rss",
-   "published": "2026-11-21T05:15:38+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "summary_ko": [
-    "다내허가 마이크로소프트와 협력해 AI 기반 클라우드 과학 기기와 실험실 소프트웨어를 구축한다고 밝혔다.",
-    "이번 협업으로 하드웨어를 고객 워크플로우에 깊이 통합하려는 시도를 다뤘다."
-   ],
-   "tone": "pos"
-  },
-  {
-   "id": "fdb08f21a90e70e4",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Palo Alto Networks (PANW) Stock Gets Fair Value Bump After Q1 Beat And Applied Compute",
-   "excerpt": "The fair value target for Palo Alto Networks has shifted modestly higher, from about US$396.12 to about US$408.74, signaling a recalibration of what analysts see as a reasonable price level for the stock. Much of the recent discussion ties this adjustment to Q1 2027 results, the Applied Compute announcement and growing interest in how AI related security demand and platform consolidation could support that updated view. In the sections that follow, you will see how these moving pieces shape...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-panw-stock-051145964.html?.tsrc=rss",
-   "published": "2026-11-21T05:11:45+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "summary_ko": [
-    "팔로알토 네트웍스의 적정 가치 목표치가 상향 조정되었다고 전했다.",
-    "이는 1분기 실적과 응용 컴퓨팅 발표 등이 반영된 결과라고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
