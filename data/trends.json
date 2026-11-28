@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:30:37.133940+00:00",
+ "updated": "2026-11-28T03:00:40.087726+00:00",
  "trends": [
   {
    "ticker": "ADBE",
@@ -37,6 +37,13 @@
    "ratio": 5.0
   },
   {
+   "ticker": "MSFT",
+   "name_ko": "마이크로소프트",
+   "mentions_24h": 31,
+   "mentions_prev_24h": 7,
+   "ratio": 4.43
+  },
+  {
    "ticker": "QBTS",
    "name_ko": "디웨이브",
    "mentions_24h": 4,
@@ -49,13 +56,6 @@
    "mentions_24h": 4,
    "mentions_prev_24h": 1,
    "ratio": 4.0
-  },
-  {
-   "ticker": "MSFT",
-   "name_ko": "마이크로소프트",
-   "mentions_24h": 31,
-   "mentions_prev_24h": 8,
-   "ratio": 3.88
   },
   {
    "ticker": "JPM",
@@ -107,6 +107,13 @@
    "ratio": 2.1
   },
   {
+   "ticker": "AMZN",
+   "name_ko": "아마존",
+   "mentions_24h": 40,
+   "mentions_prev_24h": 20,
+   "ratio": 2.0
+  },
+  {
    "ticker": "COIN",
    "name_ko": "코인베이스",
    "mentions_24h": 6,
@@ -142,13 +149,6 @@
    "ratio": 2.0
   },
   {
-   "ticker": "AMZN",
-   "name_ko": "아마존",
-   "mentions_24h": 40,
-   "mentions_prev_24h": 21,
-   "ratio": 1.9
-  },
-  {
    "ticker": "GOOGL",
    "name_ko": "알파벳(구글)",
    "mentions_24h": 24,
@@ -156,18 +156,18 @@
    "ratio": 1.71
   },
   {
+   "ticker": "TSLA",
+   "name_ko": "테슬라",
+   "mentions_24h": 27,
+   "mentions_prev_24h": 18,
+   "ratio": 1.5
+  },
+  {
    "ticker": "PANW",
    "name_ko": "팔로알토",
    "mentions_24h": 6,
    "mentions_prev_24h": 4,
    "ratio": 1.5
-  },
-  {
-   "ticker": "TSLA",
-   "name_ko": "테슬라",
-   "mentions_24h": 26,
-   "mentions_prev_24h": 18,
-   "ratio": 1.44
   },
   {
    "ticker": "AVGO",
@@ -193,9 +193,9 @@
   {
    "ticker": "NVDA",
    "name_ko": "엔비디아",
-   "mentions_24h": 127,
-   "mentions_prev_24h": 99,
-   "ratio": 1.28
+   "mentions_24h": 129,
+   "mentions_prev_24h": 98,
+   "ratio": 1.32
   },
   {
    "ticker": "SNOW",
@@ -219,6 +219,13 @@
    "ratio": 1.2
   },
   {
+   "ticker": "WMT",
+   "name_ko": "월마트",
+   "mentions_24h": 15,
+   "mentions_prev_24h": 13,
+   "ratio": 1.15
+  },
+  {
    "ticker": "AAPL",
    "name_ko": "애플",
    "mentions_24h": 32,
@@ -231,13 +238,6 @@
    "mentions_24h": 14,
    "mentions_prev_24h": 13,
    "ratio": 1.08
-  },
-  {
-   "ticker": "WMT",
-   "name_ko": "월마트",
-   "mentions_24h": 15,
-   "mentions_prev_24h": 14,
-   "ratio": 1.07
   },
   {
    "ticker": "MU",
