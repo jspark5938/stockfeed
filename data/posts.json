@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-28T11:00:42.219574+00:00",
+ "updated": "2026-11-28T11:30:31.366919+00:00",
  "posts": [
+  {
+   "id": "640e056a6998a9d7",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Shopify (SHOP) Stock May Be 17% Stretched Despite Open Weight AI News",
+   "excerpt": "Shopify has had a mixed share price journey in recent years, and the question now is whether the current US$141.78 price tag lines up with the cash flows the business is expected to generate. With investors focused on what the next few years of cash generation might look like, the debate turns to what the stock is really worth based on those underlying streams. Over the past 3 years the stock has gained 92.0%, which puts a lot of weight on whether Shopify's future cash flows can support that...",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/shopify-shop-stock-may-17-110804422.html?.tsrc=rss",
+   "published": "2026-11-28T11:08:04+00:00",
+   "tickers": [
+    "SHOP"
+   ],
+   "summary_ko": [
+    "쇼피파이 주가와 현금 흐름의 적정 가치를 다뤘다.",
+    "향후 현금 창출 능력이 주가 상승을 뒷받침할 수 있을지 논의했다."
+   ],
+   "tone": "neu"
+  },
   {
    "id": "ce6e6ef180beb631",
    "kind": "news",
@@ -195,6 +213,42 @@
     "워런 버핏의 발언을 통해 주식 시장 하락에 대비한 현명한 대처 방법을 다뤘다."
    ],
    "tone": "neu"
+  },
+  {
+   "id": "627862b49ec655eb",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Is Erste Group Wrong to Give Up on Salesforce? Wall Street Still Sees $282",
+   "excerpt": "Key TakeawaysErste Group downgraded Salesforce to Hold from Buy on Nov. 27 because its revenue and operating profit are growing more slowly than its rivals’.",
+   "url": "https://www.tikr.com/blog/is-erste-group-wrong-to-give-up-on-salesforce-wall-street-still-sees-282?ref=yahoofinance&tlnk=yf-261128-2m3h946v&.tsrc=rss",
+   "published": "2026-11-28T07:51:25+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "summary_ko": [
+    "에르스테 그룹이 세일즈포스의 투자의견을 하향 조정했다고 다뤘다.",
+    "경쟁사 대비 매출과 영업이익 성장세가 느리다는 점을 이유로 들었다."
+   ],
+   "tone": "neg"
+  },
+  {
+   "id": "320e5e2d6dc85083",
+   "kind": "news",
+   "source": "Yahoo Finance",
+   "author": "Yahoo Finance",
+   "title": "Not Good: Nvidia Chips Turn Up at China Site Tied to Alice Huang. Its AA Rating Is at Risk",
+   "excerpt": "Key TakeawaysNvidia Blackwell chips, including a GB300 NVL72 rack, were reportedly installed at a Shanghai data center tied to Alice Huang. S&P said any downgrade of Nvidia’s AA rating would be limited to one notch unless disclosures show harm to its reputation or business prospects.",
+   "url": "https://www.tikr.com/blog/not-good-nvidia-chips-turn-up-at-china-site-tied-to-alice-huang-its-aa-rating-is-at-risk?ref=yahoofinance&tlnk=yf-261128-w4jm7vpw&.tsrc=rss",
+   "published": "2026-11-28T07:50:16+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "summary_ko": [
+    "엔비디아 칩이 중국 상하이의 데이터 센터에 설치된 것으로 보도되었다고 전했다.",
+    "S&P는 신용등급 강등이 한 단계로 제한될 수 있다고 언급했다."
+   ],
+   "tone": "neg"
   },
   {
    "id": "a3652745f9886afd",
@@ -64297,58 +64351,6 @@
     "반면 다른 3개 종목은 수혜를 볼 것이라고 전망했다."
    ],
    "tone": "neg"
-  },
-  {
-   "id": "b2c2388887c876c1",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "‘Near Zero Chance’: Gary Black Explains Why Nvidia Board Won’t Reconsider Jensen Huang, Crypto Bettors See This Outcome",
-   "excerpt": "Investor Gary Black dismissed speculation on Wednesday that the NVIDIA Corp. board would reinstate ousted CEO Jensen Huang and cryptocurrency punters seem to agree. ‘The Board Would Look Like Clowns’ Black responded to X user Farzad, who finds it “pretty...",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/near-zero-chance-gary-black-112646919.html?.tsrc=rss",
-   "published": "2026-11-21T11:26:46+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "개리 블랙은 엔비디아 이사회 가 젠슨 황을 재선임할 가능성이 희박하다고 밝혔다.",
-    "암호화폐 베팅 참가자들도 이러한 전망에 동의하고 있다고 전했다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "3a7261aac68ac40a",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cathie Wood Just Sold $17 Million of Nvidia Across 2 ARK Funds",
-   "excerpt": "Key TakeawaysCathie Wood’s ARK sold 135,760 NVIDIA shares from two ETFs on Friday, worth about $17 million at Friday’s close. The sale came to about a tenth of a percent of each ETF, a trim of a stock that made up 3% of ARK’s 13F stocks at Sept.",
-   "url": "https://www.tikr.com/blog/cathie-wood-just-sold-17-million-of-nvidia-across-2-ark-funds?ref=yahoofinance&tlnk=yf-261121-6p79vwqw&.tsrc=rss",
-   "published": "2026-11-21T11:17:56+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "summary_ko": [
-    "캐시 우드의 ARK 펀드가 두 개의 펀드를 통해 엔비디아 주식 1,700만 달러어치를 매도했다고 다뤘다."
-   ],
-   "tone": "neu"
-  },
-  {
-   "id": "62ae460828a05c7d",
-   "kind": "news",
-   "source": "Yahoo Finance",
-   "author": "Yahoo Finance",
-   "title": "Cathie Wood Just Bought $21 Million of Advanced Micro Devices Across 2 ARK Funds",
-   "excerpt": "Key TakeawaysCathie Wood’s ARK Invest bought 49,745 shares of Advanced Micro Devices across two ETFs on Nov. 20, worth about $21 million at that day’s close.",
-   "url": "https://www.tikr.com/blog/cathie-wood-just-bought-21-million-of-advanced-micro-devices-across-2-ark-funds?ref=yahoofinance&tlnk=yf-261121-p8vrq959&.tsrc=rss",
-   "published": "2026-11-21T11:17:12+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "summary_ko": [
-    "캐시 우드의 ARK 펀드가 AMD 주식을 매수했다고 다뤘다."
-   ],
-   "tone": "pos"
   }
  ]
 }
